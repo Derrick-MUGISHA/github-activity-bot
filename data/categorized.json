@@ -211,21 +211,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
       "published_at": "2026-07-21T03:48:40Z",
@@ -269,36 +254,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
-    },
-    {
-      "title": "Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG",
-      "url": "https://dev.to/gde/robust-gap-achieving-zero-hallucination-causal-summarization-in-hierarchical-rag-2606",
-      "published_at": "2026-07-19T06:04:17Z",
-      "description": "Abstract   This article introduces Robust-GAP, a hierarchical Retrieval-Augmented...",
-      "tags": [
-        "ai",
-        "antigravity",
-        "llm",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm3du9uxgsk71qsk0vgyp.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
@@ -523,6 +478,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Need a break? Play today's game from The Daily Context.",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
       "published_at": "2026-06-29T20:00:00Z",
@@ -732,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 597,
       "user": "slvDev"
     },
     {
@@ -747,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "MobAI-App"
     },
     {
@@ -762,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 69,
       "user": "iximiuz"
     },
     {
@@ -777,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1611,
       "user": "Vincentwei1021"
     },
     {
@@ -792,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 952,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 726,
       "user": "pireel"
     },
     {
@@ -837,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "neural-maze"
     },
     {
@@ -1281,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 620,
       "user": "gnipbao"
     },
     {
@@ -1296,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 544,
       "user": "CatsJuice"
     },
     {
@@ -1311,8 +1281,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 451,
       "user": "zeus-panel"
+    },
+    {
+      "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+      "published_at": "2026-07-24T18:16:29Z",
+      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "melloworchid8rr6g"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -1330,21 +1315,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
-      "published_at": "2026-07-24T18:16:29Z",
-      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
-      "source": "GitHub",
-      "stars": 362,
-      "user": "melloworchid8rr6g"
-    },
-    {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "url": "https://github.com/Charles-0509/Grok-Register",
       "published_at": "2026-07-20T16:35:09Z",
@@ -1356,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "Charles-0509"
     },
     {
@@ -1371,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1611,
       "user": "Vincentwei1021"
     },
     {
@@ -1386,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 952,
       "user": "Jakubantalik"
     },
     {
@@ -1401,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 726,
       "user": "pireel"
     },
     {
@@ -1556,7 +1526,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 30 answers · score 17",
+      "description": "Stack Overflow question · 29 answers · score 18",
       "tags": [
         "javascript",
         "html",
@@ -1579,21 +1549,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ben Roriz-Dasilva"
-    },
-    {
-      "title": "How to normalize complex JSON using pandas?",
-      "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
-      "published_at": "2026-07-24T11:07:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "json",
-        "pandas",
-        "normalization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user22099079"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1702,21 +1657,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
@@ -1865,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3878,
+      "stars": 3966,
       "user": "andrewyng"
     },
     {
@@ -1880,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 833,
       "user": "powerycy"
     },
     {
@@ -1895,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 597,
       "user": "slvDev"
     },
     {
@@ -1943,6 +1883,19 @@
       "user": "Major Tom"
     },
     {
+      "title": "How to use a list in a pattern in re.match",
+      "url": "https://stackoverflow.com/questions/79985798/how-to-use-a-list-in-a-pattern-in-re-match",
+      "published_at": "2026-07-25T11:10:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "python-re"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Burner Patty"
+    },
+    {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
       "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
       "published_at": "2026-07-25T07:12:40.000Z",
@@ -1970,6 +1923,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hardy"
+    },
+    {
+      "title": "Using the Pynput Listener and Key Pressing for the Numpad on Linux?",
+      "url": "https://stackoverflow.com/questions/79985612/using-the-pynput-listener-and-key-pressing-for-the-numpad-on-linux",
+      "published_at": "2026-07-24T16:02:09.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pynput",
+        "numpad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "paush"
     },
     {
       "title": "How to access QML managed QSlider from PySide?",
@@ -2030,20 +1997,6 @@
       "user": "JacquesStrydom"
     },
     {
-      "title": "Using the Pynput Listener and Key Pressing for the Numpad on Linux?",
-      "url": "https://stackoverflow.com/questions/79985612/using-the-pynput-listener-and-key-pressing-for-the-numpad-on-linux",
-      "published_at": "2026-07-24T16:02:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pynput",
-        "numpad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "paush"
-    },
-    {
       "title": "What is best practice for preventing a class attribute from becoming stale data?",
       "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
       "published_at": "2026-07-23T22:15:33.000Z",
@@ -2055,21 +2008,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toothpick Anemone"
-    },
-    {
-      "title": "How to normalize complex JSON using pandas?",
-      "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
-      "published_at": "2026-07-24T11:07:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "json",
-        "pandas",
-        "normalization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user22099079"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2105,21 +2043,6 @@
       "user": "Stephanie Wong"
     },
     {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
       "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
       "published_at": "2026-07-14T11:59:15Z",
@@ -2133,6 +2056,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2266,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "neural-maze"
     }
   ],
@@ -2325,7 +2263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 726,
       "user": "pireel"
     },
     {
@@ -2378,7 +2316,7 @@
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 30 answers · score 17",
+      "description": "Stack Overflow question · 29 answers · score 18",
       "tags": [
         "javascript",
         "html",
@@ -2445,7 +2383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "MobAI-App"
     },
     {
@@ -2554,21 +2492,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2612,21 +2535,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "From Apple Health Data to Clinical Storytelling: Building an AI-Powered Report with Python and Gemini",
-      "url": "https://dev.to/gdg/from-apple-health-data-to-clinical-storytelling-building-an-ai-powered-report-with-python-and-3n8n",
-      "published_at": "2026-07-20T09:55:58Z",
-      "description": "Introduction   At recent technology conferences, one topic has caught my attention: every...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "python",
-        "learning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq48vupwybpdk6bjybb0l.png",
-      "source": "Dev.to",
-      "user": "Romina Elena Mendez Escobar"
     },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
@@ -2704,6 +2612,21 @@
       "user": "xbill"
     },
     {
+      "title": "Gemma4 DevOps In Action",
+      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
+      "published_at": "2026-07-20T14:20:31Z",
+      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
+      "tags": [
+        "ai",
+        "aws",
+        "devops",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
       "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
       "published_at": "2026-06-23T03:39:55Z",
@@ -2730,7 +2653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 451,
       "user": "zeus-panel"
     }
   ],
@@ -2759,7 +2682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 451,
       "user": "zeus-panel"
     },
     {
@@ -2789,8 +2712,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "neural-maze"
+    },
+    {
+      "title": "stinkpot: sqlite-backed shell history",
+      "url": "https://tangled.org/oppi.li/stinkpot",
+      "published_at": "2026-07-25T04:10:12.785-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "go",
+        "show"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "op"
     },
     {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
@@ -3016,7 +2952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "Charles-0509"
     },
     {
@@ -3204,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 620,
       "user": "gnipbao"
     },
     {
@@ -3219,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 544,
       "user": "CatsJuice"
     },
     {
@@ -3234,8 +3170,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 451,
       "user": "zeus-panel"
+    },
+    {
+      "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+      "published_at": "2026-07-24T18:16:29Z",
+      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
+      "source": "GitHub",
+      "stars": 388,
+      "user": "melloworchid8rr6g"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -3253,21 +3204,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
-      "published_at": "2026-07-24T18:16:29Z",
-      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
-      "source": "GitHub",
-      "stars": 362,
-      "user": "melloworchid8rr6g"
-    },
-    {
       "title": "andrewyng/openworker - GitHub Repository",
       "url": "https://github.com/andrewyng/openworker",
       "published_at": "2026-07-20T01:52:32Z",
@@ -3279,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3878,
+      "stars": 3966,
       "user": "andrewyng"
     },
     {
@@ -3294,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 833,
       "user": "powerycy"
     },
     {
@@ -3309,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 597,
       "user": "slvDev"
     },
     {
@@ -3354,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "Charles-0509"
     },
     {
@@ -3384,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "MobAI-App"
     },
     {
@@ -3399,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 69,
       "user": "iximiuz"
     },
     {
@@ -3429,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1611,
       "user": "Vincentwei1021"
     },
     {
@@ -3444,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 952,
       "user": "Jakubantalik"
     },
     {
@@ -3459,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 726,
       "user": "pireel"
     },
     {
@@ -3519,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "neural-maze"
     },
     {
@@ -3549,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "rrrjqy66"
     },
     {
