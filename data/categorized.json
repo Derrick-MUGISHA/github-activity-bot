@@ -16,36 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
-      "published_at": "2026-07-23T23:57:31Z",
-      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
-      "tags": [
-        "ai",
-        "codex",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Investing in multi-agent AI safety research",
       "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
       "published_at": "2026-07-24T14:35:41Z",
@@ -59,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
       "source": "Dev.to",
       "user": "Gemini Team"
+    },
+    {
+      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
+      "published_at": "2026-07-24T12:27:58Z",
+      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
       "source": "Dev.to",
       "user": " Gábor Mészáros"
+    },
+    {
+      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
+      "published_at": "2026-07-23T23:57:31Z",
+      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
+      "tags": [
+        "ai",
+        "codex",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Kritt-ai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 608,
       "user": "slvDev"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "MobAI-App"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 73,
       "user": "iximiuz"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1620,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 958,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "pireel"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "neural-maze"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "Evokoa"
     },
     {
@@ -1266,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 545,
       "user": "CatsJuice"
     },
     {
@@ -1281,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "zeus-panel"
     },
     {
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Kritt-ai"
     },
     {
@@ -1326,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "Charles-0509"
     },
     {
@@ -1341,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1620,
       "user": "Vincentwei1021"
     },
     {
@@ -1356,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 958,
       "user": "Jakubantalik"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "pireel"
     },
     {
@@ -1401,8 +1401,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "RongleCat"
+    },
+    {
+      "title": "jquery.ripples causes random glitches after running for some time",
+      "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
+      "published_at": "2026-07-24T15:12:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "reactjs",
+        "webgl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ss511"
     },
     {
       "title": "Please help me with the design of an Agentic Chatbot System",
@@ -1431,21 +1446,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pete"
-    },
-    {
-      "title": "jquery.ripples causes random glitches after running for some time",
-      "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
-      "published_at": "2026-07-24T15:12:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "jquery",
-        "reactjs",
-        "webgl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ss511"
     },
     {
       "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
@@ -1805,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3966,
+      "stars": 4055,
       "user": "andrewyng"
     },
     {
@@ -1820,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 836,
       "user": "powerycy"
     },
     {
@@ -1835,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 608,
       "user": "slvDev"
     },
     {
@@ -1893,7 +1893,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Burner Patty"
+      "user": "Patypatty"
     },
     {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
@@ -2204,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "neural-maze"
     }
   ],
@@ -2263,7 +2263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "pireel"
     },
     {
@@ -2383,7 +2383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "MobAI-App"
     },
     {
@@ -2653,7 +2653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "zeus-panel"
     }
   ],
@@ -2682,7 +2682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "zeus-panel"
     },
     {
@@ -2712,7 +2712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "neural-maze"
     },
     {
@@ -2952,7 +2952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "Charles-0509"
     },
     {
@@ -3155,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 545,
       "user": "CatsJuice"
     },
     {
@@ -3170,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "zeus-panel"
     },
     {
@@ -3200,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Kritt-ai"
     },
     {
@@ -3215,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3966,
+      "stars": 4055,
       "user": "andrewyng"
     },
     {
@@ -3230,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 836,
       "user": "powerycy"
     },
     {
@@ -3245,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 608,
       "user": "slvDev"
     },
     {
@@ -3290,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "Charles-0509"
     },
     {
@@ -3320,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "MobAI-App"
     },
     {
@@ -3335,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 73,
       "user": "iximiuz"
     },
     {
@@ -3365,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1620,
       "user": "Vincentwei1021"
     },
     {
@@ -3380,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 958,
       "user": "Jakubantalik"
     },
     {
@@ -3395,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 727,
       "user": "pireel"
     },
     {
@@ -3425,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "RongleCat"
     },
     {
@@ -3455,8 +3455,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "neural-maze"
+    },
+    {
+      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
+      "published_at": "2026-07-23T09:43:07Z",
+      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "rrrjqy66"
     },
     {
       "title": "QW-AI-Code/Aether - GitHub Repository",
@@ -3474,21 +3489,6 @@
       "user": "QW-AI-Code"
     },
     {
-      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
-      "published_at": "2026-07-23T09:43:07Z",
-      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
-      "source": "GitHub",
-      "stars": 114,
-      "user": "rrrjqy66"
-    },
-    {
       "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
       "url": "https://github.com/Evokoa/pgContext",
       "published_at": "2026-07-21T06:57:38Z",
@@ -3500,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 111,
       "user": "Evokoa"
     },
     {
