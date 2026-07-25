@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--25-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-25 3:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-25 6:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -115,7 +115,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 | 19 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
 | 20 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
 
-<sub>Last fetched: Sat, 25 Jul 2026 03:08:28 CAT</sub>
+<sub>Last fetched: Sat, 25 Jul 2026 06:28:29 CAT</sub>
 
 
 ---
@@ -124,36 +124,36 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
+**1. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**2. `React` — What is the Virtual DOM and how does React use it?**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Execution timing, event loop phases
 
 </details>
 
-**3. `DataStructures` — Implement LRU Cache**
+**3. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -166,16 +166,16 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 42.6% | `████████████████████` |
+| **AI** | 76 | 41.5% | `████████████████████` |
 | **Tools** | 41 | 22.4% | `███████████░░░░░░░░░` |
 | **JavaScript** | 38 | 20.8% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
 | **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -196,14 +196,13 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.5%
-JavaScript      █████████████████████████ 24.4%
-Python          ████████████████████ 19.9%
-Java            ██████████████████ 17.9%
+Go              ██████████████████████████████ 29.7%
+JavaScript      █████████████████████████ 24.5%
+Python          ████████████████████ 20.0%
+Java            ██████████████████ 18.1%
 Rust            ██████ 5.8%
 Swift           █ 1.3%
 CSharp          █ 0.6%
-Kotlin          █ 0.6%
 
 ```
 
@@ -216,13 +215,12 @@ pie title Programming Languages Distribution
     "Rust" : 9
     "Swift" : 2
     "CSharp" : 1
-    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-44-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) 
 
 
 ---
@@ -274,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 25 Jul 2026 01:08:28 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 25 Jul 2026 04:28:29 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "Kritt-ai"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 465,
       "user": "slvDev"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 189,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1501,
       "user": "Vincentwei1021"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 936,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "steelbrain"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "neural-maze"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 112,
       "user": "QW-AI-Code"
     },
     {
@@ -839,18 +839,6 @@
       "source": "GitHub",
       "stars": 107,
       "user": "Evokoa"
-    },
-    {
-      "title": "Open Weights and American AI Leadership",
-      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-      "published_at": "2026-07-24T09:01:24.514-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "stick"
     },
     {
       "title": "Embedding models fail possibly on scientific characters no matter how the pdf is parsed",
@@ -881,22 +869,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ayoub Jeribi"
-    },
-    {
-      "title": "nRF24L01 Python (Luckfox Pico / Linux SPI) throwing MAX_RT / failing to communicate with ESP32 receiver nRF24L01",
-      "url": "https://stackoverflow.com/questions/79985596/nrf24l01-python-luckfox-pico-linux-spi-throwing-max-rt-failing-to-communic",
-      "published_at": "2026-07-24T15:05:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "embedded-linux",
-        "spi",
-        "radio-transmission",
-        "rockchip"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ZS6HJH"
     },
     {
       "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -1223,6 +1195,18 @@
       "user": "geoffschmidt"
     },
     {
+      "title": "Eloquent JavaScript 4th edition (2024)",
+      "url": "https://eloquentjavascript.net/",
+      "published_at": "2024-03-07T13:52:16Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "vajdagabor"
+    },
+    {
       "title": "Modern Javascript: Everything you missed over the last 10 years (2020)",
       "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
       "published_at": "2021-05-15T15:15:57Z",
@@ -1259,28 +1243,16 @@
       "user": "stanko"
     },
     {
-      "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
-      "url": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "published_at": "2025-11-12T10:12:53Z",
+      "title": "How to manage HTML DOM with vanilla JavaScript only?",
+      "url": "https://htmldom.dev/",
+      "published_at": "2020-04-02T12:29:04Z",
       "description": "HackerNews Discussion",
       "tags": [
         "JavaScript"
       ],
       "cover_image": null,
       "source": "HackerNews",
-      "user": "bertman"
-    },
-    {
-      "title": "Comcast is injecting 400+ lines of JavaScript into web pages",
-      "url": "http://forums.xfinity.com/t5/Customer-Service/Are-you-aware-Comcast-is-injecting-400-lines-of-JavaScript-into/td-p/3009551",
-      "published_at": "2017-12-10T08:40:59Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "CSDude"
+      "user": "velmu"
     },
     {
       "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
@@ -1294,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "gnipbao"
     },
     {
@@ -1309,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 530,
       "user": "CatsJuice"
     },
     {
@@ -1324,23 +1296,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "published_at": "2026-07-19T10:41:16Z",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
-      "source": "GitHub",
-      "stars": 306,
-      "user": "lyu0805"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -1354,8 +1311,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 313,
       "user": "melloworchid8rr6g"
+    },
+    {
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
+      "source": "GitHub",
+      "stars": 308,
+      "user": "lyu0805"
     },
     {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
@@ -1369,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 435,
       "user": "Charles-0509"
     },
     {
@@ -1384,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1501,
       "user": "Vincentwei1021"
     },
     {
@@ -1399,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 936,
       "user": "Jakubantalik"
     },
     {
@@ -1414,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "pireel"
     },
     {
@@ -1444,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 245,
       "user": "RongleCat"
     },
     {
@@ -1881,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3404,
+      "stars": 3560,
       "user": "andrewyng"
     },
     {
@@ -1896,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 813,
       "user": "powerycy"
     },
     {
@@ -1911,23 +1883,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 465,
       "user": "slvDev"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "published_at": "2026-07-20T14:23:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 386,
-      "user": "berabuddies"
+      "stars": 398,
+      "user": "AdelanSoulX"
     },
     {
       "title": "AdelanSupport/adelan-support - GitHub Repository",
@@ -1941,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 397,
       "user": "AdelanSupport"
     },
     {
@@ -1959,10 +1931,38 @@
       "user": "Major Tom"
     },
     {
+      "title": "How to find the position of a path of coordinate points where the average difference between it and another path of a similar shape is the lowest?",
+      "url": "https://stackoverflow.com/questions/79985711/how-to-find-the-position-of-a-path-of-coordinate-points-where-the-average-differ",
+      "published_at": "2026-07-25T02:24:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "micropython"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hardy"
+    },
+    {
+      "title": "How to access QML managed QSlider from PySide?",
+      "url": "https://stackoverflow.com/questions/79985639/how-to-access-qml-managed-qslider-from-pyside",
+      "published_at": "2026-07-24T18:05:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "qml",
+        "pyside",
+        "pyside6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Basilevs"
+    },
+    {
       "title": "How to perform an inner join in psycopg using a variable to join on",
       "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
       "published_at": "2026-07-24T19:17:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -1989,19 +1989,17 @@
       "user": "RF2"
     },
     {
-      "title": "How to access QML managed QSlider from PySide?",
-      "url": "https://stackoverflow.com/questions/79985639/how-to-access-qml-managed-qslider-from-pyside",
-      "published_at": "2026-07-24T18:05:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
+      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
+      "published_at": "2026-07-24T09:02:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "qml",
-        "pyside",
-        "pyside6"
+        "gekko"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Basilevs"
+      "user": "JacquesStrydom"
     },
     {
       "title": "Using the Pynput Listener and Key Pressing for the Numpad on Linux?",
@@ -2033,22 +2031,6 @@
       "user": "Ayoub Jeribi"
     },
     {
-      "title": "nRF24L01 Python (Luckfox Pico / Linux SPI) throwing MAX_RT / failing to communicate with ESP32 receiver nRF24L01",
-      "url": "https://stackoverflow.com/questions/79985596/nrf24l01-python-luckfox-pico-linux-spi-throwing-max-rt-failing-to-communic",
-      "published_at": "2026-07-24T15:05:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "embedded-linux",
-        "spi",
-        "radio-transmission",
-        "rockchip"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ZS6HJH"
-    },
-    {
       "title": "How to normalize complex JSON using pandas?",
       "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
       "published_at": "2026-07-24T11:07:02.000Z",
@@ -2075,19 +2057,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toothpick Anemone"
-    },
-    {
-      "title": "Sending android Notifications in python flet",
-      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
-      "published_at": "2026-07-24T14:25:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "flet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ahmed"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2284,7 +2253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "neural-maze"
     }
   ],
@@ -2320,6 +2289,18 @@
       "user": "Andrew Bone"
     },
     {
+      "title": "How to manage HTML DOM with vanilla JavaScript only?",
+      "url": "https://htmldom.dev/",
+      "published_at": "2020-04-02T12:29:04Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "velmu"
+    },
+    {
       "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
       "url": "https://github.com/pireel/pireel",
       "published_at": "2026-07-20T09:34:24Z",
@@ -2331,7 +2312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "pireel"
     },
     {
@@ -2439,7 +2420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 189,
       "user": "MobAI-App"
     },
     {
@@ -2456,19 +2437,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Testing Tester"
-    },
-    {
-      "title": "Sending android Notifications in python flet",
-      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
-      "published_at": "2026-07-24T14:25:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "flet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ahmed"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2756,21 +2724,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
-      "source": "GitHub",
-      "stars": 386,
-      "user": "berabuddies"
-    },
-    {
       "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
       "url": "https://github.com/0xtbug/unofficial-pddikti-api",
       "published_at": "2026-07-19T05:58:49Z",
@@ -2797,7 +2750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "neural-maze"
     },
     {
@@ -2816,7 +2769,7 @@
       "title": "How to perform an inner join in psycopg using a variable to join on",
       "url": "https://stackoverflow.com/questions/79985650/how-to-perform-an-inner-join-in-psycopg-using-a-variable-to-join-on",
       "published_at": "2026-07-24T19:17:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -3020,7 +2973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 435,
       "user": "Charles-0509"
     },
     {
@@ -3208,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "gnipbao"
     },
     {
@@ -3223,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 530,
       "user": "CatsJuice"
     },
     {
@@ -3238,23 +3191,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "Kritt-ai"
-    },
-    {
-      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "url": "https://github.com/lyu0805/OpenBrowser",
-      "published_at": "2026-07-19T10:41:16Z",
-      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
-      "source": "GitHub",
-      "stars": 306,
-      "user": "lyu0805"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -3268,8 +3206,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 313,
       "user": "melloworchid8rr6g"
+    },
+    {
+      "title": "lyu0805/OpenBrowser - 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "published_at": "2026-07-19T10:41:16Z",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/53092331?v=4",
+      "source": "GitHub",
+      "stars": 308,
+      "user": "lyu0805"
     },
     {
       "title": "andrewyng/openworker - GitHub Repository",
@@ -3283,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 3404,
+      "stars": 3560,
       "user": "andrewyng"
     },
     {
@@ -3298,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 813,
       "user": "powerycy"
     },
     {
@@ -3313,23 +3266,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 465,
       "user": "slvDev"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "title": "AdelanSoulX/PM-Sniper - GitHub Repository",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "published_at": "2026-07-20T14:23:19Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307153209?v=4",
       "source": "GitHub",
-      "stars": 386,
-      "user": "berabuddies"
+      "stars": 398,
+      "user": "AdelanSoulX"
     },
     {
       "title": "AdelanSupport/adelan-support - GitHub Repository",
@@ -3343,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 397,
       "user": "AdelanSupport"
     },
     {
@@ -3358,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 435,
       "user": "Charles-0509"
     },
     {
@@ -3388,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 189,
       "user": "MobAI-App"
     },
     {
@@ -3407,19 +3360,19 @@
       "user": "0xtbug"
     },
     {
-      "title": "mitkox/fabrica - Fabric for Agents",
-      "url": "https://github.com/mitkox/fabrica",
-      "published_at": "2026-07-19T16:02:37Z",
-      "description": "Fabric for Agents",
+      "title": "gsxhq/gsxui - shadcn-style components for gsx — copy-in, type-checked, server-rendered",
+      "url": "https://github.com/gsxhq/gsxui",
+      "published_at": "2026-07-22T20:53:41Z",
+      "description": "shadcn-style components for gsx — copy-in, type-checked, server-rendered",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43349905?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
       "source": "GitHub",
-      "stars": 42,
-      "user": "mitkox"
+      "stars": 45,
+      "user": "gsxhq"
     },
     {
       "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
@@ -3433,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1501,
       "user": "Vincentwei1021"
     },
     {
@@ -3448,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 936,
       "user": "Jakubantalik"
     },
     {
@@ -3463,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 716,
       "user": "pireel"
     },
     {
@@ -3493,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 245,
       "user": "RongleCat"
     },
     {
@@ -3508,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 145,
       "user": "steelbrain"
     },
     {
@@ -3523,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "neural-maze"
     },
     {
@@ -3538,8 +3491,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 112,
       "user": "QW-AI-Code"
+    },
+    {
+      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
+      "published_at": "2026-07-23T09:43:07Z",
+      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "rrrjqy66"
     },
     {
       "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
@@ -3555,21 +3523,6 @@
       "source": "GitHub",
       "stars": 107,
       "user": "Evokoa"
-    },
-    {
-      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
-      "published_at": "2026-07-23T09:43:07Z",
-      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
-      "source": "GitHub",
-      "stars": 105,
-      "user": "rrrjqy66"
     },
     {
       "title": "git rebase -i is not that scary",
