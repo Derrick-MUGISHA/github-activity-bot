@@ -31,21 +31,6 @@
       "user": "xbill"
     },
     {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
       "published_at": "2026-07-23T23:57:31Z",
@@ -106,21 +91,6 @@
       "user": "Stephanie Wong"
     },
     {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
-      "published_at": "2026-07-23T09:25:08Z",
-      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokphnsh2gqzwmiuskcei.jpeg",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -149,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
+      "published_at": "2026-07-22T22:03:30Z",
+      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
+      "tags": [
+        "ai",
+        "loopengineering",
+        "claude",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -254,6 +239,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
+      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
+      "published_at": "2026-07-23T09:25:08Z",
+      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokphnsh2gqzwmiuskcei.jpeg",
+      "source": "Dev.to",
+      "user": "Patrick Loeber"
     },
     {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "Kritt-ai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 1009,
       "user": "slvDev"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 709,
       "user": "mikiarlo3"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 221,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 132,
       "user": "iximiuz"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1049,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 760,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "neural-maze"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "Evokoa"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "QW-AI-Code"
     },
     {
@@ -848,17 +848,31 @@
       "tags": [
         "email",
         "release",
-        "rust"
+        "rust",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "soywod"
     },
     {
+      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
+      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
+      "published_at": "2026-07-26T08:24:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "custom-element"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "How to enhance my Rag Model to strictly follow the context given",
       "url": "https://stackoverflow.com/questions/79985970/how-to-enhance-my-rag-model-to-strictly-follow-the-context-given",
       "published_at": "2026-07-26T06:00:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "huggingface-transformers",
@@ -1304,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "gnipbao"
     },
     {
@@ -1319,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "CatsJuice"
     },
     {
@@ -1334,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 554,
       "user": "zeus-panel"
     },
     {
@@ -1349,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "Kritt-ai"
     },
     {
@@ -1394,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1049,
       "user": "Jakubantalik"
     },
     {
@@ -1409,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 760,
       "user": "pireel"
     },
     {
@@ -1439,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "RongleCat"
     },
     {
@@ -1454,8 +1468,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 265,
       "user": "hahhforest"
+    },
+    {
+      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
+      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
+      "published_at": "2026-07-26T08:24:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "custom-element"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "Webpack parsing error when bundling fine-looking files",
@@ -1485,6 +1512,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rupesh Choudhary"
+    },
+    {
+      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
+      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
+      "published_at": "2026-07-24T14:42:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "angular",
+        "google-chrome",
+        "onbeforeunload"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavik Gedia"
     },
     {
       "title": "jquery.ripples causes random glitches after running for some time",
@@ -1530,20 +1573,18 @@
       "user": "eskimopest"
     },
     {
-      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
-      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
-      "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 29 answers · score 19",
       "tags": [
         "javascript",
         "html",
-        "angular",
-        "google-chrome",
-        "onbeforeunload"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Bhavik Gedia"
+      "user": "aaron"
     },
     {
       "title": "Tree Shaking / Minifying Firebase using esbuild",
@@ -1561,20 +1602,6 @@
       "user": "Jeremy Krolik"
     },
     {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
-    },
-    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -1588,21 +1615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "How can I make my CSS adaptive to conditional code in React",
-      "url": "https://stackoverflow.com/questions/79982037/how-can-i-make-my-css-adaptive-to-conditional-code-in-react",
-      "published_at": "2026-07-19T16:24:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "css",
-        "jsx"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IscaMan"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1859,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 5424,
+      "stars": 5649,
       "user": "andrewyng"
     },
     {
@@ -1874,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 1009,
       "user": "slvDev"
     },
     {
@@ -1889,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 901,
       "user": "powerycy"
     },
     {
@@ -1904,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 709,
       "user": "mikiarlo3"
     },
     {
@@ -1923,10 +1935,26 @@
       "user": "berabuddies"
     },
     {
+      "title": "What is the industry-standard backend learning path for Django/DRF, and are Class-Based Views (CBV) mandatory?",
+      "url": "https://stackoverflow.com/questions/79985985/what-is-the-industry-standard-backend-learning-path-for-django-drf-and-are-clas",
+      "published_at": "2026-07-26T07:39:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "advice",
+        "python",
+        "django",
+        "django-rest-framework",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Syed Izzan shah"
+    },
+    {
       "title": "How to enhance my Rag Model to strictly follow the context given",
       "url": "https://stackoverflow.com/questions/79985970/how-to-enhance-my-rag-model-to-strictly-follow-the-context-given",
       "published_at": "2026-07-26T06:00:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "huggingface-transformers",
@@ -1939,10 +1967,10 @@
       "user": "obsidian"
     },
     {
-      "title": "Retrieving TKVars associated with a given Widget - Possible?",
-      "url": "https://stackoverflow.com/questions/79985945/retrieving-tkvars-associated-with-a-given-widget-possible",
+      "title": "Is it possible to retrieve TKVars associated with a given Widget?",
+      "url": "https://stackoverflow.com/questions/79985945/is-it-possible-to-retrieve-tkvars-associated-with-a-given-widget",
       "published_at": "2026-07-26T01:36:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tkinter",
@@ -1956,7 +1984,7 @@
       "title": "Minecraft automation to break stones",
       "url": "https://stackoverflow.com/questions/79985920/minecraft-automation-to-break-stones",
       "published_at": "2026-07-25T21:24:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "minecraft",
@@ -2027,7 +2055,7 @@
       "title": "How to use a list in a pattern in re.match",
       "url": "https://stackoverflow.com/questions/79985798/how-to-use-a-list-in-a-pattern-in-re-match",
       "published_at": "2026-07-25T11:10:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "python-re"
@@ -2048,22 +2076,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hardy"
-    },
-    {
-      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
-      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
-      "published_at": "2026-07-25T07:12:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "redis",
-        "concurrency",
-        "python-asyncio",
-        "publish-subscribe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "madjetmax"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2260,7 +2272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "neural-maze"
     }
   ],
@@ -2319,8 +2331,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 760,
       "user": "pireel"
+    },
+    {
+      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
+      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
+      "published_at": "2026-07-26T08:24:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "custom-element"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
@@ -2368,19 +2393,20 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "How can I make my CSS adaptive to conditional code in React",
-      "url": "https://stackoverflow.com/questions/79982037/how-can-i-make-my-css-adaptive-to-conditional-code-in-react",
-      "published_at": "2026-07-19T16:24:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "What is the industry-standard backend learning path for Django/DRF, and are Class-Based Views (CBV) mandatory?",
+      "url": "https://stackoverflow.com/questions/79985985/what-is-the-industry-standard-backend-learning-path-for-django-drf-and-are-clas",
+      "published_at": "2026-07-26T07:39:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "best-practices",
-        "javascript",
-        "css",
-        "jsx"
+        "advice",
+        "python",
+        "django",
+        "django-rest-framework",
+        "backend"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "IscaMan"
+      "user": "Syed Izzan shah"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2425,7 +2451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 221,
       "user": "MobAI-App"
     },
     {
@@ -2696,6 +2722,21 @@
       "user": "xbill"
     },
     {
+      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
+      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn",
+      "published_at": "2026-06-22T02:44:39Z",
+      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
+      "tags": [
+        "gemma4",
+        "mcps",
+        "antigravity",
+        "blackwell"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
       "url": "https://github.com/zeus-panel/ZEUS-PANEL",
       "published_at": "2026-07-20T11:37:49Z",
@@ -2707,7 +2748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 554,
       "user": "zeus-panel"
     },
     {
@@ -2780,7 +2821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 554,
       "user": "zeus-panel"
     },
     {
@@ -2810,7 +2851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "neural-maze"
     },
     {
@@ -2825,22 +2866,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "op"
-    },
-    {
-      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
-      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
-      "published_at": "2026-07-25T07:12:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "redis",
-        "concurrency",
-        "python-asyncio",
-        "publish-subscribe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "madjetmax"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -3224,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "gnipbao"
     },
     {
@@ -3239,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "CatsJuice"
     },
     {
@@ -3254,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 554,
       "user": "zeus-panel"
     },
     {
@@ -3269,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "Kritt-ai"
     },
     {
@@ -3299,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 5424,
+      "stars": 5649,
       "user": "andrewyng"
     },
     {
@@ -3314,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 1009,
       "user": "slvDev"
     },
     {
@@ -3329,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 901,
       "user": "powerycy"
     },
     {
@@ -3344,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 709,
       "user": "mikiarlo3"
     },
     {
@@ -3389,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 221,
       "user": "MobAI-App"
     },
     {
@@ -3419,23 +3444,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 132,
       "user": "iximiuz"
     },
     {
-      "title": "cocofhu/approving - Compose coding agents into workflows you can trust",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Compose coding agents into workflows you can trust",
+      "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
+      "url": "https://github.com/edaywalid/undo",
+      "published_at": "2026-07-23T09:27:59Z",
+      "description": "Undo what the last shell command did to the filesystem",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 71,
-      "user": "cocofhu"
+      "stars": 92,
+      "user": "edaywalid"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -3449,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1036,
+      "stars": 1049,
       "user": "Jakubantalik"
     },
     {
@@ -3464,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 760,
       "user": "pireel"
     },
     {
@@ -3494,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 266,
       "user": "RongleCat"
     },
     {
@@ -3509,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 265,
       "user": "hahhforest"
     },
     {
@@ -3524,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 162,
       "user": "neural-maze"
     },
     {
@@ -3554,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "Evokoa"
     },
     {
@@ -3569,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "QW-AI-Code"
     },
     {
@@ -3588,10 +3613,10 @@
       "user": "rrrjqy66"
     },
     {
-      "title": "Retrieving TKVars associated with a given Widget - Possible?",
-      "url": "https://stackoverflow.com/questions/79985945/retrieving-tkvars-associated-with-a-given-widget-possible",
+      "title": "Is it possible to retrieve TKVars associated with a given Widget?",
+      "url": "https://stackoverflow.com/questions/79985945/is-it-possible-to-retrieve-tkvars-associated-with-a-given-widget",
       "published_at": "2026-07-26T01:36:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tkinter",
