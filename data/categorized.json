@@ -46,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
-      "published_at": "2026-07-21T16:31:50Z",
-      "description": "3.6...",
-      "tags": [
-        "ai",
-        "google",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Investing in multi-agent AI safety research",
       "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
       "published_at": "2026-07-24T14:35:41Z",
@@ -74,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
       "source": "Dev.to",
       "user": "Gemini Team"
-    },
-    {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -209,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
+      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
+      "published_at": "2026-07-22T17:36:07Z",
+      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
+      "tags": [
+        "ai",
+        "vibecoding",
+        "devops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
+      "source": "Dev.to",
+      "user": "Stephanie Wong"
     },
     {
       "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1156,
       "user": "slvDev"
     },
     {
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 775,
       "user": "mikiarlo3"
     },
     {
@@ -732,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 229,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 153,
       "user": "iximiuz"
     },
     {
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1067,
       "user": "Jakubantalik"
     },
     {
@@ -781,6 +766,21 @@
       "user": "pireel"
     },
     {
+      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "published_at": "2026-07-22T17:49:34Z",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
+      "source": "GitHub",
+      "stars": 286,
+      "user": "makecindy"
+    },
+    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "neural-maze"
     },
     {
@@ -807,23 +807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "steelbrain"
-    },
-    {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 130,
-      "user": "Evokoa"
     },
     {
       "title": "QW-AI-Code/Aether - GitHub Repository",
@@ -837,8 +822,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "QW-AI-Code"
+    },
+    {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "Evokoa"
     },
     {
       "title": "Himalaya v2.0.0: CLI to manage emails",
@@ -867,22 +867,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "How to enhance my Rag Model to strictly follow the context given",
-      "url": "https://stackoverflow.com/questions/79985970/how-to-enhance-my-rag-model-to-strictly-follow-the-context-given",
-      "published_at": "2026-07-26T06:00:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "huggingface-transformers",
-        "rag",
-        "faiss",
-        "groq"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "obsidian"
     },
     {
       "title": "Playwright python script function waiting at book 161",
@@ -1318,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 644,
       "user": "gnipbao"
     },
     {
@@ -1333,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 591,
       "user": "CatsJuice"
     },
     {
@@ -1348,8 +1332,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 563,
       "user": "zeus-panel"
+    },
+    {
+      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "published_at": "2026-07-25T19:32:36Z",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
+      "source": "GitHub",
+      "stars": 451,
+      "user": "mshumer"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -1367,21 +1366,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "published_at": "2026-07-25T19:32:36Z",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
-      "source": "GitHub",
-      "stars": 394,
-      "user": "mshumer"
-    },
-    {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "url": "https://github.com/Charles-0509/Grok-Register",
       "published_at": "2026-07-20T16:35:09Z",
@@ -1393,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "Charles-0509"
     },
     {
@@ -1408,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1067,
       "user": "Jakubantalik"
     },
     {
@@ -1438,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "0xhype"
     },
     {
@@ -1453,23 +1437,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 330,
       "user": "hahhforest"
     },
     {
-      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
-      "url": "https://github.com/RongleCat/grok-app",
-      "published_at": "2026-07-23T16:43:40Z",
-      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "published_at": "2026-07-22T17:49:34Z",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "RongleCat"
+      "stars": 286,
+      "user": "makecindy"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -1498,6 +1482,22 @@
       "user": "Alphasaft"
     },
     {
+      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
+      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
+      "published_at": "2026-07-24T14:42:57.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "angular",
+        "google-chrome",
+        "onbeforeunload"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bhavik Gedia"
+    },
+    {
       "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
       "url": "https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult",
       "published_at": "2026-07-25T13:19:14.000Z",
@@ -1512,22 +1512,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rupesh Choudhary"
-    },
-    {
-      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
-      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
-      "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "angular",
-        "google-chrome",
-        "onbeforeunload"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhavik Gedia"
     },
     {
       "title": "jquery.ripples causes random glitches after running for some time",
@@ -1559,20 +1543,6 @@
       "user": "Pete"
     },
     {
-      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
-      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
-      "published_at": "2026-07-24T12:00:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "jsx"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eskimopest"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1585,6 +1555,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
+      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
+      "published_at": "2026-07-24T12:00:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "jsx"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eskimopest"
     },
     {
       "title": "Tree Shaking / Minifying Firebase using esbuild",
@@ -1871,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 5882,
+      "stars": 6021,
       "user": "andrewyng"
     },
     {
@@ -1886,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1156,
       "user": "slvDev"
     },
     {
@@ -1901,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 916,
       "user": "powerycy"
     },
     {
@@ -1916,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 775,
       "user": "mikiarlo3"
     },
     {
@@ -1935,10 +1919,23 @@
       "user": "berabuddies"
     },
     {
+      "title": "Velocity Increases rapidly",
+      "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
+      "published_at": "2026-07-26T12:57:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "physics"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Isaiah noxy"
+    },
+    {
       "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
       "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
       "published_at": "2026-07-26T10:48:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "python-3.x",
@@ -1949,22 +1946,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali-raza-py"
-    },
-    {
-      "title": "How to enhance my Rag Model to strictly follow the context given",
-      "url": "https://stackoverflow.com/questions/79985970/how-to-enhance-my-rag-model-to-strictly-follow-the-context-given",
-      "published_at": "2026-07-26T06:00:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "huggingface-transformers",
-        "rag",
-        "faiss",
-        "groq"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "obsidian"
     },
     {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
@@ -1999,7 +1980,7 @@
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "lambda"
@@ -2272,7 +2253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "neural-maze"
     }
   ],
@@ -2351,7 +2332,7 @@
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2435,7 +2416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 229,
       "user": "MobAI-App"
     },
     {
@@ -2720,7 +2701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 563,
       "user": "zeus-panel"
     },
     {
@@ -2743,7 +2724,7 @@
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "lambda"
@@ -2793,7 +2774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 563,
       "user": "zeus-panel"
     },
     {
@@ -2823,7 +2804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "neural-maze"
     },
     {
@@ -3032,7 +3013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "Charles-0509"
     },
     {
@@ -3221,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 644,
       "user": "gnipbao"
     },
     {
@@ -3236,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 591,
       "user": "CatsJuice"
     },
     {
@@ -3251,8 +3232,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 563,
       "user": "zeus-panel"
+    },
+    {
+      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "published_at": "2026-07-25T19:32:36Z",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
+      "source": "GitHub",
+      "stars": 451,
+      "user": "mshumer"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -3270,21 +3266,6 @@
       "user": "Kritt-ai"
     },
     {
-      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "published_at": "2026-07-25T19:32:36Z",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
-      "source": "GitHub",
-      "stars": 394,
-      "user": "mshumer"
-    },
-    {
       "title": "andrewyng/openworker - GitHub Repository",
       "url": "https://github.com/andrewyng/openworker",
       "published_at": "2026-07-20T01:52:32Z",
@@ -3296,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 5882,
+      "stars": 6021,
       "user": "andrewyng"
     },
     {
@@ -3311,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1104,
+      "stars": 1156,
       "user": "slvDev"
     },
     {
@@ -3326,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 916,
       "user": "powerycy"
     },
     {
@@ -3341,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 775,
       "user": "mikiarlo3"
     },
     {
@@ -3371,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "Charles-0509"
     },
     {
@@ -3386,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 229,
       "user": "MobAI-App"
     },
     {
@@ -3416,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 153,
       "user": "iximiuz"
     },
     {
@@ -3431,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 134,
       "user": "edaywalid"
     },
     {
@@ -3446,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1067,
       "user": "Jakubantalik"
     },
     {
@@ -3476,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 511,
       "user": "0xhype"
     },
     {
@@ -3491,23 +3472,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 330,
       "user": "hahhforest"
     },
     {
-      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
-      "url": "https://github.com/RongleCat/grok-app",
-      "published_at": "2026-07-23T16:43:40Z",
-      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "published_at": "2026-07-22T17:49:34Z",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 266,
-      "user": "RongleCat"
+      "stars": 286,
+      "user": "makecindy"
     },
     {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
@@ -3521,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "neural-maze"
     },
     {
@@ -3536,23 +3517,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "steelbrain"
-    },
-    {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 130,
-      "user": "Evokoa"
     },
     {
       "title": "QW-AI-Code/Aether - GitHub Repository",
@@ -3566,8 +3532,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "QW-AI-Code"
+    },
+    {
+      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
+      "url": "https://github.com/Evokoa/pgContext",
+      "published_at": "2026-07-21T06:57:38Z",
+      "description": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
+      "source": "GitHub",
+      "stars": 131,
+      "user": "Evokoa"
     },
     {
       "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
