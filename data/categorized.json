@@ -1,513 +1,6 @@
 {
   "AI": [
     {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "published_at": "2026-07-24T00:52:30Z",
-      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
-      "tags": [
-        "cloud",
-        "cloudrun",
-        "googlecloud",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "published_at": "2026-07-24T12:35:53Z",
-      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
-      "published_at": "2026-07-23T23:57:31Z",
-      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
-      "tags": [
-        "ai",
-        "codex",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "url": "https://dev.to/ben/new-gemini-models-dropped-59l8",
-      "published_at": "2026-07-21T16:31:50Z",
-      "description": "3.6...",
-      "tags": [
-        "ai",
-        "google",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F758hbjfkzebn6kjg0sju.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
-    },
-    {
-      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
-      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
-      "published_at": "2026-07-23T13:24:50Z",
-      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
-      "tags": [
-        "ai",
-        "cloud",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
-      "published_at": "2026-07-23T09:25:08Z",
-      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokphnsh2gqzwmiuskcei.jpeg",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g",
-      "published_at": "2026-07-22T22:44:23Z",
-      "description": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-turn stateful edits, an idiot-proof install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "tags": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
-      "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
-      "published_at": "2026-07-20T16:26:42Z",
-      "description": "I never planned to be in tech.  Growing up in Mumbai, I loved acting. Directing. Theatre. That was my...",
-      "tags": [
-        "career",
-        "beginners",
-        "womenintech",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "The Myth of the Post-Documentation Era",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "published_at": "2026-07-13T15:59:11Z",
-      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "tags": [
-        "ai",
-        "documentation",
-        "opensource",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
-      "published_at": "2026-07-16T22:52:32Z",
-      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "tags": [
-        "ai",
-        "career",
-        "design"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "published_at": "2026-06-29T16:06:30Z",
-      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "tags": [
-        "aie",
-        "ai",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
-      "published_at": "2026-07-08T13:02:03Z",
-      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "codenewbie",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
-      "published_at": "2026-07-02T19:14:36Z",
-      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
-      "tags": [
-        "webassembly",
-        "midsommer",
-        "azurecontainerapps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "tags": [
-        "aie",
-        "gamedev",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -687,7 +180,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "Kritt-ai"
     },
     {
@@ -702,7 +195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 777,
       "user": "slvDev"
     },
     {
@@ -717,7 +210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "mikiarlo3"
     },
     {
@@ -732,7 +225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 214,
       "user": "MobAI-App"
     },
     {
@@ -747,23 +240,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 114,
       "user": "iximiuz"
-    },
-    {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 1735,
-      "user": "Vincentwei1021"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -777,7 +255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1002,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 752,
       "user": "pireel"
     },
     {
@@ -807,7 +285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "neural-maze"
     },
     {
@@ -837,7 +315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "Evokoa"
     },
     {
@@ -852,7 +330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "QW-AI-Code"
     },
     {
@@ -1130,36 +608,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
-      "published_at": "2026-07-23T10:26:15Z",
-      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
-      "source": "Dev.to",
-      "user": "Francesco Ciulla"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1291,7 +739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "gnipbao"
     },
     {
@@ -1306,7 +754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 572,
       "user": "CatsJuice"
     },
     {
@@ -1321,8 +769,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 537,
       "user": "zeus-panel"
+    },
+    {
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "source": "GitHub",
+      "stars": 391,
+      "user": "Kritt-ai"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -1340,21 +803,6 @@
       "user": "melloworchid8rr6g"
     },
     {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 390,
-      "user": "Kritt-ai"
-    },
-    {
       "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
       "url": "https://github.com/Charles-0509/Grok-Register",
       "published_at": "2026-07-20T16:35:09Z",
@@ -1370,21 +818,6 @@
       "user": "Charles-0509"
     },
     {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 1735,
-      "user": "Vincentwei1021"
-    },
-    {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
       "url": "https://github.com/Jakubantalik/thinking-orbs",
       "published_at": "2026-07-21T07:01:53Z",
@@ -1396,7 +829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1002,
       "user": "Jakubantalik"
     },
     {
@@ -1411,7 +844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 752,
       "user": "pireel"
     },
     {
@@ -1443,6 +876,21 @@
       "source": "GitHub",
       "stars": 262,
       "user": "RongleCat"
+    },
+    {
+      "title": "davidmokos/expo-glass-tabs - Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
+      "url": "https://github.com/davidmokos/expo-glass-tabs",
+      "published_at": "2026-07-22T17:18:43Z",
+      "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22908592?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "davidmokos"
     },
     {
       "title": "Webpack parsing error when bundling fine-looking files",
@@ -1562,6 +1010,20 @@
       "user": "Jeremy Krolik"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 29 answers · score 19",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -1575,20 +1037,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1653,66 +1101,6 @@
     }
   ],
   "Python": [
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
@@ -1845,7 +1233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4889,
+      "stars": 4953,
       "user": "andrewyng"
     },
     {
@@ -1875,7 +1263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 777,
       "user": "slvDev"
     },
     {
@@ -1890,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "mikiarlo3"
     },
     {
@@ -1941,7 +1329,7 @@
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "lambda"
@@ -2083,51 +1471,6 @@
   ],
   "DevOps": [
     {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
-    },
-    {
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
-      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
-      "published_at": "2026-07-14T11:59:15Z",
-      "description": "...",
-      "tags": [
-        "api",
-        "networking",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The Big DevOps Misunderstanding",
       "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
       "published_at": "2021-12-19T20:07:33Z",
@@ -2259,41 +1602,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "neural-maze"
     }
   ],
   "WebDev": [
-    {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
-      "published_at": "2026-07-23T10:26:15Z",
-      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
-      "source": "Dev.to",
-      "user": "Francesco Ciulla"
-    },
-    {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
@@ -2318,7 +1631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 752,
       "user": "pireel"
     },
     {
@@ -2338,6 +1651,20 @@
       "user": "Bhavik Gedia"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 29 answers · score 19",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -2351,20 +1678,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2409,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 214,
       "user": "MobAI-App"
     },
     {
@@ -2440,246 +1753,6 @@
   ],
   "Cloud": [
     {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "published_at": "2026-07-24T00:52:30Z",
-      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
-      "tags": [
-        "cloud",
-        "cloudrun",
-        "googlecloud",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
-      "published_at": "2026-07-08T13:26:02Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "googleantigravity",
-        "googletpu",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
-      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
-      "published_at": "2026-07-23T13:24:50Z",
-      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
-      "tags": [
-        "ai",
-        "cloud",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
-      "published_at": "2026-07-11T21:21:38Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "mcps",
-        "tpu",
-        "31b"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
-      "published_at": "2026-07-08T13:02:03Z",
-      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "codenewbie",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
-      "published_at": "2026-07-02T19:14:36Z",
-      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
-      "tags": [
-        "webassembly",
-        "midsommer",
-        "azurecontainerapps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
-      "published_at": "2026-06-23T03:39:55Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "speculativedecoding",
-        "antigravitycli",
-        "qat",
-        "blackwell6000"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
       "url": "https://github.com/zeus-panel/ZEUS-PANEL",
       "published_at": "2026-07-20T11:37:49Z",
@@ -2691,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 537,
       "user": "zeus-panel"
     },
     {
@@ -2714,7 +1787,7 @@
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "lambda"
@@ -2764,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 537,
       "user": "zeus-panel"
     },
     {
@@ -2783,21 +1856,6 @@
       "user": "berabuddies"
     },
     {
-      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
-      "published_at": "2026-07-19T05:58:49Z",
-      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "0xtbug"
-    },
-    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -2809,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "neural-maze"
     },
     {
@@ -2875,21 +1933,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -3071,111 +2114,6 @@
   ],
   "Tools": [
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-      "published_at": "2026-07-09T14:44:40Z",
-      "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "tags": [
-        "mentalhealth",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3223,7 +2161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 623,
       "user": "gnipbao"
     },
     {
@@ -3238,7 +2176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 572,
       "user": "CatsJuice"
     },
     {
@@ -3253,8 +2191,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 537,
       "user": "zeus-panel"
+    },
+    {
+      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "published_at": "2026-07-20T20:26:24Z",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "source": "GitHub",
+      "stars": 391,
+      "user": "Kritt-ai"
     },
     {
       "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
@@ -3272,21 +2225,6 @@
       "user": "melloworchid8rr6g"
     },
     {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 390,
-      "user": "Kritt-ai"
-    },
-    {
       "title": "andrewyng/openworker - GitHub Repository",
       "url": "https://github.com/andrewyng/openworker",
       "published_at": "2026-07-20T01:52:32Z",
@@ -3298,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 4889,
+      "stars": 4953,
       "user": "andrewyng"
     },
     {
@@ -3328,7 +2266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 777,
       "user": "slvDev"
     },
     {
@@ -3343,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "mikiarlo3"
     },
     {
@@ -3377,6 +2315,21 @@
       "user": "Charles-0509"
     },
     {
+      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "url": "https://github.com/MobAI-App/simslim",
+      "published_at": "2026-07-20T15:55:18Z",
+      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
+      "source": "GitHub",
+      "stars": 214,
+      "user": "MobAI-App"
+    },
+    {
       "title": "paxlabs-inc/machine-genome - Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
       "url": "https://github.com/paxlabs-inc/machine-genome",
       "published_at": "2026-07-20T12:41:33Z",
@@ -3392,21 +2345,6 @@
       "user": "paxlabs-inc"
     },
     {
-      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "url": "https://github.com/MobAI-App/simslim",
-      "published_at": "2026-07-20T15:55:18Z",
-      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "MobAI-App"
-    },
-    {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
       "url": "https://github.com/iximiuz/shellgym",
       "published_at": "2026-07-23T14:11:41Z",
@@ -3418,38 +2356,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 114,
       "user": "iximiuz"
     },
     {
-      "title": "0xtbug/unofficial-pddikti-api - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
-      "url": "https://github.com/0xtbug/unofficial-pddikti-api",
-      "published_at": "2026-07-19T05:58:49Z",
-      "description": "Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.",
+      "title": "gsxhq/gsxui - shadcn-style components for gsx — copy-in, type-checked, server-rendered",
+      "url": "https://github.com/gsxhq/gsxui",
+      "published_at": "2026-07-22T20:53:41Z",
+      "description": "shadcn-style components for gsx — copy-in, type-checked, server-rendered",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54710482?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
       "source": "GitHub",
       "stars": 57,
-      "user": "0xtbug"
-    },
-    {
-      "title": "Vincentwei1021/video-shotcraft - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "published_at": "2026-07-19T11:44:41Z",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18239147?v=4",
-      "source": "GitHub",
-      "stars": 1735,
-      "user": "Vincentwei1021"
+      "user": "gsxhq"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -3463,7 +2386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1002,
       "user": "Jakubantalik"
     },
     {
@@ -3478,7 +2401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 752,
       "user": "pireel"
     },
     {
@@ -3512,6 +2435,21 @@
       "user": "RongleCat"
     },
     {
+      "title": "davidmokos/expo-glass-tabs - Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
+      "url": "https://github.com/davidmokos/expo-glass-tabs",
+      "published_at": "2026-07-22T17:18:43Z",
+      "description": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22908592?v=4",
+      "source": "GitHub",
+      "stars": 212,
+      "user": "davidmokos"
+    },
+    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -3523,7 +2461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "neural-maze"
     },
     {
@@ -3553,7 +2491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "Evokoa"
     },
     {
@@ -3583,7 +2521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "QW-AI-Code"
     },
     {

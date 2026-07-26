@@ -154542,3 +154542,903 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-26 2:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (43 articles)
+
+#### 1. [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated)
+📅 Wed, 11 Mar 2026 19:29:29 GMT
+👤 By: usefulposter | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 2. [Airfoil](https://ciechanow.ski/airfoil/)
+📅 Tue, 27 Feb 2024 16:32:49 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 3. [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+📅 Tue, 23 Jul 2024 15:08:41 GMT
+👤 By: atgctg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 4. [My AI skeptic friends are all nuts](https://fly.io/blog/youre-all-nuts/)
+📅 Mon, 02 Jun 2025 21:09:53 GMT
+👤 By: tabletcorry | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 5. [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+📅 Thu, 12 Feb 2026 16:23:24 GMT
+👤 By: scottshambaugh | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 6. [Gemini AI](https://deepmind.google/technologies/gemini/)
+📅 Wed, 06 Dec 2023 15:03:47 GMT
+👤 By: dmotz | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 7. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+📅 Fri, 15 May 2026 20:26:47 GMT
+👤 By: reasonableklout | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 8. [IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+📅 Tue, 24 Feb 2026 12:16:45 GMT
+👤 By: Qem | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 9. [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+📅 Wed, 27 May 2026 10:43:25 GMT
+👤 By: theorchid | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `AI`
+
+---
+
+#### 10. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ JavaScript (35 articles)
+
+#### 1. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (27 articles)
+
+#### 1. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 2. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 3. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+📅 Mon, 11 May 2026 20:45:55 GMT
+👤 By: indigodaddy | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+📅 Wed, 07 May 2025 17:32:26 GMT
+👤 By: arathore | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (11 articles)
+
+#### 1. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 2. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 3. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
+📅 Tue, 12 Oct 2021 10:35:11 GMT
+👤 By: aristofun | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [How 'DevOps' Is Killing The Developer](http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/)
+📅 Tue, 15 Apr 2014 15:25:42 GMT
+👤 By: jknupp | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (7 articles)
+
+#### 1. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 2. [pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.](https://github.com/pireel/pireel)
+📅 Mon, 20 Jul 2026 09:34:24 GMT
+👤 By: pireel | 📌 Source: GitHub
+
+![pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.](https://avatars.githubusercontent.com/u/304991498?v=4)
+
+Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
+
+🏷️ Tags: `typescript`, `github`, `open-source`
+
+⭐ Stars: 752
+
+---
+
+#### 3. [Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome](https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm)
+📅 Fri, 24 Jul 2026 14:42:57 GMT
+👤 By: Bhavik Gedia | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score 1
+
+🏷️ Tags: `javascript`, `html`, `angular`, `google-chrome`, `onbeforeunload`
+
+---
+
+#### 4. [I get stuck learning HTML, CSS, and JavaScript (I am a student)](https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student)
+📅 Mon, 06 Jul 2026 11:23:54 GMT
+👤 By: aaron | 📌 Source: StackOverflow
+
+Stack Overflow question · 29 answers · score 19
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 5. [Content Security Policy (CSP) "unsafe-hashes" does not work as expected. Browser expecting different hash](https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser)
+📅 Thu, 23 Jul 2026 13:19:41 GMT
+👤 By: MatrixRonny | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `web`, `content-security-policy`
+
+---
+
+#### 6. [How to Build a Browser-Based PDF Blur Tool Using JavaScript](https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/)
+📅 Fri, 24 Jul 2026 20:44:56 GMT
+👤 By: Bhavin Sheth | 📌 Source: freeCodeCamp
+
+Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da
+
+🏷️ Tags: `JavaScript`, `Web Development`, `pdf`, `Online PDF Tools`, `Tutorial`
+
+---
+
+#### 7. [Build Bulletproof APIs using TypeScript in Express](https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/)
+📅 Fri, 24 Jul 2026 14:24:13 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our
+
+🏷️ Tags: `TypeScript`, `youtube`
+
+---
+
+### 🏷️ Mobile (3 articles)
+
+#### 1. [MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need](https://github.com/MobAI-App/simslim)
+📅 Mon, 20 Jul 2026 15:55:18 GMT
+👤 By: MobAI-App | 📌 Source: GitHub
+
+![MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need](https://avatars.githubusercontent.com/u/262997908?v=4)
+
+Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 214
+
+---
+
+#### 2. [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+📅 Sat, 25 Jul 2026 10:01:03 GMT
+👤 By: raymii | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `android`
+
+---
+
+#### 3. [The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production](https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/)
+📅 Fri, 24 Jul 2026 15:44:48 GMT
+👤 By: Manish Shivanandhan | 📌 Source: freeCodeCamp
+
+Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor
+
+🏷️ Tags: `ai-agent`, `AI`
+
+---
+
+### 🏷️ Cloud (4 articles)
+
+#### 1. [zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.](https://github.com/zeus-panel/ZEUS-PANEL)
+📅 Mon, 20 Jul 2026 11:37:49 GMT
+👤 By: zeus-panel | 📌 Source: GitHub
+
+![zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.](https://avatars.githubusercontent.com/u/307096617?v=4)
+
+A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 537
+
+---
+
+#### 2. [The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express](https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult)
+📅 Sat, 25 Jul 2026 13:19:14 GMT
+👤 By: Rupesh Choudhary | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score 0
+
+🏷️ Tags: `javascript`, `node.js`, `express`, `prisma`, `cloudinary`
+
+---
+
+#### 3. [Lambda in max returns weird value](https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value)
+📅 Sat, 25 Jul 2026 13:54:24 GMT
+👤 By: alekscooper | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score -1
+
+🏷️ Tags: `python`, `lambda`
+
+---
+
+#### 4. [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
+📅 Sat, 25 Jul 2026 20:55:11 GMT
+👤 By: Anthony Ha | 📌 Source: TechCrunch
+
+The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
+
+🏷️ Tags: `Government & Policy`, `Media & Entertainment`, `Amazon`, `Warner Bros Discovery`
+
+---
+
+### 🏷️ Database (8 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.](https://github.com/zeus-panel/ZEUS-PANEL)
+📅 Mon, 20 Jul 2026 11:37:49 GMT
+👤 By: zeus-panel | 📌 Source: GitHub
+
+![zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.](https://avatars.githubusercontent.com/u/307096617?v=4)
+
+A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 537
+
+---
+
+#### 3. [berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1](https://github.com/berabuddies/redis-poc)
+📅 Wed, 22 Jul 2026 22:26:08 GMT
+👤 By: berabuddies | 📌 Source: GitHub
+
+![berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1](https://avatars.githubusercontent.com/u/272903805?v=4)
+
+RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 415
+
+---
+
+#### 4. [neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.](https://github.com/neural-maze/production-ocr-course)
+📅 Wed, 22 Jul 2026 08:50:00 GMT
+👤 By: neural-maze | 📌 Source: GitHub
+
+![neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.](https://avatars.githubusercontent.com/u/151655127?v=4)
+
+Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 154
+
+---
+
+#### 5. [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
+📅 Sat, 25 Jul 2026 09:10:12 GMT
+👤 By: op | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `go`, `show`
+
+---
+
+#### 6. [Long living asyncio.TaskGroup in python for Redis PUB/SUB](https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub)
+📅 Sat, 25 Jul 2026 07:12:40 GMT
+👤 By: madjetmax | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score 0
+
+🏷️ Tags: `python`, `redis`, `concurrency`, `python-asyncio`, `publish-subscribe`
+
+---
+
+#### 7. [How to Build an AI Agent with Function Calling in Node.js Using Google Gemini](https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/)
+📅 Fri, 24 Jul 2026 18:30:52 GMT
+👤 By: Zia Ullah | 📌 Source: freeCodeCamp
+
+Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first
+
+🏷️ Tags: `Node.js`, `AI`, `JavaScript`, `Tutorial`, `gemini`
+
+---
+
+#### 8. [Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)](https://www.freecodecamp.org/news/firestore-data-modeling-guide-embedded-documents-vs-referencing-with-a-blog-case-study/)
+📅 Fri, 24 Jul 2026 15:19:10 GMT
+👤 By: Caleb Mintoumba | 📌 Source: freeCodeCamp
+
+When developers transition from the relational world (MySQL, PostgreSQL) to Firestore, Firebase's NoSQL document database, they often bring their old habits with them. They try to replicate tables, fo
+
+🏷️ Tags: `firestore`, `Firebase`, `NoSQL`, `Databases`, `Query`
+
+---
+
+### 🏷️ Security (14 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 3. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 6. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [Google Security Team Member on NSA: "Fuck These Guys"](https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k)
+📅 Wed, 06 Nov 2013 04:51:41 GMT
+👤 By: cdvonstinkpot | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Senators push to ditch social security numbers in light of Equifax hack](https://techcrunch.com/2017/11/08/are-social-security-numbers-going-away/)
+📅 Wed, 08 Nov 2017 22:49:56 GMT
+👤 By: Varcht | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (32 articles)
+
+#### 1. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 2. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).](https://github.com/gnipbao/story-to-handdrawn-video)
+📅 Tue, 21 Jul 2026 08:54:45 GMT
+👤 By: gnipbao | 📌 Source: GitHub
+
+![gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).](https://avatars.githubusercontent.com/u/16514704?v=4)
+
+Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 623
+
+---
+
+#### 5. [CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.](https://github.com/CatsJuice/sticker-forge)
+📅 Mon, 20 Jul 2026 17:13:15 GMT
+👤 By: CatsJuice | 📌 Source: GitHub
+
+![CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.](https://avatars.githubusercontent.com/u/39363750?v=4)
+
+A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 572
+
+---
+
+#### 6. [zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.](https://github.com/zeus-panel/ZEUS-PANEL)
+📅 Mon, 20 Jul 2026 11:37:49 GMT
+👤 By: zeus-panel | 📌 Source: GitHub
+
+![zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.](https://avatars.githubusercontent.com/u/307096617?v=4)
+
+A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 537
+
+---
+
+#### 7. [Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.](https://github.com/Kritt-ai/open-kritt)
+📅 Mon, 20 Jul 2026 20:26:24 GMT
+👤 By: Kritt-ai | 📌 Source: GitHub
+
+![Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.](https://avatars.githubusercontent.com/u/294822847?v=4)
+
+Orchestrate AI agents to find real vulnerabilities in code.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 391
+
+---
+
+#### 8. [melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.](https://github.com/melloworchid8rr6g/TG-Polymarket-bot)
+📅 Fri, 24 Jul 2026 18:16:29 GMT
+👤 By: melloworchid8rr6g | 📌 Source: GitHub
+
+![melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.](https://avatars.githubusercontent.com/u/308083624?v=4)
+
+Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 390
+
+---
+
+#### 9. [andrewyng/openworker - GitHub Repository](https://github.com/andrewyng/openworker)
+📅 Mon, 20 Jul 2026 01:52:32 GMT
+👤 By: andrewyng | 📌 Source: GitHub
+
+![andrewyng/openworker - GitHub Repository](https://avatars.githubusercontent.com/u/3710007?v=4)
+
+Trending GitHub Repository
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 4,953
+
+---
+
+#### 10. [powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。](https://github.com/powerycy/goutoujunshi)
+📅 Mon, 20 Jul 2026 14:58:48 GMT
+👤 By: powerycy | 📌 Source: GitHub
+
+![powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。](https://avatars.githubusercontent.com/u/36032407?v=4)
+
+一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 873
+
+---
+
