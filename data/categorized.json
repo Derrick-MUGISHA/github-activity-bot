@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 407,
       "user": "Kritt-ai"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1273,
       "user": "slvDev"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 833,
       "user": "mikiarlo3"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "MobAI-App"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "iximiuz"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1082,
       "user": "Jakubantalik"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 769,
       "user": "pireel"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 404,
       "user": "makecindy"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "neural-maze"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "QW-AI-Code"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 139,
       "user": "Evokoa"
     },
     {
@@ -897,6 +897,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bansi Sojitra"
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "published_at": "2026-07-26T19:40:57.000Z",
+      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "kimi",
+        "moonshot ai",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
@@ -997,21 +1013,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "published_at": "2026-07-25T13:05:00.000Z",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "tags": [
-        "Climate",
-        "AI",
-        "data centers",
-        "electrical grid"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1305,21 +1306,6 @@
       "user": "CatsJuice"
     },
     {
-      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "published_at": "2026-07-20T11:37:49Z",
-      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
-      "source": "GitHub",
-      "stars": 572,
-      "user": "zeus-panel"
-    },
-    {
       "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "published_at": "2026-07-25T19:32:36Z",
@@ -1331,8 +1317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 578,
       "user": "mshumer"
+    },
+    {
+      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "published_at": "2026-07-20T11:37:49Z",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "source": "GitHub",
+      "stars": 578,
+      "user": "zeus-panel"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -1346,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 407,
       "user": "Kritt-ai"
     },
     {
@@ -1376,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1082,
       "user": "Jakubantalik"
     },
     {
@@ -1391,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 769,
       "user": "pireel"
     },
     {
@@ -1421,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 417,
       "user": "hahhforest"
     },
     {
@@ -1436,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 404,
       "user": "makecindy"
     },
     {
@@ -1555,21 +1556,6 @@
       "user": "aaron"
     },
     {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
-    },
-    {
       "title": "How is audio.duration calculated?",
       "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
       "published_at": "2026-06-22T11:11:01.000Z",
@@ -1598,6 +1584,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Oscar"
+    },
+    {
+      "title": "Error: querySrv ENOTFOUND _mongodb._tcp.dbname.fzofb.mongodb.net",
+      "url": "https://stackoverflow.com/questions/65623404/error-querysrv-enotfound-mongodb-tcp-dbname-fzofb-mongodb-net",
+      "published_at": "2021-01-08T04:19:25.000Z",
+      "description": "Stack Overflow question · 17 answers · score 10",
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "express",
+        "mongoose"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chaudhry Talha"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1854,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 6383,
+      "stars": 6457,
       "user": "andrewyng"
     },
     {
@@ -1869,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1273,
       "user": "slvDev"
     },
     {
@@ -1884,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 935,
       "user": "powerycy"
     },
     {
@@ -1899,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 833,
       "user": "mikiarlo3"
     },
     {
@@ -2252,7 +2254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "neural-maze"
     }
   ],
@@ -2311,7 +2313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 769,
       "user": "pireel"
     },
     {
@@ -2356,21 +2358,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
     },
     {
       "title": "How is audio.duration calculated?",
@@ -2429,7 +2416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "MobAI-App"
     },
     {
@@ -2714,7 +2701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 578,
       "user": "zeus-panel"
     },
     {
@@ -2787,7 +2774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 578,
       "user": "zeus-panel"
     },
     {
@@ -2817,7 +2804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "neural-maze"
     },
     {
@@ -2832,6 +2819,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "op"
+    },
+    {
+      "title": "Error: querySrv ENOTFOUND _mongodb._tcp.dbname.fzofb.mongodb.net",
+      "url": "https://stackoverflow.com/questions/65623404/error-querysrv-enotfound-mongodb-tcp-dbname-fzofb-mongodb-net",
+      "published_at": "2021-01-08T04:19:25.000Z",
+      "description": "Stack Overflow question · 17 answers · score 10",
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "express",
+        "mongoose"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chaudhry Talha"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -3044,21 +3047,6 @@
       "user": "rahul"
     },
     {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
-    },
-    {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
       "published_at": "2026-07-26T16:33:13.000Z",
@@ -3264,21 +3252,6 @@
       "user": "CatsJuice"
     },
     {
-      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "published_at": "2026-07-20T11:37:49Z",
-      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
-      "source": "GitHub",
-      "stars": 572,
-      "user": "zeus-panel"
-    },
-    {
       "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "published_at": "2026-07-25T19:32:36Z",
@@ -3290,8 +3263,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 578,
       "user": "mshumer"
+    },
+    {
+      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+      "published_at": "2026-07-20T11:37:49Z",
+      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "source": "GitHub",
+      "stars": 578,
+      "user": "zeus-panel"
     },
     {
       "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
@@ -3305,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 407,
       "user": "Kritt-ai"
     },
     {
@@ -3320,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 6383,
+      "stars": 6457,
       "user": "andrewyng"
     },
     {
@@ -3335,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1273,
       "user": "slvDev"
     },
     {
@@ -3350,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 935,
       "user": "powerycy"
     },
     {
@@ -3365,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 833,
       "user": "mikiarlo3"
     },
     {
@@ -3410,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "MobAI-App"
     },
     {
@@ -3440,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "iximiuz"
     },
     {
@@ -3455,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "edaywalid"
     },
     {
@@ -3470,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1082,
       "user": "Jakubantalik"
     },
     {
@@ -3485,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 769,
       "user": "pireel"
     },
     {
@@ -3515,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 417,
       "user": "hahhforest"
     },
     {
@@ -3530,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 404,
       "user": "makecindy"
     },
     {
@@ -3545,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 178,
       "user": "neural-maze"
     },
     {
@@ -3575,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "QW-AI-Code"
     },
     {
@@ -3590,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 139,
       "user": "Evokoa"
     },
     {
