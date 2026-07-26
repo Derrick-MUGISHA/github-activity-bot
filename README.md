@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-26 17:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-26 18:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp" width="200" alt="Investing in multi-agent AI safety research" />
+    <a href="https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png" width="200" alt="Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI" />
       <br/>
-      <b>Investing in multi-agent AI safety research</b>
+      <b>Debugging Deployments with Gemma 2B, TPU v6e-1, MC...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -97,23 +97,23 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 3 | [Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc) | Dev.to |
 | 4 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
 | 5 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
-| 6 | [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l) | Dev.to |
-| 7 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
-| 8 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
-| 9 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
-| 10 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
-| 11 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
-| 12 | [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) | Dev.to |
-| 13 | [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn) | Dev.to |
-| 14 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
-| 15 | [Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g) | Dev.to |
-| 16 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
-| 17 | [Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) | Dev.to |
-| 18 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
-| 19 | [tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) | Dev.to |
+| 6 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
+| 7 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
+| 8 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
+| 9 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
+| 10 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
+| 11 | [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) | Dev.to |
+| 12 | [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn) | Dev.to |
+| 13 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
+| 14 | [Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g) | Dev.to |
+| 15 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
+| 16 | [Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive](https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n) | Dev.to |
+| 17 | [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d) | Dev.to |
+| 18 | [tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs](https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e) | Dev.to |
+| 19 | [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l) | Dev.to |
 | 20 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2) | Dev.to |
 
-<sub>Last fetched: Sun, 26 Jul 2026 17:00:39 CAT</sub>
+<sub>Last fetched: Sun, 26 Jul 2026 18:13:53 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Implement a context manager using __enter__ and __exit__**
+**1. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
-**2. `React` — Explain the difference between state and props**
+**2. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Sliding window, hash map, two pointers
 
 </details>
 
-**3. `Python` — Implement a context manager using __enter__ and __exit__**
+**3. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -169,9 +169,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 37 | 20.3% | `█████████░░░░░░░░░░░` |
 | **Python** | 30 | 16.5% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 21 | 11.5% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 26 Jul 2026 15:00:39 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 26 Jul 2026 16:13:53 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
