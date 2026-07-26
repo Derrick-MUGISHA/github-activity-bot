@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "Kritt-ai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1067,
       "user": "slvDev"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 734,
       "user": "mikiarlo3"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "MobAI-App"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 140,
       "user": "iximiuz"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1057,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "pireel"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "neural-maze"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "steelbrain"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 128,
       "user": "QW-AI-Code"
     },
     {
@@ -872,7 +872,7 @@
       "title": "How to enhance my Rag Model to strictly follow the context given",
       "url": "https://stackoverflow.com/questions/79985970/how-to-enhance-my-rag-model-to-strictly-follow-the-context-given",
       "published_at": "2026-07-26T06:00:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "huggingface-transformers",
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 638,
       "user": "gnipbao"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "CatsJuice"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "zeus-panel"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "Kritt-ai"
     },
     {
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1057,
       "user": "Jakubantalik"
     },
     {
@@ -1423,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "pireel"
     },
     {
@@ -1442,6 +1442,21 @@
       "user": "0xhype"
     },
     {
+      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "published_at": "2026-07-21T04:17:35Z",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "hahhforest"
+    },
+    {
       "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "url": "https://github.com/RongleCat/grok-app",
       "published_at": "2026-07-23T16:43:40Z",
@@ -1455,21 +1470,6 @@
       "source": "GitHub",
       "stars": 266,
       "user": "RongleCat"
-    },
-    {
-      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "published_at": "2026-07-21T04:17:35Z",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "hahhforest"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -1501,7 +1501,7 @@
       "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
       "url": "https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult",
       "published_at": "2026-07-25T13:19:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "node.js",
@@ -1517,7 +1517,7 @@
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1871,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 5649,
+      "stars": 5803,
       "user": "andrewyng"
     },
     {
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1067,
       "user": "slvDev"
     },
     {
@@ -1901,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 906,
       "user": "powerycy"
     },
     {
@@ -1916,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 734,
       "user": "mikiarlo3"
     },
     {
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "berabuddies"
     },
     {
@@ -1954,7 +1954,7 @@
       "title": "How to enhance my Rag Model to strictly follow the context given",
       "url": "https://stackoverflow.com/questions/79985970/how-to-enhance-my-rag-model-to-strictly-follow-the-context-given",
       "published_at": "2026-07-26T06:00:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "huggingface-transformers",
@@ -2009,6 +2009,19 @@
       "user": "alekscooper"
     },
     {
+      "title": "Wrapper around generators and lists with list-like interface",
+      "url": "https://stackoverflow.com/questions/79985882/wrapper-around-generators-and-lists-with-list-like-interface",
+      "published_at": "2026-07-25T16:51:56.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "generator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stgatilov"
+    },
+    {
       "title": "Playwright python script function waiting at book 161",
       "url": "https://stackoverflow.com/questions/79985769/playwright-python-script-function-waiting-at-book-161",
       "published_at": "2026-07-25T08:11:04.000Z",
@@ -2025,17 +2038,17 @@
       "user": "Asim Murtaza"
     },
     {
-      "title": "Wrapper around generators and lists with list-like interface",
-      "url": "https://stackoverflow.com/questions/79985882/wrapper-around-generators-and-lists-with-list-like-interface",
-      "published_at": "2026-07-25T16:51:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "How to use a list in a pattern in re.match",
+      "url": "https://stackoverflow.com/questions/79985798/how-to-use-a-list-in-a-pattern-in-re-match",
+      "published_at": "2026-07-25T11:10:42.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
-        "generator"
+        "python-re"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stgatilov"
+      "user": "Patypatty"
     },
     {
       "title": "Is X_test really unseen data if I split it from the original dataset before training?",
@@ -2050,19 +2063,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bansi Sojitra"
-    },
-    {
-      "title": "How to use a list in a pattern in re.match",
-      "url": "https://stackoverflow.com/questions/79985798/how-to-use-a-list-in-a-pattern-in-re-match",
-      "published_at": "2026-07-25T11:10:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python",
-        "python-re"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Patypatty"
     },
     {
       "title": "How to find the position of a path of coordinate points where the average difference between it and another path of a similar shape is the lowest?",
@@ -2272,7 +2272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "neural-maze"
     }
   ],
@@ -2331,7 +2331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "pireel"
     },
     {
@@ -2351,7 +2351,7 @@
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2451,7 +2451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "MobAI-App"
     },
     {
@@ -2748,14 +2748,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "zeus-panel"
     },
     {
       "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
       "url": "https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult",
       "published_at": "2026-07-25T13:19:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "node.js",
@@ -2821,7 +2821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "zeus-panel"
     },
     {
@@ -2836,7 +2836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "berabuddies"
     },
     {
@@ -2851,7 +2851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "neural-maze"
     },
     {
@@ -3249,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 638,
       "user": "gnipbao"
     },
     {
@@ -3264,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 585,
       "user": "CatsJuice"
     },
     {
@@ -3279,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 559,
       "user": "zeus-panel"
     },
     {
@@ -3294,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "Kritt-ai"
     },
     {
@@ -3324,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 5649,
+      "stars": 5803,
       "user": "andrewyng"
     },
     {
@@ -3339,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1067,
       "user": "slvDev"
     },
     {
@@ -3354,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 906,
       "user": "powerycy"
     },
     {
@@ -3369,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 734,
       "user": "mikiarlo3"
     },
     {
@@ -3384,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "berabuddies"
     },
     {
@@ -3414,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "MobAI-App"
     },
     {
@@ -3444,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 140,
       "user": "iximiuz"
     },
     {
@@ -3459,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 113,
       "user": "edaywalid"
     },
     {
@@ -3474,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1057,
       "user": "Jakubantalik"
     },
     {
@@ -3489,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "pireel"
     },
     {
@@ -3508,6 +3508,21 @@
       "user": "0xhype"
     },
     {
+      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "published_at": "2026-07-21T04:17:35Z",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
+      "source": "GitHub",
+      "stars": 278,
+      "user": "hahhforest"
+    },
+    {
       "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "url": "https://github.com/RongleCat/grok-app",
       "published_at": "2026-07-23T16:43:40Z",
@@ -3523,21 +3538,6 @@
       "user": "RongleCat"
     },
     {
-      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "published_at": "2026-07-21T04:17:35Z",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "hahhforest"
-    },
-    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -3549,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 165,
       "user": "neural-maze"
     },
     {
@@ -3564,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "steelbrain"
     },
     {
@@ -3594,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 128,
       "user": "QW-AI-Code"
     },
     {
