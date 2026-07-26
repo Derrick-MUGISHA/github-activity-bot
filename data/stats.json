@@ -1,38 +1,38 @@
 {
-  "total": 177,
+  "total": 182,
   "by_source": {
     "Dev.to": 58,
     "HackerNews": 49,
-    "GitHub": 20,
+    "GitHub": 25,
     "Lobste.rs": 10,
     "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 75,
-    "JavaScript": 37,
+    "AI": 77,
+    "JavaScript": 38,
     "Python": 30,
     "DevOps": 14,
     "WebDev": 10,
-    "Mobile": 1,
+    "Mobile": 2,
     "Cloud": 21,
     "Database": 7,
-    "Security": 15,
-    "Tools": 35
+    "Security": 16,
+    "Tools": 40
   },
   "by_language": {
-    "Go": 41,
+    "Go": 46,
     "Python": 30,
-    "JavaScript": 37,
+    "JavaScript": 38,
     "Java": 29,
     "Rust": 10,
-    "Swift": 1
+    "Swift": 2
   },
   "by_date": {
     "2026-07-24": 16,
-    "2026-07-23": 8,
-    "2026-07-20": 12,
+    "2026-07-23": 10,
+    "2026-07-20": 15,
     "2026-07-15": 2,
     "2026-07-08": 4,
     "2026-07-12": 2,
@@ -104,8 +104,8 @@
   },
   "top_tags": {
     "ai": 26,
-    "github": 20,
-    "open-source": 20,
+    "github": 25,
+    "open-source": 25,
     "python": 19,
     "javascript": 17,
     "AI": 15,
@@ -120,17 +120,17 @@
     "llm": 7,
     "career": 6,
     "webdev": 6,
+    "go": 6,
     "tpu": 5,
-    "antigravitycli": 5,
-    "gemma4": 5
+    "antigravitycli": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "27.7",
-    "Python": "20.3",
-    "JavaScript": "25.0",
-    "Java": "19.6",
-    "Rust": "6.8",
-    "Swift": "0.7"
+    "Go": "29.7",
+    "Python": "19.4",
+    "JavaScript": "24.5",
+    "Java": "18.7",
+    "Rust": "6.5",
+    "Swift": "1.3"
   }
 }
