@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Kritt-ai"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1254,
       "user": "slvDev"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 818,
       "user": "mikiarlo3"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "MobAI-App"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 167,
       "user": "iximiuz"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1080,
       "user": "Jakubantalik"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 398,
       "user": "makecindy"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "neural-maze"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "QW-AI-Code"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "gnipbao"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "zeus-panel"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 544,
       "user": "mshumer"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Kritt-ai"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1080,
       "user": "Jakubantalik"
     },
     {
@@ -1421,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 409,
       "user": "hahhforest"
     },
     {
@@ -1436,8 +1436,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 398,
       "user": "makecindy"
+    },
+    {
+      "title": "Dmitri Gaskin on jQuery",
+      "url": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
+      "published_at": "2026-07-26T09:50:42.690-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript",
+        "retrocomputing",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "janus"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -1541,35 +1555,6 @@
       "user": "aaron"
     },
     {
-      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
-      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
-      "published_at": "2026-07-24T12:00:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "jsx"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eskimopest"
-    },
-    {
-      "title": "Tree Shaking / Minifying Firebase using esbuild",
-      "url": "https://stackoverflow.com/questions/79984376/tree-shaking-minifying-firebase-using-esbuild",
-      "published_at": "2026-07-23T23:28:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "esbuild",
-        "tree-shaking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeremy Krolik"
-    },
-    {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
       "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
       "published_at": "2026-07-23T13:19:41.000Z",
@@ -1583,6 +1568,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
+    },
+    {
+      "title": "How is audio.duration calculated?",
+      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
+      "published_at": "2026-06-22T11:11:01.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loki"
+    },
+    {
+      "title": "Get decimal portion of a number with JavaScript",
+      "url": "https://stackoverflow.com/questions/4512306/get-decimal-portion-of-a-number-with-javascript",
+      "published_at": "2010-12-22T18:20:08.000Z",
+      "description": "Stack Overflow question · 33 answers · score 372",
+      "tags": [
+        "javascript",
+        "floating-point",
+        "numbers",
+        "decimal",
+        "rounding"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oscar"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1839,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 6314,
+      "stars": 6383,
       "user": "andrewyng"
     },
     {
@@ -1854,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1254,
       "user": "slvDev"
     },
     {
@@ -1869,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "powerycy"
     },
     {
@@ -1884,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 818,
       "user": "mikiarlo3"
     },
     {
@@ -1899,14 +1914,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "berabuddies"
     },
     {
       "title": "Velocity Increases rapidly",
       "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
       "published_at": "2026-07-26T12:57:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "physics"
@@ -2237,7 +2252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "neural-maze"
     }
   ],
@@ -2358,6 +2373,20 @@
       "user": "MatrixRonny"
     },
     {
+      "title": "How is audio.duration calculated?",
+      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
+      "published_at": "2026-06-22T11:11:01.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loki"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
       "published_at": "2026-07-24T20:44:56.000Z",
@@ -2400,7 +2429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "MobAI-App"
     },
     {
@@ -2685,7 +2714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "zeus-panel"
     },
     {
@@ -2758,7 +2787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "zeus-panel"
     },
     {
@@ -2773,7 +2802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "berabuddies"
     },
     {
@@ -2788,7 +2817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "neural-maze"
     },
     {
@@ -3216,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "gnipbao"
     },
     {
@@ -3246,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "zeus-panel"
     },
     {
@@ -3261,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 544,
       "user": "mshumer"
     },
     {
@@ -3276,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Kritt-ai"
     },
     {
@@ -3291,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
       "source": "GitHub",
-      "stars": 6314,
+      "stars": 6383,
       "user": "andrewyng"
     },
     {
@@ -3306,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1254,
       "user": "slvDev"
     },
     {
@@ -3321,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "powerycy"
     },
     {
@@ -3336,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 818,
       "user": "mikiarlo3"
     },
     {
@@ -3351,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "berabuddies"
     },
     {
@@ -3381,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "MobAI-App"
     },
     {
@@ -3411,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 167,
       "user": "iximiuz"
     },
     {
@@ -3426,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 162,
       "user": "edaywalid"
     },
     {
@@ -3441,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1080,
       "user": "Jakubantalik"
     },
     {
@@ -3486,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 409,
       "user": "hahhforest"
     },
     {
@@ -3501,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 398,
       "user": "makecindy"
     },
     {
@@ -3516,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 176,
       "user": "neural-maze"
     },
     {
@@ -3546,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "QW-AI-Code"
     },
     {
