@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-154-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--26-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-26 6:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-26 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,15 +37,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg" width="200" alt="Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback" />
-      <br/>
-      <b>Zero to Multi-Region: High Availability Serverless...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7mg9mllna3bxhb0zsy.png" width="200" alt="Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…" />
       <br/>
@@ -54,8 +45,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg" width="200" alt="Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP" />
@@ -65,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif" width="200" alt="Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks" />
@@ -83,6 +74,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjtecye21uhduxpzyoj1s.png" width="200" alt="I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything" />
+      <br/>
+      <b>I've Spent 10+ Years in Software Engineering. Afte...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -93,29 +93,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn) | Dev.to |
-| 2 | [Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback](https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc) | Dev.to |
-| 3 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
-| 4 | [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1) | Dev.to |
-| 5 | [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn) | Dev.to |
-| 6 | [Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc) | Dev.to |
-| 7 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
-| 8 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
-| 9 | [New Gemini models dropped
+| 2 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
+| 3 | [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1) | Dev.to |
+| 4 | [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn) | Dev.to |
+| 5 | [Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc) | Dev.to |
+| 6 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
+| 7 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
+| 8 | [New Gemini models dropped
 
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/](https://dev.to/ben/new-gemini-models-dropped-59l8) | Dev.to |
-| 10 | [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l) | Dev.to |
-| 11 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2) | Dev.to |
-| 12 | [Why AI Apps Fail in Production (And How Google Solved It)](https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m) | Dev.to |
-| 13 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
-| 14 | [[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini](https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220) | Dev.to |
-| 15 | [Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i) | Dev.to |
-| 16 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
-| 17 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
-| 18 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
-| 19 | [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) | Dev.to |
-| 20 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
+| 9 | [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l) | Dev.to |
+| 10 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2) | Dev.to |
+| 11 | [Why AI Apps Fail in Production (And How Google Solved It)](https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m) | Dev.to |
+| 12 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
+| 13 | [Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i) | Dev.to |
+| 14 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
+| 15 | [[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action](https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok) | Dev.to |
+| 16 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
+| 17 | [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) | Dev.to |
+| 18 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
+| 19 | [Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g) | Dev.to |
+| 20 | [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82) | Dev.to |
 
-<sub>Last fetched: Sun, 26 Jul 2026 06:06:47 CAT</sub>
+<sub>Last fetched: Sun, 26 Jul 2026 08:49:53 CAT</sub>
 
 
 ---
@@ -124,29 +124,18 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a URL shortening service like bit.ly**
+**1. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Hash function, database design, caching, analytics
-
-</details>
-
-**2. `Java` — What is the difference between abstract class and interface?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
-**3. `Java` — Explain the Java memory model**
+**2. `Java` — Explain the Java memory model**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
@@ -154,6 +143,17 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Heap, stack, garbage collection
+
+</details>
+
+**3. `Database` — Design a database schema for a social media platform**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -166,16 +166,16 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 60 | 39.0% | `████████████████████` |
-| **JavaScript** | 37 | 24.0% | `████████████░░░░░░░░` |
-| **Tools** | 35 | 22.7% | `████████████░░░░░░░░` |
-| **Python** | 30 | 19.5% | `██████████░░░░░░░░░░` |
-| **Security** | 15 | 9.7% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 13 | 8.4% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 12 | 7.8% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 5.2% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 8 | 5.2% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 3 | 1.9% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
+| **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
+| **Cloud** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -184,7 +184,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 30 |
+| Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -196,23 +196,23 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.7%
-JavaScript      ██████████████████████████████ 25.7%
-Python          ████████████████████████ 20.8%
-Java            ███████████████████████ 19.4%
-Rust            ███████ 6.3%
-Swift           ██ 1.4%
-Kotlin          █ 0.7%
+Go              ██████████████████████████████ 29.7%
+JavaScript      ████████████████████████ 23.9%
+Python          ████████████████████ 19.4%
+Java            ██████████████████ 18.1%
+Rust            ███████ 7.1%
+Swift           █ 1.3%
+Kotlin          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
+    "Go" : 46
     "JavaScript" : 37
     "Python" : 30
     "Java" : 28
-    "Rust" : 9
+    "Rust" : 11
     "Swift" : 2
     "Kotlin" : 1
 ```
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![AI](https://img.shields.io/badge/AI-30-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-5-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-5-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-44-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 26 Jul 2026 04:06:47 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 26 Jul 2026 06:49:53 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
