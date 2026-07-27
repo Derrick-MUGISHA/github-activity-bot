@@ -1,6 +1,61 @@
 {
   "AI": [
     {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
+      "published_at": "2026-07-27T02:11:38Z",
+      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Google ADK: Introduction to AI Agent Development",
+      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e",
+      "published_at": "2026-07-26T15:56:55Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -119,6 +174,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AI builder essentials: tokens, context windows and RAG 101",
+      "url": "https://dev.to/googleai/ai-builder-essentials-tokens-context-windows-and-rag-101-12bn",
+      "published_at": "2026-07-24T19:16:22Z",
+      "description": "Tokens are an important foundational concept that underlie how we interact with LLMs. @greggyb and...",
+      "tags": [
+        "tokenomics",
+        "rag",
+        "tokenmaxxing",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy5oyxzv4hxrxzt7olsgo.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -254,6 +324,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
       "source": "Dev.to",
       "user": "christine"
+    },
+    {
+      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
+      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
+      "published_at": "2026-07-24T17:37:35Z",
+      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "The Myth of the Post-Documentation Era",
@@ -463,66 +548,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "published_at": "2026-06-29T20:00:00Z",
-      "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called...",
-      "tags": [
-        "aie",
-        "gamedev",
-        "ai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
-      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
-      "published_at": "2026-07-14T09:57:26Z",
-      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
-      "tags": [
-        "ai",
-        "agents",
-        "adk",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
-      "source": "Dev.to",
-      "user": "Remigiusz Samborski"
-    },
-    {
-      "title": "Omni Flash Preview with Codex",
-      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
-      "published_at": "2026-07-05T02:28:00Z",
-      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
-      "tags": [
-        "omniflash",
-        "xcode",
-        "aivideogenerator",
-        "mcpserver"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -717,7 +742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1637,
       "user": "slvDev"
     },
     {
@@ -732,7 +757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 903,
       "user": "mikiarlo3"
     },
     {
@@ -747,7 +772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 563,
       "user": "VictorTaelin"
     },
     {
@@ -762,7 +787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "iximiuz"
     },
     {
@@ -777,7 +802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "surya-koritala"
     },
     {
@@ -792,7 +817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1140,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 802,
       "user": "makecindy"
     },
     {
@@ -822,7 +847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 207,
       "user": "neural-maze"
     },
     {
@@ -852,7 +877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "Evokoa"
     },
     {
@@ -867,8 +892,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 126,
       "user": "steelbrain"
+    },
+    {
+      "title": "On AI",
+      "url": "https://jcs.org/2026/07/23/ai",
+      "published_at": "2026-07-27T03:52:37.520-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "thang"
     },
     {
       "title": "Make Reviews Possible Again With This One Simple Trick",
@@ -885,8 +922,8 @@
       "user": "noon"
     },
     {
-      "title": "lobste.rs has a js-error: here is a mitigation",
-      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+      "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
+      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
       "published_at": "2026-07-27T04:48:30.412-05:00",
       "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
       "tags": [
@@ -909,6 +946,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "published_at": "2026-07-27T15:01:50.000Z",
+      "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Ilya Sutskever",
+        "nvidia",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "published_at": "2026-07-27T13:00:00.000Z",
+      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Startups",
+        "enigma",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
@@ -986,35 +1055,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "published_at": "2026-07-26T01:30:00.000Z",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "tags": [
-        "AI",
-        "TC",
-        "Layoffs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan, Connie Loizos"
-    },
-    {
-      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-      "published_at": "2026-07-25T20:55:11.000Z",
-      "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "Amazon",
-        "Warner Bros Discovery"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1289,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 907,
       "user": "mshumer"
     },
     {
@@ -1304,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 662,
       "user": "gnipbao"
     },
     {
@@ -1319,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 378,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1349,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "dunefalcon1qrj"
     },
     {
@@ -1379,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1384,
       "user": "vercel-labs"
     },
     {
@@ -1394,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1140,
       "user": "Jakubantalik"
     },
     {
@@ -1409,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 802,
       "user": "makecindy"
     },
     {
@@ -1424,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 575,
       "user": "hahhforest"
     },
     {
@@ -1443,8 +1483,8 @@
       "user": "0xhype"
     },
     {
-      "title": "lobste.rs has a js-error: here is a mitigation",
-      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+      "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
+      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
       "published_at": "2026-07-27T04:48:30.412-05:00",
       "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
       "tags": [
@@ -1454,6 +1494,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "refp"
+    },
+    {
+      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
+      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
+      "published_at": "2026-07-27T14:04:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "partha"
     },
     {
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
@@ -1499,20 +1551,6 @@
       "user": "Gary"
     },
     {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
-    },
-    {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
       "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
       "published_at": "2026-07-26T08:24:22.000Z",
@@ -1524,6 +1562,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rahul"
     },
     {
       "title": "Webpack parsing error when bundling fine-looking files",
@@ -1555,35 +1607,20 @@
       "user": "Bhavik Gedia"
     },
     {
-      "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
-      "url": "https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult",
-      "published_at": "2026-07-25T13:19:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
+      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
+      "published_at": "2026-07-23T10:14:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
-        "express",
-        "prisma",
-        "cloudinary"
+        "excel",
+        "type-conversion",
+        "exceljs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Rupesh Choudhary"
-    },
-    {
-      "title": "jquery.ripples causes random glitches after running for some time",
-      "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
-      "published_at": "2026-07-24T15:12:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "jquery",
-        "reactjs",
-        "webgl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ss511"
+      "user": "user31009838"
     },
     {
       "title": "How is audio.duration calculated?",
@@ -1854,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1637,
       "user": "slvDev"
     },
     {
@@ -1869,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 903,
       "user": "mikiarlo3"
     },
     {
@@ -1884,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 563,
       "user": "VictorTaelin"
     },
     {
@@ -1914,23 +1951,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "berabuddies"
     },
     {
-      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
-      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
-      "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
+      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
+      "published_at": "2026-07-27T12:10:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
-        "amazon-s3",
-        "deep-learning",
-        "architecture"
+        "pdf",
+        "ocr",
+        "python-tesseract",
+        "invoice"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Himanshu Srivastav"
+      "user": "AZAPI.ai"
     },
     {
       "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
@@ -1949,19 +1987,19 @@
       "user": "Adeleh Poursadegh"
     },
     {
-      "title": "Wrong manual caching of recursion",
-      "url": "https://stackoverflow.com/questions/79986133/wrong-manual-caching-of-recursion",
-      "published_at": "2026-07-26T20:51:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
+      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
+      "published_at": "2026-07-27T11:52:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "recursion",
-        "caching",
-        "lru"
+        "amazon-s3",
+        "deep-learning",
+        "architecture"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "alekscooper"
+      "user": "Himanshu Srivastav"
     },
     {
       "title": "Velocity Increases rapidly",
@@ -1975,6 +2013,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Isaiah noxy"
+    },
+    {
+      "title": "Wrong manual caching of recursion",
+      "url": "https://stackoverflow.com/questions/79986133/wrong-manual-caching-of-recursion",
+      "published_at": "2026-07-26T20:51:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "recursion",
+        "caching",
+        "lru"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
     },
     {
       "title": "Lambda in max returns weird value",
@@ -2049,21 +2102,6 @@
       "user": "madjetmax"
     },
     {
-      "title": "Minecraft automation to break stones",
-      "url": "https://stackoverflow.com/questions/79985920/minecraft-automation-to-break-stones",
-      "published_at": "2026-07-25T21:24:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "minecraft",
-        "pyautogui",
-        "timedelta"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hachi"
-    },
-    {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
       "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
       "published_at": "2026-07-24T20:38:36.000Z",
@@ -2081,6 +2119,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
     {
       "title": "Why AI Apps Fail in Production (And How Google Solved It)",
       "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
@@ -2125,21 +2178,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
-      "published_at": "2026-06-29T16:12:25Z",
-      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2273,7 +2311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 207,
       "user": "neural-maze"
     }
   ],
@@ -2424,6 +2462,21 @@
   ],
   "Mobile": [
     {
+      "title": "The Six Flavors of Dependency Injection in Flutter",
+      "url": "https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea",
+      "published_at": "2026-07-24T18:11:07Z",
+      "description": "Dependency injection isn't just one pattern or package. Here is a breakdown of all six distinct DI mechanisms in Dart & Flutter, from InheritedWidget to compile-time IoC.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9npidag0wb102wr8bmsg.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
       "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
       "published_at": "2026-07-24T15:44:48.000Z",
@@ -2438,6 +2491,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Google ADK: Introduction to AI Agent Development",
+      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e",
+      "published_at": "2026-07-26T15:56:55Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
@@ -2574,6 +2642,21 @@
       "user": "xbill"
     },
     {
+      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
+      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
+      "published_at": "2026-07-24T17:37:35Z",
+      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
       "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
       "published_at": "2026-07-13T13:36:03Z",
@@ -2649,67 +2732,6 @@
       "user": "xbill"
     },
     {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, QAT, MTP, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-qat-mtp-and-antigravity-cli-3gn6",
-      "published_at": "2026-06-23T03:39:55Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "speculativedecoding",
-        "antigravitycli",
-        "qat",
-        "blackwell6000"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyv2xm0spw92qe8kefd.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "12B Gemma 4 Deployment with NVIDIA Blackwell 6000, MCP, Cloud Run, and Antigravity CLI",
-      "url": "https://dev.to/gde/12b-gemma-4-deployment-with-nvidia-blackwell-6000-mcp-cloud-run-and-antigravity-cli-3ckn",
-      "published_at": "2026-06-22T02:44:39Z",
-      "description": "This article provides a step by step deployment guide for Gemma 4 to a Google Cloud Run hosted GPU...",
-      "tags": [
-        "gemma4",
-        "mcps",
-        "antigravity",
-        "blackwell"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxlhtrqv0hhjemzk2mrg.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
-      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
-      "published_at": "2026-06-29T16:12:25Z",
-      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
-      "tags": [
-        "antigravity",
-        "googlecloud",
-        "kubernetes",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
-      "url": "https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult",
-      "published_at": "2026-07-25T13:19:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express",
-        "prisma",
-        "cloudinary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rupesh Choudhary"
-    },
-    {
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
@@ -2721,21 +2743,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alekscooper"
-    },
-    {
-      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-      "published_at": "2026-07-25T20:55:11.000Z",
-      "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "Amazon",
-        "Warner Bros Discovery"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     }
   ],
   "Database": [
@@ -2763,7 +2770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "berabuddies"
     },
     {
@@ -2778,20 +2785,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 207,
       "user": "neural-maze"
-    },
-    {
-      "title": "SQLite WAL Mode Can Lock Short-Lived Readers",
-      "url": "https://hynek.me/til/sqlite-read-only-wal-locked/",
-      "published_at": "2026-07-26T17:32:54.938-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
     },
     {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
@@ -2843,6 +2838,36 @@
     }
   ],
   "Security": [
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
+      "published_at": "2026-07-27T02:11:38Z",
+      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
     {
       "title": "Investing in multi-agent AI safety research",
       "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
@@ -3007,7 +3032,7 @@
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "firebase",
@@ -3032,25 +3057,19 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "The hacker who humiliated spyware makers and was never caught",
-      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-      "published_at": "2026-07-25T20:24:14.000Z",
-      "description": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
-      "tags": [
-        "Security",
-        "hackers",
-        "cybersecurity",
-        "hacking team",
-        "hacktivist"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
     {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
@@ -3157,21 +3176,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
-      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
-      "published_at": "2026-06-25T15:07:57Z",
-      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
-      "tags": [
-        "ai",
-        "evals",
-        "testing",
-        "personas"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
-      "source": "Dev.to",
-      "user": "Kate Pond"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3219,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 907,
       "user": "mshumer"
     },
     {
@@ -3234,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 659,
+      "stars": 662,
       "user": "gnipbao"
     },
     {
@@ -3249,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 378,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3279,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "dunefalcon1qrj"
     },
     {
@@ -3294,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1637,
       "user": "slvDev"
     },
     {
@@ -3309,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 903,
       "user": "mikiarlo3"
     },
     {
@@ -3324,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 563,
       "user": "VictorTaelin"
     },
     {
@@ -3354,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 454,
       "user": "berabuddies"
     },
     {
@@ -3369,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 214,
       "user": "edaywalid"
     },
     {
@@ -3384,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "iximiuz"
     },
     {
@@ -3414,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 64,
       "user": "gsxhq"
     },
     {
@@ -3429,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "surya-koritala"
     },
     {
@@ -3444,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1163,
+      "stars": 1384,
       "user": "vercel-labs"
     },
     {
@@ -3459,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1132,
+      "stars": 1140,
       "user": "Jakubantalik"
     },
     {
@@ -3474,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 802,
       "user": "makecindy"
     },
     {
@@ -3489,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 575,
       "user": "hahhforest"
     },
     {
@@ -3519,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 207,
       "user": "neural-maze"
     },
     {
@@ -3549,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "Evokoa"
     },
     {
@@ -3564,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "rrrjqy66"
     },
     {
@@ -3579,8 +3583,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 126,
       "user": "steelbrain"
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage",
+      "published_at": "2026-07-27T05:54:37.894-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "carlana"
     },
     {
       "title": "What does GitHub’s security team even do?",
@@ -3596,8 +3613,8 @@
       "user": "dominicm"
     },
     {
-      "title": "lobste.rs has a js-error: here is a mitigation",
-      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+      "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
+      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
       "published_at": "2026-07-27T04:48:30.412-05:00",
       "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
       "tags": [
@@ -3607,19 +3624,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "refp"
-    },
-    {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage",
-      "published_at": "2026-07-27T05:54:37.894-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "carlana"
     },
     {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
