@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
+      "published_at": "2026-07-26T20:53:41Z",
+      "description": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "tags": [
+        "ai",
+        "opensource",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png",
+      "source": "Dev.to",
+      "user": "Christoffer Madsen"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
+    },
+    {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
       "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
       "published_at": "2026-07-27T03:59:04Z",
@@ -71,6 +101,20 @@
       "user": "Nazar Boyko"
     },
     {
+      "title": "Every AI Commit Is Someone's Future Legacy Code",
+      "url": "https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l",
+      "published_at": "2026-07-24T13:18:45Z",
+      "description": "AI can finally read 25-year-old codebases. But daily AI coding is quietly creating a new kind of legacy code, faster than ever.",
+      "tags": [
+        "ai",
+        "programming",
+        "legacycode"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1643269130443-0b347cc2b315%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMTc3M3wwfDF8c2VhcmNofDQ4fHxsZWdhY3l8ZW58MHx8fHwxNzgzOTY5MzI5fDA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D2000",
+      "source": "Dev.to",
+      "user": "Ender Ahmet Yurt"
+    },
+    {
       "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
       "published_at": "2026-07-24T12:35:53Z",
@@ -131,6 +175,21 @@
       "user": "xbill"
     },
     {
+      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
+      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
+      "published_at": "2026-07-25T07:43:00Z",
+      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
+      "tags": [
+        "ai",
+        "robotics",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
+      "source": "Dev.to",
+      "user": "Ankita Virani"
+    },
+    {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
       "published_at": "2026-07-21T03:48:40Z",
@@ -159,6 +218,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
+      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
+      "published_at": "2026-07-23T11:11:46Z",
+      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
+      "tags": [
+        "googleai",
+        "gcpsecurityoperation",
+        "googleskills",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -236,6 +310,20 @@
       "user": "Stephanie Wong"
     },
     {
+      "title": "Stop Hiring a Rocket Scientist to Check If a Box Is Empty",
+      "url": "https://dev.to/ale3oula/stop-hiring-a-rocket-scientist-to-check-if-a-box-is-empty-1i4c",
+      "published_at": "2026-07-23T17:26:44Z",
+      "description": "One thing I've been thinking about lately is what trade-offs companies are willing to make in order...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8qjmuxjtnum9f12ayk07.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
       "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
       "published_at": "2026-07-24T00:52:30Z",
@@ -264,21 +352,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Gemini 3.6 Flash & 3.5 Flash-Lite: Developer guide",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
-      "published_at": "2026-07-23T09:25:08Z",
-      "description": "Gemini 3.6 Flash (gemini-3.6-flash) and Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) are generally...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokphnsh2gqzwmiuskcei.jpeg",
-      "source": "Dev.to",
-      "user": "Patrick Loeber"
     },
     {
       "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
@@ -489,65 +562,6 @@
       "user": " Gábor Mészáros"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
-      "published_at": "2026-07-02T19:14:36Z",
-      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
-      "tags": [
-        "webassembly",
-        "midsommer",
-        "azurecontainerapps",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -727,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "finna"
     },
     {
@@ -742,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1637,
+      "stars": 1671,
       "user": "slvDev"
     },
     {
@@ -757,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 920,
       "user": "mikiarlo3"
     },
     {
@@ -772,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 596,
       "user": "VictorTaelin"
     },
     {
@@ -787,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 192,
       "user": "iximiuz"
     },
     {
@@ -817,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1150,
       "user": "Jakubantalik"
     },
     {
@@ -832,8 +846,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 819,
       "user": "makecindy"
+    },
+    {
+      "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "published_at": "2026-07-23T02:48:07Z",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "kvcache-ai"
     },
     {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
@@ -847,7 +876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "neural-maze"
     },
     {
@@ -892,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "steelbrain"
     },
     {
@@ -908,31 +937,18 @@
       "user": "thang"
     },
     {
-      "title": "Make Reviews Possible Again With This One Simple Trick",
-      "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-      "published_at": "2026-07-27T03:37:51.624-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming",
-        "vcs",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "noon"
-    },
-    {
-      "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
-      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
-      "published_at": "2026-07-27T04:48:30.412-05:00",
-      "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
+      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
+      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
+      "published_at": "2026-07-27T15:06:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "meta"
+        "firebase",
+        "google-cloud-firestore"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "refp"
+      "source": "StackOverflow",
+      "user": "JaeKwang Lee RTB"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -946,6 +962,65 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "published_at": "2026-07-27T16:45:24.000Z",
+      "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Threads"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "published_at": "2026-07-27T15:57:12.000Z",
+      "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "tags": [
+        "AI",
+        "TC",
+        "ai overviews",
+        "Google",
+        "Search"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-07-27T15:30:00.000Z",
+      "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+      "tags": [
+        "Startups",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "published_at": "2026-07-27T15:25:37.000Z",
+      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Reviews"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
@@ -964,7 +1039,7 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "published_at": "2026-07-27T13:00:00.000Z",
       "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
@@ -983,13 +1058,12 @@
       "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
       "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
       "published_at": "2026-07-27T10:00:00.000Z",
-      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital",
+      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from OpenAI and DeepMind. With this fresh capital",
       "tags": [
         "Media & Entertainment",
         "Startups",
         "Venture",
-        "Europe",
-        "London"
+        "tbpn"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -999,62 +1073,16 @@
       "title": "Are brain waves the next unlock for physical AI?",
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "published_at": "2026-07-27T00:19:14.000Z",
-      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
       "tags": [
         "AI",
         "Robotics",
-        "Exclusive"
+        "Exclusive",
+        "physical ai"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "published_at": "2026-07-26T19:40:57.000Z",
-      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "kimi",
-        "moonshot ai",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "published_at": "2026-07-26T16:33:13.000Z",
-      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "tags": [
-        "AI",
-        "Security",
-        "Clem Delangue",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: Uber bets on its former CEO",
-      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-      "published_at": "2026-07-26T16:03:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Uber",
-        "Waymo",
-        "techcrunch mobility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1329,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 943,
       "user": "mshumer"
     },
     {
@@ -1344,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 665,
       "user": "gnipbao"
     },
     {
@@ -1359,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 387,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1374,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "finna"
     },
     {
@@ -1419,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1488,
       "user": "vercel-labs"
     },
     {
@@ -1434,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1150,
       "user": "Jakubantalik"
     },
     {
@@ -1449,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 819,
       "user": "makecindy"
     },
     {
@@ -1464,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 584,
       "user": "hahhforest"
     },
     {
@@ -1483,17 +1511,18 @@
       "user": "0xhype"
     },
     {
-      "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
-      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
-      "published_at": "2026-07-27T04:48:30.412-05:00",
-      "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
+      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
+      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
+      "published_at": "2026-07-27T15:06:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "meta"
+        "firebase",
+        "google-cloud-firestore"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "refp"
+      "source": "StackOverflow",
+      "user": "JaeKwang Lee RTB"
     },
     {
       "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
@@ -1621,20 +1650,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
-    },
-    {
-      "title": "How is audio.duration calculated?",
-      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
-      "published_at": "2026-06-22T11:11:01.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "audio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Loki"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1891,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1637,
+      "stars": 1671,
       "user": "slvDev"
     },
     {
@@ -1906,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 920,
       "user": "mikiarlo3"
     },
     {
@@ -1921,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 596,
       "user": "VictorTaelin"
     },
     {
@@ -1955,16 +1970,30 @@
       "user": "berabuddies"
     },
     {
+      "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
+      "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
+      "published_at": "2026-07-27T16:25:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "image-registration",
+        "mutual-information"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32851394"
+    },
+    {
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
       "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
       "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
+        "tooling-recommendation",
         "python",
         "pdf",
         "ocr",
-        "python-tesseract",
-        "invoice"
+        "python-tesseract"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2086,22 +2115,6 @@
       "user": "stgatilov"
     },
     {
-      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
-      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
-      "published_at": "2026-07-25T07:12:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "redis",
-        "concurrency",
-        "python-asyncio",
-        "publish-subscribe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "madjetmax"
-    },
-    {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
       "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
       "published_at": "2026-07-24T20:38:36.000Z",
@@ -2135,6 +2148,21 @@
       "user": "Jitendra Gupta"
     },
     {
+      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
+      "published_at": "2026-07-25T17:55:01Z",
+      "description": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
+      "tags": [
+        "kubernetes",
+        "homelab",
+        "devops",
+        "talos"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmp807g893wizyzwkko8v.png",
+      "source": "Dev.to",
+      "user": "Le Beltagy"
+    },
+    {
       "title": "Why AI Apps Fail in Production (And How Google Solved It)",
       "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
       "published_at": "2026-07-22T17:36:07Z",
@@ -2148,36 +2176,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
       "source": "Dev.to",
       "user": "Stephanie Wong"
-    },
-    {
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192",
-      "url": "https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28",
-      "published_at": "2026-07-14T11:59:15Z",
-      "description": "...",
-      "tags": [
-        "api",
-        "networking",
-        "news",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faz0rbb9hsa5f4g4zrli3.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2311,7 +2309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "neural-maze"
     }
   ],
@@ -2415,20 +2413,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavik Gedia"
-    },
-    {
-      "title": "How is audio.duration calculated?",
-      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
-      "published_at": "2026-06-22T11:11:01.000Z",
-      "description": "Stack Overflow question · 6 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "audio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Loki"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2582,6 +2566,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
+      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
+      "published_at": "2026-07-23T11:11:46Z",
+      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
+      "tags": [
+        "googleai",
+        "gcpsecurityoperation",
+        "googleskills",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
+    },
+    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -2702,34 +2701,18 @@
       "user": "Jen Looper"
     },
     {
-      "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
-      "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
-      "published_at": "2026-07-02T19:14:36Z",
-      "description": "This article covers debugging and deploying a Rust backed WASM module with an Azure Container Apps...",
+      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
+      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
+      "published_at": "2026-07-27T15:06:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "webassembly",
-        "midsommer",
-        "azurecontainerapps",
-        "azure"
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyotouidx6x261gx0j9p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Gemma4 DevOps In Action",
-      "url": "https://dev.to/gde/gemma4-devops-in-action-10bl",
-      "published_at": "2026-07-20T14:20:31Z",
-      "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with...",
-      "tags": [
-        "ai",
-        "aws",
-        "devops",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fum85zl2v1qboe34uq7sy.png",
-      "source": "Dev.to",
-      "user": "xbill"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JaeKwang Lee RTB"
     },
     {
       "title": "Lambda in max returns weird value",
@@ -2785,24 +2768,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "neural-maze"
-    },
-    {
-      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
-      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
-      "published_at": "2026-07-25T07:12:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "redis",
-        "concurrency",
-        "python-asyncio",
-        "publish-subscribe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "madjetmax"
     },
     {
       "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
@@ -2867,6 +2834,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
+      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
+      "published_at": "2026-07-23T11:11:46Z",
+      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
+      "tags": [
+        "googleai",
+        "gcpsecurityoperation",
+        "googleskills",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -3016,6 +2998,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "Paged Out - Issue #9",
+      "url": "https://pagedout.institute/webview.php?issue=9&page=1",
+      "published_at": "2026-07-27T09:55:38.037-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
+    },
+    {
       "title": "What does GitHub’s security team even do?",
       "url": "https://orchidfiles.com/github-security-team/",
       "published_at": "2026-07-27T01:06:58.012-05:00",
@@ -3041,25 +3036,24 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "rahul"
-    },
-    {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "published_at": "2026-07-26T16:33:13.000Z",
-      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "tags": [
-        "AI",
-        "Security",
-        "Clem Delangue",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     }
   ],
   "Tools": [
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
+    },
     {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
@@ -3099,6 +3093,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop Hiring a Rocket Scientist to Check If a Box Is Empty",
+      "url": "https://dev.to/ale3oula/stop-hiring-a-rocket-scientist-to-check-if-a-box-is-empty-1i4c",
+      "published_at": "2026-07-23T17:26:44Z",
+      "description": "One thing I've been thinking about lately is what trade-offs companies are willing to make in order...",
+      "tags": [
+        "ai",
+        "webdev",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8qjmuxjtnum9f12ayk07.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
@@ -3161,21 +3169,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "A lot of good points here https://antirez.com/news/169",
-      "url": "https://dev.to/ben/a-lot-of-good-points-here-httpsantirezcomnews169-417f",
-      "published_at": "2026-07-13T15:17:02Z",
-      "description": "antirez.com",
-      "tags": [
-        "ai",
-        "llm",
-        "productivity",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4n0aaxfnega4mu1u0x87.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3223,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 943,
       "user": "mshumer"
     },
     {
@@ -3238,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 665,
       "user": "gnipbao"
     },
     {
@@ -3253,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 387,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3268,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 226,
       "user": "finna"
     },
     {
@@ -3298,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1637,
+      "stars": 1671,
       "user": "slvDev"
     },
     {
@@ -3313,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 920,
       "user": "mikiarlo3"
     },
     {
@@ -3328,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 596,
       "user": "VictorTaelin"
     },
     {
@@ -3373,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 218,
       "user": "edaywalid"
     },
     {
@@ -3388,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 192,
       "user": "iximiuz"
     },
     {
@@ -3448,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1384,
+      "stars": 1488,
       "user": "vercel-labs"
     },
     {
@@ -3463,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1150,
       "user": "Jakubantalik"
     },
     {
@@ -3478,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 819,
       "user": "makecindy"
     },
     {
@@ -3493,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 584,
       "user": "hahhforest"
     },
     {
@@ -3512,6 +3505,21 @@
       "user": "0xhype"
     },
     {
+      "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "published_at": "2026-07-23T02:48:07Z",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "kvcache-ai"
+    },
+    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -3523,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "neural-maze"
     },
     {
@@ -3557,21 +3565,6 @@
       "user": "Evokoa"
     },
     {
-      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
-      "published_at": "2026-07-23T09:43:07Z",
-      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
-      "source": "GitHub",
-      "stars": 129,
-      "user": "rrrjqy66"
-    },
-    {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
       "url": "https://github.com/steelbrain/reims-vgpu",
       "published_at": "2026-07-26T12:23:35Z",
@@ -3583,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "steelbrain"
     },
     {
@@ -3613,17 +3606,20 @@
       "user": "dominicm"
     },
     {
-      "title": "lobste.rs ~~has~~had a js-error: here is a mitigation",
-      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_had_js_error_here_is",
-      "published_at": "2026-07-27T04:48:30.412-05:00",
-      "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
+      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
+      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
+      "published_at": "2026-07-27T12:10:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "javascript",
-        "meta"
+        "tooling-recommendation",
+        "python",
+        "pdf",
+        "ocr",
+        "python-tesseract"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "refp"
+      "source": "StackOverflow",
+      "user": "AZAPI.ai"
     },
     {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
