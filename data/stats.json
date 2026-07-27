@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 84,
+    "AI": 85,
     "JavaScript": 38,
     "Python": 31,
     "DevOps": 16,
@@ -18,7 +18,7 @@
     "Mobile": 3,
     "Cloud": 18,
     "Database": 5,
-    "Security": 21,
+    "Security": 23,
     "Tools": 45
   },
   "by_language": {
@@ -30,14 +30,14 @@
     "Swift": 1
   },
   "by_date": {
+    "2026-07-27": 38,
     "2026-07-26": 11,
-    "2026-07-27": 37,
-    "2026-07-25": 8,
     "2026-07-20": 4,
     "2026-07-15": 2,
     "2026-07-08": 3,
-    "2026-07-23": 10,
-    "2026-07-24": 21,
+    "2026-07-23": 11,
+    "2026-07-25": 7,
+    "2026-07-24": 20,
     "2026-07-09": 2,
     "2026-07-22": 11,
     "2026-07-07": 2,
@@ -100,26 +100,26 @@
     "2024-10-09": 1
   },
   "top_tags": {
-    "ai": 28,
+    "ai": 27,
     "github": 25,
     "open-source": 25,
     "python": 19,
+    "discuss": 17,
     "AI": 17,
-    "discuss": 16,
     "javascript": 16,
     "Security": 13,
     "JavaScript": 12,
     "Python": 11,
     "DevOps": 10,
-    "programming": 7,
-    "webdev": 7,
+    "webdev": 8,
+    "security": 7,
+    "programming": 6,
     "productivity": 6,
     "googlecloud": 6,
     "mcps": 6,
     "career": 6,
     "gemini": 6,
-    "rust": 6,
-    "security": 5
+    "rust": 6
   },
   "trending_topics": [],
   "language_percentages": {
