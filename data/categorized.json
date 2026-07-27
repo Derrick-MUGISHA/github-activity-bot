@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "published_at": "2026-07-24T12:35:53Z",
-      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
       "published_at": "2026-07-23T23:57:31Z",
@@ -59,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
+    },
+    {
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
+      "published_at": "2026-07-24T12:35:53Z",
+      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
       "source": "Dev.to",
       "user": "Gemini Team"
+    },
+    {
+      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
+      "published_at": "2026-07-24T12:27:58Z",
+      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Why AI Apps Fail in Production (And How Google Solved It)",
@@ -389,20 +389,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "published_at": "2026-06-29T07:18:48Z",
-      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
-      "tags": [
-        "ai",
-        "llm",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
       "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
       "published_at": "2026-07-22T22:03:30Z",
@@ -416,6 +402,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
       "source": "Dev.to",
       "user": " Gábor Mészáros"
+    },
+    {
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "published_at": "2026-06-29T07:18:48Z",
+      "description": "I have been writing about AI for quite a while now, but this is probably the first time I genuinely...",
+      "tags": [
+        "ai",
+        "llm",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqyvnjsnesniynh4qc6pj.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "finna"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1531,
       "user": "slvDev"
     },
     {
@@ -732,8 +732,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 877,
       "user": "mikiarlo3"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 459,
+      "user": "VictorTaelin"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -747,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "iximiuz"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1119,
       "user": "Jakubantalik"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 728,
       "user": "makecindy"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 198,
       "user": "neural-maze"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "Evokoa"
     },
     {
@@ -852,23 +867,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 113,
       "user": "steelbrain"
     },
     {
-      "title": "Himalaya v2.0.0: CLI to manage emails",
-      "url": "https://fosstodon.org/@pimalaya/116983467890532240",
-      "published_at": "2026-07-25T19:45:08.091-05:00",
+      "title": "Make Reviews Possible Again With This One Simple Trick",
+      "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+      "published_at": "2026-07-27T03:37:51.624-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "email",
-        "release",
-        "rust",
-        "vibecoding"
+        "programming",
+        "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "soywod"
+      "user": "noon"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -898,20 +911,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asim Murtaza"
-    },
-    {
-      "title": "Is X_test really unseen data if I split it from the original dataset before training?",
-      "url": "https://stackoverflow.com/questions/79985851/is-x-test-really-unseen-data-if-i-split-it-from-the-original-dataset-before-trai",
-      "published_at": "2026-07-25T15:02:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "advice",
-        "python",
-        "machine-learning"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bansi Sojitra"
     },
     {
       "title": "Are brain waves the next unlock for physical AI?",
@@ -1289,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 795,
       "user": "mshumer"
     },
     {
@@ -1304,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "gnipbao"
     },
     {
@@ -1319,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 348,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1334,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "finna"
     },
     {
@@ -1349,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "dunefalcon1qrj"
     },
     {
@@ -1364,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 462,
       "user": "mikehasa"
     },
     {
@@ -1379,23 +1378,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1119,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "url": "https://github.com/makecindy/cindy",
-      "published_at": "2026-07-22T17:49:34Z",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "makecindy"
     },
     {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
@@ -1409,8 +1393,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 931,
       "user": "vercel-labs"
+    },
+    {
+      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "published_at": "2026-07-22T17:49:34Z",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
+      "source": "GitHub",
+      "stars": 728,
+      "user": "makecindy"
+    },
+    {
+      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "published_at": "2026-07-21T04:17:35Z",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
+      "source": "GitHub",
+      "stars": 536,
+      "user": "hahhforest"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -1428,39 +1442,10 @@
       "user": "0xhype"
     },
     {
-      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "published_at": "2026-07-21T04:17:35Z",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "hahhforest"
-    },
-    {
-      "title": "Dmitri Gaskin on jQuery (2008)",
-      "url": "https://www.youtube.com/watch?v=8mwKq7_JlS8",
-      "published_at": "2026-07-26T09:50:42.690-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "retrocomputing",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "janus"
-    },
-    {
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
       "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
       "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -1471,20 +1456,35 @@
       "user": "Gary"
     },
     {
-      "title": "How to drag and drop react. How to generate PDF from HTML React",
-      "url": "https://stackoverflow.com/questions/79986167/how-to-drag-and-drop-react-how-to-generate-pdf-from-html-react",
-      "published_at": "2026-07-27T02:43:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How to stream immutable MKV files from CDN in the browser without server-side transcoding or high client load?",
+      "url": "https://stackoverflow.com/questions/79986193/how-to-stream-immutable-mkv-files-from-cdn-in-the-browser-without-server-side-tr",
+      "published_at": "2026-07-27T05:03:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
-        "reactjs",
-        "next.js13",
-        "html2canvas",
-        "react-draggable"
+        "video-streaming",
+        "html5-video",
+        "media-source",
+        "mkv"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Aabid Hussain Wani"
+      "user": "Amir95"
+    },
+    {
+      "title": "Canvas Benchmark vs. Browser Profiler",
+      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
+      "published_at": "2026-07-27T05:57:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "canvas",
+        "html5-canvas",
+        "profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dandeto"
     },
     {
       "title": "Can the JS code event listener \"know\" the event target within an openshadow DOM node?",
@@ -1504,7 +1504,7 @@
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "firebase",
@@ -1586,20 +1586,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ss511"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1856,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1531,
       "user": "slvDev"
     },
     {
@@ -1871,23 +1857,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 877,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "berabuddies"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -1901,23 +1872,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 462,
       "user": "mikehasa"
     },
     {
-      "title": "AdelanSupport/adelan-support - GitHub Repository",
-      "url": "https://github.com/AdelanSupport/adelan-support",
-      "published_at": "2026-07-21T07:28:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 410,
-      "user": "AdelanSupport"
+      "stars": 459,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "published_at": "2026-07-22T22:26:08Z",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
+      "source": "GitHub",
+      "stars": 450,
+      "user": "berabuddies"
+    },
+    {
+      "title": "Wrong manual caching of recursion",
+      "url": "https://stackoverflow.com/questions/79986133/wrong-manual-caching-of-recursion",
+      "published_at": "2026-07-26T20:51:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "python",
+        "recursion",
+        "caching",
+        "lru"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
     },
     {
       "title": "Velocity Increases rapidly",
@@ -1976,21 +1977,6 @@
       "user": "stgatilov"
     },
     {
-      "title": "Minecraft automation to break stones",
-      "url": "https://stackoverflow.com/questions/79985920/minecraft-automation-to-break-stones",
-      "published_at": "2026-07-25T21:24:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "minecraft",
-        "pyautogui",
-        "timedelta"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hachi"
-    },
-    {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
       "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
       "published_at": "2026-07-25T07:12:40.000Z",
@@ -2007,6 +1993,21 @@
       "user": "madjetmax"
     },
     {
+      "title": "Minecraft automation to break stones",
+      "url": "https://stackoverflow.com/questions/79985920/minecraft-automation-to-break-stones",
+      "published_at": "2026-07-25T21:24:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "minecraft",
+        "pyautogui",
+        "timedelta"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hachi"
+    },
+    {
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
@@ -2020,17 +2021,18 @@
       "user": "alekscooper"
     },
     {
-      "title": "How to use a list in a pattern in re.match",
-      "url": "https://stackoverflow.com/questions/79985798/how-to-use-a-list-in-a-pattern-in-re-match",
-      "published_at": "2026-07-25T11:10:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "title": "How do I prevent redaction rectangles from removing surrounding text?",
+      "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
+      "published_at": "2026-07-23T09:38:49.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "python",
-        "python-re"
+        "pymupdf",
+        "redaction"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Patypatty"
+      "user": "mortalmuffin"
     },
     {
       "title": "Playwright python script function waiting at book 161",
@@ -2047,20 +2049,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asim Murtaza"
-    },
-    {
-      "title": "Is X_test really unseen data if I split it from the original dataset before training?",
-      "url": "https://stackoverflow.com/questions/79985851/is-x-test-really-unseen-data-if-i-split-it-from-the-original-dataset-before-trai",
-      "published_at": "2026-07-25T15:02:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "advice",
-        "python",
-        "machine-learning"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bansi Sojitra"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2272,7 +2260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 198,
       "user": "neural-maze"
     }
   ],
@@ -2323,7 +2311,7 @@
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
       "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
       "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -2334,20 +2322,35 @@
       "user": "Gary"
     },
     {
-      "title": "How to drag and drop react. How to generate PDF from HTML React",
-      "url": "https://stackoverflow.com/questions/79986167/how-to-drag-and-drop-react-how-to-generate-pdf-from-html-react",
-      "published_at": "2026-07-27T02:43:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How to stream immutable MKV files from CDN in the browser without server-side transcoding or high client load?",
+      "url": "https://stackoverflow.com/questions/79986193/how-to-stream-immutable-mkv-files-from-cdn-in-the-browser-without-server-side-tr",
+      "published_at": "2026-07-27T05:03:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
-        "reactjs",
-        "next.js13",
-        "html2canvas",
-        "react-draggable"
+        "video-streaming",
+        "html5-video",
+        "media-source",
+        "mkv"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Aabid Hussain Wani"
+      "user": "Amir95"
+    },
+    {
+      "title": "Canvas Benchmark vs. Browser Profiler",
+      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
+      "published_at": "2026-07-27T05:57:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "canvas",
+        "html5-canvas",
+        "profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dandeto"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -2377,20 +2380,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavik Gedia"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 29 answers · score 19",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2423,18 +2412,6 @@
     }
   ],
   "Mobile": [
-    {
-      "title": "Using ThinkPad T480 as a mobile phone",
-      "url": "https://grego.site/blog/thinkphone",
-      "published_at": "2026-07-26T18:17:55.829-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gnyeki"
-    },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
       "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
@@ -2775,7 +2752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 450,
       "user": "berabuddies"
     },
     {
@@ -2790,7 +2767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 198,
       "user": "neural-maze"
     },
     {
@@ -2804,6 +2781,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ubernostrum"
+    },
+    {
+      "title": "PGSimCity: How PostgreSQL Works, in 3D",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "published_at": "2026-07-27T03:20:46.930-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "linkdd"
     },
     {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
@@ -3003,10 +2992,23 @@
       "user": "ewenjo"
     },
     {
+      "title": "What does GitHub’s security team even do?",
+      "url": "https://orchidfiles.com/github-security-team/",
+      "published_at": "2026-07-27T01:06:58.012-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dominicm"
+    },
+    {
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "firebase",
@@ -3051,21 +3053,6 @@
   ],
   "Tools": [
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
       "published_at": "2026-07-09T14:44:40Z",
@@ -3079,6 +3066,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
+    },
+    {
+      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
+      "published_at": "2026-07-24T12:27:58Z",
+      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Your Career Matters. So Does the Person Building It.",
@@ -3218,7 +3220,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 733,
+      "stars": 795,
       "user": "mshumer"
     },
     {
@@ -3233,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "gnipbao"
     },
     {
@@ -3248,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 348,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3263,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 223,
       "user": "finna"
     },
     {
@@ -3278,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "dunefalcon1qrj"
     },
     {
@@ -3293,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1531,
       "user": "slvDev"
     },
     {
@@ -3308,23 +3310,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 877,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "berabuddies"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -3338,23 +3325,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 462,
       "user": "mikehasa"
     },
     {
-      "title": "AdelanSupport/adelan-support - GitHub Repository",
-      "url": "https://github.com/AdelanSupport/adelan-support",
-      "published_at": "2026-07-21T07:28:23Z",
-      "description": "Trending GitHub Repository",
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 410,
-      "user": "AdelanSupport"
+      "stars": 459,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "published_at": "2026-07-22T22:26:08Z",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
+      "source": "GitHub",
+      "stars": 450,
+      "user": "berabuddies"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3368,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 197,
       "user": "edaywalid"
     },
     {
@@ -3383,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "iximiuz"
     },
     {
@@ -3443,23 +3445,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1119,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "url": "https://github.com/makecindy/cindy",
-      "published_at": "2026-07-22T17:49:34Z",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "makecindy"
     },
     {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
@@ -3473,8 +3460,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 931,
       "user": "vercel-labs"
+    },
+    {
+      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "published_at": "2026-07-22T17:49:34Z",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
+      "source": "GitHub",
+      "stars": 728,
+      "user": "makecindy"
+    },
+    {
+      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "url": "https://github.com/hahhforest/pi-textbook",
+      "published_at": "2026-07-21T04:17:35Z",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
+      "source": "GitHub",
+      "stars": 536,
+      "user": "hahhforest"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -3492,21 +3509,6 @@
       "user": "0xhype"
     },
     {
-      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "published_at": "2026-07-21T04:17:35Z",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
-      "source": "GitHub",
-      "stars": 502,
-      "user": "hahhforest"
-    },
-    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -3518,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 198,
       "user": "neural-maze"
     },
     {
@@ -3548,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 144,
       "user": "Evokoa"
     },
     {
@@ -3563,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "rrrjqy66"
     },
     {
@@ -3578,8 +3580,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 113,
       "user": "steelbrain"
+    },
+    {
+      "title": "What does GitHub’s security team even do?",
+      "url": "https://orchidfiles.com/github-security-team/",
+      "published_at": "2026-07-27T01:06:58.012-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dominicm"
     },
     {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
