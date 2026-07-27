@@ -31,21 +31,6 @@
       "user": "Athreya aka Maneshwar"
     },
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
       "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
       "published_at": "2026-07-27T02:11:38Z",
@@ -61,6 +46,31 @@
       "user": "Karthigayan Devan"
     },
     {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Google ADK: Introduction to AI Agent Development",
       "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e",
       "published_at": "2026-07-26T15:56:55Z",
@@ -74,16 +84,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
       "source": "Dev.to",
       "user": "John Bulla"
-    },
-    {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -741,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "finna"
     },
     {
@@ -756,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1686,
       "user": "slvDev"
     },
     {
@@ -771,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 926,
       "user": "mikiarlo3"
     },
     {
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 606,
       "user": "VictorTaelin"
     },
     {
@@ -801,7 +801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "iximiuz"
     },
     {
@@ -831,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1154,
       "user": "Jakubantalik"
     },
     {
@@ -846,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 824,
       "user": "makecindy"
     },
     {
@@ -861,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 393,
       "user": "kvcache-ai"
     },
     {
@@ -876,7 +876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "neural-maze"
     },
     {
@@ -906,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "Evokoa"
     },
     {
@@ -921,7 +921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "steelbrain"
     },
     {
@@ -964,6 +964,82 @@
       "user": "Gary"
     },
     {
+      "title": "RuntimeError: Event loop is closed - python exception",
+      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
+      "published_at": "2026-07-27T17:18:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "asynchronous",
+        "python-aiofiles"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liomtr"
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "published_at": "2026-07-27T18:32:11.000Z",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "tags": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "Microsoft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+      "published_at": "2026-07-27T18:28:15.000Z",
+      "description": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
+      "tags": [
+        "Apps",
+        "app store",
+        "Apple"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "published_at": "2026-07-27T17:49:28.000Z",
+      "description": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+      "tags": [
+        "Climate",
+        "Startups",
+        "Antares Nuclear",
+        "nuclear fission",
+        "nuclear power"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "published_at": "2026-07-27T17:28:42.000Z",
+      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "tags": [
+        "AI",
+        "ai alignment",
+        "ai safety",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Threads users can now chat with Meta AI in their DMs",
       "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
       "published_at": "2026-07-27T16:45:24.000Z",
@@ -971,6 +1047,8 @@
       "tags": [
         "AI",
         "Apps",
+        "In Brief",
+        "meta ai",
         "Threads"
       ],
       "cover_image": null,
@@ -1037,52 +1115,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "published_at": "2026-07-27T13:00:00.000Z",
-      "description": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Startups",
-        "enigma",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
-      "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-      "published_at": "2026-07-27T10:00:00.000Z",
-      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from OpenAI and DeepMind. With this fresh capital",
-      "tags": [
-        "Media & Entertainment",
-        "Startups",
-        "Venture",
-        "tbpn"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "published_at": "2026-07-27T00:19:14.000Z",
-      "description": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Exclusive",
-        "physical ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1357,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 968,
       "user": "mshumer"
     },
     {
@@ -1372,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "gnipbao"
     },
     {
@@ -1387,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1402,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "finna"
     },
     {
@@ -1436,6 +1468,21 @@
       "user": "mikehasa"
     },
     {
+      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "url": "https://github.com/cocofhu/approving",
+      "published_at": "2026-07-24T15:27:02Z",
+      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "cocofhu"
+    },
+    {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
       "url": "https://github.com/vercel-labs/scriptc",
       "published_at": "2026-07-22T23:04:54Z",
@@ -1447,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1559,
       "user": "vercel-labs"
     },
     {
@@ -1462,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1154,
       "user": "Jakubantalik"
     },
     {
@@ -1477,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 824,
       "user": "makecindy"
     },
     {
@@ -1492,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "hahhforest"
     },
     {
@@ -1580,6 +1627,20 @@
       "user": "Gary"
     },
     {
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rahul"
+    },
+    {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
       "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
       "published_at": "2026-07-26T08:24:22.000Z",
@@ -1591,20 +1652,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
     },
     {
       "title": "Webpack parsing error when bundling fine-looking files",
@@ -1650,6 +1697,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
+    },
+    {
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "published_at": "2026-07-27T17:49:28.000Z",
+      "description": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+      "tags": [
+        "Climate",
+        "Startups",
+        "Antares Nuclear",
+        "nuclear fission",
+        "nuclear power"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1906,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1686,
       "user": "slvDev"
     },
     {
@@ -1921,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 926,
       "user": "mikiarlo3"
     },
     {
@@ -1936,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 606,
       "user": "VictorTaelin"
     },
     {
@@ -1968,6 +2031,21 @@
       "source": "GitHub",
       "stars": 454,
       "user": "berabuddies"
+    },
+    {
+      "title": "RuntimeError: Event loop is closed - python exception",
+      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
+      "published_at": "2026-07-27T17:18:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "asynchronous",
+        "python-aiofiles"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liomtr"
     },
     {
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
@@ -2100,19 +2178,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali-raza-py"
-    },
-    {
-      "title": "Wrapper around generators and lists with list-like interface",
-      "url": "https://stackoverflow.com/questions/79985882/wrapper-around-generators-and-lists-with-list-like-interface",
-      "published_at": "2026-07-25T16:51:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "generator"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stgatilov"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2298,6 +2363,21 @@
       "user": "jknupp"
     },
     {
+      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "url": "https://github.com/cocofhu/approving",
+      "published_at": "2026-07-24T15:27:02Z",
+      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "cocofhu"
+    },
+    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -2309,7 +2389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "neural-maze"
     }
   ],
@@ -2459,6 +2539,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9npidag0wb102wr8bmsg.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Amazon&#8217;s new satellite network for mobile phones could turn up the heat on SpaceX",
+      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+      "published_at": "2026-07-27T18:08:29.000Z",
+      "description": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+      "tags": [
+        "Space",
+        "Amazon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2726,6 +2819,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alekscooper"
+    },
+    {
+      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+      "published_at": "2026-07-27T18:28:15.000Z",
+      "description": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
+      "tags": [
+        "Apps",
+        "app store",
+        "Apple"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -2768,7 +2875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "neural-maze"
     },
     {
@@ -2806,21 +2913,6 @@
   ],
   "Security": [
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
       "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
       "published_at": "2026-07-27T02:11:38Z",
@@ -2834,6 +2926,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
@@ -3027,7 +3134,7 @@
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "firebase",
@@ -3036,6 +3143,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "rahul"
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "published_at": "2026-07-27T18:32:11.000Z",
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "tags": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "Microsoft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     }
   ],
   "Tools": [
@@ -3216,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 968,
       "user": "mshumer"
     },
     {
@@ -3231,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "gnipbao"
     },
     {
@@ -3246,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3261,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "finna"
     },
     {
@@ -3291,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1686,
       "user": "slvDev"
     },
     {
@@ -3306,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 926,
       "user": "mikiarlo3"
     },
     {
@@ -3321,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 606,
       "user": "VictorTaelin"
     },
     {
@@ -3366,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 224,
       "user": "edaywalid"
     },
     {
@@ -3381,14 +3503,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "iximiuz"
     },
     {
-      "title": "cocofhu/approving - Compose coding agents into workflows you can trust",
+      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
       "url": "https://github.com/cocofhu/approving",
       "published_at": "2026-07-24T15:27:02Z",
-      "description": "Compose coding agents into workflows you can trust",
+      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
       "tags": [
         "go",
         "github",
@@ -3441,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1559,
       "user": "vercel-labs"
     },
     {
@@ -3456,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1154,
       "user": "Jakubantalik"
     },
     {
@@ -3471,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 824,
       "user": "makecindy"
     },
     {
@@ -3486,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "hahhforest"
     },
     {
@@ -3516,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 393,
       "user": "kvcache-ai"
     },
     {
@@ -3531,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "neural-maze"
     },
     {
@@ -3561,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "Evokoa"
     },
     {
@@ -3576,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "steelbrain"
     },
     {
