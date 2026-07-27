@@ -16,21 +16,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
-      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
-      "published_at": "2026-07-26T20:53:41Z",
-      "description": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
-      "tags": [
-        "ai",
-        "opensource",
-        "programming",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png",
-      "source": "Dev.to",
-      "user": "Christoffer Madsen"
-    },
-    {
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
       "published_at": "2026-07-26T16:43:17Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
+      "published_at": "2026-07-26T20:53:41Z",
+      "description": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "tags": [
+        "ai",
+        "opensource",
+        "programming",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png",
+      "source": "Dev.to",
+      "user": "Christoffer Madsen"
     },
     {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
@@ -263,6 +263,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AI builder essentials: tokens, context windows and RAG 101",
+      "url": "https://dev.to/googleai/ai-builder-essentials-tokens-context-windows-and-rag-101-12bn",
+      "published_at": "2026-07-24T19:16:22Z",
+      "description": "Tokens are an important foundational concept that underlie how we interact with LLMs. @greggyb and...",
+      "tags": [
+        "tokenomics",
+        "rag",
+        "tokenmaxxing",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy5oyxzv4hxrxzt7olsgo.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -532,21 +547,6 @@
       "user": "Andrew Bone"
     },
     {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -741,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1724,
+      "stars": 1732,
       "user": "slvDev"
     },
     {
@@ -756,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 935,
       "user": "mikiarlo3"
     },
     {
@@ -771,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 641,
       "user": "VictorTaelin"
     },
     {
@@ -786,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "iximiuz"
     },
     {
@@ -816,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1166,
       "user": "Jakubantalik"
     },
     {
@@ -831,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 836,
       "user": "makecindy"
     },
     {
@@ -846,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 574,
       "user": "kvcache-ai"
     },
     {
@@ -920,18 +920,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "thang"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "published_at": "2026-07-27T12:06:57.616-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -1386,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1014,
       "user": "mshumer"
     },
     {
@@ -1416,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1491,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1692,
       "user": "vercel-labs"
     },
     {
@@ -1506,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1166,
       "user": "Jakubantalik"
     },
     {
@@ -1521,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 836,
       "user": "makecindy"
     },
     {
@@ -1536,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 590,
       "user": "hahhforest"
     },
     {
@@ -1955,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1724,
+      "stars": 1732,
       "user": "slvDev"
     },
     {
@@ -1970,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 935,
       "user": "mikiarlo3"
     },
     {
@@ -1985,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 641,
       "user": "VictorTaelin"
     },
     {
@@ -2022,7 +2010,7 @@
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
       "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
       "published_at": "2026-07-27T16:25:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "computer-vision",
@@ -2113,6 +2101,22 @@
       "user": "Abdulhakeem Awadh"
     },
     {
+      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
+      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
+      "published_at": "2026-07-26T10:48:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "multithreading",
+        "concurrency",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ali-raza-py"
+    },
+    {
       "title": "Velocity Increases rapidly",
       "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
       "published_at": "2026-07-26T12:57:38.000Z",
@@ -2124,22 +2128,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Isaiah noxy"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
-      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
-      "published_at": "2026-07-26T10:48:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "multithreading",
-        "concurrency",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
     },
     {
       "title": "Wrong manual caching of recursion",
@@ -3156,18 +3144,6 @@
       "user": "dominicm"
     },
     {
-      "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "published_at": "2026-07-27T12:06:57.616-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raymii"
-    },
-    {
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
@@ -3407,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1014,
       "user": "mshumer"
     },
     {
@@ -3437,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3482,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1724,
+      "stars": 1732,
       "user": "slvDev"
     },
     {
@@ -3497,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 935,
       "user": "mikiarlo3"
     },
     {
@@ -3512,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 641,
       "user": "VictorTaelin"
     },
     {
@@ -3557,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "edaywalid"
     },
     {
@@ -3572,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "iximiuz"
     },
     {
@@ -3632,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1692,
       "user": "vercel-labs"
     },
     {
@@ -3647,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1165,
+      "stars": 1166,
       "user": "Jakubantalik"
     },
     {
@@ -3662,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 836,
       "user": "makecindy"
     },
     {
@@ -3677,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 590,
       "user": "hahhforest"
     },
     {
@@ -3707,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 574,
       "user": "kvcache-ai"
     },
     {
