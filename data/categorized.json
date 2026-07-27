@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
-      "published_at": "2026-07-23T23:57:31Z",
-      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
-      "tags": [
-        "ai",
-        "codex",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -72,6 +57,21 @@
         "mcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
+      "published_at": "2026-07-23T23:57:31Z",
+      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
+      "tags": [
+        "ai",
+        "codex",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "finna"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1596,
       "user": "slvDev"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 886,
       "user": "mikiarlo3"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 507,
       "user": "VictorTaelin"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "iximiuz"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1132,
       "user": "Jakubantalik"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 771,
       "user": "makecindy"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 202,
       "user": "neural-maze"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "steelbrain"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "Evokoa"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 121,
       "user": "steelbrain"
     },
     {
@@ -877,11 +877,25 @@
       "description": "Lobste.rs Discussion",
       "tags": [
         "programming",
-        "vcs"
+        "vcs",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "noon"
+    },
+    {
+      "title": "lobste.rs has a js-error: here is a mitigation",
+      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+      "published_at": "2026-07-27T04:48:30.412-05:00",
+      "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
+      "tags": [
+        "javascript",
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "refp"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -897,20 +911,20 @@
       "user": "Gary"
     },
     {
-      "title": "Playwright python script function waiting at book 161",
-      "url": "https://stackoverflow.com/questions/79985769/playwright-python-script-function-waiting-at-book-161",
-      "published_at": "2026-07-25T08:11:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "published_at": "2026-07-27T10:00:00.000Z",
+      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital",
       "tags": [
-        "python",
-        "web-scraping",
-        "automation",
-        "playwright",
-        "playwright-python"
+        "Media & Entertainment",
+        "Startups",
+        "Venture",
+        "Europe",
+        "London"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asim Murtaza"
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Are brain waves the next unlock for physical AI?",
@@ -997,19 +1011,6 @@
         "Media & Entertainment",
         "Amazon",
         "Warner Bros Discovery"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "published_at": "2026-07-25T19:23:32.000Z",
-      "description": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "tags": [
-        "Transportation",
-        "Venture"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1288,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 850,
       "user": "mshumer"
     },
     {
@@ -1318,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 361,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1333,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "finna"
     },
     {
@@ -1363,23 +1364,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 467,
       "user": "mikehasa"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 1119,
-      "user": "Jakubantalik"
     },
     {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
@@ -1393,8 +1379,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 1163,
       "user": "vercel-labs"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 1132,
+      "user": "Jakubantalik"
     },
     {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
@@ -1408,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 771,
       "user": "makecindy"
     },
     {
@@ -1423,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 554,
       "user": "hahhforest"
     },
     {
@@ -1442,10 +1443,23 @@
       "user": "0xhype"
     },
     {
+      "title": "lobste.rs has a js-error: here is a mitigation",
+      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+      "published_at": "2026-07-27T04:48:30.412-05:00",
+      "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
+      "tags": [
+        "javascript",
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "refp"
+    },
+    {
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
       "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
       "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -1454,22 +1468,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "How to stream immutable MKV files from CDN in the browser without server-side transcoding or high client load?",
-      "url": "https://stackoverflow.com/questions/79986193/how-to-stream-immutable-mkv-files-from-cdn-in-the-browser-without-server-side-tr",
-      "published_at": "2026-07-27T05:03:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "video-streaming",
-        "html5-video",
-        "media-source",
-        "mkv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Amir95"
     },
     {
       "title": "Canvas Benchmark vs. Browser Profiler",
@@ -1576,7 +1574,7 @@
       "title": "jquery.ripples causes random glitches after running for some time",
       "url": "https://stackoverflow.com/questions/79985599/jquery-ripples-causes-random-glitches-after-running-for-some-time",
       "published_at": "2026-07-24T15:12:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "jquery",
@@ -1586,6 +1584,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ss511"
+    },
+    {
+      "title": "How is audio.duration calculated?",
+      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
+      "published_at": "2026-06-22T11:11:01.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loki"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1842,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1596,
       "user": "slvDev"
     },
     {
@@ -1857,23 +1869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 886,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 462,
-      "user": "mikehasa"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -1887,8 +1884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 507,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 467,
+      "user": "mikehasa"
     },
     {
       "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
@@ -1904,6 +1916,37 @@
       "source": "GitHub",
       "stars": 450,
       "user": "berabuddies"
+    },
+    {
+      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
+      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
+      "published_at": "2026-07-27T11:52:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "amazon-s3",
+        "deep-learning",
+        "architecture"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Himanshu Srivastav"
+    },
+    {
+      "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
+      "url": "https://stackoverflow.com/questions/79986260/udp-sendto-succeeds-but-outgoing-udp-packet-is-not-transmitted-while-receiving",
+      "published_at": "2026-07-27T09:19:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "advice",
+        "python",
+        "sockets",
+        "network-programming",
+        "udp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adeleh Poursadegh"
     },
     {
       "title": "Wrong manual caching of recursion",
@@ -1932,6 +1975,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Isaiah noxy"
+    },
+    {
+      "title": "Lambda in max returns weird value",
+      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
+      "published_at": "2026-07-25T13:54:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "lambda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
     },
     {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
@@ -2006,49 +2062,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hachi"
-    },
-    {
-      "title": "Lambda in max returns weird value",
-      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
-      "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "lambda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alekscooper"
-    },
-    {
-      "title": "How do I prevent redaction rectangles from removing surrounding text?",
-      "url": "https://stackoverflow.com/questions/79984140/how-do-i-prevent-redaction-rectangles-from-removing-surrounding-text",
-      "published_at": "2026-07-23T09:38:49.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "pymupdf",
-        "redaction"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mortalmuffin"
-    },
-    {
-      "title": "Playwright python script function waiting at book 161",
-      "url": "https://stackoverflow.com/questions/79985769/playwright-python-script-function-waiting-at-book-161",
-      "published_at": "2026-07-25T08:11:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "web-scraping",
-        "automation",
-        "playwright",
-        "playwright-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asim Murtaza"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2260,7 +2273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 202,
       "user": "neural-maze"
     }
   ],
@@ -2311,7 +2324,7 @@
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
       "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
       "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "css",
@@ -2320,22 +2333,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "How to stream immutable MKV files from CDN in the browser without server-side transcoding or high client load?",
-      "url": "https://stackoverflow.com/questions/79986193/how-to-stream-immutable-mkv-files-from-cdn-in-the-browser-without-server-side-tr",
-      "published_at": "2026-07-27T05:03:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "video-streaming",
-        "html5-video",
-        "media-source",
-        "mkv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Amir95"
     },
     {
       "title": "Canvas Benchmark vs. Browser Profiler",
@@ -2380,6 +2377,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavik Gedia"
+    },
+    {
+      "title": "How is audio.duration calculated?",
+      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
+      "published_at": "2026-06-22T11:11:01.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loki"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2702,7 +2713,7 @@
       "title": "Lambda in max returns weird value",
       "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
       "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "lambda"
@@ -2767,7 +2778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 202,
       "user": "neural-maze"
     },
     {
@@ -2781,18 +2792,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ubernostrum"
-    },
-    {
-      "title": "PGSimCity: How PostgreSQL Works, in 3D",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "published_at": "2026-07-27T03:20:46.930-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "linkdd"
     },
     {
       "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
@@ -3220,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 850,
       "user": "mshumer"
     },
     {
@@ -3250,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 361,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3265,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "finna"
     },
     {
@@ -3295,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1531,
+      "stars": 1596,
       "user": "slvDev"
     },
     {
@@ -3310,23 +3309,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 886,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 462,
-      "user": "mikehasa"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3340,8 +3324,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 507,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 467,
+      "user": "mikehasa"
     },
     {
       "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
@@ -3370,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 206,
       "user": "edaywalid"
     },
     {
@@ -3385,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 187,
       "user": "iximiuz"
     },
     {
@@ -3415,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 65,
       "user": "gsxhq"
     },
     {
@@ -3434,21 +3433,6 @@
       "user": "surya-koritala"
     },
     {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 1119,
-      "user": "Jakubantalik"
-    },
-    {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
       "url": "https://github.com/vercel-labs/scriptc",
       "published_at": "2026-07-22T23:04:54Z",
@@ -3460,8 +3444,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 1163,
       "user": "vercel-labs"
+    },
+    {
+      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "published_at": "2026-07-21T07:01:53Z",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
+      "source": "GitHub",
+      "stars": 1132,
+      "user": "Jakubantalik"
     },
     {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
@@ -3475,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 771,
       "user": "makecindy"
     },
     {
@@ -3490,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 554,
       "user": "hahhforest"
     },
     {
@@ -3520,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 202,
       "user": "neural-maze"
     },
     {
@@ -3535,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "steelbrain"
     },
     {
@@ -3550,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "Evokoa"
     },
     {
@@ -3565,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "rrrjqy66"
     },
     {
@@ -3580,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 121,
       "user": "steelbrain"
     },
     {
@@ -3595,6 +3594,32 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dominicm"
+    },
+    {
+      "title": "lobste.rs has a js-error: here is a mitigation",
+      "url": "https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation",
+      "published_at": "2026-07-27T04:48:30.412-05:00",
+      "description": "## Introduction\r\n\r\nhttps://lobste.rs – at the time of writing – has a javascript error on load for logged in users:\r\n\r\n    Uncaught ReferenceError: qS is not defined\r\n        at new _LobstersFunction (user-c27ac03d.js:144:34)\r\n        at user-c27ac03d.js:665:17\r\n\r\nThis error is causing much of the site functionality to not work, an easy way to check is to try and `[preview]` a comment, if that does not work – most likely you have an error in the js-console.\r\n\r\nIf you provide the missing definition for `qS` and `qSA` site functionality is restored in full-effect.\r\n\r\nKnown to fix:\r\n\r\n- story / comment upvotes\r\n- comment preview\r\n- `$things_you_have_spammed_click_wondering_why_it_doesnt_work`\r\n\r\n---\r\n\r\n### Override using Dev Tools => Sources => Override\r\n\r\nFor those with webdev experience it is easy to fix the error yourself by simply patching the faulty script with the below:\r\n\r\n    \r\n     const qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n     const qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    \r\n    \r\nIf the above is ran before the faulty line (665 in this case), all is well and things start working again.\r\n\r\n----\r\n\r\n### Use an extension such as TamperMonkey\r\n\r\nAn easier alternative is to use [TamperMonkey](https://www.tampermonkey.net/) to automatically run custom javascript for the site, below is what I use:\r\n\r\n    // ==UserScript==\r\n    // @name         lobste.rs undefined qS/qSA fix\r\n    // @namespace    http://tampermonkey.net/\r\n    // @version      2026-07-27\r\n    // @description  try to take over the world!\r\n    // @author       You\r\n    // @match        https://lobste.rs/*\r\n    // @icon         https://www.google.com/s2/favicons?sz=64&domain=lobste.rs\r\n    // @grant        none\r\n    // ==/UserScript==\r\n    \r\n    (function() {\r\n        'use strict';\r\n         window.qS = (a, b) => b === undefined ? document.querySelector(a) : a.querySelector(b);\r\n         window.qSA = (a,b) => b === undefined ? [...document.querySelectorAll(a)] : [...a.querySelectorAll(b)];\r\n    })();\r\n\r\n\r\n---\r\n\r\n### end-of-transmission\r\n\r\nPersonally I used the override approach after discovering this, but I assume there are more than me who want to use our beloved features while waiting for a redeploy of lobste.rs\r\n\r\n    (\\_/)_00_(\\_/)\r\n          ^- me previewing my own comments like crazy with the mitigation\r\n\r\nHappy browsing!",
+      "tags": [
+        "javascript",
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "refp"
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage",
+      "published_at": "2026-07-27T05:54:37.894-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "carlana"
     },
     {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
