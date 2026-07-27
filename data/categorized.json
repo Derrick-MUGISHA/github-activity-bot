@@ -532,19 +532,19 @@
       "user": "Andrew Bone"
     },
     {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
-      "published_at": "2026-07-08T13:02:03Z",
-      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
+      "published_at": "2026-07-22T22:03:30Z",
+      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
       "tags": [
         "ai",
-        "nanobanana",
-        "codenewbie",
-        "images"
+        "loopengineering",
+        "claude",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
       "source": "Dev.to",
-      "user": "Jen Looper"
+      "user": " Gábor Mészáros"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -741,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1711,
       "user": "slvDev"
     },
     {
@@ -756,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 931,
       "user": "mikiarlo3"
     },
     {
@@ -771,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 627,
       "user": "VictorTaelin"
     },
     {
@@ -816,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1162,
       "user": "Jakubantalik"
     },
     {
@@ -831,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 827,
       "user": "makecindy"
     },
     {
@@ -846,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 512,
       "user": "kvcache-ai"
     },
     {
@@ -861,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "neural-maze"
     },
     {
@@ -906,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "steelbrain"
     },
     {
@@ -978,6 +978,51 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdulhakeem Awadh"
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "published_at": "2026-07-27T21:17:11.000Z",
+      "description": "Businesses that rely wholly on the major AI labs ultimately won't survive, Microsoft CEO Satya Nadella predicts.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Satya Nadella"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+      "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+      "published_at": "2026-07-27T20:40:00.000Z",
+      "description": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+      "tags": [
+        "Media & Entertainment",
+        "peacock",
+        "YouTube"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "published_at": "2026-07-27T20:19:42.000Z",
+      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "tags": [
+        "AI",
+        "Privacy",
+        "Security",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -1055,67 +1100,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Google&#8217;s AI search is rapidly becoming the default, new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "published_at": "2026-07-27T15:57:12.000Z",
-      "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "tags": [
-        "AI",
-        "TC",
-        "ai overviews",
-        "Google",
-        "Search"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-07-27T15:30:00.000Z",
-      "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-      "tags": [
-        "Startups",
-        "AI",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "published_at": "2026-07-27T15:25:37.000Z",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "Reviews"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "published_at": "2026-07-27T15:01:50.000Z",
-      "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Ilya Sutskever",
-        "nvidia",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1390,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 997,
       "user": "mshumer"
     },
     {
@@ -1420,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1495,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1599,
+      "stars": 1636,
       "user": "vercel-labs"
     },
     {
@@ -1510,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1162,
       "user": "Jakubantalik"
     },
     {
@@ -1525,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 827,
       "user": "makecindy"
     },
     {
@@ -1574,6 +1558,19 @@
       "user": "David Brierton"
     },
     {
+      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
+      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
+      "published_at": "2026-07-27T14:04:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "partha"
+    },
+    {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
       "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
       "published_at": "2026-07-27T15:06:41.000Z",
@@ -1586,18 +1583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaeKwang Lee RTB"
-    },
-    {
-      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
-      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
-      "published_at": "2026-07-27T14:04:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "partha"
     },
     {
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
@@ -1686,7 +1671,7 @@
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -1697,6 +1682,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavik Gedia"
+    },
+    {
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "published_at": "2026-07-27T20:40:12.000Z",
+      "description": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "tags": [
+        "Climate",
+        "fusion power",
+        "nuclear fusion",
+        "Thea Energy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Antares raises $470M to build nuclear reactors for the US military",
@@ -1745,35 +1745,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "Build Bulletproof APIs using TypeScript in Express",
-      "url": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
-      "published_at": "2026-07-24T14:24:13.000Z",
-      "description": "If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our",
-      "tags": [
-        "TypeScript",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How Clients and Servers Communicate: Full Handbook on HTTP/1.1, HTTP/2, REST, WebSockets, GraphQL, gRPC, and Protocol Buffers",
-      "url": "https://www.freecodecamp.org/news/how-clients-and-servers-communicate-handbook-http-rest-websockets-graphql-grpc-protobuf/",
-      "published_at": "2026-07-23T23:14:49.000Z",
-      "description": "You've built and consumed APIs. You know what a GET request is, what a JSON response looks like, and how to add an Authorization header. You've used REST, maybe tried GraphQL, and perhaps heard of gRP",
-      "tags": [
-        "server",
-        "clients",
-        "networking",
-        "software",
-        "engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Python": [
@@ -1969,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1711,
       "user": "slvDev"
     },
     {
@@ -1984,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 931,
       "user": "mikiarlo3"
     },
     {
@@ -1999,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 627,
       "user": "VictorTaelin"
     },
     {
@@ -2125,6 +2096,19 @@
       "user": "Abdulhakeem Awadh"
     },
     {
+      "title": "Velocity Increases rapidly",
+      "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
+      "published_at": "2026-07-26T12:57:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "physics"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Isaiah noxy"
+    },
+    {
       "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
       "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
       "published_at": "2026-07-26T10:48:01.000Z",
@@ -2139,19 +2123,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali-raza-py"
-    },
-    {
-      "title": "Velocity Increases rapidly",
-      "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
-      "published_at": "2026-07-26T12:57:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python",
-        "physics"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Isaiah noxy"
     },
     {
       "title": "Wrong manual caching of recursion",
@@ -2180,6 +2151,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alekscooper"
+    },
+    {
+      "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
+      "url": "https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/",
+      "published_at": "2026-07-27T17:45:05.000Z",
+      "description": "Tracking flood risk takes one unglamorous but essential thing: clean and structured data. In this tutorial, you'll build a data pipeline yourself. You'll create a Python ETL (Extract, Transform, Load)",
+      "tags": [
+        "data-engineering",
+        "handbook",
+        "Tutorial",
+        "ETL",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "brooklyn"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -2391,8 +2378,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "neural-maze"
+    },
+    {
+      "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
+      "published_at": "2026-07-27T18:30:27.000Z",
+      "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
+      "tags": [
+        "DevSecOps",
+        "Devops",
+        "Security",
+        "AWS",
+        "book"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
     }
   ],
   "WebDev": [
@@ -2484,7 +2487,7 @@
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
       "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
       "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "html",
@@ -2511,19 +2514,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "Build Bulletproof APIs using TypeScript in Express",
-      "url": "https://www.freecodecamp.org/news/build-bulletproof-apis-using-typescript-in-express/",
-      "published_at": "2026-07-24T14:24:13.000Z",
-      "description": "If you've ever loved the speed of building backend servers with Express.js, but wished you didn't have to guess at types or debug silly runtime errors, we just posted the perfect tutorial for you. Our",
-      "tags": [
-        "TypeScript",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Mobile": [
@@ -2781,21 +2771,6 @@
       "user": "Shir Meir Lador"
     },
     {
-      "title": "Cloudinary's New Image Generation API: One API, Multiple AI Models, and Built-in Asset Management",
-      "url": "https://dev.to/cloudinary/cloudinarys-new-image-generation-api-one-api-multiple-ai-models-and-built-in-asset-management-3ldl",
-      "published_at": "2026-07-08T13:02:03Z",
-      "description": "At conference booths, developers often ask whether we support image generation at Cloudinary, given...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "codenewbie",
-        "images"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcbb8da7bc2ws34lzf5t7.png",
-      "source": "Dev.to",
-      "user": "Jen Looper"
-    },
-    {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
       "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
       "published_at": "2026-07-27T15:06:41.000Z",
@@ -2835,6 +2810,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
+      "published_at": "2026-07-27T18:30:27.000Z",
+      "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
+      "tags": [
+        "DevSecOps",
+        "Devops",
+        "Security",
+        "AWS",
+        "book"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
     }
   ],
   "Database": [
@@ -2877,7 +2868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "neural-maze"
     },
     {
@@ -3147,6 +3138,22 @@
       "user": "rahul"
     },
     {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "published_at": "2026-07-27T20:19:42.000Z",
+      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "tags": [
+        "AI",
+        "Privacy",
+        "Security",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "published_at": "2026-07-27T18:32:11.000Z",
@@ -3160,6 +3167,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
+    },
+    {
+      "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
+      "published_at": "2026-07-27T18:30:27.000Z",
+      "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
+      "tags": [
+        "DevSecOps",
+        "Devops",
+        "Security",
+        "AWS",
+        "book"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Osomudeya Zudonu"
     }
   ],
   "Tools": [
@@ -3340,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 997,
       "user": "mshumer"
     },
     {
@@ -3370,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 395,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3415,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1711,
       "user": "slvDev"
     },
     {
@@ -3430,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 931,
       "user": "mikiarlo3"
     },
     {
@@ -3445,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 627,
       "user": "VictorTaelin"
     },
     {
@@ -3490,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "edaywalid"
     },
     {
@@ -3565,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1599,
+      "stars": 1636,
       "user": "vercel-labs"
     },
     {
@@ -3580,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1162,
       "user": "Jakubantalik"
     },
     {
@@ -3595,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 827,
       "user": "makecindy"
     },
     {
@@ -3640,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 512,
       "user": "kvcache-ai"
     },
     {
@@ -3655,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "neural-maze"
     },
     {
@@ -3700,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "steelbrain"
     },
     {
@@ -3728,6 +3751,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dominicm"
+    },
+    {
+      "title": "Finding bugs in Raft implementations",
+      "url": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
+      "published_at": "2026-07-27T11:40:05.739-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "distributed",
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eatonphil"
     },
     {
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
