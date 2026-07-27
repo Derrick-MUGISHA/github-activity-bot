@@ -61,36 +61,6 @@
       "user": "Nazar Boyko"
     },
     {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
       "published_at": "2026-07-15T06:50:10Z",
@@ -433,6 +403,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
+      "published_at": "2026-07-22T22:03:30Z",
+      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
+      "tags": [
+        "ai",
+        "loopengineering",
+        "claude",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
+      "source": "Dev.to",
+      "user": " Gábor Mészáros"
+    },
+    {
       "title": "Midsommer Madness with WASM, Rust, and Azure Container Apps",
       "url": "https://dev.to/gde/midsommer-madness-with-wasm-rust-and-azure-container-apps-113b",
       "published_at": "2026-07-02T19:14:36Z",
@@ -491,6 +476,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkfl4dvyyv29zk5oxpgat.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The (no longer) missing multi-agent pattern: triggering dynamic workflows from an agent",
+      "url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3",
+      "published_at": "2026-07-14T09:57:26Z",
+      "description": "When building multi-agent systems, rigid state graphs quickly fall apart in the face of dynamic user...",
+      "tags": [
+        "ai",
+        "agents",
+        "adk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxt7hga8ryl89xwjsf9o2.jpg",
+      "source": "Dev.to",
+      "user": "Remigiusz Samborski"
+    },
+    {
+      "title": "Omni Flash Preview with Codex",
+      "url": "https://dev.to/gde/omni-flash-preview-with-codex-3h17",
+      "published_at": "2026-07-05T02:28:00Z",
+      "description": "This article covers the MCP setup and configuration for using Google Omni Preview and underlying...",
+      "tags": [
+        "omniflash",
+        "xcode",
+        "aivideogenerator",
+        "mcpserver"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwr3496nlzie0q50jesw.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -661,19 +691,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "url": "https://github.com/finna/Finn-loop",
+      "published_at": "2026-07-22T16:48:50Z",
+      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "Kritt-ai"
+      "stars": 217,
+      "user": "finna"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -687,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1345,
       "user": "slvDev"
     },
     {
@@ -702,23 +732,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 854,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "url": "https://github.com/MobAI-App/simslim",
-      "published_at": "2026-07-20T15:55:18Z",
-      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
-      "source": "GitHub",
-      "stars": 232,
-      "user": "MobAI-App"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -732,8 +747,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "iximiuz"
+    },
+    {
+      "title": "surya-koritala/sigbound - Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "url": "https://github.com/surya-koritala/sigbound",
+      "published_at": "2026-07-21T02:55:48Z",
+      "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "surya-koritala"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -747,23 +777,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1100,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "published_at": "2026-07-20T09:34:24Z",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
-      "source": "GitHub",
-      "stars": 770,
-      "user": "pireel"
     },
     {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 459,
       "user": "makecindy"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "neural-maze"
     },
     {
@@ -811,21 +826,6 @@
       "user": "steelbrain"
     },
     {
-      "title": "QW-AI-Code/Aether - GitHub Repository",
-      "url": "https://github.com/QW-AI-Code/Aether",
-      "published_at": "2026-07-20T17:06:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "QW-AI-Code"
-    },
-    {
       "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
       "url": "https://github.com/Evokoa/pgContext",
       "published_at": "2026-07-21T06:57:38Z",
@@ -837,8 +837,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "Evokoa"
+    },
+    {
+      "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
+      "url": "https://github.com/steelbrain/reims-vgpu",
+      "published_at": "2026-07-26T12:23:35Z",
+      "description": "reims-vgpu is an experimental virtual GPU for macOS guests",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "steelbrain"
     },
     {
       "title": "Himalaya v2.0.0: CLI to manage emails",
@@ -897,6 +912,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bansi Sojitra"
+    },
+    {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "published_at": "2026-07-27T00:19:14.000Z",
+      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Making sense of the panic over Chinese AI",
@@ -982,20 +1011,6 @@
       "tags": [
         "Transportation",
         "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-      "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-      "published_at": "2026-07-25T16:46:46.000Z",
-      "description": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
-      "tags": [
-        "Media & Entertainment",
-        "Netflix",
-        "Kalshi"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1263,6 +1278,21 @@
       "user": "velmu"
     },
     {
+      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "published_at": "2026-07-25T19:32:36Z",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
+      "source": "GitHub",
+      "stars": 666,
+      "user": "mshumer"
+    },
+    {
       "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "published_at": "2026-07-21T08:54:45Z",
@@ -1278,79 +1308,64 @@
       "user": "gnipbao"
     },
     {
-      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "published_at": "2026-07-25T19:32:36Z",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+      "published_at": "2026-07-24T18:16:29Z",
+      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 636,
-      "user": "mshumer"
+      "stars": 390,
+      "user": "melloworchid8rr6g"
     },
     {
-      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "url": "https://github.com/CatsJuice/sticker-forge",
-      "published_at": "2026-07-20T17:13:15Z",
-      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "title": "danilo-znamerovszkij/draw-your-font - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+      "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "published_at": "2026-07-22T09:47:19Z",
+      "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 595,
-      "user": "CatsJuice"
+      "stars": 308,
+      "user": "danilo-znamerovszkij"
     },
     {
-      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "published_at": "2026-07-20T11:37:49Z",
-      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "url": "https://github.com/finna/Finn-loop",
+      "published_at": "2026-07-22T16:48:50Z",
+      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 593,
-      "user": "zeus-panel"
+      "stars": 217,
+      "user": "finna"
     },
     {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "Kritt-ai"
-    },
-    {
-      "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "url": "https://github.com/Charles-0509/Grok-Register",
-      "published_at": "2026-07-20T16:35:09Z",
-      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "Charles-0509"
+      "stars": 376,
+      "user": "mikehasa"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -1364,23 +1379,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1100,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "published_at": "2026-07-20T09:34:24Z",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
-      "source": "GitHub",
-      "stars": 770,
-      "user": "pireel"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -1409,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 459,
       "user": "makecindy"
     },
     {
@@ -1424,8 +1424,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 449,
       "user": "hahhforest"
+    },
+    {
+      "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "published_at": "2026-07-22T23:04:54Z",
+      "description": "TypeScript-to-Native Compiler",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "vercel-labs"
     },
     {
       "title": "Dmitri Gaskin on jQuery (2008)",
@@ -1830,21 +1845,6 @@
       "user": "arathore"
     },
     {
-      "title": "andrewyng/openworker - GitHub Repository",
-      "url": "https://github.com/andrewyng/openworker",
-      "published_at": "2026-07-20T01:52:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
-      "source": "GitHub",
-      "stars": 6651,
-      "user": "andrewyng"
-    },
-    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -1856,23 +1856,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1345,
       "user": "slvDev"
-    },
-    {
-      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "published_at": "2026-07-20T14:58:48Z",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
-      "source": "GitHub",
-      "stars": 938,
-      "user": "powerycy"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -1886,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 854,
       "user": "mikiarlo3"
     },
     {
@@ -1901,14 +1886,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "berabuddies"
+    },
+    {
+      "title": "AdelanSupport/adelan-support - GitHub Repository",
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "published_at": "2026-07-21T07:28:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
+      "source": "GitHub",
+      "stars": 409,
+      "user": "AdelanSupport"
+    },
+    {
+      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 376,
+      "user": "mikehasa"
     },
     {
       "title": "Velocity Increases rapidly",
       "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
       "published_at": "2026-07-26T12:57:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python",
         "physics"
@@ -1937,7 +1952,7 @@
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
       "url": "https://stackoverflow.com/questions/79985945/is-it-possible-to-retrieve-tkvars-associated-with-a-given-widget",
       "published_at": "2026-07-26T01:36:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tkinter",
@@ -2111,6 +2126,21 @@
       "user": "xbill"
     },
     {
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
+      "published_at": "2026-06-29T16:12:25Z",
+      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
+      "tags": [
+        "antigravity",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "The Big DevOps Misunderstanding",
       "url": "https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd",
       "published_at": "2021-12-19T20:07:33Z",
@@ -2242,7 +2272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "neural-maze"
     }
   ],
@@ -2288,21 +2318,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "published_at": "2026-07-20T09:34:24Z",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
-      "source": "GitHub",
-      "stars": 770,
-      "user": "pireel"
     },
     {
       "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
@@ -2393,19 +2408,16 @@
   ],
   "Mobile": [
     {
-      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "url": "https://github.com/MobAI-App/simslim",
-      "published_at": "2026-07-20T15:55:18Z",
-      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "title": "Using ThinkPad T480 as a mobile phone",
+      "url": "https://grego.site/blog/thinkphone",
+      "published_at": "2026-07-26T18:17:55.829-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "go",
-        "github",
-        "open-source"
+        "hardware"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
-      "source": "GitHub",
-      "stars": 232,
-      "user": "MobAI-App"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gnyeki"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2451,21 +2463,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "[GCP Billing & Vertex AI] Solving Gemini Cost Allocation in a Single Project: Vertex AI Dynamic Billing Labels in Action",
-      "url": "https://dev.to/gde/gcp-billing-vertex-ai-solving-gemini-cost-allocation-in-a-single-project-vertex-ai-dynamic-5aok",
-      "published_at": "2026-07-12T15:09:09Z",
-      "description": "Pain Point: How to Accurately Allocate Gemini API Costs Within the Same Project?   When...",
-      "tags": [
-        "ai",
-        "cloud",
-        "google",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6yzipcljv2243f1njmh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -2678,19 +2675,19 @@
       "user": "xbill"
     },
     {
-      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "published_at": "2026-07-20T11:37:49Z",
-      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "title": "Closing the Trust Gap: Automating GKE Incident Response with Antigravity 2.0, GKE MCP, and Artifacts",
+      "url": "https://dev.to/gde/closing-the-trust-gap-automating-gke-incident-response-with-antigravity-20-and-artifacts-21c9",
+      "published_at": "2026-06-29T16:12:25Z",
+      "description": "Anatomy of the Trust Gap  Before we can talk about the solution, we need to talk honestly about how...",
       "tags": [
-        "javascript",
-        "github",
-        "open-source"
+        "antigravity",
+        "googlecloud",
+        "kubernetes",
+        "cloud"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "zeus-panel"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgitw724wdlp83cm6sybt.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
@@ -2751,21 +2748,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "published_at": "2026-07-20T11:37:49Z",
-      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "zeus-panel"
-    },
-    {
       "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
       "url": "https://github.com/berabuddies/redis-poc",
       "published_at": "2026-07-22T22:26:08Z",
@@ -2777,7 +2759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "berabuddies"
     },
     {
@@ -2792,7 +2774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "neural-maze"
     },
     {
@@ -3005,21 +2987,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "url": "https://github.com/Charles-0509/Grok-Register",
-      "published_at": "2026-07-20T16:35:09Z",
-      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "Charles-0509"
-    },
-    {
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
@@ -3173,6 +3140,21 @@
       "user": "Ben Halpern"
     },
     {
+      "title": "Not Enough SMEs or Customers to Make Your Evals? Make Some!",
+      "url": "https://dev.to/ohkpond/not-enough-smes-or-customers-to-make-your-evals-make-some-11nc",
+      "published_at": "2026-06-25T15:07:57Z",
+      "description": "How to build grounded, validated user personas and turn them into agents that generate eval data, for when you cannot reach real users or SMEs yet.",
+      "tags": [
+        "ai",
+        "evals",
+        "testing",
+        "personas"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fubjone54o1psbc6ckw62.png",
+      "source": "Dev.to",
+      "user": "Kate Pond"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3209,6 +3191,21 @@
       "user": "pabs3"
     },
     {
+      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "published_at": "2026-07-25T19:32:36Z",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
+      "source": "GitHub",
+      "stars": 666,
+      "user": "mshumer"
+    },
+    {
       "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
       "url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "published_at": "2026-07-21T08:54:45Z",
@@ -3224,79 +3221,49 @@
       "user": "gnipbao"
     },
     {
-      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "published_at": "2026-07-25T19:32:36Z",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "title": "melloworchid8rr6g/TG-Polymarket-bot - Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+      "published_at": "2026-07-24T18:16:29Z",
+      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/308083624?v=4",
       "source": "GitHub",
-      "stars": 636,
-      "user": "mshumer"
+      "stars": 390,
+      "user": "melloworchid8rr6g"
     },
     {
-      "title": "CatsJuice/sticker-forge - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-      "url": "https://github.com/CatsJuice/sticker-forge",
-      "published_at": "2026-07-20T17:13:15Z",
-      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "title": "danilo-znamerovszkij/draw-your-font - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+      "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+      "published_at": "2026-07-22T09:47:19Z",
+      "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39363750?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 595,
-      "user": "CatsJuice"
+      "stars": 308,
+      "user": "danilo-znamerovszkij"
     },
     {
-      "title": "zeus-panel/ZEUS-PANEL - A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
-      "url": "https://github.com/zeus-panel/ZEUS-PANEL",
-      "published_at": "2026-07-20T11:37:49Z",
-      "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+      "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
+      "url": "https://github.com/finna/Finn-loop",
+      "published_at": "2026-07-22T16:48:50Z",
+      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307096617?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 593,
-      "user": "zeus-panel"
-    },
-    {
-      "title": "Kritt-ai/open-kritt - Orchestrate AI agents to find real vulnerabilities in code.",
-      "url": "https://github.com/Kritt-ai/open-kritt",
-      "published_at": "2026-07-20T20:26:24Z",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294822847?v=4",
-      "source": "GitHub",
-      "stars": 411,
-      "user": "Kritt-ai"
-    },
-    {
-      "title": "andrewyng/openworker - GitHub Repository",
-      "url": "https://github.com/andrewyng/openworker",
-      "published_at": "2026-07-20T01:52:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3710007?v=4",
-      "source": "GitHub",
-      "stars": 6651,
-      "user": "andrewyng"
+      "stars": 217,
+      "user": "finna"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -3310,23 +3277,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1322,
+      "stars": 1345,
       "user": "slvDev"
-    },
-    {
-      "title": "powerycy/goutoujunshi - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "url": "https://github.com/powerycy/goutoujunshi",
-      "published_at": "2026-07-20T14:58:48Z",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36032407?v=4",
-      "source": "GitHub",
-      "stars": 938,
-      "user": "powerycy"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -3340,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 854,
       "user": "mikiarlo3"
     },
     {
@@ -3355,53 +3307,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "berabuddies"
     },
     {
-      "title": "Charles-0509/Grok-Register - Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-      "url": "https://github.com/Charles-0509/Grok-Register",
-      "published_at": "2026-07-20T16:35:09Z",
-      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "title": "AdelanSupport/adelan-support - GitHub Repository",
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "published_at": "2026-07-21T07:28:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74674339?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307448642?v=4",
       "source": "GitHub",
-      "stars": 472,
-      "user": "Charles-0509"
+      "stars": 409,
+      "user": "AdelanSupport"
     },
     {
-      "title": "MobAI-App/simslim - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
-      "url": "https://github.com/MobAI-App/simslim",
-      "published_at": "2026-07-20T15:55:18Z",
-      "description": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need",
+      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262997908?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 232,
-      "user": "MobAI-App"
-    },
-    {
-      "title": "paxlabs-inc/machine-genome - Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "url": "https://github.com/paxlabs-inc/machine-genome",
-      "published_at": "2026-07-20T12:41:33Z",
-      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/270228290?v=4",
-      "source": "GitHub",
-      "stars": 213,
-      "user": "paxlabs-inc"
+      "stars": 376,
+      "user": "mikehasa"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3415,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "edaywalid"
     },
     {
@@ -3430,8 +3367,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "iximiuz"
+    },
+    {
+      "title": "cocofhu/approving - Compose coding agents into workflows you can trust",
+      "url": "https://github.com/cocofhu/approving",
+      "published_at": "2026-07-24T15:27:02Z",
+      "description": "Compose coding agents into workflows you can trust",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "cocofhu"
+    },
+    {
+      "title": "gsxhq/gsxui - shadcn-style components for gsx — copy-in, type-checked, server-rendered",
+      "url": "https://github.com/gsxhq/gsxui",
+      "published_at": "2026-07-22T20:53:41Z",
+      "description": "shadcn-style components for gsx — copy-in, type-checked, server-rendered",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
+      "source": "GitHub",
+      "stars": 62,
+      "user": "gsxhq"
+    },
+    {
+      "title": "surya-koritala/sigbound - Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "url": "https://github.com/surya-koritala/sigbound",
+      "published_at": "2026-07-21T02:55:48Z",
+      "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
+      "source": "GitHub",
+      "stars": 51,
+      "user": "surya-koritala"
     },
     {
       "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
@@ -3445,23 +3427,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1100,
       "user": "Jakubantalik"
-    },
-    {
-      "title": "pireel/pireel - Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "url": "https://github.com/pireel/pireel",
-      "published_at": "2026-07-20T09:34:24Z",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304991498?v=4",
-      "source": "GitHub",
-      "stars": 770,
-      "user": "pireel"
     },
     {
       "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
@@ -3490,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 459,
       "user": "makecindy"
     },
     {
@@ -3505,8 +3472,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 449,
       "user": "hahhforest"
+    },
+    {
+      "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "published_at": "2026-07-22T23:04:54Z",
+      "description": "TypeScript-to-Native Compiler",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "source": "GitHub",
+      "stars": 344,
+      "user": "vercel-labs"
     },
     {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
@@ -3520,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "neural-maze"
     },
     {
@@ -3539,21 +3521,6 @@
       "user": "steelbrain"
     },
     {
-      "title": "QW-AI-Code/Aether - GitHub Repository",
-      "url": "https://github.com/QW-AI-Code/Aether",
-      "published_at": "2026-07-20T17:06:38Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300384918?v=4",
-      "source": "GitHub",
-      "stars": 142,
-      "user": "QW-AI-Code"
-    },
-    {
       "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
       "url": "https://github.com/Evokoa/pgContext",
       "published_at": "2026-07-21T06:57:38Z",
@@ -3565,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "Evokoa"
     },
     {
@@ -3584,10 +3551,25 @@
       "user": "rrrjqy66"
     },
     {
+      "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
+      "url": "https://github.com/steelbrain/reims-vgpu",
+      "published_at": "2026-07-26T12:23:35Z",
+      "description": "reims-vgpu is an experimental virtual GPU for macOS guests",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "steelbrain"
+    },
+    {
       "title": "Is it possible to retrieve TKVars associated with a given Widget?",
       "url": "https://stackoverflow.com/questions/79985945/is-it-possible-to-retrieve-tkvars-associated-with-a-given-widget",
       "published_at": "2026-07-26T01:36:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tkinter",
