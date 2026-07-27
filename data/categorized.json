@@ -547,21 +547,6 @@
       "user": "Jen Looper"
     },
     {
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "url": "https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn",
-      "published_at": "2026-07-22T22:03:30Z",
-      "description": "You gave the agent a failing test and told it to get the suite green. It came back green. Then you...",
-      "tags": [
-        "ai",
-        "loopengineering",
-        "claude",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1eal2un0eek6dc8vg5i.gif",
-      "source": "Dev.to",
-      "user": " Gábor Mészáros"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -756,7 +741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1699,
       "user": "slvDev"
     },
     {
@@ -771,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 929,
       "user": "mikiarlo3"
     },
     {
@@ -786,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 620,
       "user": "VictorTaelin"
     },
     {
@@ -801,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "iximiuz"
     },
     {
@@ -831,7 +816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1160,
       "user": "Jakubantalik"
     },
     {
@@ -846,7 +831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "makecindy"
     },
     {
@@ -861,7 +846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 461,
       "user": "kvcache-ai"
     },
     {
@@ -921,7 +906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "steelbrain"
     },
     {
@@ -977,6 +962,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "VS Code Jupyter Error: Unable to start Kernel due to a timeout waiting for the ports to get used",
+      "url": "https://stackoverflow.com/questions/79986071/vs-code-jupyter-error-unable-to-start-kernel-due-to-a-timeout-waiting-for-the-p",
+      "published_at": "2026-07-26T16:16:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "python-3.x",
+        "visual-studio-code",
+        "jupyter-notebook",
+        "kernel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abdulhakeem Awadh"
     },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -1389,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 986,
       "user": "mshumer"
     },
     {
@@ -1419,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1494,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1559,
+      "stars": 1599,
       "user": "vercel-labs"
     },
     {
@@ -1509,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1160,
       "user": "Jakubantalik"
     },
     {
@@ -1524,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "makecindy"
     },
     {
@@ -1539,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "hahhforest"
     },
     {
@@ -1556,6 +1557,21 @@
       "source": "GitHub",
       "stars": 513,
       "user": "0xhype"
+    },
+    {
+      "title": "React use() cache gets overwritten by an older Promise after invalidation",
+      "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
+      "published_at": "2026-07-27T19:43:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "caching",
+        "promise"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "David Brierton"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -1681,22 +1697,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhavik Gedia"
-    },
-    {
-      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
-      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
-      "published_at": "2026-07-23T10:14:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "excel",
-        "type-conversion",
-        "exceljs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user31009838"
     },
     {
       "title": "Antares raises $470M to build nuclear reactors for the US military",
@@ -1969,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1699,
       "user": "slvDev"
     },
     {
@@ -1984,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 929,
       "user": "mikiarlo3"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 620,
       "user": "VictorTaelin"
     },
     {
@@ -2109,6 +2109,38 @@
       "user": "Himanshu Srivastav"
     },
     {
+      "title": "VS Code Jupyter Error: Unable to start Kernel due to a timeout waiting for the ports to get used",
+      "url": "https://stackoverflow.com/questions/79986071/vs-code-jupyter-error-unable-to-start-kernel-due-to-a-timeout-waiting-for-the-p",
+      "published_at": "2026-07-26T16:16:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "python-3.x",
+        "visual-studio-code",
+        "jupyter-notebook",
+        "kernel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abdulhakeem Awadh"
+    },
+    {
+      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
+      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
+      "published_at": "2026-07-26T10:48:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "multithreading",
+        "concurrency",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ali-raza-py"
+    },
+    {
       "title": "Velocity Increases rapidly",
       "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
       "published_at": "2026-07-26T12:57:38.000Z",
@@ -2148,36 +2180,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "alekscooper"
-    },
-    {
-      "title": "Is it possible to retrieve TKVars associated with a given Widget?",
-      "url": "https://stackoverflow.com/questions/79985945/is-it-possible-to-retrieve-tkvars-associated-with-a-given-widget",
-      "published_at": "2026-07-26T01:36:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "tkinter",
-        "tk-toolkit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "J_128"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
-      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
-      "published_at": "2026-07-26T10:48:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "multithreading",
-        "concurrency",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
     },
     {
       "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
@@ -3338,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 986,
       "user": "mshumer"
     },
     {
@@ -3368,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3413,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1699,
       "user": "slvDev"
     },
     {
@@ -3428,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 929,
       "user": "mikiarlo3"
     },
     {
@@ -3443,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 620,
       "user": "VictorTaelin"
     },
     {
@@ -3488,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 230,
       "user": "edaywalid"
     },
     {
@@ -3503,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "iximiuz"
     },
     {
@@ -3563,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1559,
+      "stars": 1599,
       "user": "vercel-labs"
     },
     {
@@ -3578,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1160,
       "user": "Jakubantalik"
     },
     {
@@ -3593,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 825,
       "user": "makecindy"
     },
     {
@@ -3608,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "hahhforest"
     },
     {
@@ -3638,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 461,
       "user": "kvcache-ai"
     },
     {
@@ -3698,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "steelbrain"
     },
     {
@@ -3742,20 +3744,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AZAPI.ai"
-    },
-    {
-      "title": "Is it possible to retrieve TKVars associated with a given Widget?",
-      "url": "https://stackoverflow.com/questions/79985945/is-it-possible-to-retrieve-tkvars-associated-with-a-given-widget",
-      "published_at": "2026-07-26T01:36:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "tkinter",
-        "tk-toolkit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "J_128"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
