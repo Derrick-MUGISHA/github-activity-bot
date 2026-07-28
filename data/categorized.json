@@ -61,6 +61,21 @@
       "user": "Christoffer Madsen"
     },
     {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [
+        "mcp",
+        "ai",
+        "data",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
       "published_at": "2026-07-26T16:43:17Z",
@@ -74,16 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
-    },
-    {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Google ADK: Introduction to AI Agent Development",
@@ -726,23 +731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "finna"
-    },
-    {
-      "title": "Invaro/opentax-engine - The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
-      "url": "https://github.com/Invaro/opentax-engine",
-      "published_at": "2026-07-22T07:31:23Z",
-      "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207875643?v=4",
-      "source": "GitHub",
-      "stars": 118,
-      "user": "Invaro"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -756,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1745,
+      "stars": 1793,
       "user": "slvDev"
     },
     {
@@ -771,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 944,
       "user": "mikiarlo3"
     },
     {
@@ -786,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 664,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "MoonshotAI"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -805,21 +810,6 @@
       "user": "iximiuz"
     },
     {
-      "title": "cyi-cc/chatgpt-register - GitHub Repository",
-      "url": "https://github.com/cyi-cc/chatgpt-register",
-      "published_at": "2026-07-23T13:49:49Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
-      "source": "GitHub",
-      "stars": 45,
-      "user": "cyi-cc"
-    },
-    {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "url": "https://github.com/makecindy/cindy",
       "published_at": "2026-07-22T17:49:34Z",
@@ -831,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 894,
       "user": "makecindy"
     },
     {
@@ -846,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 266,
       "user": "deerwork-ai"
     },
     {
@@ -861,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 932,
       "user": "kvcache-ai"
     },
     {
@@ -876,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "neural-maze"
     },
     {
@@ -891,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "steelbrain"
     },
     {
@@ -906,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 141,
       "user": "steelbrain"
     },
     {
@@ -952,7 +942,7 @@
       "title": "RuntimeError: Event loop is closed - python exception",
       "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
       "published_at": "2026-07-27T17:18:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-3.x",
@@ -978,6 +968,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdulhakeem Awadh"
+    },
+    {
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "published_at": "2026-07-28T04:30:00.000Z",
+      "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "tags": [
+        "Startups",
+        "AI",
+        "SpaceX",
+        "cursor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
@@ -1082,22 +1087,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "published_at": "2026-07-27T17:28:42.000Z",
-      "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "tags": [
-        "AI",
-        "ai alignment",
-        "ai safety",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1372,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1057,
       "user": "mshumer"
     },
     {
@@ -1387,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 411,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1402,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "finna"
     },
     {
@@ -1421,19 +1410,19 @@
       "user": "dunefalcon1qrj"
     },
     {
-      "title": "Invaro/opentax-engine - The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
-      "url": "https://github.com/Invaro/opentax-engine",
-      "published_at": "2026-07-22T07:31:23Z",
-      "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "published_at": "2026-07-24T04:27:30Z",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207875643?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 118,
-      "user": "Invaro"
+      "stars": 120,
+      "user": "icebird1998"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -1447,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 495,
       "user": "mikehasa"
     },
     {
@@ -1477,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1740,
+      "stars": 1837,
       "user": "vercel-labs"
     },
     {
@@ -1492,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 894,
       "user": "makecindy"
     },
     {
@@ -1507,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -1522,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 349,
       "user": "RongleCat"
     },
     {
@@ -1537,7 +1526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 266,
       "user": "deerwork-ai"
     },
     {
@@ -1569,20 +1558,6 @@
       "user": "partha"
     },
     {
-      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
-      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
-      "published_at": "2026-07-27T15:06:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaeKwang Lee RTB"
-    },
-    {
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
       "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
       "published_at": "2026-07-27T03:58:51.000Z",
@@ -1595,6 +1570,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
+      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
+      "published_at": "2026-07-27T15:06:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "firebase",
+        "google-cloud-firestore"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JaeKwang Lee RTB"
     },
     {
       "title": "Canvas Benchmark vs. Browser Profiler",
@@ -1626,6 +1615,19 @@
       "user": "Gary"
     },
     {
+      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
+      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
+      "published_at": "2026-07-26T08:24:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "custom-element"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
@@ -1638,19 +1640,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "rahul"
-    },
-    {
-      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
-      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
-      "published_at": "2026-07-26T08:24:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
@@ -1941,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1745,
+      "stars": 1793,
       "user": "slvDev"
     },
     {
@@ -1956,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 944,
       "user": "mikiarlo3"
     },
     {
@@ -1971,8 +1960,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 664,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "MoonshotAI"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -1986,23 +1990,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 495,
       "user": "mikehasa"
-    },
-    {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
-      "source": "GitHub",
-      "stars": 454,
-      "user": "berabuddies"
     },
     {
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
@@ -2024,7 +2013,7 @@
       "title": "RuntimeError: Event loop is closed - python exception",
       "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
       "published_at": "2026-07-27T17:18:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-3.x",
@@ -2034,6 +2023,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
+      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
+      "published_at": "2026-07-27T11:52:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "amazon-s3",
+        "deep-learning",
+        "architecture"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Himanshu Srivastav"
     },
     {
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
@@ -2068,19 +2073,20 @@
       "user": "Adeleh Poursadegh"
     },
     {
-      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
-      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
-      "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
+      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
+      "published_at": "2026-07-26T10:48:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
-        "amazon-s3",
-        "deep-learning",
-        "architecture"
+        "python-3.x",
+        "multithreading",
+        "concurrency",
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Himanshu Srivastav"
+      "user": "ali-raza-py"
     },
     {
       "title": "VS Code Jupyter Error: Unable to start Kernel due to a timeout waiting for the ports to get used",
@@ -2097,22 +2103,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdulhakeem Awadh"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
-      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
-      "published_at": "2026-07-26T10:48:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "multithreading",
-        "concurrency",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
     },
     {
       "title": "Velocity Increases rapidly",
@@ -2381,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "neural-maze"
     },
     {
@@ -2845,21 +2835,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
-      "source": "GitHub",
-      "stars": 454,
-      "user": "berabuddies"
-    },
-    {
       "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
       "url": "https://github.com/neural-maze/production-ocr-course",
       "published_at": "2026-07-22T08:50:00Z",
@@ -2871,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "neural-maze"
     },
     {
@@ -2936,6 +2911,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [
+        "mcp",
+        "ai",
+        "data",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
@@ -3176,6 +3166,21 @@
   ],
   "Tools": [
     {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [
+        "mcp",
+        "ai",
+        "data",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
       "published_at": "2026-07-26T16:43:17Z",
@@ -3189,16 +3194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
-    },
-    {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3352,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1057,
       "user": "mshumer"
     },
     {
@@ -3367,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 411,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3382,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "finna"
     },
     {
@@ -3401,19 +3396,19 @@
       "user": "dunefalcon1qrj"
     },
     {
-      "title": "Invaro/opentax-engine - The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
-      "url": "https://github.com/Invaro/opentax-engine",
-      "published_at": "2026-07-22T07:31:23Z",
-      "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "published_at": "2026-07-24T04:27:30Z",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207875643?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 118,
-      "user": "Invaro"
+      "stars": 120,
+      "user": "icebird1998"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -3427,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1745,
+      "stars": 1793,
       "user": "slvDev"
     },
     {
@@ -3442,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 944,
       "user": "mikiarlo3"
     },
     {
@@ -3457,8 +3452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 664,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "MoonshotAI"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -3472,23 +3482,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 495,
       "user": "mikehasa"
-    },
-    {
-      "title": "berabuddies/redis-poc - RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "published_at": "2026-07-22T22:26:08Z",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272903805?v=4",
-      "source": "GitHub",
-      "stars": 454,
-      "user": "berabuddies"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3502,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "edaywalid"
     },
     {
@@ -3551,19 +3546,19 @@
       "user": "gsxhq"
     },
     {
-      "title": "cyi-cc/chatgpt-register - GitHub Repository",
-      "url": "https://github.com/cyi-cc/chatgpt-register",
-      "published_at": "2026-07-23T13:49:49Z",
-      "description": "Trending GitHub Repository",
+      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "url": "https://github.com/byJoey/fanout",
+      "published_at": "2026-07-26T03:41:14Z",
+      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 45,
-      "user": "cyi-cc"
+      "stars": 47,
+      "user": "byJoey"
     },
     {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
@@ -3577,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1740,
+      "stars": 1837,
       "user": "vercel-labs"
     },
     {
@@ -3592,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 894,
       "user": "makecindy"
     },
     {
@@ -3607,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -3622,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 349,
       "user": "RongleCat"
     },
     {
@@ -3637,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 266,
       "user": "deerwork-ai"
     },
     {
@@ -3652,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 932,
       "user": "kvcache-ai"
     },
     {
@@ -3667,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "neural-maze"
     },
     {
@@ -3682,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "steelbrain"
     },
     {
@@ -3697,7 +3692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 141,
       "user": "steelbrain"
     },
     {
@@ -3712,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "rrrjqy66"
     },
     {
@@ -3729,17 +3724,20 @@
       "user": "carlana"
     },
     {
-      "title": "Finding bugs in Raft implementations",
-      "url": "https://antithesis.com/blog/2026/finding-bugs-in-raft-implementations/",
-      "published_at": "2026-07-27T11:40:05.739-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
+      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
+      "published_at": "2026-07-27T11:52:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "distributed",
-        "testing"
+        "tooling-recommendation",
+        "python",
+        "amazon-s3",
+        "deep-learning",
+        "architecture"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eatonphil"
+      "source": "StackOverflow",
+      "user": "Himanshu Srivastav"
     },
     {
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
