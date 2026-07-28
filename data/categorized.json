@@ -46,6 +46,21 @@
       "user": "Julien Landuré"
     },
     {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
+      "published_at": "2026-07-28T16:18:27Z",
+      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "tags": [
+        "bugsmash",
+        "devchallenge",
+        "debugging",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
       "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
       "published_at": "2026-07-28T05:12:52Z",
@@ -59,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
+      "published_at": "2026-07-27T15:37:53Z",
+      "description": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and Provider synchronously without microtask stream latency or heavy code generation.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -166,6 +196,36 @@
       "user": "Jitendra Gupta"
     },
     {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+      "published_at": "2026-07-26T19:27:29Z",
+      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "python",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55",
+      "published_at": "2026-07-26T17:42:32Z",
+      "description": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "go",
+        "adk",
+        "a2a",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fui3etm0mm66xuqgvz8qs.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -207,51 +267,6 @@
         "mcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g",
-      "published_at": "2026-07-22T22:44:23Z",
-      "description": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-turn stateful edits, an idiot-proof install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
-      "published_at": "2026-07-23T23:57:31Z",
-      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
-      "tags": [
-        "ai",
-        "codex",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -737,6 +752,21 @@
       "user": "finna"
     },
     {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -748,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2000,
+      "stars": 2012,
       "user": "slvDev"
     },
     {
@@ -763,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 983,
       "user": "mikiarlo3"
     },
     {
@@ -778,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 763,
       "user": "VictorTaelin"
     },
     {
@@ -793,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 759,
       "user": "MoonshotAI"
     },
     {
@@ -808,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 214,
       "user": "iximiuz"
     },
     {
@@ -823,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "makecindy"
     },
     {
@@ -838,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "deerwork-ai"
     },
     {
@@ -853,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1381,
       "user": "kvcache-ai"
     },
     {
@@ -868,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "neural-maze"
     },
     {
@@ -900,18 +930,6 @@
       "source": "GitHub",
       "stars": 148,
       "user": "steelbrain"
-    },
-    {
-      "title": "On AI",
-      "url": "https://jcs.org/2026/07/23/ai",
-      "published_at": "2026-07-27T03:52:37.520-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "thang"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -991,23 +1009,36 @@
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "published_at": "2026-07-28T14:00:00.000Z",
-      "description": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
       "tags": [
         "AI",
         "Fundraising",
-        "open-source",
-        "text to speech",
-        "voice AI"
+        "voice AI",
+        "text to speech"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
     },
     {
-      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+      "title": "Apple launches &#8216;Upgrade&#8217; device leasing program in partnership with Klarna",
+      "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+      "published_at": "2026-07-28T13:50:27.000Z",
+      "description": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "Klarna"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "published_at": "2026-07-28T13:19:17.000Z",
-      "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
       "tags": [
         "AI",
         "AWS",
@@ -1031,21 +1062,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "published_at": "2026-07-28T04:30:00.000Z",
-      "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "tags": [
-        "Startups",
-        "AI",
-        "SpaceX",
-        "cursor"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1204,21 +1220,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1350,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1405,
+      "stars": 1487,
       "user": "mshumer"
     },
     {
@@ -1384,6 +1385,21 @@
       "user": "finna"
     },
     {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
       "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
       "published_at": "2026-07-25T10:41:37Z",
@@ -1397,21 +1413,6 @@
       "source": "GitHub",
       "stars": 155,
       "user": "dunefalcon1qrj"
-    },
-    {
-      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "url": "https://github.com/icebird1998/scientific-illustrator",
-      "published_at": "2026-07-24T04:27:30Z",
-      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "icebird1998"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -1455,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2061,
       "user": "vercel-labs"
     },
     {
@@ -1470,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "makecindy"
     },
     {
@@ -1485,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -1515,7 +1516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "deerwork-ai"
     },
     {
@@ -1534,7 +1535,7 @@
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
       "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
       "published_at": "2026-07-28T15:26:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1676,9 +1677,10 @@
       "title": "WhatsApp now lets you make calls using its web app",
       "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
       "published_at": "2026-07-28T14:53:22.000Z",
-      "description": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
+      "description": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
       "tags": [
         "Apps",
+        "In Brief",
         "Meta",
         "WhatsApp"
       ],
@@ -1720,6 +1722,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+      "published_at": "2026-07-26T19:27:29Z",
+      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "python",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
@@ -1897,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2000,
+      "stars": 2012,
       "user": "slvDev"
     },
     {
@@ -1912,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 983,
       "user": "mikiarlo3"
     },
     {
@@ -1927,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 763,
       "user": "VictorTaelin"
     },
     {
@@ -1942,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 759,
       "user": "MoonshotAI"
     },
     {
@@ -1974,6 +1991,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Baptiste Noisette"
+    },
+    {
+      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
+      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
+      "published_at": "2026-07-27T12:10:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "pdf",
+        "ocr",
+        "python-tesseract"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AZAPI.ai"
     },
     {
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
@@ -2021,22 +2054,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Himanshu Srivastav"
-    },
-    {
-      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
-      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
-      "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "pdf",
-        "ocr",
-        "python-tesseract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AZAPI.ai"
     },
     {
       "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
@@ -2353,7 +2370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "neural-maze"
     },
     {
@@ -2462,17 +2479,17 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "The Six Flavors of Dependency Injection in Flutter",
-      "url": "https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea",
-      "published_at": "2026-07-24T18:11:07Z",
-      "description": "Dependency injection isn't just one pattern or package. Here is a breakdown of all six distinct DI mechanisms in Dart & Flutter, from InheritedWidget to compile-time IoC.",
+      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
+      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
+      "published_at": "2026-07-27T15:37:53Z",
+      "description": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and Provider synchronously without microtask stream latency or heavy code generation.",
       "tags": [
         "flutter",
         "dart",
-        "architecture",
-        "mobile"
+        "riverpod",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9npidag0wb102wr8bmsg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2552,6 +2569,21 @@
       "user": "John Bulla"
     },
     {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+      "published_at": "2026-07-26T19:27:29Z",
+      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "python",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -2580,21 +2612,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -2744,10 +2761,10 @@
       "user": "alekscooper"
     },
     {
-      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "published_at": "2026-07-28T13:19:17.000Z",
-      "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
       "tags": [
         "AI",
         "AWS",
@@ -2799,7 +2816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "neural-maze"
     },
     {
@@ -3316,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1405,
+      "stars": 1487,
       "user": "mshumer"
     },
     {
@@ -3350,6 +3367,21 @@
       "user": "finna"
     },
     {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
       "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
       "published_at": "2026-07-25T10:41:37Z",
@@ -3365,21 +3397,6 @@
       "user": "dunefalcon1qrj"
     },
     {
-      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "url": "https://github.com/icebird1998/scientific-illustrator",
-      "published_at": "2026-07-24T04:27:30Z",
-      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "icebird1998"
-    },
-    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -3391,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2000,
+      "stars": 2012,
       "user": "slvDev"
     },
     {
@@ -3406,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 983,
       "user": "mikiarlo3"
     },
     {
@@ -3421,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 763,
       "user": "VictorTaelin"
     },
     {
@@ -3436,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 759,
       "user": "MoonshotAI"
     },
     {
@@ -3466,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "edaywalid"
     },
     {
@@ -3481,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 214,
       "user": "iximiuz"
     },
     {
@@ -3511,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "byJoey"
     },
     {
@@ -3541,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2061,
       "user": "vercel-labs"
     },
     {
@@ -3556,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "makecindy"
     },
     {
@@ -3571,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -3601,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 319,
       "user": "deerwork-ai"
     },
     {
@@ -3616,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1381,
       "user": "kvcache-ai"
     },
     {
@@ -3631,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "neural-maze"
     },
     {
@@ -3692,6 +3709,22 @@
       "user": "hwj"
     },
     {
+      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
+      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
+      "published_at": "2026-07-27T12:10:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "pdf",
+        "ocr",
+        "python-tesseract"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AZAPI.ai"
+    },
+    {
       "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
       "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
       "published_at": "2026-07-27T11:52:20.000Z",
@@ -3706,22 +3739,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Himanshu Srivastav"
-    },
-    {
-      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
-      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
-      "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "pdf",
-        "ocr",
-        "python-tesseract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AZAPI.ai"
     },
     {
       "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
