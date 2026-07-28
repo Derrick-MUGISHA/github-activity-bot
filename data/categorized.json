@@ -16,6 +16,21 @@
       "user": "Thomas Bnt"
     },
     {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
+      "published_at": "2026-07-28T14:00:00Z",
+      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
+      "tags": [
+        "temporal",
+        "codesamples",
+        "industryevents",
+        "durableexecution"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
+      "source": "Dev.to",
+      "user": "Shy Ruparel"
+    },
+    {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
       "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
       "published_at": "2026-07-28T11:09:48Z",
@@ -239,21 +254,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
-      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
-      "published_at": "2026-07-25T07:43:00Z",
-      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
-      "tags": [
-        "ai",
-        "robotics",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
-      "source": "Dev.to",
-      "user": "Ankita Virani"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "finna"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1978,
+      "stars": 2000,
       "user": "slvDev"
     },
     {
@@ -763,23 +763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 980,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 726,
-      "user": "MoonshotAI"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -793,8 +778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 748,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 742,
+      "user": "MoonshotAI"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "iximiuz"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 982,
       "user": "makecindy"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 317,
       "user": "deerwork-ai"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1364,
       "user": "kvcache-ai"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "neural-maze"
     },
     {
@@ -898,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "steelbrain"
     },
     {
@@ -926,19 +926,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaeKwang Lee RTB"
-    },
-    {
-      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
-      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
-      "published_at": "2026-07-26T08:24:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "RuntimeError: Event loop is closed - python exception",
@@ -972,23 +959,52 @@
       "user": "Abdulhakeem Awadh"
     },
     {
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "published_at": "2026-07-28T15:42:26.000Z",
+      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "electrical grid"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "published_at": "2026-07-28T15:10:10.000Z",
+      "description": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+      "tags": [
+        "Commerce",
+        "PayPal",
+        "stripe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "published_at": "2026-07-28T14:00:00.000Z",
       "description": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
       "tags": [
         "AI",
         "Fundraising",
-        "voice AI",
         "open-source",
-        "text to speech"
+        "text to speech",
+        "voice AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
     },
     {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "published_at": "2026-07-28T13:19:17.000Z",
       "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
@@ -1030,49 +1046,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "published_at": "2026-07-28T00:13:33.000Z",
-      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "tags": [
-        "AI",
-        "TC",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "published_at": "2026-07-27T21:17:11.000Z",
-      "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Microsoft",
-        "Satya Nadella"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
-      "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
-      "published_at": "2026-07-27T20:40:00.000Z",
-      "description": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
-      "tags": [
-        "Media & Entertainment",
-        "peacock",
-        "YouTube"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1185,6 +1158,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+      "published_at": "2026-07-28T10:50:54Z",
+      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "tags": [
+        "react",
+        "webdev",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
+    },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
       "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
@@ -1362,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1405,
       "user": "mshumer"
     },
     {
@@ -1377,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 434,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1392,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "finna"
     },
     {
@@ -1422,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "icebird1998"
     },
     {
@@ -1467,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2041,
       "user": "vercel-labs"
     },
     {
@@ -1482,7 +1470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 982,
       "user": "makecindy"
     },
     {
@@ -1512,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "RongleCat"
     },
     {
@@ -1527,8 +1515,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 317,
       "user": "deerwork-ai"
+    },
+    {
+      "title": "Parallel JSON parsing on the GPU with compute shaders",
+      "url": "https://github.com/friendlymatthew/slurpjson#slurpjson",
+      "published_at": "2026-07-28T09:39:46.095-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "matthewkim"
+    },
+    {
+      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
+      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
+      "published_at": "2026-07-28T15:26:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Heba Allah Hashim"
     },
     {
       "title": "React use() cache gets overwritten by an older Promise after invalidation",
@@ -1587,6 +1601,20 @@
       "user": "JaeKwang Lee RTB"
     },
     {
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rahul"
+    },
+    {
       "title": "Canvas Benchmark vs. Browser Profiler",
       "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
       "published_at": "2026-07-27T05:57:33.000Z",
@@ -1614,33 +1642,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
-      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
-      "published_at": "2026-07-26T08:24:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
     },
     {
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
@@ -1672,19 +1673,18 @@
       "user": "Blueberry"
     },
     {
-      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-      "published_at": "2026-07-27T20:40:12.000Z",
-      "description": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "title": "WhatsApp now lets you make calls using its web app",
+      "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+      "published_at": "2026-07-28T14:53:22.000Z",
+      "description": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
       "tags": [
-        "Climate",
-        "fusion power",
-        "nuclear fusion",
-        "Thea Energy"
+        "Apps",
+        "Meta",
+        "WhatsApp"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim De Chant"
+      "user": "Ivan Mehta"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1732,21 +1732,6 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1912,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1978,
+      "stars": 2000,
       "user": "slvDev"
     },
     {
@@ -1927,23 +1912,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 980,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 726,
-      "user": "MoonshotAI"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -1957,8 +1927,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 748,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 742,
+      "user": "MoonshotAI"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -1974,18 +1959,6 @@
       "source": "GitHub",
       "stars": 517,
       "user": "mikehasa"
-    },
-    {
-      "title": "very bad edge case input, which my program python didn't handled and wasn't able to handle it",
-      "url": "https://stackoverflow.com/questions/79987532/very-bad-edge-case-input-which-my-program-python-didnt-handled-and-wasnt-able",
-      "published_at": "2026-07-28T14:22:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anjar houssine"
     },
     {
       "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
@@ -2006,7 +1979,7 @@
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
       "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
       "published_at": "2026-07-27T16:25:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "image-processing",
@@ -2125,6 +2098,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali-raza-py"
+    },
+    {
+      "title": "Lambda in max returns weird value",
+      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
+      "published_at": "2026-07-25T13:54:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "lambda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -2367,7 +2353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "neural-maze"
     },
     {
@@ -2430,19 +2416,6 @@
       "user": "dandeto"
     },
     {
-      "title": "Why might a custom element ignore main CSS styles and return parent node as event target?",
-      "url": "https://stackoverflow.com/questions/79985991/why-might-a-custom-element-ignore-main-css-styles-and-return-parent-node-as-even",
-      "published_at": "2026-07-26T08:24:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "How to make a website? Frontend and Backend",
       "url": "https://stackoverflow.com/questions/79880012/how-to-make-a-website-frontend-and-backend",
       "published_at": "2026-01-31T12:28:08.000Z",
@@ -2502,18 +2475,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9npidag0wb102wr8bmsg.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-      "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-      "published_at": "2026-07-28T03:57:54.188-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "hardware"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "majke"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2634,21 +2595,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -2785,7 +2731,20 @@
       "user": "JaeKwang Lee RTB"
     },
     {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Lambda in max returns weird value",
+      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
+      "published_at": "2026-07-25T13:54:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "lambda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "published_at": "2026-07-28T13:19:17.000Z",
       "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
@@ -2840,7 +2799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "neural-maze"
     },
     {
@@ -3117,7 +3076,7 @@
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "firebase",
@@ -3357,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1328,
+      "stars": 1405,
       "user": "mshumer"
     },
     {
@@ -3372,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 434,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3387,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "finna"
     },
     {
@@ -3417,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 140,
       "user": "icebird1998"
     },
     {
@@ -3432,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1978,
+      "stars": 2000,
       "user": "slvDev"
     },
     {
@@ -3447,23 +3406,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 980,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 726,
-      "user": "MoonshotAI"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3477,8 +3421,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 726,
+      "stars": 748,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 742,
+      "user": "MoonshotAI"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -3507,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 265,
       "user": "edaywalid"
     },
     {
@@ -3522,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 207,
       "user": "iximiuz"
     },
     {
@@ -3552,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 67,
       "user": "byJoey"
     },
     {
@@ -3582,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2041,
       "user": "vercel-labs"
     },
     {
@@ -3597,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 982,
       "user": "makecindy"
     },
     {
@@ -3627,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "RongleCat"
     },
     {
@@ -3642,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 317,
       "user": "deerwork-ai"
     },
     {
@@ -3657,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1338,
+      "stars": 1364,
       "user": "kvcache-ai"
     },
     {
@@ -3672,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 236,
       "user": "neural-maze"
     },
     {
@@ -3702,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "steelbrain"
     },
     {
@@ -3717,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "rrrjqy66"
     },
     {
