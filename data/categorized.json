@@ -16,49 +16,79 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
-      "published_at": "2026-07-27T02:11:38Z",
-      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
-      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
-      "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
-      "published_at": "2026-07-26T20:53:41Z",
-      "description": "I recently tried to share an open-source project I've been working on called Open Vectorizer.  It's a...",
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
+      "published_at": "2026-07-28T11:09:48Z",
+      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
       "tags": [
         "ai",
-        "opensource",
-        "programming",
-        "discuss"
+        "nanobanana",
+        "gemini",
+        "promptengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
       "source": "Dev.to",
-      "user": "Christoffer Madsen"
+      "user": "Julien Landuré"
     },
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "tags": [
+        "agents",
+        "ai",
+        "go",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
       "tags": [
         "ai",
         "security",
         "architecture",
         "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+      "published_at": "2026-07-27T17:09:33Z",
+      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
+      "tags": [
+        "typescript",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build and Deploy Java AI Agents with Google ADK",
+      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
+      "published_at": "2026-07-27T19:24:51Z",
+      "description": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
+      "tags": [
+        "java",
+        "ai",
+        "googlecloud",
+        "debian"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How terminal-sharing tools put your shell in a browser",
@@ -76,19 +106,19 @@
       "user": "Athreya aka Maneshwar"
     },
     {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
+      "published_at": "2026-07-27T02:11:38Z",
+      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
       "tags": [
-        "mcp",
+        "discuss",
         "ai",
-        "data",
-        "security"
+        "security",
+        "opensource"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
       "source": "Dev.to",
-      "user": "Saurabh Mishra"
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Google ADK: Introduction to AI Agent Development",
@@ -106,6 +136,36 @@
       "user": "John Bulla"
     },
     {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [
+        "mcp",
+        "ai",
+        "data",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -119,20 +179,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
-    },
-    {
-      "title": "Every AI Commit Is Someone's Future Legacy Code",
-      "url": "https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l",
-      "published_at": "2026-07-24T13:18:45Z",
-      "description": "AI can finally read 25-year-old codebases. But daily AI coding is quietly creating a new kind of legacy code, faster than ever.",
-      "tags": [
-        "ai",
-        "programming",
-        "legacycode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1643269130443-0b347cc2b315%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3wxMTc3M3wwfDF8c2VhcmNofDQ4fHxsZWdhY3l8ZW58MHx8fHwxNzgzOTY5MzI5fDA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D2000",
-      "source": "Dev.to",
-      "user": "Ender Ahmet Yurt"
     },
     {
       "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -508,50 +554,6 @@
       "user": "xbill"
     },
     {
-      "title": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "published_at": "2026-06-29T16:06:30Z",
-      "description": "While the World’s Fair officially kicks off today a bunch of keen developers were in early, taking...",
-      "tags": [
-        "aie",
-        "ai",
-        "hackathon"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqiwsvm5bewn34guvfnsl.jpg",
-      "source": "Dev.to",
-      "user": "Iain Thomson"
-    },
-    {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -731,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "finna"
     },
     {
@@ -746,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1938,
+      "stars": 1978,
       "user": "slvDev"
     },
     {
@@ -761,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 976,
       "user": "mikiarlo3"
     },
     {
@@ -776,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 726,
       "user": "MoonshotAI"
     },
     {
@@ -791,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 726,
       "user": "VictorTaelin"
     },
     {
@@ -806,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 204,
       "user": "iximiuz"
     },
     {
@@ -821,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 968,
       "user": "makecindy"
     },
     {
@@ -836,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 314,
       "user": "deerwork-ai"
     },
     {
@@ -851,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1338,
       "user": "kvcache-ai"
     },
     {
@@ -866,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 234,
       "user": "neural-maze"
     },
     {
@@ -881,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 167,
       "user": "steelbrain"
     },
     {
@@ -896,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 146,
       "user": "steelbrain"
     },
     {
@@ -970,6 +972,36 @@
       "user": "Abdulhakeem Awadh"
     },
     {
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "published_at": "2026-07-28T14:00:00.000Z",
+      "description": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "voice AI",
+        "open-source",
+        "text to speech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "published_at": "2026-07-28T13:19:17.000Z",
+      "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "tags": [
+        "AI",
+        "AWS",
+        "RSI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
       "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
       "published_at": "2026-07-28T08:00:00.000Z",
@@ -1041,51 +1073,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "published_at": "2026-07-27T20:19:42.000Z",
-      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "tags": [
-        "AI",
-        "Privacy",
-        "Security",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "published_at": "2026-07-27T18:32:11.000Z",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "tags": [
-        "AI",
-        "Security",
-        "cybersecurity",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-      "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
-      "published_at": "2026-07-27T18:28:15.000Z",
-      "description": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1199,19 +1186,34 @@
   ],
   "JavaScript": [
     {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
-      "published_at": "2026-07-23T10:26:15Z",
-      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
+      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
+      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
+      "published_at": "2026-07-28T05:12:29Z",
+      "description": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
       "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "javascript"
+        "javascript",
+        "node",
+        "sideprojects",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
       "source": "Dev.to",
-      "user": "Francesco Ciulla"
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+      "published_at": "2026-07-27T17:09:33Z",
+      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
+      "tags": [
+        "typescript",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -1360,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1328,
       "user": "mshumer"
     },
     {
@@ -1375,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 429,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1390,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "finna"
     },
     {
@@ -1420,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 138,
       "user": "icebird1998"
     },
     {
@@ -1435,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "mikehasa"
     },
     {
@@ -1465,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 2010,
       "user": "vercel-labs"
     },
     {
@@ -1480,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 968,
       "user": "makecindy"
     },
     {
@@ -1525,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 314,
       "user": "deerwork-ai"
     },
     {
@@ -1641,26 +1643,10 @@
       "user": "rahul"
     },
     {
-      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
-      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
-      "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "html",
-        "angular",
-        "google-chrome",
-        "onbeforeunload"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhavik Gedia"
-    },
-    {
       "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
       "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
       "published_at": "2026-07-23T10:14:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
@@ -1673,14 +1659,27 @@
       "user": "user31009838"
     },
     {
+      "title": "How to make a website? Frontend and Backend",
+      "url": "https://stackoverflow.com/questions/79880012/how-to-make-a-website-frontend-and-backend",
+      "published_at": "2026-01-31T12:28:08.000Z",
+      "description": "Stack Overflow question · 9 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Blueberry"
+    },
+    {
       "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
       "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
       "published_at": "2026-07-27T20:40:12.000Z",
       "description": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
       "tags": [
         "Climate",
-        "nuclear fusion",
         "fusion power",
+        "nuclear fusion",
         "Thea Energy"
       ],
       "cover_image": null,
@@ -1913,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1938,
+      "stars": 1978,
       "user": "slvDev"
     },
     {
@@ -1928,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 976,
       "user": "mikiarlo3"
     },
     {
@@ -1943,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 726,
       "user": "MoonshotAI"
     },
     {
@@ -1958,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 726,
       "user": "VictorTaelin"
     },
     {
@@ -1973,8 +1972,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "mikehasa"
+    },
+    {
+      "title": "very bad edge case input, which my program python didn't handled and wasn't able to handle it",
+      "url": "https://stackoverflow.com/questions/79987532/very-bad-edge-case-input-which-my-program-python-didnt-handled-and-wasnt-able",
+      "published_at": "2026-07-28T14:22:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anjar houssine"
+    },
+    {
+      "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
+      "url": "https://stackoverflow.com/questions/79987491/how-to-dismiss-windows-security-smart-card-dialog-during-selenium-robot-framew",
+      "published_at": "2026-07-28T12:09:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "selenium-webdriver",
+        "robotframework",
+        "smartcard"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Baptiste Noisette"
+    },
+    {
+      "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
+      "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
+      "published_at": "2026-07-27T16:25:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "image-processing",
+        "scikit-image",
+        "image-registration",
+        "mutual-information"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32851394"
     },
     {
       "title": "RuntimeError: Event loop is closed - python exception",
@@ -1992,26 +2034,10 @@
       "user": "Liomtr"
     },
     {
-      "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
-      "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
-      "published_at": "2026-07-27T16:25:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "image-processing",
-        "scikit-image",
-        "image-registration",
-        "mutual-information"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32851394"
-    },
-    {
       "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
       "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
       "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -2027,7 +2053,7 @@
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
       "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
       "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -2054,22 +2080,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adeleh Poursadegh"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
-      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
-      "published_at": "2026-07-26T10:48:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "multithreading",
-        "concurrency",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
     },
     {
       "title": "Velocity Increases rapidly",
@@ -2101,32 +2111,20 @@
       "user": "Abdulhakeem Awadh"
     },
     {
-      "title": "Lambda in max returns weird value",
-      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
-      "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
+      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
+      "published_at": "2026-07-26T10:48:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
-        "lambda"
+        "python-3.x",
+        "multithreading",
+        "concurrency",
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "alekscooper"
-    },
-    {
-      "title": "Wrong manual caching of recursion",
-      "url": "https://stackoverflow.com/questions/79986133/wrong-manual-caching-of-recursion",
-      "published_at": "2026-07-26T20:51:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "recursion",
-        "caching",
-        "lru"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alekscooper"
+      "user": "ali-raza-py"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -2162,6 +2160,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
     {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
       "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
@@ -2354,7 +2367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 234,
       "user": "neural-maze"
     },
     {
@@ -2375,36 +2388,6 @@
     }
   ],
   "WebDev": [
-    {
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "url": "https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09",
-      "published_at": "2026-07-23T10:26:15Z",
-      "description": "There is a super-new Rust Web Framework in town, and it's name is Topcoat  Rust is already a solid...",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mo3ccbzdcppseqkrrrp.png",
-      "source": "Dev.to",
-      "user": "Francesco Ciulla"
-    },
-    {
-      "title": "A Pragmatic Look at AI in 2030",
-      "url": "https://dev.to/link2twenty/a-pragmatic-look-at-ai-in-2030-3n6h",
-      "published_at": "2026-07-08T15:01:47Z",
-      "description": "I am in no way an AI researcher or a machine learning expert. I am, however, a full stack web...",
-      "tags": [
-        "ai",
-        "softwareengineering",
-        "discuss",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiyen7ctuyl7a9xu276pa.png",
-      "source": "Dev.to",
-      "user": "Andrew Bone"
-    },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
@@ -2460,20 +2443,17 @@
       "user": "Gary"
     },
     {
-      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
-      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
-      "published_at": "2026-07-24T14:42:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "How to make a website? Frontend and Backend",
+      "url": "https://stackoverflow.com/questions/79880012/how-to-make-a-website-frontend-and-backend",
+      "published_at": "2026-01-31T12:28:08.000Z",
+      "description": "Stack Overflow question · 9 answers · score 1",
       "tags": [
         "javascript",
-        "html",
-        "angular",
-        "google-chrome",
-        "onbeforeunload"
+        "html"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Bhavik Gedia"
+      "user": "Blueberry"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2493,6 +2473,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
+      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
+      "published_at": "2026-07-27T22:37:30Z",
+      "description": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in Flutter Hooks applications.",
+      "tags": [
+        "flutter",
+        "dart",
+        "bloc",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "The Six Flavors of Dependency Injection in Flutter",
       "url": "https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea",
@@ -2514,25 +2509,11 @@
       "published_at": "2026-07-28T03:57:54.188-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "audio",
         "hardware"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "majke"
-    },
-    {
-      "title": "Amazon&#8217;s new satellite network for mobile phones could turn up the heat on SpaceX",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-      "published_at": "2026-07-27T18:08:29.000Z",
-      "description": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
-      "tags": [
-        "Space",
-        "Amazon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
@@ -2549,6 +2530,51 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
+      "published_at": "2026-07-27T20:54:36Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxvx6ui36rqas770oxw5o.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+      "published_at": "2026-07-27T17:09:33Z",
+      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
+      "tags": [
+        "typescript",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build and Deploy Java AI Agents with Google ADK",
+      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
+      "published_at": "2026-07-27T19:24:51Z",
+      "description": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
+      "tags": [
+        "java",
+        "ai",
+        "googlecloud",
+        "debian"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Google ADK: Introduction to AI Agent Development",
       "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e",
@@ -2745,21 +2771,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
       "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
       "published_at": "2026-07-27T15:06:41.000Z",
@@ -2774,31 +2785,18 @@
       "user": "JaeKwang Lee RTB"
     },
     {
-      "title": "Lambda in max returns weird value",
-      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
-      "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "published_at": "2026-07-28T13:19:17.000Z",
+      "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
       "tags": [
-        "python",
-        "lambda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alekscooper"
-    },
-    {
-      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-      "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
-      "published_at": "2026-07-27T18:28:15.000Z",
-      "description": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple"
+        "AI",
+        "AWS",
+        "RSI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Russell Brandom"
     },
     {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
@@ -2842,7 +2840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 234,
       "user": "neural-maze"
     },
     {
@@ -2877,6 +2875,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "tags": [
+        "agents",
+        "ai",
+        "go",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
@@ -3086,19 +3114,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Paged Out - Issue #9",
-      "url": "https://pagedout.institute/webview.php?issue=9&page=1",
-      "published_at": "2026-07-27T09:55:38.037-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
@@ -3113,35 +3128,19 @@
       "user": "rahul"
     },
     {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "published_at": "2026-07-27T20:19:42.000Z",
-      "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
+      "url": "https://stackoverflow.com/questions/79987491/how-to-dismiss-windows-security-smart-card-dialog-during-selenium-robot-framew",
+      "published_at": "2026-07-28T12:09:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "AI",
-        "Privacy",
-        "Security",
-        "Anthropic",
-        "Claude"
+        "python",
+        "selenium-webdriver",
+        "robotframework",
+        "smartcard"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "published_at": "2026-07-27T18:32:11.000Z",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "tags": [
-        "AI",
-        "Security",
-        "cybersecurity",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "source": "StackOverflow",
+      "user": "Baptiste Noisette"
     },
     {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
@@ -3161,6 +3160,36 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
+      "published_at": "2026-07-27T20:54:36Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxvx6ui36rqas770oxw5o.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
     {
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
@@ -3281,21 +3310,6 @@
       "user": "Web Developer Hyper"
     },
     {
-      "title": "Google Cloud Labs: Accelerate AI with Cloud Run",
-      "url": "https://dev.to/googleai/google-cloud-labs-accelerate-ai-with-cloud-run-md3",
-      "published_at": "2026-07-21T13:00:00Z",
-      "description": "Moving Beyond the Prototype   The AI landscape has shifted. While \"vibe coding\" with tools...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "agents",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj03kgclih2rxdd0y40td.jpg",
-      "source": "Dev.to",
-      "user": "Shir Meir Lador"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3343,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1328,
       "user": "mshumer"
     },
     {
@@ -3358,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 429,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3373,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "finna"
     },
     {
@@ -3403,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 138,
       "user": "icebird1998"
     },
     {
@@ -3418,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1938,
+      "stars": 1978,
       "user": "slvDev"
     },
     {
@@ -3433,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 976,
       "user": "mikiarlo3"
     },
     {
@@ -3448,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 726,
       "user": "MoonshotAI"
     },
     {
@@ -3463,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 726,
       "user": "VictorTaelin"
     },
     {
@@ -3478,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "mikehasa"
     },
     {
@@ -3493,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 261,
       "user": "edaywalid"
     },
     {
@@ -3508,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 204,
       "user": "iximiuz"
     },
     {
@@ -3527,6 +3541,21 @@
       "user": "cocofhu"
     },
     {
+      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "url": "https://github.com/byJoey/fanout",
+      "published_at": "2026-07-26T03:41:14Z",
+      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "byJoey"
+    },
+    {
       "title": "gsxhq/gsxui - shadcn-style components for gsx — copy-in, type-checked, server-rendered",
       "url": "https://github.com/gsxhq/gsxui",
       "published_at": "2026-07-22T20:53:41Z",
@@ -3542,21 +3571,6 @@
       "user": "gsxhq"
     },
     {
-      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
-      "url": "https://github.com/byJoey/fanout",
-      "published_at": "2026-07-26T03:41:14Z",
-      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 62,
-      "user": "byJoey"
-    },
-    {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
       "url": "https://github.com/vercel-labs/scriptc",
       "published_at": "2026-07-22T23:04:54Z",
@@ -3568,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 2010,
       "user": "vercel-labs"
     },
     {
@@ -3583,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 968,
       "user": "makecindy"
     },
     {
@@ -3628,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 314,
       "user": "deerwork-ai"
     },
     {
@@ -3643,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1338,
       "user": "kvcache-ai"
     },
     {
@@ -3658,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 234,
       "user": "neural-maze"
     },
     {
@@ -3673,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 167,
       "user": "steelbrain"
     },
     {
@@ -3688,7 +3702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 146,
       "user": "steelbrain"
     },
     {
@@ -3707,19 +3721,6 @@
       "user": "rrrjqy66"
     },
     {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage",
-      "published_at": "2026-07-27T05:54:37.894-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "carlana"
-    },
-    {
       "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
       "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
       "published_at": "2026-07-28T05:32:54.344-05:00",
@@ -3735,7 +3736,7 @@
       "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
       "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
       "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -3751,7 +3752,7 @@
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
       "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
       "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python",

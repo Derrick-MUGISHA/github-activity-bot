@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--28-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-28 14:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-28 16:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,19 +37,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg" width="200" alt="Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers" />
+    <a href="https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png" width="200" alt="Your Face on a World Cup Sticker: Our Nano Banana Story" />
       <br/>
-      <b>Auditing Agent Skills: A Threat Model for the Next...</b>
+      <b>Your Face on a World Cup Sticker: Our Nano Banana ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png" width="200" alt="I Built Something Good With AI. Now Some Developer Communities Don't Want to See It." />
+    <a href="https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png" width="200" alt="[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go" />
       <br/>
-      <b>I Built Something Good With AI. Now Some Developer...</b>
+      <b>[Learning Notes][Golang] Authorization Challenges ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -57,28 +57,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1wc4v5znlm1zstl4lb4w.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxvx6ui36rqas770oxw5o.png" width="200" alt="Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Can Google ADK Talk to Microsoft Foundry on Azure?...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-mm5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkzlxqayfromb22tijyd4.png" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png" width="200" alt="[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)" />
       <br/>
-      <b>Meme Monday</b>
+      <b>[Dev Log][Node.js] Feedly Classic is gone, so I bu...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png" width="200" alt="Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI" />
+    <a href="https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png" width="200" alt="Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents" />
       <br/>
-      <b>Beyond Prompt Injection: The Non-Human Authorizati...</b>
+      <b>Beyond System Prompts: Enforcing Policy & Action B...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 2 | [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25) | Dev.to |
-| 3 | [I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.](https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo) | Dev.to |
-| 4 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h) | Dev.to |
-| 5 | [Meme Monday](https://dev.to/ben/meme-monday-mm5) | Dev.to |
-| 6 | [Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c) | Dev.to |
-| 7 | [How terminal-sharing tools put your shell in a browser](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328) | Dev.to |
-| 8 | [Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks](https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn) | Dev.to |
-| 9 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
-| 10 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
-| 11 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
-| 12 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
-| 13 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
-| 14 | [AI And Code Ownership: Who Is Responsible For Generated Code?](https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj) | Dev.to |
-| 15 | [I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb) | Dev.to |
-| 16 | [Every AI Commit Is Someone's Future Legacy Code](https://dev.to/eayurt/every-ai-commit-is-someones-future-legacy-code-444l) | Dev.to |
-| 17 | [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1) | Dev.to |
-| 18 | [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng) | Dev.to |
-| 19 | [Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat](https://dev.to/francescoxx/better-than-nextjs-is-rust-finally-ready-for-full-stack-web-development-introducing-topcoat-2h09) | Dev.to |
-| 20 | [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o) | Dev.to |
+| 2 | [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6) | Dev.to |
+| 3 | [[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go](https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb) | Dev.to |
+| 4 | [Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36) | Dev.to |
+| 5 | [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4) | Dev.to |
+| 6 | [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac) | Dev.to |
+| 7 | [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e) | Dev.to |
+| 8 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h) | Dev.to |
+| 9 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
+| 10 | [Meme Monday](https://dev.to/ben/meme-monday-mm5) | Dev.to |
+| 11 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
+| 12 | [How terminal-sharing tools put your shell in a browser](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328) | Dev.to |
+| 13 | [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25) | Dev.to |
+| 14 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
+| 15 | [Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c) | Dev.to |
+| 16 | [I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding My Career. Ask Me Anything](https://dev.to/canro91/ive-spent-10-years-in-software-engineering-after-sickness-burnout-and-a-layoff-im-rebuilding-efc) | Dev.to |
+| 17 | [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n) | Dev.to |
+| 18 | [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3) | Dev.to |
+| 19 | [Teaching Claude Code to Direct: A Stateful Video-Editing Skill Built on Gemini’s Interactions API…](https://dev.to/gde/teaching-claude-code-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-1j9a) | Dev.to |
+| 20 | [Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks](https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn) | Dev.to |
 
-<sub>Last fetched: Tue, 28 Jul 2026 14:11:51 CAT</sub>
+<sub>Last fetched: Tue, 28 Jul 2026 16:40:46 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
+**1. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
-**2. `JavaScript` — What is the event loop and how does it work?**
+**2. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**3. `SystemDesign` — How would you design a rate limiter?**
+**3. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 83 | 45.1% | `████████████████████` |
+| **AI** | 82 | 44.6% | `████████████████████` |
 | **Tools** | 47 | 25.5% | `███████████░░░░░░░░░` |
-| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
-| **Python** | 31 | 16.8% | `███████░░░░░░░░░░░░░` |
+| **JavaScript** | 38 | 20.7% | `█████████░░░░░░░░░░░` |
+| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 22 | 12.0% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -194,29 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.2%
-JavaScript      █████████████████████████ 24.0%
-Python          █████████████████████ 20.1%
-Java            ████████████████████ 19.5%
-Rust            ██████ 5.8%
+Go              ██████████████████████████████ 28.8%
+JavaScript      █████████████████████████ 24.4%
+Java            █████████████████████ 19.9%
+Python          █████████████████████ 19.9%
+Rust            █████ 5.1%
 Swift           █ 1.3%
+Ruby            █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 45
-    "JavaScript" : 37
+    "JavaScript" : 38
+    "Java" : 31
     "Python" : 31
-    "Java" : 30
-    "Rust" : 9
+    "Rust" : 8
     "Swift" : 2
+    "Ruby" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-19-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-17-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-6-0969da?style=flat-square) ![productivity](https://img.shields.io/badge/productivity-6-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-6-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 28 Jul 2026 12:11:51 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 28 Jul 2026 14:40:46 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
