@@ -61,21 +61,6 @@
       "user": "xbill"
     },
     {
-      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
-      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
-      "published_at": "2026-07-28T15:12:02Z",
-      "description": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
-      "tags": [
-        "ai",
-        "devrel",
-        "devrelcon",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
-      "source": "Dev.to",
-      "user": "DanielleWashington"
-    },
-    {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
       "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
       "published_at": "2026-07-28T16:18:27Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
+      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
+      "published_at": "2026-07-28T15:12:02Z",
+      "description": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
+      "tags": [
+        "ai",
+        "devrel",
+        "devrelcon",
+        "documentation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
+      "source": "Dev.to",
+      "user": "DanielleWashington"
     },
     {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
@@ -269,21 +269,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 373,
       "user": "0xwilliamortiz"
     },
     {
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2030,
+      "stars": 2041,
       "user": "slvDev"
     },
     {
@@ -823,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 794,
       "user": "VictorTaelin"
     },
     {
@@ -838,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "MoonshotAI"
     },
     {
@@ -853,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 630,
       "user": "fuadmefleh"
     },
     {
@@ -883,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 990,
       "user": "makecindy"
     },
     {
@@ -913,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1417,
       "user": "kvcache-ai"
     },
     {
@@ -958,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "steelbrain"
     },
     {
@@ -1000,7 +985,7 @@
         "Fundraising",
         "Startups",
         "TC",
-        "cybersecurity startups"
+        "bot detection"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1349,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1639,
+      "stars": 1677,
       "user": "mshumer"
     },
     {
@@ -1364,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1379,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 373,
       "user": "0xwilliamortiz"
     },
     {
@@ -1409,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "achimala"
     },
     {
@@ -1439,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2098,
+      "stars": 2106,
       "user": "vercel-labs"
     },
     {
@@ -1454,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 990,
       "user": "makecindy"
     },
     {
@@ -1469,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "0xwilliamortiz"
     },
     {
@@ -1484,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "RongleCat"
     },
     {
@@ -1518,7 +1503,7 @@
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript"
       ],
@@ -1889,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2030,
+      "stars": 2041,
       "user": "slvDev"
     },
     {
@@ -1919,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 794,
       "user": "VictorTaelin"
     },
     {
@@ -1934,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "MoonshotAI"
     },
     {
@@ -1949,14 +1934,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 630,
       "user": "fuadmefleh"
     },
     {
       "title": "Decorators terminology",
       "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
       "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "advice",
         "python",
@@ -2333,6 +2318,21 @@
   ],
   "WebDev": [
     {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2405,6 +2405,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
@@ -2757,7 +2772,7 @@
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript"
       ],
@@ -3049,22 +3064,6 @@
       "user": "Baptiste Noisette"
     },
     {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "published_at": "2026-07-28T21:29:34.000Z",
-      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "TC",
-        "cybersecurity startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
       "title": "Sam Altman is ready to decelerate",
       "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
       "published_at": "2026-07-28T20:17:08.000Z",
@@ -3109,6 +3108,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
@@ -3292,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1639,
+      "stars": 1677,
       "user": "mshumer"
     },
     {
@@ -3307,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 436,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3322,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 373,
       "user": "0xwilliamortiz"
     },
     {
@@ -3352,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "achimala"
     },
     {
@@ -3367,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2030,
+      "stars": 2041,
       "user": "slvDev"
     },
     {
@@ -3397,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 794,
       "user": "VictorTaelin"
     },
     {
@@ -3412,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "MoonshotAI"
     },
     {
@@ -3427,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 630,
       "user": "fuadmefleh"
     },
     {
@@ -3442,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 277,
       "user": "edaywalid"
     },
     {
@@ -3502,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "gsxhq"
     },
     {
@@ -3517,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2098,
+      "stars": 2106,
       "user": "vercel-labs"
     },
     {
@@ -3532,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 990,
       "user": "makecindy"
     },
     {
@@ -3547,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "0xwilliamortiz"
     },
     {
@@ -3562,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "RongleCat"
     },
     {
@@ -3592,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1417,
       "user": "kvcache-ai"
     },
     {
@@ -3637,7 +3651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 152,
       "user": "steelbrain"
     },
     {
@@ -3693,7 +3707,7 @@
         "Fundraising",
         "Startups",
         "TC",
-        "cybersecurity startups"
+        "bot detection"
       ],
       "cover_image": null,
       "source": "TechCrunch",
