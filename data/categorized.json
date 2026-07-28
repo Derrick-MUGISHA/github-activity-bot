@@ -46,6 +46,21 @@
       "user": "Julien Landuré"
     },
     {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
       "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
       "published_at": "2026-07-28T16:18:27Z",
@@ -254,21 +269,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
-    },
-    {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "published_at": "2026-07-24T12:35:53Z",
-      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 219,
       "user": "0xwilliamortiz"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2012,
+      "stars": 2018,
       "user": "slvDev"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "mikiarlo3"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "VictorTaelin"
     },
     {
@@ -823,8 +823,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 764,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "published_at": "2026-07-26T01:14:17Z",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
+      "source": "GitHub",
+      "stars": 551,
+      "user": "fuadmefleh"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -838,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 219,
       "user": "iximiuz"
     },
     {
@@ -853,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 987,
       "user": "makecindy"
     },
     {
@@ -883,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1396,
       "user": "kvcache-ai"
     },
     {
@@ -928,7 +943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "steelbrain"
     },
     {
@@ -961,20 +976,61 @@
       "user": "Liomtr"
     },
     {
-      "title": "VS Code Jupyter Error: Unable to start Kernel due to a timeout waiting for the ports to get used",
-      "url": "https://stackoverflow.com/questions/79986071/vs-code-jupyter-error-unable-to-start-kernel-due-to-a-timeout-waiting-for-the-p",
-      "published_at": "2026-07-26T16:16:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+      "published_at": "2026-07-28T19:07:31.000Z",
+      "description": "Katalyst's LINK spacecraft is tumbling out of control after suffering key component failures.",
       "tags": [
-        "python",
-        "python-3.x",
-        "visual-studio-code",
-        "jupyter-notebook",
-        "kernel"
+        "Space",
+        "NASA"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abdulhakeem Awadh"
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+      "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+      "published_at": "2026-07-28T19:06:33.000Z",
+      "description": "Rep. Kevin Mullin (D-California ) has proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators — action that follows a series of incidents in which robotaxis blocked fire trucks and impeded emergency responders.",
+      "tags": [
+        "Transportation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "published_at": "2026-07-28T18:16:39.000Z",
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "tags": [
+        "Apps",
+        "TC",
+        "app store",
+        "Apple",
+        "Google Play"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "HBO Max embraces vertical video with a new &#8216;Shorts&#8217; feed",
+      "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
+      "published_at": "2026-07-28T17:57:57.000Z",
+      "description": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "HBO Max",
+        "short form",
+        "Vertical Video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
@@ -1006,62 +1062,32 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "published_at": "2026-07-28T14:00:00.000Z",
-      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "title": "Prompt vs Loop Engineering: A Guide for Developers",
+      "url": "https://www.freecodecamp.org/news/prompt-vs-loop-engineering-a-guide-for-developers/",
+      "published_at": "2026-07-28T16:36:56.000Z",
+      "description": "For many developers, the AI workflow looks something like this: write a prompt, get a response, copy what's useful, and move on. This covers a surprising range of tasks, from summarizing a document to",
       "tags": [
         "AI",
-        "Fundraising",
-        "voice AI",
-        "text to speech"
+        "#PromptEngineering",
+        "ai-agent"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "source": "freeCodeCamp",
+      "user": "Oyedele Tioluwani"
     },
     {
-      "title": "Apple launches &#8216;Upgrade&#8217; device leasing program in partnership with Klarna",
-      "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-      "published_at": "2026-07-28T13:50:27.000Z",
-      "description": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
+      "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
+      "url": "https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/",
+      "published_at": "2026-07-28T16:29:03.000Z",
+      "description": "Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co",
       "tags": [
-        "Hardware",
-        "Apple",
-        "Klarna"
+        "React",
+        "forms",
+        "JavaScript"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "published_at": "2026-07-28T13:19:17.000Z",
-      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-      "tags": [
-        "AI",
-        "AWS",
-        "RSI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
-      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-      "published_at": "2026-07-28T08:00:00.000Z",
-      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
-      "tags": [
-        "Transportation",
-        "Baidu",
-        "Lyft",
-        "robotaxis"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "source": "freeCodeCamp",
+      "user": "Tapas Adhikary"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1110,67 +1136,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Use Prompt Engineering and Context Engineering for AI Agents",
-      "url": "https://www.freecodecamp.org/news/how-to-use-prompt-engineering-and-context-engineering-for-ai-agents/",
-      "published_at": "2026-07-24T20:43:29.000Z",
-      "description": "In this tutorial, I’ll show you how prompt engineering and context engineering can improve an AI agent's performance. We’ll build a simple local agent, start with a baseline input, then improve it wit",
-      "tags": [
-        "AI",
-        "ai agents",
-        "#PromptEngineering",
-        "context engineering",
-        "#qwen"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
-      "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
-      "published_at": "2026-07-24T20:38:36.000Z",
-      "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
-      "tags": [
-        "Workflow Automation",
-        "Orchestration",
-        "orchestration-platform",
-        "Python automation",
-        "it automation tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rob Walters"
-    },
-    {
-      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
-      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
-      "published_at": "2026-07-24T18:30:52.000Z",
-      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
-      "tags": [
-        "Node.js",
-        "AI",
-        "JavaScript",
-        "Tutorial",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
-      "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
-      "published_at": "2026-07-24T15:44:48.000Z",
-      "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
-      "tags": [
-        "ai-agent",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1351,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1487,
+      "stars": 1545,
       "user": "mshumer"
     },
     {
@@ -1366,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1396,38 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 219,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
-      "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
-      "published_at": "2026-07-25T10:41:37Z",
-      "description": "Polymarket whale trades in real time",
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "dunefalcon1qrj"
-    },
-    {
-      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 517,
-      "user": "mikehasa"
+      "stars": 157,
+      "user": "achimala"
     },
     {
       "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
@@ -1456,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2076,
       "user": "vercel-labs"
     },
     {
@@ -1471,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 987,
       "user": "makecindy"
     },
     {
@@ -1486,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "0xwilliamortiz"
     },
     {
@@ -1501,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "RongleCat"
     },
     {
@@ -1532,6 +1482,19 @@
       "user": "matthewkim"
     },
     {
+      "title": "What is difference between \"self\" from self=super()\" and \"this\"?",
+      "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
+      "published_at": "2026-07-28T17:53:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "custom-element"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
       "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
       "published_at": "2026-07-28T15:26:45.000Z",
@@ -1544,6 +1507,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Heba Allah Hashim"
+    },
+    {
+      "title": "Canvas Benchmark vs. Browser Profiler",
+      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
+      "published_at": "2026-07-27T05:57:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "canvas",
+        "html5-canvas",
+        "profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dandeto"
     },
     {
       "title": "React use() cache gets overwritten by an older Promise after invalidation",
@@ -1616,21 +1594,6 @@
       "user": "rahul"
     },
     {
-      "title": "Canvas Benchmark vs. Browser Profiler",
-      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
-      "published_at": "2026-07-27T05:57:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "canvas",
-        "html5-canvas",
-        "profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dandeto"
-    },
-    {
       "title": "Can the JS code event listener \"know\" the event target within an openshadow DOM node?",
       "url": "https://stackoverflow.com/questions/79986113/can-the-js-code-event-listener-know-the-event-target-within-an-openshadow-dom",
       "published_at": "2026-07-26T19:38:22.000Z",
@@ -1661,32 +1624,18 @@
       "user": "user31009838"
     },
     {
-      "title": "How to make a website? Frontend and Backend",
-      "url": "https://stackoverflow.com/questions/79880012/how-to-make-a-website-frontend-and-backend",
-      "published_at": "2026-01-31T12:28:08.000Z",
-      "description": "Stack Overflow question · 9 answers · score 1",
+      "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
+      "url": "https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/",
+      "published_at": "2026-07-28T16:29:03.000Z",
+      "description": "Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co",
       "tags": [
-        "javascript",
-        "html"
+        "React",
+        "forms",
+        "JavaScript"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Blueberry"
-    },
-    {
-      "title": "WhatsApp now lets you make calls using its web app",
-      "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
-      "published_at": "2026-07-28T14:53:22.000Z",
-      "description": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
-      "tags": [
-        "Apps",
-        "In Brief",
-        "Meta",
-        "WhatsApp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "source": "freeCodeCamp",
+      "user": "Tapas Adhikary"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -1703,22 +1652,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
-      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
-      "published_at": "2026-07-24T18:30:52.000Z",
-      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
-      "tags": [
-        "Node.js",
-        "AI",
-        "JavaScript",
-        "Tutorial",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Python": [
@@ -1914,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2012,
+      "stars": 2018,
       "user": "slvDev"
     },
     {
@@ -1929,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "mikiarlo3"
     },
     {
@@ -1944,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "VictorTaelin"
     },
     {
@@ -1959,23 +1892,65 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 764,
       "user": "MoonshotAI"
     },
     {
-      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "published_at": "2026-07-26T01:14:17Z",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 517,
-      "user": "mikehasa"
+      "stars": 551,
+      "user": "fuadmefleh"
+    },
+    {
+      "title": "Decorators terminology",
+      "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
+      "published_at": "2026-07-28T18:51:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "advice",
+        "python",
+        "decorator",
+        "python-decorators",
+        "terminology"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cyril Dubovetsky"
+    },
+    {
+      "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
+      "url": "https://stackoverflow.com/questions/79987615/iris-global-reference-team-players-1-returns-none-but-team-players-1",
+      "published_at": "2026-07-28T18:29:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "intersystems",
+        "intersystems-iris"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Svetik May"
+    },
+    {
+      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
+      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
+      "published_at": "2026-07-28T18:15:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Viraj Shete"
     },
     {
       "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
@@ -2025,6 +2000,22 @@
       "user": "user32851394"
     },
     {
+      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
+      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
+      "published_at": "2026-07-27T11:52:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "best-practices",
+        "python",
+        "amazon-s3",
+        "deep-learning",
+        "architecture"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Himanshu Srivastav"
+    },
+    {
       "title": "RuntimeError: Event loop is closed - python exception",
       "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
       "published_at": "2026-07-27T17:18:06.000Z",
@@ -2038,22 +2029,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
-    },
-    {
-      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
-      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
-      "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "amazon-s3",
-        "deep-learning",
-        "architecture"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Himanshu Srivastav"
     },
     {
       "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
@@ -2085,51 +2060,6 @@
       "user": "Isaiah noxy"
     },
     {
-      "title": "VS Code Jupyter Error: Unable to start Kernel due to a timeout waiting for the ports to get used",
-      "url": "https://stackoverflow.com/questions/79986071/vs-code-jupyter-error-unable-to-start-kernel-due-to-a-timeout-waiting-for-the-p",
-      "published_at": "2026-07-26T16:16:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "python-3.x",
-        "visual-studio-code",
-        "jupyter-notebook",
-        "kernel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abdulhakeem Awadh"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup intermittently deadlock when combining asyncio.to_thread(), nested cancellation, and contextvars in Python 3.12?",
-      "url": "https://stackoverflow.com/questions/79986011/why-does-asyncio-taskgroup-intermittently-deadlock-when-combining-asyncio-to-thr",
-      "published_at": "2026-07-26T10:48:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.x",
-        "multithreading",
-        "concurrency",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali-raza-py"
-    },
-    {
-      "title": "Lambda in max returns weird value",
-      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
-      "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "lambda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alekscooper"
-    },
-    {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
       "url": "https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/",
       "published_at": "2026-07-27T17:45:05.000Z",
@@ -2144,22 +2074,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "brooklyn"
-    },
-    {
-      "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
-      "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
-      "published_at": "2026-07-24T20:38:36.000Z",
-      "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
-      "tags": [
-        "Workflow Automation",
-        "Orchestration",
-        "orchestration-platform",
-        "Python automation",
-        "it automation tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rob Walters"
     }
   ],
   "DevOps": [
@@ -2404,20 +2318,6 @@
       "user": "velmu"
     },
     {
-      "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
-      "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
-      "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "shadow-dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "Canvas Benchmark vs. Browser Profiler",
       "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
       "published_at": "2026-07-27T05:57:33.000Z",
@@ -2433,17 +2333,18 @@
       "user": "dandeto"
     },
     {
-      "title": "How to make a website? Frontend and Backend",
-      "url": "https://stackoverflow.com/questions/79880012/how-to-make-a-website-frontend-and-backend",
-      "published_at": "2026-01-31T12:28:08.000Z",
-      "description": "Stack Overflow question · 9 answers · score 1",
+      "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
+      "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
+      "published_at": "2026-07-27T03:58:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
-        "html"
+        "css",
+        "shadow-dom"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Blueberry"
+      "user": "Gary"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
@@ -2463,6 +2364,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
@@ -2492,22 +2408,24 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
-      "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
-      "published_at": "2026-07-24T15:44:48.000Z",
-      "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
-      "tags": [
-        "ai-agent",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Cloud": [
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
@@ -2748,33 +2666,6 @@
       "user": "JaeKwang Lee RTB"
     },
     {
-      "title": "Lambda in max returns weird value",
-      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
-      "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "lambda"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alekscooper"
-    },
-    {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "published_at": "2026-07-28T13:19:17.000Z",
-      "description": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-      "tags": [
-        "AI",
-        "AWS",
-        "RSI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
       "published_at": "2026-07-27T18:30:27.000Z",
@@ -2818,22 +2709,6 @@
       "source": "GitHub",
       "stars": 240,
       "user": "neural-maze"
-    },
-    {
-      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
-      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
-      "published_at": "2026-07-24T18:30:52.000Z",
-      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
-      "tags": [
-        "Node.js",
-        "AI",
-        "JavaScript",
-        "Tutorial",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
     }
   ],
   "Security": [
@@ -3137,6 +3012,21 @@
   ],
   "Tools": [
     {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
       "published_at": "2026-07-27T20:54:36Z",
@@ -3195,21 +3085,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-      "published_at": "2026-07-09T14:44:40Z",
-      "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "tags": [
-        "mentalhealth",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
     },
     {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -3333,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1487,
+      "stars": 1545,
       "user": "mshumer"
     },
     {
@@ -3348,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3378,23 +3253,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 219,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
-      "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
-      "published_at": "2026-07-25T10:41:37Z",
-      "description": "Polymarket whale trades in real time",
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "dunefalcon1qrj"
+      "stars": 157,
+      "user": "achimala"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -3408,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2012,
+      "stars": 2018,
       "user": "slvDev"
     },
     {
@@ -3423,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 983,
+      "stars": 984,
       "user": "mikiarlo3"
     },
     {
@@ -3438,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 763,
+      "stars": 772,
       "user": "VictorTaelin"
     },
     {
@@ -3453,23 +3328,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 764,
       "user": "MoonshotAI"
     },
     {
-      "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "published_at": "2026-07-26T01:14:17Z",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 517,
-      "user": "mikehasa"
+      "stars": 551,
+      "user": "fuadmefleh"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3483,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "edaywalid"
     },
     {
@@ -3498,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 219,
       "user": "iximiuz"
     },
     {
@@ -3528,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "byJoey"
     },
     {
@@ -3558,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2061,
+      "stars": 2076,
       "user": "vercel-labs"
     },
     {
@@ -3573,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 987,
       "user": "makecindy"
     },
     {
@@ -3588,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "0xwilliamortiz"
     },
     {
@@ -3603,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "RongleCat"
     },
     {
@@ -3633,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1396,
       "user": "kvcache-ai"
     },
     {
@@ -3678,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "steelbrain"
     },
     {
@@ -3725,35 +3600,20 @@
       "user": "AZAPI.ai"
     },
     {
-      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
-      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
-      "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "published_at": "2026-07-28T18:16:39.000Z",
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
       "tags": [
-        "tooling-recommendation",
-        "python",
-        "amazon-s3",
-        "deep-learning",
-        "architecture"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Himanshu Srivastav"
-    },
-    {
-      "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
-      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-      "published_at": "2026-07-28T08:00:00.000Z",
-      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
-      "tags": [
-        "Transportation",
-        "Baidu",
-        "Lyft",
-        "robotaxis"
+        "Apps",
+        "TC",
+        "app store",
+        "Apple",
+        "Google Play"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an Automated Workload Model for Peak Readiness",
@@ -3786,51 +3646,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "What to Do if You've Outgrown Your Cron Job Scheduler",
-      "url": "https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/",
-      "published_at": "2026-07-24T20:38:36.000Z",
-      "description": "Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the",
-      "tags": [
-        "Workflow Automation",
-        "Orchestration",
-        "orchestration-platform",
-        "Python automation",
-        "it automation tools"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rob Walters"
-    },
-    {
-      "title": "How to Build an AI Agent with Function Calling in Node.js Using Google Gemini",
-      "url": "https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/",
-      "published_at": "2026-07-24T18:30:52.000Z",
-      "description": "Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first",
-      "tags": [
-        "Node.js",
-        "AI",
-        "JavaScript",
-        "Tutorial",
-        "gemini"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Zia Ullah"
-    },
-    {
-      "title": "The New Agency Stack: How Dev Shops Use Claude, Cursor, and Copilot in Production",
-      "url": "https://www.freecodecamp.org/news/the-new-agency-stack-how-dev-shops-use-claude-cursor-and-copilot-in-production/",
-      "published_at": "2026-07-24T15:44:48.000Z",
-      "description": "Two years ago, AI coding tools were a curiosity. Agencies let junior devs experiment with them on internal tools and side projects, the kind of work where nothing broke if the code was bad. Client wor",
-      "tags": [
-        "ai-agent",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ]
 }
