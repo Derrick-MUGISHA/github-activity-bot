@@ -31,21 +31,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
       "url": "https://dev.to/madsendev/i-built-something-good-with-ai-now-some-developer-communities-dont-want-to-see-it-20mo",
       "published_at": "2026-07-26T20:53:41Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png",
       "source": "Dev.to",
       "user": "Christoffer Madsen"
+    },
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "How terminal-sharing tools put your shell in a browser",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "finna"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1911,
       "user": "slvDev"
     },
     {
@@ -761,23 +761,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 964,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 674,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -791,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 687,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 683,
+      "user": "VictorTaelin"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 202,
       "user": "iximiuz"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 945,
       "user": "makecindy"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 303,
       "user": "deerwork-ai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1209,
       "user": "kvcache-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 227,
       "user": "neural-maze"
     },
     {
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "steelbrain"
     },
     {
@@ -968,6 +968,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdulhakeem Awadh"
+    },
+    {
+      "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "published_at": "2026-07-28T08:00:00.000Z",
+      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+      "tags": [
+        "Transportation",
+        "Baidu",
+        "Lyft",
+        "robotaxis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
@@ -1071,22 +1086,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Antares raises $470M to build nuclear reactors for the US military",
-      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "published_at": "2026-07-27T17:49:28.000Z",
-      "description": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-      "tags": [
-        "Climate",
-        "Startups",
-        "Antares Nuclear",
-        "nuclear fission",
-        "nuclear power"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1361,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1111,
       "user": "mshumer"
     },
     {
@@ -1376,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 424,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1391,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "finna"
     },
     {
@@ -1421,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 131,
       "user": "icebird1998"
     },
     {
@@ -1436,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 514,
       "user": "mikehasa"
     },
     {
@@ -1466,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1936,
       "user": "vercel-labs"
     },
     {
@@ -1481,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 945,
       "user": "makecindy"
     },
     {
@@ -1511,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 354,
       "user": "RongleCat"
     },
     {
@@ -1526,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 303,
       "user": "deerwork-ai"
     },
     {
@@ -1683,22 +1682,6 @@
         "nuclear fusion",
         "fusion power",
         "Thea Energy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Antares raises $470M to build nuclear reactors for the US military",
-      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "published_at": "2026-07-27T17:49:28.000Z",
-      "description": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-      "tags": [
-        "Climate",
-        "Startups",
-        "Antares Nuclear",
-        "nuclear fission",
-        "nuclear power"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1930,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1911,
       "user": "slvDev"
     },
     {
@@ -1945,23 +1928,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 964,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 674,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -1975,8 +1943,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 687,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 683,
+      "user": "VictorTaelin"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -1990,8 +1973,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 514,
       "user": "mikehasa"
+    },
+    {
+      "title": "RuntimeError: Event loop is closed - python exception",
+      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
+      "published_at": "2026-07-27T17:18:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "asynchronous",
+        "python-aiofiles"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liomtr"
     },
     {
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
@@ -2008,21 +2006,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32851394"
-    },
-    {
-      "title": "RuntimeError: Event loop is closed - python exception",
-      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
-      "published_at": "2026-07-27T17:18:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "asynchronous",
-        "python-aiofiles"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     },
     {
       "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
@@ -2118,6 +2101,19 @@
       "user": "Isaiah noxy"
     },
     {
+      "title": "Lambda in max returns weird value",
+      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
+      "published_at": "2026-07-25T13:54:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "lambda"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
+    },
+    {
       "title": "Wrong manual caching of recursion",
       "url": "https://stackoverflow.com/questions/79986133/wrong-manual-caching-of-recursion",
       "published_at": "2026-07-26T20:51:21.000Z",
@@ -2127,19 +2123,6 @@
         "recursion",
         "caching",
         "lru"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "alekscooper"
-    },
-    {
-      "title": "Lambda in max returns weird value",
-      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
-      "published_at": "2026-07-25T13:54:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "lambda"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2371,7 +2354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 227,
       "user": "neural-maze"
     },
     {
@@ -2524,6 +2507,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9npidag0wb102wr8bmsg.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
+      "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+      "published_at": "2026-07-28T03:57:54.188-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "audio",
+        "hardware"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "majke"
     },
     {
       "title": "Amazon&#8217;s new satellite network for mobile phones could turn up the heat on SpaceX",
@@ -2846,7 +2842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 227,
       "user": "neural-maze"
     },
     {
@@ -3347,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1111,
       "user": "mshumer"
     },
     {
@@ -3362,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 424,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3377,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "finna"
     },
     {
@@ -3407,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 131,
       "user": "icebird1998"
     },
     {
@@ -3422,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1911,
       "user": "slvDev"
     },
     {
@@ -3437,23 +3433,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 964,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 674,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -3467,8 +3448,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 687,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 683,
+      "user": "VictorTaelin"
     },
     {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
@@ -3482,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 514,
       "user": "mikehasa"
     },
     {
@@ -3497,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "edaywalid"
     },
     {
@@ -3512,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 202,
       "user": "iximiuz"
     },
     {
@@ -3557,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 61,
       "user": "byJoey"
     },
     {
@@ -3572,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1936,
       "user": "vercel-labs"
     },
     {
@@ -3587,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 945,
       "user": "makecindy"
     },
     {
@@ -3617,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 354,
       "user": "RongleCat"
     },
     {
@@ -3632,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 303,
       "user": "deerwork-ai"
     },
     {
@@ -3647,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1209,
       "user": "kvcache-ai"
     },
     {
@@ -3662,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 224,
+      "stars": 227,
       "user": "neural-maze"
     },
     {
@@ -3692,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "steelbrain"
     },
     {
@@ -3707,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "rrrjqy66"
     },
     {
@@ -3754,6 +3750,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AZAPI.ai"
+    },
+    {
+      "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "published_at": "2026-07-28T08:00:00.000Z",
+      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+      "tags": [
+        "Transportation",
+        "Baidu",
+        "Lyft",
+        "robotaxis"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build an Automated Workload Model for Peak Readiness",
