@@ -61,21 +61,6 @@
       "user": "Christoffer Madsen"
     },
     {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [
-        "mcp",
-        "ai",
-        "data",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
       "published_at": "2026-07-26T16:43:17Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [
+        "mcp",
+        "ai",
+        "data",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Google ADK: Introduction to AI Agent Development",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 227,
       "user": "finna"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1838,
       "user": "slvDev"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 956,
       "user": "mikiarlo3"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 674,
       "user": "VictorTaelin"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 630,
       "user": "MoonshotAI"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 920,
       "user": "makecindy"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 285,
       "user": "deerwork-ai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 1080,
       "user": "kvcache-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "neural-maze"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1086,
       "user": "mshumer"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 418,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 227,
       "user": "finna"
     },
     {
@@ -1421,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 126,
       "user": "icebird1998"
     },
     {
@@ -1436,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "mikehasa"
     },
     {
@@ -1466,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1896,
       "user": "vercel-labs"
     },
     {
@@ -1481,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 920,
       "user": "makecindy"
     },
     {
@@ -1511,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "RongleCat"
     },
     {
@@ -1526,7 +1526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 285,
       "user": "deerwork-ai"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1838,
       "user": "slvDev"
     },
     {
@@ -1945,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 956,
       "user": "mikiarlo3"
     },
     {
@@ -1960,7 +1960,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 674,
       "user": "VictorTaelin"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 630,
       "user": "MoonshotAI"
     },
     {
@@ -1990,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "mikehasa"
     },
     {
@@ -2371,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "neural-maze"
     },
     {
@@ -2846,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "neural-maze"
     },
     {
@@ -3166,21 +3166,6 @@
   ],
   "Tools": [
     {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [
-        "mcp",
-        "ai",
-        "data",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "How terminal-sharing tools put your shell in a browser",
       "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
       "published_at": "2026-07-26T16:43:17Z",
@@ -3194,6 +3179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
+    },
+    {
+      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
+      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
+      "published_at": "2026-07-27T05:24:28Z",
+      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
+      "tags": [
+        "mcp",
+        "ai",
+        "data",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3347,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1057,
+      "stars": 1086,
       "user": "mshumer"
     },
     {
@@ -3362,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 418,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3377,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 227,
       "user": "finna"
     },
     {
@@ -3407,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 126,
       "user": "icebird1998"
     },
     {
@@ -3422,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1838,
       "user": "slvDev"
     },
     {
@@ -3437,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 956,
       "user": "mikiarlo3"
     },
     {
@@ -3452,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 674,
       "user": "VictorTaelin"
     },
     {
@@ -3467,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 630,
       "user": "MoonshotAI"
     },
     {
@@ -3482,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 499,
       "user": "mikehasa"
     },
     {
@@ -3497,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "edaywalid"
     },
     {
@@ -3557,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 54,
       "user": "byJoey"
     },
     {
@@ -3572,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1896,
       "user": "vercel-labs"
     },
     {
@@ -3587,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 894,
+      "stars": 920,
       "user": "makecindy"
     },
     {
@@ -3617,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "RongleCat"
     },
     {
@@ -3632,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 285,
       "user": "deerwork-ai"
     },
     {
@@ -3647,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 1080,
       "user": "kvcache-ai"
     },
     {
@@ -3662,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 224,
       "user": "neural-maze"
     },
     {
@@ -3707,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "rrrjqy66"
     },
     {
