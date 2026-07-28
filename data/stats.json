@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 81,
+    "AI": 80,
     "JavaScript": 38,
     "Python": 30,
     "DevOps": 16,
-    "WebDev": 4,
-    "Mobile": 3,
+    "WebDev": 5,
+    "Mobile": 4,
     "Cloud": 19,
     "Database": 3,
-    "Security": 24,
-    "Tools": 44
+    "Security": 23,
+    "Tools": 45
   },
   "by_language": {
     "JavaScript": 38,
@@ -31,10 +31,10 @@
     "Rust": 9
   },
   "by_date": {
-    "2026-07-27": 26,
-    "2026-07-28": 41,
+    "2026-07-27": 25,
+    "2026-07-28": 43,
     "2026-07-26": 12,
-    "2026-07-20": 4,
+    "2026-07-20": 3,
     "2026-07-15": 1,
     "2026-07-08": 2,
     "2026-07-23": 10,
@@ -101,26 +101,26 @@
     "2026-07-25": 3
   },
   "top_tags": {
-    "ai": 26,
+    "ai": 25,
     "github": 25,
     "open-source": 25,
     "python": 19,
     "javascript": 17,
-    "discuss": 14,
+    "discuss": 13,
     "AI": 13,
     "JavaScript": 12,
+    "webdev": 11,
     "Security": 11,
     "Python": 11,
-    "webdev": 10,
     "DevOps": 10,
     "security": 7,
     "go": 7,
     "googlecloud": 7,
     "agents": 6,
     "gemini": 6,
+    "architecture": 6,
     "typescript": 6,
-    "rust": 6,
-    "architecture": 5
+    "rust": 6
   },
   "trending_topics": [],
   "language_percentages": {
