@@ -737,6 +737,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
       "url": "https://github.com/finna/Finn-loop",
       "published_at": "2026-07-22T16:48:50Z",
@@ -752,21 +767,6 @@
       "user": "finna"
     },
     {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 219,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2024,
       "user": "slvDev"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 988,
       "user": "mikiarlo3"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 778,
       "user": "VictorTaelin"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 770,
       "user": "MoonshotAI"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 588,
       "user": "fuadmefleh"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 988,
       "user": "makecindy"
     },
     {
@@ -898,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1404,
       "user": "kvcache-ai"
     },
     {
@@ -976,10 +976,38 @@
       "user": "Liomtr"
     },
     {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "published_at": "2026-07-28T20:45:12.000Z",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "TC",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "published_at": "2026-07-28T20:17:08.000Z",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
       "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
       "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "published_at": "2026-07-28T19:07:31.000Z",
-      "description": "Katalyst's LINK spacecraft is tumbling out of control after suffering key component failures.",
+      "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
       "tags": [
         "Space",
         "NASA"
@@ -992,9 +1020,11 @@
       "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
       "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
       "published_at": "2026-07-28T19:06:33.000Z",
-      "description": "Rep. Kevin Mullin (D-California ) has proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators — action that follows a series of incidents in which robotaxis blocked fire trucks and impeded emergency responders.",
+      "description": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
       "tags": [
-        "Transportation"
+        "Transportation",
+        "robotaxis",
+        "Waymo"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1046,20 +1076,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-      "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-      "published_at": "2026-07-28T15:10:10.000Z",
-      "description": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
-      "tags": [
-        "Commerce",
-        "PayPal",
-        "stripe"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Prompt vs Loop Engineering: A Guide for Developers",
@@ -1316,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1545,
+      "stars": 1595,
       "user": "mshumer"
     },
     {
@@ -1335,6 +1351,21 @@
       "user": "danilo-znamerovszkij"
     },
     {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
       "url": "https://github.com/finna/Finn-loop",
       "published_at": "2026-07-22T16:48:50Z",
@@ -1350,21 +1381,6 @@
       "user": "finna"
     },
     {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 219,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
       "url": "https://github.com/achimala/TheLongSilence",
       "published_at": "2026-07-27T08:43:36Z",
@@ -1376,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 170,
       "user": "achimala"
     },
     {
@@ -1406,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2091,
       "user": "vercel-labs"
     },
     {
@@ -1421,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 988,
       "user": "makecindy"
     },
     {
@@ -1451,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "RongleCat"
     },
     {
@@ -1539,19 +1555,6 @@
       "user": "David Brierton"
     },
     {
-      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
-      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
-      "published_at": "2026-07-27T14:04:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "partha"
-    },
-    {
       "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
       "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
       "published_at": "2026-07-27T03:58:51.000Z",
@@ -1564,6 +1567,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
+      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
+      "published_at": "2026-07-27T14:04:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "partha"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -1622,6 +1638,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
+    },
+    {
+      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+      "published_at": "2026-07-28T19:07:31.000Z",
+      "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
+      "tags": [
+        "Space",
+        "NASA"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
@@ -1847,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2024,
       "user": "slvDev"
     },
     {
@@ -1862,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 988,
       "user": "mikiarlo3"
     },
     {
@@ -1877,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 778,
       "user": "VictorTaelin"
     },
     {
@@ -1892,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 770,
       "user": "MoonshotAI"
     },
     {
@@ -1907,14 +1936,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 588,
       "user": "fuadmefleh"
     },
     {
       "title": "Decorators terminology",
       "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
       "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "advice",
         "python",
@@ -1930,7 +1959,7 @@
       "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
       "url": "https://stackoverflow.com/questions/79987615/iris-global-reference-team-players-1-returns-none-but-team-players-1",
       "published_at": "2026-07-28T18:29:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "intersystems",
@@ -1944,7 +1973,7 @@
       "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
       "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
       "published_at": "2026-07-28T18:15:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
@@ -2666,6 +2695,22 @@
       "user": "JaeKwang Lee RTB"
     },
     {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "published_at": "2026-07-28T20:45:12.000Z",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Startups",
+        "TC",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
       "published_at": "2026-07-27T18:30:27.000Z",
@@ -2994,6 +3039,18 @@
       "user": "Baptiste Noisette"
     },
     {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "published_at": "2026-07-28T20:17:08.000Z",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
       "published_at": "2026-07-27T18:30:27.000Z",
@@ -3208,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1545,
+      "stars": 1595,
       "user": "mshumer"
     },
     {
@@ -3227,6 +3284,21 @@
       "user": "danilo-znamerovszkij"
     },
     {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
       "url": "https://github.com/finna/Finn-loop",
       "published_at": "2026-07-22T16:48:50Z",
@@ -3242,21 +3314,6 @@
       "user": "finna"
     },
     {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 219,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
       "url": "https://github.com/achimala/TheLongSilence",
       "published_at": "2026-07-27T08:43:36Z",
@@ -3268,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 170,
       "user": "achimala"
     },
     {
@@ -3283,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2024,
       "user": "slvDev"
     },
     {
@@ -3298,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 988,
       "user": "mikiarlo3"
     },
     {
@@ -3313,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 778,
       "user": "VictorTaelin"
     },
     {
@@ -3328,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 770,
       "user": "MoonshotAI"
     },
     {
@@ -3343,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 588,
       "user": "fuadmefleh"
     },
     {
@@ -3418,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "gsxhq"
     },
     {
@@ -3433,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2091,
       "user": "vercel-labs"
     },
     {
@@ -3448,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 988,
       "user": "makecindy"
     },
     {
@@ -3478,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 362,
       "user": "RongleCat"
     },
     {
@@ -3508,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1404,
       "user": "kvcache-ai"
     },
     {
