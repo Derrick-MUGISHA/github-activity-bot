@@ -16,21 +16,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
-    },
-    {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
       "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
       "published_at": "2026-07-27T02:11:38Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqk3vfjbewp6g4n8rzuu.png",
       "source": "Dev.to",
       "user": "Christoffer Madsen"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
@@ -730,6 +730,21 @@
       "user": "finna"
     },
     {
+      "title": "Invaro/opentax-engine - The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "url": "https://github.com/Invaro/opentax-engine",
+      "published_at": "2026-07-22T07:31:23Z",
+      "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207875643?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "Invaro"
+    },
+    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -741,7 +756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1745,
       "user": "slvDev"
     },
     {
@@ -756,7 +771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 937,
       "user": "mikiarlo3"
     },
     {
@@ -771,7 +786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 650,
       "user": "VictorTaelin"
     },
     {
@@ -790,34 +805,19 @@
       "user": "iximiuz"
     },
     {
-      "title": "surya-koritala/sigbound - Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
-      "url": "https://github.com/surya-koritala/sigbound",
-      "published_at": "2026-07-21T02:55:48Z",
-      "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "title": "cyi-cc/chatgpt-register - GitHub Repository",
+      "url": "https://github.com/cyi-cc/chatgpt-register",
+      "published_at": "2026-07-23T13:49:49Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
       "source": "GitHub",
-      "stars": 52,
-      "user": "surya-koritala"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 1166,
-      "user": "Jakubantalik"
+      "stars": 45,
+      "user": "cyi-cc"
     },
     {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
@@ -831,8 +831,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 844,
       "user": "makecindy"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "deerwork-ai"
     },
     {
       "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
@@ -846,7 +861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 641,
       "user": "kvcache-ai"
     },
     {
@@ -861,7 +876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "neural-maze"
     },
     {
@@ -878,21 +893,6 @@
       "source": "GitHub",
       "stars": 161,
       "user": "steelbrain"
-    },
-    {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 148,
-      "user": "Evokoa"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -978,6 +978,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdulhakeem Awadh"
+    },
+    {
+      "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "published_at": "2026-07-28T00:13:33.000Z",
+      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Satya Nadella says companies that trust one AI for everything may not survive",
@@ -1084,22 +1098,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "published_at": "2026-07-27T16:45:24.000Z",
-      "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-      "tags": [
-        "AI",
-        "Apps",
-        "In Brief",
-        "meta ai",
-        "Threads"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
@@ -1374,23 +1372,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1027,
       "user": "mshumer"
-    },
-    {
-      "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "published_at": "2026-07-21T08:54:45Z",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
-      "source": "GitHub",
-      "stars": 667,
-      "user": "gnipbao"
     },
     {
       "title": "danilo-znamerovszkij/draw-your-font - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
@@ -1404,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -1438,6 +1421,21 @@
       "user": "dunefalcon1qrj"
     },
     {
+      "title": "Invaro/opentax-engine - The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "url": "https://github.com/Invaro/opentax-engine",
+      "published_at": "2026-07-22T07:31:23Z",
+      "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207875643?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "Invaro"
+    },
+    {
       "title": "mikehasa/agentacct - Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
       "url": "https://github.com/mikehasa/agentacct",
       "published_at": "2026-07-24T16:28:06Z",
@@ -1449,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "mikehasa"
     },
     {
@@ -1479,23 +1477,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1740,
       "user": "vercel-labs"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 1166,
-      "user": "Jakubantalik"
     },
     {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
@@ -1509,38 +1492,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 844,
       "user": "makecindy"
     },
     {
-      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "published_at": "2026-07-21T04:17:35Z",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "published_at": "2026-07-26T21:58:28Z",
+      "description": "runs anywhere. uses anything",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 590,
-      "user": "hahhforest"
+      "stars": 468,
+      "user": "0xwilliamortiz"
     },
     {
-      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "published_at": "2026-07-21T14:24:08Z",
-      "description": "Get notified when big trades happen on Hyperliquid.",
+      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "url": "https://github.com/RongleCat/grok-app",
+      "published_at": "2026-07-23T16:43:40Z",
+      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "0xhype"
+      "stars": 343,
+      "user": "RongleCat"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "deerwork-ai"
     },
     {
       "title": "React use() cache gets overwritten by an older Promise after invalidation",
@@ -1943,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1745,
       "user": "slvDev"
     },
     {
@@ -1958,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 937,
       "user": "mikiarlo3"
     },
     {
@@ -1973,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 650,
       "user": "VictorTaelin"
     },
     {
@@ -1988,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "mikehasa"
     },
     {
@@ -2013,7 +2011,7 @@
       "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "computer-vision",
+        "image-processing",
         "scikit-image",
         "image-registration",
         "mutual-information"
@@ -2073,7 +2071,7 @@
       "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
       "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
       "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "amazon-s3",
@@ -2383,7 +2381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "neural-maze"
     },
     {
@@ -2873,7 +2871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "neural-maze"
     },
     {
@@ -2891,22 +2889,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Zia Ullah"
-    },
-    {
-      "title": "Firestore Data Modeling Guide: Embedded Documents vs Referencing (with a Blog Case Study)",
-      "url": "https://www.freecodecamp.org/news/firestore-data-modeling-guide-embedded-documents-vs-referencing-with-a-blog-case-study/",
-      "published_at": "2026-07-24T15:19:10.000Z",
-      "description": "When developers transition from the relational world (MySQL, PostgreSQL) to Firestore, Firebase's NoSQL document database, they often bring their old habits with them. They try to replicate tables, fo",
-      "tags": [
-        "firestore",
-        "Firebase",
-        "NoSQL",
-        "Databases",
-        "Query"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Caleb Mintoumba"
     }
   ],
   "Security": [
@@ -3129,19 +3111,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
-    },
-    {
-      "title": "What does GitHub’s security team even do?",
-      "url": "https://orchidfiles.com/github-security-team/",
-      "published_at": "2026-07-27T01:06:58.012-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dominicm"
     },
     {
       "title": "Incorrect project_id in google auth response",
@@ -3383,23 +3352,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1027,
       "user": "mshumer"
-    },
-    {
-      "title": "gnipbao/story-to-handdrawn-video - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "published_at": "2026-07-21T08:54:45Z",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16514704?v=4",
-      "source": "GitHub",
-      "stars": 667,
-      "user": "gnipbao"
     },
     {
       "title": "danilo-znamerovszkij/draw-your-font - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
@@ -3413,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "danilo-znamerovszkij"
     },
     {
@@ -3447,6 +3401,21 @@
       "user": "dunefalcon1qrj"
     },
     {
+      "title": "Invaro/opentax-engine - The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "url": "https://github.com/Invaro/opentax-engine",
+      "published_at": "2026-07-22T07:31:23Z",
+      "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207875643?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "Invaro"
+    },
+    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -3458,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1745,
       "user": "slvDev"
     },
     {
@@ -3473,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 937,
       "user": "mikiarlo3"
     },
     {
@@ -3488,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 650,
       "user": "VictorTaelin"
     },
     {
@@ -3503,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 469,
       "user": "mikehasa"
     },
     {
@@ -3533,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "edaywalid"
     },
     {
@@ -3582,19 +3551,19 @@
       "user": "gsxhq"
     },
     {
-      "title": "surya-koritala/sigbound - Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
-      "url": "https://github.com/surya-koritala/sigbound",
-      "published_at": "2026-07-21T02:55:48Z",
-      "description": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.",
+      "title": "cyi-cc/chatgpt-register - GitHub Repository",
+      "url": "https://github.com/cyi-cc/chatgpt-register",
+      "published_at": "2026-07-23T13:49:49Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
       "source": "GitHub",
-      "stars": 52,
-      "user": "surya-koritala"
+      "stars": 45,
+      "user": "cyi-cc"
     },
     {
       "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
@@ -3608,23 +3577,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1740,
       "user": "vercel-labs"
-    },
-    {
-      "title": "Jakubantalik/thinking-orbs - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "published_at": "2026-07-21T07:01:53Z",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14873517?v=4",
-      "source": "GitHub",
-      "stars": 1166,
-      "user": "Jakubantalik"
     },
     {
       "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
@@ -3638,38 +3592,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 844,
       "user": "makecindy"
     },
     {
-      "title": "hahhforest/pi-textbook - 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "published_at": "2026-07-21T04:17:35Z",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "published_at": "2026-07-26T21:58:28Z",
+      "description": "runs anywhere. uses anything",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55630163?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 590,
-      "user": "hahhforest"
+      "stars": 468,
+      "user": "0xwilliamortiz"
     },
     {
-      "title": "0xhype/hyperliquid-tracker - Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "published_at": "2026-07-21T14:24:08Z",
-      "description": "Get notified when big trades happen on Hyperliquid.",
+      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "url": "https://github.com/RongleCat/grok-app",
+      "published_at": "2026-07-23T16:43:40Z",
+      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/307622098?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "0xhype"
+      "stars": 343,
+      "user": "RongleCat"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 245,
+      "user": "deerwork-ai"
     },
     {
       "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
@@ -3683,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 641,
       "user": "kvcache-ai"
     },
     {
@@ -3698,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "neural-maze"
     },
     {
@@ -3717,21 +3686,6 @@
       "user": "steelbrain"
     },
     {
-      "title": "Evokoa/pgContext - A full AI search engine, built into Postgres.",
-      "url": "https://github.com/Evokoa/pgContext",
-      "published_at": "2026-07-21T06:57:38Z",
-      "description": "A full AI search engine, built into Postgres.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/230713053?v=4",
-      "source": "GitHub",
-      "stars": 148,
-      "user": "Evokoa"
-    },
-    {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
       "url": "https://github.com/steelbrain/reims-vgpu",
       "published_at": "2026-07-26T12:23:35Z",
@@ -3747,6 +3701,21 @@
       "user": "steelbrain"
     },
     {
+      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
+      "published_at": "2026-07-23T09:43:07Z",
+      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
+      "source": "GitHub",
+      "stars": 129,
+      "user": "rrrjqy66"
+    },
+    {
       "title": "The Productivity Mirage",
       "url": "https://frantic.im/mirage",
       "published_at": "2026-07-27T05:54:37.894-05:00",
@@ -3758,19 +3727,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
-    },
-    {
-      "title": "What does GitHub’s security team even do?",
-      "url": "https://orchidfiles.com/github-security-team/",
-      "published_at": "2026-07-27T01:06:58.012-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dominicm"
     },
     {
       "title": "Finding bugs in Raft implementations",
@@ -3800,6 +3756,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AZAPI.ai"
+    },
+    {
+      "title": "How to Build an Automated Workload Model for Peak Readiness",
+      "url": "https://www.freecodecamp.org/news/how-to-build-an-automated-workload-model-for-peak-readiness/",
+      "published_at": "2026-07-27T20:56:13.000Z",
+      "description": "If you’ve ever spent two days pulling data out of an APM tool just to answer “how many virtual users should I run in my load test?”, this tutorial is for you. By the end, you’ll know how to derive eve",
+      "tags": [
+        "observability",
+        "performance-engineering",
+        "Java",
+        "new relic",
+        "Dynatrace"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vasuki Uday Kiran Vudathala"
     },
     {
       "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
