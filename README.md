@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-28 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-28 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -57,6 +57,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png" width="200" alt="Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark" />
+      <br/>
+      <b>Can Google ADK Talk to Amazon Bedrock AgentCore Ru...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png" width="200" alt="Your Face on a World Cup Sticker: Our Nano Banana Story" />
       <br/>
@@ -74,15 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png" width="200" alt="Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark" />
-      <br/>
-      <b>Can Google ADK Talk to Amazon Bedrock AgentCore Ru...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -95,9 +95,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 1 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
 | 2 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
 | 3 | [I had two weeks, an 8-foot keyboard, and a Wordle Workflow](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h) | Dev.to |
-| 4 | [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6) | Dev.to |
-| 5 | [Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa) | Dev.to |
-| 6 | [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l) | Dev.to |
+| 4 | [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l) | Dev.to |
+| 5 | [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6) | Dev.to |
+| 6 | [Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa) | Dev.to |
 | 7 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
 | 8 | [Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36) | Dev.to |
 | 9 | [[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go](https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
 | 20 | [Meme Monday](https://dev.to/ben/meme-monday-mm5) | Dev.to |
 
-<sub>Last fetched: Tue, 28 Jul 2026 21:28:36 CAT</sub>
+<sub>Last fetched: Tue, 28 Jul 2026 22:48:55 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Implement a context manager using __enter__ and __exit__**
+**1. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**2. `NodeJS` — Implement rate limiting for an API**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**3. `DataStructures` — Implement a function to reverse a linked list**
+**3. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -164,12 +164,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 79 | 42.9% | `████████████████████` |
+| **AI** | 80 | 43.5% | `████████████████████` |
 | **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
+| **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
-| **Security** | 22 | 12.0% | `██████░░░░░░░░░░░░░░` |
-| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.3%
-JavaScript      ███████████████████████████ 24.7%
-Java            ███████████████████████ 21.3%
-Python          ██████████████████████ 20.0%
-Rust            ██████ 5.3%
+Go              ██████████████████████████████ 27.0%
+JavaScript      ████████████████████████████ 25.0%
+Java            ███████████████████████ 21.1%
+Python          ██████████████████████ 19.7%
+Rust            ███████ 5.9%
 Kotlin          █ 0.7%
 Ruby            █ 0.7%
 
@@ -207,10 +207,10 @@ Ruby            █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "Go" : 41
-    "JavaScript" : 37
+    "JavaScript" : 38
     "Java" : 32
     "Python" : 30
-    "Rust" : 8
+    "Rust" : 9
     "Kotlin" : 1
     "Ruby" : 1
 ```
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 28 Jul 2026 19:28:36 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 28 Jul 2026 20:48:55 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
