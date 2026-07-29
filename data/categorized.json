@@ -61,21 +61,6 @@
       "user": "Shy Ruparel"
     },
     {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
       "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
       "published_at": "2026-07-28T15:12:02Z",
@@ -151,19 +136,19 @@
       "user": "xbill"
     },
     {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
       "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
+        "agents",
+        "ai",
+        "go",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
+      "user": "Evan Lin"
     },
     {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
@@ -269,6 +254,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 476,
       "user": "0xwilliamortiz"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2145,
       "user": "slvDev"
     },
     {
@@ -764,8 +764,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1003,
       "user": "mikiarlo3"
+    },
+    {
+      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "published_at": "2026-07-26T01:14:17Z",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
+      "source": "GitHub",
+      "stars": 854,
+      "user": "fuadmefleh"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "VictorTaelin"
     },
     {
@@ -794,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "MoonshotAI"
-    },
-    {
-      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "published_at": "2026-07-26T01:14:17Z",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
-      "source": "GitHub",
-      "stars": 771,
-      "user": "fuadmefleh"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "iximiuz"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 336,
       "user": "deerwork-ai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1556,
       "user": "kvcache-ai"
     },
     {
@@ -901,6 +901,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaeKwang Lee RTB"
+    },
+    {
+      "title": "Connecting MUSE 2016 headband via brainflow",
+      "url": "https://stackoverflow.com/questions/79987783/connecting-muse-2016-headband-via-brainflow",
+      "published_at": "2026-07-29T08:34:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "bluetooth"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abhishek Kp"
     },
     {
       "title": "RuntimeError: Event loop is closed - python exception",
@@ -1306,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 2035,
       "user": "mshumer"
     },
     {
@@ -1321,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 476,
       "user": "0xwilliamortiz"
     },
     {
@@ -1336,23 +1349,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 252,
       "user": "achimala"
     },
     {
-      "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
-      "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
-      "published_at": "2026-07-25T10:41:37Z",
-      "description": "Polymarket whale trades in real time",
+      "title": "xikhar/persona - Bringing real-time voice to life.",
+      "url": "https://github.com/xikhar/persona",
+      "published_at": "2026-07-28T11:40:19Z",
+      "description": "Bringing real-time voice to life.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "dunefalcon1qrj"
+      "stars": 200,
+      "user": "xikhar"
     },
     {
       "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
@@ -1366,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 157,
       "user": "icebird1998"
     },
     {
@@ -1396,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "0xwilliamortiz"
     },
     {
@@ -1411,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 372,
       "user": "RongleCat"
     },
     {
@@ -1426,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 336,
       "user": "NikolayS"
     },
     {
@@ -1441,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 336,
       "user": "deerwork-ai"
     },
     {
@@ -1456,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "wassgha"
     },
     {
@@ -1471,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "HaseebKhalid1507"
     },
     {
@@ -1853,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2145,
       "user": "slvDev"
     },
     {
@@ -1868,8 +1881,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1003,
       "user": "mikiarlo3"
+    },
+    {
+      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "published_at": "2026-07-26T01:14:17Z",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
+      "source": "GitHub",
+      "stars": 854,
+      "user": "fuadmefleh"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -1883,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "VictorTaelin"
     },
     {
@@ -1898,23 +1926,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "MoonshotAI"
     },
     {
-      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "published_at": "2026-07-26T01:14:17Z",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "title": "Connecting MUSE 2016 headband via brainflow",
+      "url": "https://stackoverflow.com/questions/79987783/connecting-muse-2016-headband-via-brainflow",
+      "published_at": "2026-07-29T08:34:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "bluetooth"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
-      "source": "GitHub",
-      "stars": 771,
-      "user": "fuadmefleh"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abhishek Kp"
+    },
+    {
+      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
+      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
+      "published_at": "2026-07-28T18:15:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Viraj Shete"
     },
     {
       "title": "How to install pygame in latest versions of python? 3.14+",
@@ -1946,22 +1984,10 @@
       "user": "Cyril Dubovetsky"
     },
     {
-      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
-      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
-      "published_at": "2026-07-28T18:15:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Viraj Shete"
-    },
-    {
       "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
       "url": "https://stackoverflow.com/questions/79987615/iris-global-reference-team-players-1-returns-none-but-team-players-1",
       "published_at": "2026-07-28T18:29:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "intersystems",
@@ -2006,7 +2032,7 @@
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
       "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
       "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -2048,22 +2074,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
-    },
-    {
-      "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
-      "url": "https://stackoverflow.com/questions/79986260/udp-sendto-succeeds-but-outgoing-udp-packet-is-not-transmitted-while-receiving",
-      "published_at": "2026-07-27T09:19:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "advice",
-        "python",
-        "sockets",
-        "network-programming",
-        "udp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adeleh Poursadegh"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -2386,21 +2396,6 @@
   ],
   "Mobile": [
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -2414,6 +2409,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
@@ -2779,21 +2789,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
       "published_at": "2026-07-28T02:21:07Z",
@@ -2807,6 +2802,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "tags": [
+        "agents",
+        "ai",
+        "go",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
@@ -3151,21 +3161,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
-    },
-    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -3179,6 +3174,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3317,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1897,
+      "stars": 2035,
       "user": "mshumer"
     },
     {
@@ -3332,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 476,
       "user": "0xwilliamortiz"
     },
     {
@@ -3347,23 +3357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 252,
       "user": "achimala"
     },
     {
-      "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
-      "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
-      "published_at": "2026-07-25T10:41:37Z",
-      "description": "Polymarket whale trades in real time",
+      "title": "xikhar/persona - Bringing real-time voice to life.",
+      "url": "https://github.com/xikhar/persona",
+      "published_at": "2026-07-28T11:40:19Z",
+      "description": "Bringing real-time voice to life.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 155,
-      "user": "dunefalcon1qrj"
+      "stars": 200,
+      "user": "xikhar"
     },
     {
       "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
@@ -3377,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 157,
       "user": "icebird1998"
     },
     {
@@ -3392,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2145,
       "user": "slvDev"
     },
     {
@@ -3407,8 +3417,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1003,
       "user": "mikiarlo3"
+    },
+    {
+      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "published_at": "2026-07-26T01:14:17Z",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
+      "source": "GitHub",
+      "stars": 854,
+      "user": "fuadmefleh"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3422,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "VictorTaelin"
     },
     {
@@ -3437,23 +3462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "MoonshotAI"
-    },
-    {
-      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "published_at": "2026-07-26T01:14:17Z",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
-      "source": "GitHub",
-      "stars": 771,
-      "user": "fuadmefleh"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3467,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 292,
       "user": "edaywalid"
     },
     {
@@ -3482,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "iximiuz"
     },
     {
@@ -3512,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "byJoey"
     },
     {
@@ -3542,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 586,
       "user": "0xwilliamortiz"
     },
     {
@@ -3557,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 372,
       "user": "RongleCat"
     },
     {
@@ -3572,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 336,
       "user": "NikolayS"
     },
     {
@@ -3587,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 336,
       "user": "deerwork-ai"
     },
     {
@@ -3602,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "wassgha"
     },
     {
@@ -3617,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1556,
       "user": "kvcache-ai"
     },
     {
@@ -3647,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "rrrjqy66"
     },
     {
@@ -3662,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 130,
       "user": "sazardev"
     },
     {
@@ -3677,8 +3687,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "HaseebKhalid1507"
+    },
+    {
+      "title": "Manganin: tools matter",
+      "url": "https://blog.manganin.dev/blog/tools-matter/",
+      "published_at": "2026-07-28T23:44:39.278-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs",
+        "zig"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "matklad"
     },
     {
       "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
@@ -3709,7 +3732,7 @@
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
       "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
       "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python",
