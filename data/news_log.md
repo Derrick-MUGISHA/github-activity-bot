@@ -12520,3 +12520,973 @@ How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity
 
 ---
 
+
+
+## 📰 DevTech News — 2026-07-29 20:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (75 articles)
+
+#### 1. [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+📅 Mon, 27 Jul 2026 21:09:04 GMT
+👤 By: Thomas Bnt | 📌 Source: Dev.to
+
+![Passkeys Explained Simply](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp)
+
+You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+
+🏷️ Tags: `security`, `api`, `webdev`, `discuss`
+
+---
+
+#### 2. [What is current your "daily driver" coding model? (July 2026)](https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl)
+📅 Wed, 29 Jul 2026 14:29:13 GMT
+👤 By: Peter Kim Frank | 📌 Source: Dev.to
+
+![What is current your "daily driver" coding model? (July 2026)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png)
+
+Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...
+
+🏷️ Tags: `discuss`
+
+---
+
+#### 3. [Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa)
+📅 Tue, 28 Jul 2026 18:25:43 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg)
+
+This tutorial builds a starter "Hello World" style agent using Kotlin and the native Kotlin version...
+
+🏷️ Tags: `kotlin`, `ai`, `gemini`, `webdev`
+
+---
+
+#### 4. [I had two weeks, an 8-foot keyboard, and a Wordle Workflow](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h)
+📅 Tue, 28 Jul 2026 14:00:00 GMT
+👤 By: Shy Ruparel | 📌 Source: Dev.to
+
+![I had two weeks, an 8-foot keyboard, and a Wordle Workflow](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg)
+
+A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.
+
+🏷️ Tags: `temporal`, `codesamples`, `industryevents`, `durableexecution`
+
+---
+
+#### 5. [The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3)
+📅 Wed, 29 Jul 2026 02:17:31 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png)
+
+Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `mcp`
+
+---
+
+#### 6. [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6)
+📅 Tue, 28 Jul 2026 11:09:48 GMT
+👤 By: Julien Landuré | 📌 Source: Dev.to
+
+![Your Face on a World Cup Sticker: Our Nano Banana Story](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png)
+
+There is something timeless about opening a pack of football stickers. You never know which player,...
+
+🏷️ Tags: `ai`, `nanobanana`, `gemini`, `promptengineering`
+
+---
+
+#### 7. [DevRelCon, Adult Summer Camp, and My First Time Speaking](https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d)
+📅 Tue, 28 Jul 2026 15:12:02 GMT
+👤 By: DanielleWashington | 📌 Source: Dev.to
+
+![DevRelCon, Adult Summer Camp, and My First Time Speaking](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png)
+
+There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...
+
+🏷️ Tags: `ai`, `devrel`, `devrelcon`, `documentation`
+
+---
+
+#### 8. [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929)
+📅 Mon, 27 Jul 2026 15:37:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png)
+
+Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and Provider synchronously without microtask stream latency or heavy code generation.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `architecture`
+
+---
+
+#### 9. [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i)
+📅 Tue, 28 Jul 2026 16:18:27 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Bug Smash isn't glamorous and that's what I love about it.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png)
+
+We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...
+
+🏷️ Tags: `bugsmash`, `devchallenge`, `debugging`, `discuss`
+
+---
+
+#### 10. [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
+📅 Tue, 28 Jul 2026 02:21:07 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png)
+
+Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `devops`
+
+---
+
+### 🏷️ JavaScript (37 articles)
+
+#### 1. [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+📅 Tue, 28 Jul 2026 10:50:54 GMT
+👤 By: Shubhra Pokhariya | 📌 Source: Dev.to
+
+![React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png)
+
+Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...
+
+🏷️ Tags: `react`, `webdev`, `javascript`, `programming`
+
+---
+
+#### 2. [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4)
+📅 Tue, 28 Jul 2026 05:12:29 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png)
+
+Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....
+
+🏷️ Tags: `javascript`, `node`, `sideprojects`, `webdev`
+
+---
+
+#### 3. [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
+📅 Mon, 27 Jul 2026 17:09:33 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg)
+
+Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.
+
+🏷️ Tags: `typescript`, `ai`, `gemini`, `webdev`
+
+---
+
+#### 4. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 5. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (31 articles)
+
+#### 1. [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf)
+📅 Sun, 26 Jul 2026 19:27:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg)
+
+Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...
+
+🏷️ Tags: `python`, `ai`, `googlecloud`, `gemini`
+
+---
+
+#### 2. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 3. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 4. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 5. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (17 articles)
+
+#### 1. [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
+📅 Tue, 28 Jul 2026 02:21:07 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png)
+
+Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `devops`
+
+---
+
+#### 2. [I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb)
+📅 Sat, 25 Jul 2026 17:55:01 GMT
+👤 By: Le Beltagy | 📌 Source: Dev.to
+
+![I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmp807g893wizyzwkko8v.png)
+
+I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...
+
+🏷️ Tags: `kubernetes`, `homelab`, `devops`, `talos`
+
+---
+
+#### 3. [Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c)
+📅 Mon, 27 Jul 2026 03:59:04 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png)
+
+How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).
+
+🏷️ Tags: `ai`, `security`, `architecture`, `devops`
+
+---
+
+#### 4. [Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)](https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7)
+📅 Sat, 25 Jul 2026 11:47:44 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7amtg1t470o5rnh4ur9.png)
+
+Introducing Gubernator: The Goldilocks Container Orchestrator   Gubernator combines the...
+
+🏷️ Tags: `docker`, `devops`, `opentelemetry`, `antigravity`
+
+---
+
+#### 5. [Why AI Apps Fail in Production (And How Google Solved It)](https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m)
+📅 Wed, 22 Jul 2026 17:36:07 GMT
+👤 By: Stephanie Wong | 📌 Source: Dev.to
+
+![Why AI Apps Fail in Production (And How Google Solved It)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png)
+
+We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...
+
+🏷️ Tags: `ai`, `vibecoding`, `devops`, `architecture`
+
+---
+
+#### 6. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (5 articles)
+
+#### 1. [Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools](https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6)
+📅 Tue, 28 Jul 2026 20:13:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png)
+
+Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.
+
+🏷️ Tags: `flutter`, `dart`, `webdev`, `architecture`
+
+---
+
+#### 2. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Canvas Benchmark vs. Browser Profiler](https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler)
+📅 Mon, 27 Jul 2026 05:57:33 GMT
+👤 By: dandeto | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -5
+
+🏷️ Tags: `javascript`, `canvas`, `html5-canvas`, `profiling`
+
+---
+
+#### 4. [Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?](https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in)
+📅 Mon, 27 Jul 2026 03:58:51 GMT
+👤 By: Gary | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 1
+
+🏷️ Tags: `javascript`, `css`, `shadow-dom`
+
+---
+
+#### 5. [How OAuth 2.0 Works: A Practical Guide for Backend Developers](https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/)
+📅 Wed, 29 Jul 2026 09:15:17 GMT
+👤 By: Ashutosh Krishna | 📌 Source: freeCodeCamp
+
+If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like "Authorization Server", "Bearer Tokens", "PKCE", and "Implicit Grant". They might also draw a se
+
+🏷️ Tags: `oauth`, `backend`, `authorization`, `authentication`
+
+---
+
+### 🏷️ Mobile (5 articles)
+
+#### 1. [Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa)
+📅 Tue, 28 Jul 2026 18:25:43 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg)
+
+This tutorial builds a starter "Hello World" style agent using Kotlin and the native Kotlin version...
+
+🏷️ Tags: `kotlin`, `ai`, `gemini`, `webdev`
+
+---
+
+#### 2. [Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools](https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6)
+📅 Tue, 28 Jul 2026 20:13:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png)
+
+Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.
+
+🏷️ Tags: `flutter`, `dart`, `webdev`, `architecture`
+
+---
+
+#### 3. [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
+📅 Mon, 27 Jul 2026 22:37:30 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png)
+
+Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in Flutter Hooks applications.
+
+🏷️ Tags: `flutter`, `dart`, `bloc`, `statemanagement`
+
+---
+
+#### 4. [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929)
+📅 Mon, 27 Jul 2026 15:37:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png)
+
+Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and Provider synchronously without microtask stream latency or heavy code generation.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `architecture`
+
+---
+
+#### 5. [Google brings its age-assurance technology to Android developers worldwide](https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/)
+📅 Wed, 29 Jul 2026 17:00:00 GMT
+👤 By: Sarah Perez | 📌 Source: TechCrunch
+
+Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.
+
+🏷️ Tags: `Apps`, `Android`, `Google`, `Google Play`
+
+---
+
+### 🏷️ Cloud (16 articles)
+
+#### 1. [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l)
+📅 Tue, 28 Jul 2026 18:58:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png)
+
+This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `aws`
+
+---
+
+#### 2. [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi)
+📅 Mon, 27 Jul 2026 19:24:51 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Build and Deploy Java AI Agents with Google ADK](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png)
+
+Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.
+
+🏷️ Tags: `java`, `ai`, `googlecloud`, `debian`
+
+---
+
+#### 3. [Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36)
+📅 Mon, 27 Jul 2026 20:54:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png)
+
+This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `azure`
+
+---
+
+#### 4. [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
+📅 Mon, 27 Jul 2026 17:09:33 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg)
+
+Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.
+
+🏷️ Tags: `typescript`, `ai`, `gemini`, `webdev`
+
+---
+
+#### 5. [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e)
+📅 Sun, 26 Jul 2026 15:56:55 GMT
+👤 By: John Bulla | 📌 Source: Dev.to
+
+![Google ADK: Introduction to AI Agent Development](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png)
+
+Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...
+
+🏷️ Tags: `ai`, `agents`, `cloud`, `googlecloud`
+
+---
+
+#### 6. [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf)
+📅 Sun, 26 Jul 2026 19:27:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg)
+
+Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...
+
+🏷️ Tags: `python`, `ai`, `googlecloud`, `gemini`
+
+---
+
+#### 7. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 8. [Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3)
+📅 Wed, 08 Jul 2026 13:26:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `mcps`, `googleantigravity`, `googletpu`, `gemma4`
+
+---
+
+#### 9. [Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o)
+📅 Wed, 15 Jul 2026 06:50:10 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg)
+
+Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...
+
+🏷️ Tags: `ai`, `angular`, `agenticarchitect`, `antigravitycli`
+
+---
+
+#### 10. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+### 🏷️ Database (3 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [PostgreSQL MVCC: tradeoffs compared to other engines](https://boringsql.com/posts/mvcc-bad-bad/)
+📅 Wed, 29 Jul 2026 13:25:07 GMT
+👤 By: pmbauer | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `databases`
+
+---
+
+#### 3. [Website database changes monitoring by Fetch/XHR requests](https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests)
+📅 Tue, 28 Jul 2026 21:30:07 GMT
+👤 By: Abdelali Fihri | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -5
+
+🏷️ Tags: `tooling-recommendation`, `javascript`
+
+---
+
+### 🏷️ Security (21 articles)
+
+#### 1. [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+📅 Mon, 27 Jul 2026 21:09:04 GMT
+👤 By: Thomas Bnt | 📌 Source: Dev.to
+
+![Passkeys Explained Simply](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp)
+
+You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+
+🏷️ Tags: `security`, `api`, `webdev`, `discuss`
+
+---
+
+#### 2. [The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3)
+📅 Wed, 29 Jul 2026 02:17:31 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png)
+
+Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `mcp`
+
+---
+
+#### 3. [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
+📅 Tue, 28 Jul 2026 02:21:07 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png)
+
+Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `devops`
+
+---
+
+#### 4. [[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go](https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb)
+📅 Tue, 28 Jul 2026 05:12:52 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png)
+
+Preface:   In the past six months or so, connecting AI Agents directly to internal systems...
+
+🏷️ Tags: `agents`, `ai`, `go`, `security`
+
+---
+
+#### 5. [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25)
+📅 Mon, 27 Jul 2026 02:11:38 GMT
+👤 By: Karthigayan Devan | 📌 Source: Dev.to
+
+![Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg)
+
+Let me start with a question.  If a stranger handed you a USB drive and said "plug this in, it just...
+
+🏷️ Tags: `discuss`, `ai`, `security`, `opensource`
+
+---
+
+#### 6. [Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks](https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn)
+📅 Mon, 27 Jul 2026 05:24:28 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png)
+
+Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...
+
+🏷️ Tags: `mcp`, `ai`, `data`, `security`
+
+---
+
+#### 7. [Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c)
+📅 Mon, 27 Jul 2026 03:59:04 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png)
+
+How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).
+
+🏷️ Tags: `ai`, `security`, `architecture`, `devops`
+
+---
+
+#### 8. [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l)
+📅 Fri, 24 Jul 2026 14:35:41 GMT
+👤 By: Gemini Team | 📌 Source: Dev.to
+
+![Investing in multi-agent AI safety research](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp)
+
+Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...
+
+🏷️ Tags: `ai`, `agents`, `security`, `google`
+
+---
+
+#### 9. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ Tools (44 articles)
+
+#### 1. [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l)
+📅 Tue, 28 Jul 2026 18:58:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png)
+
+This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `aws`
+
+---
+
+#### 2. [Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools](https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6)
+📅 Tue, 28 Jul 2026 20:13:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png)
+
+Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.
+
+🏷️ Tags: `flutter`, `dart`, `webdev`, `architecture`
+
+---
+
+#### 3. [The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3)
+📅 Wed, 29 Jul 2026 02:17:31 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png)
+
+Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `mcp`
+
+---
+
+#### 4. [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
+📅 Tue, 28 Jul 2026 02:21:07 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png)
+
+Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `devops`
+
+---
+
+#### 5. [Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36)
+📅 Mon, 27 Jul 2026 20:54:36 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png)
+
+This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `azure`
+
+---
+
+#### 6. [Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks](https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn)
+📅 Mon, 27 Jul 2026 05:24:28 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png)
+
+Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...
+
+🏷️ Tags: `mcp`, `ai`, `data`, `security`
+
+---
+
+#### 7. [How terminal-sharing tools put your shell in a browser](https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328)
+📅 Sun, 26 Jul 2026 16:43:17 GMT
+👤 By: Athreya aka Maneshwar | 📌 Source: Dev.to
+
+![How terminal-sharing tools put your shell in a browser](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png)
+
+Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+
+🏷️ Tags: `webdev`, `programming`, `productivity`, `cli`
+
+---
+
+#### 8. [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng)
+📅 Thu, 09 Jul 2026 14:44:40 GMT
+👤 By: Klaudia Grzondziel | 📌 Source: Dev.to
+
+![Should I quit IT or just live through the burnout?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png)
+
+Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....
+
+🏷️ Tags: `mentalhealth`, `career`, `productivity`, `discuss`
+
+---
+
+#### 9. [Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants](https://dev.to/gde/building-a-multi-agent-finops-solution-with-google-adk-levering-tools-mcp-and-google-managed-lf)
+📅 Sun, 26 Jul 2026 06:10:51 GMT
+👤 By: Darren "Dazbo" Lester | 📌 Source: Dev.to
+
+![Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfqynr47yijpidc9s351.png)
+
+Welcome Back!   We’re continuing our FinSavant series. In the previous two parts...
+
+🏷️ Tags: `finops`, `bigquery`, `agenticai`, `adk`
+
+---
+
+#### 10. [Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn)
+📅 Fri, 24 Jul 2026 12:27:58 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg)
+
+How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.
+
+🏷️ Tags: `ai`, `gemini`, `mcp`, `antigravity`
+
+---
+

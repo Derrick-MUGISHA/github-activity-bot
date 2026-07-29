@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 545,
       "user": "0xwilliamortiz"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "QwenAudio"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2260,
       "user": "slvDev"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1032,
       "user": "mikiarlo3"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 923,
       "user": "fuadmefleh"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 858,
       "user": "VictorTaelin"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 856,
       "user": "MoonshotAI"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1876,
+      "stars": 1930,
       "user": "kvcache-ai"
     },
     {
@@ -925,15 +925,30 @@
       "user": "Abhishek Kp"
     },
     {
+      "title": "Google brings its age-assurance technology to Android developers worldwide",
+      "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+      "published_at": "2026-07-29T17:00:00.000Z",
+      "description": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+      "tags": [
+        "Apps",
+        "Android",
+        "Google",
+        "Google Play"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
       "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
       "published_at": "2026-07-29T15:35:09.000Z",
       "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
       "tags": [
+        "TC",
+        "Startups",
         "AI",
         "Apps",
-        "Startups",
-        "TC",
         "martha stewart"
       ],
       "cover_image": null,
@@ -986,53 +1001,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "published_at": "2026-07-29T11:00:00.000Z",
-      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "ai slop"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "published_at": "2026-07-29T00:09:05.000Z",
-      "description": "The deal is Cyera's third acquisition this year.",
-      "tags": [
-        "AI",
-        "Security",
-        "Cyera",
-        "In Brief",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "published_at": "2026-07-28T21:29:34.000Z",
-      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "TC",
-        "bot detection"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1304,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2184,
+      "stars": 2196,
       "user": "mshumer"
     },
     {
@@ -1319,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 545,
       "user": "0xwilliamortiz"
     },
     {
@@ -1334,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 410,
       "user": "xikhar"
     },
     {
@@ -1349,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 310,
       "user": "achimala"
     },
     {
@@ -1364,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "QwenAudio"
     },
     {
@@ -1409,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "RongleCat"
     },
     {
@@ -1424,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "NikolayS"
     },
     {
@@ -1439,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 361,
       "user": "talivia-group"
     },
     {
@@ -1461,7 +1429,7 @@
       "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
       "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
       "published_at": "2026-07-29T14:19:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "maplibre-gl"
@@ -1821,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2260,
       "user": "slvDev"
     },
     {
@@ -1836,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1032,
       "user": "mikiarlo3"
     },
     {
@@ -1851,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 923,
       "user": "fuadmefleh"
     },
     {
@@ -1866,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 858,
       "user": "VictorTaelin"
     },
     {
@@ -1881,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 856,
       "user": "MoonshotAI"
     },
     {
@@ -1902,7 +1870,7 @@
       "title": "How do I pass class variables to functions imported from another module?",
       "url": "https://stackoverflow.com/questions/79987927/how-do-i-pass-class-variables-to-functions-imported-from-another-module",
       "published_at": "2026-07-29T16:04:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "tkinter"
@@ -1987,7 +1955,7 @@
       "title": "Decorators terminology",
       "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
       "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "advice",
         "python",
@@ -2418,6 +2386,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Google brings its age-assurance technology to Android developers worldwide",
+      "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+      "published_at": "2026-07-29T17:00:00.000Z",
+      "description": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+      "tags": [
+        "Apps",
+        "Android",
+        "Google",
+        "Google Play"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2955,20 +2938,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "published_at": "2026-07-29T00:09:05.000Z",
-      "description": "The deal is Cyera's third acquisition this year.",
+      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+      "published_at": "2026-07-29T17:41:09.000Z",
+      "description": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
       "tags": [
-        "AI",
         "Security",
-        "Cyera",
-        "In Brief",
-        "Mergers and Acquisitions"
+        "China",
+        "FCC",
+        "power inverters",
+        "cybersecurity"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Zack Whittaker"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -3229,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2184,
+      "stars": 2196,
       "user": "mshumer"
     },
     {
@@ -3244,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 545,
       "user": "0xwilliamortiz"
     },
     {
@@ -3259,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 410,
       "user": "xikhar"
     },
     {
@@ -3274,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 310,
       "user": "achimala"
     },
     {
@@ -3289,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "QwenAudio"
     },
     {
@@ -3304,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2260,
       "user": "slvDev"
     },
     {
@@ -3319,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1029,
+      "stars": 1032,
       "user": "mikiarlo3"
     },
     {
@@ -3334,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 923,
       "user": "fuadmefleh"
     },
     {
@@ -3349,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 858,
       "user": "VictorTaelin"
     },
     {
@@ -3364,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 856,
       "user": "MoonshotAI"
     },
     {
@@ -3379,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 310,
       "user": "edaywalid"
     },
     {
@@ -3469,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 384,
       "user": "RongleCat"
     },
     {
@@ -3484,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 366,
       "user": "NikolayS"
     },
     {
@@ -3499,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 361,
       "user": "talivia-group"
     },
     {
@@ -3529,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1876,
+      "stars": 1930,
       "user": "kvcache-ai"
     },
     {
@@ -3574,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "sazardev"
     },
     {
@@ -3589,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 126,
       "user": "jchultarsky"
     },
     {
@@ -3604,22 +3587,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdelali Fihri"
-    },
-    {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "published_at": "2026-07-28T21:29:34.000Z",
-      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "TC",
-        "bot detection"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
