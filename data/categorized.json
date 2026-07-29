@@ -738,6 +738,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "published_at": "2026-07-27T05:04:26Z",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
+      "source": "GitHub",
+      "stars": 162,
+      "user": "QwenAudio"
+    },
+    {
       "title": "slvDev/esp32-ai - GitHub Repository",
       "url": "https://github.com/slvDev/esp32-ai",
       "published_at": "2026-07-23T14:53:51Z",
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2145,
+      "stars": 2179,
       "user": "slvDev"
     },
     {
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1013,
       "user": "mikiarlo3"
     },
     {
@@ -779,23 +794,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 905,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 835,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -809,8 +809,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 840,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 837,
+      "user": "VictorTaelin"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -824,23 +839,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "iximiuz"
-    },
-    {
-      "title": "cyi-cc/chatgpt-register - GitHub Repository",
-      "url": "https://github.com/cyi-cc/chatgpt-register",
-      "published_at": "2026-07-23T13:49:49Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
-      "source": "GitHub",
-      "stars": 55,
-      "user": "cyi-cc"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 342,
       "user": "deerwork-ai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1613,
       "user": "kvcache-ai"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "steelbrain"
     },
     {
@@ -916,19 +916,19 @@
       "user": "Abhishek Kp"
     },
     {
-      "title": "RuntimeError: Event loop is closed - python exception",
-      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
-      "published_at": "2026-07-27T17:18:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "published_at": "2026-07-29T11:00:00.000Z",
+      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
       "tags": [
-        "python",
-        "python-3.x",
-        "asynchronous",
-        "python-aiofiles"
+        "Startups",
+        "AI",
+        "Fundraising",
+        "ai slop"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -1032,22 +1032,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "HBO Max embraces vertical video with a new &#8216;Shorts&#8217; feed",
-      "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
-      "published_at": "2026-07-28T17:57:57.000Z",
-      "description": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "HBO Max",
-        "short form",
-        "Vertical Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Prompt vs Loop Engineering: A Guide for Developers",
@@ -1319,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2124,
       "user": "mshumer"
     },
     {
@@ -1349,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 265,
       "user": "achimala"
     },
     {
@@ -1364,23 +1348,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 256,
       "user": "xikhar"
     },
     {
-      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "url": "https://github.com/icebird1998/scientific-illustrator",
-      "published_at": "2026-07-24T04:27:30Z",
-      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "published_at": "2026-07-27T05:04:26Z",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 157,
-      "user": "icebird1998"
+      "stars": 162,
+      "user": "QwenAudio"
     },
     {
       "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
@@ -1409,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "0xwilliamortiz"
     },
     {
@@ -1424,23 +1408,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "RongleCat"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -1454,8 +1423,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 342,
       "user": "deerwork-ai"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "NikolayS"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -1469,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "wassgha"
     },
     {
@@ -1484,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 116,
       "user": "HaseebKhalid1507"
     },
     {
@@ -1866,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2145,
+      "stars": 2179,
       "user": "slvDev"
     },
     {
@@ -1881,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1013,
       "user": "mikiarlo3"
     },
     {
@@ -1896,23 +1880,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 905,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 835,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -1926,8 +1895,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 840,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 837,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "How to retrieve a variable from another threading.Thread?",
+      "url": "https://stackoverflow.com/questions/79987816/how-to-retrieve-a-variable-from-another-threading-thread",
+      "published_at": "2026-07-29T10:43:49.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "multithreading",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Unknow 15465426"
+    },
+    {
+      "title": "Controller hotplugging issue",
+      "url": "https://stackoverflow.com/questions/79987803/controller-hotplugging-issue",
+      "published_at": "2026-07-29T10:03:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pygame",
+        "hotplugging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DonPolettone"
+    },
+    {
+      "title": "Perceptually compare two JPEGs from the same source image with different color profiles",
+      "url": "https://stackoverflow.com/questions/79987800/perceptually-compare-two-jpegs-from-the-same-source-image-with-different-color-p",
+      "published_at": "2026-07-29T09:44:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "image-processing",
+        "colors",
+        "color-profile"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "malat"
     },
     {
       "title": "Connecting MUSE 2016 headband via brainflow",
@@ -1958,7 +1985,7 @@
       "title": "How to install pygame in latest versions of python? 3.14+",
       "url": "https://stackoverflow.com/questions/79987689/how-to-install-pygame-in-latest-versions-of-python-3-14",
       "published_at": "2026-07-29T00:06:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pygame"
@@ -1971,7 +1998,7 @@
       "title": "Decorators terminology",
       "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
       "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "advice",
         "python",
@@ -2027,53 +2054,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32851394"
-    },
-    {
-      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
-      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
-      "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "pdf",
-        "ocr",
-        "python-tesseract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AZAPI.ai"
-    },
-    {
-      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
-      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
-      "published_at": "2026-07-27T11:52:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "best-practices",
-        "python",
-        "amazon-s3",
-        "deep-learning",
-        "architecture"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Himanshu Srivastav"
-    },
-    {
-      "title": "RuntimeError: Event loop is closed - python exception",
-      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
-      "published_at": "2026-07-27T17:18:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "asynchronous",
-        "python-aiofiles"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -3327,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2035,
+      "stars": 2124,
       "user": "mshumer"
     },
     {
@@ -3357,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 265,
       "user": "achimala"
     },
     {
@@ -3372,23 +3352,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 256,
       "user": "xikhar"
     },
     {
-      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
-      "url": "https://github.com/icebird1998/scientific-illustrator",
-      "published_at": "2026-07-24T04:27:30Z",
-      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "published_at": "2026-07-27T05:04:26Z",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 157,
-      "user": "icebird1998"
+      "stars": 162,
+      "user": "QwenAudio"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -3402,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2145,
+      "stars": 2179,
       "user": "slvDev"
     },
     {
@@ -3417,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1013,
       "user": "mikiarlo3"
     },
     {
@@ -3432,23 +3412,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 905,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 835,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -3462,8 +3427,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 840,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 837,
+      "user": "VictorTaelin"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3477,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 295,
       "user": "edaywalid"
     },
     {
@@ -3492,8 +3472,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 235,
       "user": "iximiuz"
+    },
+    {
+      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "url": "https://github.com/byJoey/fanout",
+      "published_at": "2026-07-26T03:41:14Z",
+      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "byJoey"
     },
     {
       "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
@@ -3511,34 +3506,19 @@
       "user": "cocofhu"
     },
     {
-      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
-      "url": "https://github.com/byJoey/fanout",
-      "published_at": "2026-07-26T03:41:14Z",
-      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
+      "url": "https://github.com/torrischen/goat",
+      "published_at": "2026-07-26T07:11:14Z",
+      "description": "goat is a package provides agent framework written in golang",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "byJoey"
-    },
-    {
-      "title": "cyi-cc/chatgpt-register - GitHub Repository",
-      "url": "https://github.com/cyi-cc/chatgpt-register",
-      "published_at": "2026-07-23T13:49:49Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
-      "source": "GitHub",
-      "stars": 55,
-      "user": "cyi-cc"
+      "stars": 63,
+      "user": "torrischen"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3552,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "0xwilliamortiz"
     },
     {
@@ -3567,23 +3547,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 374,
       "user": "RongleCat"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -3597,8 +3562,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 342,
       "user": "deerwork-ai"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "NikolayS"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -3612,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "wassgha"
     },
     {
@@ -3627,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1613,
       "user": "kvcache-ai"
     },
     {
@@ -3642,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "steelbrain"
     },
     {
@@ -3657,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "rrrjqy66"
     },
     {
@@ -3672,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "sazardev"
     },
     {
@@ -3687,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 116,
       "user": "HaseebKhalid1507"
     },
     {
@@ -3727,22 +3707,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdelali Fihri"
-    },
-    {
-      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
-      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
-      "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "pdf",
-        "ocr",
-        "python-tesseract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AZAPI.ai"
     },
     {
       "title": "Bot-detection startup Spur nabs $200M from Insight",
