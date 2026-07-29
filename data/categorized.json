@@ -16,21 +16,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
-      "published_at": "2026-07-28T14:00:00Z",
-      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
-      "tags": [
-        "temporal",
-        "codesamples",
-        "industryevents",
-        "durableexecution"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
-      "source": "Dev.to",
-      "user": "Shy Ruparel"
-    },
-    {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
       "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
       "published_at": "2026-07-28T11:09:48Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
       "source": "Dev.to",
       "user": "Julien Landuré"
+    },
+    {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
+      "published_at": "2026-07-28T14:00:00Z",
+      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
+      "tags": [
+        "temporal",
+        "codesamples",
+        "industryevents",
+        "durableexecution"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
+      "source": "Dev.to",
+      "user": "Shy Ruparel"
     },
     {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
@@ -76,21 +76,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
-      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
-      "published_at": "2026-07-28T15:12:02Z",
-      "description": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
-      "tags": [
-        "ai",
-        "devrel",
-        "devrelcon",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
-      "source": "Dev.to",
-      "user": "DanielleWashington"
-    },
-    {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
       "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
       "published_at": "2026-07-28T05:12:52Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
+      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
+      "published_at": "2026-07-28T15:12:02Z",
+      "description": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
+      "tags": [
+        "ai",
+        "devrel",
+        "devrelcon",
+        "documentation"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
+      "source": "Dev.to",
+      "user": "DanielleWashington"
     },
     {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
@@ -134,21 +134,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
-      "published_at": "2026-07-27T17:09:33Z",
-      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
-      "tags": [
-        "typescript",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Build and Deploy Java AI Agents with Google ADK",
@@ -194,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+      "published_at": "2026-07-27T17:09:33Z",
+      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
+      "tags": [
+        "typescript",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Google ADK: Introduction to AI Agent Development",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2049,
+      "stars": 2092,
       "user": "slvDev"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 995,
       "user": "mikiarlo3"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 812,
       "user": "VictorTaelin"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 803,
       "user": "MoonshotAI"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 709,
       "user": "fuadmefleh"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 226,
       "user": "iximiuz"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 328,
       "user": "deerwork-ai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1426,
+      "stars": 1478,
       "user": "kvcache-ai"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "steelbrain"
     },
     {
@@ -902,6 +902,18 @@
       "user": "JaeKwang Lee RTB"
     },
     {
+      "title": "Developer tip: Building Sustainable Websites in an AI-Driven World: Lesser-Known Strategies for Long-Term Success",
+      "url": "https://stackoverflow.com/questions/79987700/developer-tip-building-sustainable-websites-in-an-ai-driven-world-lesser-known",
+      "published_at": "2026-07-29T01:20:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874482"
+    },
+    {
       "title": "RuntimeError: Event loop is closed - python exception",
       "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
       "published_at": "2026-07-27T17:18:06.000Z",
@@ -915,6 +927,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "published_at": "2026-07-29T00:09:05.000Z",
+      "description": "The deal is Cyera's third acquisition this year.",
+      "tags": [
+        "AI",
+        "Security",
+        "Cyera",
+        "M&A"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Bot-detection startup Spur nabs $200M from Insight",
@@ -1290,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1798,
       "user": "mshumer"
     },
     {
@@ -1305,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -1320,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 199,
       "user": "achimala"
     },
     {
@@ -1350,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "icebird1998"
     },
     {
@@ -1380,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "0xwilliamortiz"
     },
     {
@@ -1395,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "RongleCat"
     },
     {
@@ -1410,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 328,
       "user": "deerwork-ai"
     },
     {
@@ -1425,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 325,
       "user": "NikolayS"
     },
     {
@@ -1440,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "wassgha"
     },
     {
@@ -1455,14 +1482,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "HaseebKhalid1507"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript"
       ],
@@ -1474,7 +1501,7 @@
       "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
       "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
       "published_at": "2026-07-28T17:53:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "custom-element"
@@ -1513,6 +1540,20 @@
       "user": "dandeto"
     },
     {
+      "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
+      "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
+      "published_at": "2026-07-27T03:58:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "css",
+        "shadow-dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "React use() cache gets overwritten by an older Promise after invalidation",
       "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
       "published_at": "2026-07-27T19:43:30.000Z",
@@ -1526,20 +1567,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David Brierton"
-    },
-    {
-      "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
-      "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
-      "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "shadow-dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
@@ -1583,18 +1610,20 @@
       "user": "rahul"
     },
     {
-      "title": "Can the JS code event listener \"know\" the event target within an openshadow DOM node?",
-      "url": "https://stackoverflow.com/questions/79986113/can-the-js-code-event-listener-know-the-event-target-within-an-openshadow-dom",
-      "published_at": "2026-07-26T19:38:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
+      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
+      "published_at": "2026-07-23T10:14:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
-        "dom-events",
-        "shadow-dom"
+        "node.js",
+        "excel",
+        "type-conversion",
+        "exceljs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Gary"
+      "user": "user31009838"
     },
     {
       "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
@@ -1833,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2049,
+      "stars": 2092,
       "user": "slvDev"
     },
     {
@@ -1848,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 995,
       "user": "mikiarlo3"
     },
     {
@@ -1863,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 812,
       "user": "VictorTaelin"
     },
     {
@@ -1878,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 803,
       "user": "MoonshotAI"
     },
     {
@@ -1893,8 +1922,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 709,
       "user": "fuadmefleh"
+    },
+    {
+      "title": "Developer tip: Building Sustainable Websites in an AI-Driven World: Lesser-Known Strategies for Long-Term Success",
+      "url": "https://stackoverflow.com/questions/79987700/developer-tip-building-sustainable-websites-in-an-ai-driven-world-lesser-known",
+      "published_at": "2026-07-29T01:20:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874482"
+    },
+    {
+      "title": "How to install pygame in latest versions of python? 3.14+",
+      "url": "https://stackoverflow.com/questions/79987689/how-to-install-pygame-in-latest-versions-of-python-3-14",
+      "published_at": "2026-07-29T00:06:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "flameastro"
     },
     {
       "title": "Decorators terminology",
@@ -1928,7 +1982,7 @@
       "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
       "url": "https://stackoverflow.com/questions/79987615/iris-global-reference-team-players-1-returns-none-but-team-players-1",
       "published_at": "2026-07-28T18:29:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "intersystems",
@@ -1954,22 +2008,6 @@
       "user": "Baptiste Noisette"
     },
     {
-      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
-      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
-      "published_at": "2026-07-27T12:10:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "pdf",
-        "ocr",
-        "python-tesseract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AZAPI.ai"
-    },
-    {
       "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
       "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
       "published_at": "2026-07-27T16:25:46.000Z",
@@ -1984,6 +2022,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32851394"
+    },
+    {
+      "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
+      "url": "https://stackoverflow.com/questions/79986308/how-can-i-extract-structured-data-from-scanned-pdfs-using-ocr-in-python",
+      "published_at": "2026-07-27T12:10:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "pdf",
+        "ocr",
+        "python-tesseract"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AZAPI.ai"
     },
     {
       "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
@@ -2015,35 +2069,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
-    },
-    {
-      "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
-      "url": "https://stackoverflow.com/questions/79986260/udp-sendto-succeeds-but-outgoing-udp-packet-is-not-transmitted-while-receiving",
-      "published_at": "2026-07-27T09:19:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "advice",
-        "python",
-        "sockets",
-        "network-programming",
-        "udp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adeleh Poursadegh"
-    },
-    {
-      "title": "Velocity Increases rapidly",
-      "url": "https://stackoverflow.com/questions/79986030/velocity-increases-rapidly",
-      "published_at": "2026-07-26T12:57:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python",
-        "physics"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Isaiah noxy"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -2458,21 +2483,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
-      "published_at": "2026-07-27T17:09:33Z",
-      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
-      "tags": [
-        "typescript",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build and Deploy Java AI Agents with Google ADK",
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
       "published_at": "2026-07-27T19:24:51Z",
@@ -2484,6 +2494,21 @@
         "debian"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+      "published_at": "2026-07-27T17:09:33Z",
+      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
+      "tags": [
+        "typescript",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2716,7 +2741,7 @@
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript"
       ],
@@ -3008,6 +3033,21 @@
       "user": "Baptiste Noisette"
     },
     {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "published_at": "2026-07-29T00:09:05.000Z",
+      "description": "The deal is Cyera's third acquisition this year.",
+      "tags": [
+        "AI",
+        "Security",
+        "Cyera",
+        "M&A"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
       "title": "Sam Altman is ready to decelerate",
       "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
       "published_at": "2026-07-28T20:17:08.000Z",
@@ -3250,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1798,
       "user": "mshumer"
     },
     {
@@ -3265,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -3280,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 199,
       "user": "achimala"
     },
     {
@@ -3310,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "icebird1998"
     },
     {
@@ -3325,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2049,
+      "stars": 2092,
       "user": "slvDev"
     },
     {
@@ -3340,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 991,
+      "stars": 995,
       "user": "mikiarlo3"
     },
     {
@@ -3355,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 812,
       "user": "VictorTaelin"
     },
     {
@@ -3370,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 803,
       "user": "MoonshotAI"
     },
     {
@@ -3385,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 709,
       "user": "fuadmefleh"
     },
     {
@@ -3400,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "edaywalid"
     },
     {
@@ -3415,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 226,
       "user": "iximiuz"
     },
     {
@@ -3445,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "byJoey"
     },
     {
@@ -3475,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "0xwilliamortiz"
     },
     {
@@ -3490,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "RongleCat"
     },
     {
@@ -3505,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 328,
       "user": "deerwork-ai"
     },
     {
@@ -3520,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 325,
       "user": "NikolayS"
     },
     {
@@ -3535,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "wassgha"
     },
     {
@@ -3550,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1426,
+      "stars": 1478,
       "user": "kvcache-ai"
     },
     {
@@ -3565,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "steelbrain"
     },
     {
@@ -3595,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "sazardev"
     },
     {
@@ -3610,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "HaseebKhalid1507"
     },
     {
