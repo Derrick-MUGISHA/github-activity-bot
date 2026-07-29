@@ -16,6 +16,33 @@
       "user": "Thomas Bnt"
     },
     {
+      "title": "What is current your \"daily driver\" coding model? (July 2026)",
+      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
+      "published_at": "2026-07-29T14:29:13Z",
+      "description": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "tags": [
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
       "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
       "published_at": "2026-07-28T14:00:00Z",
@@ -29,6 +56,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
       "user": "Shy Ruparel"
+    },
+    {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
@@ -59,21 +101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
       "source": "Dev.to",
       "user": "DanielleWashington"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
@@ -284,21 +311,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
-      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
-      "published_at": "2026-07-23T11:11:46Z",
-      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
-      "tags": [
-        "googleai",
-        "gcpsecurityoperation",
-        "googleskills",
-        "googlecloudplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
     },
     {
       "title": "Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants",
@@ -525,36 +537,6 @@
       "user": "Rohini Gaonkar"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
-      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
-      "published_at": "2026-07-24T17:37:35Z",
-      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -734,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 497,
       "user": "0xwilliamortiz"
     },
     {
@@ -749,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 177,
       "user": "QwenAudio"
     },
     {
@@ -764,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2229,
       "user": "slvDev"
     },
     {
@@ -779,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1025,
       "user": "mikiarlo3"
     },
     {
@@ -794,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 920,
       "user": "fuadmefleh"
     },
     {
@@ -809,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 852,
       "user": "MoonshotAI"
     },
     {
@@ -824,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 850,
       "user": "VictorTaelin"
     },
     {
@@ -839,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "iximiuz"
     },
     {
@@ -854,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "deerwork-ai"
     },
     {
@@ -869,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1811,
       "user": "kvcache-ai"
     },
     {
@@ -884,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "steelbrain"
     },
     {
@@ -915,6 +897,22 @@
       "user": "JaeKwang Lee RTB"
     },
     {
+      "title": "DeepLabCut Machine Learning Video Analysis TypeError",
+      "url": "https://stackoverflow.com/questions/79987898/deeplabcut-machine-learning-video-analysis-typeerror",
+      "published_at": "2026-07-29T14:32:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "typeerror",
+        "google-colaboratory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alana Holmes"
+    },
+    {
       "title": "Connecting MUSE 2016 headband via brainflow",
       "url": "https://stackoverflow.com/questions/79987783/connecting-muse-2016-headband-via-brainflow",
       "published_at": "2026-07-29T08:34:30.000Z",
@@ -928,19 +926,35 @@
       "user": "Abhishek Kp"
     },
     {
-      "title": "Spotify adds a running mode to its app",
-      "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
-      "published_at": "2026-07-29T13:00:00.000Z",
-      "description": "Running Mode will be available to Premium users on iOS in select countries",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "published_at": "2026-07-29T15:00:00.000Z",
+      "description": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
       "tags": [
-        "TC",
         "Apps",
-        "Spotify",
-        "running"
+        "Fundraising",
+        "AI browser",
+        "Perplexity"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "published_at": "2026-07-29T14:41:06.000Z",
+      "description": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "customer relationship management",
+        "Team8 Capital"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "As AI content floods the internet, Pangram raises $9M to detect it",
@@ -948,9 +962,9 @@
       "published_at": "2026-07-29T11:00:00.000Z",
       "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
       "tags": [
-        "Startups",
         "AI",
         "Fundraising",
+        "Startups",
         "ai slop"
       ],
       "cover_image": null,
@@ -1012,19 +1026,6 @@
       "tags": [
         "AI",
         "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-      "published_at": "2026-07-28T19:07:31.000Z",
-      "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
-      "tags": [
-        "Space",
-        "NASA"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1284,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2141,
+      "stars": 2166,
       "user": "mshumer"
     },
     {
@@ -1299,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 497,
       "user": "0xwilliamortiz"
     },
     {
@@ -1314,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 362,
       "user": "xikhar"
     },
     {
@@ -1329,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 296,
       "user": "achimala"
     },
     {
@@ -1344,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 177,
       "user": "QwenAudio"
     },
     {
@@ -1389,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 380,
       "user": "RongleCat"
     },
     {
@@ -1404,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 360,
       "user": "NikolayS"
     },
     {
@@ -1419,23 +1420,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "deerwork-ai"
     },
     {
-      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-      "url": "https://github.com/wassgha/rescript",
-      "published_at": "2026-07-26T22:43:11Z",
-      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "url": "https://github.com/talivia-group/talivia",
+      "published_at": "2026-07-29T07:56:49Z",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 313,
-      "user": "wassgha"
+      "stars": 330,
+      "user": "talivia-group"
     },
     {
       "title": "HaseebKhalid1507/Myx - Spotify player for the terminal. With reactive themes.",
@@ -1449,14 +1450,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "HaseebKhalid1507"
+    },
+    {
+      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
+      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
+      "published_at": "2026-07-29T14:19:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "maplibre-gl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Baohua Chu"
     },
     {
       "title": "Can Google Analytics plugin in React / Capacitor accept boolean event parameters, or should they be converted to strings or numbers?",
       "url": "https://stackoverflow.com/questions/79987709/can-google-analytics-plugin-in-react-capacitor-accept-boolean-event-parameters",
       "published_at": "2026-07-29T02:53:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1579,33 +1593,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "partha"
-    },
-    {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
-    },
-    {
-      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-      "published_at": "2026-07-28T19:07:31.000Z",
-      "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
-      "tags": [
-        "Space",
-        "NASA"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
@@ -1815,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2229,
       "user": "slvDev"
     },
     {
@@ -1830,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1025,
       "user": "mikiarlo3"
     },
     {
@@ -1845,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 920,
       "user": "fuadmefleh"
     },
     {
@@ -1860,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 852,
       "user": "MoonshotAI"
     },
     {
@@ -1875,8 +1862,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 850,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "DeepLabCut Machine Learning Video Analysis TypeError",
+      "url": "https://stackoverflow.com/questions/79987898/deeplabcut-machine-learning-video-analysis-typeerror",
+      "published_at": "2026-07-29T14:32:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "typeerror",
+        "google-colaboratory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alana Holmes"
     },
     {
       "title": "How to retrieve a variable from another threading.Thread?",
@@ -1911,7 +1914,7 @@
       "title": "Yahoo Finance GC=F appears to be returning incorrect prices on 2026-07-29?",
       "url": "https://stackoverflow.com/questions/79987839/yahoo-finance-gc-f-appears-to-be-returning-incorrect-prices-on-2026-07-29",
       "published_at": "2026-07-29T11:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "pandas",
@@ -1963,6 +1966,22 @@
       "user": "Viraj Shete"
     },
     {
+      "title": "Decorators terminology",
+      "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
+      "published_at": "2026-07-28T18:51:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "advice",
+        "python",
+        "decorator",
+        "python-decorators",
+        "terminology"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cyril Dubovetsky"
+    },
+    {
       "title": "How to install pygame in latest versions of python? 3.14+",
       "url": "https://stackoverflow.com/questions/79987689/how-to-install-pygame-in-latest-versions-of-python-3-14",
       "published_at": "2026-07-29T00:06:31.000Z",
@@ -1974,22 +1993,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "flameastro"
-    },
-    {
-      "title": "Decorators terminology",
-      "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
-      "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "advice",
-        "python",
-        "decorator",
-        "python-decorators",
-        "terminology"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cyril Dubovetsky"
     },
     {
       "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
@@ -2004,21 +2007,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Svetik May"
-    },
-    {
-      "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
-      "url": "https://stackoverflow.com/questions/79987491/how-to-dismiss-windows-security-smart-card-dialog-during-selenium-robot-framew",
-      "published_at": "2026-07-28T12:09:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "selenium-webdriver",
-        "robotframework",
-        "smartcard"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baptiste Noisette"
     },
     {
       "title": "How to Build AI Applications That Switch Models Automatically",
@@ -2414,21 +2402,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Spotify adds a running mode to its app",
-      "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
-      "published_at": "2026-07-29T13:00:00.000Z",
-      "description": "Running Mode will be available to Premium users on iOS in select countries",
-      "tags": [
-        "TC",
-        "Apps",
-        "Spotify",
-        "running"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     }
   ],
   "Cloud": [
@@ -2568,21 +2541,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
-      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
-      "published_at": "2026-07-23T11:11:46Z",
-      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
-      "tags": [
-        "googleai",
-        "gcpsecurityoperation",
-        "googleskills",
-        "googlecloudplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
-    },
-    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2658,21 +2616,6 @@
       "user": "xbill"
     },
     {
-      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
-      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
-      "published_at": "2026-07-24T17:37:35Z",
-      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
       "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
       "published_at": "2026-07-27T15:06:41.000Z",
@@ -2734,6 +2677,18 @@
       "user": "iancarroll"
     },
     {
+      "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+      "url": "https://boringsql.com/posts/mvcc-bad-bad/",
+      "published_at": "2026-07-29T08:25:07.882-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pmbauer"
+    },
+    {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
@@ -2762,6 +2717,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -2822,21 +2792,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
-      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
-      "published_at": "2026-07-23T11:11:46Z",
-      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
-      "tags": [
-        "googleai",
-        "gcpsecurityoperation",
-        "googleskills",
-        "googlecloudplatform"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
-      "source": "Dev.to",
-      "user": "Romin Irani"
     },
     {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
@@ -3001,35 +2956,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
-    },
-    {
-      "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
-      "url": "https://stackoverflow.com/questions/79987491/how-to-dismiss-windows-security-smart-card-dialog-during-selenium-robot-framew",
-      "published_at": "2026-07-28T12:09:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "selenium-webdriver",
-        "robotframework",
-        "smartcard"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baptiste Noisette"
-    },
-    {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
       "published_at": "2026-07-29T00:09:05.000Z",
@@ -3134,6 +3060,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -3255,21 +3196,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3317,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2141,
+      "stars": 2166,
       "user": "mshumer"
     },
     {
@@ -3332,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 497,
       "user": "0xwilliamortiz"
     },
     {
@@ -3347,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 362,
       "user": "xikhar"
     },
     {
@@ -3362,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 296,
       "user": "achimala"
     },
     {
@@ -3377,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 177,
       "user": "QwenAudio"
     },
     {
@@ -3392,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2206,
+      "stars": 2229,
       "user": "slvDev"
     },
     {
@@ -3407,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1025,
       "user": "mikiarlo3"
     },
     {
@@ -3422,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 920,
       "user": "fuadmefleh"
     },
     {
@@ -3437,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 852,
       "user": "MoonshotAI"
     },
     {
@@ -3452,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 850,
       "user": "VictorTaelin"
     },
     {
@@ -3467,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 304,
       "user": "edaywalid"
     },
     {
@@ -3482,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "iximiuz"
     },
     {
@@ -3501,6 +3427,21 @@
       "user": "byJoey"
     },
     {
+      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
+      "url": "https://github.com/torrischen/goat",
+      "published_at": "2026-07-26T07:11:14Z",
+      "description": "goat is a package provides agent framework written in golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "torrischen"
+    },
+    {
       "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
       "url": "https://github.com/cocofhu/approving",
       "published_at": "2026-07-24T15:27:02Z",
@@ -3514,21 +3455,6 @@
       "source": "GitHub",
       "stars": 72,
       "user": "cocofhu"
-    },
-    {
-      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
-      "url": "https://github.com/torrischen/goat",
-      "published_at": "2026-07-26T07:11:14Z",
-      "description": "goat is a package provides agent framework written in golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "torrischen"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3557,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 380,
       "user": "RongleCat"
     },
     {
@@ -3572,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 360,
       "user": "NikolayS"
     },
     {
@@ -3587,23 +3513,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 343,
       "user": "deerwork-ai"
     },
     {
-      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-      "url": "https://github.com/wassgha/rescript",
-      "published_at": "2026-07-26T22:43:11Z",
-      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "url": "https://github.com/talivia-group/talivia",
+      "published_at": "2026-07-29T07:56:49Z",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 313,
-      "user": "wassgha"
+      "stars": 330,
+      "user": "talivia-group"
     },
     {
       "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
@@ -3617,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1811,
       "user": "kvcache-ai"
     },
     {
@@ -3632,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "steelbrain"
     },
     {
@@ -3647,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "rrrjqy66"
     },
     {
@@ -3662,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 136,
       "user": "sazardev"
     },
     {
@@ -3677,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "HaseebKhalid1507"
     },
     {
