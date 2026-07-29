@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-30 0:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-30 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac) | Dev.to |
 | 20 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
 
-<sub>Last fetched: Thu, 30 Jul 2026 00:41:06 CAT</sub>
+<sub>Last fetched: Thu, 30 Jul 2026 01:44:43 CAT</sub>
 
 
 ---
@@ -122,29 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — How do you handle errors in async/await?**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> try/catch, .catch(), error middleware
-
-</details>
-
-**2. `DataStructures` — Find the median of two sorted arrays**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Hash function, database design, caching, analytics
 
 </details>
 
-**3. `React` — Implement a custom hook for fetching data**
+**2. `React` — Implement a custom hook for fetching data**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
@@ -152,6 +141,17 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > useState, useEffect, loading states, error handling
+
+</details>
+
+**3. `DataStructures` — Find the longest substring without repeating characters**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Sliding window, hash map, two pointers
 
 </details>
 
@@ -168,11 +168,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Tools** | 42 | 22.8% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
-| **Security** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,31 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 30.4%
-JavaScript      ███████████████████████ 23.4%
-Java            ████████████████████ 20.3%
-Python          ███████████████████ 19.6%
-Rust            ████ 3.8%
-Kotlin          █ 1.3%
+Go              ██████████████████████████████ 29.7%
+JavaScript      ████████████████████████ 23.9%
+Java            █████████████████████ 20.6%
+Python          ████████████████████ 20.0%
+Rust            ████ 3.9%
 Ruby            █ 1.3%
+Kotlin          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 48
+    "Go" : 46
     "JavaScript" : 37
     "Java" : 32
     "Python" : 31
     "Rust" : 6
-    "Kotlin" : 2
     "Ruby" : 2
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 29 Jul 2026 22:41:06 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 29 Jul 2026 23:44:43 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
