@@ -537,6 +537,21 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 531,
       "user": "0xwilliamortiz"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 184,
       "user": "QwenAudio"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2229,
+      "stars": 2248,
       "user": "slvDev"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1029,
       "user": "mikiarlo3"
     },
     {
@@ -776,23 +791,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "MoonshotAI"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -806,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 855,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 853,
+      "user": "MoonshotAI"
     },
     {
       "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "iximiuz"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "deerwork-ai"
     },
     {
@@ -851,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1811,
+      "stars": 1876,
       "user": "kvcache-ai"
     },
     {
@@ -866,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "steelbrain"
     },
     {
@@ -897,22 +912,6 @@
       "user": "JaeKwang Lee RTB"
     },
     {
-      "title": "DeepLabCut Machine Learning Video Analysis TypeError",
-      "url": "https://stackoverflow.com/questions/79987898/deeplabcut-machine-learning-video-analysis-typeerror",
-      "published_at": "2026-07-29T14:32:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "machine-learning",
-        "deep-learning",
-        "typeerror",
-        "google-colaboratory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alana Holmes"
-    },
-    {
       "title": "Connecting MUSE 2016 headband via brainflow",
       "url": "https://stackoverflow.com/questions/79987783/connecting-muse-2016-headband-via-brainflow",
       "published_at": "2026-07-29T08:34:30.000Z",
@@ -924,6 +923,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abhishek Kp"
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "published_at": "2026-07-29T15:35:09.000Z",
+      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "TC",
+        "martha stewart"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
@@ -944,17 +959,33 @@
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "published_at": "2026-07-29T14:41:06.000Z",
-      "description": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
       "tags": [
         "AI",
         "Enterprise",
         "Fundraising",
         "customer relationship management",
-        "Team8 Capital"
+        "Encore"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ram Iyer"
+    },
+    {
+      "title": "‘No one&#8217;s making a phone like this’: Light&#8217;s co-founders on building for the anti-smartphone generation",
+      "url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
+      "published_at": "2026-07-29T14:00:00.000Z",
+      "description": "With the&#160;Light Phone,&#160;Kaiwei Tang&#160;and&#160;Joe Hollier&#160;have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like&#160;Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a gr",
+      "tags": [
+        "Hardware",
+        "Startups",
+        "dumbphones",
+        "Light",
+        "Light Phone"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
     },
     {
       "title": "As AI content floods the internet, Pangram raises $9M to detect it",
@@ -980,7 +1011,8 @@
         "AI",
         "Security",
         "Cyera",
-        "M&A"
+        "In Brief",
+        "Mergers and Acquisitions"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1003,33 +1035,20 @@
       "user": "Julie Bort"
     },
     {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "published_at": "2026-07-28T20:45:12.000Z",
-      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
+      "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
+      "published_at": "2026-07-29T13:27:40.000Z",
+      "description": "For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe",
       "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
         "AI",
-        "Enterprise",
-        "Startups",
-        "TC",
-        "lawsuit"
+        "Machine Learning"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "published_at": "2026-07-28T20:17:08.000Z",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "tags": [
-        "AI",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "How to Build AI Applications That Switch Models Automatically",
@@ -1285,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2166,
+      "stars": 2184,
       "user": "mshumer"
     },
     {
@@ -1300,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 531,
       "user": "0xwilliamortiz"
     },
     {
@@ -1315,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 391,
       "user": "xikhar"
     },
     {
@@ -1330,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 306,
       "user": "achimala"
     },
     {
@@ -1345,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 184,
       "user": "QwenAudio"
     },
     {
@@ -1390,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "RongleCat"
     },
     {
@@ -1405,23 +1424,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 364,
       "user": "NikolayS"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 343,
-      "user": "deerwork-ai"
     },
     {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
@@ -1435,23 +1439,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 346,
       "user": "talivia-group"
     },
     {
-      "title": "HaseebKhalid1507/Myx - Spotify player for the terminal. With reactive themes.",
-      "url": "https://github.com/HaseebKhalid1507/Myx",
-      "published_at": "2026-07-23T02:49:52Z",
-      "description": "Spotify player for the terminal. With reactive themes.",
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 120,
-      "user": "HaseebKhalid1507"
+      "stars": 345,
+      "user": "deerwork-ai"
     },
     {
       "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
@@ -1593,6 +1597,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "partha"
+    },
+    {
+      "title": "How to Build Kubernetes Operators: A Handbook for Devs",
+      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
+      "published_at": "2026-07-29T14:11:02.000Z",
+      "description": "Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou",
+      "tags": [
+        "Kubernetes",
+        "Go Language",
+        "Docker",
+        "cloud native"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Karan Pratap Singh"
     },
     {
       "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
@@ -1802,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2229,
+      "stars": 2248,
       "user": "slvDev"
     },
     {
@@ -1817,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1029,
       "user": "mikiarlo3"
     },
     {
@@ -1832,23 +1851,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "MoonshotAI"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -1862,24 +1866,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 855,
       "user": "VictorTaelin"
     },
     {
-      "title": "DeepLabCut Machine Learning Video Analysis TypeError",
-      "url": "https://stackoverflow.com/questions/79987898/deeplabcut-machine-learning-video-analysis-typeerror",
-      "published_at": "2026-07-29T14:32:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
       "tags": [
         "python",
-        "machine-learning",
-        "deep-learning",
-        "typeerror",
-        "google-colaboratory"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 853,
+      "user": "MoonshotAI"
+    },
+    {
+      "title": "Using Python PIL.Image module, <image>.paste() returns None",
+      "url": "https://stackoverflow.com/questions/79987929/using-python-pil-image-module-image-paste-returns-none",
+      "published_at": "2026-07-29T16:04:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "image",
+        "python-imaging-library"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alana Holmes"
+      "user": "ItzSeegy"
+    },
+    {
+      "title": "How do I pass class variables to functions imported from another module?",
+      "url": "https://stackoverflow.com/questions/79987927/how-do-i-pass-class-variables-to-functions-imported-from-another-module",
+      "published_at": "2026-07-29T16:04:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Murchak"
     },
     {
       "title": "How to retrieve a variable from another threading.Thread?",
@@ -1914,7 +1944,7 @@
       "title": "Yahoo Finance GC=F appears to be returning incorrect prices on 2026-07-29?",
       "url": "https://stackoverflow.com/questions/79987839/yahoo-finance-gc-f-appears-to-be-returning-incorrect-prices-on-2026-07-29",
       "published_at": "2026-07-29T11:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pandas",
@@ -1954,22 +1984,10 @@
       "user": "Abhishek Kp"
     },
     {
-      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
-      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
-      "published_at": "2026-07-28T18:15:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Viraj Shete"
-    },
-    {
       "title": "Decorators terminology",
       "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
       "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "advice",
         "python",
@@ -1982,17 +2000,16 @@
       "user": "Cyril Dubovetsky"
     },
     {
-      "title": "How to install pygame in latest versions of python? 3.14+",
-      "url": "https://stackoverflow.com/questions/79987689/how-to-install-pygame-in-latest-versions-of-python-3-14",
-      "published_at": "2026-07-29T00:06:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
+      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
+      "published_at": "2026-07-28T18:15:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "python",
-        "pygame"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "flameastro"
+      "user": "Viraj Shete"
     },
     {
       "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
@@ -2009,6 +2026,22 @@
       "user": "Svetik May"
     },
     {
+      "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
+      "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
+      "published_at": "2026-07-29T13:27:40.000Z",
+      "description": "For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
+    },
+    {
       "title": "How to Build AI Applications That Switch Models Automatically",
       "url": "https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/",
       "published_at": "2026-07-29T09:21:57.000Z",
@@ -2023,22 +2056,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chidiebere Njoku"
-    },
-    {
-      "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
-      "url": "https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/",
-      "published_at": "2026-07-27T17:45:05.000Z",
-      "description": "Tracking flood risk takes one unglamorous but essential thing: clean and structured data. In this tutorial, you'll build a data pipeline yourself. You'll create a Python ETL (Extract, Transform, Load)",
-      "tags": [
-        "data-engineering",
-        "handbook",
-        "Tutorial",
-        "ETL",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "brooklyn"
     }
   ],
   "DevOps": [
@@ -2253,20 +2270,19 @@
       "user": "cocofhu"
     },
     {
-      "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
-      "published_at": "2026-07-27T18:30:27.000Z",
-      "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
+      "title": "How to Build Kubernetes Operators: A Handbook for Devs",
+      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
+      "published_at": "2026-07-29T14:11:02.000Z",
+      "description": "Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou",
       "tags": [
-        "DevSecOps",
-        "Devops",
-        "Security",
-        "AWS",
-        "book"
+        "Kubernetes",
+        "Go Language",
+        "Docker",
+        "cloud native"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
+      "user": "Karan Pratap Singh"
     }
   ],
   "WebDev": [
@@ -2421,21 +2437,6 @@
       "user": "xbill"
     },
     {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
-      "published_at": "2026-07-27T20:54:36Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxvx6ui36rqas770oxw5o.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build and Deploy Java AI Agents with Google ADK",
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
       "published_at": "2026-07-27T19:24:51Z",
@@ -2447,6 +2448,21 @@
         "debian"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
+      "published_at": "2026-07-27T20:54:36Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2631,36 +2647,19 @@
       "user": "JaeKwang Lee RTB"
     },
     {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "published_at": "2026-07-28T20:45:12.000Z",
-      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "title": "How to Build Kubernetes Operators: A Handbook for Devs",
+      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
+      "published_at": "2026-07-29T14:11:02.000Z",
+      "description": "Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou",
       "tags": [
-        "AI",
-        "Enterprise",
-        "Startups",
-        "TC",
-        "lawsuit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
-      "published_at": "2026-07-27T18:30:27.000Z",
-      "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
-      "tags": [
-        "DevSecOps",
-        "Devops",
-        "Security",
-        "AWS",
-        "book"
+        "Kubernetes",
+        "Go Language",
+        "Docker",
+        "cloud native"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
+      "user": "Karan Pratap Singh"
     }
   ],
   "Database": [
@@ -2964,24 +2963,12 @@
         "AI",
         "Security",
         "Cyera",
-        "M&A"
+        "In Brief",
+        "Mergers and Acquisitions"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "published_at": "2026-07-28T20:17:08.000Z",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "tags": [
-        "AI",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -2997,22 +2984,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ashutosh Krishna"
-    },
-    {
-      "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
-      "published_at": "2026-07-27T18:30:27.000Z",
-      "description": "In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a",
-      "tags": [
-        "DevSecOps",
-        "Devops",
-        "Security",
-        "AWS",
-        "book"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
     }
   ],
   "Tools": [
@@ -3028,21 +2999,6 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
-      "published_at": "2026-07-27T20:54:36Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxvx6ui36rqas770oxw5o.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3090,6 +3046,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
+      "published_at": "2026-07-27T20:54:36Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
@@ -3196,6 +3167,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3243,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2166,
+      "stars": 2184,
       "user": "mshumer"
     },
     {
@@ -3258,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 531,
       "user": "0xwilliamortiz"
     },
     {
@@ -3273,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 391,
       "user": "xikhar"
     },
     {
@@ -3288,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 306,
       "user": "achimala"
     },
     {
@@ -3303,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 184,
       "user": "QwenAudio"
     },
     {
@@ -3318,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2229,
+      "stars": 2248,
       "user": "slvDev"
     },
     {
@@ -3333,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1029,
       "user": "mikiarlo3"
     },
     {
@@ -3348,23 +3334,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "MoonshotAI"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3378,8 +3349,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 855,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "url": "https://github.com/MoonshotAI/MoonEP",
+      "published_at": "2026-07-24T09:07:21Z",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
+      "source": "GitHub",
+      "stars": 853,
+      "user": "MoonshotAI"
     },
     {
       "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
@@ -3393,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 308,
       "user": "edaywalid"
     },
     {
@@ -3408,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "iximiuz"
     },
     {
@@ -3423,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "byJoey"
     },
     {
@@ -3483,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 383,
       "user": "RongleCat"
     },
     {
@@ -3498,23 +3484,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 364,
       "user": "NikolayS"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 343,
-      "user": "deerwork-ai"
     },
     {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
@@ -3528,8 +3499,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 346,
       "user": "talivia-group"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 345,
+      "user": "deerwork-ai"
     },
     {
       "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
@@ -3543,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1811,
+      "stars": 1876,
       "user": "kvcache-ai"
     },
     {
@@ -3558,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "steelbrain"
     },
     {
@@ -3588,36 +3574,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 139,
       "user": "sazardev"
     },
     {
-      "title": "HaseebKhalid1507/Myx - Spotify player for the terminal. With reactive themes.",
-      "url": "https://github.com/HaseebKhalid1507/Myx",
-      "published_at": "2026-07-23T02:49:52Z",
-      "description": "Spotify player for the terminal. With reactive themes.",
+      "title": "jchultarsky/mirador - An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
+      "url": "https://github.com/jchultarsky/mirador",
+      "published_at": "2026-07-25T18:31:04Z",
+      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 120,
-      "user": "HaseebKhalid1507"
-    },
-    {
-      "title": "Manganin: tools matter",
-      "url": "https://blog.manganin.dev/blog/tools-matter/",
-      "published_at": "2026-07-28T23:44:39.278-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs",
-        "zig"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "matklad"
+      "stars": 121,
+      "user": "jchultarsky"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
