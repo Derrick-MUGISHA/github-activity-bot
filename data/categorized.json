@@ -58,21 +58,6 @@
       "user": "Shy Ruparel"
     },
     {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
       "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
       "published_at": "2026-07-28T11:09:48Z",
@@ -118,6 +103,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
       "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
       "published_at": "2026-07-28T16:18:27Z",
@@ -131,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
+      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5",
+      "published_at": "2026-07-29T13:01:42Z",
+      "description": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. What that shift means for TTS.",
+      "tags": [
+        "tts",
+        "voiceai",
+        "funding",
+        "openweights"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flukeocodes.dev%2Fog.png%3Fh%3DFish%2BAudio%2527s%2B%252452M%2BSeed%253A%2BOpen%2BWeights%2BGot%2BThem%2BHere%26d%3DFish%2BAudio%2Braised%2Ba%2B%252452M%2Bseed%2Bon%2BJuly%2B28%252C%2B2026%2Bwith%2B%252421M%2BARR%2Band%2B8M%2Busers.%2BIts%2Bnew%2BS2.1%2BPro%2Bmodel%2Bis%2Bclosed%252C%2BAPI-only.%2BWhat%2Bthat%2Bshift%2Bmeans%2Bfor%2BTTS.",
+      "source": "Dev.to",
+      "user": "@lukeocodes 🕹👨‍💻"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -463,21 +478,6 @@
       "user": "xbill"
     },
     {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
-    },
-    {
       "title": "Stop Hiring a Rocket Scientist to Check If a Box Is Empty",
       "url": "https://dev.to/ale3oula/stop-hiring-a-rocket-scientist-to-check-if-a-box-is-empty-1i4c",
       "published_at": "2026-07-23T17:26:44Z",
@@ -535,21 +535,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 193,
       "user": "QwenAudio"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2277,
       "user": "slvDev"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1038,
       "user": "mikiarlo3"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 927,
       "user": "fuadmefleh"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 863,
       "user": "VictorTaelin"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 858,
       "user": "MoonshotAI"
     },
     {
@@ -836,8 +821,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "iximiuz"
+    },
+    {
+      "title": "perplexityai/numbat - Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "url": "https://github.com/perplexityai/numbat",
+      "published_at": "2026-07-24T06:07:59Z",
+      "description": "Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "perplexityai"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1986,
       "user": "kvcache-ai"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "steelbrain"
     },
     {
@@ -925,6 +925,22 @@
       "user": "Abhishek Kp"
     },
     {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "published_at": "2026-07-29T18:45:27.000Z",
+      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "Andon Labs",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
       "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
       "published_at": "2026-07-29T17:00:00.000Z",
@@ -945,11 +961,11 @@
       "published_at": "2026-07-29T15:35:09.000Z",
       "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
       "tags": [
-        "TC",
-        "Startups",
         "AI",
         "Apps",
-        "martha stewart"
+        "Startups",
+        "TC",
+        "hint"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1080,6 +1096,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
+      "published_at": "2026-07-29T18:18:58Z",
+      "description": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
@@ -1272,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2196,
+      "stars": 2215,
       "user": "mshumer"
     },
     {
@@ -1302,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 439,
       "user": "xikhar"
     },
     {
@@ -1317,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "achimala"
     },
     {
@@ -1332,23 +1363,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 193,
       "user": "QwenAudio"
-    },
-    {
-      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "cocofhu"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -1377,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "RongleCat"
     },
     {
@@ -1392,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 376,
       "user": "NikolayS"
     },
     {
@@ -1407,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 372,
       "user": "talivia-group"
     },
     {
@@ -1442,7 +1458,7 @@
       "title": "Can Google Analytics plugin in React / Capacitor accept boolean event parameters, or should they be converted to strings or numbers?",
       "url": "https://stackoverflow.com/questions/79987709/can-google-analytics-plugin-in-react-capacitor-accept-boolean-event-parameters",
       "published_at": "2026-07-29T02:53:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1789,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2277,
       "user": "slvDev"
     },
     {
@@ -1804,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1038,
       "user": "mikiarlo3"
     },
     {
@@ -1819,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 927,
       "user": "fuadmefleh"
     },
     {
@@ -1834,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 863,
       "user": "VictorTaelin"
     },
     {
@@ -1849,8 +1865,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 858,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "How do I program a RC car application that uses ESP32?",
+      "url": "https://stackoverflow.com/questions/79987967/how-do-i-program-a-rc-car-application-that-uses-esp32",
+      "published_at": "2026-07-29T18:22:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "esp32"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "imabigwaffleman"
     },
     {
       "title": "Using Python PIL.Image module, <image>.paste() returns None",
@@ -1980,20 +2009,6 @@
       "user": "Viraj Shete"
     },
     {
-      "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
-      "url": "https://stackoverflow.com/questions/79987615/iris-global-reference-team-players-1-returns-none-but-team-players-1",
-      "published_at": "2026-07-28T18:29:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "intersystems",
-        "intersystems-iris"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Svetik May"
-    },
-    {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
       "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
       "published_at": "2026-07-29T13:27:40.000Z",
@@ -2086,21 +2101,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7amtg1t470o5rnh4ur9.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Why AI Apps Fail in Production (And How Google Solved It)",
-      "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
-      "published_at": "2026-07-22T17:36:07Z",
-      "description": "We are living in the golden age of the weekend AI side project. Thanks to vibe coding and LLMs, you...",
-      "tags": [
-        "ai",
-        "vibecoding",
-        "devops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zz1ok0cn5fnttam4xpu.png",
-      "source": "Dev.to",
-      "user": "Stephanie Wong"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2223,21 +2223,6 @@
       "user": "jknupp"
     },
     {
-      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "cocofhu"
-    },
-    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2254,6 +2239,21 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
+      "published_at": "2026-07-29T18:18:58Z",
+      "description": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
     {
       "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
       "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
@@ -2943,11 +2943,10 @@
       "published_at": "2026-07-29T17:41:09.000Z",
       "description": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
       "tags": [
+        "Robotics",
         "Security",
-        "China",
-        "FCC",
-        "power inverters",
-        "cybersecurity"
+        "cybersecurity",
+        "Trump Administration"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3150,21 +3149,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3212,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2196,
+      "stars": 2215,
       "user": "mshumer"
     },
     {
@@ -3242,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 439,
       "user": "xikhar"
     },
     {
@@ -3257,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "achimala"
     },
     {
@@ -3272,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 193,
       "user": "QwenAudio"
     },
     {
@@ -3287,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2277,
       "user": "slvDev"
     },
     {
@@ -3302,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1032,
+      "stars": 1038,
       "user": "mikiarlo3"
     },
     {
@@ -3317,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 927,
       "user": "fuadmefleh"
     },
     {
@@ -3332,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 863,
       "user": "VictorTaelin"
     },
     {
@@ -3347,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 858,
       "user": "MoonshotAI"
     },
     {
@@ -3362,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 314,
       "user": "edaywalid"
     },
     {
@@ -3377,8 +3361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "iximiuz"
+    },
+    {
+      "title": "perplexityai/numbat - Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "url": "https://github.com/perplexityai/numbat",
+      "published_at": "2026-07-24T06:07:59Z",
+      "description": "Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
+      "source": "GitHub",
+      "stars": 88,
+      "user": "perplexityai"
     },
     {
       "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
@@ -3411,21 +3410,6 @@
       "user": "torrischen"
     },
     {
-      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "cocofhu"
-    },
-    {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
       "url": "https://github.com/0xwilliamortiz/openclaude-improved",
       "published_at": "2026-07-26T21:58:28Z",
@@ -3452,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "RongleCat"
     },
     {
@@ -3467,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 376,
       "user": "NikolayS"
     },
     {
@@ -3482,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 372,
       "user": "talivia-group"
     },
     {
@@ -3512,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1986,
       "user": "kvcache-ai"
     },
     {
@@ -3527,8 +3511,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 159,
       "user": "steelbrain"
+    },
+    {
+      "title": "sazardev/shiki - TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "url": "https://github.com/sazardev/shiki",
+      "published_at": "2026-07-23T01:10:48Z",
+      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
+      "source": "GitHub",
+      "stars": 142,
+      "user": "sazardev"
     },
     {
       "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
@@ -3546,21 +3545,6 @@
       "user": "rrrjqy66"
     },
     {
-      "title": "sazardev/shiki - TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "url": "https://github.com/sazardev/shiki",
-      "published_at": "2026-07-23T01:10:48Z",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
-      "source": "GitHub",
-      "stars": 140,
-      "user": "sazardev"
-    },
-    {
       "title": "jchultarsky/mirador - An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
       "url": "https://github.com/jchultarsky/mirador",
       "published_at": "2026-07-25T18:31:04Z",
@@ -3572,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "jchultarsky"
     },
     {
