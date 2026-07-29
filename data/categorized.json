@@ -271,6 +271,126 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
+    },
+    {
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
+      "published_at": "2026-07-24T12:35:53Z",
+      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
+      "published_at": "2026-07-15T06:50:10Z",
+      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "tags": [
+        "ai",
+        "angular",
+        "agenticarchitect",
+        "antigravitycli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
+      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
+      "published_at": "2026-07-23T11:11:46Z",
+      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
+      "tags": [
+        "googleai",
+        "gcpsecurityoperation",
+        "googleskills",
+        "googlecloudplatform"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
+      "source": "Dev.to",
+      "user": "Romin Irani"
+    },
+    {
+      "title": "Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants",
+      "url": "https://dev.to/gde/building-a-multi-agent-finops-solution-with-google-adk-levering-tools-mcp-and-google-managed-lf",
+      "published_at": "2026-07-26T06:10:51Z",
+      "description": "Welcome Back!   We’re continuing our FinSavant series. In the previous two parts...",
+      "tags": [
+        "finops",
+        "bigquery",
+        "agenticai",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfqynr47yijpidc9s351.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g",
+      "published_at": "2026-07-22T22:44:23Z",
+      "description": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-turn stateful edits, an idiot-proof install guide, and a dogfooded cover image.",
+      "tags": [
+        "ai",
+        "claudecode",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
+      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
+      "published_at": "2026-07-23T23:57:31Z",
+      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
+      "tags": [
+        "ai",
+        "codex",
+        "gemini",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
+      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
+      "published_at": "2026-07-25T07:43:00Z",
+      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
+      "tags": [
+        "ai",
+        "robotics",
+        "machinelearning",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
+      "source": "Dev.to",
+      "user": "Ankita Virani"
+    },
+    {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
       "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
       "published_at": "2026-07-21T03:48:40Z",
@@ -301,19 +421,19 @@
       "user": "xbill"
     },
     {
-      "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
-      "url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9",
-      "published_at": "2026-07-23T11:11:46Z",
-      "description": "Welcome to the definitive guide on Google Cloud Agent Skills. As the landscape of software...",
+      "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
+      "url": "https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7",
+      "published_at": "2026-07-25T11:47:44Z",
+      "description": "Introducing Gubernator: The Goldilocks Container Orchestrator   Gubernator combines the...",
       "tags": [
-        "googleai",
-        "gcpsecurityoperation",
-        "googleskills",
-        "googlecloudplatform"
+        "docker",
+        "devops",
+        "opentelemetry",
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7amtg1t470o5rnh4ur9.png",
       "source": "Dev.to",
-      "user": "Romin Irani"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
@@ -329,21 +449,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "AI builder essentials: tokens, context windows and RAG 101",
-      "url": "https://dev.to/googleai/ai-builder-essentials-tokens-context-windows-and-rag-101-12bn",
-      "published_at": "2026-07-24T19:16:22Z",
-      "description": "Tokens are an important foundational concept that underlie how we interact with LLMs. @greggyb and...",
-      "tags": [
-        "tokenomics",
-        "rag",
-        "tokenmaxxing",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy5oyxzv4hxrxzt7olsgo.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -405,21 +510,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "published_at": "2026-07-24T00:52:30Z",
-      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
-      "tags": [
-        "cloud",
-        "cloudrun",
-        "googlecloud",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
       "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
       "published_at": "2026-07-23T13:24:50Z",
@@ -463,110 +553,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
       "source": "Dev.to",
       "user": "Rohini Gaonkar"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
-      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
-      "published_at": "2026-07-24T17:37:35Z",
-      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "The Myth of the Post-Documentation Era",
-      "url": "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
-      "published_at": "2026-07-13T15:59:11Z",
-      "description": "There is a growing sentiment in engineering circles right now that documentation is a relic of the...",
-      "tags": [
-        "ai",
-        "documentation",
-        "opensource",
-        "codequality"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F524acrzkqp795tu7hxsf.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "What is an \"agentic harness,\" actually?",
-      "url": "https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie",
-      "published_at": "2026-07-16T21:19:20Z",
-      "description": "I've been hearing the word \"harness\" thrown around a lot lately. I assumed it just meant \"the IDE\" or...",
-      "tags": [
-        "ai",
-        "agents",
-        "discuss",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkuc6h925huw021jwu8c1.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
-      "url": "https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8",
-      "published_at": "2026-07-16T22:52:32Z",
-      "description": "(yep, kinda clickbait, just for the funsies 😊)  At the beginning of the year, I relaunched my...",
-      "tags": [
-        "ai",
-        "career",
-        "design"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxq422s7l8n5mipmaqz09.png",
-      "source": "Dev.to",
-      "user": "Paulo Henrique"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -748,23 +734,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 417,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "url": "https://github.com/finna/Finn-loop",
-      "published_at": "2026-07-22T16:48:50Z",
-      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "finna"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -778,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2049,
       "user": "slvDev"
     },
     {
@@ -793,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 991,
       "user": "mikiarlo3"
     },
     {
@@ -808,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 797,
       "user": "VictorTaelin"
     },
     {
@@ -823,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 781,
       "user": "MoonshotAI"
     },
     {
@@ -838,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 645,
       "user": "fuadmefleh"
     },
     {
@@ -853,23 +824,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 222,
       "user": "iximiuz"
     },
     {
-      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "url": "https://github.com/makecindy/cindy",
-      "published_at": "2026-07-22T17:49:34Z",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "title": "cyi-cc/chatgpt-register - GitHub Repository",
+      "url": "https://github.com/cyi-cc/chatgpt-register",
+      "published_at": "2026-07-23T13:49:49Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
       "source": "GitHub",
-      "stars": 990,
-      "user": "makecindy"
+      "stars": 54,
+      "user": "cyi-cc"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -898,38 +869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1426,
       "user": "kvcache-ai"
-    },
-    {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "neural-maze"
-    },
-    {
-      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "url": "https://github.com/steelbrain/metal2vulkan",
-      "published_at": "2026-07-22T10:15:04Z",
-      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "steelbrain"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -943,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "steelbrain"
     },
     {
@@ -1021,7 +962,7 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "published_at": "2026-07-28T19:07:31.000Z",
       "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
@@ -1203,6 +1144,21 @@
       "user": "xbill"
     },
     {
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
+      "published_at": "2026-07-15T06:50:10Z",
+      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "tags": [
+        "ai",
+        "angular",
+        "agenticarchitect",
+        "antigravitycli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1334,23 +1290,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1699,
       "user": "mshumer"
-    },
-    {
-      "title": "danilo-znamerovszkij/draw-your-font - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
-      "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
-      "published_at": "2026-07-22T09:47:19Z",
-      "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "danilo-znamerovszkij"
     },
     {
       "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1364,23 +1305,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 417,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "url": "https://github.com/finna/Finn-loop",
-      "published_at": "2026-07-22T16:48:50Z",
-      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "finna"
     },
     {
       "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
@@ -1394,8 +1320,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 185,
       "user": "achimala"
+    },
+    {
+      "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
+      "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
+      "published_at": "2026-07-25T10:41:37Z",
+      "description": "Polymarket whale trades in real time",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "dunefalcon1qrj"
+    },
+    {
+      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "published_at": "2026-07-24T04:27:30Z",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "icebird1998"
     },
     {
       "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
@@ -1413,36 +1369,6 @@
       "user": "cocofhu"
     },
     {
-      "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "published_at": "2026-07-22T23:04:54Z",
-      "description": "TypeScript-to-Native Compiler",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
-      "source": "GitHub",
-      "stars": 2106,
-      "user": "vercel-labs"
-    },
-    {
-      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "url": "https://github.com/makecindy/cindy",
-      "published_at": "2026-07-22T17:49:34Z",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
-      "source": "GitHub",
-      "stars": 990,
-      "user": "makecindy"
-    },
-    {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
       "url": "https://github.com/0xwilliamortiz/openclaude-improved",
       "published_at": "2026-07-26T21:58:28Z",
@@ -1454,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "0xwilliamortiz"
     },
     {
@@ -1488,22 +1414,55 @@
       "user": "deerwork-ai"
     },
     {
-      "title": "Parallel JSON parsing on the GPU with compute shaders",
-      "url": "https://github.com/friendlymatthew/slurpjson#slurpjson",
-      "published_at": "2026-07-28T09:39:46.095-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
       "tags": [
-        "rust"
+        "typescript",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "matthewkim"
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "NikolayS"
+    },
+    {
+      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "url": "https://github.com/wassgha/rescript",
+      "published_at": "2026-07-26T22:43:11Z",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "wassgha"
+    },
+    {
+      "title": "HaseebKhalid1507/Myx - Spotify player for the terminal. With reactive themes.",
+      "url": "https://github.com/HaseebKhalid1507/Myx",
+      "published_at": "2026-07-23T02:49:52Z",
+      "description": "Spotify player for the terminal. With reactive themes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "HaseebKhalid1507"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript"
       ],
@@ -1638,7 +1597,7 @@
       "user": "Gary"
     },
     {
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "published_at": "2026-07-28T19:07:31.000Z",
       "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
@@ -1713,6 +1672,21 @@
       "user": "xbill"
     },
     {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
+      "published_at": "2026-07-07T17:12:47Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "googleantigravity",
+        "python",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "MCP Configuration for Looker with Antigravity CLI",
       "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
       "published_at": "2026-07-06T20:23:55Z",
@@ -1724,21 +1698,6 @@
         "antigravitycli"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1874,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2049,
       "user": "slvDev"
     },
     {
@@ -1889,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 991,
       "user": "mikiarlo3"
     },
     {
@@ -1904,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 797,
       "user": "VictorTaelin"
     },
     {
@@ -1919,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 781,
       "user": "MoonshotAI"
     },
     {
@@ -1934,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 645,
       "user": "fuadmefleh"
     },
     {
@@ -1954,6 +1913,18 @@
       "user": "Cyril Dubovetsky"
     },
     {
+      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
+      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
+      "published_at": "2026-07-28T18:15:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Viraj Shete"
+    },
+    {
       "title": "Iris-Global-reference: team:[“players”, 1] returns None, but team[“players” , “1”] works. Why?",
       "url": "https://stackoverflow.com/questions/79987615/iris-global-reference-team-players-1-returns-none-but-team-players-1",
       "published_at": "2026-07-28T18:29:16.000Z",
@@ -1966,18 +1937,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Svetik May"
-    },
-    {
-      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
-      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
-      "published_at": "2026-07-28T18:15:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Viraj Shete"
     },
     {
       "title": "How to dismiss Windows Security \"Smart Card\" dialog during Selenium/Robot Framework automated tests?",
@@ -2135,6 +2094,36 @@
       "user": "Jitendra Gupta"
     },
     {
+      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
+      "published_at": "2026-07-25T17:55:01Z",
+      "description": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
+      "tags": [
+        "kubernetes",
+        "homelab",
+        "devops",
+        "talos"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmp807g893wizyzwkko8v.png",
+      "source": "Dev.to",
+      "user": "Le Beltagy"
+    },
+    {
+      "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
+      "url": "https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7",
+      "published_at": "2026-07-25T11:47:44Z",
+      "description": "Introducing Gubernator: The Goldilocks Container Orchestrator   Gubernator combines the...",
+      "tags": [
+        "docker",
+        "devops",
+        "opentelemetry",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7amtg1t470o5rnh4ur9.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "Why AI Apps Fail in Production (And How Google Solved It)",
       "url": "https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m",
       "published_at": "2026-07-22T17:36:07Z",
@@ -2283,21 +2272,6 @@
       "source": "GitHub",
       "stars": 73,
       "user": "cocofhu"
-    },
-    {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "neural-maze"
     },
     {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
@@ -2574,19 +2548,19 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
+      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
+      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
+      "published_at": "2026-07-15T06:50:10Z",
+      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
       "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
+        "ai",
+        "angular",
+        "agenticarchitect",
+        "antigravitycli"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Connie Leung"
     },
     {
       "title": "Google Cloud Skills Tutorial: The Complete Guide to AI-Powered Cloud Operations",
@@ -2604,6 +2578,36 @@
       "user": "Romin Irani"
     },
     {
+      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
+      "published_at": "2026-07-07T17:12:47Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "googleantigravity",
+        "python",
+        "mcps",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
+      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
+      "published_at": "2026-07-21T03:48:40Z",
+      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
+      "tags": [
+        "tpu",
+        "llm",
+        "vllm",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -2617,21 +2621,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "url": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "published_at": "2026-07-24T00:52:30Z",
-      "description": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed,...",
-      "tags": [
-        "cloud",
-        "cloudrun",
-        "googlecloud",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpvzfffylxqxx7gs6pp.jpg",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
     },
     {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
@@ -2660,36 +2649,6 @@
         "31b"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
-      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
-      "published_at": "2026-07-24T17:37:35Z",
-      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
-      "tags": [
-        "ai",
-        "claude",
-        "googlecloud",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
-      "title": "Porting Gemma-4 (2B / 4B / 12B) to AWS Inferentia2",
-      "url": "https://dev.to/gde/porting-gemma-4-2b-4b-12b-to-aws-inferentia2-2jnf",
-      "published_at": "2026-07-13T13:36:03Z",
-      "description": "A field report on running Google's Gemma-4 on AWS Inferentia2: mixed attention heads, the vLLM / optimum-neuron / NxD dead-ends, and the neuronx-cc compiler limits.",
-      "tags": [
-        "machinelearning",
-        "aws",
-        "ai",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frqzo4gyh8t72dzt79682.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2754,25 +2713,10 @@
       "user": "iancarroll"
     },
     {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "neural-maze"
-    },
-    {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript"
       ],
@@ -3185,6 +3129,36 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Should I quit IT or just live through the burnout?",
+      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
+      "published_at": "2026-07-09T14:44:40Z",
+      "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
+      "tags": [
+        "mentalhealth",
+        "career",
+        "productivity",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
+      "source": "Dev.to",
+      "user": "Klaudia Grzondziel"
+    },
+    {
+      "title": "Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants",
+      "url": "https://dev.to/gde/building-a-multi-agent-finops-solution-with-google-adk-levering-tools-mcp-and-google-managed-lf",
+      "published_at": "2026-07-26T06:10:51Z",
+      "description": "Welcome Back!   We’re continuing our FinSavant series. In the previous two parts...",
+      "tags": [
+        "finops",
+        "bigquery",
+        "agenticai",
+        "adk"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfqynr47yijpidc9s351.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
       "published_at": "2026-07-24T12:27:58Z",
@@ -3227,36 +3201,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "published_at": "2026-07-09T22:12:22Z",
-      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
-      "tags": [
-        "ai",
-        "codereview",
-        "productivity",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
-      "source": "Dev.to",
-      "user": "christine"
-    },
-    {
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "published_at": "2026-07-08T12:25:01Z",
-      "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "discuss",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fevm59biu46t176pjujdk.png",
-      "source": "Dev.to",
-      "user": "Web Developer Hyper"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3306,23 +3250,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1699,
       "user": "mshumer"
-    },
-    {
-      "title": "danilo-znamerovszkij/draw-your-font - Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
-      "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
-      "published_at": "2026-07-22T09:47:19Z",
-      "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31888918?v=4",
-      "source": "GitHub",
-      "stars": 436,
-      "user": "danilo-znamerovszkij"
     },
     {
       "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -3336,23 +3265,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 417,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "finna/Finn-loop - The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "url": "https://github.com/finna/Finn-loop",
-      "published_at": "2026-07-22T16:48:50Z",
-      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1421181?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "finna"
     },
     {
       "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
@@ -3366,8 +3280,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 185,
       "user": "achimala"
+    },
+    {
+      "title": "dunefalcon1qrj/Telegram-Bot - Polymarket whale trades in real time",
+      "url": "https://github.com/dunefalcon1qrj/Telegram-Bot",
+      "published_at": "2026-07-25T10:41:37Z",
+      "description": "Polymarket whale trades in real time",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308148292?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "dunefalcon1qrj"
+    },
+    {
+      "title": "icebird1998/scientific-illustrator - Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "url": "https://github.com/icebird1998/scientific-illustrator",
+      "published_at": "2026-07-24T04:27:30Z",
+      "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
+      "source": "GitHub",
+      "stars": 143,
+      "user": "icebird1998"
     },
     {
       "title": "slvDev/esp32-ai - GitHub Repository",
@@ -3381,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2049,
       "user": "slvDev"
     },
     {
@@ -3396,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 991,
       "user": "mikiarlo3"
     },
     {
@@ -3411,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 797,
       "user": "VictorTaelin"
     },
     {
@@ -3426,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 781,
       "user": "MoonshotAI"
     },
     {
@@ -3441,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 645,
       "user": "fuadmefleh"
     },
     {
@@ -3456,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 279,
       "user": "edaywalid"
     },
     {
@@ -3471,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 222,
       "user": "iximiuz"
     },
     {
@@ -3505,49 +3449,19 @@
       "user": "byJoey"
     },
     {
-      "title": "gsxhq/gsxui - shadcn-style components for gsx — copy-in, type-checked, server-rendered",
-      "url": "https://github.com/gsxhq/gsxui",
-      "published_at": "2026-07-22T20:53:41Z",
-      "description": "shadcn-style components for gsx — copy-in, type-checked, server-rendered",
+      "title": "cyi-cc/chatgpt-register - GitHub Repository",
+      "url": "https://github.com/cyi-cc/chatgpt-register",
+      "published_at": "2026-07-23T13:49:49Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294863250?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
       "source": "GitHub",
-      "stars": 67,
-      "user": "gsxhq"
-    },
-    {
-      "title": "vercel-labs/scriptc - TypeScript-to-Native Compiler",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "published_at": "2026-07-22T23:04:54Z",
-      "description": "TypeScript-to-Native Compiler",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
-      "source": "GitHub",
-      "stars": 2106,
-      "user": "vercel-labs"
-    },
-    {
-      "title": "makecindy/cindy - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "url": "https://github.com/makecindy/cindy",
-      "published_at": "2026-07-22T17:49:34Z",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306974279?v=4",
-      "source": "GitHub",
-      "stars": 990,
-      "user": "makecindy"
+      "stars": 54,
+      "user": "cyi-cc"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3561,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 581,
       "user": "0xwilliamortiz"
     },
     {
@@ -3595,6 +3509,36 @@
       "user": "deerwork-ai"
     },
     {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "NikolayS"
+    },
+    {
+      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "url": "https://github.com/wassgha/rescript",
+      "published_at": "2026-07-26T22:43:11Z",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "wassgha"
+    },
+    {
       "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
       "url": "https://github.com/kvcache-ai/AgentENV",
       "published_at": "2026-07-23T02:48:07Z",
@@ -3606,38 +3550,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1426,
       "user": "kvcache-ai"
-    },
-    {
-      "title": "neural-maze/production-ocr-course - Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "url": "https://github.com/neural-maze/production-ocr-course",
-      "published_at": "2026-07-22T08:50:00Z",
-      "description": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151655127?v=4",
-      "source": "GitHub",
-      "stars": 240,
-      "user": "neural-maze"
-    },
-    {
-      "title": "steelbrain/metal2vulkan - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "url": "https://github.com/steelbrain/metal2vulkan",
-      "published_at": "2026-07-22T10:15:04Z",
-      "description": "Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "steelbrain"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3651,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "steelbrain"
     },
     {
@@ -3668,6 +3582,36 @@
       "source": "GitHub",
       "stars": 135,
       "user": "rrrjqy66"
+    },
+    {
+      "title": "sazardev/shiki - TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "url": "https://github.com/sazardev/shiki",
+      "published_at": "2026-07-23T01:10:48Z",
+      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "sazardev"
+    },
+    {
+      "title": "HaseebKhalid1507/Myx - Spotify player for the terminal. With reactive themes.",
+      "url": "https://github.com/HaseebKhalid1507/Myx",
+      "published_at": "2026-07-23T02:49:52Z",
+      "description": "Spotify player for the terminal. With reactive themes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "HaseebKhalid1507"
     },
     {
       "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
