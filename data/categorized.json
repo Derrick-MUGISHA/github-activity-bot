@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bnt"
-    },
-    {
       "title": "What is current your \"daily driver\" coding model? (July 2026)",
       "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
       "published_at": "2026-07-29T14:29:13Z",
@@ -41,6 +26,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
+      "published_at": "2026-07-27T21:09:04Z",
+      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "tags": [
+        "security",
+        "api",
+        "webdev",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
     },
     {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
@@ -148,6 +148,21 @@
       "user": "@lukeocodes 🕹👨‍💻"
     },
     {
+      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
+      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363",
+      "published_at": "2026-07-29T09:49:50Z",
+      "description": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
+      "tags": [
+        "gcpbilling",
+        "finops",
+        "killswitch",
+        "hardcap"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
       "published_at": "2026-07-28T02:21:07Z",
@@ -206,6 +221,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
+      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
+      "published_at": "2026-07-28T16:14:00Z",
+      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
@@ -746,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "QwenAudio"
     },
     {
@@ -761,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2286,
+      "stars": 2295,
       "user": "slvDev"
     },
     {
@@ -776,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1043,
       "user": "mikiarlo3"
     },
     {
@@ -791,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "fuadmefleh"
     },
     {
@@ -806,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 867,
       "user": "VictorTaelin"
     },
     {
@@ -836,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "iximiuz"
     },
     {
@@ -851,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 103,
       "user": "perplexityai"
     },
     {
@@ -881,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2033,
       "user": "kvcache-ai"
     },
     {
@@ -896,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "steelbrain"
     },
     {
@@ -940,6 +970,51 @@
       "user": "Abhishek Kp"
     },
     {
+      "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-07-29T21:16:39.000Z",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "tags": [
+        "AI",
+        "Databricks",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "published_at": "2026-07-29T21:07:48.000Z",
+      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "tags": [
+        "AI",
+        "TC",
+        "OpenAI",
+        "Thinking Machines"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+      "published_at": "2026-07-29T21:02:12.000Z",
+      "description": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Deezer",
+        "streaming",
+        "Winamp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "published_at": "2026-07-29T19:44:49.000Z",
@@ -968,6 +1043,20 @@
       "user": "Julie Bort"
     },
     {
+      "title": "Waymo robotaxis are starting to return to freeways",
+      "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+      "published_at": "2026-07-29T17:50:57.000Z",
+      "description": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
+      "tags": [
+        "Transportation",
+        "robotaxis",
+        "Waymo"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
       "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
       "published_at": "2026-07-29T17:00:00.000Z",
@@ -981,53 +1070,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "published_at": "2026-07-29T15:35:09.000Z",
-      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Startups",
-        "TC",
-        "hint"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "published_at": "2026-07-29T15:00:00.000Z",
-      "description": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-      "tags": [
-        "Apps",
-        "Fundraising",
-        "AI browser",
-        "Perplexity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "published_at": "2026-07-29T14:41:06.000Z",
-      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "customer relationship management",
-        "Encore"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1314,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2231,
       "user": "mshumer"
     },
     {
@@ -1344,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 458,
       "user": "xikhar"
     },
     {
@@ -1359,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 321,
       "user": "achimala"
     },
     {
@@ -1374,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "QwenAudio"
     },
     {
@@ -1393,6 +1435,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "url": "https://github.com/talivia-group/talivia",
+      "published_at": "2026-07-29T07:56:49Z",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "talivia-group"
+    },
+    {
       "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "url": "https://github.com/RongleCat/grok-app",
       "published_at": "2026-07-23T16:43:40Z",
@@ -1408,21 +1465,6 @@
       "user": "RongleCat"
     },
     {
-      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "url": "https://github.com/talivia-group/talivia",
-      "published_at": "2026-07-29T07:56:49Z",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "talivia-group"
-    },
-    {
       "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
       "url": "https://github.com/NikolayS/PGSimCity",
       "published_at": "2026-07-25T22:15:09Z",
@@ -1434,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "NikolayS"
     },
     {
@@ -1816,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2286,
+      "stars": 2295,
       "user": "slvDev"
     },
     {
@@ -1831,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1043,
       "user": "mikiarlo3"
     },
     {
@@ -1846,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "fuadmefleh"
     },
     {
@@ -1861,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 867,
       "user": "VictorTaelin"
     },
     {
@@ -2413,6 +2455,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
+      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
+      "published_at": "2026-07-28T16:14:00Z",
+      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
       "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
       "published_at": "2026-07-29T17:00:00.000Z",
@@ -2458,6 +2515,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
+      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363",
+      "published_at": "2026-07-29T09:49:50Z",
+      "description": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
+      "tags": [
+        "gcpbilling",
+        "finops",
+        "killswitch",
+        "hardcap"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Build and Deploy Java AI Agents with Google ADK",
@@ -2992,6 +3064,20 @@
       "user": "rahul"
     },
     {
+      "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-07-29T21:16:39.000Z",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "tags": [
+        "AI",
+        "Databricks",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
       "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
       "published_at": "2026-07-29T17:41:09.000Z",
@@ -3235,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2231,
       "user": "mshumer"
     },
     {
@@ -3265,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 458,
       "user": "xikhar"
     },
     {
@@ -3280,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 321,
       "user": "achimala"
     },
     {
@@ -3295,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "QwenAudio"
     },
     {
@@ -3310,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2286,
+      "stars": 2295,
       "user": "slvDev"
     },
     {
@@ -3325,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1043,
       "user": "mikiarlo3"
     },
     {
@@ -3340,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "fuadmefleh"
     },
     {
@@ -3355,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 866,
+      "stars": 867,
       "user": "VictorTaelin"
     },
     {
@@ -3385,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 320,
       "user": "edaywalid"
     },
     {
@@ -3400,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "iximiuz"
     },
     {
@@ -3415,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 103,
       "user": "perplexityai"
     },
     {
@@ -3464,6 +3550,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "url": "https://github.com/talivia-group/talivia",
+      "published_at": "2026-07-29T07:56:49Z",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "talivia-group"
+    },
+    {
       "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
       "url": "https://github.com/RongleCat/grok-app",
       "published_at": "2026-07-23T16:43:40Z",
@@ -3479,21 +3580,6 @@
       "user": "RongleCat"
     },
     {
-      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "url": "https://github.com/talivia-group/talivia",
-      "published_at": "2026-07-29T07:56:49Z",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "talivia-group"
-    },
-    {
       "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
       "url": "https://github.com/NikolayS/PGSimCity",
       "published_at": "2026-07-25T22:15:09Z",
@@ -3505,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "NikolayS"
     },
     {
@@ -3535,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 2007,
+      "stars": 2033,
       "user": "kvcache-ai"
     },
     {
@@ -3550,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "steelbrain"
     },
     {
