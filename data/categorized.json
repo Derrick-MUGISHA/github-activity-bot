@@ -28,6 +28,21 @@
       "user": "Peter Kim Frank"
     },
     {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
+      "published_at": "2026-07-29T19:14:47Z",
+      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -41,21 +56,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
-      "published_at": "2026-07-28T14:00:00Z",
-      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
-      "tags": [
-        "temporal",
-        "codesamples",
-        "industryevents",
-        "durableexecution"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
-      "source": "Dev.to",
-      "user": "Shy Ruparel"
     },
     {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
@@ -176,6 +176,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
+      "published_at": "2026-07-28T14:00:00Z",
+      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
+      "tags": [
+        "temporal",
+        "codesamples",
+        "industryevents",
+        "durableexecution"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
+      "source": "Dev.to",
+      "user": "Shy Ruparel"
     },
     {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "QwenAudio"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2286,
       "user": "slvDev"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1041,
       "user": "mikiarlo3"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 928,
       "user": "fuadmefleh"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 866,
       "user": "VictorTaelin"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "iximiuz"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 98,
       "user": "perplexityai"
     },
     {
@@ -866,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1986,
+      "stars": 2007,
       "user": "kvcache-ai"
     },
     {
@@ -881,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "steelbrain"
     },
     {
@@ -923,6 +938,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abhishek Kp"
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "published_at": "2026-07-29T19:44:49.000Z",
+      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -1001,22 +1028,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ram Iyer"
-    },
-    {
-      "title": "‘No one&#8217;s making a phone like this’: Light&#8217;s co-founders on building for the anti-smartphone generation",
-      "url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-      "published_at": "2026-07-29T14:00:00.000Z",
-      "description": "With the&#160;Light Phone,&#160;Kaiwei Tang&#160;and&#160;Joe Hollier&#160;have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like&#160;Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new flip phone and a gr",
-      "tags": [
-        "Hardware",
-        "Startups",
-        "dumbphones",
-        "Light",
-        "Light Phone"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1303,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2215,
+      "stars": 2220,
       "user": "mshumer"
     },
     {
@@ -1333,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 449,
       "user": "xikhar"
     },
     {
@@ -1348,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "achimala"
     },
     {
@@ -1363,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "QwenAudio"
     },
     {
@@ -1397,21 +1408,6 @@
       "user": "RongleCat"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 376,
-      "user": "NikolayS"
-    },
-    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -1423,8 +1419,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 383,
       "user": "talivia-group"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 382,
+      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -1471,19 +1482,6 @@
       "user": "Michal"
     },
     {
-      "title": "Website database changes monitoring by Fetch/XHR requests",
-      "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
-      "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abdelali Fihri"
-    },
-    {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
       "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
       "published_at": "2026-07-28T15:26:45.000Z",
@@ -1496,6 +1494,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Heba Allah Hashim"
+    },
+    {
+      "title": "Website database changes monitoring by Fetch/XHR requests",
+      "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
+      "published_at": "2026-07-28T21:30:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "tooling-recommendation",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abdelali Fihri"
     },
     {
       "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
@@ -1555,32 +1566,32 @@
       "user": "Gary"
     },
     {
-      "title": "React use() cache gets overwritten by an older Promise after invalidation",
-      "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
-      "published_at": "2026-07-27T19:43:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 30 answers · score 20",
       "tags": [
         "javascript",
-        "reactjs",
-        "caching",
-        "promise"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "David Brierton"
+      "user": "aaron"
     },
     {
-      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
-      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
-      "published_at": "2026-07-27T14:04:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "express"
+        "firebase",
+        "firebase-authentication"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "partha"
+      "user": "rahul"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1805,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2286,
       "user": "slvDev"
     },
     {
@@ -1820,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1041,
       "user": "mikiarlo3"
     },
     {
@@ -1835,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 928,
       "user": "fuadmefleh"
     },
     {
@@ -1850,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 866,
       "user": "VictorTaelin"
     },
     {
@@ -1882,6 +1893,19 @@
       "user": "imabigwaffleman"
     },
     {
+      "title": "How do I pass class variables to functions imported from another module?",
+      "url": "https://stackoverflow.com/questions/79987927/how-do-i-pass-class-variables-to-functions-imported-from-another-module",
+      "published_at": "2026-07-29T16:04:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Murchak"
+    },
+    {
       "title": "Using Python PIL.Image module, <image>.paste() returns None",
       "url": "https://stackoverflow.com/questions/79987929/using-python-pil-image-module-image-paste-returns-none",
       "published_at": "2026-07-29T16:04:33.000Z",
@@ -1894,19 +1918,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
-    },
-    {
-      "title": "How do I pass class variables to functions imported from another module?",
-      "url": "https://stackoverflow.com/questions/79987927/how-do-i-pass-class-variables-to-functions-imported-from-another-module",
-      "published_at": "2026-07-29T16:04:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Murchak"
     },
     {
       "title": "How to retrieve a variable from another threading.Thread?",
@@ -2311,6 +2322,20 @@
       "user": "Gary"
     },
     {
+      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
+      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
+      "published_at": "2026-07-06T11:23:54.000Z",
+      "description": "Stack Overflow question · 30 answers · score 20",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "aaron"
+    },
+    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -2404,6 +2429,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
+      "published_at": "2026-07-29T19:14:47Z",
+      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
@@ -2938,6 +2978,20 @@
       "user": "ewenjo"
     },
     {
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rahul"
+    },
+    {
       "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
       "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
       "published_at": "2026-07-29T17:41:09.000Z",
@@ -3134,21 +3188,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3196,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2215,
+      "stars": 2220,
       "user": "mshumer"
     },
     {
@@ -3226,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 449,
       "user": "xikhar"
     },
     {
@@ -3241,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "achimala"
     },
     {
@@ -3256,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "QwenAudio"
     },
     {
@@ -3271,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2286,
       "user": "slvDev"
     },
     {
@@ -3286,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1038,
+      "stars": 1041,
       "user": "mikiarlo3"
     },
     {
@@ -3301,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 927,
+      "stars": 928,
       "user": "fuadmefleh"
     },
     {
@@ -3316,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 863,
+      "stars": 866,
       "user": "VictorTaelin"
     },
     {
@@ -3346,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 318,
       "user": "edaywalid"
     },
     {
@@ -3361,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 246,
       "user": "iximiuz"
     },
     {
@@ -3376,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 98,
       "user": "perplexityai"
     },
     {
@@ -3440,21 +3479,6 @@
       "user": "RongleCat"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 376,
-      "user": "NikolayS"
-    },
-    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -3466,8 +3490,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 383,
       "user": "talivia-group"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 382,
+      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -3496,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1986,
+      "stars": 2007,
       "user": "kvcache-ai"
     },
     {
@@ -3511,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "steelbrain"
     },
     {
@@ -3526,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "sazardev"
     },
     {
@@ -3556,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "jchultarsky"
     },
     {
