@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "title": "What is current your \"daily driver\" coding model? (July 2026)",
-      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
-      "published_at": "2026-07-29T14:29:13Z",
-      "description": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
-      "tags": [
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -41,6 +29,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "What is current your \"daily driver\" coding model? (July 2026)",
+      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
+      "published_at": "2026-07-29T14:29:13Z",
+      "description": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "tags": [
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
     },
     {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
@@ -236,21 +236,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
-      "published_at": "2026-07-27T02:11:38Z",
-      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "QwenAudio"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2307,
       "user": "slvDev"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1044,
       "user": "mikiarlo3"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 111,
       "user": "perplexityai"
     },
     {
@@ -911,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2062,
       "user": "kvcache-ai"
     },
     {
@@ -926,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "steelbrain"
     },
     {
@@ -940,6 +925,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "zanlib"
+    },
+    {
+      "title": "Javascript not working, fairly sure it should",
+      "url": "https://stackoverflow.com/questions/79988009/javascript-not-working-fairly-sure-it-should",
+      "published_at": "2026-07-29T21:36:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lel lel"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -970,6 +969,21 @@
       "user": "Abhishek Kp"
     },
     {
+      "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "published_at": "2026-07-29T22:23:12.000Z",
+      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Social",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
       "published_at": "2026-07-29T21:16:39.000Z",
@@ -991,6 +1005,7 @@
       "tags": [
         "AI",
         "TC",
+        "In Brief",
         "OpenAI",
         "Thinking Machines"
       ],
@@ -1020,7 +1035,9 @@
       "published_at": "2026-07-29T19:44:49.000Z",
       "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "tags": [
-        "AI"
+        "AI",
+        "Hugging Face",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1356,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2231,
+      "stars": 2240,
       "user": "mshumer"
     },
     {
@@ -1386,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 462,
       "user": "xikhar"
     },
     {
@@ -1416,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "QwenAudio"
     },
     {
@@ -1435,6 +1452,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 391,
+      "user": "NikolayS"
+    },
+    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -1446,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 390,
       "user": "talivia-group"
     },
     {
@@ -1465,21 +1497,6 @@
       "user": "RongleCat"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "NikolayS"
-    },
-    {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
       "url": "https://github.com/deerwork-ai/deer-workflow",
       "published_at": "2026-07-26T04:20:50Z",
@@ -1493,6 +1510,20 @@
       "source": "GitHub",
       "stars": 345,
       "user": "deerwork-ai"
+    },
+    {
+      "title": "Javascript not working, fairly sure it should",
+      "url": "https://stackoverflow.com/questions/79988009/javascript-not-working-fairly-sure-it-should",
+      "published_at": "2026-07-29T21:36:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lel lel"
     },
     {
       "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
@@ -1620,20 +1651,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1858,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2307,
       "user": "slvDev"
     },
     {
@@ -1873,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1044,
       "user": "mikiarlo3"
     },
     {
@@ -1922,10 +1939,26 @@
       "user": "MoonshotAI"
     },
     {
+      "title": "How do you stitch together 3 meshes in Python?",
+      "url": "https://stackoverflow.com/questions/79987997/how-do-you-stitch-together-3-meshes-in-python",
+      "published_at": "2026-07-29T20:47:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "mesh",
+        "shutil",
+        "pyvista",
+        "pymeshlab"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Magnus"
+    },
+    {
       "title": "How do I program a RC car application that uses ESP32?",
       "url": "https://stackoverflow.com/questions/79987967/how-do-i-program-a-rc-car-application-that-uses-esp32",
       "published_at": "2026-07-29T18:22:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "esp32"
@@ -2048,18 +2081,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cyril Dubovetsky"
-    },
-    {
-      "title": "leetcode 3sum problem both are same code but not getting whats difference between these two",
-      "url": "https://stackoverflow.com/questions/79987608/leetcode-3sum-problem-both-are-same-code-but-not-getting-whats-difference-betwee",
-      "published_at": "2026-07-28T18:15:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Viraj Shete"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2333,6 +2354,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "Javascript not working, fairly sure it should",
+      "url": "https://stackoverflow.com/questions/79988009/javascript-not-working-fairly-sure-it-should",
+      "published_at": "2026-07-29T21:36:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lel lel"
     },
     {
       "title": "Canvas Benchmark vs. Browser Profiler",
@@ -2858,21 +2893,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
-      "published_at": "2026-07-27T02:11:38Z",
-      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -3048,20 +3068,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
     },
     {
       "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
@@ -3321,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2231,
+      "stars": 2240,
       "user": "mshumer"
     },
     {
@@ -3351,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 462,
       "user": "xikhar"
     },
     {
@@ -3381,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 198,
       "user": "QwenAudio"
     },
     {
@@ -3396,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2307,
       "user": "slvDev"
     },
     {
@@ -3411,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1044,
       "user": "mikiarlo3"
     },
     {
@@ -3471,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 323,
       "user": "edaywalid"
     },
     {
@@ -3501,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 111,
       "user": "perplexityai"
     },
     {
@@ -3516,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "byJoey"
     },
     {
@@ -3550,6 +3556,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 391,
+      "user": "NikolayS"
+    },
+    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -3561,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 390,
       "user": "talivia-group"
     },
     {
@@ -3578,21 +3599,6 @@
       "source": "GitHub",
       "stars": 385,
       "user": "RongleCat"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 383,
-      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -3621,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 2033,
+      "stars": 2062,
       "user": "kvcache-ai"
     },
     {
@@ -3636,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "steelbrain"
     },
     {
@@ -3681,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "jchultarsky"
     },
     {
