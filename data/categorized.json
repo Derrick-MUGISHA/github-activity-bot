@@ -31,21 +31,6 @@
       "user": "Julien Landuré"
     },
     {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
-      "published_at": "2026-07-28T14:00:00Z",
-      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
-      "tags": [
-        "temporal",
-        "codesamples",
-        "industryevents",
-        "durableexecution"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
-      "source": "Dev.to",
-      "user": "Shy Ruparel"
-    },
-    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -61,19 +46,19 @@
       "user": "xbill"
     },
     {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
-      "published_at": "2026-07-28T16:18:27Z",
-      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
+      "published_at": "2026-07-28T14:00:00Z",
+      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
       "tags": [
-        "bugsmash",
-        "devchallenge",
-        "debugging",
-        "discuss"
+        "temporal",
+        "codesamples",
+        "industryevents",
+        "durableexecution"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
-      "user": "Jess Lee"
+      "user": "Shy Ruparel"
     },
     {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
+      "published_at": "2026-07-28T16:18:27Z",
+      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "tags": [
+        "bugsmash",
+        "devchallenge",
+        "debugging",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -286,21 +286,6 @@
       "user": "Nazar Boyko"
     },
     {
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1",
-      "published_at": "2026-07-24T12:35:53Z",
-      "description": "How nb2lite-skill-agy packages Google's gemini-3.1-flash-lite-image as an Antigravity skill + MCP server — with multi-turn stateful edits, a simple install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "antigravity",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-agy%2Fmaster%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
       "published_at": "2026-07-15T06:50:10Z",
@@ -344,21 +329,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfqynr47yijpidc9s351.png",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-claude-code-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-17g",
-      "published_at": "2026-07-22T22:44:23Z",
-      "description": "How nb2lite-skill-claude packages Google's gemini-3.1-flash-lite-image as a Claude Code skill + MCP server — with multi-turn stateful edits, an idiot-proof install guide, and a dogfooded cover image.",
-      "tags": [
-        "ai",
-        "claudecode",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-claude%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -555,6 +525,36 @@
       "user": "Rohini Gaonkar"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
+      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
+      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
+      "published_at": "2026-07-24T17:37:35Z",
+      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "0xwilliamortiz"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2119,
       "user": "slvDev"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 999,
       "user": "mikiarlo3"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 825,
       "user": "VictorTaelin"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 814,
       "user": "MoonshotAI"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 771,
       "user": "fuadmefleh"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "iximiuz"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "cyi-cc"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "deerwork-ai"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1478,
+      "stars": 1507,
       "user": "kvcache-ai"
     },
     {
@@ -895,23 +895,12 @@
       "tags": [
         "javascript",
         "firebase",
+        "google-cloud-platform",
         "google-cloud-firestore"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaeKwang Lee RTB"
-    },
-    {
-      "title": "Developer tip: Building Sustainable Websites in an AI-Driven World: Lesser-Known Strategies for Long-Term Success",
-      "url": "https://stackoverflow.com/questions/79987700/developer-tip-building-sustainable-websites-in-an-ai-driven-world-lesser-known",
-      "published_at": "2026-07-29T01:20:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32874482"
     },
     {
       "title": "RuntimeError: Event loop is closed - python exception",
@@ -1317,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1798,
+      "stars": 1897,
       "user": "mshumer"
     },
     {
@@ -1332,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "0xwilliamortiz"
     },
     {
@@ -1347,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 221,
       "user": "achimala"
     },
     {
@@ -1377,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "icebird1998"
     },
     {
@@ -1407,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -1422,23 +1411,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 368,
       "user": "RongleCat"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 328,
-      "user": "deerwork-ai"
     },
     {
       "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
@@ -1452,8 +1426,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 329,
       "user": "NikolayS"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 329,
+      "user": "deerwork-ai"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -1467,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "wassgha"
     },
     {
@@ -1482,15 +1471,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "HaseebKhalid1507"
+    },
+    {
+      "title": "Can Google Analytics plugin in React / Capacitor accept boolean event parameters, or should they be converted to strings or numbers?",
+      "url": "https://stackoverflow.com/questions/79987709/can-google-analytics-plugin-in-react-capacitor-accept-boolean-event-parameters",
+      "published_at": "2026-07-29T02:53:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "google-analytics",
+        "firebase-analytics",
+        "capacitor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Michal"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
+        "tooling-recommendation",
         "javascript"
       ],
       "cover_image": null,
@@ -1498,10 +1504,24 @@
       "user": "Abdelali Fihri"
     },
     {
+      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
+      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
+      "published_at": "2026-07-28T15:26:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Heba Allah Hashim"
+    },
+    {
       "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
       "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
       "published_at": "2026-07-28T17:53:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "custom-element"
@@ -1511,18 +1531,19 @@
       "user": "Gary"
     },
     {
-      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
-      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
-      "published_at": "2026-07-28T15:26:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
+      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
+      "published_at": "2026-07-27T15:06:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
-        "reactjs",
-        "next.js"
+        "firebase",
+        "google-cloud-platform",
+        "google-cloud-firestore"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Heba Allah Hashim"
+      "user": "JaeKwang Lee RTB"
     },
     {
       "title": "Canvas Benchmark vs. Browser Profiler",
@@ -1582,20 +1603,6 @@
       "user": "partha"
     },
     {
-      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
-      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
-      "published_at": "2026-07-27T15:06:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaeKwang Lee RTB"
-    },
-    {
       "title": "Incorrect project_id in google auth response",
       "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
       "published_at": "2026-07-26T02:33:48.000Z",
@@ -1608,22 +1615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "rahul"
-    },
-    {
-      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
-      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
-      "published_at": "2026-07-23T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "node.js",
-        "excel",
-        "type-conversion",
-        "exceljs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user31009838"
     },
     {
       "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
@@ -1862,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2119,
       "user": "slvDev"
     },
     {
@@ -1877,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 999,
       "user": "mikiarlo3"
     },
     {
@@ -1892,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 825,
       "user": "VictorTaelin"
     },
     {
@@ -1907,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 814,
       "user": "MoonshotAI"
     },
     {
@@ -1922,26 +1913,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 771,
       "user": "fuadmefleh"
-    },
-    {
-      "title": "Developer tip: Building Sustainable Websites in an AI-Driven World: Lesser-Known Strategies for Long-Term Success",
-      "url": "https://stackoverflow.com/questions/79987700/developer-tip-building-sustainable-websites-in-an-ai-driven-world-lesser-known",
-      "published_at": "2026-07-29T01:20:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32874482"
     },
     {
       "title": "How to install pygame in latest versions of python? 3.14+",
       "url": "https://stackoverflow.com/questions/79987689/how-to-install-pygame-in-latest-versions-of-python-3-14",
       "published_at": "2026-07-29T00:06:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "pygame"
@@ -2069,6 +2048,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "UDP sendto() succeeds but outgoing UDP packet is not transmitted while receiving 500 Mbps UDP stream on Windows",
+      "url": "https://stackoverflow.com/questions/79986260/udp-sendto-succeeds-but-outgoing-udp-packet-is-not-transmitted-while-receiving",
+      "published_at": "2026-07-27T09:19:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "advice",
+        "python",
+        "sockets",
+        "network-programming",
+        "udp"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adeleh Poursadegh"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -2391,21 +2386,6 @@
   ],
   "Mobile": [
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
       "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
       "published_at": "2026-07-28T20:13:36Z",
@@ -2419,6 +2399,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
@@ -2678,6 +2673,21 @@
       "user": "xbill"
     },
     {
+      "title": "Claude Opus 5 is Live on Agent Platform 🚀",
+      "url": "https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52",
+      "published_at": "2026-07-24T17:37:35Z",
+      "description": "Claude 5 Opus is officially available in the Model Garden on Agent Platform!  Built for highly...",
+      "tags": [
+        "ai",
+        "claude",
+        "googlecloud",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxw0i687ngxykolxij4d6.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
       "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
       "published_at": "2026-07-27T15:06:41.000Z",
@@ -2685,6 +2695,7 @@
       "tags": [
         "javascript",
         "firebase",
+        "google-cloud-platform",
         "google-cloud-firestore"
       ],
       "cover_image": null,
@@ -2741,8 +2752,9 @@
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
+        "tooling-recommendation",
         "javascript"
       ],
       "cover_image": null,
@@ -3243,6 +3255,21 @@
       "user": "Hemapriya Kanagala"
     },
     {
+      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+      "published_at": "2026-07-09T22:12:22Z",
+      "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+      "tags": [
+        "ai",
+        "codereview",
+        "productivity",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5mu1xfg37llhfuxz903.png",
+      "source": "Dev.to",
+      "user": "christine"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3290,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 1798,
+      "stars": 1897,
       "user": "mshumer"
     },
     {
@@ -3305,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "0xwilliamortiz"
     },
     {
@@ -3320,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 221,
       "user": "achimala"
     },
     {
@@ -3350,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/183808012?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 149,
       "user": "icebird1998"
     },
     {
@@ -3365,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2119,
       "user": "slvDev"
     },
     {
@@ -3380,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 995,
+      "stars": 999,
       "user": "mikiarlo3"
     },
     {
@@ -3395,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 825,
       "user": "VictorTaelin"
     },
     {
@@ -3410,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 814,
       "user": "MoonshotAI"
     },
     {
@@ -3425,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 771,
       "user": "fuadmefleh"
     },
     {
@@ -3440,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "edaywalid"
     },
     {
@@ -3455,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "iximiuz"
     },
     {
@@ -3485,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "byJoey"
     },
     {
@@ -3500,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/232734844?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "cyi-cc"
     },
     {
@@ -3515,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -3530,23 +3557,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 368,
       "user": "RongleCat"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 328,
-      "user": "deerwork-ai"
     },
     {
       "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
@@ -3560,8 +3572,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 329,
       "user": "NikolayS"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 329,
+      "user": "deerwork-ai"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -3575,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "wassgha"
     },
     {
@@ -3590,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1478,
+      "stars": 1507,
       "user": "kvcache-ai"
     },
     {
@@ -3620,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "rrrjqy66"
     },
     {
@@ -3635,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "sazardev"
     },
     {
@@ -3650,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "HaseebKhalid1507"
     },
     {
@@ -3664,6 +3691,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hwj"
+    },
+    {
+      "title": "Website database changes monitoring by Fetch/XHR requests",
+      "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
+      "published_at": "2026-07-28T21:30:07.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "tooling-recommendation",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Abdelali Fihri"
     },
     {
       "title": "How can I extract structured data from scanned PDFs using OCR in Python?",
