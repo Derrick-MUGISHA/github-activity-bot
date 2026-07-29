@@ -16,36 +16,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
-      "published_at": "2026-07-28T11:09:48Z",
-      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
-      "source": "Dev.to",
-      "user": "Julien Landuré"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
       "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
       "published_at": "2026-07-28T14:00:00Z",
@@ -61,6 +31,21 @@
       "user": "Shy Ruparel"
     },
     {
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
+      "published_at": "2026-07-28T11:09:48Z",
+      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
+      "source": "Dev.to",
+      "user": "Julien Landuré"
+    },
+    {
       "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
       "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
       "published_at": "2026-07-28T15:12:02Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
       "source": "Dev.to",
       "user": "DanielleWashington"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
@@ -194,21 +194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
       "source": "Dev.to",
       "user": "John Bulla"
-    },
-    {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -344,6 +329,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 455,
       "user": "0xwilliamortiz"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 170,
       "user": "QwenAudio"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2179,
+      "stars": 2206,
       "user": "slvDev"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1017,
       "user": "mikiarlo3"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 910,
       "user": "fuadmefleh"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 846,
       "user": "MoonshotAI"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 842,
       "user": "VictorTaelin"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "iximiuz"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1702,
       "user": "kvcache-ai"
     },
     {
@@ -886,6 +886,18 @@
       "source": "GitHub",
       "stars": 155,
       "user": "steelbrain"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+      "published_at": "2026-07-29T05:42:50.240-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "zanlib"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -914,6 +926,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abhishek Kp"
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+      "published_at": "2026-07-29T13:00:00.000Z",
+      "description": "Running Mode will be available to Premium users on iOS in select countries",
+      "tags": [
+        "TC",
+        "Apps",
+        "Spotify",
+        "running"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "As AI content floods the internet, Pangram raises $9M to detect it",
@@ -1004,34 +1031,36 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-      "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-      "published_at": "2026-07-28T19:06:33.000Z",
-      "description": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
+      "title": "How to Build AI Applications That Switch Models Automatically",
+      "url": "https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/",
+      "published_at": "2026-07-29T09:21:57.000Z",
+      "description": "Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop",
       "tags": [
-        "Transportation",
-        "robotaxis",
-        "Waymo"
+        "Artificial Intelligence",
+        "Data Science",
+        "large language models",
+        "agentic AI",
+        "Python"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "source": "freeCodeCamp",
+      "user": "Chidiebere Njoku"
     },
     {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "published_at": "2026-07-28T18:16:39.000Z",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
+      "url": "https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/",
+      "published_at": "2026-07-29T09:19:03.000Z",
+      "description": "Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r",
       "tags": [
-        "Apps",
-        "TC",
-        "app store",
-        "Apple",
-        "Google Play"
+        "AI",
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Google Antigravity",
+        "Google"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Obum"
     },
     {
       "title": "Prompt vs Loop Engineering: A Guide for Developers",
@@ -1060,54 +1089,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Tapas Adhikary"
-    },
-    {
-      "title": "How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-real-time-object-detection-and-tracking-pipeline-with-ros-2-and-yolov11/",
-      "published_at": "2026-07-25T00:26:13.000Z",
-      "description": "If you've ever tried to build a robotics system that can actually see, track, and respond to the world around it, you know that the hard part isn't training a detection model. The hard part is making",
-      "tags": [
-        "robotics",
-        "YOLO",
-        "Computer Vision",
-        "object detection",
-        "pyhon"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Iyanuoluwa Enoch Oke"
-    },
-    {
-      "title": "How to Diagnose Production Bugs When You Can't Reproduce Them Locally",
-      "url": "https://www.freecodecamp.org/news/how-to-diagnose-production-bugs-when-you-can-t-reproduce-them-locally/",
-      "published_at": "2026-07-24T20:54:36.000Z",
-      "description": "Every developer eventually encounters the same frustrating problem. A customer reports that your application is failing in production. You try the exact same workflow on your development machine, but",
-      "tags": [
-        "debugging",
-        "production",
-        "PaaS",
-        "Environment",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
-      "published_at": "2026-07-24T20:44:56.000Z",
-      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "JavaScript": [
@@ -1303,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2124,
+      "stars": 2141,
       "user": "mshumer"
     },
     {
@@ -1318,23 +1299,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 455,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "published_at": "2026-07-27T08:43:36Z",
-      "description": "A space exploration game built by Claude Opus 5",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "achimala"
     },
     {
       "title": "xikhar/persona - Bringing real-time voice to life.",
@@ -1348,8 +1314,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 316,
       "user": "xikhar"
+    },
+    {
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "achimala"
     },
     {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
@@ -1363,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 170,
       "user": "QwenAudio"
     },
     {
@@ -1378,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 72,
       "user": "cocofhu"
     },
     {
@@ -1393,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -1408,8 +1389,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 377,
       "user": "RongleCat"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -1427,21 +1423,6 @@
       "user": "deerwork-ai"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 341,
-      "user": "NikolayS"
-    },
-    {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
       "url": "https://github.com/wassgha/rescript",
       "published_at": "2026-07-26T22:43:11Z",
@@ -1453,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 313,
       "user": "wassgha"
     },
     {
@@ -1468,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "HaseebKhalid1507"
     },
     {
@@ -1639,22 +1620,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Tapas Adhikary"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
-      "published_at": "2026-07-24T20:44:56.000Z",
-      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1850,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2179,
+      "stars": 2206,
       "user": "slvDev"
     },
     {
@@ -1865,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1017,
       "user": "mikiarlo3"
     },
     {
@@ -1880,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 910,
       "user": "fuadmefleh"
     },
     {
@@ -1895,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 846,
       "user": "MoonshotAI"
     },
     {
@@ -1910,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 842,
       "user": "VictorTaelin"
     },
     {
@@ -1928,20 +1893,6 @@
       "user": "Unknow 15465426"
     },
     {
-      "title": "Controller hotplugging issue",
-      "url": "https://stackoverflow.com/questions/79987803/controller-hotplugging-issue",
-      "published_at": "2026-07-29T10:03:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pygame",
-        "hotplugging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DonPolettone"
-    },
-    {
       "title": "Perceptually compare two JPEGs from the same source image with different color profiles",
       "url": "https://stackoverflow.com/questions/79987800/perceptually-compare-two-jpegs-from-the-same-source-image-with-different-color-p",
       "published_at": "2026-07-29T09:44:24.000Z",
@@ -1955,6 +1906,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "malat"
+    },
+    {
+      "title": "Yahoo Finance GC=F appears to be returning incorrect prices on 2026-07-29?",
+      "url": "https://stackoverflow.com/questions/79987839/yahoo-finance-gc-f-appears-to-be-returning-incorrect-prices-on-2026-07-29",
+      "published_at": "2026-07-29T11:37:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "pandas",
+        "finance",
+        "yahoo-finance",
+        "yfinance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NeoTheNerd"
+    },
+    {
+      "title": "Controller hotplugging issue",
+      "url": "https://stackoverflow.com/questions/79987803/controller-hotplugging-issue",
+      "published_at": "2026-07-29T10:03:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pygame",
+        "hotplugging"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DonPolettone"
     },
     {
       "title": "Connecting MUSE 2016 headband via brainflow",
@@ -2040,20 +2021,20 @@
       "user": "Baptiste Noisette"
     },
     {
-      "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
-      "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
-      "published_at": "2026-07-27T16:25:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "How to Build AI Applications That Switch Models Automatically",
+      "url": "https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/",
+      "published_at": "2026-07-29T09:21:57.000Z",
+      "description": "Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop",
       "tags": [
-        "python",
-        "image-processing",
-        "scikit-image",
-        "image-registration",
-        "mutual-information"
+        "Artificial Intelligence",
+        "Data Science",
+        "large language models",
+        "agentic AI",
+        "Python"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32851394"
+      "source": "freeCodeCamp",
+      "user": "Chidiebere Njoku"
     },
     {
       "title": "The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python",
@@ -2089,21 +2070,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
       "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
       "published_at": "2026-07-25T17:55:01Z",
@@ -2117,6 +2083,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmp807g893wizyzwkko8v.png",
       "source": "Dev.to",
       "user": "Le Beltagy"
+    },
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
@@ -2280,7 +2261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 72,
       "user": "cocofhu"
     },
     {
@@ -2358,20 +2339,19 @@
       "user": "Gary"
     },
     {
-      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
-      "published_at": "2026-07-24T20:44:56.000Z",
-      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
+      "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
+      "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
+      "published_at": "2026-07-29T09:15:17.000Z",
+      "description": "If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like \"Authorization Server\", \"Bearer Tokens\", \"PKCE\", and \"Implicit Grant\". They might also draw a se",
       "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "Tutorial"
+        "oauth",
+        "backend",
+        "authorization",
+        "authentication"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
+      "user": "Ashutosh Krishna"
     }
   ],
   "Mobile": [
@@ -2434,6 +2414,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+      "published_at": "2026-07-29T13:00:00.000Z",
+      "description": "Running Mode will be available to Premium users on iOS in select countries",
+      "tags": [
+        "TC",
+        "Apps",
+        "Spotify",
+        "running"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     }
   ],
   "Cloud": [
@@ -2814,21 +2809,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -2857,6 +2837,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhs1lou4uuc9p3ink0y7.png",
       "source": "Dev.to",
       "user": "Romin Irani"
+    },
+    {
+      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
+      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
+      "published_at": "2026-07-27T03:59:04Z",
+      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -3063,6 +3058,21 @@
       "user": "Tim Fernholz"
     },
     {
+      "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
+      "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
+      "published_at": "2026-07-29T09:15:17.000Z",
+      "description": "If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like \"Authorization Server\", \"Bearer Tokens\", \"PKCE\", and \"Implicit Grant\". They might also draw a se",
+      "tags": [
+        "oauth",
+        "backend",
+        "authorization",
+        "authentication"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ashutosh Krishna"
+    },
+    {
       "title": "How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/",
       "published_at": "2026-07-27T18:30:27.000Z",
@@ -3096,21 +3106,6 @@
       "user": "xbill"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
       "published_at": "2026-07-27T20:54:36Z",
@@ -3124,6 +3119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxvx6ui36rqas770oxw5o.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -3307,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2124,
+      "stars": 2141,
       "user": "mshumer"
     },
     {
@@ -3322,23 +3332,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 455,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "published_at": "2026-07-27T08:43:36Z",
-      "description": "A space exploration game built by Claude Opus 5",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "achimala"
     },
     {
       "title": "xikhar/persona - Bringing real-time voice to life.",
@@ -3352,8 +3347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 316,
       "user": "xikhar"
+    },
+    {
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "achimala"
     },
     {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
@@ -3367,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 170,
       "user": "QwenAudio"
     },
     {
@@ -3382,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
       "source": "GitHub",
-      "stars": 2179,
+      "stars": 2206,
       "user": "slvDev"
     },
     {
@@ -3397,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1017,
       "user": "mikiarlo3"
     },
     {
@@ -3412,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 910,
       "user": "fuadmefleh"
     },
     {
@@ -3427,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 846,
       "user": "MoonshotAI"
     },
     {
@@ -3442,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 842,
       "user": "VictorTaelin"
     },
     {
@@ -3457,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 300,
       "user": "edaywalid"
     },
     {
@@ -3472,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "iximiuz"
     },
     {
@@ -3487,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "byJoey"
     },
     {
@@ -3502,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 72,
       "user": "cocofhu"
     },
     {
@@ -3532,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -3547,8 +3557,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 377,
       "user": "RongleCat"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -3566,21 +3591,6 @@
       "user": "deerwork-ai"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 341,
-      "user": "NikolayS"
-    },
-    {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
       "url": "https://github.com/wassgha/rescript",
       "published_at": "2026-07-26T22:43:11Z",
@@ -3592,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 313,
       "user": "wassgha"
     },
     {
@@ -3607,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1702,
       "user": "kvcache-ai"
     },
     {
@@ -3637,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "rrrjqy66"
     },
     {
@@ -3652,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 133,
       "user": "sazardev"
     },
     {
@@ -3667,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57045294?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "HaseebKhalid1507"
     },
     {
@@ -3682,18 +3692,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "matklad"
-    },
-    {
-      "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "published_at": "2026-07-28T05:32:54.344-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "graphics"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hwj"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
@@ -3725,20 +3723,20 @@
       "user": "Julie Bort"
     },
     {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "published_at": "2026-07-28T18:16:39.000Z",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
+      "url": "https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/",
+      "published_at": "2026-07-29T09:19:03.000Z",
+      "description": "Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r",
       "tags": [
-        "Apps",
-        "TC",
-        "app store",
-        "Apple",
-        "Google Play"
+        "AI",
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Google Antigravity",
+        "Google"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Obum"
     },
     {
       "title": "How to Build an Automated Workload Model for Peak Readiness",
@@ -3755,22 +3753,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vasuki Uday Kiran Vudathala"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Blur Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/",
-      "published_at": "2026-07-24T20:44:56.000Z",
-      "description": "Many PDF documents contain information that shouldn't be shared publicly. Personal details, financial figures, signatures, addresses, account numbers, employee information, or confidential business da",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "Online PDF Tools",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ]
 }
