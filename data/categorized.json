@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
+    },
+    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -46,7 +61,7 @@
       "user": "xbill"
     },
     {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!",
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
       "published_at": "2026-07-30T06:55:16Z",
       "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
@@ -56,7 +71,7 @@
         "docker",
         "orquestator"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe3xzsljgti1cy5e7uam.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
     },
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 309,
       "user": "Noniv"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 913,
       "user": "MoonshotAI"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 911,
       "user": "VictorTaelin"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 442,
       "user": "gavamedia"
     },
     {
@@ -836,8 +851,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 319,
       "user": "perplexityai"
+    },
+    {
+      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "url": "https://github.com/grafana/ai-sdk",
+      "published_at": "2026-07-28T21:51:20Z",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "grafana"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -885,6 +915,19 @@
       "user": "iamrohithrnair"
     },
     {
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "published_at": "2026-07-30T08:57:07.296-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "design",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "carlana"
+    },
+    {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
       "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
       "published_at": "2026-07-29T05:42:50.240-05:00",
@@ -911,6 +954,22 @@
       "user": "icy"
     },
     {
+      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
+      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
+      "published_at": "2026-07-30T16:05:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "anaconda",
+        "conda",
+        "vscode-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "thinksolid"
+    },
+    {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
@@ -923,6 +982,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "published_at": "2026-07-30T16:09:42.000Z",
+      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "Okta",
+        "Permiso"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "published_at": "2026-07-30T15:41:16.000Z",
+      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "Meta",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
@@ -974,11 +1065,11 @@
       "published_at": "2026-07-30T15:00:00.000Z",
       "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
       "tags": [
-        "Enterprise",
         "AI",
-        "Exclusive",
+        "Enterprise",
         "AI talent wars",
-        "Forward deployed engineers"
+        "Exclusive",
+        "FDE"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1006,74 +1097,15 @@
       "published_at": "2026-07-30T14:00:00.000Z",
       "description": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
       "tags": [
-        "Startups",
         "AI",
+        "Startups",
         "Amazon",
-        "TechCrunch Disrupt",
-        "Replit"
+        "Replit",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "FTC sues Hims &#038; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap",
-      "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "published_at": "2026-07-30T13:30:52.000Z",
-      "description": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-      "tags": [
-        "Privacy",
-        "Security",
-        "cybersecurity",
-        "Federal Trade Commission",
-        "Hims & Hers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-      "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-      "published_at": "2026-07-30T13:09:03.000Z",
-      "description": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
-      "tags": [
-        "Transportation",
-        "nhtsa",
-        "zoox"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Spotify adds a running mode to its app",
-      "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-      "published_at": "2026-07-30T13:00:00.000Z",
-      "description": "Running Mode will be available to Premium users on iOS in select countries",
-      "tags": [
-        "TC",
-        "Apps",
-        "Spotify",
-        "running"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-      "published_at": "2026-07-30T13:00:00.000Z",
-      "description": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "UK"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1360,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2356,
+      "stars": 2367,
       "user": "mshumer"
     },
     {
@@ -1375,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 661,
       "user": "xikhar"
     },
     {
@@ -1390,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
@@ -1405,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "achimala"
     },
     {
@@ -1420,8 +1452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 309,
       "user": "Noniv"
+    },
+    {
+      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "url": "https://github.com/grafana/ai-sdk",
+      "published_at": "2026-07-28T21:51:20Z",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "grafana"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -1435,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
@@ -1450,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 474,
       "user": "talivia-group"
     },
     {
@@ -1465,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "NikolayS"
     },
     {
@@ -1510,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "Quantova"
     },
     {
@@ -1613,6 +1660,19 @@
       "user": "lel lel"
     },
     {
+      "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
+      "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
+      "published_at": "2026-07-28T17:53:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "custom-element"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
       "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
       "published_at": "2026-07-29T14:19:16.000Z",
@@ -1669,19 +1729,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dandeto"
-    },
-    {
-      "title": "Website database changes monitoring by Fetch/XHR requests",
-      "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
-      "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abdelali Fihri"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1921,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 913,
       "user": "MoonshotAI"
     },
     {
@@ -1936,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 911,
       "user": "VictorTaelin"
     },
     {
@@ -1966,8 +2013,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 442,
       "user": "gavamedia"
+    },
+    {
+      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
+      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
+      "published_at": "2026-07-30T16:05:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "anaconda",
+        "conda",
+        "vscode-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "thinksolid"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
@@ -1985,10 +2062,24 @@
       "user": "Bussller"
     },
     {
+      "title": "How do I get correct type hints in subclass?",
+      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
+      "published_at": "2026-07-30T00:16:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "type-hinting"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
       "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
       "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
       "published_at": "2026-07-30T07:50:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "playwright",
@@ -1997,33 +2088,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sefat khan"
-    },
-    {
-      "title": "How do I get correct type hints in subclass?",
-      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
-      "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
     },
     {
       "title": "b64encode() / b64decode - unbalanced encoding",
@@ -2049,6 +2113,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jim Garrison"
+    },
+    {
+      "title": "How to retrieve a variable from another threading.Thread?",
+      "url": "https://stackoverflow.com/questions/79987816/how-to-retrieve-a-variable-from-another-threading-thread",
+      "published_at": "2026-07-29T10:43:49.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "multithreading",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Unknow 15465426"
     },
     {
       "title": "PPO Agent refuses to place orders in custom Gymnasium Inventory Environment (stuck in local minimum)",
@@ -2081,33 +2159,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Magnus"
-    },
-    {
-      "title": "How do I pass class variables to functions imported from another module?",
-      "url": "https://stackoverflow.com/questions/79987927/how-do-i-pass-class-variables-to-functions-imported-from-another-module",
-      "published_at": "2026-07-29T16:04:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Murchak"
-    },
-    {
-      "title": "Using Python PIL.Image module, <image>.paste() returns None",
-      "url": "https://stackoverflow.com/questions/79987929/using-python-pil-image-module-image-paste-returns-none",
-      "published_at": "2026-07-29T16:04:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "image",
-        "python-imaging-library"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ItzSeegy"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2144,7 +2195,7 @@
   ],
   "DevOps": [
     {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!",
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
       "published_at": "2026-07-30T06:55:16Z",
       "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
@@ -2154,7 +2205,7 @@
         "docker",
         "orquestator"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe3xzsljgti1cy5e7uam.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
     },
@@ -2368,6 +2419,21 @@
       "user": "velmu"
     },
     {
+      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "url": "https://github.com/grafana/ai-sdk",
+      "published_at": "2026-07-28T21:51:20Z",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "grafana"
+    },
+    {
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
       "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
       "published_at": "2026-07-30T13:18:55.000Z",
@@ -2517,21 +2583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bryan"
-    },
-    {
-      "title": "Spotify adds a running mode to its app",
-      "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-      "published_at": "2026-07-30T13:00:00.000Z",
-      "description": "Running Mode will be available to Premium users on iOS in select countries",
-      "tags": [
-        "TC",
-        "Apps",
-        "Spotify",
-        "running"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     }
   ],
   "Cloud": [
@@ -2776,6 +2827,22 @@
       "user": "xbill"
     },
     {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "published_at": "2026-07-30T16:09:42.000Z",
+      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "Okta",
+        "Permiso"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
       "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
       "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
       "published_at": "2026-07-30T15:19:15.000Z",
@@ -2818,19 +2885,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Website database changes monitoring by Fetch/XHR requests",
-      "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
-      "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Abdelali Fihri"
     }
   ],
   "Security": [
@@ -3118,6 +3172,22 @@
       "user": "benjimin"
     },
     {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "published_at": "2026-07-30T16:09:42.000Z",
+      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "tags": [
+        "Startups",
+        "Security",
+        "AI",
+        "Okta",
+        "Permiso"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
       "title": "In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast — but not unstoppable",
       "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
       "published_at": "2026-07-30T14:48:32.000Z",
@@ -3132,36 +3202,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "FTC sues Hims &#038; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap",
-      "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "published_at": "2026-07-30T13:30:52.000Z",
-      "description": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-      "tags": [
-        "Privacy",
-        "Security",
-        "cybersecurity",
-        "Federal Trade Commission",
-        "Hims & Hers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-      "published_at": "2026-07-30T13:00:00.000Z",
-      "description": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "UK"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -3392,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2356,
+      "stars": 2367,
       "user": "mshumer"
     },
     {
@@ -3407,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 661,
       "user": "xikhar"
     },
     {
@@ -3422,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
@@ -3437,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "achimala"
     },
     {
@@ -3452,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 309,
       "user": "Noniv"
     },
     {
@@ -3482,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 913,
       "user": "MoonshotAI"
     },
     {
@@ -3497,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 911,
       "user": "VictorTaelin"
     },
     {
@@ -3527,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 442,
       "user": "gavamedia"
     },
     {
@@ -3542,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 319,
       "user": "perplexityai"
     },
     {
@@ -3557,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 214,
       "user": "codermyxiaoc"
     },
     {
@@ -3572,8 +3612,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 125,
       "user": "rogerbush007-a11y"
+    },
+    {
+      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "url": "https://github.com/grafana/ai-sdk",
+      "published_at": "2026-07-28T21:51:20Z",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "grafana"
     },
     {
       "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
@@ -3587,23 +3642,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 84,
       "user": "byJoey"
-    },
-    {
-      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
-      "url": "https://github.com/torrischen/goat",
-      "published_at": "2026-07-26T07:11:14Z",
-      "description": "goat is a package provides agent framework written in golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
-      "source": "GitHub",
-      "stars": 75,
-      "user": "torrischen"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3617,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
@@ -3632,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 474,
       "user": "talivia-group"
     },
     {
@@ -3647,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 432,
       "user": "NikolayS"
     },
     {
@@ -3752,21 +3792,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "Quantova"
     },
     {
-      "title": "Website database changes monitoring by Fetch/XHR requests",
-      "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
-      "published_at": "2026-07-28T21:30:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
+      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
+      "published_at": "2026-07-30T16:05:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "tooling-recommendation",
-        "javascript"
+        "python",
+        "visual-studio-code",
+        "anaconda",
+        "conda",
+        "vscode-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Abdelali Fihri"
+      "user": "thinksolid"
     },
     {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
