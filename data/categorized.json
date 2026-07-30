@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
-      "published_at": "2026-07-29T19:14:47Z",
-      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -41,6 +26,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
       "source": "Dev.to",
       "user": "Peter Kim Frank"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
+      "published_at": "2026-07-29T19:14:47Z",
+      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
@@ -343,6 +343,21 @@
       "user": "Nazar Boyko"
     },
     {
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
+      "published_at": "2026-07-27T02:11:38Z",
+      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
       "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
       "published_at": "2026-07-15T06:50:10Z",
@@ -552,21 +567,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
-      "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
-      "published_at": "2026-07-20T16:26:42Z",
-      "description": "I never planned to be in tech.  Growing up in Mumbai, I loved acting. Directing. Theatre. That was my...",
-      "tags": [
-        "career",
-        "beginners",
-        "womenintech",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 547,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 225,
       "user": "QwenAudio"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1048,
       "user": "mikiarlo3"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 936,
       "user": "fuadmefleh"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 884,
       "user": "VictorTaelin"
     },
     {
@@ -821,14 +821,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 868,
       "user": "MoonshotAI"
     },
     {
-      "title": "perplexityai/numbat - Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
       "url": "https://github.com/perplexityai/numbat",
       "published_at": "2026-07-24T06:07:59Z",
-      "description": "Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
       "tags": [
         "go",
         "github",
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 138,
       "user": "perplexityai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "steelbrain"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 67,
       "user": "iamrohithrnair"
     },
     {
@@ -1346,23 +1346,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2271,
       "user": "mshumer"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "0xwilliamortiz"
     },
     {
       "title": "xikhar/persona - Bringing real-time voice to life.",
@@ -1376,8 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 562,
       "user": "xikhar"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 547,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 329,
       "user": "achimala"
     },
     {
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 225,
       "user": "QwenAudio"
     },
     {
@@ -1436,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "0xwilliamortiz"
     },
     {
@@ -1451,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 426,
       "user": "talivia-group"
     },
     {
@@ -1466,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "NikolayS"
     },
     {
@@ -1496,8 +1496,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 347,
       "user": "wassgha"
+    },
+    {
+      "title": "What side projects have you enjoyed the most?",
+      "url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
+      "published_at": "2026-07-29T20:40:31.976-05:00",
+      "description": "In the spirit of https://blog.jsbarretto.com/post/software-is-joy, what side projects have you enjoyed working on the most?",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nick4"
     },
     {
       "title": "JavaScript for a collapsible which expands on click",
@@ -1613,20 +1626,6 @@
       "user": "dandeto"
     },
     {
-      "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
-      "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
-      "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "shadow-dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -1639,6 +1638,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
+    },
+    {
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rahul"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1863,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1048,
       "user": "mikiarlo3"
     },
     {
@@ -1878,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 936,
       "user": "fuadmefleh"
     },
     {
@@ -1893,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 884,
       "user": "VictorTaelin"
     },
     {
@@ -1908,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 868,
       "user": "MoonshotAI"
     },
     {
@@ -1923,14 +1936,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 532,
       "user": "mikehasa"
     },
     {
       "title": "b64encode() / b64decode - unbalanced encoding",
       "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
       "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python"
       ],
@@ -1939,10 +1952,23 @@
       "user": "NickC"
     },
     {
+      "title": "psycopg3 \"copy to stdout with csv header\" always hangs",
+      "url": "https://stackoverflow.com/questions/79988040/psycopg3-copy-to-stdout-with-csv-header-always-hangs",
+      "published_at": "2026-07-30T01:12:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "psycopg3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jim Garrison"
+    },
+    {
       "title": "How do you stitch together 3 meshes in Python?",
       "url": "https://stackoverflow.com/questions/79987997/how-do-you-stitch-together-3-meshes-in-python",
       "published_at": "2026-07-29T20:47:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "mesh",
@@ -1953,19 +1979,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Magnus"
-    },
-    {
-      "title": "How do I program a RC car application that uses ESP32?",
-      "url": "https://stackoverflow.com/questions/79987967/how-do-i-program-a-rc-car-application-that-uses-esp32",
-      "published_at": "2026-07-29T18:22:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "esp32"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "imabigwaffleman"
     },
     {
       "title": "How do I pass class variables to functions imported from another module?",
@@ -1981,10 +1994,23 @@
       "user": "Murchak"
     },
     {
+      "title": "How do I program a RC car application that uses ESP32?",
+      "url": "https://stackoverflow.com/questions/79987967/how-do-i-program-a-rc-car-application-that-uses-esp32",
+      "published_at": "2026-07-29T18:22:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "esp32"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "imabigwaffleman"
+    },
+    {
       "title": "Using Python PIL.Image module, <image>.paste() returns None",
       "url": "https://stackoverflow.com/questions/79987929/using-python-pil-image-module-image-paste-returns-none",
       "published_at": "2026-07-29T16:04:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "image",
@@ -2054,22 +2080,6 @@
       "user": "DonPolettone"
     },
     {
-      "title": "Decorators terminology",
-      "url": "https://stackoverflow.com/questions/79987621/decorators-terminology",
-      "published_at": "2026-07-28T18:51:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "advice",
-        "python",
-        "decorator",
-        "python-decorators",
-        "terminology"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cyril Dubovetsky"
-    },
-    {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
       "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
       "published_at": "2026-07-29T13:27:40.000Z",
@@ -2117,21 +2127,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
-      "url": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
-      "published_at": "2026-07-25T17:55:01Z",
-      "description": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards...",
-      "tags": [
-        "kubernetes",
-        "homelab",
-        "devops",
-        "talos"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmp807g893wizyzwkko8v.png",
-      "source": "Dev.to",
-      "user": "Le Beltagy"
     },
     {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
@@ -2387,20 +2382,6 @@
       "user": "dandeto"
     },
     {
-      "title": "Can a shadow DOM host node be selected based on being a descendant of a node in the light DOM?",
-      "url": "https://stackoverflow.com/questions/79986176/can-a-shadow-dom-host-node-be-selected-based-on-being-a-descendant-of-a-node-in",
-      "published_at": "2026-07-27T03:58:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "shadow-dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
       "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
       "published_at": "2026-07-06T11:23:54.000Z",
@@ -2509,21 +2490,6 @@
   ],
   "Cloud": [
     {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
-      "published_at": "2026-07-29T19:14:47Z",
-      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
       "published_at": "2026-07-28T18:58:24Z",
@@ -2535,6 +2501,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
+      "published_at": "2026-07-29T19:14:47Z",
+      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2895,6 +2876,21 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
+      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
+      "published_at": "2026-07-27T02:11:38Z",
+      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
       "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
       "published_at": "2026-07-27T03:59:04Z",
@@ -3055,6 +3051,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Incorrect project_id in google auth response",
+      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
+      "published_at": "2026-07-26T02:33:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "firebase",
+        "firebase-authentication"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rahul"
     },
     {
       "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
@@ -3299,23 +3309,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2248,
+      "stars": 2271,
       "user": "mshumer"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "0xwilliamortiz"
     },
     {
       "title": "xikhar/persona - Bringing real-time voice to life.",
@@ -3329,8 +3324,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 562,
       "user": "xikhar"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 547,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
@@ -3344,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 329,
       "user": "achimala"
     },
     {
@@ -3359,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 225,
       "user": "QwenAudio"
     },
     {
@@ -3374,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1046,
+      "stars": 1048,
       "user": "mikiarlo3"
     },
     {
@@ -3389,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 936,
       "user": "fuadmefleh"
     },
     {
@@ -3404,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 884,
       "user": "VictorTaelin"
     },
     {
@@ -3419,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 868,
       "user": "MoonshotAI"
     },
     {
@@ -3434,14 +3444,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 532,
       "user": "mikehasa"
     },
     {
-      "title": "perplexityai/numbat - Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
       "url": "https://github.com/perplexityai/numbat",
       "published_at": "2026-07-24T06:07:59Z",
-      "description": "Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
+      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
       "tags": [
         "go",
         "github",
@@ -3449,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 138,
       "user": "perplexityai"
     },
     {
@@ -3464,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "byJoey"
     },
     {
@@ -3509,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 37,
+      "stars": 44,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3524,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "0xwilliamortiz"
     },
     {
@@ -3539,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 426,
       "user": "talivia-group"
     },
     {
@@ -3554,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 398,
       "user": "NikolayS"
     },
     {
@@ -3584,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 347,
       "user": "wassgha"
     },
     {
@@ -3599,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "steelbrain"
     },
     {
@@ -3614,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 141,
       "user": "jchultarsky"
     },
     {
@@ -3644,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 67,
       "user": "iamrohithrnair"
     },
     {
@@ -3659,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51686767?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "samwhosung"
     },
     {
