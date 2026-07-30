@@ -582,6 +582,126 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "published_at": "2026-03-11T19:29:29Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "usefulposter"
+    },
+    {
+      "title": "Airfoil",
+      "url": "https://ciechanow.ski/airfoil/",
+      "published_at": "2024-02-27T16:32:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "todsacerdoti"
+    },
+    {
+      "title": "Open source AI is the path forward",
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "published_at": "2024-07-23T15:08:41Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "atgctg"
+    },
+    {
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "published_at": "2025-06-02T21:09:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "tabletcorry"
+    },
+    {
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "published_at": "2026-02-12T16:23:24Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "scottshambaugh"
+    },
+    {
+      "title": "Gemini AI",
+      "url": "https://deepmind.google/technologies/gemini/",
+      "published_at": "2023-12-06T15:03:47Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "dmotz"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "published_at": "2026-05-15T20:26:47Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "reasonableklout"
+    },
+    {
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "published_at": "2026-02-24T12:16:45Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "Qem"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "published_at": "2026-05-27T10:43:25Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "theorchid"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
+    },
+    {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
       "url": "https://www.armaansahni.com/game/",
       "published_at": "2024-12-03T22:08:16Z",
@@ -604,18 +724,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
-    },
-    {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
     },
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -668,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 345,
       "user": "QwenAudio"
     },
     {
@@ -698,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 930,
       "user": "VictorTaelin"
     },
     {
@@ -713,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 925,
       "user": "MoonshotAI"
     },
     {
@@ -728,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 475,
       "user": "gavamedia"
     },
     {
@@ -743,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 379,
       "user": "perplexityai"
     },
     {
@@ -788,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "iamrohithrnair"
     },
     {
@@ -847,6 +955,159 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "published_at": "2026-07-30T23:28:05.000Z",
+      "description": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "tags": [
+        "Hardware",
+        "Apple"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "published_at": "2026-07-30T23:25:58.000Z",
+      "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "hedge fund",
+        "Leverage",
+        "stock market"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "published_at": "2026-07-30T23:08:58.000Z",
+      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "tags": [
+        "Social",
+        "AI",
+        "Google",
+        "Reddit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "published_at": "2026-07-30T22:41:41.000Z",
+      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "tags": [
+        "AI",
+        "TC",
+        "Amazon",
+        "Cloud Computing",
+        "earnings"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "published_at": "2026-07-30T22:37:06.000Z",
+      "description": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+      "tags": [
+        "Apps",
+        "TC",
+        "app store",
+        "Apple"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "published_at": "2026-07-30T20:26:38.000Z",
+      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dod",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "2026-07-30T20:13:12.000Z",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "carecloud",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "published_at": "2026-07-30T19:44:16.000Z",
+      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "tags": [
+        "AI",
+        "AI wearables",
+        "friend"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "2026-07-30T18:57:58.000Z",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "tags": [
+        "AI",
+        "Security",
+        "Chrome",
+        "Google",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+      "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+      "published_at": "2026-07-30T18:38:12.000Z",
+      "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+      "tags": [
+        "Climate",
+        "Transportation",
+        "air taxi",
+        "EV charging",
+        "eVTOL"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1146,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2395,
+      "stars": 2398,
       "user": "mshumer"
     },
     {
@@ -1161,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 672,
       "user": "xikhar"
     },
     {
@@ -1206,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 345,
       "user": "QwenAudio"
     },
     {
@@ -1251,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 488,
       "user": "talivia-group"
     },
     {
@@ -1266,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "NikolayS"
     },
     {
@@ -1281,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "wassgha"
     },
     {
@@ -1296,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13253748?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "letstri"
     },
     {
@@ -1400,19 +1661,6 @@
       "user": "benjimin"
     },
     {
-      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
-      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
-      "published_at": "2026-07-29T14:19:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "maplibre-gl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baohua Chu"
-    },
-    {
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
@@ -1425,6 +1673,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lel lel"
+    },
+    {
+      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
+      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
+      "published_at": "2026-07-29T14:19:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "maplibre-gl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Baohua Chu"
     },
     {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
@@ -1722,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 930,
       "user": "VictorTaelin"
     },
     {
@@ -1737,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 925,
       "user": "MoonshotAI"
     },
     {
@@ -1767,7 +2028,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 475,
       "user": "gavamedia"
     },
     {
@@ -2338,6 +2599,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bryan"
+    },
+    {
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "published_at": "2026-07-30T22:37:06.000Z",
+      "description": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+      "tags": [
+        "Apps",
+        "TC",
+        "app store",
+        "Apple"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2413,21 +2689,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2595,6 +2856,38 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "published_at": "2026-07-30T22:41:41.000Z",
+      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "tags": [
+        "AI",
+        "TC",
+        "Amazon",
+        "Cloud Computing",
+        "earnings"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "2026-07-30T20:13:12.000Z",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "carecloud",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -2777,6 +3070,18 @@
       "user": "Gemini Team"
     },
     {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
+    },
+    {
       "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
       "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
       "published_at": "2023-02-28T03:21:53Z",
@@ -2811,18 +3116,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "_tk_"
-    },
-    {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
     },
     {
       "title": "Apple pulls data protection tool after UK government security row",
@@ -2925,6 +3218,38 @@
       "user": "benjimin"
     },
     {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "2026-07-30T20:13:12.000Z",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "carecloud",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "2026-07-30T18:57:58.000Z",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "tags": [
+        "AI",
+        "Security",
+        "Chrome",
+        "Google",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3013,21 +3338,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3138,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2395,
+      "stars": 2398,
       "user": "mshumer"
     },
     {
@@ -3153,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 672,
       "user": "xikhar"
     },
     {
@@ -3198,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 345,
       "user": "QwenAudio"
     },
     {
@@ -3228,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 930,
       "user": "VictorTaelin"
     },
     {
@@ -3243,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 925,
       "user": "MoonshotAI"
     },
     {
@@ -3273,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 475,
       "user": "gavamedia"
     },
     {
@@ -3288,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 379,
       "user": "perplexityai"
     },
     {
@@ -3318,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 131,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3378,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 486,
+      "stars": 488,
       "user": "talivia-group"
     },
     {
@@ -3393,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "NikolayS"
     },
     {
@@ -3408,7 +3718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "wassgha"
     },
     {
@@ -3423,7 +3733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13253748?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "letstri"
     },
     {
@@ -3453,7 +3763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "jchultarsky"
     },
     {
@@ -3468,7 +3778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "iamrohithrnair"
     },
     {
@@ -3530,6 +3840,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "2026-07-30T18:57:58.000Z",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "tags": [
+        "AI",
+        "Security",
+        "Chrome",
+        "Google",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
