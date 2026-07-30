@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "0xwilliamortiz"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 275,
       "user": "Noniv"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "mikiarlo3"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "MoonshotAI"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 903,
       "user": "VictorTaelin"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 408,
       "user": "gavamedia"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 258,
       "user": "perplexityai"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "deerwork-ai"
     },
     {
@@ -911,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "iamrohithrnair"
     },
     {
@@ -959,7 +959,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "or-tools",
@@ -968,6 +968,62 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+      "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "published_at": "2026-07-30T13:09:03.000Z",
+      "description": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
+      "tags": [
+        "Transportation",
+        "nhtsa",
+        "zoox"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
+      "published_at": "2026-07-30T13:00:00.000Z",
+      "description": "Running Mode will be available to Premium users on iOS in select countries",
+      "tags": [
+        "TC",
+        "Apps",
+        "Spotify",
+        "running"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "published_at": "2026-07-30T13:00:00.000Z",
+      "description": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "UK"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Dili raises $21.7 million to bring AI compliance to the infrastructure boom",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "published_at": "2026-07-30T13:00:00.000Z",
+      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "tags": [
+        "AI",
+        "infrastructure"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -1058,52 +1114,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-      "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-      "published_at": "2026-07-29T21:02:12.000Z",
-      "description": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Deezer",
-        "streaming",
-        "Winamp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "The Hugging Face break-in explained",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "published_at": "2026-07-29T19:44:49.000Z",
-      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "published_at": "2026-07-29T18:45:27.000Z",
-      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "Andon Labs",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1390,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2337,
       "user": "mshumer"
     },
     {
@@ -1405,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 641,
       "user": "xikhar"
     },
     {
@@ -1420,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "0xwilliamortiz"
     },
     {
@@ -1435,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 340,
       "user": "achimala"
     },
     {
@@ -1450,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 275,
       "user": "Noniv"
     },
     {
@@ -1465,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "0xwilliamortiz"
     },
     {
@@ -1480,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 457,
       "user": "talivia-group"
     },
     {
@@ -1495,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 423,
       "user": "NikolayS"
     },
     {
@@ -1510,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 378,
       "user": "wassgha"
     },
     {
@@ -1525,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "deerwork-ai"
     },
     {
@@ -1891,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "mikiarlo3"
     },
     {
@@ -1906,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "MoonshotAI"
     },
     {
@@ -1921,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 903,
       "user": "VictorTaelin"
     },
     {
@@ -1951,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 408,
       "user": "gavamedia"
     },
     {
@@ -1987,7 +1997,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "or-tools",
@@ -2011,6 +2021,18 @@
       "user": "Jim Garrison"
     },
     {
+      "title": "b64encode() / b64decode - unbalanced encoding",
+      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
+      "published_at": "2026-07-29T22:56:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "How do I get correct type hints in subclass?",
       "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
       "published_at": "2026-07-30T00:16:28.000Z",
@@ -2022,18 +2044,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "b64encode() / b64decode - unbalanced encoding",
-      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
-      "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "PPO Agent refuses to place orders in custom Gymnasium Inventory Environment (stuck in local minimum)",
@@ -2472,6 +2482,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Spotify adds a running mode to its app",
+      "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
+      "published_at": "2026-07-30T13:00:00.000Z",
+      "description": "Running Mode will be available to Premium users on iOS in select countries",
+      "tags": [
+        "TC",
+        "Apps",
+        "Spotify",
+        "running"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     }
   ],
   "Cloud": [
@@ -3043,6 +3068,20 @@
       "user": "benjimin"
     },
     {
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "published_at": "2026-07-30T13:00:00.000Z",
+      "description": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "UK"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
       "published_at": "2026-07-29T21:16:39.000Z",
@@ -3285,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2337,
       "user": "mshumer"
     },
     {
@@ -3300,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 641,
       "user": "xikhar"
     },
     {
@@ -3315,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 557,
       "user": "0xwilliamortiz"
     },
     {
@@ -3330,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 340,
       "user": "achimala"
     },
     {
@@ -3345,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 275,
       "user": "Noniv"
     },
     {
@@ -3360,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "mikiarlo3"
     },
     {
@@ -3375,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "MoonshotAI"
     },
     {
@@ -3390,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 903,
       "user": "VictorTaelin"
     },
     {
@@ -3420,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 408,
       "user": "gavamedia"
     },
     {
@@ -3435,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 258,
       "user": "perplexityai"
     },
     {
@@ -3450,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "codermyxiaoc"
     },
     {
@@ -3465,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 114,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3480,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "byJoey"
     },
     {
@@ -3510,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "0xwilliamortiz"
     },
     {
@@ -3525,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 457,
       "user": "talivia-group"
     },
     {
@@ -3540,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 423,
       "user": "NikolayS"
     },
     {
@@ -3555,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 378,
       "user": "wassgha"
     },
     {
@@ -3570,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "deerwork-ai"
     },
     {
@@ -3600,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 147,
       "user": "jchultarsky"
     },
     {
@@ -3630,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "iamrohithrnair"
     },
     {
@@ -3665,7 +3704,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "or-tools",

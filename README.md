@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--07--30-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-30 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-30 15:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac) | Dev.to |
 | 20 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
 
-<sub>Last fetched: Thu, 30 Jul 2026 13:31:34 CAT</sub>
+<sub>Last fetched: Thu, 30 Jul 2026 15:13:56 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What are closures and provide a practical example?**
+**1. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-**2. `Java` — What is the difference between abstract class and interface?**
+**2. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**3. `Python` — What is the difference between list and tuple in Python?**
+**3. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 82 | 44.6% | `████████████████████` |
+| **AI** | 83 | 45.1% | `████████████████████` |
 | **Tools** | 43 | 23.4% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 38 | 20.7% | `█████████░░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `███████░░░░░░░░░░░░░` |
-| **Security** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 24 | 13.0% | `██████░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 2 | 1.1% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,31 +194,33 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.7%
+Go              ██████████████████████████████ 29.0%
 JavaScript      █████████████████████████ 24.5%
 Java            █████████████████████ 20.6%
 Python          ████████████████████ 19.4%
 Rust            ████ 3.9%
 Ruby            █ 1.3%
 Kotlin          █ 0.6%
+Swift           █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 46
+    "Go" : 45
     "JavaScript" : 38
     "Java" : 32
     "Python" : 30
     "Rust" : 6
     "Ruby" : 2
     "Kotlin" : 1
+    "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-19-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-19-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 30 Jul 2026 11:31:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 30 Jul 2026 13:13:56 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
