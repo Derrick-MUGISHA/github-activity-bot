@@ -46,6 +46,21 @@
       "user": "Thomas Bnt"
     },
     {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
       "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
       "published_at": "2026-07-30T06:19:47Z",
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 323,
       "user": "Noniv"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 987,
       "user": "mikiarlo3"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 920,
       "user": "MoonshotAI"
     },
     {
@@ -851,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "gavamedia"
     },
     {
@@ -866,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 358,
       "user": "perplexityai"
     },
     {
@@ -881,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 109,
       "user": "grafana"
     },
     {
@@ -911,7 +926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "steelbrain"
     },
     {
@@ -955,19 +970,6 @@
       "user": "zanlib"
     },
     {
-      "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
-      "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-      "published_at": "2026-07-30T09:36:05.631-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ruby",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
@@ -996,6 +998,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "published_at": "2026-07-30T19:44:16.000Z",
+      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "tags": [
+        "AI",
+        "AI wearables",
+        "friend"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "2026-07-30T18:57:58.000Z",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "tags": [
+        "AI",
+        "Security",
+        "Chrome",
+        "Google",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
@@ -1031,12 +1063,11 @@
       "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
       "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
       "published_at": "2026-07-30T17:50:11.000Z",
-      "description": "Add another member to the fast-and-furious AI unicorn club: Simile",
+      "description": "Add another member to the fast-and-furious AI unicorn club: Simile.",
       "tags": [
         "Fundraising",
         "Startups",
-        "TC",
-        "AI startup",
+        "In Brief",
         "synthetic data"
       ],
       "cover_image": null,
@@ -1044,7 +1075,7 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Spotify launches &#8216;User notes&#8217; to let users add memories to songs",
+      "title": "Spotify launches &#8216;User Notes&#8217; to let users add memories to songs",
       "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
       "published_at": "2026-07-30T17:41:25.000Z",
       "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
@@ -1058,7 +1089,7 @@
       "user": "Aisha Malik"
     },
     {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "published_at": "2026-07-30T16:09:42.000Z",
       "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
@@ -1066,7 +1097,7 @@
         "AI",
         "Security",
         "Startups",
-        "AI agents",
+        "Okta",
         "Exclusive"
       ],
       "cover_image": null,
@@ -1077,47 +1108,16 @@
       "title": "Meta says AI is making it easier to build new apps — and more are coming",
       "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
       "published_at": "2026-07-30T15:41:16.000Z",
-      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
       "tags": [
         "AI",
         "Apps",
         "Social",
-        "Meta",
-        "social media"
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-      "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-      "published_at": "2026-07-30T15:27:08.000Z",
-      "description": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
-      "tags": [
-        "Media & Entertainment",
-        "Netflix",
-        "streaming service"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "published_at": "2026-07-30T15:19:15.000Z",
-      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "tags": [
-        "AI",
-        "anyscale",
-        "data center infrastructure",
-        "Mergers and Acquisitions",
-        "nscale"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1417,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2379,
+      "stars": 2382,
       "user": "mshumer"
     },
     {
@@ -1432,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 667,
       "user": "xikhar"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "achimala"
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 323,
       "user": "Noniv"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 109,
       "user": "grafana"
     },
     {
@@ -1522,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 484,
       "user": "talivia-group"
     },
     {
@@ -1537,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "NikolayS"
     },
     {
@@ -1552,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "wassgha"
     },
     {
@@ -1615,7 +1615,7 @@
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
       "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
       "published_at": "2026-07-30T13:18:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "android",
@@ -1644,7 +1644,7 @@
       "title": "Best way to store a JS accessible and amateur user editable spreadsheet",
       "url": "https://stackoverflow.com/questions/79989105/best-way-to-store-a-js-accessible-and-amateur-user-editable-spreadsheet",
       "published_at": "2026-07-30T07:18:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "fetch-api",
@@ -1978,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 987,
       "user": "mikiarlo3"
     },
     {
@@ -2008,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 920,
       "user": "MoonshotAI"
     },
     {
@@ -2038,8 +2038,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "gavamedia"
+    },
+    {
+      "title": "ConnectionResetError: [WinError 10054] in asyncio Proactor event loop on Windows (Python 3.13) without explicit socket handling",
+      "url": "https://stackoverflow.com/questions/79989280/connectionreseterror-winerror-10054-in-asyncio-proactor-event-loop-on-windows",
+      "published_at": "2026-07-30T18:22:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "windows",
+        "socket.io",
+        "webrtc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zain Ul Abidin"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -2058,20 +2074,6 @@
       "user": "thinksolid"
     },
     {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
-    },
-    {
       "title": "Copy to stdout with CSV header always hangs",
       "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
       "published_at": "2026-07-30T01:12:05.000Z",
@@ -2084,6 +2086,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jim Garrison"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
@@ -2169,22 +2185,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Foster"
-    },
-    {
-      "title": "How do you stitch together 3 meshes in Python?",
-      "url": "https://stackoverflow.com/questions/79987997/how-do-you-stitch-together-3-meshes-in-python",
-      "published_at": "2026-07-29T20:47:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "mesh",
-        "shutil",
-        "pyvista",
-        "pymeshlab"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Magnus"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2456,14 +2456,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 109,
       "user": "grafana"
     },
     {
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
       "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
       "published_at": "2026-07-30T13:18:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "android",
@@ -2599,7 +2599,7 @@
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
       "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
       "published_at": "2026-07-30T13:18:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "android",
@@ -2612,6 +2612,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
@@ -2838,22 +2853,7 @@
       "user": "Evan Lin"
     },
     {
-      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
-      "published_at": "2026-07-11T21:21:38Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "mcps",
-        "tpu",
-        "31b"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "published_at": "2026-07-30T16:09:42.000Z",
       "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
@@ -2861,28 +2861,12 @@
         "AI",
         "Security",
         "Startups",
-        "AI agents",
+        "Okta",
         "Exclusive"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "published_at": "2026-07-30T15:19:15.000Z",
-      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "tags": [
-        "AI",
-        "anyscale",
-        "data center infrastructure",
-        "Mergers and Acquisitions",
-        "nscale"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -3197,19 +3181,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)",
-      "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-      "published_at": "2026-07-30T09:36:05.631-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ruby",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
       "title": "How can a single-page web app let whitelisted IPs bypass OIDC login?",
       "url": "https://stackoverflow.com/questions/79989064/how-can-a-single-page-web-app-let-whitelisted-ips-bypass-oidc-login",
       "published_at": "2026-07-30T05:02:59.000Z",
@@ -3226,7 +3197,23 @@
       "user": "benjimin"
     },
     {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "2026-07-30T18:57:58.000Z",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "tags": [
+        "AI",
+        "Security",
+        "Chrome",
+        "Google",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "published_at": "2026-07-30T16:09:42.000Z",
       "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
@@ -3234,7 +3221,7 @@
         "AI",
         "Security",
         "Startups",
-        "AI agents",
+        "Okta",
         "Exclusive"
       ],
       "cover_image": null,
@@ -3485,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2379,
+      "stars": 2382,
       "user": "mshumer"
     },
     {
@@ -3500,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 667,
       "user": "xikhar"
     },
     {
@@ -3530,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "achimala"
     },
     {
@@ -3545,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 323,
       "user": "Noniv"
     },
     {
@@ -3560,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 987,
       "user": "mikiarlo3"
     },
     {
@@ -3590,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 920,
       "user": "MoonshotAI"
     },
     {
@@ -3620,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 456,
       "user": "gavamedia"
     },
     {
@@ -3635,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 358,
       "user": "perplexityai"
     },
     {
@@ -3680,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 109,
       "user": "grafana"
     },
     {
@@ -3725,7 +3712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 484,
       "user": "talivia-group"
     },
     {
@@ -3740,7 +3727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 434,
       "user": "NikolayS"
     },
     {
@@ -3755,7 +3742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "wassgha"
     },
     {
@@ -3785,7 +3772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "steelbrain"
     },
     {
@@ -3877,6 +3864,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published_at": "2026-07-30T18:57:58.000Z",
+      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "tags": [
+        "AI",
+        "Security",
+        "Chrome",
+        "Google",
+        "LLMs"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
