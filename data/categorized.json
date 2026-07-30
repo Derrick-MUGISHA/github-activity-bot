@@ -582,126 +582,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "published_at": "2026-03-11T19:29:29Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "usefulposter"
-    },
-    {
-      "title": "Airfoil",
-      "url": "https://ciechanow.ski/airfoil/",
-      "published_at": "2024-02-27T16:32:49Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "todsacerdoti"
-    },
-    {
-      "title": "Open source AI is the path forward",
-      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
-      "published_at": "2024-07-23T15:08:41Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "atgctg"
-    },
-    {
-      "title": "My AI skeptic friends are all nuts",
-      "url": "https://fly.io/blog/youre-all-nuts/",
-      "published_at": "2025-06-02T21:09:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "tabletcorry"
-    },
-    {
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "published_at": "2026-02-12T16:23:24Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "scottshambaugh"
-    },
-    {
-      "title": "Gemini AI",
-      "url": "https://deepmind.google/technologies/gemini/",
-      "published_at": "2023-12-06T15:03:47Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "dmotz"
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "published_at": "2026-05-15T20:26:47Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "reasonableklout"
-    },
-    {
-      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-      "published_at": "2026-02-24T12:16:45Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "Qem"
-    },
-    {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "published_at": "2026-05-27T10:43:25Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "theorchid"
-    },
-    {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
-    },
-    {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
       "url": "https://www.armaansahni.com/game/",
       "published_at": "2024-12-03T22:08:16Z",
@@ -724,6 +604,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "indigodaddy"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
     },
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -761,7 +653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -776,7 +668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 338,
       "user": "QwenAudio"
     },
     {
@@ -806,7 +698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "VictorTaelin"
     },
     {
@@ -821,7 +713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 924,
       "user": "MoonshotAI"
     },
     {
@@ -836,7 +728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 470,
       "user": "gavamedia"
     },
     {
@@ -851,7 +743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 374,
       "user": "perplexityai"
     },
     {
@@ -866,23 +758,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "grafana"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 357,
-      "user": "deerwork-ai"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -942,22 +819,10 @@
       "user": "nemin"
     },
     {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-      "published_at": "2026-07-29T05:42:50.240-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "zanlib"
-    },
-    {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "visual-studio-code",
@@ -982,144 +847,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "published_at": "2026-07-30T20:26:38.000Z",
-      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dod",
-        "supply chain risk"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12.000Z",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "carecloud",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "published_at": "2026-07-30T19:44:16.000Z",
-      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "tags": [
-        "AI",
-        "AI wearables",
-        "friend"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published_at": "2026-07-30T18:57:58.000Z",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "tags": [
-        "AI",
-        "Security",
-        "Chrome",
-        "Google",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "published_at": "2026-07-30T18:38:12.000Z",
-      "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-      "tags": [
-        "Climate",
-        "Transportation",
-        "air taxi",
-        "EV charging",
-        "eVTOL"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "published_at": "2026-07-30T18:05:21.000Z",
-      "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "tags": [
-        "AI",
-        "Social",
-        "LinkedIn",
-        "ai slop"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "published_at": "2026-07-30T17:50:11.000Z",
-      "description": "Add another member to the fast-and-furious AI unicorn club: Simile.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "In Brief",
-        "synthetic data"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Spotify launches &#8216;User Notes&#8217; to let users add memories to songs",
-      "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
-      "published_at": "2026-07-30T17:41:25.000Z",
-      "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "published_at": "2026-07-30T16:09:42.000Z",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "Okta",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1419,7 +1146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2392,
+      "stars": 2395,
       "user": "mshumer"
     },
     {
@@ -1434,7 +1161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "xikhar"
     },
     {
@@ -1449,7 +1176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -1464,7 +1191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 353,
       "user": "achimala"
     },
     {
@@ -1479,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 338,
       "user": "QwenAudio"
     },
     {
@@ -1494,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "grafana"
     },
     {
@@ -1509,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 562,
       "user": "0xwilliamortiz"
     },
     {
@@ -1524,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "talivia-group"
     },
     {
@@ -1554,23 +1281,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "wassgha"
     },
     {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "title": "letstri/druk - GitHub Repository",
+      "url": "https://github.com/letstri/druk",
+      "published_at": "2026-07-24T14:23:15Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13253748?v=4",
       "source": "GitHub",
-      "stars": 357,
-      "user": "deerwork-ai"
+      "stars": 363,
+      "user": "letstri"
     },
     {
       "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
@@ -1584,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "Quantova"
     },
     {
@@ -1673,6 +1400,19 @@
       "user": "benjimin"
     },
     {
+      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
+      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
+      "published_at": "2026-07-29T14:19:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "maplibre-gl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Baohua Chu"
+    },
+    {
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
@@ -1712,19 +1452,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
-      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
-      "published_at": "2026-07-29T14:19:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "maplibre-gl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baohua Chu"
     },
     {
       "title": "Can Google Analytics plugin in React / Capacitor accept boolean event parameters, or should they be converted to strings or numbers?",
@@ -1995,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "VictorTaelin"
     },
     {
@@ -2010,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 924,
       "user": "MoonshotAI"
     },
     {
@@ -2025,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "mikehasa"
     },
     {
@@ -2040,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 470,
       "user": "gavamedia"
     },
     {
@@ -2063,7 +1790,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "visual-studio-code",
@@ -2104,6 +1831,20 @@
       "user": "Jim Garrison"
     },
     {
+      "title": "How do I get correct type hints in subclass?",
+      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
+      "published_at": "2026-07-30T00:16:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "type-hinting"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
       "url": "https://stackoverflow.com/questions/79989086/yaml-scanner-scannererror-mapping-values-are-not-allowed-here-error-when-tryi",
       "published_at": "2026-07-30T06:25:54.000Z",
@@ -2117,20 +1858,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bussller"
-    },
-    {
-      "title": "How do I get correct type hints in subclass?",
-      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
-      "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing",
-        "type-hinting"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
@@ -2458,7 +2185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "grafana"
     },
     {
@@ -2870,38 +2597,6 @@
       "user": "xbill"
     },
     {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12.000Z",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "carecloud",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "published_at": "2026-07-30T16:09:42.000Z",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "Okta",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -3082,18 +2777,6 @@
       "user": "Gemini Team"
     },
     {
-      "title": "Bypassing airport security via SQL injection",
-      "url": "https://ian.sh/tsa",
-      "published_at": "2024-08-29T15:53:08Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "iancarroll"
-    },
-    {
       "title": "LastPass says DevOps engineer’s hacked computer led to security breach in 2022",
       "url": "https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/",
       "published_at": "2023-02-28T03:21:53Z",
@@ -3128,6 +2811,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "_tk_"
+    },
+    {
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "published_at": "2024-08-29T15:53:08Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "iancarroll"
     },
     {
       "title": "Apple pulls data protection tool after UK government security row",
@@ -3228,54 +2923,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "benjimin"
-    },
-    {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12.000Z",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "carecloud",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published_at": "2026-07-30T18:57:58.000Z",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "tags": [
-        "AI",
-        "Security",
-        "Chrome",
-        "Google",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "published_at": "2026-07-30T16:09:42.000Z",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "Okta",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -3491,7 +3138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2392,
+      "stars": 2395,
       "user": "mshumer"
     },
     {
@@ -3506,7 +3153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 669,
       "user": "xikhar"
     },
     {
@@ -3521,7 +3168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -3536,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 353,
       "user": "achimala"
     },
     {
@@ -3551,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 338,
       "user": "QwenAudio"
     },
     {
@@ -3581,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "VictorTaelin"
     },
     {
@@ -3596,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 924,
       "user": "MoonshotAI"
     },
     {
@@ -3611,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "mikehasa"
     },
     {
@@ -3626,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 470,
       "user": "gavamedia"
     },
     {
@@ -3641,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 374,
       "user": "perplexityai"
     },
     {
@@ -3686,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "grafana"
     },
     {
@@ -3701,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "byJoey"
     },
     {
@@ -3716,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 562,
       "user": "0xwilliamortiz"
     },
     {
@@ -3731,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 486,
       "user": "talivia-group"
     },
     {
@@ -3761,23 +3408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "wassgha"
     },
     {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "title": "letstri/druk - GitHub Repository",
+      "url": "https://github.com/letstri/druk",
+      "published_at": "2026-07-24T14:23:15Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13253748?v=4",
       "source": "GitHub",
-      "stars": 357,
-      "user": "deerwork-ai"
+      "stars": 363,
+      "user": "letstri"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3851,14 +3498,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "Quantova"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "visual-studio-code",
@@ -3883,37 +3530,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published_at": "2026-07-30T18:57:58.000Z",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "tags": [
-        "AI",
-        "Security",
-        "Chrome",
-        "Google",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated &#8216;slop&#8217;",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "published_at": "2026-07-30T18:05:21.000Z",
-      "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "tags": [
-        "AI",
-        "Social",
-        "LinkedIn",
-        "ai slop"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
