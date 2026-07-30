@@ -16,6 +16,36 @@
       "user": "Thomas Bnt"
     },
     {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe3xzsljgti1cy5e7uam.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -750,19 +780,19 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "published_at": "2026-07-27T05:04:26Z",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 242,
-      "user": "QwenAudio"
+      "stars": 257,
+      "user": "Noniv"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -776,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 982,
       "user": "mikiarlo3"
     },
     {
@@ -791,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 901,
       "user": "MoonshotAI"
     },
     {
@@ -806,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 898,
       "user": "VictorTaelin"
     },
     {
@@ -821,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 400,
       "user": "gavamedia"
     },
     {
@@ -836,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 225,
       "user": "perplexityai"
     },
     {
@@ -851,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "deerwork-ai"
     },
     {
@@ -881,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "iamrohithrnair"
     },
     {
@@ -929,7 +959,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "or-tools",
@@ -1360,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2309,
+      "stars": 2327,
       "user": "mshumer"
     },
     {
@@ -1375,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 633,
       "user": "xikhar"
     },
     {
@@ -1405,23 +1435,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 337,
       "user": "achimala"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "published_at": "2026-07-27T05:04:26Z",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 242,
-      "user": "QwenAudio"
+      "stars": 257,
+      "user": "Noniv"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -1435,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "0xwilliamortiz"
     },
     {
@@ -1450,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 451,
       "user": "talivia-group"
     },
     {
@@ -1465,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 416,
       "user": "NikolayS"
     },
     {
@@ -1480,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 372,
       "user": "wassgha"
     },
     {
@@ -1495,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "deerwork-ai"
     },
     {
@@ -1512,13 +1542,25 @@
       "user": "nick4"
     },
     {
+      "title": "Why is useContext(CourseContext) returning undefined in App.jsx even though App is wrapped with CourseContextProvider in index.js?",
+      "url": "https://stackoverflow.com/questions/79989150/why-is-usecontextcoursecontext-returning-undefined-in-app-jsx-even-though-app",
+      "published_at": "2026-07-30T09:26:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-context"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Falak Sher"
+    },
+    {
       "title": "Best way to store a JS accessible and amateur user editable spreadsheet",
       "url": "https://stackoverflow.com/questions/79989105/best-way-to-store-a-js-accessible-and-amateur-user-editable-spreadsheet",
       "published_at": "2026-07-30T07:18:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "advice",
-        "best-practices",
         "javascript",
         "fetch-api",
         "xlsx"
@@ -1642,21 +1684,6 @@
       "user": "JaeKwang Lee RTB"
     },
     {
-      "title": "Canvas Benchmark vs. Browser Profiler",
-      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
-      "published_at": "2026-07-27T05:57:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "canvas",
-        "html5-canvas",
-        "profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dandeto"
-    },
-    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -1699,21 +1726,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1879,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 982,
       "user": "mikiarlo3"
     },
     {
@@ -1894,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 901,
       "user": "MoonshotAI"
     },
     {
@@ -1909,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 898,
       "user": "VictorTaelin"
     },
     {
@@ -1939,22 +1951,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 400,
       "user": "gavamedia"
-    },
-    {
-      "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
-      "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
-      "published_at": "2026-07-30T07:50:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "playwright",
-        "reddit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sefat khan"
     },
     {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
@@ -1972,10 +1970,24 @@
       "user": "Bussller"
     },
     {
+      "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
+      "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
+      "published_at": "2026-07-30T07:50:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "playwright",
+        "reddit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "sefat khan"
+    },
+    {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "or-tools",
@@ -2116,6 +2128,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe3xzsljgti1cy5e7uam.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
@@ -2355,21 +2382,6 @@
       "user": "lel lel"
     },
     {
-      "title": "Canvas Benchmark vs. Browser Profiler",
-      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
-      "published_at": "2026-07-27T05:57:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "canvas",
-        "html5-canvas",
-        "profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dandeto"
-    },
-    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -2584,21 +2596,6 @@
       "user": "xbill"
     },
     {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2776,6 +2773,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
@@ -3273,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2309,
+      "stars": 2327,
       "user": "mshumer"
     },
     {
@@ -3288,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 633,
       "user": "xikhar"
     },
     {
@@ -3318,23 +3330,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 337,
       "user": "achimala"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "published_at": "2026-07-27T05:04:26Z",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 242,
-      "user": "QwenAudio"
+      "stars": 257,
+      "user": "Noniv"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -3348,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 982,
       "user": "mikiarlo3"
     },
     {
@@ -3363,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 896,
+      "stars": 901,
       "user": "MoonshotAI"
     },
     {
@@ -3378,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 898,
       "user": "VictorTaelin"
     },
     {
@@ -3408,23 +3420,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 400,
       "user": "gavamedia"
-    },
-    {
-      "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
-      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
-      "published_at": "2026-07-30T03:16:09Z",
-      "description": "sub2api-guardian",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
-      "source": "GitHub",
-      "stars": 196,
-      "user": "codermyxiaoc"
     },
     {
       "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
@@ -3438,8 +3435,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 225,
       "user": "perplexityai"
+    },
+    {
+      "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
+      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
+      "published_at": "2026-07-30T03:16:09Z",
+      "description": "sub2api-guardian",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "codermyxiaoc"
     },
     {
       "title": "rogerbush007-a11y/DJOneHub-mac-enhanced - GitHub Repository",
@@ -3453,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 105,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3468,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "byJoey"
     },
     {
@@ -3498,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "0xwilliamortiz"
     },
     {
@@ -3513,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 451,
       "user": "talivia-group"
     },
     {
@@ -3528,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 416,
       "user": "NikolayS"
     },
     {
@@ -3543,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 372,
       "user": "wassgha"
     },
     {
@@ -3558,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "deerwork-ai"
     },
     {
@@ -3618,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "iamrohithrnair"
     },
     {
@@ -3653,7 +3665,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "or-tools",
