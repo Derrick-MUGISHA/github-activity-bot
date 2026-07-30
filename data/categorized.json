@@ -61,36 +61,6 @@
       "user": "xbill"
     },
     {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
       "published_at": "2026-07-30T06:55:16Z",
@@ -149,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
       "source": "Dev.to",
       "user": "DanielleWashington"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
@@ -373,6 +358,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -386,21 +386,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -446,21 +431,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants",
-      "url": "https://dev.to/gde/building-a-multi-agent-finops-solution-with-google-adk-levering-tools-mcp-and-google-managed-lf",
-      "published_at": "2026-07-26T06:10:51Z",
-      "description": "Welcome Back!   We’re continuing our FinSavant series. In the previous two parts...",
-      "tags": [
-        "finops",
-        "bigquery",
-        "agenticai",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfqynr47yijpidc9s351.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -795,19 +765,19 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "published_at": "2026-07-27T05:04:26Z",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 323,
-      "user": "Noniv"
+      "stars": 329,
+      "user": "QwenAudio"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -836,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 926,
       "user": "VictorTaelin"
     },
     {
@@ -851,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "MoonshotAI"
     },
     {
@@ -866,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "gavamedia"
     },
     {
@@ -881,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 368,
       "user": "perplexityai"
     },
     {
@@ -896,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 116,
       "user": "grafana"
     },
     {
@@ -941,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "iamrohithrnair"
     },
     {
@@ -956,6 +926,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "published_at": "2026-07-30T12:47:22.337-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "c",
+        "c++",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nemin"
     },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
@@ -1000,6 +984,38 @@
       "user": "Chip Uni"
     },
     {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "published_at": "2026-07-30T20:26:38.000Z",
+      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dod",
+        "supply chain risk"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "2026-07-30T20:13:12.000Z",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "carecloud",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
       "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
       "published_at": "2026-07-30T19:44:16.000Z",
@@ -1037,6 +1053,7 @@
       "tags": [
         "Climate",
         "Transportation",
+        "air taxi",
         "EV charging",
         "eVTOL"
       ],
@@ -1052,8 +1069,8 @@
       "tags": [
         "AI",
         "Social",
-        "TC",
-        "LinkedIn"
+        "LinkedIn",
+        "ai slop"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1103,21 +1120,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "published_at": "2026-07-30T15:41:16.000Z",
-      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1417,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2382,
+      "stars": 2392,
       "user": "mshumer"
     },
     {
@@ -1462,23 +1464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "achimala"
     },
     {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "published_at": "2026-07-27T05:04:26Z",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 323,
-      "user": "Noniv"
+      "stars": 329,
+      "user": "QwenAudio"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1492,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 116,
       "user": "grafana"
     },
     {
@@ -1537,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "NikolayS"
     },
     {
@@ -1552,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 393,
       "user": "wassgha"
     },
     {
@@ -1586,19 +1588,6 @@
       "user": "Quantova"
     },
     {
-      "title": "What side projects have you enjoyed the most?",
-      "url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-      "published_at": "2026-07-29T20:40:31.976-05:00",
-      "description": "In the spirit of https://blog.jsbarretto.com/post/software-is-joy, what side projects have you enjoyed working on the most?",
-      "tags": [
-        "ask",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nick4"
-    },
-    {
       "title": "Building Progressively Enhanced Forms Using htmx",
       "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
       "published_at": "2026-07-30T07:17:01.492-05:00",
@@ -1610,6 +1599,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "raffomania"
+    },
+    {
+      "title": "What side projects have you enjoyed the most?",
+      "url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
+      "published_at": "2026-07-29T20:40:31.976-05:00",
+      "description": "In the spirit of https://blog.jsbarretto.com/post/software-is-joy, what side projects have you enjoyed working on the most?",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nick4"
     },
     {
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
@@ -1685,6 +1687,20 @@
       "user": "lel lel"
     },
     {
+      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
+      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
+      "published_at": "2026-07-28T15:26:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Heba Allah Hashim"
+    },
+    {
       "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
       "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
       "published_at": "2026-07-28T17:53:34.000Z",
@@ -1725,20 +1741,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Michal"
-    },
-    {
-      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
-      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
-      "published_at": "2026-07-28T15:26:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Heba Allah Hashim"
     },
     {
       "title": "Canvas Benchmark vs. Browser Profiler",
@@ -1993,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 926,
       "user": "VictorTaelin"
     },
     {
@@ -2008,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "MoonshotAI"
     },
     {
@@ -2038,7 +2040,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "gavamedia"
     },
     {
@@ -2074,20 +2076,6 @@
       "user": "thinksolid"
     },
     {
-      "title": "Copy to stdout with CSV header always hangs",
-      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
-      "published_at": "2026-07-30T01:12:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "psycopg3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jim Garrison"
-    },
-    {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
@@ -2100,6 +2088,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Copy to stdout with CSV header always hangs",
+      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
+      "published_at": "2026-07-30T01:12:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "psycopg3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jim Garrison"
     },
     {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
@@ -2148,7 +2150,7 @@
       "title": "b64encode() / b64decode - unbalanced encoding",
       "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
       "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python"
       ],
@@ -2456,7 +2458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 116,
       "user": "grafana"
     },
     {
@@ -2521,21 +2523,6 @@
   ],
   "Mobile": [
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
       "published_at": "2026-07-27T22:37:30Z",
@@ -2594,6 +2581,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
@@ -2851,6 +2853,37 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
+      "published_at": "2026-07-11T21:21:38Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "gemma4",
+        "mcps",
+        "tpu",
+        "31b"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "2026-07-30T20:13:12.000Z",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "carecloud",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Okta buys AI security startup Permiso — source says for about $200M",
@@ -3197,6 +3230,22 @@
       "user": "benjimin"
     },
     {
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "published_at": "2026-07-30T20:13:12.000Z",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "carecloud",
+        "cyberattack",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
       "published_at": "2026-07-30T18:57:58.000Z",
@@ -3351,21 +3400,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
-    },
-    {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
       "published_at": "2026-07-09T14:44:40Z",
@@ -3379,21 +3413,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "Building a Multi-Agent FinOps Solution with Google ADK, Levering Tools, MCP and Google-Managed Assistants",
-      "url": "https://dev.to/gde/building-a-multi-agent-finops-solution-with-google-adk-levering-tools-mcp-and-google-managed-lf",
-      "published_at": "2026-07-26T06:10:51Z",
-      "description": "Welcome Back!   We’re continuing our FinSavant series. In the previous two parts...",
-      "tags": [
-        "finops",
-        "bigquery",
-        "agenticai",
-        "adk"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfqynr47yijpidc9s351.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -3472,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2382,
+      "stars": 2392,
       "user": "mshumer"
     },
     {
@@ -3517,23 +3536,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "achimala"
     },
     {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "published_at": "2026-07-27T05:04:26Z",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 323,
-      "user": "Noniv"
+      "stars": 329,
+      "user": "QwenAudio"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -3562,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 926,
       "user": "VictorTaelin"
     },
     {
@@ -3577,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 921,
       "user": "MoonshotAI"
     },
     {
@@ -3607,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 459,
       "user": "gavamedia"
     },
     {
@@ -3622,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 368,
       "user": "perplexityai"
     },
     {
@@ -3652,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3667,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 116,
       "user": "grafana"
     },
     {
@@ -3727,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "NikolayS"
     },
     {
@@ -3742,7 +3761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 393,
       "user": "wassgha"
     },
     {
@@ -3787,7 +3806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "jchultarsky"
     },
     {
@@ -3802,7 +3821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "iamrohithrnair"
     },
     {
@@ -3889,8 +3908,8 @@
       "tags": [
         "AI",
         "Social",
-        "TC",
-        "LinkedIn"
+        "LinkedIn",
+        "ai slop"
       ],
       "cover_image": null,
       "source": "TechCrunch",
