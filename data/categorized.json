@@ -16,21 +16,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
-      "published_at": "2026-07-30T06:55:16Z",
-      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "tags": [
-        "buildwithai",
-        "antigravity",
-        "docker",
-        "orquestator"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe3xzsljgti1cy5e7uam.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
       "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
       "published_at": "2026-07-30T06:19:47Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe3xzsljgti1cy5e7uam.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -493,21 +493,6 @@
       "user": "xbill"
     },
     {
-      "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
-      "url": "https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7",
-      "published_at": "2026-07-25T11:47:44Z",
-      "description": "Introducing Gubernator: The Goldilocks Container Orchestrator   Gubernator combines the...",
-      "tags": [
-        "docker",
-        "devops",
-        "opentelemetry",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7amtg1t470o5rnh4ur9.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
       "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
       "published_at": "2026-07-21T00:10:45Z",
@@ -580,21 +565,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "tags": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -776,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "0xwilliamortiz"
     },
     {
@@ -791,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 299,
       "user": "Noniv"
     },
     {
@@ -806,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 985,
       "user": "mikiarlo3"
     },
     {
@@ -821,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 909,
       "user": "MoonshotAI"
     },
     {
@@ -836,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "VictorTaelin"
     },
     {
@@ -851,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "gavamedia"
     },
     {
@@ -866,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 298,
       "user": "perplexityai"
     },
     {
@@ -881,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "deerwork-ai"
     },
     {
@@ -896,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "steelbrain"
     },
     {
@@ -941,21 +911,6 @@
       "user": "icy"
     },
     {
-      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
-      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
-      "published_at": "2026-07-27T15:06:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-platform",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaeKwang Lee RTB"
-    },
-    {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
@@ -968,6 +923,114 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+      "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+      "published_at": "2026-07-30T15:27:08.000Z",
+      "description": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
+      "tags": [
+        "Media & Entertainment",
+        "Netflix",
+        "streaming service"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "published_at": "2026-07-30T15:19:15.000Z",
+      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "tags": [
+        "AI",
+        "anyscale",
+        "data center infrastructure",
+        "nscale"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "published_at": "2026-07-30T15:17:39.000Z",
+      "description": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+      "tags": [
+        "Climate",
+        "Commonwealth Fusion Systems",
+        "fusion power",
+        "nuclear fusion"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "published_at": "2026-07-30T15:00:00.000Z",
+      "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "tags": [
+        "Enterprise",
+        "AI",
+        "Exclusive",
+        "AI talent wars",
+        "Forward deployed engineers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast — but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "published_at": "2026-07-30T14:48:32.000Z",
+      "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "tags": [
+        "AI",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "published_at": "2026-07-30T14:00:00.000Z",
+      "description": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Amazon",
+        "TechCrunch Disrupt",
+        "Replit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "FTC sues Hims &#038; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap",
+      "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "published_at": "2026-07-30T13:30:52.000Z",
+      "description": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "cybersecurity",
+        "Federal Trade Commission",
+        "Hims & Hers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
@@ -1011,109 +1074,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Dili raises $21.7 million to bring AI compliance to the infrastructure boom",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "published_at": "2026-07-30T13:00:00.000Z",
-      "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "tags": [
-        "AI",
-        "infrastructure"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "published_at": "2026-07-30T00:21:06.000Z",
-      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "published_at": "2026-07-29T23:00:11.000Z",
-      "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "tags": [
-        "AI",
-        "AI agents",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "published_at": "2026-07-29T22:46:03.000Z",
-      "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-      "tags": [
-        "AI",
-        "TC",
-        "Microsoft",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "published_at": "2026-07-29T22:23:12.000Z",
-      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Social",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-07-29T21:16:39.000Z",
-      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "tags": [
-        "AI",
-        "Databricks",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "published_at": "2026-07-29T21:07:48.000Z",
-      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "tags": [
-        "AI",
-        "TC",
-        "In Brief",
-        "OpenAI",
-        "Thinking Machines"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1209,21 +1169,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
       "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
       "published_at": "2026-07-28T05:12:29Z",
@@ -1237,6 +1182,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+      "published_at": "2026-07-28T10:50:54Z",
+      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "tags": [
+        "react",
+        "webdev",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -1400,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2337,
+      "stars": 2356,
       "user": "mshumer"
     },
     {
@@ -1415,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 653,
       "user": "xikhar"
     },
     {
@@ -1430,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "0xwilliamortiz"
     },
     {
@@ -1445,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "achimala"
     },
     {
@@ -1460,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 299,
       "user": "Noniv"
     },
     {
@@ -1490,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 468,
       "user": "talivia-group"
     },
     {
@@ -1505,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 430,
       "user": "NikolayS"
     },
     {
@@ -1520,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 384,
       "user": "wassgha"
     },
     {
@@ -1535,8 +1495,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "deerwork-ai"
+    },
+    {
+      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "url": "https://github.com/Quantova/quantova-cli",
+      "published_at": "2026-07-27T13:47:34Z",
+      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
+      "source": "GitHub",
+      "stars": 56,
+      "user": "Quantova"
     },
     {
       "title": "What side projects have you enjoyed the most?",
@@ -1552,10 +1527,38 @@
       "user": "nick4"
     },
     {
+      "title": "Building Progressively Enhanced Forms Using htmx",
+      "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+      "published_at": "2026-07-30T07:17:01.492-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "raffomania"
+    },
+    {
+      "title": "How can I open my game on the user&#180;s mobile device from my website?",
+      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
+      "published_at": "2026-07-30T13:18:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "android",
+        "html",
+        "ios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bryan"
+    },
+    {
       "title": "Why is useContext(CourseContext) returning undefined in App.jsx even though App is wrapped with CourseContextProvider in index.js?",
       "url": "https://stackoverflow.com/questions/79989150/why-is-usecontextcoursecontext-returning-undefined-in-app-jsx-even-though-app",
       "published_at": "2026-07-30T09:26:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1653,6 +1656,21 @@
       "user": "Heba Allah Hashim"
     },
     {
+      "title": "Canvas Benchmark vs. Browser Profiler",
+      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
+      "published_at": "2026-07-27T05:57:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "canvas",
+        "html5-canvas",
+        "profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dandeto"
+    },
+    {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
@@ -1664,34 +1682,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdelali Fihri"
-    },
-    {
-      "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
-      "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
-      "published_at": "2026-07-28T17:53:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
-      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
-      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
-      "published_at": "2026-07-27T15:06:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-platform",
-        "google-cloud-firestore"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaeKwang Lee RTB"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1736,6 +1726,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
+      "published_at": "2026-07-15T13:04:39Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "python",
+        "tpu",
+        "antigravitycli",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1901,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 985,
       "user": "mikiarlo3"
     },
     {
@@ -1916,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 909,
       "user": "MoonshotAI"
     },
     {
@@ -1931,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "VictorTaelin"
     },
     {
@@ -1946,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 535,
       "user": "mikehasa"
     },
     {
@@ -1961,14 +1966,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "gavamedia"
     },
     {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
       "url": "https://stackoverflow.com/questions/79989086/yaml-scanner-scannererror-mapping-values-are-not-allowed-here-error-when-tryi",
       "published_at": "2026-07-30T06:25:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "yaml",
@@ -1983,7 +1988,7 @@
       "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
       "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
       "published_at": "2026-07-30T07:50:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python",
         "playwright",
@@ -1992,6 +1997,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sefat khan"
+    },
+    {
+      "title": "How do I get correct type hints in subclass?",
+      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
+      "published_at": "2026-07-30T00:16:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
@@ -2008,6 +2026,18 @@
       "user": "Chip Uni"
     },
     {
+      "title": "b64encode() / b64decode - unbalanced encoding",
+      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
+      "published_at": "2026-07-29T22:56:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Copy to stdout with CSV header always hangs",
       "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
       "published_at": "2026-07-30T01:12:05.000Z",
@@ -2021,35 +2051,10 @@
       "user": "Jim Garrison"
     },
     {
-      "title": "b64encode() / b64decode - unbalanced encoding",
-      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
-      "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "How do I get correct type hints in subclass?",
-      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
-      "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
       "title": "PPO Agent refuses to place orders in custom Gymnasium Inventory Environment (stuck in local minimum)",
       "url": "https://stackoverflow.com/questions/79989057/ppo-agent-refuses-to-place-orders-in-custom-gymnasium-inventory-environment-stu",
       "published_at": "2026-07-30T03:58:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "reinforcement-learning",
@@ -2182,21 +2187,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
-      "url": "https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7",
-      "published_at": "2026-07-25T11:47:44Z",
-      "description": "Introducing Gubernator: The Goldilocks Container Orchestrator   Gubernator combines the...",
-      "tags": [
-        "docker",
-        "devops",
-        "opentelemetry",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw7amtg1t470o5rnh4ur9.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2378,6 +2368,21 @@
       "user": "velmu"
     },
     {
+      "title": "How can I open my game on the user&#180;s mobile device from my website?",
+      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
+      "published_at": "2026-07-30T13:18:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "android",
+        "html",
+        "ios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bryan"
+    },
+    {
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
@@ -2390,6 +2395,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lel lel"
+    },
+    {
+      "title": "Canvas Benchmark vs. Browser Profiler",
+      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
+      "published_at": "2026-07-27T05:57:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "canvas",
+        "html5-canvas",
+        "profiling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dandeto"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -2482,6 +2502,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "How can I open my game on the user&#180;s mobile device from my website?",
+      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
+      "published_at": "2026-07-30T13:18:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "android",
+        "html",
+        "ios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bryan"
     },
     {
       "title": "Spotify adds a running mode to its app",
@@ -2621,6 +2656,21 @@
       "user": "xbill"
     },
     {
+      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
+      "published_at": "2026-07-15T13:04:39Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "python",
+        "tpu",
+        "antigravitycli",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2726,19 +2776,19 @@
       "user": "xbill"
     },
     {
-      "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
-      "url": "https://stackoverflow.com/questions/79986347/firebase-intermittent-data-fetch-failure-webchannelconnection-rpc-listen-stre",
-      "published_at": "2026-07-27T15:06:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "published_at": "2026-07-30T15:19:15.000Z",
+      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
       "tags": [
-        "javascript",
-        "firebase",
-        "google-cloud-platform",
-        "google-cloud-firestore"
+        "AI",
+        "anyscale",
+        "data center infrastructure",
+        "nscale"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JaeKwang Lee RTB"
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -3068,6 +3118,38 @@
       "user": "benjimin"
     },
     {
+      "title": "In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast — but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "published_at": "2026-07-30T14:48:32.000Z",
+      "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "tags": [
+        "AI",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "FTC sues Hims &#038; Hers for allegedly sharing patients&#8217; medical data with advertisers Meta and Snap",
+      "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "published_at": "2026-07-30T13:30:52.000Z",
+      "description": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "cybersecurity",
+        "Federal Trade Commission",
+        "Hims & Hers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
       "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
       "published_at": "2026-07-30T13:00:00.000Z",
@@ -3080,20 +3162,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-07-29T21:16:39.000Z",
-      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "tags": [
-        "AI",
-        "Databricks",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -3324,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2337,
+      "stars": 2356,
       "user": "mshumer"
     },
     {
@@ -3339,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 653,
       "user": "xikhar"
     },
     {
@@ -3354,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 558,
       "user": "0xwilliamortiz"
     },
     {
@@ -3369,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "achimala"
     },
     {
@@ -3384,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 299,
       "user": "Noniv"
     },
     {
@@ -3399,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 985,
       "user": "mikiarlo3"
     },
     {
@@ -3414,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 909,
       "user": "MoonshotAI"
     },
     {
@@ -3429,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "VictorTaelin"
     },
     {
@@ -3444,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 535,
       "user": "mikehasa"
     },
     {
@@ -3459,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 431,
       "user": "gavamedia"
     },
     {
@@ -3474,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 298,
       "user": "perplexityai"
     },
     {
@@ -3489,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 212,
       "user": "codermyxiaoc"
     },
     {
@@ -3504,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 122,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3534,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 75,
       "user": "torrischen"
     },
     {
@@ -3564,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 468,
       "user": "talivia-group"
     },
     {
@@ -3579,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 430,
       "user": "NikolayS"
     },
     {
@@ -3594,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 384,
       "user": "wassgha"
     },
     {
@@ -3609,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "deerwork-ai"
     },
     {
@@ -3624,7 +3692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "steelbrain"
     },
     {
@@ -3673,19 +3741,19 @@
       "user": "iamrohithrnair"
     },
     {
-      "title": "samwhosung/benilla - A from-scratch World of Warcraft 1.12.1 client in Rust + Bevy",
-      "url": "https://github.com/samwhosung/benilla",
-      "published_at": "2026-07-24T05:31:27Z",
-      "description": "A from-scratch World of Warcraft 1.12.1 client in Rust + Bevy",
+      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "url": "https://github.com/Quantova/quantova-cli",
+      "published_at": "2026-07-27T13:47:34Z",
+      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51686767?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 54,
-      "user": "samwhosung"
+      "stars": 56,
+      "user": "Quantova"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
