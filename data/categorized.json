@@ -28,21 +28,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
-      "published_at": "2026-07-29T19:14:47Z",
-      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -54,6 +39,21 @@
         "webdev"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
+      "published_at": "2026-07-29T19:14:47Z",
+      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 550,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 235,
       "user": "QwenAudio"
     },
     {
@@ -776,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1050,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "published_at": "2026-07-26T01:14:17Z",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
-      "source": "GitHub",
-      "stars": 936,
-      "user": "fuadmefleh"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 885,
       "user": "VictorTaelin"
     },
     {
@@ -821,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 879,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 358,
+      "user": "gavamedia"
     },
     {
       "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 162,
       "user": "perplexityai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 349,
       "user": "deerwork-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "steelbrain"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "iamrohithrnair"
     },
     {
@@ -924,6 +924,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaeKwang Lee RTB"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -1032,7 +1046,7 @@
       "user": "Lauren Forristal"
     },
     {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "title": "The Hugging Face break-in explained",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "published_at": "2026-07-29T19:44:49.000Z",
       "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
@@ -1346,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2271,
+      "stars": 2290,
       "user": "mshumer"
     },
     {
@@ -1361,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 591,
       "user": "xikhar"
     },
     {
@@ -1376,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 550,
       "user": "0xwilliamortiz"
     },
     {
@@ -1391,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 333,
       "user": "achimala"
     },
     {
@@ -1406,23 +1420,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 235,
       "user": "QwenAudio"
-    },
-    {
-      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "cocofhu"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -1451,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 456,
       "user": "talivia-group"
     },
     {
@@ -1466,23 +1465,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 406,
       "user": "NikolayS"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 348,
-      "user": "deerwork-ai"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -1496,8 +1480,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 358,
       "user": "wassgha"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "deerwork-ai"
     },
     {
       "title": "What side projects have you enjoyed the most?",
@@ -1513,10 +1512,26 @@
       "user": "nick4"
     },
     {
+      "title": "How can a single-page web app let whitelisted IPs bypass OIDC login?",
+      "url": "https://stackoverflow.com/questions/79989064/how-can-a-single-page-web-app-let-whitelisted-ips-bypass-oidc-login",
+      "published_at": "2026-07-30T05:02:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "authentication",
+        "amazon-cognito",
+        "single-page-application",
+        "oidc-client-js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "benjimin"
+    },
+    {
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1638,20 +1653,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "aaron"
-    },
-    {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "firebase",
-        "firebase-authentication"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rahul"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1876,23 +1877,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1050,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "published_at": "2026-07-26T01:14:17Z",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
-      "source": "GitHub",
-      "stars": 936,
-      "user": "fuadmefleh"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -1906,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 885,
       "user": "VictorTaelin"
     },
     {
@@ -1921,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 879,
       "user": "MoonshotAI"
     },
     {
@@ -1936,8 +1922,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "mikehasa"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 358,
+      "user": "gavamedia"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
+    },
+    {
+      "title": "PPO Agent refuses to place orders in custom Gymnasium Inventory Environment (stuck in local minimum)",
+      "url": "https://stackoverflow.com/questions/79989057/ppo-agent-refuses-to-place-orders-in-custom-gymnasium-inventory-environment-stu",
+      "published_at": "2026-07-30T03:58:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "reinforcement-learning",
+        "inventory-management",
+        "gymnasium",
+        "stablebaseline3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ryan Foster"
     },
     {
       "title": "b64encode() / b64decode - unbalanced encoding",
@@ -1968,7 +1999,7 @@
       "title": "How do you stitch together 3 meshes in Python?",
       "url": "https://stackoverflow.com/questions/79987997/how-do-you-stitch-together-3-meshes-in-python",
       "published_at": "2026-07-29T20:47:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "mesh",
@@ -1992,19 +2023,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Murchak"
-    },
-    {
-      "title": "How do I program a RC car application that uses ESP32?",
-      "url": "https://stackoverflow.com/questions/79987967/how-do-i-program-a-rc-car-application-that-uses-esp32",
-      "published_at": "2026-07-29T18:22:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "esp32"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "imabigwaffleman"
     },
     {
       "title": "Using Python PIL.Image module, <image>.paste() returns None",
@@ -2064,20 +2082,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NeoTheNerd"
-    },
-    {
-      "title": "Controller hotplugging issue",
-      "url": "https://stackoverflow.com/questions/79987803/controller-hotplugging-issue",
-      "published_at": "2026-07-29T10:03:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pygame",
-        "hotplugging"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DonPolettone"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2279,21 +2283,6 @@
       "user": "jknupp"
     },
     {
-      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "cocofhu"
-    },
-    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2356,7 +2345,7 @@
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2774,18 +2763,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
-      "url": "https://boringsql.com/posts/mvcc-bad-bad/",
-      "published_at": "2026-07-29T08:25:07.882-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pmbauer"
-    },
-    {
       "title": "Website database changes monitoring by Fetch/XHR requests",
       "url": "https://stackoverflow.com/questions/79987663/website-database-changes-monitoring-by-fetch-xhr-requests",
       "published_at": "2026-07-28T21:30:07.000Z",
@@ -3053,18 +3030,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "Incorrect project_id in google auth response",
-      "url": "https://stackoverflow.com/questions/79985951/incorrect-project-id-in-google-auth-response",
-      "published_at": "2026-07-26T02:33:48.000Z",
+      "title": "How can a single-page web app let whitelisted IPs bypass OIDC login?",
+      "url": "https://stackoverflow.com/questions/79989064/how-can-a-single-page-web-app-let-whitelisted-ips-bypass-oidc-login",
+      "published_at": "2026-07-30T05:02:59.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "firebase",
-        "firebase-authentication"
+        "authentication",
+        "amazon-cognito",
+        "single-page-application",
+        "oidc-client-js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "rahul"
+      "user": "benjimin"
     },
     {
       "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
@@ -3309,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2271,
+      "stars": 2290,
       "user": "mshumer"
     },
     {
@@ -3324,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 591,
       "user": "xikhar"
     },
     {
@@ -3339,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 550,
       "user": "0xwilliamortiz"
     },
     {
@@ -3354,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 333,
       "user": "achimala"
     },
     {
@@ -3369,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 235,
       "user": "QwenAudio"
     },
     {
@@ -3384,23 +3363,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1050,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "fuadmefleh/Shared-Claude-Chats - An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "published_at": "2026-07-26T01:14:17Z",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
-      "source": "GitHub",
-      "stars": 936,
-      "user": "fuadmefleh"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3414,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 885,
       "user": "VictorTaelin"
     },
     {
@@ -3429,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 879,
       "user": "MoonshotAI"
     },
     {
@@ -3444,8 +3408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "mikehasa"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 358,
+      "user": "gavamedia"
     },
     {
       "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
@@ -3459,8 +3438,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 162,
       "user": "perplexityai"
+    },
+    {
+      "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
+      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
+      "published_at": "2026-07-30T03:16:09Z",
+      "description": "sub2api-guardian",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "codermyxiaoc"
     },
     {
       "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
@@ -3478,36 +3472,6 @@
       "user": "byJoey"
     },
     {
-      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
-      "url": "https://github.com/torrischen/goat",
-      "published_at": "2026-07-26T07:11:14Z",
-      "description": "goat is a package provides agent framework written in golang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "torrischen"
-    },
-    {
-      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "url": "https://github.com/cocofhu/approving",
-      "published_at": "2026-07-24T15:27:02Z",
-      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "cocofhu"
-    },
-    {
       "title": "rogerbush007-a11y/DJOneHub-mac-enhanced - GitHub Repository",
       "url": "https://github.com/rogerbush007-a11y/DJOneHub-mac-enhanced",
       "published_at": "2026-07-28T08:54:12Z",
@@ -3519,8 +3483,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 79,
       "user": "rogerbush007-a11y"
+    },
+    {
+      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
+      "url": "https://github.com/torrischen/goat",
+      "published_at": "2026-07-26T07:11:14Z",
+      "description": "goat is a package provides agent framework written in golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
+      "source": "GitHub",
+      "stars": 74,
+      "user": "torrischen"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3549,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 456,
       "user": "talivia-group"
     },
     {
@@ -3564,23 +3543,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 406,
       "user": "NikolayS"
-    },
-    {
-      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "published_at": "2026-07-26T04:20:50Z",
-      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
-      "source": "GitHub",
-      "stars": 348,
-      "user": "deerwork-ai"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -3594,8 +3558,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 358,
       "user": "wassgha"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "deerwork-ai"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3609,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "steelbrain"
     },
     {
@@ -3624,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 144,
       "user": "jchultarsky"
     },
     {
@@ -3639,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182771572?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 74,
       "user": "JYH1878"
     },
     {
@@ -3654,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "iamrohithrnair"
     },
     {
@@ -3669,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51686767?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 53,
       "user": "samwhosung"
     },
     {
@@ -3684,6 +3663,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Abdelali Fihri"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
