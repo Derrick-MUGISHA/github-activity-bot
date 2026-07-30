@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-07-30 20:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-07-30 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -66,19 +66,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png" width="200" alt="Data, Context & RAG Lineage Governance for Enterprise AI Agents" />
+    <a href="https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png" width="200" alt="One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX" />
       <br/>
-      <b>Data, Context & RAG Lineage Governance for Enterpr...</b>
+      <b>One TPU Chip, Eight Agents: Serving Small Agent Wo...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg" width="200" alt="Building AI Agents with the Kotlin Agent Development Kit (ADK)" />
+    <a href="https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png" width="200" alt="Data, Context & RAG Lineage Governance for Enterprise AI Agents" />
       <br/>
-      <b>Building AI Agents with the Kotlin Agent Developme...</b>
+      <b>Data, Context & RAG Lineage Governance for Enterpr...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -96,24 +96,24 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 2 | [Skills vs MCP: How AI tools have evolved](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk) | Dev.to |
 | 3 | [Does it still make sense to learn how to code?](https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g) | Dev.to |
 | 4 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 5 | [Data, Context & RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj) | Dev.to |
-| 6 | [Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa) | Dev.to |
-| 7 | [Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i](https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c) | Dev.to |
-| 8 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
-| 9 | [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6) | Dev.to |
-| 10 | [DevRelCon, Adult Summer Camp, and My First Time Speaking](https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d) | Dev.to |
-| 11 | [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4) | Dev.to |
-| 12 | [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e) | Dev.to |
-| 13 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
-| 14 | [What is current your "daily driver" coding model? (July 2026)](https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl) | Dev.to |
-| 15 | [The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3) | Dev.to |
-| 16 | [Fish Audio's $52M Seed: Open Weights Got Them Here](https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5) | Dev.to |
-| 17 | [Finally — Hard Caps to Limit Your Google Cloud Spend](https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363) | Dev.to |
-| 18 | [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac) | Dev.to |
-| 19 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
-| 20 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
+| 5 | [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) | Dev.to |
+| 6 | [Data, Context & RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj) | Dev.to |
+| 7 | [Building AI Agents with the Kotlin Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa) | Dev.to |
+| 8 | [Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i](https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c) | Dev.to |
+| 9 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
+| 10 | [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6) | Dev.to |
+| 11 | [DevRelCon, Adult Summer Camp, and My First Time Speaking](https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d) | Dev.to |
+| 12 | [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4) | Dev.to |
+| 13 | [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e) | Dev.to |
+| 14 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
+| 15 | [What is current your "daily driver" coding model? (July 2026)](https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl) | Dev.to |
+| 16 | [The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies](https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3) | Dev.to |
+| 17 | [Fish Audio's $52M Seed: Open Weights Got Them Here](https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5) | Dev.to |
+| 18 | [Finally — Hard Caps to Limit Your Google Cloud Spend](https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363) | Dev.to |
+| 19 | [Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac) | Dev.to |
+| 20 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
 
-<sub>Last fetched: Thu, 30 Jul 2026 20:43:42 CAT</sub>
+<sub>Last fetched: Thu, 30 Jul 2026 22:09:54 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Implement a debounce function from scratch**
+**1. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Function wrappers, @syntax, practical uses
 
 </details>
 
-**2. `DataStructures` — Find the longest substring without repeating characters**
+**2. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Ownership, mutability, data flow direction
 
 </details>
 
-**3. `Python` — What are generators and when would you use them?**
+**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> Execution timing, event loop phases
 
 </details>
 
@@ -165,11 +165,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 84 | 45.7% | `████████████████████` |
-| **Tools** | 44 | 23.9% | `██████████░░░░░░░░░░` |
+| **Tools** | 45 | 24.5% | `███████████░░░░░░░░░` |
 | **JavaScript** | 41 | 22.3% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `███████░░░░░░░░░░░░░` |
 | **Security** | 24 | 13.0% | `██████░░░░░░░░░░░░░░` |
-| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 18 | 9.8% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -198,9 +198,9 @@ Go              █████████████████████�
 JavaScript      ██████████████████████████ 25.0%
 Java            ████████████████████ 19.5%
 Python          ███████████████████ 18.9%
-Rust            ████ 3.7%
-Ruby            ██ 1.8%
+Rust            ████ 4.3%
 Kotlin          █ 1.2%
+Ruby            █ 1.2%
 Swift           █ 0.6%
 
 ```
@@ -211,16 +211,16 @@ pie title Programming Languages Distribution
     "JavaScript" : 41
     "Java" : 32
     "Python" : 31
-    "Rust" : 6
-    "Ruby" : 3
+    "Rust" : 7
     "Kotlin" : 2
+    "Ruby" : 2
     "Swift" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-21-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-21-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 30 Jul 2026 18:43:42 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 30 Jul 2026 20:09:54 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
