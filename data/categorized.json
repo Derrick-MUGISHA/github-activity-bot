@@ -16,18 +16,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "What is current your \"daily driver\" coding model? (July 2026)",
-      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
-      "published_at": "2026-07-29T14:29:13Z",
-      "description": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
-      "tags": [
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
-    },
-    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -103,6 +91,18 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "What is current your \"daily driver\" coding model? (July 2026)",
+      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
+      "published_at": "2026-07-29T14:29:13Z",
+      "description": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
+      "tags": [
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
+      "source": "Dev.to",
+      "user": "Peter Kim Frank"
+    },
+    {
       "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
       "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
       "published_at": "2026-07-29T02:17:31Z",
@@ -116,21 +116,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
-      "published_at": "2026-07-28T16:18:27Z",
-      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "tags": [
-        "bugsmash",
-        "devchallenge",
-        "debugging",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
@@ -236,6 +221,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
+      "published_at": "2026-07-28T16:18:27Z",
+      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "tags": [
+        "bugsmash",
+        "devchallenge",
+        "debugging",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 555,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 242,
       "user": "QwenAudio"
     },
     {
@@ -776,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1052,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 885,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -806,8 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 896,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 893,
+      "user": "VictorTaelin"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 381,
       "user": "gavamedia"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 194,
       "user": "perplexityai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "deerwork-ai"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "iamrohithrnair"
     },
     {
@@ -929,7 +929,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "or-tools",
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2290,
+      "stars": 2309,
       "user": "mshumer"
     },
     {
@@ -1375,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 613,
       "user": "xikhar"
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 555,
       "user": "0xwilliamortiz"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "achimala"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 242,
       "user": "QwenAudio"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 557,
       "user": "0xwilliamortiz"
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 484,
       "user": "talivia-group"
     },
     {
@@ -1465,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 412,
       "user": "NikolayS"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 366,
       "user": "wassgha"
     },
     {
@@ -1495,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "deerwork-ai"
     },
     {
@@ -1510,6 +1510,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nick4"
+    },
+    {
+      "title": "Best way to store a JS accessible and amateur user editable spreadsheet",
+      "url": "https://stackoverflow.com/questions/79989105/best-way-to-store-a-js-accessible-and-amateur-user-editable-spreadsheet",
+      "published_at": "2026-07-30T07:18:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "best-practices",
+        "javascript",
+        "fetch-api",
+        "xlsx"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liam Attard"
     },
     {
       "title": "How can a single-page web app let whitelisted IPs bypass OIDC login?",
@@ -1531,7 +1547,7 @@
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1639,20 +1655,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dandeto"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 30 answers · score 20",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1877,23 +1879,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1052,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 885,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -1907,8 +1894,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 896,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 893,
+      "user": "VictorTaelin"
     },
     {
       "title": "mikehasa/agentacct - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
@@ -1922,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "mikehasa"
     },
     {
@@ -1937,14 +1939,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 381,
       "user": "gavamedia"
+    },
+    {
+      "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
+      "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
+      "published_at": "2026-07-30T07:50:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "playwright",
+        "reddit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "sefat khan"
+    },
+    {
+      "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
+      "url": "https://stackoverflow.com/questions/79989086/yaml-scanner-scannererror-mapping-values-are-not-allowed-here-error-when-tryi",
+      "published_at": "2026-07-30T06:25:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "yaml",
+        "detectron",
+        "pdf-extraction"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bussller"
     },
     {
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "or-tools",
@@ -1953,6 +1984,44 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Copy to stdout with CSV header always hangs",
+      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
+      "published_at": "2026-07-30T01:12:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "psycopg3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jim Garrison"
+    },
+    {
+      "title": "How do I get correct type hints in subclass?",
+      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
+      "published_at": "2026-07-30T00:16:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "b64encode() / b64decode - unbalanced encoding",
+      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
+      "published_at": "2026-07-29T22:56:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "PPO Agent refuses to place orders in custom Gymnasium Inventory Environment (stuck in local minimum)",
@@ -1971,35 +2040,10 @@
       "user": "Ryan Foster"
     },
     {
-      "title": "b64encode() / b64decode - unbalanced encoding",
-      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
-      "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "psycopg3 \"copy to stdout with csv header\" always hangs",
-      "url": "https://stackoverflow.com/questions/79988040/psycopg3-copy-to-stdout-with-csv-header-always-hangs",
-      "published_at": "2026-07-30T01:12:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "psycopg3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jim Garrison"
-    },
-    {
       "title": "How do you stitch together 3 meshes in Python?",
       "url": "https://stackoverflow.com/questions/79987997/how-do-you-stitch-together-3-meshes-in-python",
       "published_at": "2026-07-29T20:47:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "mesh",
@@ -2037,51 +2081,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
-    },
-    {
-      "title": "How to retrieve a variable from another threading.Thread?",
-      "url": "https://stackoverflow.com/questions/79987816/how-to-retrieve-a-variable-from-another-threading-thread",
-      "published_at": "2026-07-29T10:43:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "multithreading",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Unknow 15465426"
-    },
-    {
-      "title": "Perceptually compare two JPEGs from the same source image with different color profiles",
-      "url": "https://stackoverflow.com/questions/79987800/perceptually-compare-two-jpegs-from-the-same-source-image-with-different-color-p",
-      "published_at": "2026-07-29T09:44:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "image-processing",
-        "colors",
-        "color-profile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "malat"
-    },
-    {
-      "title": "Yahoo Finance GC=F appears to be returning incorrect prices on 2026-07-29?",
-      "url": "https://stackoverflow.com/questions/79987839/yahoo-finance-gc-f-appears-to-be-returning-incorrect-prices-on-2026-07-29",
-      "published_at": "2026-07-29T11:37:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "pandas",
-        "finance",
-        "yahoo-finance",
-        "yfinance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeoTheNerd"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2345,7 +2344,7 @@
       "title": "JavaScript for a collapsible which expands on click",
       "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2369,20 +2368,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dandeto"
-    },
-    {
-      "title": "I get stuck learning HTML, CSS, and JavaScript (I am a student)",
-      "url": "https://stackoverflow.com/questions/79975005/i-get-stuck-learning-html-css-and-javascript-i-am-a-student",
-      "published_at": "2026-07-06T11:23:54.000Z",
-      "description": "Stack Overflow question · 30 answers · score 20",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "aaron"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -3288,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2290,
+      "stars": 2309,
       "user": "mshumer"
     },
     {
@@ -3303,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 613,
       "user": "xikhar"
     },
     {
@@ -3318,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 555,
       "user": "0xwilliamortiz"
     },
     {
@@ -3333,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "achimala"
     },
     {
@@ -3348,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 242,
       "user": "QwenAudio"
     },
     {
@@ -3363,23 +3348,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1052,
       "user": "mikiarlo3"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 885,
-      "user": "VictorTaelin"
     },
     {
       "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
@@ -3393,8 +3363,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 896,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 893,
+      "user": "VictorTaelin"
     },
     {
       "title": "mikehasa/agentacct - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
@@ -3408,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 534,
       "user": "mikehasa"
     },
     {
@@ -3423,23 +3408,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 381,
       "user": "gavamedia"
-    },
-    {
-      "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "url": "https://github.com/perplexityai/numbat",
-      "published_at": "2026-07-24T06:07:59Z",
-      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "perplexityai"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3453,23 +3423,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 196,
       "user": "codermyxiaoc"
     },
     {
-      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
-      "url": "https://github.com/byJoey/fanout",
-      "published_at": "2026-07-26T03:41:14Z",
-      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+      "url": "https://github.com/perplexityai/numbat",
+      "published_at": "2026-07-24T06:07:59Z",
+      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 81,
-      "user": "byJoey"
+      "stars": 194,
+      "user": "perplexityai"
     },
     {
       "title": "rogerbush007-a11y/DJOneHub-mac-enhanced - GitHub Repository",
@@ -3483,8 +3453,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 99,
       "user": "rogerbush007-a11y"
+    },
+    {
+      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "url": "https://github.com/byJoey/fanout",
+      "published_at": "2026-07-26T03:41:14Z",
+      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "byJoey"
     },
     {
       "title": "torrischen/goat - goat is a package provides agent framework written in golang",
@@ -3513,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 557,
       "user": "0xwilliamortiz"
     },
     {
@@ -3528,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 484,
       "user": "talivia-group"
     },
     {
@@ -3543,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 412,
       "user": "NikolayS"
     },
     {
@@ -3558,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 366,
       "user": "wassgha"
     },
     {
@@ -3573,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "deerwork-ai"
     },
     {
@@ -3603,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 148,
       "user": "jchultarsky"
     },
     {
@@ -3633,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "iamrohithrnair"
     },
     {
@@ -3648,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51686767?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "samwhosung"
     },
     {
@@ -3668,7 +3653,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "or-tools",
