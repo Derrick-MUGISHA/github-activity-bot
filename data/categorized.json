@@ -761,23 +761,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "QwenAudio"
-    },
-    {
-      "title": "slvDev/esp32-ai - GitHub Repository",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "published_at": "2026-07-23T14:53:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
-      "source": "GitHub",
-      "stars": 2317,
-      "user": "slvDev"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 932,
       "user": "fuadmefleh"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 873,
       "user": "VictorTaelin"
     },
     {
@@ -836,23 +821,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 861,
       "user": "MoonshotAI"
-    },
-    {
-      "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
-      "url": "https://github.com/iximiuz/shellgym",
-      "published_at": "2026-07-23T14:11:41Z",
-      "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
-      "source": "GitHub",
-      "stars": 247,
-      "user": "iximiuz"
     },
     {
       "title": "perplexityai/numbat - Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
@@ -866,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 123,
       "user": "perplexityai"
     },
     {
@@ -881,23 +851,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "deerwork-ai"
-    },
-    {
-      "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "url": "https://github.com/kvcache-ai/AgentENV",
-      "published_at": "2026-07-23T02:48:07Z",
-      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
-      "source": "GitHub",
-      "stars": 2087,
-      "user": "kvcache-ai"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -915,6 +870,21 @@
       "user": "steelbrain"
     },
     {
+      "title": "iamrohithrnair/obsidian-tui - GitHub Repository",
+      "url": "https://github.com/iamrohithrnair/obsidian-tui",
+      "published_at": "2026-07-27T13:04:41Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "iamrohithrnair"
+    },
+    {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
       "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
       "published_at": "2026-07-29T05:42:50.240-05:00",
@@ -927,18 +897,18 @@
       "user": "zanlib"
     },
     {
-      "title": "Javascript not working, fairly sure it should",
-      "url": "https://stackoverflow.com/questions/79988009/javascript-not-working-fairly-sure-it-should",
-      "published_at": "2026-07-29T21:36:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "The strain in your brain",
+      "url": "https://anirudh.fi/strain",
+      "published_at": "2026-07-29T15:22:39.804-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "practices",
+        "programming",
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lel lel"
+      "source": "Lobste.rs",
+      "user": "icy"
     },
     {
       "title": "Firebase intermittent data fetch failure: WebChannelConnection RPC 'Listen' stream transport errored",
@@ -954,6 +924,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JaeKwang Lee RTB"
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "published_at": "2026-07-30T00:21:06.000Z",
+      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -1075,20 +1060,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Waymo robotaxis are starting to return to freeways",
-      "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-      "published_at": "2026-07-29T17:50:57.000Z",
-      "description": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
-      "tags": [
-        "Transportation",
-        "robotaxis",
-        "Waymo"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -1375,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2243,
+      "stars": 2248,
       "user": "mshumer"
     },
     {
@@ -1405,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 497,
       "user": "xikhar"
     },
     {
@@ -1420,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "achimala"
     },
     {
@@ -1435,8 +1406,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "QwenAudio"
+    },
+    {
+      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "url": "https://github.com/cocofhu/approving",
+      "published_at": "2026-07-24T15:27:02Z",
+      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "cocofhu"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -1454,21 +1440,6 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "NikolayS"
-    },
-    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -1480,23 +1451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "talivia-group"
     },
     {
-      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
-      "url": "https://github.com/RongleCat/grok-app",
-      "published_at": "2026-07-23T16:43:40Z",
-      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 385,
-      "user": "RongleCat"
+      "stars": 393,
+      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -1510,12 +1481,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "deerwork-ai"
     },
     {
-      "title": "Javascript not working, fairly sure it should",
-      "url": "https://stackoverflow.com/questions/79988009/javascript-not-working-fairly-sure-it-should",
+      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "url": "https://github.com/wassgha/rescript",
+      "published_at": "2026-07-26T22:43:11Z",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "wassgha"
+    },
+    {
+      "title": "JavaScript for a collapsible which expands on click",
+      "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
@@ -1866,21 +1852,6 @@
       "user": "arathore"
     },
     {
-      "title": "slvDev/esp32-ai - GitHub Repository",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "published_at": "2026-07-23T14:53:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
-      "source": "GitHub",
-      "stars": 2317,
-      "user": "slvDev"
-    },
-    {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
       "url": "https://github.com/mikiarlo3/ai-copywriter",
       "published_at": "2026-07-24T19:52:13Z",
@@ -1907,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 932,
       "user": "fuadmefleh"
     },
     {
@@ -1922,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 873,
       "user": "VictorTaelin"
     },
     {
@@ -1937,14 +1908,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 861,
       "user": "MoonshotAI"
+    },
+    {
+      "title": "mikehasa/agentacct - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "mikehasa"
     },
     {
       "title": "b64encode() / b64decode - unbalanced encoding",
       "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
       "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python"
       ],
@@ -1972,7 +1958,7 @@
       "title": "How do I program a RC car application that uses ESP32?",
       "url": "https://stackoverflow.com/questions/79987967/how-do-i-program-a-rc-car-application-that-uses-esp32",
       "published_at": "2026-07-29T18:22:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "esp32"
@@ -2298,6 +2284,21 @@
       "user": "jknupp"
     },
     {
+      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "url": "https://github.com/cocofhu/approving",
+      "published_at": "2026-07-24T15:27:02Z",
+      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "cocofhu"
+    },
+    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2357,8 +2358,8 @@
       "user": "velmu"
     },
     {
-      "title": "Javascript not working, fairly sure it should",
-      "url": "https://stackoverflow.com/questions/79988009/javascript-not-working-fairly-sure-it-should",
+      "title": "JavaScript for a collapsible which expands on click",
+      "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
       "published_at": "2026-07-29T21:36:11.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
@@ -2446,21 +2447,6 @@
       "user": "xbill"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
       "published_at": "2026-07-27T22:37:30Z",
@@ -2487,6 +2473,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -3102,21 +3103,6 @@
       "user": "xbill"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
       "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
       "published_at": "2026-07-29T02:17:31Z",
@@ -3145,6 +3131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
@@ -3298,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2243,
+      "stars": 2248,
       "user": "mshumer"
     },
     {
@@ -3328,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 497,
       "user": "xikhar"
     },
     {
@@ -3343,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "achimala"
     },
     {
@@ -3358,23 +3359,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "QwenAudio"
-    },
-    {
-      "title": "slvDev/esp32-ai - GitHub Repository",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "published_at": "2026-07-23T14:53:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15254847?v=4",
-      "source": "GitHub",
-      "stars": 2317,
-      "user": "slvDev"
     },
     {
       "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
@@ -3403,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284270?v=4",
       "source": "GitHub",
-      "stars": 931,
+      "stars": 932,
       "user": "fuadmefleh"
     },
     {
@@ -3418,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 873,
       "user": "VictorTaelin"
     },
     {
@@ -3433,38 +3419,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 861,
       "user": "MoonshotAI"
     },
     {
-      "title": "edaywalid/undo - Undo what the last shell command did to the filesystem",
-      "url": "https://github.com/edaywalid/undo",
-      "published_at": "2026-07-23T09:27:59Z",
-      "description": "Undo what the last shell command did to the filesystem",
+      "title": "mikehasa/agentacct - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "published_at": "2026-07-24T16:28:06Z",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/103851402?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
       "source": "GitHub",
-      "stars": 323,
-      "user": "edaywalid"
-    },
-    {
-      "title": "iximiuz/shellgym - Shell Gym - an Interactive Linux Command-Line Trainer",
-      "url": "https://github.com/iximiuz/shellgym",
-      "published_at": "2026-07-23T14:11:41Z",
-      "description": "Shell Gym - an Interactive Linux Command-Line Trainer",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1437211?v=4",
-      "source": "GitHub",
-      "stars": 247,
-      "user": "iximiuz"
+      "stars": 528,
+      "user": "mikehasa"
     },
     {
       "title": "perplexityai/numbat - Endpoint visibility into AI agent activity, with local detection, optional pre-action blocking, and forensic reconstruction",
@@ -3478,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 123,
       "user": "perplexityai"
     },
     {
@@ -3493,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "byJoey"
     },
     {
@@ -3512,6 +3483,36 @@
       "user": "torrischen"
     },
     {
+      "title": "cocofhu/approving - Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "url": "https://github.com/cocofhu/approving",
+      "published_at": "2026-07-24T15:27:02Z",
+      "description": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/43171452?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "cocofhu"
+    },
+    {
+      "title": "rogerbush007-a11y/DJOneHub-mac-enhanced - GitHub Repository",
+      "url": "https://github.com/rogerbush007-a11y/DJOneHub-mac-enhanced",
+      "published_at": "2026-07-28T08:54:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
+      "source": "GitHub",
+      "stars": 37,
+      "user": "rogerbush007-a11y"
+    },
+    {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
       "url": "https://github.com/0xwilliamortiz/openclaude-improved",
       "published_at": "2026-07-26T21:58:28Z",
@@ -3527,21 +3528,6 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "NikolayS"
-    },
-    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -3553,23 +3539,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "talivia-group"
     },
     {
-      "title": "RongleCat/grok-app - Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
-      "url": "https://github.com/RongleCat/grok-app",
-      "published_at": "2026-07-23T16:43:40Z",
-      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15684751?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 385,
-      "user": "RongleCat"
+      "stars": 393,
+      "user": "NikolayS"
     },
     {
       "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
@@ -3583,23 +3569,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "deerwork-ai"
     },
     {
-      "title": "kvcache-ai/AgentENV - AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "url": "https://github.com/kvcache-ai/AgentENV",
-      "published_at": "2026-07-23T02:48:07Z",
-      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "url": "https://github.com/wassgha/rescript",
+      "published_at": "2026-07-26T22:43:11Z",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/170996193?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 2087,
-      "user": "kvcache-ai"
+      "stars": 341,
+      "user": "wassgha"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3617,36 +3603,6 @@
       "user": "steelbrain"
     },
     {
-      "title": "sazardev/shiki - TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "url": "https://github.com/sazardev/shiki",
-      "published_at": "2026-07-23T01:10:48Z",
-      "description": "TUI note-taking app in Rust — Yazi-style navigation, notebooks as independent git repos, real per-note version history, themes, and fast fuzzy search.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66286300?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "sazardev"
-    },
-    {
-      "title": "rrrjqy66/BlackHoleTrash - A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "url": "https://github.com/rrrjqy66/BlackHoleTrash",
-      "published_at": "2026-07-23T09:43:07Z",
-      "description": "A compact Windows black-hole Recycle Bin with real-time gravitational lensing",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/209657832?v=4",
-      "source": "GitHub",
-      "stars": 141,
-      "user": "rrrjqy66"
-    },
-    {
       "title": "jchultarsky/mirador - An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
       "url": "https://github.com/jchultarsky/mirador",
       "published_at": "2026-07-25T18:31:04Z",
@@ -3658,8 +3614,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "jchultarsky"
+    },
+    {
+      "title": "JYH1878/KimiCodeBar-Windows - Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
+      "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
+      "published_at": "2026-07-25T17:02:30Z",
+      "description": "Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/182771572?v=4",
+      "source": "GitHub",
+      "stars": 73,
+      "user": "JYH1878"
+    },
+    {
+      "title": "iamrohithrnair/obsidian-tui - GitHub Repository",
+      "url": "https://github.com/iamrohithrnair/obsidian-tui",
+      "published_at": "2026-07-27T13:04:41Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
+      "source": "GitHub",
+      "stars": 60,
+      "user": "iamrohithrnair"
+    },
+    {
+      "title": "samwhosung/benilla - A from-scratch World of Warcraft 1.12.1 client in Rust + Bevy",
+      "url": "https://github.com/samwhosung/benilla",
+      "published_at": "2026-07-24T05:31:27Z",
+      "description": "A from-scratch World of Warcraft 1.12.1 client in Rust + Bevy",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51686767?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "samwhosung"
     },
     {
       "title": "Website database changes monitoring by Fetch/XHR requests",
