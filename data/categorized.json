@@ -16,21 +16,6 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bnt"
-    },
-    {
       "title": "Does it still make sense to learn how to code?",
       "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
       "published_at": "2026-07-30T11:27:07Z",
@@ -46,6 +31,21 @@
       "user": "Roberto B."
     },
     {
+      "title": "Passkeys Explained Simply",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
+      "published_at": "2026-07-27T21:09:04Z",
+      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "tags": [
+        "security",
+        "api",
+        "webdev",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
+    },
+    {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
       "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
       "published_at": "2026-07-29T22:02:22Z",
@@ -59,21 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
-      "published_at": "2026-07-30T06:55:16Z",
-      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "tags": [
-        "buildwithai",
-        "antigravity",
-        "docker",
-        "orquestator"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
       "source": "Dev.to",
       "user": "DanielleWashington"
+    },
+    {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
@@ -401,21 +401,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
-    },
-    {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
-      "published_at": "2026-07-27T02:11:38Z",
-      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
     },
     {
       "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "0xwilliamortiz"
     },
     {
@@ -776,8 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 506,
       "user": "QwenAudio"
+    },
+    {
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "source": "GitHub",
+      "stars": 365,
+      "user": "Noniv"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 950,
       "user": "VictorTaelin"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 501,
       "user": "gavamedia"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "lingbol088-spec"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "grafana"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "steelbrain"
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2420,
+      "stars": 2433,
       "user": "mshumer"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 687,
       "user": "xikhar"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "0xwilliamortiz"
     },
     {
@@ -1435,23 +1435,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 506,
       "user": "QwenAudio"
     },
     {
-      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "published_at": "2026-07-27T08:43:36Z",
-      "description": "A space exploration game built by Claude Opus 5",
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 361,
-      "user": "achimala"
+      "stars": 365,
+      "user": "Noniv"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1465,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "grafana"
     },
     {
@@ -1484,6 +1484,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "published_at": "2026-07-30T18:17:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
+      "source": "GitHub",
+      "stars": 521,
+      "user": "bashalarmistalt"
+    },
+    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -1495,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 504,
       "user": "talivia-group"
     },
     {
@@ -1510,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "NikolayS"
     },
     {
@@ -1525,23 +1540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 429,
       "user": "wassgha"
     },
     {
-      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "published_at": "2026-07-30T18:17:54Z",
-      "description": "Trending GitHub Repository",
+      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "url": "https://github.com/Quantova/quantova-cli",
+      "published_at": "2026-07-27T13:47:34Z",
+      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
       "tags": [
-        "typescript",
+        "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 373,
-      "user": "bashalarmistalt"
+      "stars": 71,
+      "user": "Quantova"
     },
     {
       "title": "Building Progressively Enhanced Forms Using htmx",
@@ -1588,7 +1603,7 @@
       "title": "Why is useContext(CourseContext) returning undefined in App.jsx even though App is wrapped with CourseContextProvider in index.js?",
       "url": "https://stackoverflow.com/questions/79989150/why-is-usecontextcoursecontext-returning-undefined-in-app-jsx-even-though-app",
       "published_at": "2026-07-30T09:26:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "reactjs",
@@ -1646,7 +1661,7 @@
       "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
       "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
       "published_at": "2026-07-29T14:19:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "maplibre-gl"
@@ -1936,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 950,
       "user": "VictorTaelin"
     },
     {
@@ -1951,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 501,
       "user": "gavamedia"
     },
     {
@@ -1966,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "lingbol088-spec"
     },
     {
@@ -1996,18 +2011,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 292,
       "user": "lij768423-svg"
     },
     {
       "title": "Trying to Change A Pixel in Python",
       "url": "https://stackoverflow.com/questions/79989338/trying-to-change-a-pixel-in-python",
       "published_at": "2026-07-31T00:39:31.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
+        "numpy",
         "opencv",
-        "matplotlib"
+        "matplotlib",
+        "variable-assignment"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2412,7 +2429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "grafana"
     },
     {
@@ -2507,21 +2524,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
       "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
       "published_at": "2026-07-28T16:14:00Z",
@@ -2550,6 +2552,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
@@ -2730,6 +2747,21 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2989,21 +3021,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers",
-      "url": "https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25",
-      "published_at": "2026-07-27T02:11:38Z",
-      "description": "Let me start with a question.  If a stranger handed you a USB drive and said \"plug this in, it just...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu0vsq0q09anx3bao1dzh.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
     },
     {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
@@ -3292,21 +3309,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
       "published_at": "2026-07-27T20:54:36Z",
@@ -3335,6 +3337,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3428,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2420,
+      "stars": 2433,
       "user": "mshumer"
     },
     {
@@ -3443,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 687,
       "user": "xikhar"
     },
     {
@@ -3458,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 565,
       "user": "0xwilliamortiz"
     },
     {
@@ -3473,23 +3505,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 506,
       "user": "QwenAudio"
     },
     {
-      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "published_at": "2026-07-27T08:43:36Z",
-      "description": "A space exploration game built by Claude Opus 5",
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 361,
-      "user": "achimala"
+      "stars": 365,
+      "user": "Noniv"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3503,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 937,
+      "stars": 950,
       "user": "VictorTaelin"
     },
     {
@@ -3518,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 501,
       "user": "gavamedia"
     },
     {
@@ -3533,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "lingbol088-spec"
     },
     {
@@ -3563,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 292,
       "user": "lij768423-svg"
     },
     {
@@ -3578,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 218,
       "user": "codermyxiaoc"
     },
     {
@@ -3593,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 150,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3608,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "grafana"
     },
     {
@@ -3623,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "byJoey"
     },
     {
@@ -3657,6 +3689,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "published_at": "2026-07-30T18:17:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
+      "source": "GitHub",
+      "stars": 521,
+      "user": "bashalarmistalt"
+    },
+    {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
       "url": "https://github.com/talivia-group/talivia",
       "published_at": "2026-07-29T07:56:49Z",
@@ -3668,7 +3715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 504,
       "user": "talivia-group"
     },
     {
@@ -3683,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "NikolayS"
     },
     {
@@ -3698,23 +3745,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 429,
       "user": "wassgha"
-    },
-    {
-      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "published_at": "2026-07-30T18:17:54Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
-      "source": "GitHub",
-      "stars": 373,
-      "user": "bashalarmistalt"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3728,7 +3760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 178,
       "user": "steelbrain"
     },
     {
@@ -3743,7 +3775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "jchultarsky"
     },
     {
@@ -3773,23 +3805,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182771572?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "JYH1878"
     },
     {
-      "title": "hkc5/cursor-bridge - Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
-      "url": "https://github.com/hkc5/cursor-bridge",
-      "published_at": "2026-07-26T21:10:47Z",
-      "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
+      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "url": "https://github.com/Quantova/quantova-cli",
+      "published_at": "2026-07-27T13:47:34Z",
+      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142545736?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 70,
-      "user": "hkc5"
+      "stars": 71,
+      "user": "Quantova"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
