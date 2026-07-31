@@ -16,21 +16,6 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
@@ -776,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 378,
       "user": "QwenAudio"
-    },
-    {
-      "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "published_at": "2026-07-24T19:52:13Z",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
-      "source": "GitHub",
-      "stars": 987,
-      "user": "mikiarlo3"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -806,23 +791,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 933,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "MoonshotAI"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -836,23 +806,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "gavamedia"
     },
     {
-      "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "url": "https://github.com/perplexityai/numbat",
-      "published_at": "2026-07-24T06:07:59Z",
-      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "published_at": "2026-07-25T16:38:04Z",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 379,
-      "user": "perplexityai"
+      "stars": 296,
+      "user": "lingbol088-spec"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "PipeNetwork"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -866,8 +851,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "grafana"
+    },
+    {
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
+      "source": "GitHub",
+      "stars": 357,
+      "user": "deerwork-ai"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "steelbrain"
     },
     {
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "iamrohithrnair"
     },
     {
@@ -930,7 +930,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "visual-studio-code",
@@ -957,6 +957,20 @@
       "user": "Chip Uni"
     },
     {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published_at": "2026-07-31T01:06:54.000Z",
+      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
       "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
       "published_at": "2026-07-30T23:28:05.000Z",
@@ -979,7 +993,7 @@
         "Anthropic",
         "hedge fund",
         "Leverage",
-        "stock market"
+        "situational awareness"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -991,8 +1005,8 @@
       "published_at": "2026-07-30T23:08:58.000Z",
       "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
       "tags": [
-        "Social",
         "AI",
+        "Social",
         "Google",
         "Reddit"
       ],
@@ -1092,22 +1106,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "url": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "published_at": "2026-07-30T18:38:12.000Z",
-      "description": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-      "tags": [
-        "Climate",
-        "Transportation",
-        "air taxi",
-        "EV charging",
-        "eVTOL"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1407,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2398,
+      "stars": 2405,
       "user": "mshumer"
     },
     {
@@ -1422,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "xikhar"
     },
     {
@@ -1441,21 +1439,6 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "published_at": "2026-07-27T08:43:36Z",
-      "description": "A space exploration game built by Claude Opus 5",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
-      "source": "GitHub",
-      "stars": 353,
-      "user": "achimala"
-    },
-    {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "published_at": "2026-07-27T05:04:26Z",
@@ -1467,8 +1450,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 378,
       "user": "QwenAudio"
+    },
+    {
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "achimala"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1482,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "grafana"
     },
     {
@@ -1512,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "talivia-group"
     },
     {
@@ -1527,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 440,
       "user": "NikolayS"
     },
     {
@@ -1542,38 +1540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 404,
       "user": "wassgha"
     },
     {
-      "title": "letstri/druk - GitHub Repository",
-      "url": "https://github.com/letstri/druk",
-      "published_at": "2026-07-24T14:23:15Z",
-      "description": "Trending GitHub Repository",
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13253748?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 367,
-      "user": "letstri"
-    },
-    {
-      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "url": "https://github.com/Quantova/quantova-cli",
-      "published_at": "2026-07-27T13:47:34Z",
-      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "Quantova"
+      "stars": 357,
+      "user": "deerwork-ai"
     },
     {
       "title": "Building Progressively Enhanced Forms Using htmx",
@@ -1957,21 +1940,6 @@
       "user": "arathore"
     },
     {
-      "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "published_at": "2026-07-24T19:52:13Z",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
-      "source": "GitHub",
-      "stars": 987,
-      "user": "mikiarlo3"
-    },
-    {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "url": "https://github.com/VictorTaelin/OptMem",
       "published_at": "2026-07-25T16:58:43Z",
@@ -1983,38 +1951,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 933,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "MoonshotAI"
-    },
-    {
-      "title": "mikehasa/agentacct - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 538,
-      "user": "mikehasa"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -2028,8 +1966,67 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "gavamedia"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "published_at": "2026-07-25T16:38:04Z",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 296,
+      "user": "lingbol088-spec"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "PipeNetwork"
+    },
+    {
+      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
+      "url": "https://github.com/lij768423-svg/grok-register-panel",
+      "published_at": "2026-07-29T09:25:01Z",
+      "description": "Grok register engine (Camoufox) + live web monitor panel",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "lij768423-svg"
+    },
+    {
+      "title": "Trying to Change A Pixel in Python",
+      "url": "https://stackoverflow.com/questions/79989338/trying-to-change-a-pixel-in-python",
+      "published_at": "2026-07-31T00:39:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "opencv",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Razgriz"
     },
     {
       "title": "ConnectionResetError: [WinError 10054] in asyncio Proactor event loop on Windows (Python 3.13) without explicit socket handling",
@@ -2051,7 +2048,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "visual-studio-code",
@@ -2095,7 +2092,7 @@
       "title": "How do I get correct type hints in subclass?",
       "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
       "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-typing",
@@ -2121,6 +2118,18 @@
       "user": "Bussller"
     },
     {
+      "title": "b64encode() / b64decode - unbalanced encoding",
+      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
+      "published_at": "2026-07-29T22:56:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
       "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
       "published_at": "2026-07-30T07:50:56.000Z",
@@ -2135,18 +2144,6 @@
       "user": "sefat khan"
     },
     {
-      "title": "b64encode() / b64decode - unbalanced encoding",
-      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
-      "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
       "title": "How to retrieve a variable from another threading.Thread?",
       "url": "https://stackoverflow.com/questions/79987816/how-to-retrieve-a-variable-from-another-threading-thread",
       "published_at": "2026-07-29T10:43:49.000Z",
@@ -2159,22 +2156,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Unknow 15465426"
-    },
-    {
-      "title": "PPO Agent refuses to place orders in custom Gymnasium Inventory Environment (stuck in local minimum)",
-      "url": "https://stackoverflow.com/questions/79989057/ppo-agent-refuses-to-place-orders-in-custom-gymnasium-inventory-environment-stu",
-      "published_at": "2026-07-30T03:58:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "reinforcement-learning",
-        "inventory-management",
-        "gymnasium",
-        "stablebaseline3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ryan Foster"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2446,7 +2427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "grafana"
     },
     {
@@ -3218,6 +3199,20 @@
       "user": "benjimin"
     },
     {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published_at": "2026-07-31T01:06:54.000Z",
+      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
       "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
       "published_at": "2026-07-30T20:13:12.000Z",
@@ -3448,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2398,
+      "stars": 2405,
       "user": "mshumer"
     },
     {
@@ -3463,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 673,
       "user": "xikhar"
     },
     {
@@ -3482,21 +3477,6 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
-      "url": "https://github.com/achimala/TheLongSilence",
-      "published_at": "2026-07-27T08:43:36Z",
-      "description": "A space exploration game built by Claude Opus 5",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
-      "source": "GitHub",
-      "stars": 353,
-      "user": "achimala"
-    },
-    {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "published_at": "2026-07-27T05:04:26Z",
@@ -3508,23 +3488,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 378,
       "user": "QwenAudio"
     },
     {
-      "title": "mikiarlo3/ai-copywriter - An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "published_at": "2026-07-24T19:52:13Z",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1715109?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 987,
-      "user": "mikiarlo3"
+      "stars": 354,
+      "user": "achimala"
     },
     {
       "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
@@ -3538,38 +3518,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 933,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "MoonshotAI/MoonEP - MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "published_at": "2026-07-24T09:07:21Z",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129152888?v=4",
-      "source": "GitHub",
-      "stars": 925,
-      "user": "MoonshotAI"
-    },
-    {
-      "title": "mikehasa/agentacct - See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "url": "https://github.com/mikehasa/agentacct",
-      "published_at": "2026-07-24T16:28:06Z",
-      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91774998?v=4",
-      "source": "GitHub",
-      "stars": 538,
-      "user": "mikehasa"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -3583,23 +3533,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 478,
       "user": "gavamedia"
     },
     {
-      "title": "perplexityai/numbat - Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "url": "https://github.com/perplexityai/numbat",
-      "published_at": "2026-07-24T06:07:59Z",
-      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "published_at": "2026-07-25T16:38:04Z",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/185426709?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 379,
-      "user": "perplexityai"
+      "stars": 296,
+      "user": "lingbol088-spec"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 293,
+      "user": "PipeNetwork"
+    },
+    {
+      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
+      "url": "https://github.com/lij768423-svg/grok-register-panel",
+      "published_at": "2026-07-29T09:25:01Z",
+      "description": "Grok register engine (Camoufox) + live web monitor panel",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "lij768423-svg"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3628,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3643,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "grafana"
     },
     {
@@ -3660,6 +3640,21 @@
       "source": "GitHub",
       "stars": 85,
       "user": "byJoey"
+    },
+    {
+      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
+      "url": "https://github.com/torrischen/goat",
+      "published_at": "2026-07-26T07:11:14Z",
+      "description": "goat is a package provides agent framework written in golang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "torrischen"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3688,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "talivia-group"
     },
     {
@@ -3703,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 440,
       "user": "NikolayS"
     },
     {
@@ -3718,23 +3713,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 404,
       "user": "wassgha"
     },
     {
-      "title": "letstri/druk - GitHub Repository",
-      "url": "https://github.com/letstri/druk",
-      "published_at": "2026-07-24T14:23:15Z",
-      "description": "Trending GitHub Repository",
+      "title": "deerwork-ai/deer-workflow - An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "published_at": "2026-07-26T04:20:50Z",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13253748?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/305389025?v=4",
       "source": "GitHub",
-      "stars": 367,
-      "user": "letstri"
+      "stars": 357,
+      "user": "deerwork-ai"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3748,7 +3743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "steelbrain"
     },
     {
@@ -3763,7 +3758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "jchultarsky"
     },
     {
@@ -3778,7 +3773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "iamrohithrnair"
     },
     {
@@ -3793,29 +3788,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182771572?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 75,
       "user": "JYH1878"
     },
     {
-      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "url": "https://github.com/Quantova/quantova-cli",
-      "published_at": "2026-07-27T13:47:34Z",
-      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "title": "hkc5/cursor-bridge - Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
+      "url": "https://github.com/hkc5/cursor-bridge",
+      "published_at": "2026-07-26T21:10:47Z",
+      "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142545736?v=4",
       "source": "GitHub",
-      "stars": 60,
-      "user": "Quantova"
+      "stars": 65,
+      "user": "hkc5"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "visual-studio-code",
