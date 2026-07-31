@@ -91,21 +91,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
-      "published_at": "2026-07-28T11:09:48Z",
-      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
-      "source": "Dev.to",
-      "user": "Julien Landuré"
-    },
-    {
       "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
       "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
       "published_at": "2026-07-28T15:12:02Z",
@@ -178,21 +163,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Does it still make sense to learn how to code?",
       "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
       "published_at": "2026-07-30T11:27:07Z",
@@ -253,21 +223,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Build and Deploy Java AI Agents with Google ADK",
       "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
       "published_at": "2026-07-27T19:24:51Z",
@@ -311,21 +266,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
       "user": "Shy Ruparel"
-    },
-    {
-      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
-      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
-      "published_at": "2026-07-28T16:14:00Z",
-      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
@@ -461,6 +401,66 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
+    },
+    {
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
+      "published_at": "2026-07-28T11:09:48Z",
+      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
+      "source": "Dev.to",
+      "user": "Julien Landuré"
+    },
+    {
+      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
+      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
+      "published_at": "2026-07-28T16:14:00Z",
+      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "QwenAudio"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 403,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1012,
       "user": "VictorTaelin"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "gavamedia"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "lingbol088-spec"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "PipeNetwork"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "grafana"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 205,
       "user": "steelbrain"
     },
     {
@@ -901,17 +901,16 @@
       "user": "iamrohithrnair"
     },
     {
-      "title": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "published_at": "2026-07-30T08:57:07.296-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Making sure pairs of integers are contained in a list",
+      "url": "https://stackoverflow.com/questions/79989572/making-sure-pairs-of-integers-are-contained-in-a-list",
+      "published_at": "2026-07-31T19:42:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "design",
-        "vibecoding"
+        "python"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "carlana"
+      "source": "StackOverflow",
+      "user": "troppapolvere"
     },
     {
       "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
@@ -956,6 +955,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "published_at": "2026-07-31T19:47:28.000Z",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "tags": [
+        "AI",
+        "Google",
+        "google earth",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "published_at": "2026-07-31T19:39:51.000Z",
+      "description": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "tags": [
+        "Fundraising",
+        "Venture",
+        "In Brief",
+        "Index Ventures",
+        "wiz"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
@@ -1048,36 +1078,19 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "published_at": "2026-07-31T14:47:11.000Z",
-      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
+      "url": "https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/",
+      "published_at": "2026-07-31T15:36:41.000Z",
+      "description": "You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to",
       "tags": [
+        "agentic AI",
+        "chatbot",
         "AI",
-        "Startups",
-        "Venture",
-        "customer support",
-        "voice AI"
+        "Artificial Intelligence"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "published_at": "2026-07-31T13:45:53.000Z",
-      "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
-      "tags": [
-        "Space",
-        "Transportation",
-        "Elon Musk",
-        "In Brief",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1348,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2488,
+      "stars": 2501,
       "user": "mshumer"
     },
     {
@@ -1378,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "QwenAudio"
     },
     {
@@ -1408,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 403,
       "user": "Noniv"
     },
     {
@@ -1423,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "grafana"
     },
     {
@@ -1438,8 +1451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1490,
+      "stars": 1640,
       "user": "bashalarmistalt"
+    },
+    {
+      "title": "yc-software/qm - Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "published_at": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
+      "source": "GitHub",
+      "stars": 802,
+      "user": "yc-software"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -1483,23 +1511,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "wassgha"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 456,
-      "user": "NikolayS"
     },
     {
       "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
@@ -1513,14 +1526,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "Quantova"
     },
     {
       "title": "Access all objects key's values in nested object dynamically",
       "url": "https://stackoverflow.com/questions/79989543/access-all-objects-keys-values-in-nested-object-dynamically",
       "published_at": "2026-07-31T16:57:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "node.js"
@@ -1528,6 +1541,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "xFgn"
+    },
+    {
+      "title": "UPI deep link popup causes JSP page to reload/navigate back while countdown timer is running",
+      "url": "https://stackoverflow.com/questions/79989542/upi-deep-link-popup-causes-jsp-page-to-reload-navigate-back-while-countdown-time",
+      "published_at": "2026-07-31T16:54:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "jsp",
+        "deep-linking",
+        "upi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "komal mane"
     },
     {
       "title": "Chance of conflicts using stateful classes",
@@ -1644,19 +1672,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Heba Allah Hashim"
-    },
-    {
-      "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
-      "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
-      "published_at": "2026-07-28T17:53:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1867,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1012,
       "user": "VictorTaelin"
     },
     {
@@ -1882,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "gavamedia"
     },
     {
@@ -1897,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "lingbol088-spec"
     },
     {
@@ -1912,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "lij768423-svg"
     },
     {
@@ -1927,14 +1942,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "PipeNetwork"
+    },
+    {
+      "title": "Making sure pairs of integers are contained in a list",
+      "url": "https://stackoverflow.com/questions/79989572/making-sure-pairs-of-integers-are-contained-in-a-list",
+      "published_at": "2026-07-31T19:42:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "troppapolvere"
+    },
+    {
+      "title": "Scrapy not returning items despite crawling?",
+      "url": "https://stackoverflow.com/questions/79989568/scrapy-not-returning-items-despite-crawling",
+      "published_at": "2026-07-31T19:15:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "web-scraping",
+        "scrapy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gabriel Silva"
     },
     {
       "title": "Apply a user-defined function (UDF) to Pandas",
       "url": "https://stackoverflow.com/questions/79989470/apply-a-user-defined-function-udf-to-pandas",
       "published_at": "2026-07-31T11:44:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "pandas",
@@ -2047,32 +2088,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "b64encode() / b64decode - unbalanced encoding",
-      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
-      "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Copy to stdout with CSV header always hangs",
-      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
-      "published_at": "2026-07-30T01:12:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "psycopg3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jim Garrison"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2329,7 +2344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "grafana"
     },
     {
@@ -2394,21 +2409,6 @@
   ],
   "Mobile": [
     {
-      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
-      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
-      "published_at": "2026-07-27T22:37:30Z",
-      "description": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in Flutter Hooks applications.",
-      "tags": [
-        "flutter",
-        "dart",
-        "bloc",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
       "published_at": "2026-07-27T15:37:53Z",
@@ -2420,21 +2420,6 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
-      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
-      "published_at": "2026-07-28T16:14:00Z",
-      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2465,6 +2450,36 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
+      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
+      "published_at": "2026-07-28T16:14:00Z",
+      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
+      "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
+      "published_at": "2026-07-27T22:37:30Z",
+      "description": "Discover how BlocSignal and signals_hooks eliminate flutter_bloc glue code, stream overhead, and widget tree nesting in Flutter Hooks applications.",
+      "tags": [
+        "flutter",
+        "dart",
+        "bloc",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2782,20 +2797,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fi Li Ppo"
-    },
-    {
-      "title": "Copy to stdout with CSV header always hangs",
-      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
-      "published_at": "2026-07-30T01:12:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "psycopg3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jim Garrison"
     }
   ],
   "Security": [
@@ -2845,36 +2846,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -2903,6 +2874,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -3100,36 +3101,6 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
       "published_at": "2026-07-27T20:54:36Z",
@@ -3205,6 +3176,36 @@
       "user": "Klaudia Grzondziel"
     },
     {
+      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
+      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
+      "published_at": "2026-07-29T02:17:31Z",
+      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
+      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
+      "published_at": "2026-07-28T02:21:07Z",
+      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
       "published_at": "2026-07-24T12:27:58Z",
@@ -3267,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2488,
+      "stars": 2501,
       "user": "mshumer"
     },
     {
@@ -3297,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "QwenAudio"
     },
     {
@@ -3327,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 403,
       "user": "Noniv"
     },
     {
@@ -3342,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1005,
+      "stars": 1012,
       "user": "VictorTaelin"
     },
     {
@@ -3357,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 539,
       "user": "gavamedia"
     },
     {
@@ -3372,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "lingbol088-spec"
     },
     {
@@ -3387,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "lij768423-svg"
     },
     {
@@ -3402,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "PipeNetwork"
     },
     {
@@ -3447,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 150,
       "user": "grafana"
     },
     {
@@ -3492,8 +3493,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1490,
+      "stars": 1640,
       "user": "bashalarmistalt"
+    },
+    {
+      "title": "yc-software/qm - Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "published_at": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
+      "source": "GitHub",
+      "stars": 802,
+      "user": "yc-software"
     },
     {
       "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
@@ -3537,23 +3553,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "wassgha"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 456,
-      "user": "NikolayS"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3567,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 205,
       "user": "steelbrain"
     },
     {
@@ -3612,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "Quantova"
     },
     {
@@ -3661,6 +3662,21 @@
       "user": "Chip Uni"
     },
     {
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "published_at": "2026-07-31T19:47:28.000Z",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "tags": [
+        "AI",
+        "Google",
+        "google earth",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
       "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
       "published_at": "2026-07-31T14:49:21.000Z",
@@ -3673,21 +3689,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "WhatsApp is testing a new folder for messages from large businesses",
-      "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
-      "published_at": "2026-07-31T14:39:43.000Z",
-      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
-      "tags": [
-        "Apps",
-        "WhatsApp",
-        "Meta",
-        "whatsapp business"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
