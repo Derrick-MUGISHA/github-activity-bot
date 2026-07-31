@@ -46,21 +46,6 @@
       "user": "Giulio D'Erme"
     },
     {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
-      "published_at": "2026-07-31T13:17:16Z",
-      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
-      "tags": [
-        "ai",
-        "opensource",
-        "hardware",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
+      "published_at": "2026-07-31T13:17:16Z",
+      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
+      "tags": [
+        "ai",
+        "opensource",
+        "hardware",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -193,21 +193,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
-      "published_at": "2026-07-31T02:28:26Z",
-      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Does it still make sense to learn how to code?",
       "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
       "published_at": "2026-07-30T11:27:07Z",
@@ -221,6 +206,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
       "source": "Dev.to",
       "user": "Roberto B."
+    },
+    {
+      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
+      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
+      "published_at": "2026-07-31T02:28:26Z",
+      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 597,
       "user": "QwenAudio"
     },
     {
@@ -792,8 +792,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 398,
       "user": "Noniv"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 1005,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 538,
+      "user": "gavamedia"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "published_at": "2026-07-25T16:38:04Z",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "lingbol088-spec"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "PipeNetwork"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -807,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "grafana"
     },
     {
@@ -822,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 202,
       "user": "steelbrain"
     },
     {
@@ -898,10 +958,26 @@
       "user": "Chip Uni"
     },
     {
+      "title": "Sam Altman isn&#8217;t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "published_at": "2026-07-31T17:26:32.000Z",
+      "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+      "tags": [
+        "AI",
+        "Startups",
+        "Amazon",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
       "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
       "published_at": "2026-07-31T16:49:08.000Z",
-      "description": "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
       "tags": [
         "AI",
         "Apps",
@@ -1002,20 +1078,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sean O'Kane"
-    },
-    {
-      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "published_at": "2026-07-31T12:00:00.000Z",
-      "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1286,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2484,
+      "stars": 2488,
       "user": "mshumer"
     },
     {
@@ -1301,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "xikhar"
     },
     {
@@ -1316,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 597,
       "user": "QwenAudio"
     },
     {
@@ -1346,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 398,
       "user": "Noniv"
     },
     {
@@ -1361,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "grafana"
     },
     {
@@ -1376,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1490,
       "user": "bashalarmistalt"
     },
     {
@@ -1406,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "talivia-group"
     },
     {
@@ -1421,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "wassgha"
     },
     {
@@ -1436,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "NikolayS"
     },
     {
@@ -1453,6 +1515,19 @@
       "source": "GitHub",
       "stars": 79,
       "user": "Quantova"
+    },
+    {
+      "title": "Access all objects key's values in nested object dynamically",
+      "url": "https://stackoverflow.com/questions/79989543/access-all-objects-keys-values-in-nested-object-dynamically",
+      "published_at": "2026-07-31T16:57:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xFgn"
     },
     {
       "title": "Chance of conflicts using stateful classes",
@@ -1582,21 +1657,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "React use() cache gets overwritten by an older Promise after invalidation",
-      "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
-      "published_at": "2026-07-27T19:43:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "caching",
-        "promise"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Brierton"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1794,6 +1854,81 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "arathore"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 1005,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 538,
+      "user": "gavamedia"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "published_at": "2026-07-25T16:38:04Z",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "lingbol088-spec"
+    },
+    {
+      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
+      "url": "https://github.com/lij768423-svg/grok-register-panel",
+      "published_at": "2026-07-29T09:25:01Z",
+      "description": "Grok register engine (Camoufox) + live web monitor panel",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "source": "GitHub",
+      "stars": 306,
+      "user": "lij768423-svg"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "PipeNetwork"
     },
     {
       "title": "Apply a user-defined function (UDF) to Pandas",
@@ -2194,7 +2329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "grafana"
     },
     {
@@ -2665,21 +2800,6 @@
   ],
   "Security": [
     {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
-      "published_at": "2026-07-31T13:17:16Z",
-      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
-      "tags": [
-        "ai",
-        "opensource",
-        "hardware",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -2693,6 +2813,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
+      "published_at": "2026-07-31T13:17:16Z",
+      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
+      "tags": [
+        "ai",
+        "opensource",
+        "hardware",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
@@ -3132,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2484,
+      "stars": 2488,
       "user": "mshumer"
     },
     {
@@ -3147,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "xikhar"
     },
     {
@@ -3162,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 597,
       "user": "QwenAudio"
     },
     {
@@ -3192,8 +3327,83 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 398,
       "user": "Noniv"
+    },
+    {
+      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "published_at": "2026-07-25T16:58:43Z",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "source": "GitHub",
+      "stars": 1005,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 538,
+      "user": "gavamedia"
+    },
+    {
+      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+      "published_at": "2026-07-25T16:38:04Z",
+      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "lingbol088-spec"
+    },
+    {
+      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
+      "url": "https://github.com/lij768423-svg/grok-register-panel",
+      "published_at": "2026-07-29T09:25:01Z",
+      "description": "Grok register engine (Camoufox) + live web monitor panel",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "source": "GitHub",
+      "stars": 306,
+      "user": "lij768423-svg"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 302,
+      "user": "PipeNetwork"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3237,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "grafana"
     },
     {
@@ -3282,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1490,
       "user": "bashalarmistalt"
     },
     {
@@ -3312,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 517,
       "user": "talivia-group"
     },
     {
@@ -3327,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "wassgha"
     },
     {
@@ -3342,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 456,
       "user": "NikolayS"
     },
     {
@@ -3357,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 202,
       "user": "steelbrain"
     },
     {
