@@ -46,21 +46,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "published_at": "2026-07-29T22:02:22Z",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "tags": [
-        "tpu",
-        "llm",
-        "jax",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -238,6 +223,21 @@
       "user": "xbill"
     },
     {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
       "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
       "published_at": "2026-07-28T14:00:00Z",
@@ -401,21 +401,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 558,
       "user": "QwenAudio"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 379,
       "user": "Noniv"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "VictorTaelin"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 518,
       "user": "gavamedia"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "lingbol088-spec"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "PipeNetwork"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "grafana"
     },
     {
@@ -866,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "steelbrain"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "iamrohithrnair"
     },
     {
@@ -940,6 +925,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "published_at": "2026-07-31T12:00:00.000Z",
+      "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+      "tags": [
+        "Startups",
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -1077,22 +1075,6 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published_at": "2026-07-30T18:57:58.000Z",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "tags": [
-        "AI",
-        "Security",
-        "Chrome",
-        "Google",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
       "url": "https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/",
       "published_at": "2026-07-30T14:40:30.000Z",
@@ -1199,21 +1181,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
-      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
-      "published_at": "2026-07-28T05:12:29Z",
-      "description": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
-      "tags": [
-        "javascript",
-        "node",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
       "published_at": "2026-07-28T10:50:54Z",
@@ -1244,19 +1211,19 @@
       "user": "xbill"
     },
     {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
+      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
+      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
+      "published_at": "2026-07-28T05:12:29Z",
+      "description": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
       "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
+        "javascript",
+        "node",
+        "sideprojects",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
       "source": "Dev.to",
-      "user": "Connie Leung"
+      "user": "Evan Lin"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1390,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2447,
+      "stars": 2456,
       "user": "mshumer"
     },
     {
@@ -1405,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "xikhar"
     },
     {
@@ -1435,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 558,
       "user": "QwenAudio"
     },
     {
@@ -1450,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 379,
       "user": "Noniv"
     },
     {
@@ -1465,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "grafana"
     },
     {
@@ -1480,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 841,
       "user": "bashalarmistalt"
     },
     {
@@ -1510,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "talivia-group"
     },
     {
@@ -1525,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "NikolayS"
     },
     {
@@ -1540,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 447,
       "user": "wassgha"
     },
     {
@@ -1555,21 +1522,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "Quantova"
-    },
-    {
-      "title": "Building Progressively Enhanced Forms Using htmx",
-      "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-      "published_at": "2026-07-30T07:17:01.492-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "raffomania"
     },
     {
       "title": "Chance of conflicts using stateful classes",
@@ -1938,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "VictorTaelin"
     },
     {
@@ -1953,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 518,
       "user": "gavamedia"
     },
     {
@@ -1968,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "lingbol088-spec"
     },
     {
@@ -1983,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "lij768423-svg"
     },
     {
@@ -1998,8 +1952,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "PipeNetwork"
+    },
+    {
+      "title": "Select one subset or another depending on condition in a single query",
+      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
+      "published_at": "2026-07-31T11:29:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
     },
     {
       "title": "Trying to Change A Pixel in Python",
@@ -2078,6 +2046,18 @@
       "user": "Jim Garrison"
     },
     {
+      "title": "b64encode() / b64decode - unbalanced encoding",
+      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
+      "published_at": "2026-07-29T22:56:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "How do I get correct type hints in subclass?",
       "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
       "published_at": "2026-07-30T00:16:28.000Z",
@@ -2090,18 +2070,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "b64encode() / b64decode - unbalanced encoding",
-      "url": "https://stackoverflow.com/questions/79988026/b64encode-b64decode-unbalanced-encoding",
-      "published_at": "2026-07-29T22:56:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
@@ -2117,20 +2085,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bussller"
-    },
-    {
-      "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
-      "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
-      "published_at": "2026-07-30T07:50:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "playwright",
-        "reddit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sefat khan"
     },
     {
       "title": "How to retrieve a variable from another threading.Thread?",
@@ -2416,7 +2370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "grafana"
     },
     {
@@ -2573,21 +2527,6 @@
   ],
   "Cloud": [
     {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "published_at": "2026-07-29T22:02:22Z",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "tags": [
-        "tpu",
-        "llm",
-        "jax",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -2629,6 +2568,21 @@
         "debian"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2736,21 +2690,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Build Firebase AI Logic Application with Antigravity CLI and Stitch MCP Server [GDE]",
-      "url": "https://dev.to/gde/build-firebase-ai-logic-application-with-antigravity-cli-and-stitch-mcp-server-gde-g6o",
-      "published_at": "2026-07-15T06:50:10Z",
-      "description": "Build Firebase AI Logic with Antigravity CLI   Note: Google Cloud credits are provided for...",
-      "tags": [
-        "ai",
-        "angular",
-        "agenticarchitect",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yrankjrqvlxmmflmsce.jpg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
@@ -2903,6 +2842,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "visdev"
+    },
+    {
+      "title": "Select one subset or another depending on condition in a single query",
+      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
+      "published_at": "2026-07-31T11:29:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
     },
     {
       "title": "Copy to stdout with CSV header always hangs",
@@ -3219,22 +3172,6 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published_at": "2026-07-30T18:57:58.000Z",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "tags": [
-        "AI",
-        "Security",
-        "Chrome",
-        "Google",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3448,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2447,
+      "stars": 2456,
       "user": "mshumer"
     },
     {
@@ -3463,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 697,
       "user": "xikhar"
     },
     {
@@ -3493,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 558,
       "user": "QwenAudio"
     },
     {
@@ -3508,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 379,
       "user": "Noniv"
     },
     {
@@ -3523,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 977,
       "user": "VictorTaelin"
     },
     {
@@ -3538,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 518,
       "user": "gavamedia"
     },
     {
@@ -3553,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 306,
       "user": "lingbol088-spec"
     },
     {
@@ -3568,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 300,
       "user": "lij768423-svg"
     },
     {
@@ -3583,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "PipeNetwork"
     },
     {
@@ -3613,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3628,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 136,
       "user": "grafana"
     },
     {
@@ -3673,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 841,
       "user": "bashalarmistalt"
     },
     {
@@ -3703,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 510,
       "user": "talivia-group"
     },
     {
@@ -3718,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "NikolayS"
     },
     {
@@ -3733,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 447,
       "user": "wassgha"
     },
     {
@@ -3748,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 185,
       "user": "steelbrain"
     },
     {
@@ -3763,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "jchultarsky"
     },
     {
@@ -3778,7 +3715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "iamrohithrnair"
     },
     {
@@ -3808,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "Quantova"
     },
     {
@@ -3840,22 +3777,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published_at": "2026-07-30T18:57:58.000Z",
-      "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "tags": [
-        "AI",
-        "Security",
-        "Chrome",
-        "Google",
-        "LLMs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
