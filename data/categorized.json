@@ -19,7 +19,7 @@
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "published_at": "2026-07-30T20:43:23Z",
-      "description": "Mem0 beats us on BEAM's 1M bucket. Here is exactly why, what that accuracy costs in money, latency and data egress, and the 46% fabrication rate it ships with.",
+      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
       "tags": [
         "ai",
         "rag",
@@ -29,21 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
       "source": "Dev.to",
       "user": "Giulio D'Erme"
-    },
-    {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bnt"
     },
     {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
@@ -251,6 +236,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
+      "published_at": "2026-07-27T21:09:04Z",
+      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "tags": [
+        "security",
+        "api",
+        "webdev",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
     },
     {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "0xwilliamortiz"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1027,
       "user": "VictorTaelin"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 555,
       "user": "gavamedia"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 213,
       "user": "steelbrain"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "iamrohithrnair"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "hardrave"
     },
     {
@@ -945,7 +945,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "visual-studio-code",
@@ -970,6 +970,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "published_at": "2026-07-31T22:00:00.000Z",
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "tags": [
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "India is starting to pay for apps, not just download them",
@@ -1063,36 +1075,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-      "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "published_at": "2026-07-31T15:37:58.000Z",
-      "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
-      "tags": [
-        "Hardware",
-        "memory chip shortage",
-        "Samsung"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "published_at": "2026-07-31T15:16:17.000Z",
-      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "tags": [
-        "AI",
-        "Climate",
-        "air pollution",
-        "data centers",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1378,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2509,
+      "stars": 2512,
       "user": "mshumer"
     },
     {
@@ -1393,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 714,
       "user": "xikhar"
     },
     {
@@ -1408,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "QwenAudio"
     },
     {
@@ -1423,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "0xwilliamortiz"
     },
     {
@@ -1438,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "Noniv"
     },
     {
@@ -1468,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1853,
       "user": "bashalarmistalt"
     },
     {
@@ -1483,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1467,
       "user": "yc-software"
     },
     {
@@ -1513,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 522,
       "user": "talivia-group"
     },
     {
@@ -1528,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "wassgha"
     },
     {
@@ -1901,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1027,
       "user": "VictorTaelin"
     },
     {
@@ -1916,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 555,
       "user": "gavamedia"
     },
     {
@@ -1965,20 +1947,21 @@
       "user": "PipeNetwork"
     },
     {
-      "title": "Making sure pairs of integers are contained in a list",
-      "url": "https://stackoverflow.com/questions/79989572/making-sure-pairs-of-integers-are-contained-in-a-list",
-      "published_at": "2026-07-31T19:42:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How do I get the autocomplete hints to work for items in my generic dictionary class?",
+      "url": "https://stackoverflow.com/questions/79989585/how-do-i-get-the-autocomplete-hints-to-work-for-items-in-my-generic-dictionary-c",
+      "published_at": "2026-07-31T20:55:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "python-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "troppapolvere"
+      "user": "iamthebull"
     },
     {
-      "title": "Scrapy not returning items despite crawling?",
-      "url": "https://stackoverflow.com/questions/79989568/scrapy-not-returning-items-despite-crawling",
+      "title": "Why is scrapy not returning items despite crawling?",
+      "url": "https://stackoverflow.com/questions/79989568/why-is-scrapy-not-returning-items-despite-crawling",
       "published_at": "2026-07-31T19:15:50.000Z",
       "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
@@ -1989,6 +1972,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gabriel Silva"
+    },
+    {
+      "title": "Making sure pairs of integers are contained in a list",
+      "url": "https://stackoverflow.com/questions/79989572/making-sure-pairs-of-integers-are-contained-in-a-list",
+      "published_at": "2026-07-31T19:42:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "troppapolvere"
     },
     {
       "title": "Apply a user-defined function (UDF) to Pandas",
@@ -2068,7 +2063,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "visual-studio-code",
@@ -2093,20 +2088,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
-    },
-    {
-      "title": "How do I get correct type hints in subclass?",
-      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
-      "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing",
-        "type-hinting"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2820,21 +2801,6 @@
   ],
   "Security": [
     {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bnt"
-    },
-    {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
       "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
       "published_at": "2026-07-31T13:17:16Z",
@@ -2863,6 +2829,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
+      "published_at": "2026-07-27T21:09:04Z",
+      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "tags": [
+        "security",
+        "api",
+        "webdev",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
     },
     {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
@@ -3287,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2509,
+      "stars": 2512,
       "user": "mshumer"
     },
     {
@@ -3302,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 712,
+      "stars": 714,
       "user": "xikhar"
     },
     {
@@ -3317,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "QwenAudio"
     },
     {
@@ -3332,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "0xwilliamortiz"
     },
     {
@@ -3347,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "Noniv"
     },
     {
@@ -3362,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1027,
       "user": "VictorTaelin"
     },
     {
@@ -3377,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 555,
       "user": "gavamedia"
     },
     {
@@ -3512,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1853,
       "user": "bashalarmistalt"
     },
     {
@@ -3527,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1467,
       "user": "yc-software"
     },
     {
@@ -3557,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 522,
       "user": "talivia-group"
     },
     {
@@ -3572,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 468,
       "user": "wassgha"
     },
     {
@@ -3587,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 213,
       "user": "steelbrain"
     },
     {
@@ -3617,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "iamrohithrnair"
     },
     {
@@ -3647,14 +3628,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "hardrave"
+    },
+    {
+      "title": "Accepting a messy git history",
+      "url": "https://beza1e1.tuxen.de/git_two_users.html",
+      "published_at": "2026-07-31T13:27:28.702-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "qznc"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "visual-studio-code",
@@ -3679,6 +3673,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "published_at": "2026-07-31T22:00:00.000Z",
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "tags": [
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
