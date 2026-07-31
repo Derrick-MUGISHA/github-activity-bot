@@ -253,21 +253,6 @@
       "user": "Shy Ruparel"
     },
     {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
       "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
       "published_at": "2026-07-28T16:14:00Z",
@@ -386,6 +371,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "tags": [
+        "agents",
+        "ai",
+        "go",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 568,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 543,
       "user": "QwenAudio"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 375,
       "user": "Noniv"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 970,
       "user": "VictorTaelin"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 510,
       "user": "gavamedia"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "lingbol088-spec"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 297,
       "user": "PipeNetwork"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "grafana"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 183,
       "user": "steelbrain"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "iamrohithrnair"
     },
     {
@@ -915,7 +915,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "visual-studio-code",
@@ -931,7 +931,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "or-tools",
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2447,
       "user": "mshumer"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 693,
       "user": "xikhar"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 568,
       "user": "0xwilliamortiz"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 543,
       "user": "QwenAudio"
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 375,
       "user": "Noniv"
     },
     {
@@ -1465,23 +1465,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "grafana"
-    },
-    {
-      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "published_at": "2026-07-26T21:58:28Z",
-      "description": "runs anywhere. uses anything",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 562,
-      "user": "0xwilliamortiz"
     },
     {
       "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
@@ -1495,8 +1480,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 695,
       "user": "bashalarmistalt"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "published_at": "2026-07-26T21:58:28Z",
+      "description": "runs anywhere. uses anything",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 563,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
@@ -1510,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "talivia-group"
     },
     {
@@ -1525,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "NikolayS"
     },
     {
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 436,
       "user": "wassgha"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 73,
       "user": "Quantova"
     },
     {
@@ -1572,17 +1572,20 @@
       "user": "raffomania"
     },
     {
-      "title": "What side projects have you enjoyed the most?",
-      "url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-      "published_at": "2026-07-29T20:40:31.976-05:00",
-      "description": "In the spirit of https://blog.jsbarretto.com/post/software-is-joy, what side projects have you enjoyed working on the most?",
+      "title": "Chance of conflicts using stateful classes",
+      "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
+      "published_at": "2026-07-31T07:55:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "ask",
-        "programming"
+        "best-practices",
+        "javascript",
+        "mysql",
+        "node.js",
+        "orm"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nick4"
+      "source": "StackOverflow",
+      "user": "visdev"
     },
     {
       "title": "How can I open my game on the user&#180;s mobile device from my website?",
@@ -1698,35 +1701,19 @@
       "user": "Gary"
     },
     {
-      "title": "Can Google Analytics plugin in React / Capacitor accept boolean event parameters, or should they be converted to strings or numbers?",
-      "url": "https://stackoverflow.com/questions/79987709/can-google-analytics-plugin-in-react-capacitor-accept-boolean-event-parameters",
-      "published_at": "2026-07-29T02:53:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "React use() cache gets overwritten by an older Promise after invalidation",
+      "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
+      "published_at": "2026-07-27T19:43:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "best-practices",
         "javascript",
-        "google-analytics",
-        "firebase-analytics",
-        "capacitor"
+        "reactjs",
+        "caching",
+        "promise"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Michal"
-    },
-    {
-      "title": "Canvas Benchmark vs. Browser Profiler",
-      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
-      "published_at": "2026-07-27T05:57:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "canvas",
-        "html5-canvas",
-        "profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dandeto"
+      "user": "David Brierton"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1951,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 970,
       "user": "VictorTaelin"
     },
     {
@@ -1966,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 510,
       "user": "gavamedia"
     },
     {
@@ -1981,23 +1968,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "lingbol088-spec"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "PipeNetwork"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -2011,14 +1983,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 298,
       "user": "lij768423-svg"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "PipeNetwork"
     },
     {
       "title": "Trying to Change A Pixel in Python",
       "url": "https://stackoverflow.com/questions/79989338/trying-to-change-a-pixel-in-python",
       "published_at": "2026-07-31T00:39:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "numpy",
@@ -2034,7 +2021,7 @@
       "title": "ConnectionResetError: [WinError 10054] in asyncio Proactor event loop on Windows (Python 3.13) without explicit socket handling",
       "url": "https://stackoverflow.com/questions/79989280/connectionreseterror-winerror-10054-in-asyncio-proactor-event-loop-on-windows",
       "published_at": "2026-07-30T18:22:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "python-3.x",
@@ -2050,7 +2037,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "visual-studio-code",
@@ -2066,7 +2053,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "or-tools",
@@ -2429,7 +2416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "grafana"
     },
     {
@@ -2460,21 +2447,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lel lel"
-    },
-    {
-      "title": "Canvas Benchmark vs. Browser Profiler",
-      "url": "https://stackoverflow.com/questions/79986203/canvas-benchmark-vs-browser-profiler",
-      "published_at": "2026-07-27T05:57:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "canvas",
-        "html5-canvas",
-        "profiling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dandeto"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -2917,6 +2889,22 @@
       "user": "iancarroll"
     },
     {
+      "title": "Chance of conflicts using stateful classes",
+      "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
+      "published_at": "2026-07-31T07:55:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "mysql",
+        "node.js",
+        "orm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "visdev"
+    },
+    {
       "title": "Copy to stdout with CSV header always hangs",
       "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
       "published_at": "2026-07-30T01:12:05.000Z",
@@ -2993,21 +2981,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
       "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
       "published_at": "2026-07-27T05:24:28Z",
@@ -3021,6 +2994,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "tags": [
+        "agents",
+        "ai",
+        "go",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
@@ -3460,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2447,
       "user": "mshumer"
     },
     {
@@ -3475,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 693,
       "user": "xikhar"
     },
     {
@@ -3490,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 568,
       "user": "0xwilliamortiz"
     },
     {
@@ -3505,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 543,
       "user": "QwenAudio"
     },
     {
@@ -3520,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 375,
       "user": "Noniv"
     },
     {
@@ -3535,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 970,
       "user": "VictorTaelin"
     },
     {
@@ -3550,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 510,
       "user": "gavamedia"
     },
     {
@@ -3565,23 +3553,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "lingbol088-spec"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "PipeNetwork"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3595,8 +3568,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 298,
       "user": "lij768423-svg"
+    },
+    {
+      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+      "published_at": "2026-07-27T23:51:45Z",
+      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "PipeNetwork"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3625,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 155,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3640,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "grafana"
     },
     {
@@ -3655,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "byJoey"
     },
     {
@@ -3670,23 +3658,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "torrischen"
-    },
-    {
-      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "published_at": "2026-07-26T21:58:28Z",
-      "description": "runs anywhere. uses anything",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 562,
-      "user": "0xwilliamortiz"
     },
     {
       "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
@@ -3700,8 +3673,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 695,
       "user": "bashalarmistalt"
+    },
+    {
+      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "published_at": "2026-07-26T21:58:28Z",
+      "description": "runs anywhere. uses anything",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 563,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
@@ -3715,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "talivia-group"
     },
     {
@@ -3730,7 +3718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 448,
       "user": "NikolayS"
     },
     {
@@ -3745,7 +3733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 436,
       "user": "wassgha"
     },
     {
@@ -3760,7 +3748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 183,
       "user": "steelbrain"
     },
     {
@@ -3790,7 +3778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "iamrohithrnair"
     },
     {
@@ -3820,14 +3808,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 73,
       "user": "Quantova"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "visual-studio-code",
@@ -3843,7 +3831,7 @@
       "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
       "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
       "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "or-tools",
