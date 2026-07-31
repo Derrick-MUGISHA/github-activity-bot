@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Your RAG copilot can't count — stop letting it try",
       "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
       "published_at": "2026-07-31T11:00:29Z",
@@ -16,19 +31,19 @@
       "user": "Rodrigo Diego"
     },
     {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+      "published_at": "2026-07-30T20:43:23Z",
+      "description": "Mem0 beats us on BEAM's 1M bucket. Here is exactly why, what that accuracy costs in money, latency and data egress, and the 46% fabrication rate it ships with.",
       "tags": [
         "ai",
-        "agents",
-        "mcp",
-        "agentskills"
+        "rag",
+        "opensource",
+        "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
       "source": "Dev.to",
-      "user": "Tilde A. Thurium"
+      "user": "Giulio D'Erme"
     },
     {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
@@ -59,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "published_at": "2026-07-30T20:43:23Z",
-      "description": "Mem0 beats us on BEAM's 1M bucket. Here is exactly why, what that accuracy costs in money, latency and data egress, and the 46% fabrication rate it ships with.",
-      "tags": [
-        "ai",
-        "rag",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
-      "source": "Dev.to",
-      "user": "Giulio D'Erme"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -208,6 +208,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
+    },
+    {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
       "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5",
       "published_at": "2026-07-29T13:01:42Z",
@@ -236,21 +251,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -478,21 +478,6 @@
       "user": "xbill"
     },
     {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
       "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
       "published_at": "2026-07-25T07:43:00Z",
@@ -581,20 +566,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Stop Hiring a Rocket Scientist to Check If a Box Is Empty",
-      "url": "https://dev.to/ale3oula/stop-hiring-a-rocket-scientist-to-check-if-a-box-is-empty-1i4c",
-      "published_at": "2026-07-23T17:26:44Z",
-      "description": "One thing I've been thinking about lately is what trade-offs companies are willing to make in order...",
-      "tags": [
-        "ai",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8qjmuxjtnum9f12ayk07.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
     },
     {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
@@ -791,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 588,
       "user": "QwenAudio"
     },
     {
@@ -821,68 +792,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "Noniv"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 989,
-      "user": "VictorTaelin"
-    },
-    {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "gavamedia"
-    },
-    {
-      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-      "published_at": "2026-07-25T16:38:04Z",
-      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "lingbol088-spec"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "PipeNetwork"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -896,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 146,
       "user": "grafana"
     },
     {
@@ -911,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 199,
       "user": "steelbrain"
     },
     {
@@ -943,20 +854,6 @@
       "user": "carlana"
     },
     {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "published_at": "2026-07-30T12:47:22.337-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "c",
-        "c++",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nemin"
-    },
-    {
       "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
       "url": "https://stackoverflow.com/questions/79989494/excel-com-autofilter-fails-with-1004-on-valid-relative-field-range-av5er15",
       "published_at": "2026-07-31T13:31:01.000Z",
@@ -969,20 +866,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -999,6 +882,80 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thinksolid"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "published_at": "2026-07-31T16:49:08.000Z",
+      "description": "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Social",
+        "ai slop",
+        "Snapchat"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "published_at": "2026-07-31T16:08:18.000Z",
+      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "tags": [
+        "AI",
+        "Apple",
+        "siri ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "published_at": "2026-07-31T15:37:58.000Z",
+      "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+      "tags": [
+        "Hardware",
+        "memory chip shortage",
+        "Samsung"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "published_at": "2026-07-31T15:16:17.000Z",
+      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "tags": [
+        "AI",
+        "Climate",
+        "air pollution",
+        "data centers",
+        "SpaceX"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
@@ -1020,8 +977,9 @@
       "published_at": "2026-07-31T14:47:11.000Z",
       "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
       "tags": [
-        "Venture",
         "AI",
+        "Startups",
+        "Venture",
         "customer support",
         "voice AI"
       ],
@@ -1038,8 +996,8 @@
         "Space",
         "Transportation",
         "Elon Musk",
-        "SpaceX",
-        "Tesla"
+        "In Brief",
+        "SpaceX"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1052,85 +1010,12 @@
       "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
       "tags": [
         "Startups",
-        "Venture"
+        "Venture",
+        "AI startups"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "published_at": "2026-07-31T01:06:54.000Z",
-      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Apple stockpiles inventory as it braces for &#8216;significant supply constraints&#8217;",
-      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-      "published_at": "2026-07-30T23:28:05.000Z",
-      "description": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
-      "tags": [
-        "Hardware",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "published_at": "2026-07-30T23:25:58.000Z",
-      "description": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "hedge fund",
-        "Leverage",
-        "situational awareness"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "published_at": "2026-07-30T23:08:58.000Z",
-      "description": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "tags": [
-        "AI",
-        "Social",
-        "Google",
-        "Reddit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "published_at": "2026-07-30T22:41:41.000Z",
-      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "tags": [
-        "AI",
-        "TC",
-        "Amazon",
-        "Cloud Computing",
-        "earnings"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1206,20 +1091,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oyedele Tioluwani"
-    },
-    {
-      "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
-      "url": "https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/",
-      "published_at": "2026-07-28T16:29:03.000Z",
-      "description": "Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co",
-      "tags": [
-        "React",
-        "forms",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Tapas Adhikary"
     }
   ],
   "JavaScript": [
@@ -1415,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2473,
+      "stars": 2484,
       "user": "mshumer"
     },
     {
@@ -1430,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 707,
       "user": "xikhar"
     },
     {
@@ -1445,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 588,
       "user": "QwenAudio"
     },
     {
@@ -1475,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "Noniv"
     },
     {
@@ -1490,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 146,
       "user": "grafana"
     },
     {
@@ -1505,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1312,
       "user": "bashalarmistalt"
     },
     {
@@ -1535,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "talivia-group"
     },
     {
@@ -1550,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 462,
       "user": "wassgha"
     },
     {
@@ -1565,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 454,
       "user": "NikolayS"
     },
     {
@@ -1580,14 +1451,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "Quantova"
     },
     {
       "title": "Chance of conflicts using stateful classes",
       "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
       "published_at": "2026-07-31T07:55:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "best-practices",
         "javascript",
@@ -1741,20 +1612,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Karan Pratap Singh"
-    },
-    {
-      "title": "A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn",
-      "url": "https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/",
-      "published_at": "2026-07-28T16:29:03.000Z",
-      "description": "Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co",
-      "tags": [
-        "React",
-        "forms",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Tapas Adhikary"
     }
   ],
   "Python": [
@@ -1939,79 +1796,18 @@
       "user": "arathore"
     },
     {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "title": "Apply a user-defined function (UDF) to Pandas",
+      "url": "https://stackoverflow.com/questions/79989470/apply-a-user-defined-function-udf-to-pandas",
+      "published_at": "2026-07-31T11:44:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "pandas",
+        "user-defined-functions"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 989,
-      "user": "VictorTaelin"
-    },
-    {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "gavamedia"
-    },
-    {
-      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-      "published_at": "2026-07-25T16:38:04Z",
-      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "lingbol088-spec"
-    },
-    {
-      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
-      "url": "https://github.com/lij768423-svg/grok-register-panel",
-      "published_at": "2026-07-29T09:25:01Z",
-      "description": "Grok register engine (Camoufox) + live web monitor panel",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "lij768423-svg"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "PipeNetwork"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kpra"
     },
     {
       "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
@@ -2026,20 +1822,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "Apply a user-defined function (UDF) to Pandas",
-      "url": "https://stackoverflow.com/questions/79989470/apply-a-user-defined-function-udf-to-pandas",
-      "published_at": "2026-07-31T11:44:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "pandas",
-        "user-defined-functions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kpra"
     },
     {
       "title": "Select one subset or another depending on condition in a single query",
@@ -2075,7 +1857,7 @@
       "title": "ConnectionResetError: [WinError 10054] in asyncio Proactor event loop on Windows (Python 3.13) without explicit socket handling",
       "url": "https://stackoverflow.com/questions/79989280/connectionreseterror-winerror-10054-in-asyncio-proactor-event-loop-on-windows",
       "published_at": "2026-07-30T18:22:23.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x",
@@ -2086,20 +1868,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zain Ul Abidin"
-    },
-    {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -2118,18 +1886,32 @@
       "user": "thinksolid"
     },
     {
-      "title": "Copy to stdout with CSV header always hangs",
-      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
-      "published_at": "2026-07-30T01:12:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "sqlalchemy",
-        "psycopg3"
+        "or-tools",
+        "constraint-programming"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jim Garrison"
+      "user": "Chip Uni"
+    },
+    {
+      "title": "How do I get correct type hints in subclass?",
+      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
+      "published_at": "2026-07-30T00:16:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "python-typing",
+        "type-hinting"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "b64encode() / b64decode - unbalanced encoding",
@@ -2144,18 +1926,18 @@
       "user": "NickC"
     },
     {
-      "title": "How do I get correct type hints in subclass?",
-      "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
-      "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Copy to stdout with CSV header always hangs",
+      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
+      "published_at": "2026-07-30T01:12:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
-        "python-typing",
-        "type-hinting"
+        "sqlalchemy",
+        "psycopg3"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "iamthebull"
+      "user": "Jim Garrison"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2218,21 +2000,6 @@
         "devops"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
     },
@@ -2427,7 +2194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 146,
       "user": "grafana"
     },
     {
@@ -2458,6 +2225,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lel lel"
+    },
+    {
+      "title": "How to Create a Marketing Landing Page Using shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/",
+      "published_at": "2026-07-31T11:01:41.000Z",
+      "description": "Most marketing landing pages start with the same problem: you're staring at a blank screen and rebuilding sections you've already created countless times. A hero section, feature grid, testimonials, p",
+      "tags": [
+        "shadcn",
+        "mcp server",
+        "Design",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -2794,20 +2576,18 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "published_at": "2026-07-30T22:41:41.000Z",
-      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "published_at": "2026-07-31T16:08:18.000Z",
+      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
       "tags": [
         "AI",
-        "TC",
-        "Amazon",
-        "Cloud Computing",
-        "earnings"
+        "Apple",
+        "siri ai"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "user": "Amanda Silberling"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -2842,7 +2622,7 @@
       "title": "Chance of conflicts using stateful classes",
       "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
       "published_at": "2026-07-31T07:55:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "best-practices",
         "javascript",
@@ -2988,21 +2768,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Beyond Prompt Injection: The Non-Human Authorization Gap in Enterprise AI",
-      "url": "https://dev.to/gde/beyond-prompt-injection-the-non-human-authorization-gap-in-enterprise-ai-3g5c",
-      "published_at": "2026-07-27T03:59:04Z",
-      "description": "How to secure AI multi-agent delegation chains using OAuth 2.1 RFC 8693 Token Exchange and Non-Human Authorization (NHA).",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tnvse6ea51hsteqmg5h.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Investing in multi-agent AI safety research",
@@ -3168,20 +2933,6 @@
       "user": "benjimin"
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "published_at": "2026-07-31T01:06:54.000Z",
-      "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3334,20 +3085,6 @@
       "user": "xbill"
     },
     {
-      "title": "Stop Hiring a Rocket Scientist to Check If a Box Is Empty",
-      "url": "https://dev.to/ale3oula/stop-hiring-a-rocket-scientist-to-check-if-a-box-is-empty-1i4c",
-      "published_at": "2026-07-23T17:26:44Z",
-      "description": "One thing I've been thinking about lately is what trade-offs companies are willing to make in order...",
-      "tags": [
-        "ai",
-        "webdev",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8qjmuxjtnum9f12ayk07.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3395,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2473,
+      "stars": 2484,
       "user": "mshumer"
     },
     {
@@ -3410,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 707,
       "user": "xikhar"
     },
     {
@@ -3425,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 588,
       "user": "QwenAudio"
     },
     {
@@ -3455,83 +3192,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 394,
       "user": "Noniv"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 989,
-      "user": "VictorTaelin"
-    },
-    {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "gavamedia"
-    },
-    {
-      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-      "published_at": "2026-07-25T16:38:04Z",
-      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "lingbol088-spec"
-    },
-    {
-      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
-      "url": "https://github.com/lij768423-svg/grok-register-panel",
-      "published_at": "2026-07-29T09:25:01Z",
-      "description": "Grok register engine (Camoufox) + live web monitor panel",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 303,
-      "user": "lij768423-svg"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 302,
-      "user": "PipeNetwork"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3575,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 146,
       "user": "grafana"
     },
     {
@@ -3590,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "byJoey"
     },
     {
@@ -3620,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1312,
       "user": "bashalarmistalt"
     },
     {
@@ -3650,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 516,
       "user": "talivia-group"
     },
     {
@@ -3665,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 462,
       "user": "wassgha"
     },
     {
@@ -3680,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 454,
       "user": "NikolayS"
     },
     {
@@ -3695,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 199,
       "user": "steelbrain"
     },
     {
@@ -3710,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "jchultarsky"
     },
     {
@@ -3740,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "Quantova"
     },
     {
@@ -3755,22 +3417,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/182771572?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 78,
       "user": "JYH1878"
-    },
-    {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -3787,6 +3435,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thinksolid"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
@@ -3806,7 +3468,7 @@
       "title": "WhatsApp is testing a new folder for messages from large businesses",
       "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
       "published_at": "2026-07-31T14:39:43.000Z",
-      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them",
+      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
       "tags": [
         "Apps",
         "WhatsApp",
