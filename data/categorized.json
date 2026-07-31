@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "published_at": "2026-07-31T11:00:29Z",
+      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "tags": [
+        "rag",
+        "ai",
+        "llm",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Diego"
+    },
+    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -16,19 +31,19 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
+      "published_at": "2026-07-31T13:17:16Z",
+      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
       "tags": [
         "ai",
-        "learning",
-        "mentorship",
-        "beginners"
+        "opensource",
+        "hardware",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
       "source": "Dev.to",
-      "user": "Roberto B."
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -44,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+      "published_at": "2026-07-30T20:43:23Z",
+      "description": "Mem0 beats us on BEAM's 1M bucket. Here is exactly why, what that accuracy costs in money, latency and data egress, and the 46% fabrication rate it ships with.",
+      "tags": [
+        "ai",
+        "rag",
+        "opensource",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
+      "source": "Dev.to",
+      "user": "Giulio D'Erme"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -163,6 +193,21 @@
       "user": "Jitendra Gupta"
     },
     {
+      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
+      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
+      "published_at": "2026-07-31T02:28:26Z",
+      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
       "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5",
       "published_at": "2026-07-29T13:01:42Z",
@@ -191,6 +236,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -720,21 +780,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "published_at": "2026-07-27T05:04:26Z",
@@ -746,8 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 580,
       "user": "QwenAudio"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 569,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
@@ -761,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 390,
       "user": "Noniv"
     },
     {
@@ -776,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 989,
       "user": "VictorTaelin"
     },
     {
@@ -791,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "gavamedia"
     },
     {
@@ -806,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 312,
       "user": "lingbol088-spec"
     },
     {
@@ -821,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 302,
       "user": "PipeNetwork"
     },
     {
@@ -836,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 140,
       "user": "grafana"
     },
     {
@@ -851,7 +911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 193,
       "user": "steelbrain"
     },
     {
@@ -897,6 +957,34 @@
       "user": "nemin"
     },
     {
+      "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
+      "url": "https://stackoverflow.com/questions/79989494/excel-com-autofilter-fails-with-1004-on-valid-relative-field-range-av5er15",
+      "published_at": "2026-07-31T13:31:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "excel",
+        "autofilter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dhimesh Parmar"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
+    },
+    {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
@@ -913,18 +1001,49 @@
       "user": "thinksolid"
     },
     {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "published_at": "2026-07-31T14:49:21.000Z",
+      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testin",
       "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
+        "Social",
+        "Reddit",
+        "Video"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "published_at": "2026-07-31T14:47:11.000Z",
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "tags": [
+        "Venture",
+        "AI",
+        "customer support",
+        "voice AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "published_at": "2026-07-31T13:45:53.000Z",
+      "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+      "tags": [
+        "Space",
+        "Transportation",
+        "Elon Musk",
+        "SpaceX",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
     },
     {
       "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
@@ -1012,67 +1131,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-      "published_at": "2026-07-30T22:37:06.000Z",
-      "description": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
-      "tags": [
-        "Apps",
-        "TC",
-        "app store",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "published_at": "2026-07-30T20:26:38.000Z",
-      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dod",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12.000Z",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "carecloud",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "published_at": "2026-07-30T19:44:16.000Z",
-      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "tags": [
-        "AI",
-        "AI wearables",
-        "friend"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
@@ -1357,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2456,
+      "stars": 2473,
       "user": "mshumer"
     },
     {
@@ -1372,23 +1430,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 703,
       "user": "xikhar"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "0xwilliamortiz"
     },
     {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
@@ -1402,8 +1445,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 580,
       "user": "QwenAudio"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 569,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
@@ -1417,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 390,
       "user": "Noniv"
     },
     {
@@ -1432,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 140,
       "user": "grafana"
     },
     {
@@ -1447,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 1083,
       "user": "bashalarmistalt"
     },
     {
@@ -1477,23 +1535,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "talivia-group"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 449,
-      "user": "NikolayS"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -1507,8 +1550,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 460,
       "user": "wassgha"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "NikolayS"
     },
     {
       "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
@@ -1522,7 +1580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 78,
       "user": "Quantova"
     },
     {
@@ -1892,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 989,
       "user": "VictorTaelin"
     },
     {
@@ -1907,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "gavamedia"
     },
     {
@@ -1922,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 312,
       "user": "lingbol088-spec"
     },
     {
@@ -1937,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "lij768423-svg"
     },
     {
@@ -1952,14 +2010,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 302,
       "user": "PipeNetwork"
+    },
+    {
+      "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
+      "url": "https://stackoverflow.com/questions/79989494/excel-com-autofilter-fails-with-1004-on-valid-relative-field-range-av5er15",
+      "published_at": "2026-07-31T13:31:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "excel",
+        "autofilter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dhimesh Parmar"
+    },
+    {
+      "title": "Apply a user-defined function (UDF) to Pandas",
+      "url": "https://stackoverflow.com/questions/79989470/apply-a-user-defined-function-udf-to-pandas",
+      "published_at": "2026-07-31T11:44:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "pandas",
+        "user-defined-functions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kpra"
     },
     {
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -1989,7 +2075,7 @@
       "title": "ConnectionResetError: [WinError 10054] in asyncio Proactor event loop on Windows (Python 3.13) without explicit socket handling",
       "url": "https://stackoverflow.com/questions/79989280/connectionreseterror-winerror-10054-in-asyncio-proactor-event-loop-on-windows",
       "published_at": "2026-07-30T18:22:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "python-3.x",
@@ -2000,6 +2086,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zain Ul Abidin"
+    },
+    {
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -2016,20 +2116,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thinksolid"
-    },
-    {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
     },
     {
       "title": "Copy to stdout with CSV header always hangs",
@@ -2061,7 +2147,7 @@
       "title": "How do I get correct type hints in subclass?",
       "url": "https://stackoverflow.com/questions/79988030/how-do-i-get-correct-type-hints-in-subclass",
       "published_at": "2026-07-30T00:16:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-typing",
@@ -2070,35 +2156,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
-      "url": "https://stackoverflow.com/questions/79989086/yaml-scanner-scannererror-mapping-values-are-not-allowed-here-error-when-tryi",
-      "published_at": "2026-07-30T06:25:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "yaml",
-        "detectron",
-        "pdf-extraction"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bussller"
-    },
-    {
-      "title": "How to retrieve a variable from another threading.Thread?",
-      "url": "https://stackoverflow.com/questions/79987816/how-to-retrieve-a-variable-from-another-threading-thread",
-      "published_at": "2026-07-29T10:43:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "multithreading",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Unknow 15465426"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2370,7 +2427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 140,
       "user": "grafana"
     },
     {
@@ -2508,21 +2565,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bryan"
-    },
-    {
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-      "published_at": "2026-07-30T22:37:06.000Z",
-      "description": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
-      "tags": [
-        "Apps",
-        "TC",
-        "app store",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2752,21 +2794,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
-      "published_at": "2026-07-11T21:21:38Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "gemma4",
-        "mcps",
-        "tpu",
-        "31b"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Investors love AI, as long as you’re a cloud host",
       "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
       "published_at": "2026-07-30T22:41:41.000Z",
@@ -2781,22 +2808,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12.000Z",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "carecloud",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -2847,7 +2858,7 @@
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "postgresql",
@@ -2873,6 +2884,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
+      "published_at": "2026-07-31T13:17:16Z",
+      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
+      "tags": [
+        "ai",
+        "opensource",
+        "hardware",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
+    },
     {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
@@ -3156,22 +3182,6 @@
       "user": "Kirsten Korosec"
     },
     {
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "published_at": "2026-07-30T20:13:12.000Z",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "carecloud",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3385,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2456,
+      "stars": 2473,
       "user": "mshumer"
     },
     {
@@ -3400,23 +3410,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 703,
       "user": "xikhar"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "0xwilliamortiz"
     },
     {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
@@ -3430,8 +3425,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 580,
       "user": "QwenAudio"
+    },
+    {
+      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "published_at": "2026-07-28T14:16:19Z",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 569,
+      "user": "0xwilliamortiz"
     },
     {
       "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
@@ -3445,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 390,
       "user": "Noniv"
     },
     {
@@ -3460,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 989,
       "user": "VictorTaelin"
     },
     {
@@ -3475,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 526,
       "user": "gavamedia"
     },
     {
@@ -3490,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 312,
       "user": "lingbol088-spec"
     },
     {
@@ -3505,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 303,
       "user": "lij768423-svg"
     },
     {
@@ -3520,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 302,
       "user": "PipeNetwork"
     },
     {
@@ -3550,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 165,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3565,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 140,
       "user": "grafana"
     },
     {
@@ -3610,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 1083,
       "user": "bashalarmistalt"
     },
     {
@@ -3640,23 +3650,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "talivia-group"
-    },
-    {
-      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "published_at": "2026-07-25T22:15:09Z",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
-      "source": "GitHub",
-      "stars": 449,
-      "user": "NikolayS"
     },
     {
       "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
@@ -3670,8 +3665,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 460,
       "user": "wassgha"
+    },
+    {
+      "title": "NikolayS/PGSimCity - An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "published_at": "2026-07-25T22:15:09Z",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1345402?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "NikolayS"
     },
     {
       "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
@@ -3685,7 +3695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 193,
       "user": "steelbrain"
     },
     {
@@ -3700,7 +3710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 161,
       "user": "jchultarsky"
     },
     {
@@ -3719,6 +3729,21 @@
       "user": "iamrohithrnair"
     },
     {
+      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "url": "https://github.com/Quantova/quantova-cli",
+      "published_at": "2026-07-27T13:47:34Z",
+      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "Quantova"
+    },
+    {
       "title": "JYH1878/KimiCodeBar-Windows - Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
       "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
       "published_at": "2026-07-25T17:02:30Z",
@@ -3734,19 +3759,18 @@
       "user": "JYH1878"
     },
     {
-      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "url": "https://github.com/Quantova/quantova-cli",
-      "published_at": "2026-07-27T13:47:34Z",
-      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "published_at": "2026-07-30T05:42:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "python",
+        "or-tools",
+        "constraint-programming"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
-      "source": "GitHub",
-      "stars": 75,
-      "user": "Quantova"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chip Uni"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -3765,18 +3789,33 @@
       "user": "thinksolid"
     },
     {
-      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
-      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
-      "published_at": "2026-07-30T05:42:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "published_at": "2026-07-31T14:49:21.000Z",
+      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testin",
       "tags": [
-        "python",
-        "or-tools",
-        "constraint-programming"
+        "Social",
+        "Reddit",
+        "Video"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chip Uni"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "WhatsApp is testing a new folder for messages from large businesses",
+      "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+      "published_at": "2026-07-31T14:39:43.000Z",
+      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them",
+      "tags": [
+        "Apps",
+        "WhatsApp",
+        "Meta",
+        "whatsapp business"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
