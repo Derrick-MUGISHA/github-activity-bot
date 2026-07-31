@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Your RAG copilot can't count — stop letting it try",
       "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
       "published_at": "2026-07-31T11:00:29Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
       "source": "Dev.to",
       "user": "Jenuel Oras Ganawed"
+    },
+    {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 601,
       "user": "QwenAudio"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 408,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1018,
       "user": "VictorTaelin"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 547,
       "user": "gavamedia"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "PipeNetwork"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "grafana"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 209,
       "user": "steelbrain"
     },
     {
@@ -899,6 +899,21 @@
       "source": "GitHub",
       "stars": 82,
       "user": "iamrohithrnair"
+    },
+    {
+      "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "published_at": "2026-07-27T19:37:52Z",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "hardrave"
     },
     {
       "title": "Making sure pairs of integers are contained in a list",
@@ -955,6 +970,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chip Uni"
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "published_at": "2026-07-31T21:07:45.000Z",
+      "description": "India's app market generated a record $345 million in Q2.",
+      "tags": [
+        "AI",
+        "Apps",
+        "app market",
+        "ChatGPT",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
@@ -1062,20 +1093,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-      "published_at": "2026-07-31T14:49:21.000Z",
-      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testin",
-      "tags": [
-        "Social",
-        "Reddit",
-        "Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1361,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2509,
       "user": "mshumer"
     },
     {
@@ -1376,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 712,
       "user": "xikhar"
     },
     {
@@ -1391,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 601,
       "user": "QwenAudio"
     },
     {
@@ -1421,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 408,
       "user": "Noniv"
     },
     {
@@ -1436,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "grafana"
     },
     {
@@ -1451,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1743,
       "user": "bashalarmistalt"
     },
     {
@@ -1466,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 1188,
       "user": "yc-software"
     },
     {
@@ -1496,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 520,
       "user": "talivia-group"
     },
     {
@@ -1511,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "wassgha"
     },
     {
@@ -1526,14 +1543,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "Quantova"
+    },
+    {
+      "title": "How to test Vue ripple directive has been used?",
+      "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
+      "published_at": "2026-07-31T20:17:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "vue.js",
+        "quasar",
+        "vue-test-utils",
+        "vue-directives"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chiara Ani"
     },
     {
       "title": "Access all objects key's values in nested object dynamically",
       "url": "https://stackoverflow.com/questions/79989543/access-all-objects-keys-values-in-nested-object-dynamically",
       "published_at": "2026-07-31T16:57:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "node.js"
@@ -1658,20 +1691,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Baohua Chu"
-    },
-    {
-      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
-      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
-      "published_at": "2026-07-28T15:26:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Heba Allah Hashim"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1882,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1018,
       "user": "VictorTaelin"
     },
     {
@@ -1897,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 547,
       "user": "gavamedia"
     },
     {
@@ -1942,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "PipeNetwork"
     },
     {
@@ -1961,7 +1980,7 @@
       "title": "Scrapy not returning items despite crawling?",
       "url": "https://stackoverflow.com/questions/79989568/scrapy-not-returning-items-despite-crawling",
       "published_at": "2026-07-31T19:15:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "web-scraping",
@@ -2003,7 +2022,7 @@
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -2344,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "grafana"
     },
     {
@@ -2788,7 +2807,7 @@
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -3268,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2509,
       "user": "mshumer"
     },
     {
@@ -3283,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 712,
       "user": "xikhar"
     },
     {
@@ -3298,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 601,
       "user": "QwenAudio"
     },
     {
@@ -3328,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 408,
       "user": "Noniv"
     },
     {
@@ -3343,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1018,
       "user": "VictorTaelin"
     },
     {
@@ -3358,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 547,
       "user": "gavamedia"
     },
     {
@@ -3403,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "PipeNetwork"
     },
     {
@@ -3448,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "grafana"
     },
     {
@@ -3493,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1640,
+      "stars": 1743,
       "user": "bashalarmistalt"
     },
     {
@@ -3508,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 1188,
       "user": "yc-software"
     },
     {
@@ -3538,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 520,
       "user": "talivia-group"
     },
     {
@@ -3553,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 467,
       "user": "wassgha"
     },
     {
@@ -3568,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 209,
       "user": "steelbrain"
     },
     {
@@ -3613,23 +3632,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "Quantova"
     },
     {
-      "title": "JYH1878/KimiCodeBar-Windows - Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
-      "url": "https://github.com/JYH1878/KimiCodeBar-Windows",
-      "published_at": "2026-07-25T17:02:30Z",
-      "description": "Windows 托盘上的 Kimi Code 用量监控：左键看额度，低额变红提醒。Tauri 2 + Rust，安装包仅 3MB。",
+      "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "published_at": "2026-07-27T19:37:52Z",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/182771572?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 78,
-      "user": "JYH1878"
+      "stars": 80,
+      "user": "hardrave"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
@@ -3675,20 +3694,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-      "published_at": "2026-07-31T14:49:21.000Z",
-      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testin",
-      "tags": [
-        "Social",
-        "Reddit",
-        "Video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
