@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-01 22:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-01 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Congrats to the DEV Weekend Challenge: Passion Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne) | Dev.to |
 | 20 | [Does it still make sense to learn how to code?](https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g) | Dev.to |
 
-<sub>Last fetched: Sat, 01 Aug 2026 22:37:10 CAT</sub>
+<sub>Last fetched: Sat, 01 Aug 2026 23:36:11 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — How do you handle errors in async/await?**
+**1. `DataStructures` — Implement a function to reverse a linked list**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Iterative or recursive, three pointers
 
 </details>
 
-**2. `React` — How would you optimize a React app's performance?**
+**2. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**3. `Database` — Design a database schema for a social media platform**
+**3. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -165,8 +165,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 77 | 41.8% | `████████████████████` |
-| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
+| **Tools** | 37 | 20.1% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.8%
-JavaScript      █████████████████████████ 23.7%
-Python          █████████████████████ 19.9%
-Java            ████████████████████ 19.2%
-Rust            █████ 5.1%
+Go              ██████████████████████████████ 28.4%
+JavaScript      █████████████████████████ 23.9%
+Python          █████████████████████ 20.0%
+Java            ████████████████████ 19.4%
+Rust            █████ 5.2%
 Kotlin          █ 1.3%
 Ruby            █ 1.3%
 Swift           █ 0.6%
@@ -207,7 +207,7 @@ Swift           █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 45
+    "Go" : 44
     "JavaScript" : 37
     "Python" : 31
     "Java" : 30
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 01 Aug 2026 20:37:10 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 01 Aug 2026 21:36:11 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
