@@ -118,21 +118,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "published_at": "2026-07-30T20:43:23Z",
-      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "tags": [
-        "ai",
-        "rag",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
-      "source": "Dev.to",
-      "user": "Giulio D'Erme"
-    },
-    {
       "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
       "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
       "published_at": "2026-07-31T02:28:26Z",
@@ -266,6 +251,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+      "published_at": "2026-07-30T20:43:23Z",
+      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
+      "tags": [
+        "ai",
+        "rag",
+        "opensource",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
+      "source": "Dev.to",
+      "user": "Giulio D'Erme"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1197,
       "user": "QwenAudio"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 589,
       "user": "gavamedia"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "Audio8-AI"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "grafana"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "steelbrain"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "hardrave"
     },
     {
@@ -897,6 +897,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "eatonphil"
+    },
+    {
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "published_at": "2026-08-01T16:11:22.171-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cryptography",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mantej"
     },
     {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
@@ -1298,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1197,
       "user": "QwenAudio"
     },
     {
@@ -1313,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 764,
       "user": "xikhar"
     },
     {
@@ -1343,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "Noniv"
     },
     {
@@ -1373,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "grafana"
     },
     {
@@ -1388,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4755,
+      "stars": 4840,
       "user": "yc-software"
     },
     {
@@ -1403,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3020,
+      "stars": 3036,
       "user": "bashalarmistalt"
     },
     {
@@ -1448,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "wassgha"
     },
     {
@@ -1541,19 +1554,6 @@
       "user": "Heba Allah Hashim"
     },
     {
-      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
-      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
-      "published_at": "2026-07-29T14:19:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "maplibre-gl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Baohua Chu"
-    },
-    {
       "title": "React use() cache gets overwritten by an older Promise after invalidation",
       "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
       "published_at": "2026-07-27T19:43:30.000Z",
@@ -1610,6 +1610,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Danny"
+    },
+    {
+      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
+      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
+      "published_at": "2015-02-18T05:31:27.000Z",
+      "description": "Stack Overflow question · 5 answers · score 54",
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ItzMe_Ezhil"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1820,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 589,
       "user": "gavamedia"
     },
     {
@@ -1835,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "lij768423-svg"
     },
     {
@@ -1880,8 +1895,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "Why is my hand not detecting properly in opencv?",
+      "url": "https://stackoverflow.com/questions/79989778/why-is-my-hand-not-detecting-properly-in-opencv",
+      "published_at": "2026-08-01T21:26:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "opencv",
+        "mediapipe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mikaela Matthews"
     },
     {
       "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
@@ -2007,20 +2036,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "Apply a user-defined function (UDF) to Pandas",
-      "url": "https://stackoverflow.com/questions/79989470/apply-a-user-defined-function-udf-to-pandas",
-      "published_at": "2026-07-31T11:44:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "pandas",
-        "user-defined-functions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kpra"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2277,7 +2292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "grafana"
     },
     {
@@ -2292,6 +2307,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
+    },
+    {
+      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
+      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
+      "published_at": "2015-02-18T05:31:27.000Z",
+      "description": "Stack Overflow question · 5 answers · score 54",
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ItzMe_Ezhil"
     },
     {
       "title": "How to Create a Marketing Landing Page Using shadcn/ui",
@@ -3155,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1167,
+      "stars": 1197,
       "user": "QwenAudio"
     },
     {
@@ -3170,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 764,
       "user": "xikhar"
     },
     {
@@ -3200,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 438,
       "user": "Noniv"
     },
     {
@@ -3230,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 589,
       "user": "gavamedia"
     },
     {
@@ -3245,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "lij768423-svg"
     },
     {
@@ -3290,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "Audio8-AI"
     },
     {
@@ -3309,6 +3339,21 @@
       "user": "codermyxiaoc"
     },
     {
+      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "url": "https://github.com/grafana/ai-sdk",
+      "published_at": "2026-07-28T21:51:20Z",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "grafana"
+    },
+    {
       "title": "rogerbush007-a11y/DJOneHub-mac-enhanced - GitHub Repository",
       "url": "https://github.com/rogerbush007-a11y/DJOneHub-mac-enhanced",
       "published_at": "2026-07-28T08:54:12Z",
@@ -3322,21 +3367,6 @@
       "source": "GitHub",
       "stars": 177,
       "user": "rogerbush007-a11y"
-    },
-    {
-      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "url": "https://github.com/grafana/ai-sdk",
-      "published_at": "2026-07-28T21:51:20Z",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
-      "source": "GitHub",
-      "stars": 177,
-      "user": "grafana"
     },
     {
       "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
@@ -3380,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4755,
+      "stars": 4840,
       "user": "yc-software"
     },
     {
@@ -3395,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3020,
+      "stars": 3036,
       "user": "bashalarmistalt"
     },
     {
@@ -3440,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 501,
       "user": "wassgha"
     },
     {
@@ -3455,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "steelbrain"
     },
     {
@@ -3470,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 154,
       "user": "l00sed"
     },
     {
@@ -3485,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "hardrave"
     },
     {
