@@ -16,21 +16,6 @@
       "user": "Rodrigo Diego"
     },
     {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "published_at": "2026-07-30T20:43:23Z",
-      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "tags": [
-        "ai",
-        "rag",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
-      "source": "Dev.to",
-      "user": "Giulio D'Erme"
-    },
-    {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
       "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
       "published_at": "2026-07-31T13:17:16Z",
@@ -178,6 +163,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+      "published_at": "2026-07-30T20:43:23Z",
+      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
+      "tags": [
+        "ai",
+        "rag",
+        "opensource",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
+      "source": "Dev.to",
+      "user": "Giulio D'Erme"
+    },
+    {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
       "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5",
       "published_at": "2026-07-29T13:01:42Z",
@@ -219,21 +219,6 @@
         "debian"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "published_at": "2026-07-29T22:02:22Z",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "tags": [
-        "tpu",
-        "llm",
-        "jax",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -339,6 +324,21 @@
         "antigravity"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fui3etm0mm66xuqgvz8qs.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 608,
       "user": "QwenAudio"
     },
     {
@@ -792,23 +792,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Noniv"
-    },
-    {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 1028,
-      "user": "VictorTaelin"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -822,23 +807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 561,
       "user": "gavamedia"
-    },
-    {
-      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-      "published_at": "2026-07-25T16:38:04Z",
-      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "lingbol088-spec"
     },
     {
       "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
@@ -852,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "PipeNetwork"
     },
     {
@@ -867,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "grafana"
     },
     {
@@ -882,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "steelbrain"
     },
     {
@@ -901,10 +871,25 @@
       "user": "iamrohithrnair"
     },
     {
+      "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "published_at": "2026-07-27T19:37:52Z",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "hardrave"
+    },
+    {
       "title": "Making sure pairs of integers are contained in a list",
       "url": "https://stackoverflow.com/questions/79989572/making-sure-pairs-of-integers-are-contained-in-a-list",
       "published_at": "2026-07-31T19:42:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -949,9 +934,8 @@
       "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
       "tags": [
         "AI",
-        "TC",
-        "agents",
         "Hugging Face",
+        "In Brief",
         "OpenAI"
       ],
       "cover_image": null,
@@ -1336,21 +1320,6 @@
       "user": "velmu"
     },
     {
-      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "published_at": "2026-07-25T19:32:36Z",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
-      "source": "GitHub",
-      "stars": 2517,
-      "user": "mshumer"
-    },
-    {
       "title": "xikhar/persona - Bringing real-time voice to life.",
       "url": "https://github.com/xikhar/persona",
       "published_at": "2026-07-28T11:40:19Z",
@@ -1362,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "xikhar"
     },
     {
@@ -1377,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 608,
       "user": "QwenAudio"
     },
     {
@@ -1407,8 +1376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Noniv"
+    },
+    {
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
+      "source": "GitHub",
+      "stars": 373,
+      "user": "achimala"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1422,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "grafana"
     },
     {
@@ -1437,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1912,
+      "stars": 2014,
       "user": "bashalarmistalt"
     },
     {
@@ -1452,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 1635,
+      "stars": 1893,
       "user": "yc-software"
     },
     {
@@ -1482,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "talivia-group"
     },
     {
@@ -1497,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "wassgha"
     },
     {
@@ -1859,21 +1843,6 @@
       "user": "arathore"
     },
     {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 1028,
-      "user": "VictorTaelin"
-    },
-    {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
       "url": "https://github.com/gavamedia/deltafin",
       "published_at": "2026-07-28T01:01:23Z",
@@ -1885,23 +1854,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 561,
       "user": "gavamedia"
-    },
-    {
-      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-      "published_at": "2026-07-25T16:38:04Z",
-      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "lingbol088-spec"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -1930,14 +1884,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "PipeNetwork"
+    },
+    {
+      "title": "sii-research/tau-0-vla - This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
+      "url": "https://github.com/sii-research/tau-0-vla",
+      "published_at": "2026-07-26T07:57:08Z",
+      "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
+      "source": "GitHub",
+      "stars": 240,
+      "user": "sii-research"
+    },
+    {
+      "title": "dotneet/image-to-3d - GitHub Repository",
+      "url": "https://github.com/dotneet/image-to-3d",
+      "published_at": "2026-07-26T11:30:06Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/370602?v=4",
+      "source": "GitHub",
+      "stars": 206,
+      "user": "dotneet"
     },
     {
       "title": "pyqt - stuck in loop, window not opening",
       "url": "https://stackoverflow.com/questions/79989600/pyqt-stuck-in-loop-window-not-opening",
       "published_at": "2026-07-31T22:21:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "user-interface",
@@ -1946,19 +1930,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "samrad Tangestani"
-    },
-    {
-      "title": "How do I get the autocomplete hints to work for items in my generic dictionary class?",
-      "url": "https://stackoverflow.com/questions/79989585/how-do-i-get-the-autocomplete-hints-to-work-for-items-in-my-generic-dictionary-c",
-      "published_at": "2026-07-31T20:55:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Why is scrapy not returning items despite crawling?",
@@ -1975,10 +1946,23 @@
       "user": "Gabriel Silva"
     },
     {
+      "title": "How do I get the autocomplete hints to work for items in my generic dictionary class?",
+      "url": "https://stackoverflow.com/questions/79989585/how-do-i-get-the-autocomplete-hints-to-work-for-items-in-my-generic-dictionary-c",
+      "published_at": "2026-07-31T20:55:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
       "title": "Making sure pairs of integers are contained in a list",
       "url": "https://stackoverflow.com/questions/79989572/making-sure-pairs-of-integers-are-contained-in-a-list",
       "published_at": "2026-07-31T19:42:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2331,7 +2315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "grafana"
     },
     {
@@ -2533,21 +2517,6 @@
       "user": "xbill"
     },
     {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "published_at": "2026-07-29T22:02:22Z",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "tags": [
-        "tpu",
-        "llm",
-        "jax",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
       "published_at": "2026-07-27T20:54:36Z",
@@ -2604,6 +2573,21 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3244,21 +3228,6 @@
       "user": "pabs3"
     },
     {
-      "title": "mshumer/Claude-of-Duty - A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "published_at": "2026-07-25T19:32:36Z",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41550495?v=4",
-      "source": "GitHub",
-      "stars": 2517,
-      "user": "mshumer"
-    },
-    {
       "title": "xikhar/persona - Bringing real-time voice to life.",
       "url": "https://github.com/xikhar/persona",
       "published_at": "2026-07-28T11:40:19Z",
@@ -3270,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 716,
       "user": "xikhar"
     },
     {
@@ -3285,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 608,
       "user": "QwenAudio"
     },
     {
@@ -3315,23 +3284,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "Noniv"
     },
     {
-      "title": "VictorTaelin/OptMem - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "published_at": "2026-07-25T16:58:43Z",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 1028,
-      "user": "VictorTaelin"
+      "stars": 373,
+      "user": "achimala"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -3345,23 +3314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 561,
       "user": "gavamedia"
-    },
-    {
-      "title": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6 - NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
-      "published_at": "2026-07-25T16:38:04Z",
-      "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273277104?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "lingbol088-spec"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3390,8 +3344,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "PipeNetwork"
+    },
+    {
+      "title": "sii-research/tau-0-vla - This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
+      "url": "https://github.com/sii-research/tau-0-vla",
+      "published_at": "2026-07-26T07:57:08Z",
+      "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
+      "source": "GitHub",
+      "stars": 240,
+      "user": "sii-research"
+    },
+    {
+      "title": "dotneet/image-to-3d - GitHub Repository",
+      "url": "https://github.com/dotneet/image-to-3d",
+      "published_at": "2026-07-26T11:30:06Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/370602?v=4",
+      "source": "GitHub",
+      "stars": 206,
+      "user": "dotneet"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3435,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 156,
       "user": "grafana"
     },
     {
@@ -3454,19 +3438,19 @@
       "user": "byJoey"
     },
     {
-      "title": "torrischen/goat - goat is a package provides agent framework written in golang",
-      "url": "https://github.com/torrischen/goat",
-      "published_at": "2026-07-26T07:11:14Z",
-      "description": "goat is a package provides agent framework written in golang",
+      "title": "YuJunZhiXue/Cline-proxy - 一个使用go写的简略的反代CLine的网关",
+      "url": "https://github.com/YuJunZhiXue/Cline-proxy",
+      "published_at": "2026-07-30T15:48:40Z",
+      "description": "一个使用go写的简略的反代CLine的网关",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/81279408?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
       "stars": 79,
-      "user": "torrischen"
+      "user": "YuJunZhiXue"
     },
     {
       "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
@@ -3480,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 1912,
+      "stars": 2014,
       "user": "bashalarmistalt"
     },
     {
@@ -3495,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 1635,
+      "stars": 1893,
       "user": "yc-software"
     },
     {
@@ -3525,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 525,
       "user": "talivia-group"
     },
     {
@@ -3540,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "wassgha"
     },
     {
@@ -3555,23 +3539,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "steelbrain"
-    },
-    {
-      "title": "jchultarsky/mirador - An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "url": "https://github.com/jchultarsky/mirador",
-      "published_at": "2026-07-25T18:31:04Z",
-      "description": "An opinionated personal dashboard for your terminal — world clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a tab you leave open all day. Rust + ratatui.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17622216?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "jchultarsky"
     },
     {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
@@ -3585,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 105,
       "user": "l00sed"
     },
     {
@@ -3617,6 +3586,21 @@
       "source": "GitHub",
       "stars": 83,
       "user": "iamrohithrnair"
+    },
+    {
+      "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "published_at": "2026-07-27T19:37:52Z",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "hardrave"
     },
     {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
