@@ -16,21 +16,6 @@
       "user": "Rodrigo Diego"
     },
     {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -221,6 +206,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1097,
       "user": "QwenAudio"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "gavamedia"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "Audio8-AI"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "grafana"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "steelbrain"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "hardrave"
     },
     {
@@ -1014,21 +1014,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "published_at": "2026-07-31T19:47:28.000Z",
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "tags": [
-        "AI",
-        "Google",
-        "google earth",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1314,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1097,
       "user": "QwenAudio"
     },
     {
@@ -1329,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "xikhar"
     },
     {
@@ -1389,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "grafana"
     },
     {
@@ -1404,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4479,
+      "stars": 4604,
       "user": "yc-software"
     },
     {
@@ -1419,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2943,
+      "stars": 2986,
       "user": "bashalarmistalt"
     },
     {
@@ -1434,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "talivia-group"
     },
     {
@@ -1464,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "wassgha"
     },
     {
@@ -1479,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "Quantova"
     },
     {
@@ -1835,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "gavamedia"
     },
     {
@@ -1850,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "lij768423-svg"
     },
     {
@@ -1880,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "sii-research"
     },
     {
@@ -1895,8 +1880,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
+      "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
+      "published_at": "2026-08-01T18:21:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "advice",
+        "python",
+        "palindrome"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jayesh patil"
     },
     {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
@@ -2026,20 +2025,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Razgriz"
-    },
-    {
-      "title": "Select one subset or another depending on condition in a single query",
-      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
-      "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2296,7 +2281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "grafana"
     },
     {
@@ -2706,20 +2691,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "visdev"
-    },
-    {
-      "title": "Select one subset or another depending on condition in a single query",
-      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
-      "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
     }
   ],
   "Security": [
@@ -3173,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1097,
       "user": "QwenAudio"
     },
     {
@@ -3188,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "xikhar"
     },
     {
@@ -3248,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 588,
       "user": "gavamedia"
     },
     {
@@ -3263,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 343,
       "user": "lij768423-svg"
     },
     {
@@ -3293,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "sii-research"
     },
     {
@@ -3308,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 240,
       "user": "Audio8-AI"
     },
     {
@@ -3353,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 175,
       "user": "grafana"
     },
     {
@@ -3398,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4479,
+      "stars": 4604,
       "user": "yc-software"
     },
     {
@@ -3413,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2943,
+      "stars": 2986,
       "user": "bashalarmistalt"
     },
     {
@@ -3428,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 584,
       "user": "talivia-group"
     },
     {
@@ -3458,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 495,
       "user": "wassgha"
     },
     {
@@ -3473,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "steelbrain"
     },
     {
@@ -3488,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "l00sed"
     },
     {
@@ -3503,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "hardrave"
     },
     {
@@ -3518,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "Quantova"
     },
     {
@@ -3533,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 88,
       "user": "ArchAstro"
     },
     {
@@ -3576,21 +3547,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "published_at": "2026-07-31T19:47:28.000Z",
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "tags": [
-        "AI",
-        "Google",
-        "google earth",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
