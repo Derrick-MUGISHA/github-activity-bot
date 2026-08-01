@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 79,
+    "AI": 80,
     "JavaScript": 37,
     "Python": 31,
     "DevOps": 13,
@@ -19,7 +19,7 @@
     "Cloud": 17,
     "Database": 3,
     "Security": 21,
-    "Tools": 41
+    "Tools": 42
   },
   "by_language": {
     "JavaScript": 37,
@@ -32,12 +32,12 @@
     "Swift": 1
   },
   "by_date": {
-    "2026-07-31": 39,
-    "2026-07-29": 18,
+    "2026-07-31": 40,
+    "2026-07-29": 19,
     "2026-07-30": 16,
     "2026-07-28": 20,
-    "2026-07-27": 15,
-    "2026-07-26": 9,
+    "2026-07-27": 14,
+    "2026-07-26": 8,
     "2026-07-20": 2,
     "2026-07-15": 1,
     "2026-07-08": 1,
@@ -120,7 +120,7 @@
     "architecture": 6,
     "webdev": 6,
     "typescript": 6,
-    "programming": 5
+    "mcp": 5
   },
   "trending_topics": [],
   "language_percentages": {
