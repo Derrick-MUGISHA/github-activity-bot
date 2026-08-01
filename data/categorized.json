@@ -118,21 +118,6 @@
       "user": "Peter Kim Frank"
     },
     {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
-      "published_at": "2026-07-31T02:28:26Z",
-      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "published_at": "2026-07-30T20:43:23Z",
@@ -146,6 +131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
       "source": "Dev.to",
       "user": "Giulio D'Erme"
+    },
+    {
+      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
+      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
+      "published_at": "2026-07-31T02:28:26Z",
+      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1134,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 576,
       "user": "0xwilliamortiz"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 242,
       "user": "Audio8-AI"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "steelbrain"
     },
     {
@@ -931,7 +931,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "visual-studio-code",
@@ -942,6 +942,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thinksolid"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published_at": "2026-08-01T20:26:04.000Z",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "SpaceX",
+        "xAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published_at": "2026-08-01T19:45:45.000Z",
+      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "hank green"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -986,34 +1015,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "published_at": "2026-07-31T22:00:00.000Z",
-      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "tags": [
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "India is starting to pay for apps, not just download them",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "published_at": "2026-07-31T21:07:45.000Z",
-      "description": "India's app market generated a record $345 million in Q2.",
-      "tags": [
-        "AI",
-        "Apps",
-        "app market",
-        "ChatGPT",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1299,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1134,
       "user": "QwenAudio"
     },
     {
@@ -1314,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 761,
       "user": "xikhar"
     },
     {
@@ -1329,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 576,
       "user": "0xwilliamortiz"
     },
     {
@@ -1359,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "0xwilliamortiz"
     },
     {
@@ -1389,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4604,
+      "stars": 4682,
       "user": "yc-software"
     },
     {
@@ -1404,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2986,
+      "stars": 3005,
       "user": "bashalarmistalt"
     },
     {
@@ -1419,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "talivia-group"
     },
     {
@@ -1449,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "wassgha"
     },
     {
@@ -1495,19 +1496,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chiara Ani"
-    },
-    {
-      "title": "Access all objects key's values in nested object dynamically",
-      "url": "https://stackoverflow.com/questions/79989543/access-all-objects-keys-values-in-nested-object-dynamically",
-      "published_at": "2026-07-31T16:57:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "node.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xFgn"
     },
     {
       "title": "Chance of conflicts using stateful classes",
@@ -1609,7 +1597,21 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "xFgn"
+      "user": "user7960646"
+    },
+    {
+      "title": "How can I read a local text file in the browser?",
+      "url": "https://stackoverflow.com/questions/14446447/how-can-i-read-a-local-text-file-in-the-browser",
+      "published_at": "2013-01-21T20:14:10.000Z",
+      "description": "Stack Overflow question · 24 answers · score 556",
+      "tags": [
+        "javascript",
+        "file-io",
+        "xmlhttprequest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Danny"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1865,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "sii-research"
     },
     {
@@ -1880,8 +1882,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 242,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "How to ping back to client with Python socket.io",
+      "url": "https://stackoverflow.com/questions/79989759/how-to-ping-back-to-client-with-python-socket-io",
+      "published_at": "2026-08-01T19:34:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "flask",
+        "flask-socketio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Bergh"
     },
     {
       "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
@@ -1998,7 +2014,7 @@
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "visual-studio-code",
@@ -2009,22 +2025,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thinksolid"
-    },
-    {
-      "title": "Trying to Change A Pixel in Python",
-      "url": "https://stackoverflow.com/questions/79989338/trying-to-change-a-pixel-in-python",
-      "published_at": "2026-07-31T00:39:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "numpy",
-        "opencv",
-        "matplotlib",
-        "variable-assignment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Razgriz"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2648,6 +2648,21 @@
       "user": "xbill"
     },
     {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published_at": "2026-08-01T20:26:04.000Z",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "SpaceX",
+        "xAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2947,17 +2962,17 @@
       "user": "ewenjo"
     },
     {
-      "title": "Arch Linux disables AUR package adoption",
-      "url": "https://lwn.net/Articles/1086489/",
-      "published_at": "2026-07-31T17:03:47.298-05:00",
+      "title": "Apple Screen Sharing Pre-Auth RCE",
+      "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
+      "published_at": "2026-08-01T14:39:20.357-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "linux",
+        "mac",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Levitating"
+      "user": "fro"
     },
     {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
@@ -3144,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1134,
       "user": "QwenAudio"
     },
     {
@@ -3159,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 761,
       "user": "xikhar"
     },
     {
@@ -3174,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 576,
       "user": "0xwilliamortiz"
     },
     {
@@ -3204,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 407,
       "user": "0xwilliamortiz"
     },
     {
@@ -3264,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "sii-research"
     },
     {
@@ -3279,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 242,
       "user": "Audio8-AI"
     },
     {
@@ -3354,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "YuJunZhiXue"
     },
     {
@@ -3369,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4604,
+      "stars": 4682,
       "user": "yc-software"
     },
     {
@@ -3384,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2986,
+      "stars": 3005,
       "user": "bashalarmistalt"
     },
     {
@@ -3399,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "talivia-group"
     },
     {
@@ -3429,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "wassgha"
     },
     {
@@ -3444,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "steelbrain"
     },
     {
@@ -3508,23 +3523,10 @@
       "user": "ArchAstro"
     },
     {
-      "title": "Accepting a messy git history",
-      "url": "https://beza1e1.tuxen.de/git_two_users.html",
-      "published_at": "2026-07-31T13:27:28.702-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "qznc"
-    },
-    {
       "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
       "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
       "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "visual-studio-code",
@@ -3535,18 +3537,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thinksolid"
-    },
-    {
-      "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "published_at": "2026-07-31T22:00:00.000Z",
-      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "tags": [
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
