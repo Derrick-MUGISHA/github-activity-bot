@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 985,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 575,
       "user": "0xwilliamortiz"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "gavamedia"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "Audio8-AI"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "steelbrain"
     },
     {
@@ -906,7 +906,8 @@
       "published_at": "2026-08-01T07:34:25.605-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "browsers"
+        "browsers",
+        "email"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -940,6 +941,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "published_at": "2026-08-01T17:07:34.000Z",
+      "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "This $9 key physically locks your most addictive apps",
@@ -1013,22 +1028,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "published_at": "2026-07-31T19:39:51.000Z",
-      "description": "The new funding brings Index's total available investing capital to $3.5 billion.",
-      "tags": [
-        "Fundraising",
-        "Venture",
-        "In Brief",
-        "Index Ventures",
-        "wiz"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1138,21 +1137,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
-      "published_at": "2026-07-27T17:09:33Z",
-      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
-      "tags": [
-        "typescript",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
       "published_at": "2026-07-28T10:50:54Z",
@@ -1166,6 +1150,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
+      "published_at": "2026-07-27T17:09:33Z",
+      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
+      "tags": [
+        "typescript",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -1314,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 985,
       "user": "QwenAudio"
     },
     {
@@ -1329,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "xikhar"
     },
     {
@@ -1344,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 575,
       "user": "0xwilliamortiz"
     },
     {
@@ -1404,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4261,
+      "stars": 4384,
       "user": "yc-software"
     },
     {
@@ -1419,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2869,
+      "stars": 2905,
       "user": "bashalarmistalt"
     },
     {
@@ -1434,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 579,
       "user": "talivia-group"
     },
     {
@@ -1479,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "Quantova"
     },
     {
@@ -1583,19 +1582,6 @@
       "user": "Heba Allah Hashim"
     },
     {
-      "title": "What is difference between \"self\" from \"self=super()\" and \"this\"?",
-      "url": "https://stackoverflow.com/questions/79987599/what-is-difference-between-self-from-self-super-and-this",
-      "published_at": "2026-07-28T17:53:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "custom-element"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "React use() cache gets overwritten by an older Promise after invalidation",
       "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
       "published_at": "2026-07-27T19:43:30.000Z",
@@ -1625,6 +1611,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user31009838"
+    },
+    {
+      "title": "Retrieve property of [object Map] with arrow function - JS",
+      "url": "https://stackoverflow.com/questions/79924201/retrieve-property-of-object-map-with-arrow-function-js",
+      "published_at": "2026-04-12T03:52:19.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "discord.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xFgn"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1835,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "gavamedia"
     },
     {
@@ -1895,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "Audio8-AI"
     },
     {
@@ -3173,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 985,
       "user": "QwenAudio"
     },
     {
@@ -3188,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "xikhar"
     },
     {
@@ -3203,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 575,
       "user": "0xwilliamortiz"
     },
     {
@@ -3248,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "gavamedia"
     },
     {
@@ -3308,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "Audio8-AI"
     },
     {
@@ -3338,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3398,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4261,
+      "stars": 4384,
       "user": "yc-software"
     },
     {
@@ -3413,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2869,
+      "stars": 2905,
       "user": "bashalarmistalt"
     },
     {
@@ -3428,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 579,
       "user": "talivia-group"
     },
     {
@@ -3473,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "steelbrain"
     },
     {
@@ -3518,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "Quantova"
     },
     {
