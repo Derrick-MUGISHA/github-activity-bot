@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-01 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-01 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -102,8 +102,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 8 | [Data, Context & RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj) | Dev.to |
 | 9 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
 | 10 | [What is current your "daily driver" coding model? (July 2026)](https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl) | Dev.to |
-| 11 | [Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science](https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j) | Dev.to |
-| 12 | [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch) | Dev.to |
+| 11 | [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch) | Dev.to |
+| 12 | [Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science](https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j) | Dev.to |
 | 13 | [Fish Audio's $52M Seed: Open Weights Got Them Here](https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5) | Dev.to |
 | 14 | [Finally — Hard Caps to Limit Your Google Cloud Spend](https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363) | Dev.to |
 | 15 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Congrats to the DEV Weekend Challenge: Passion Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne) | Dev.to |
 | 20 | [Does it still make sense to learn how to code?](https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g) | Dev.to |
 
-<sub>Last fetched: Sat, 01 Aug 2026 21:42:46 CAT</sub>
+<sub>Last fetched: Sat, 01 Aug 2026 22:37:10 CAT</sub>
 
 
 ---
@@ -122,18 +122,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
+**1. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> try/catch, .catch(), error middleware
 
 </details>
 
-**2. `Database` — Design a database schema for a social media platform**
+**2. `React` — How would you optimize a React app's performance?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> React.memo, useMemo, useCallback, code splitting, lazy loading
+
+</details>
+
+**3. `Database` — Design a database schema for a social media platform**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
@@ -141,17 +152,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Users, posts, relationships, indexes, partitioning
-
-</details>
-
-**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -165,11 +165,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 77 | 41.8% | `████████████████████` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 37 | 20.1% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
@@ -194,24 +194,24 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.1%
-JavaScript      ██████████████████████████ 24.2%
-Python          ██████████████████████ 20.3%
-Java            █████████████████████ 19.6%
-Rust            █████ 4.6%
+Go              ██████████████████████████████ 28.8%
+JavaScript      █████████████████████████ 23.7%
+Python          █████████████████████ 19.9%
+Java            ████████████████████ 19.2%
+Rust            █████ 5.1%
 Kotlin          █ 1.3%
 Ruby            █ 1.3%
-Swift           █ 0.7%
+Swift           █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 43
+    "Go" : 45
     "JavaScript" : 37
     "Python" : 31
     "Java" : 30
-    "Rust" : 7
+    "Rust" : 8
     "Kotlin" : 2
     "Ruby" : 2
     "Swift" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-42-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 01 Aug 2026 19:42:46 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 01 Aug 2026 20:37:10 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
