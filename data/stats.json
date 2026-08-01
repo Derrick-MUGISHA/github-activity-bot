@@ -18,7 +18,7 @@
     "Mobile": 6,
     "Cloud": 17,
     "Database": 3,
-    "Security": 20,
+    "Security": 21,
     "Tools": 42
   },
   "by_language": {
@@ -114,9 +114,9 @@
     "JavaScript": 10,
     "DevOps": 10,
     "agents": 8,
+    "security": 8,
     "gemini": 8,
     "go": 8,
-    "security": 7,
     "rust": 7,
     "architecture": 6,
     "webdev": 6,
