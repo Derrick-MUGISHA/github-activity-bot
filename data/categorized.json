@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1227,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "PipeNetwork"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "Audio8-AI"
     },
     {
@@ -1311,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1227,
       "user": "QwenAudio"
     },
     {
@@ -1341,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4840,
+      "stars": 4914,
       "user": "yc-software"
     },
     {
@@ -1416,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3036,
+      "stars": 3055,
       "user": "bashalarmistalt"
     },
     {
@@ -1431,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "talivia-group"
     },
     {
@@ -1461,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "wassgha"
     },
     {
@@ -1483,7 +1483,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "html"
@@ -1865,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "PipeNetwork"
     },
     {
@@ -1895,14 +1895,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "Audio8-AI"
     },
     {
       "title": "Why is my hand not detecting properly in opencv?",
       "url": "https://stackoverflow.com/questions/79989778/why-is-my-hand-not-detecting-properly-in-opencv",
       "published_at": "2026-08-01T21:26:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "opencv",
@@ -1927,20 +1927,6 @@
       "user": "jayesh patil"
     },
     {
-      "title": "How to ping back to client with Python socket.io",
-      "url": "https://stackoverflow.com/questions/79989759/how-to-ping-back-to-client-with-python-socket-io",
-      "published_at": "2026-08-01T19:34:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "flask",
-        "flask-socketio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Bergh"
-    },
-    {
       "title": "null value return for selected columns of a DataFrame",
       "url": "https://stackoverflow.com/questions/79989760/null-value-return-for-selected-columns-of-a-dataframe",
       "published_at": "2026-08-01T19:38:27.000Z",
@@ -1953,6 +1939,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user1"
+    },
+    {
+      "title": "How to ping back to client with Python socket.io",
+      "url": "https://stackoverflow.com/questions/79989759/how-to-ping-back-to-client-with-python-socket-io",
+      "published_at": "2026-08-01T19:34:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "flask",
+        "flask-socketio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Bergh"
     },
     {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
@@ -2299,7 +2299,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "html"
@@ -3185,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1227,
       "user": "QwenAudio"
     },
     {
@@ -3215,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -3290,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "PipeNetwork"
     },
     {
@@ -3320,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "Audio8-AI"
     },
     {
@@ -3410,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4840,
+      "stars": 4914,
       "user": "yc-software"
     },
     {
@@ -3425,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3036,
+      "stars": 3055,
       "user": "bashalarmistalt"
     },
     {
@@ -3440,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "talivia-group"
     },
     {
@@ -3470,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "wassgha"
     },
     {
@@ -3500,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "l00sed"
     },
     {
@@ -3545,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "ArchAstro"
     },
     {
