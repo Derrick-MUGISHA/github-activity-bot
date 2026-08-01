@@ -16,21 +16,6 @@
       "user": "Rodrigo Diego"
     },
     {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
-      "published_at": "2026-07-31T13:17:16Z",
-      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
-      "tags": [
-        "ai",
-        "opensource",
-        "hardware",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
       "source": "Dev.to",
       "user": "DanielleWashington"
+    },
+    {
+      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
+      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
+      "published_at": "2026-07-31T13:17:16Z",
+      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
+      "tags": [
+        "ai",
+        "opensource",
+        "hardware",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
+      "source": "Dev.to",
+      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 792,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "0xwilliamortiz"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 431,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "gavamedia"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "PipeNetwork"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 228,
       "user": "Audio8-AI"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "steelbrain"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "hardrave"
     },
     {
@@ -901,6 +901,33 @@
       "user": "iamrohithrnair"
     },
     {
+      "title": "Test the Email Verification Protocol with an origin trial",
+      "url": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+      "published_at": "2026-08-01T07:34:25.605-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "browsers"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eatonphil"
+    },
+    {
+      "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
+      "url": "https://stackoverflow.com/questions/79989687/pywin32-excel-com-pastespecial-fails-with-all-the-merged-cells-need-to-be-the",
+      "published_at": "2026-08-01T12:24:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "excel",
+        "pywin32",
+        "win32com"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dhimesh Parmar"
+    },
+    {
       "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
       "url": "https://stackoverflow.com/questions/79989494/excel-com-autofilter-fails-with-1004-on-valid-relative-field-range-av5er15",
       "published_at": "2026-07-31T13:31:01.000Z",
@@ -913,22 +940,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
-      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
-      "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "anaconda",
-        "conda",
-        "vscode-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "thinksolid"
     },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -1035,20 +1046,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "published_at": "2026-07-31T16:08:18.000Z",
-      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "tags": [
-        "AI",
-        "Apple",
-        "siri ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1158,21 +1155,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -1186,6 +1168,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+      "published_at": "2026-07-28T10:50:54Z",
+      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "tags": [
+        "react",
+        "webdev",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -1323,21 +1320,6 @@
       "user": "velmu"
     },
     {
-      "title": "xikhar/persona - Bringing real-time voice to life.",
-      "url": "https://github.com/xikhar/persona",
-      "published_at": "2026-07-28T11:40:19Z",
-      "description": "Bringing real-time voice to life.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 742,
-      "user": "xikhar"
-    },
-    {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "published_at": "2026-07-27T05:04:26Z",
@@ -1349,8 +1331,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 792,
       "user": "QwenAudio"
+    },
+    {
+      "title": "xikhar/persona - Bringing real-time voice to life.",
+      "url": "https://github.com/xikhar/persona",
+      "published_at": "2026-07-28T11:40:19Z",
+      "description": "Bringing real-time voice to life.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 752,
+      "user": "xikhar"
     },
     {
       "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -1364,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "0xwilliamortiz"
     },
     {
@@ -1379,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 431,
       "user": "Noniv"
     },
     {
@@ -1394,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "0xwilliamortiz"
     },
     {
@@ -1424,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 3627,
+      "stars": 3891,
       "user": "yc-software"
     },
     {
@@ -1439,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2674,
+      "stars": 2760,
       "user": "bashalarmistalt"
     },
     {
@@ -1469,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 562,
       "user": "talivia-group"
     },
     {
@@ -1499,27 +1496,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "Quantova"
-    },
-    {
-      "title": "How can I open a local HTML file in Safari on an iPad?",
-      "url": "https://stackoverflow.com/questions/79989666/how-can-i-open-a-local-html-file-in-safari-on-an-ipad",
-      "published_at": "2026-08-01T10:07:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naveed Ashraf"
     },
     {
       "title": "How to test Vue ripple directive has been used?",
       "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
       "published_at": "2026-07-31T20:17:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "vue.js",
@@ -1548,7 +1532,7 @@
       "title": "Chance of conflicts using stateful classes",
       "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
       "published_at": "2026-07-31T07:55:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1574,21 +1558,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "komal mane"
-    },
-    {
-      "title": "How can I open my game on the user&#180;s mobile device from my website?",
-      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
-      "published_at": "2026-07-30T13:18:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "android",
-        "html",
-        "ios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bryan"
     },
     {
       "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
@@ -1644,6 +1613,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David Brierton"
+    },
+    {
+      "title": "How to read the actual value of a cell as a string from an Excel file using Exceljs in Node.js?",
+      "url": "https://stackoverflow.com/questions/79984147/how-to-read-the-actual-value-of-a-cell-as-a-string-from-an-excel-file-using-exce",
+      "published_at": "2026-07-23T10:14:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "excel",
+        "type-conversion",
+        "exceljs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user31009838"
+    },
+    {
+      "title": "Retrieve property of [object Map] with arrow function - JS",
+      "url": "https://stackoverflow.com/questions/79924201/retrieve-property-of-object-map-with-arrow-function-js",
+      "published_at": "2026-04-12T03:52:19.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "discord.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xFgn"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1854,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "gavamedia"
     },
     {
@@ -1869,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 335,
       "user": "lij768423-svg"
     },
     {
@@ -1884,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "PipeNetwork"
     },
     {
@@ -1914,8 +1912,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 228,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
+      "url": "https://stackoverflow.com/questions/79989687/pywin32-excel-com-pastespecial-fails-with-all-the-merged-cells-need-to-be-the",
+      "published_at": "2026-08-01T12:24:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "excel",
+        "pywin32",
+        "win32com"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dhimesh Parmar"
     },
     {
       "title": "How do I get the autocomplete hints to work for items in my generic dictionary class?",
@@ -2044,22 +2057,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zain Ul Abidin"
-    },
-    {
-      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
-      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
-      "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "anaconda",
-        "conda",
-        "vscode-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "thinksolid"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2320,34 +2317,6 @@
       "user": "grafana"
     },
     {
-      "title": "How can I open a local HTML file in Safari on an iPad?",
-      "url": "https://stackoverflow.com/questions/79989666/how-can-i-open-a-local-html-file-in-safari-on-an-ipad",
-      "published_at": "2026-08-01T10:07:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naveed Ashraf"
-    },
-    {
-      "title": "How can I open my game on the user&#180;s mobile device from my website?",
-      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
-      "published_at": "2026-07-30T13:18:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "android",
-        "html",
-        "ios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bryan"
-    },
-    {
       "title": "How to Create a Marketing Landing Page Using shadcn/ui",
       "url": "https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/",
       "published_at": "2026-07-31T11:01:41.000Z",
@@ -2453,21 +2422,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "How can I open my game on the user&#180;s mobile device from my website?",
-      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
-      "published_at": "2026-07-30T13:18:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "android",
-        "html",
-        "ios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bryan"
     }
   ],
   "Cloud": [
@@ -2697,18 +2651,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "published_at": "2026-07-31T16:08:18.000Z",
-      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
+      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
+      "published_at": "2026-07-11T21:21:38Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
       "tags": [
-        "AI",
-        "Apple",
-        "siri ai"
+        "gemma4",
+        "mcps",
+        "tpu",
+        "31b"
       ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -2743,7 +2698,7 @@
       "title": "Chance of conflicts using stateful classes",
       "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
       "published_at": "2026-07-31T07:55:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -3024,19 +2979,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Arch Linux disables AUR package adoption",
-      "url": "https://lwn.net/Articles/1086489/",
-      "published_at": "2026-07-31T17:03:47.298-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Levitating"
-    },
-    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3225,21 +3167,6 @@
       "user": "pabs3"
     },
     {
-      "title": "xikhar/persona - Bringing real-time voice to life.",
-      "url": "https://github.com/xikhar/persona",
-      "published_at": "2026-07-28T11:40:19Z",
-      "description": "Bringing real-time voice to life.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
-      "source": "GitHub",
-      "stars": 742,
-      "user": "xikhar"
-    },
-    {
       "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "url": "https://github.com/QwenAudio/qwen-audio-agent",
       "published_at": "2026-07-27T05:04:26Z",
@@ -3251,8 +3178,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 792,
       "user": "QwenAudio"
+    },
+    {
+      "title": "xikhar/persona - Bringing real-time voice to life.",
+      "url": "https://github.com/xikhar/persona",
+      "published_at": "2026-07-28T11:40:19Z",
+      "description": "Bringing real-time voice to life.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "source": "GitHub",
+      "stars": 752,
+      "user": "xikhar"
     },
     {
       "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -3266,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "0xwilliamortiz"
     },
     {
@@ -3281,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 431,
       "user": "Noniv"
     },
     {
@@ -3296,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "0xwilliamortiz"
     },
     {
@@ -3311,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "gavamedia"
     },
     {
@@ -3326,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 335,
       "user": "lij768423-svg"
     },
     {
@@ -3341,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "PipeNetwork"
     },
     {
@@ -3371,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 228,
       "user": "Audio8-AI"
     },
     {
@@ -3401,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3461,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 3627,
+      "stars": 3891,
       "user": "yc-software"
     },
     {
@@ -3476,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2674,
+      "stars": 2760,
       "user": "bashalarmistalt"
     },
     {
@@ -3506,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 562,
       "user": "talivia-group"
     },
     {
@@ -3536,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "steelbrain"
     },
     {
@@ -3551,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "l00sed"
     },
     {
@@ -3566,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "hardrave"
     },
     {
@@ -3581,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 95,
       "user": "Quantova"
     },
     {
@@ -3611,22 +3553,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "qznc"
-    },
-    {
-      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
-      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
-      "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "anaconda",
-        "conda",
-        "vscode-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "thinksolid"
     },
     {
       "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
