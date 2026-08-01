@@ -388,21 +388,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
       "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
       "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
       "published_at": "2026-07-28T11:09:48Z",
@@ -416,6 +401,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
       "source": "Dev.to",
       "user": "Julien Landuré"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
     },
     {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 640,
       "user": "QwenAudio"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 572,
       "user": "gavamedia"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "Audio8-AI"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "grafana"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 234,
       "user": "steelbrain"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 94,
       "user": "hardrave"
     },
     {
@@ -913,22 +913,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
-      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
-      "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "anaconda",
-        "conda",
-        "vscode-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "thinksolid"
     },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -1334,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 735,
       "user": "xikhar"
     },
     {
@@ -1349,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 640,
       "user": "QwenAudio"
     },
     {
@@ -1379,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "Noniv"
     },
     {
@@ -1409,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "grafana"
     },
     {
@@ -1424,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 2910,
+      "stars": 3254,
       "user": "yc-software"
     },
     {
@@ -1439,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2380,
+      "stars": 2530,
       "user": "bashalarmistalt"
     },
     {
@@ -1454,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -1469,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "talivia-group"
     },
     {
@@ -1484,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "wassgha"
     },
     {
@@ -1499,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 90,
       "user": "Quantova"
     },
     {
@@ -1855,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 572,
       "user": "gavamedia"
     },
     {
@@ -1870,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 318,
       "user": "lij768423-svg"
     },
     {
@@ -1900,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "sii-research"
     },
     {
@@ -1915,14 +1899,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "Switching from `np.random` to a `Generator` breaks numerical stability",
+      "url": "https://stackoverflow.com/questions/79989658/switching-from-np-random-to-a-generator-breaks-numerical-stability",
+      "published_at": "2026-08-01T09:11:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "numpy",
+        "random"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user1999728"
     },
     {
       "title": "How do I get the autocomplete hints to work for items in my generic dictionary class?",
       "url": "https://stackoverflow.com/questions/79989585/how-do-i-get-the-autocomplete-hints-to-work-for-items-in-my-generic-dictionary-c",
       "published_at": "2026-07-31T20:55:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-typing"
@@ -2020,7 +2019,7 @@
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -2045,22 +2044,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zain Ul Abidin"
-    },
-    {
-      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
-      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
-      "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "anaconda",
-        "conda",
-        "vscode-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "thinksolid"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2317,7 +2300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "grafana"
     },
     {
@@ -2761,7 +2744,7 @@
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -3225,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 735,
       "user": "xikhar"
     },
     {
@@ -3240,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 640,
       "user": "QwenAudio"
     },
     {
@@ -3270,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "Noniv"
     },
     {
@@ -3300,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 572,
       "user": "gavamedia"
     },
     {
@@ -3315,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 318,
       "user": "lij768423-svg"
     },
     {
@@ -3345,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "sii-research"
     },
     {
@@ -3360,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "Audio8-AI"
     },
     {
@@ -3390,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3405,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 166,
       "user": "grafana"
     },
     {
@@ -3435,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 79,
       "user": "YuJunZhiXue"
     },
     {
@@ -3450,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 2910,
+      "stars": 3254,
       "user": "yc-software"
     },
     {
@@ -3465,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 2380,
+      "stars": 2530,
       "user": "bashalarmistalt"
     },
     {
@@ -3480,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -3495,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "talivia-group"
     },
     {
@@ -3510,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 480,
       "user": "wassgha"
     },
     {
@@ -3525,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 234,
       "user": "steelbrain"
     },
     {
@@ -3540,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "l00sed"
     },
     {
@@ -3555,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 94,
       "user": "hardrave"
     },
     {
@@ -3570,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 90,
       "user": "Quantova"
     },
     {
@@ -3600,22 +3583,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "qznc"
-    },
-    {
-      "title": "VS Code Python Extension fails to set Anaconda base interpreter (\"Invalid Python interpreter selected\" / clicking interpreter does nothing)",
-      "url": "https://stackoverflow.com/questions/79989245/vs-code-python-extension-fails-to-set-anaconda-base-interpreter-invalid-python",
-      "published_at": "2026-07-30T16:05:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "anaconda",
-        "conda",
-        "vscode-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "thinksolid"
     },
     {
       "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
