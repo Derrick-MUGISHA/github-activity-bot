@@ -1,7 +1,7 @@
 {
-  "total": 184,
+  "total": 183,
   "by_source": {
-    "Dev.to": 60,
+    "Dev.to": 59,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 76,
+    "AI": 77,
     "JavaScript": 37,
     "Python": 31,
     "DevOps": 13,
-    "WebDev": 9,
-    "Mobile": 6,
+    "WebDev": 8,
+    "Mobile": 5,
     "Cloud": 18,
     "Database": 3,
-    "Security": 20,
-    "Tools": 37
+    "Security": 19,
+    "Tools": 36
   },
   "by_language": {
     "JavaScript": 37,
@@ -33,7 +33,7 @@
   },
   "by_date": {
     "2026-07-29": 18,
-    "2026-07-28": 22,
+    "2026-07-28": 21,
     "2026-07-31": 18,
     "2026-07-30": 11,
     "2026-07-27": 12,
@@ -101,8 +101,8 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-01": 22,
-    "2026-08-02": 5,
+    "2026-08-02": 6,
+    "2026-08-01": 21,
     "2026-04-12": 1,
     "2013-01-21": 1,
     "2015-02-18": 1
@@ -121,13 +121,13 @@
     "DevOps": 10,
     "agents": 8,
     "gemini": 8,
-    "security": 7,
-    "webdev": 7,
     "go": 7,
-    "architecture": 6,
+    "security": 6,
+    "webdev": 6,
     "typescript": 6,
     "tpu": 6,
-    "rust": 6
+    "rust": 6,
+    "architecture": 5
   },
   "trending_topics": [],
   "language_percentages": {
