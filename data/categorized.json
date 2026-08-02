@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1730,
       "user": "QwenAudio"
     },
     {
@@ -807,23 +807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 458,
       "user": "Noniv"
-    },
-    {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 615,
-      "user": "gavamedia"
     },
     {
       "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
@@ -882,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "opentokenz"
     },
     {
@@ -897,8 +882,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1787,
       "user": "trycompai"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 618,
+      "user": "gavamedia"
     },
     {
       "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "arcships"
     },
     {
@@ -1402,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1730,
       "user": "QwenAudio"
     },
     {
@@ -1417,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 792,
       "user": "xikhar"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 458,
       "user": "Noniv"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7065,
+      "stars": 7141,
       "user": "yc-software"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3639,
+      "stars": 3659,
       "user": "bashalarmistalt"
     },
     {
@@ -1522,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1787,
       "user": "trycompai"
     },
     {
@@ -1537,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 774,
       "user": "microsoft"
     },
     {
@@ -1552,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "talivia-group"
     },
     {
@@ -1672,6 +1672,18 @@
       "user": "ItzMe_Ezhil"
     },
     {
+      "title": "Game - Calculate player's diagonal movement",
+      "url": "https://stackoverflow.com/questions/74849024/game-calculate-players-diagonal-movement",
+      "published_at": "2022-12-19T10:11:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "chews"
+    },
+    {
       "title": "Using waxjs to get information about NFTs in Wax Cloud Wallet - possible?",
       "url": "https://stackoverflow.com/questions/72505817/using-waxjs-to-get-information-about-nfts-in-wax-cloud-wallet-possible",
       "published_at": "2022-06-05T08:23:55.000Z",
@@ -1700,20 +1712,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rahul Allada"
-    },
-    {
-      "title": "This can enable a Reflected Cross-Site Scripting (XSS) attack",
-      "url": "https://stackoverflow.com/questions/68549026/this-can-enable-a-reflected-cross-site-scripting-xss-attack",
-      "published_at": "2021-07-27T16:58:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
-      "tags": [
-        "javascript",
-        "xss",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pmiranda"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1913,21 +1911,6 @@
       "user": "arathore"
     },
     {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 615,
-      "user": "gavamedia"
-    },
-    {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
       "url": "https://github.com/lij768423-svg/grok-register-panel",
       "published_at": "2026-07-29T09:25:01Z",
@@ -1988,10 +1971,25 @@
       "user": "AmazingAng"
     },
     {
+      "title": "H-EmbodVis/TurboVLA - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "url": "https://github.com/H-EmbodVis/TurboVLA",
+      "published_at": "2026-07-28T04:04:22Z",
+      "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
+      "source": "GitHub",
+      "stars": 239,
+      "user": "H-EmbodVis"
+    },
+    {
       "title": "Positioning plot legend",
       "url": "https://stackoverflow.com/questions/79989961/positioning-plot-legend",
       "published_at": "2026-08-02T21:10:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "matplotlib"
@@ -3259,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1725,
+      "stars": 1730,
       "user": "QwenAudio"
     },
     {
@@ -3274,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 792,
       "user": "xikhar"
     },
     {
@@ -3319,23 +3317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 458,
       "user": "Noniv"
-    },
-    {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 615,
-      "user": "gavamedia"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3398,6 +3381,21 @@
       "user": "AmazingAng"
     },
     {
+      "title": "H-EmbodVis/TurboVLA - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "url": "https://github.com/H-EmbodVis/TurboVLA",
+      "published_at": "2026-07-28T04:04:22Z",
+      "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
+      "source": "GitHub",
+      "stars": 239,
+      "user": "H-EmbodVis"
+    },
+    {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
       "url": "https://github.com/codermyxiaoc/sub2api-guardian",
       "published_at": "2026-07-30T03:16:09Z",
@@ -3454,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "opentokenz"
     },
     {
@@ -3484,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7065,
+      "stars": 7141,
       "user": "yc-software"
     },
     {
@@ -3499,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3639,
+      "stars": 3659,
       "user": "bashalarmistalt"
     },
     {
@@ -3514,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1759,
+      "stars": 1787,
       "user": "trycompai"
     },
     {
@@ -3529,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 774,
       "user": "microsoft"
     },
     {
@@ -3544,8 +3542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 649,
       "user": "talivia-group"
+    },
+    {
+      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "published_at": "2026-07-28T01:01:23Z",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "source": "GitHub",
+      "stars": 618,
+      "user": "gavamedia"
     },
     {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
@@ -3574,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "arcships"
     },
     {
@@ -3606,21 +3619,6 @@
       "source": "GitHub",
       "stars": 106,
       "user": "Quantova"
-    },
-    {
-      "title": "ArchAstro/scopey - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
-      "url": "https://github.com/ArchAstro/scopey",
-      "published_at": "2026-07-31T00:18:13Z",
-      "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "ArchAstro"
     },
     {
       "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
