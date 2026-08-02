@@ -133,21 +133,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "published_at": "2026-07-31T11:00:29Z",
-      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "tags": [
-        "rag",
-        "ai",
-        "llm",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -268,6 +253,21 @@
       "user": "John Bulla"
     },
     {
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "published_at": "2026-07-31T11:00:29Z",
+      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "tags": [
+        "rag",
+        "ai",
+        "llm",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Diego"
+    },
+    {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
       "published_at": "2026-07-26T19:27:29Z",
@@ -373,6 +373,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
       "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
       "published_at": "2026-07-30T06:19:47Z",
@@ -384,21 +399,6 @@
         "rag"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
     },
@@ -551,6 +551,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
       "source": "Dev.to",
       "user": "Julien Landuré"
+    },
+    {
+      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
+      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
+      "published_at": "2026-07-20T14:05:39Z",
+      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
+      "tags": [
+        "discuss",
+        "management",
+        "codequality",
+        "product"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -777,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "Noniv"
     },
     {
@@ -792,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "gavamedia"
     },
     {
@@ -807,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "PipeNetwork"
     },
     {
@@ -822,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Audio8-AI"
     },
     {
@@ -867,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1724,
+      "stars": 1759,
       "user": "trycompai"
     },
     {
@@ -882,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "arcships"
     },
     {
@@ -1387,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 791,
       "user": "xikhar"
     },
     {
@@ -1432,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "Noniv"
     },
     {
@@ -1462,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 6985,
+      "stars": 7065,
       "user": "yc-software"
     },
     {
@@ -1477,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3611,
+      "stars": 3639,
       "user": "bashalarmistalt"
     },
     {
@@ -1492,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1724,
+      "stars": 1759,
       "user": "trycompai"
     },
     {
@@ -1507,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 747,
       "user": "microsoft"
     },
     {
@@ -1522,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 648,
       "user": "talivia-group"
     },
     {
@@ -1571,7 +1601,7 @@
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1894,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "gavamedia"
     },
     {
@@ -1924,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "PipeNetwork"
     },
     {
@@ -1939,7 +1969,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Audio8-AI"
     },
     {
@@ -1954,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "AmazingAng"
     },
     {
@@ -2130,6 +2160,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
@@ -2356,7 +2401,7 @@
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2868,21 +2913,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
       "published_at": "2026-07-28T02:21:07Z",
@@ -3122,21 +3152,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
-      "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
-      "published_at": "2026-07-29T02:17:31Z",
-      "description": "Why unmonitored Model Context Protocol (MCP) connections threaten enterprise security and how to build a bidirectional tool egress proxy.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9pt7jawngits8axkh5x7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
       "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
       "published_at": "2026-07-28T02:21:07Z",
@@ -3180,6 +3195,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+      "published_at": "2026-07-26T16:43:17Z",
+      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+      "tags": [
+        "webdev",
+        "programming",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
+      "source": "Dev.to",
+      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3244,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 791,
       "user": "xikhar"
     },
     {
@@ -3289,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "Noniv"
     },
     {
@@ -3304,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 615,
       "user": "gavamedia"
     },
     {
@@ -3334,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 317,
       "user": "PipeNetwork"
     },
     {
@@ -3349,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "Audio8-AI"
     },
     {
@@ -3364,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "AmazingAng"
     },
     {
@@ -3454,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 6985,
+      "stars": 7065,
       "user": "yc-software"
     },
     {
@@ -3469,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3611,
+      "stars": 3639,
       "user": "bashalarmistalt"
     },
     {
@@ -3484,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1724,
+      "stars": 1759,
       "user": "trycompai"
     },
     {
@@ -3499,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 747,
       "user": "microsoft"
     },
     {
@@ -3514,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 648,
       "user": "talivia-group"
     },
     {
@@ -3544,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "arcships"
     },
     {
