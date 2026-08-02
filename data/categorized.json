@@ -358,21 +358,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
-      "published_at": "2026-07-28T11:09:48Z",
-      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
-      "source": "Dev.to",
-      "user": "Julien Landuré"
-    },
-    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -568,6 +553,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
+      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
+      "published_at": "2026-07-28T11:09:48Z",
+      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
+      "tags": [
+        "ai",
+        "nanobanana",
+        "gemini",
+        "promptengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
+      "source": "Dev.to",
+      "user": "Julien Landuré"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1710,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "Noniv"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "Audio8-AI"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 122,
       "user": "opentokenz"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1443,
       "user": "trycompai"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 123,
       "user": "arcships"
     },
     {
@@ -916,7 +916,7 @@
       "title": "Abaqus CAE Python scripting, what documentation is available",
       "url": "https://stackoverflow.com/questions/79989898/abaqus-cae-python-scripting-what-documentation-is-available",
       "published_at": "2026-08-02T13:39:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "abaqus"
@@ -929,7 +929,7 @@
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pytorch",
@@ -1326,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1710,
       "user": "QwenAudio"
     },
     {
@@ -1341,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 779,
       "user": "xikhar"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "Noniv"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "achimala"
     },
     {
@@ -1416,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 6164,
+      "stars": 6333,
       "user": "yc-software"
     },
     {
@@ -1431,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3372,
+      "stars": 3414,
       "user": "bashalarmistalt"
     },
     {
@@ -1446,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1443,
       "user": "trycompai"
     },
     {
@@ -1461,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 623,
       "user": "talivia-group"
     },
     {
@@ -1476,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 603,
       "user": "microsoft"
     },
     {
@@ -1491,14 +1491,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "Quantova"
     },
     {
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1536,22 +1536,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chiara Ani"
-    },
-    {
-      "title": "Chance of conflicts using stateful classes",
-      "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
-      "published_at": "2026-07-31T07:55:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "mysql",
-        "node.js",
-        "orm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "visdev"
     },
     {
       "title": "UPI deep link popup causes JSP page to reload/navigate back while countdown timer is running",
@@ -1639,6 +1623,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jourkey"
+    },
+    {
+      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
+      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
+      "published_at": "2015-02-18T05:31:27.000Z",
+      "description": "Stack Overflow question · 5 answers · score 54",
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ItzMe_Ezhil"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1894,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "Audio8-AI"
     },
     {
@@ -1909,14 +1908,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 236,
       "user": "AmazingAng"
     },
     {
       "title": "Abaqus CAE Python scripting, what documentation is available",
       "url": "https://stackoverflow.com/questions/79989898/abaqus-cae-python-scripting-what-documentation-is-available",
       "published_at": "2026-08-02T13:39:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "abaqus"
@@ -1929,7 +1928,7 @@
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pytorch",
@@ -2011,6 +2010,20 @@
       "user": "Noah Bergh"
     },
     {
+      "title": "Select one subset or another depending on condition in a single query",
+      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
+      "published_at": "2026-07-31T11:29:51.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
+    },
+    {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
       "url": "https://stackoverflow.com/questions/79989687/pywin32-excel-com-pastespecial-fails-with-all-the-merged-cells-need-to-be-the",
       "published_at": "2026-08-01T12:24:56.000Z",
@@ -2024,20 +2037,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "Select one subset or another depending on condition in a single query",
-      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
-      "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
     },
     {
       "title": "How do I get the autocomplete hints to work for items in my generic dictionary class?",
@@ -2314,7 +2313,7 @@
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2351,6 +2350,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jourkey"
+    },
+    {
+      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
+      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
+      "published_at": "2015-02-18T05:31:27.000Z",
+      "description": "Stack Overflow question · 5 answers · score 54",
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ItzMe_Ezhil"
     },
     {
       "title": "How to Create a Marketing Landing Page Using shadcn/ui",
@@ -2762,26 +2776,10 @@
       "user": "iancarroll"
     },
     {
-      "title": "Chance of conflicts using stateful classes",
-      "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
-      "published_at": "2026-07-31T07:55:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "mysql",
-        "node.js",
-        "orm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "visdev"
-    },
-    {
       "title": "Select one subset or another depending on condition in a single query",
       "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
       "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -3215,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1710,
       "user": "QwenAudio"
     },
     {
@@ -3230,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 779,
       "user": "xikhar"
     },
     {
@@ -3260,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "Noniv"
     },
     {
@@ -3275,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "achimala"
     },
     {
@@ -3335,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "Audio8-AI"
     },
     {
@@ -3350,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 236,
       "user": "AmazingAng"
     },
     {
@@ -3395,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3410,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 122,
       "user": "opentokenz"
     },
     {
@@ -3425,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "YuJunZhiXue"
     },
     {
@@ -3440,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 6164,
+      "stars": 6333,
       "user": "yc-software"
     },
     {
@@ -3455,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3372,
+      "stars": 3414,
       "user": "bashalarmistalt"
     },
     {
@@ -3470,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1443,
       "user": "trycompai"
     },
     {
@@ -3485,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 623,
       "user": "talivia-group"
     },
     {
@@ -3500,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 603,
       "user": "microsoft"
     },
     {
@@ -3530,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 123,
       "user": "arcships"
     },
     {
@@ -3560,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "Quantova"
     },
     {
@@ -3575,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "ArchAstro"
     },
     {
