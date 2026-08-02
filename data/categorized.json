@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "published_at": "2026-07-31T11:00:29Z",
-      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "tags": [
-        "rag",
-        "ai",
-        "llm",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -176,6 +161,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "published_at": "2026-07-31T11:00:29Z",
+      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "tags": [
+        "rag",
+        "ai",
+        "llm",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Diego"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1278,
       "user": "QwenAudio"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 440,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "gavamedia"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "PipeNetwork"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "Audio8-AI"
     },
     {
@@ -856,19 +856,19 @@
       "user": "grafana"
     },
     {
-      "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
-      "url": "https://github.com/steelbrain/reims-vgpu",
-      "published_at": "2026-07-26T12:23:35Z",
-      "description": "reims-vgpu is an experimental virtual GPU for macOS guests",
+      "title": "trycompai/crm - GitHub Repository",
+      "url": "https://github.com/trycompai/crm",
+      "published_at": "2026-07-31T21:38:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 251,
-      "user": "steelbrain"
+      "stars": 614,
+      "user": "trycompai"
     },
     {
       "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
@@ -884,6 +884,21 @@
       "source": "GitHub",
       "stars": 105,
       "user": "hardrave"
+    },
+    {
+      "title": "iamrohithrnair/obsidian-tui - GitHub Repository",
+      "url": "https://github.com/iamrohithrnair/obsidian-tui",
+      "published_at": "2026-07-27T13:04:41Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "iamrohithrnair"
     },
     {
       "title": "Test the Email Verification Protocol with an origin trial",
@@ -1311,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1278,
       "user": "QwenAudio"
     },
     {
@@ -1356,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 440,
       "user": "Noniv"
     },
     {
@@ -1371,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 408,
       "user": "0xwilliamortiz"
     },
     {
@@ -1401,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4914,
+      "stars": 5007,
       "user": "yc-software"
     },
     {
@@ -1416,8 +1431,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3055,
+      "stars": 3083,
       "user": "bashalarmistalt"
+    },
+    {
+      "title": "trycompai/crm - GitHub Repository",
+      "url": "https://github.com/trycompai/crm",
+      "published_at": "2026-07-31T21:38:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
+      "source": "GitHub",
+      "stars": 614,
+      "user": "trycompai"
     },
     {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
@@ -1431,38 +1461,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 590,
       "user": "talivia-group"
     },
     {
-      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "published_at": "2026-07-26T21:58:28Z",
-      "description": "runs anywhere. uses anything",
+      "title": "ddoemonn/interior - micro-interactions for react, built for the half-second after a click",
+      "url": "https://github.com/ddoemonn/interior",
+      "published_at": "2026-07-30T18:20:18Z",
+      "description": "micro-interactions for react, built for the half-second after a click",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
       "source": "GitHub",
-      "stars": 565,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-      "url": "https://github.com/wassgha/rescript",
-      "published_at": "2026-07-26T22:43:11Z",
-      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
-      "source": "GitHub",
-      "stars": 503,
-      "user": "wassgha"
+      "stars": 393,
+      "user": "ddoemonn"
     },
     {
       "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
@@ -1476,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "Quantova"
     },
     {
@@ -1835,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "gavamedia"
     },
     {
@@ -1850,7 +1865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "lij768423-svg"
     },
     {
@@ -1865,23 +1880,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "PipeNetwork"
-    },
-    {
-      "title": "sii-research/tau-0-vla - This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
-      "url": "https://github.com/sii-research/tau-0-vla",
-      "published_at": "2026-07-26T07:57:08Z",
-      "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "sii-research"
     },
     {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
@@ -1895,8 +1895,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "AmazingAng/old-coder - An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "published_at": "2026-07-27T05:03:11Z",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "AmazingAng"
     },
     {
       "title": "Why is my hand not detecting properly in opencv?",
@@ -1916,7 +1931,7 @@
       "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
       "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
       "published_at": "2026-08-01T18:21:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "advice",
         "python",
@@ -1930,7 +1945,7 @@
       "title": "null value return for selected columns of a DataFrame",
       "url": "https://stackoverflow.com/questions/79989760/null-value-return-for-selected-columns-of-a-dataframe",
       "published_at": "2026-08-01T19:38:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -2718,6 +2733,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "wjordan/syzy - Local-first, multi-writer replication for SQLite.",
+      "url": "https://github.com/wjordan/syzy",
+      "published_at": "2026-07-28T03:33:47Z",
+      "description": "Local-first, multi-writer replication for SQLite.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/56541?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "wjordan"
+    },
+    {
       "title": "Chance of conflicts using stateful classes",
       "url": "https://stackoverflow.com/questions/79989404/chance-of-conflicts-using-stateful-classes",
       "published_at": "2026-07-31T07:55:17.000Z",
@@ -3185,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1278,
       "user": "QwenAudio"
     },
     {
@@ -3230,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 440,
       "user": "Noniv"
     },
     {
@@ -3245,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 408,
       "user": "0xwilliamortiz"
     },
     {
@@ -3260,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "gavamedia"
     },
     {
@@ -3275,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 348,
       "user": "lij768423-svg"
     },
     {
@@ -3290,23 +3320,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "PipeNetwork"
-    },
-    {
-      "title": "sii-research/tau-0-vla - This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
-      "url": "https://github.com/sii-research/tau-0-vla",
-      "published_at": "2026-07-26T07:57:08Z",
-      "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\".",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/214633573?v=4",
-      "source": "GitHub",
-      "stars": 250,
-      "user": "sii-research"
     },
     {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
@@ -3320,8 +3335,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "AmazingAng/old-coder - An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "published_at": "2026-07-27T05:03:11Z",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "AmazingAng"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3369,21 +3399,6 @@
       "user": "rogerbush007-a11y"
     },
     {
-      "title": "byJoey/fanout - 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
-      "url": "https://github.com/byJoey/fanout",
-      "published_at": "2026-07-26T03:41:14Z",
-      "description": "把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/36790372?v=4",
-      "source": "GitHub",
-      "stars": 90,
-      "user": "byJoey"
-    },
-    {
       "title": "YuJunZhiXue/Cline-proxy - 一个使用go写的简略的反代CLine的网关",
       "url": "https://github.com/YuJunZhiXue/Cline-proxy",
       "published_at": "2026-07-30T15:48:40Z",
@@ -3399,6 +3414,21 @@
       "user": "YuJunZhiXue"
     },
     {
+      "title": "wjordan/syzy - Local-first, multi-writer replication for SQLite.",
+      "url": "https://github.com/wjordan/syzy",
+      "published_at": "2026-07-28T03:33:47Z",
+      "description": "Local-first, multi-writer replication for SQLite.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/56541?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "wjordan"
+    },
+    {
       "title": "yc-software/qm - Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
       "published_at": "2026-07-29T20:03:08Z",
@@ -3410,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 4914,
+      "stars": 5007,
       "user": "yc-software"
     },
     {
@@ -3425,8 +3455,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3055,
+      "stars": 3083,
       "user": "bashalarmistalt"
+    },
+    {
+      "title": "trycompai/crm - GitHub Repository",
+      "url": "https://github.com/trycompai/crm",
+      "published_at": "2026-07-31T21:38:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
+      "source": "GitHub",
+      "stars": 614,
+      "user": "trycompai"
     },
     {
       "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
@@ -3440,53 +3485,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 590,
       "user": "talivia-group"
     },
     {
-      "title": "0xwilliamortiz/openclaude-improved - runs anywhere. uses anything",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "published_at": "2026-07-26T21:58:28Z",
-      "description": "runs anywhere. uses anything",
+      "title": "ddoemonn/interior - micro-interactions for react, built for the half-second after a click",
+      "url": "https://github.com/ddoemonn/interior",
+      "published_at": "2026-07-30T18:20:18Z",
+      "description": "micro-interactions for react, built for the half-second after a click",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
       "source": "GitHub",
-      "stars": 565,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "wassgha/rescript - 🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-      "url": "https://github.com/wassgha/rescript",
-      "published_at": "2026-07-26T22:43:11Z",
-      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/591655?v=4",
-      "source": "GitHub",
-      "stars": 503,
-      "user": "wassgha"
-    },
-    {
-      "title": "steelbrain/reims-vgpu - reims-vgpu is an experimental virtual GPU for macOS guests",
-      "url": "https://github.com/steelbrain/reims-vgpu",
-      "published_at": "2026-07-26T12:23:35Z",
-      "description": "reims-vgpu is an experimental virtual GPU for macOS guests",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4278113?v=4",
-      "source": "GitHub",
-      "stars": 251,
-      "user": "steelbrain"
+      "stars": 393,
+      "user": "ddoemonn"
     },
     {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
@@ -3500,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "l00sed"
     },
     {
@@ -3530,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "Quantova"
     },
     {
@@ -3547,6 +3562,21 @@
       "source": "GitHub",
       "stars": 90,
       "user": "ArchAstro"
+    },
+    {
+      "title": "iamrohithrnair/obsidian-tui - GitHub Repository",
+      "url": "https://github.com/iamrohithrnair/obsidian-tui",
+      "published_at": "2026-07-27T13:04:41Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "iamrohithrnair"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
