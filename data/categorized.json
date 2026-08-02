@@ -358,21 +358,6 @@
       "user": "xbill"
     },
     {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [
-        "mcp",
-        "ai",
-        "data",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
       "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
       "published_at": "2026-07-28T05:12:52Z",
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1532,
+      "stars": 1618,
       "user": "QwenAudio"
     },
     {
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "Noniv"
     },
     {
@@ -807,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 601,
       "user": "gavamedia"
     },
     {
@@ -837,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "Audio8-AI"
     },
     {
@@ -867,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 107,
       "user": "opentokenz"
     },
     {
@@ -882,8 +867,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1120,
       "user": "trycompai"
+    },
+    {
+      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "url": "https://github.com/arcships/aimux",
+      "published_at": "2026-07-28T04:58:46Z",
+      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "arcships"
     },
     {
       "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
@@ -899,34 +899,6 @@
       "source": "GitHub",
       "stars": 108,
       "user": "hardrave"
-    },
-    {
-      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
-      "url": "https://github.com/arcships/aimux",
-      "published_at": "2026-07-28T04:58:46Z",
-      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "arcships"
-    },
-    {
-      "title": "LLMs won't break symmetric crypto",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "published_at": "2026-08-01T16:11:22.171-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "cryptography",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mantej"
     },
     {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
@@ -1314,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1532,
+      "stars": 1618,
       "user": "QwenAudio"
     },
     {
@@ -1329,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "xikhar"
     },
     {
@@ -1359,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "Noniv"
     },
     {
@@ -1404,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 5452,
+      "stars": 5640,
       "user": "yc-software"
     },
     {
@@ -1419,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3180,
+      "stars": 3229,
       "user": "bashalarmistalt"
     },
     {
@@ -1434,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1120,
       "user": "trycompai"
     },
     {
@@ -1449,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "talivia-group"
     },
     {
@@ -1464,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 470,
       "user": "microsoft"
     },
     {
@@ -1479,8 +1451,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "Quantova"
+    },
+    {
+      "title": "CSS Alignment Fix",
+      "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
+      "published_at": "2026-08-02T07:16:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luka PUSKARICA"
     },
     {
       "title": "Javascript innerText not replacing existing text",
@@ -1613,21 +1599,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Danny"
-    },
-    {
-      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
-      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
-      "published_at": "2015-02-18T05:31:27.000Z",
-      "description": "Stack Overflow question · 5 answers · score 54",
-      "tags": [
-        "javascript",
-        "jquery",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ItzMe_Ezhil"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1838,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 601,
       "user": "gavamedia"
     },
     {
@@ -1853,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "lij768423-svg"
     },
     {
@@ -1883,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "Audio8-AI"
     },
     {
@@ -1905,7 +1876,7 @@
       "title": "Why do my nested loops only execute once in Python? (LeetCode Longest Palindromic Substring)",
       "url": "https://stackoverflow.com/questions/79989814/why-do-my-nested-loops-only-execute-once-in-python-leetcode-longest-palindromi",
       "published_at": "2026-08-02T04:05:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
@@ -1921,7 +1892,9 @@
       "tags": [
         "python",
         "opencv",
-        "mediapipe"
+        "computer-vision",
+        "mediapipe",
+        "pose-estimation"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1945,7 +1918,7 @@
       "title": "null value return for selected columns of a DataFrame",
       "url": "https://stackoverflow.com/questions/79989760/null-value-return-for-selected-columns-of-a-dataframe",
       "published_at": "2026-08-01T19:38:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -2297,6 +2270,20 @@
       "user": "grafana"
     },
     {
+      "title": "CSS Alignment Fix",
+      "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
+      "published_at": "2026-08-02T07:16:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luka PUSKARICA"
+    },
+    {
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
@@ -2308,21 +2295,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
-    },
-    {
-      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
-      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
-      "published_at": "2015-02-18T05:31:27.000Z",
-      "description": "Stack Overflow question · 5 answers · score 54",
-      "tags": [
-        "javascript",
-        "jquery",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ItzMe_Ezhil"
     },
     {
       "title": "How to Create a Marketing Landing Page Using shadcn/ui",
@@ -2675,6 +2647,21 @@
       "user": "xbill"
     },
     {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
+      "published_at": "2026-07-27T20:54:36Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "published_at": "2026-08-01T20:26:04.000Z",
@@ -2794,21 +2781,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
-    },
-    {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [
-        "mcp",
-        "ai",
-        "data",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
@@ -3049,21 +3021,6 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Zero-Trust Data Sovereignty: Enforcing Localized MCP Tool Policies in Multi-Region Stacks",
-      "url": "https://dev.to/gde/zero-trust-data-sovereignty-enforcing-localized-mcp-tool-policies-in-multi-region-stacks-4jbn",
-      "published_at": "2026-07-27T05:24:28Z",
-      "description": "Agentic AI has quietly broken a lot of assumptions that data governance teams spent the last decade...",
-      "tags": [
-        "mcp",
-        "ai",
-        "data",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdz9yk4i1tv2eomvwa27o.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
       "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
       "published_at": "2026-07-28T20:13:36Z",
@@ -3154,6 +3111,21 @@
       "user": "xbill"
     },
     {
+      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
+      "published_at": "2026-07-27T20:54:36Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3201,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1532,
+      "stars": 1618,
       "user": "QwenAudio"
     },
     {
@@ -3216,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "xikhar"
     },
     {
@@ -3246,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 443,
       "user": "Noniv"
     },
     {
@@ -3276,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 601,
       "user": "gavamedia"
     },
     {
@@ -3291,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "lij768423-svg"
     },
     {
@@ -3321,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "Audio8-AI"
     },
     {
@@ -3381,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3396,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 107,
       "user": "opentokenz"
     },
     {
@@ -3426,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 5452,
+      "stars": 5640,
       "user": "yc-software"
     },
     {
@@ -3441,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3180,
+      "stars": 3229,
       "user": "bashalarmistalt"
     },
     {
@@ -3456,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1120,
       "user": "trycompai"
     },
     {
@@ -3471,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "talivia-group"
     },
     {
@@ -3486,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 470,
       "user": "microsoft"
     },
     {
@@ -3501,8 +3473,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "l00sed"
+    },
+    {
+      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "url": "https://github.com/arcships/aimux",
+      "published_at": "2026-07-28T04:58:46Z",
+      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "arcships"
     },
     {
       "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
@@ -3531,23 +3518,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "Quantova"
-    },
-    {
-      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
-      "url": "https://github.com/arcships/aimux",
-      "published_at": "2026-07-28T04:58:46Z",
-      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "arcships"
     },
     {
       "title": "ArchAstro/scopey - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
@@ -3561,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "ArchAstro"
     },
     {
