@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1419,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "Noniv"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "gavamedia"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "Audio8-AI"
     },
     {
@@ -852,8 +852,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "grafana"
+    },
+    {
+      "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "url": "https://github.com/opentokenz/mcpx",
+      "published_at": "2026-07-30T08:54:23Z",
+      "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "opentokenz"
     },
     {
       "title": "trycompai/crm - GitHub Repository",
@@ -867,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 856,
       "user": "trycompai"
     },
     {
@@ -882,36 +897,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 108,
       "user": "hardrave"
     },
     {
-      "title": "iamrohithrnair/obsidian-tui - GitHub Repository",
-      "url": "https://github.com/iamrohithrnair/obsidian-tui",
-      "published_at": "2026-07-27T13:04:41Z",
-      "description": "Trending GitHub Repository",
+      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "url": "https://github.com/arcships/aimux",
+      "published_at": "2026-07-28T04:58:46Z",
+      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 83,
-      "user": "iamrohithrnair"
-    },
-    {
-      "title": "Test the Email Verification Protocol with an origin trial",
-      "url": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-      "published_at": "2026-08-01T07:34:25.605-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers",
-        "email"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eatonphil"
+      "stars": 87,
+      "user": "arcships"
     },
     {
       "title": "LLMs won't break symmetric crypto",
@@ -927,6 +929,19 @@
       "user": "mantej"
     },
     {
+      "title": "Test the Email Verification Protocol with an origin trial",
+      "url": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+      "published_at": "2026-08-01T07:34:25.605-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "browsers",
+        "email"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eatonphil"
+    },
+    {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
       "url": "https://stackoverflow.com/questions/79989687/pywin32-excel-com-pastespecial-fails-with-all-the-merged-cells-need-to-be-the",
       "published_at": "2026-08-01T12:24:56.000Z",
@@ -936,20 +951,6 @@
         "excel",
         "pywin32",
         "win32com"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dhimesh Parmar"
-    },
-    {
-      "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
-      "url": "https://stackoverflow.com/questions/79989494/excel-com-autofilter-fails-with-1004-on-valid-relative-field-range-av5er15",
-      "published_at": "2026-07-31T13:31:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "excel",
-        "autofilter"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1326,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1419,
       "user": "QwenAudio"
     },
     {
@@ -1341,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 771,
       "user": "xikhar"
     },
     {
@@ -1356,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -1371,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "Noniv"
     },
     {
@@ -1401,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "grafana"
     },
     {
@@ -1416,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 5007,
+      "stars": 5248,
       "user": "yc-software"
     },
     {
@@ -1431,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3083,
+      "stars": 3137,
       "user": "bashalarmistalt"
     },
     {
@@ -1446,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 856,
       "user": "trycompai"
     },
     {
@@ -1461,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 599,
       "user": "talivia-group"
     },
     {
@@ -1476,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "ddoemonn"
     },
     {
@@ -1491,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "Quantova"
     },
     {
@@ -1850,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "gavamedia"
     },
     {
@@ -1865,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 354,
       "user": "lij768423-svg"
     },
     {
@@ -1895,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "Audio8-AI"
     },
     {
@@ -1910,8 +1911,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "AmazingAng"
+    },
+    {
+      "title": "Why do my nested loops only execute once in Python? (LeetCode Longest Palindromic Substring)",
+      "url": "https://stackoverflow.com/questions/79989814/why-do-my-nested-loops-only-execute-once-in-python-leetcode-longest-palindromi",
+      "published_at": "2026-08-02T04:05:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "James"
     },
     {
       "title": "Why is my hand not detecting properly in opencv?",
@@ -1931,7 +1944,7 @@
       "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
       "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
       "published_at": "2026-08-01T18:21:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "advice",
         "python",
@@ -1945,7 +1958,7 @@
       "title": "null value return for selected columns of a DataFrame",
       "url": "https://stackoverflow.com/questions/79989760/null-value-return-for-selected-columns-of-a-dataframe",
       "published_at": "2026-08-01T19:38:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -1959,7 +1972,7 @@
       "title": "How to ping back to client with Python socket.io",
       "url": "https://stackoverflow.com/questions/79989759/how-to-ping-back-to-client-with-python-socket-io",
       "published_at": "2026-08-01T19:34:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "flask",
@@ -2028,7 +2041,7 @@
       "title": "pyqt - stuck in loop, window not opening",
       "url": "https://stackoverflow.com/questions/79989600/pyqt-stuck-in-loop-window-not-opening",
       "published_at": "2026-07-31T22:21:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "user-interface",
@@ -2037,20 +2050,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "samrad Tangestani"
-    },
-    {
-      "title": "Excel COM AutoFilter fails with 1004 on valid relative Field (range $AV$5:$ER$1501, Field=101) after PivotTable refresh (Python win32com)",
-      "url": "https://stackoverflow.com/questions/79989494/excel-com-autofilter-fails-with-1004-on-valid-relative-field-range-av5er15",
-      "published_at": "2026-07-31T13:31:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "excel",
-        "autofilter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dhimesh Parmar"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2307,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "grafana"
     },
     {
@@ -2731,21 +2730,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "wjordan/syzy - Local-first, multi-writer replication for SQLite.",
-      "url": "https://github.com/wjordan/syzy",
-      "published_at": "2026-07-28T03:33:47Z",
-      "description": "Local-first, multi-writer replication for SQLite.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/56541?v=4",
-      "source": "GitHub",
-      "stars": 58,
-      "user": "wjordan"
     },
     {
       "title": "Chance of conflicts using stateful classes",
@@ -3215,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1419,
       "user": "QwenAudio"
     },
     {
@@ -3230,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 771,
       "user": "xikhar"
     },
     {
@@ -3245,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -3260,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "Noniv"
     },
     {
@@ -3290,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "gavamedia"
     },
     {
@@ -3305,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 354,
       "user": "lij768423-svg"
     },
     {
@@ -3335,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "Audio8-AI"
     },
     {
@@ -3350,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 220,
       "user": "AmazingAng"
     },
     {
@@ -3380,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 182,
       "user": "grafana"
     },
     {
@@ -3395,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3410,23 +3394,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "YuJunZhiXue"
     },
     {
-      "title": "wjordan/syzy - Local-first, multi-writer replication for SQLite.",
-      "url": "https://github.com/wjordan/syzy",
-      "published_at": "2026-07-28T03:33:47Z",
-      "description": "Local-first, multi-writer replication for SQLite.",
+      "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "url": "https://github.com/opentokenz/mcpx",
+      "published_at": "2026-07-30T08:54:23Z",
+      "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/56541?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 58,
-      "user": "wjordan"
+      "stars": 75,
+      "user": "opentokenz"
     },
     {
       "title": "yc-software/qm - Multiplayer agent harness for work",
@@ -3440,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 5007,
+      "stars": 5248,
       "user": "yc-software"
     },
     {
@@ -3455,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3083,
+      "stars": 3137,
       "user": "bashalarmistalt"
     },
     {
@@ -3470,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 856,
       "user": "trycompai"
     },
     {
@@ -3485,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 599,
       "user": "talivia-group"
     },
     {
@@ -3500,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "ddoemonn"
     },
     {
@@ -3515,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 159,
       "user": "l00sed"
     },
     {
@@ -3530,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 108,
       "user": "hardrave"
     },
     {
@@ -3545,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 100,
       "user": "Quantova"
     },
     {
@@ -3560,23 +3544,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "ArchAstro"
     },
     {
-      "title": "iamrohithrnair/obsidian-tui - GitHub Repository",
-      "url": "https://github.com/iamrohithrnair/obsidian-tui",
-      "published_at": "2026-07-27T13:04:41Z",
-      "description": "Trending GitHub Repository",
+      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "url": "https://github.com/arcships/aimux",
+      "published_at": "2026-07-28T04:58:46Z",
+      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/269915440?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 83,
-      "user": "iamrohithrnair"
+      "stars": 87,
+      "user": "arcships"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
