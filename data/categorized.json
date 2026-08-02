@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1721,
+      "stars": 1723,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 541,
       "user": "0xwilliamortiz"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 612,
       "user": "gavamedia"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1689,
       "user": "trycompai"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "arcships"
     },
     {
@@ -956,6 +956,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
+    },
+    {
+      "title": "Llama model generation always skips 1 token during inference",
+      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
+      "published_at": "2026-08-02T12:43:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "training-data"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "C. Ding"
     },
     {
       "title": "Abaqus CAE Python scripting, what documentation is available",
@@ -1358,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1721,
+      "stars": 1723,
       "user": "QwenAudio"
     },
     {
@@ -1373,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 788,
       "user": "xikhar"
     },
     {
@@ -1403,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 541,
       "user": "0xwilliamortiz"
     },
     {
@@ -1448,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 6809,
+      "stars": 6900,
       "user": "yc-software"
     },
     {
@@ -1463,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3557,
+      "stars": 3581,
       "user": "bashalarmistalt"
     },
     {
@@ -1478,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1689,
       "user": "trycompai"
     },
     {
@@ -1493,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 711,
       "user": "microsoft"
     },
     {
@@ -1508,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "talivia-group"
     },
     {
@@ -1584,19 +1599,6 @@
       "user": "Heba Allah Hashim"
     },
     {
-      "title": "Retrieve property of [object Map] with arrow function - JS",
-      "url": "https://stackoverflow.com/questions/79924201/retrieve-property-of-object-map-with-arrow-function-js",
-      "published_at": "2026-04-12T03:52:19.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "discord.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user7960646"
-    },
-    {
       "title": "'contenteditable' change events",
       "url": "https://stackoverflow.com/questions/1391278/contenteditable-change-events",
       "published_at": "2009-09-07T23:15:12.000Z",
@@ -1627,20 +1629,6 @@
       "user": "ItzMe_Ezhil"
     },
     {
-      "title": "This can enable a Reflected Cross-Site Scripting (XSS) attack",
-      "url": "https://stackoverflow.com/questions/68549026/this-can-enable-a-reflected-cross-site-scripting-xss-attack",
-      "published_at": "2021-07-27T16:58:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
-      "tags": [
-        "javascript",
-        "xss",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pmiranda"
-    },
-    {
       "title": "Using waxjs to get information about NFTs in Wax Cloud Wallet - possible?",
       "url": "https://stackoverflow.com/questions/72505817/using-waxjs-to-get-information-about-nfts-in-wax-cloud-wallet-possible",
       "published_at": "2022-06-05T08:23:55.000Z",
@@ -1655,6 +1643,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "macke89"
+    },
+    {
+      "title": "How to convert from String to the other data type where the data type is stored in a variable - JAVASCRIPT",
+      "url": "https://stackoverflow.com/questions/73016990/how-to-convert-from-string-to-the-other-data-type-where-the-data-type-is-stored",
+      "published_at": "2022-07-18T03:21:20.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "types",
+        "type-conversion"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rahul Allada"
+    },
+    {
+      "title": "This can enable a Reflected Cross-Site Scripting (XSS) attack",
+      "url": "https://stackoverflow.com/questions/68549026/this-can-enable-a-reflected-cross-site-scripting-xss-attack",
+      "published_at": "2021-07-27T16:58:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
+      "tags": [
+        "javascript",
+        "xss",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "pmiranda"
     },
     {
       "title": "EventListener add and remove not working correctly",
@@ -1878,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 612,
       "user": "gavamedia"
     },
     {
@@ -1893,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "lij768423-svg"
     },
     {
@@ -1956,6 +1972,20 @@
       "user": "Luna"
     },
     {
+      "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
+      "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
+      "published_at": "2026-08-02T17:04:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "docx",
+        "python-docx"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "beebee"
+    },
+    {
       "title": "KeyError with Performing K-Fold Cross-Validation",
       "url": "https://stackoverflow.com/questions/79989929/keyerror-with-performing-k-fold-cross-validation",
       "published_at": "2026-08-02T16:31:29.000Z",
@@ -1970,18 +2000,19 @@
       "user": "Tory"
     },
     {
-      "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
-      "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
-      "published_at": "2026-08-02T17:04:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Llama model generation always skips 1 token during inference",
+      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
+      "published_at": "2026-08-02T12:43:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
-        "docx",
-        "python-docx"
+        "pytorch",
+        "huggingface-transformers",
+        "training-data"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "beebee"
+      "user": "C. Ding"
     },
     {
       "title": "Abaqus CAE Python scripting, what documentation is available",
@@ -2065,20 +2096,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Noah Bergh"
-    },
-    {
-      "title": "Select one subset or another depending on condition in a single query",
-      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
-      "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2803,20 +2820,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Select one subset or another depending on condition in a single query",
-      "url": "https://stackoverflow.com/questions/79989464/select-one-subset-or-another-depending-on-condition-in-a-single-query",
-      "published_at": "2026-07-31T11:29:51.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
     }
   ],
   "Security": [
@@ -3242,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1721,
+      "stars": 1723,
       "user": "QwenAudio"
     },
     {
@@ -3257,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 788,
       "user": "xikhar"
     },
     {
@@ -3287,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 541,
       "user": "0xwilliamortiz"
     },
     {
@@ -3317,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 612,
       "user": "gavamedia"
     },
     {
@@ -3332,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 376,
       "user": "lij768423-svg"
     },
     {
@@ -3467,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 6809,
+      "stars": 6900,
       "user": "yc-software"
     },
     {
@@ -3482,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3557,
+      "stars": 3581,
       "user": "bashalarmistalt"
     },
     {
@@ -3497,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1689,
       "user": "trycompai"
     },
     {
@@ -3512,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 711,
       "user": "microsoft"
     },
     {
@@ -3527,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "talivia-group"
     },
     {
@@ -3557,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "arcships"
     },
     {
