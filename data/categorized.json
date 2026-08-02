@@ -61,21 +61,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
       "published_at": "2026-07-27T15:37:53Z",
@@ -418,6 +403,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
       "url": "https://dev.to/gde/the-governed-execution-gateway-securing-mcp-servers-and-tool-egress-proxies-1ee3",
       "published_at": "2026-07-29T02:17:31Z",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1691,
+      "stars": 1706,
       "user": "QwenAudio"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 448,
       "user": "Noniv"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 263,
       "user": "Audio8-AI"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 118,
       "user": "opentokenz"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1383,
       "user": "trycompai"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 120,
       "user": "arcships"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "hardrave"
     },
     {
@@ -911,6 +911,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abhin4v"
+    },
+    {
+      "title": "Abaqus CAE Python scripting, what documentation is available",
+      "url": "https://stackoverflow.com/questions/79989898/abaqus-cae-python-scripting-what-documentation-is-available",
+      "published_at": "2026-08-02T13:39:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "abaqus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Echeban"
+    },
+    {
+      "title": "Llama model generation always skips 1 token during inference",
+      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
+      "published_at": "2026-08-02T12:43:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "training-data"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "C. Ding"
     },
     {
       "title": "pywin32 Excel COM: PasteSpecial fails with “all the merged cells need to be the same size” when writing into a sheet with merged cells",
@@ -1298,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1691,
+      "stars": 1706,
       "user": "QwenAudio"
     },
     {
@@ -1313,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "xikhar"
     },
     {
@@ -1343,23 +1371,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 448,
       "user": "Noniv"
     },
     {
-      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "published_at": "2026-07-31T17:54:30Z",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 409,
-      "user": "0xwilliamortiz"
+      "stars": 411,
+      "user": "achimala"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1388,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 5898,
+      "stars": 6164,
       "user": "yc-software"
     },
     {
@@ -1403,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3299,
+      "stars": 3372,
       "user": "bashalarmistalt"
     },
     {
@@ -1418,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1383,
       "user": "trycompai"
     },
     {
@@ -1433,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 619,
       "user": "talivia-group"
     },
     {
@@ -1448,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 569,
       "user": "microsoft"
     },
     {
@@ -1470,7 +1498,7 @@
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1598,19 +1626,19 @@
       "user": "Danny"
     },
     {
-      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
-      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
-      "published_at": "2015-02-18T05:31:27.000Z",
-      "description": "Stack Overflow question · 5 answers · score 54",
+      "title": "'contenteditable' change events",
+      "url": "https://stackoverflow.com/questions/1391278/contenteditable-change-events",
+      "published_at": "2009-09-07T23:15:12.000Z",
+      "description": "Stack Overflow question · 23 answers · score 512",
       "tags": [
         "javascript",
         "jquery",
         "html",
-        "css"
+        "contenteditable"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "ItzMe_Ezhil"
+      "user": "Jourkey"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1836,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 367,
       "user": "lij768423-svg"
     },
     {
@@ -1866,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 263,
       "user": "Audio8-AI"
     },
     {
@@ -1881,8 +1909,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "AmazingAng"
+    },
+    {
+      "title": "Abaqus CAE Python scripting, what documentation is available",
+      "url": "https://stackoverflow.com/questions/79989898/abaqus-cae-python-scripting-what-documentation-is-available",
+      "published_at": "2026-08-02T13:39:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "abaqus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Echeban"
+    },
+    {
+      "title": "Llama model generation always skips 1 token during inference",
+      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
+      "published_at": "2026-08-02T12:43:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "training-data"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "C. Ding"
     },
     {
       "title": "Why do my nested loops only execute once in Python? (LeetCode Longest Palindromic Substring)",
@@ -1900,7 +1956,7 @@
       "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
       "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
       "published_at": "2026-08-01T18:21:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "advice",
         "python",
@@ -1995,33 +2051,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "How to programmatically add missing elements into a list of arguments",
-      "url": "https://stackoverflow.com/questions/79989572/how-to-programmatically-add-missing-elements-into-a-list-of-arguments",
-      "published_at": "2026-07-31T19:42:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "list"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "troppapolvere"
-    },
-    {
-      "title": "Why is scrapy not returning items despite crawling?",
-      "url": "https://stackoverflow.com/questions/79989568/why-is-scrapy-not-returning-items-despite-crawling",
-      "published_at": "2026-07-31T19:15:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "web-scraping",
-        "scrapy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gabriel Silva"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2240,6 +2269,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2270,7 +2314,7 @@
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2294,19 +2338,19 @@
       "user": "NiMuSi"
     },
     {
-      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
-      "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
-      "published_at": "2015-02-18T05:31:27.000Z",
-      "description": "Stack Overflow question · 5 answers · score 54",
+      "title": "'contenteditable' change events",
+      "url": "https://stackoverflow.com/questions/1391278/contenteditable-change-events",
+      "published_at": "2009-09-07T23:15:12.000Z",
+      "description": "Stack Overflow question · 23 answers · score 512",
       "tags": [
         "javascript",
         "jquery",
         "html",
-        "css"
+        "contenteditable"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "ItzMe_Ezhil"
+      "user": "Jourkey"
     },
     {
       "title": "How to Create a Marketing Landing Page Using shadcn/ui",
@@ -2369,6 +2413,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
@@ -2750,21 +2809,6 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -2793,6 +2837,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "The Governed Execution Gateway: Securing MCP Servers and Tool Egress Proxies",
@@ -3004,6 +3063,21 @@
       "user": "Tilde A. Thurium"
     },
     {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
       "published_at": "2026-07-28T18:58:24Z",
@@ -3141,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
       "source": "GitHub",
-      "stars": 1691,
+      "stars": 1706,
       "user": "QwenAudio"
     },
     {
@@ -3156,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 778,
       "user": "xikhar"
     },
     {
@@ -3186,23 +3260,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 448,
       "user": "Noniv"
     },
     {
-      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "published_at": "2026-07-31T17:54:30Z",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "title": "achimala/TheLongSilence - A space exploration game built by Claude Opus 5",
+      "url": "https://github.com/achimala/TheLongSilence",
+      "published_at": "2026-07-27T08:43:36Z",
+      "description": "A space exploration game built by Claude Opus 5",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1448366?v=4",
       "source": "GitHub",
-      "stars": 409,
-      "user": "0xwilliamortiz"
+      "stars": 411,
+      "user": "achimala"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -3231,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 367,
       "user": "lij768423-svg"
     },
     {
@@ -3261,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 263,
       "user": "Audio8-AI"
     },
     {
@@ -3276,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 231,
       "user": "AmazingAng"
     },
     {
@@ -3336,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 118,
       "user": "opentokenz"
     },
     {
@@ -3366,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 5898,
+      "stars": 6164,
       "user": "yc-software"
     },
     {
@@ -3381,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3299,
+      "stars": 3372,
       "user": "bashalarmistalt"
     },
     {
@@ -3396,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1383,
       "user": "trycompai"
     },
     {
@@ -3411,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 619,
       "user": "talivia-group"
     },
     {
@@ -3426,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 569,
       "user": "microsoft"
     },
     {
@@ -3441,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "l00sed"
     },
     {
@@ -3456,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 120,
       "user": "arcships"
     },
     {
@@ -3471,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "hardrave"
     },
     {

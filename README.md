@@ -5,9 +5,9 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--02-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-02 14:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-02 16:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png" width="200" alt="Data, Context & RAG Lineage Governance for Enterprise AI Agents" />
+    <a href="https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png" width="200" alt="Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider" />
       <br/>
-      <b>Data, Context & RAG Lineage Governance for Enterpr...</b>
+      <b>Switching Tracks in BlocSignal: The Universal Stat...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -97,23 +97,23 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 3 | [DevRelCon, Adult Summer Camp, and My First Time Speaking](https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d) | Dev.to |
 | 4 | [How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost](https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh) | Dev.to |
 | 5 | [Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i](https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c) | Dev.to |
-| 6 | [Data, Context & RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj) | Dev.to |
-| 7 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
-| 8 | [What is current your "daily driver" coding model? (July 2026)](https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl) | Dev.to |
-| 9 | [Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science](https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j) | Dev.to |
-| 10 | [Fish Audio's $52M Seed: Open Weights Got Them Here](https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5) | Dev.to |
-| 11 | [Finally — Hard Caps to Limit Your Google Cloud Spend](https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363) | Dev.to |
-| 12 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
-| 13 | [Your RAG copilot can't count — stop letting it try](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3) | Dev.to |
-| 14 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
-| 15 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 16 | [Skills vs MCP: How AI tools have evolved](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk) | Dev.to |
-| 17 | [I had two weeks, an 8-foot keyboard, and a Wordle Workflow](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h) | Dev.to |
-| 18 | [Does it still make sense to learn how to code?](https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g) | Dev.to |
-| 19 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
-| 20 | [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch) | Dev.to |
+| 6 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
+| 7 | [What is current your "daily driver" coding model? (July 2026)](https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl) | Dev.to |
+| 8 | [Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science](https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j) | Dev.to |
+| 9 | [Fish Audio's $52M Seed: Open Weights Got Them Here](https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5) | Dev.to |
+| 10 | [Finally — Hard Caps to Limit Your Google Cloud Spend](https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363) | Dev.to |
+| 11 | [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi) | Dev.to |
+| 12 | [Your RAG copilot can't count — stop letting it try](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3) | Dev.to |
+| 13 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
+| 14 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
+| 15 | [Skills vs MCP: How AI tools have evolved](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk) | Dev.to |
+| 16 | [I had two weeks, an 8-foot keyboard, and a Wordle Workflow](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h) | Dev.to |
+| 17 | [Does it still make sense to learn how to code?](https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g) | Dev.to |
+| 18 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
+| 19 | [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch) | Dev.to |
+| 20 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
 
-<sub>Last fetched: Sun, 02 Aug 2026 14:16:56 CAT</sub>
+<sub>Last fetched: Sun, 02 Aug 2026 16:05:22 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What are closures and provide a practical example?**
+**1. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**2. `Python` — Implement a context manager using __enter__ and __exit__**
+**2. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> B-tree, trade-offs, query performance
 
 </details>
 
-**3. `Database` — What is database normalization and denormalization?**
+**3. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 42.1% | `████████████████████` |
-| **JavaScript** | 37 | 20.2% | `██████████░░░░░░░░░░` |
-| **Tools** | 36 | 19.7% | `█████████░░░░░░░░░░░` |
-| **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
-| **Security** | 19 | 10.4% | `█████░░░░░░░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
+| **Tools** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
+| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 59 |
+| Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,13 +194,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.0%
-JavaScript      ██████████████████████████ 24.7%
-Python          ██████████████████████ 20.7%
-Java            █████████████████████ 20.0%
+Go              ██████████████████████████████ 27.8%
+JavaScript      ██████████████████████████ 24.5%
+Python          ██████████████████████ 20.5%
+Java            █████████████████████ 19.9%
 Rust            ████ 4.0%
 Kotlin          █ 1.3%
 Ruby            █ 0.7%
+PHP             █ 0.7%
 Swift           █ 0.7%
 
 ```
@@ -214,13 +215,13 @@ pie title Programming Languages Distribution
     "Rust" : 6
     "Kotlin" : 2
     "Ruby" : 1
-    "Swift" : 1
+    "PHP" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-16-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-16-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 02 Aug 2026 12:16:56 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 02 Aug 2026 14:05:22 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
