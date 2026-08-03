@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "Noniv"
     },
     {
@@ -814,19 +814,19 @@
       "user": "Audio8-AI"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "published_at": "2026-07-28T22:59:24Z",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 248,
-      "user": "Anionex"
+      "stars": 249,
+      "user": "aws"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "grafana"
     },
     {
@@ -885,8 +885,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2792,
+      "stars": 2948,
       "user": "trycompai"
+    },
+    {
+      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "published_at": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
+      "source": "GitHub",
+      "stars": 692,
+      "user": "thebuggeddev"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -900,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "gavamedia"
     },
     {
@@ -932,6 +947,18 @@
       "source": "GitHub",
       "stars": 65,
       "user": "hamzarehmandeveloper"
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:51:22.427-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
     },
     {
       "title": "Failed to create virtual environment in VS Code",
@@ -974,6 +1001,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Echeban"
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "published_at": "2026-08-03T18:43:43.000Z",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it ",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "Apple",
+        "siri"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Sequoia&#8217;s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
@@ -1036,52 +1079,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "published_at": "2026-08-03T10:00:00.000Z",
-      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "tags": [
-        "AI",
-        "Venture",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "The global memory shortage hits the MacBook Air",
-      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "published_at": "2026-08-02T21:33:59.000Z",
-      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "global chip shortage",
-        "In Brief",
-        "macbook air"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "published_at": "2026-08-02T20:54:22.000Z",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "tags": [
-        "AI",
-        "Equity podcast",
-        "Hugging Face",
-        "OpenAI",
-        "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1367,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "xikhar"
     },
     {
@@ -1382,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -1397,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -1412,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 509,
       "user": "x4gKing"
     },
     {
@@ -1427,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "Noniv"
     },
     {
@@ -1442,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "grafana"
     },
     {
@@ -1457,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9076,
+      "stars": 9239,
       "user": "yc-software"
     },
     {
@@ -1472,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4175,
+      "stars": 4193,
       "user": "bashalarmistalt"
     },
     {
@@ -1487,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2792,
+      "stars": 2948,
       "user": "trycompai"
     },
     {
@@ -1502,23 +1499,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1334,
       "user": "microsoft"
     },
     {
-      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "url": "https://github.com/talivia-group/talivia",
-      "published_at": "2026-07-29T07:56:49Z",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "published_at": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 678,
-      "user": "talivia-group"
+      "stars": 692,
+      "user": "thebuggeddev"
     },
     {
       "title": "Your JSON Is Lying to You",
@@ -1881,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "lij768423-svg"
     },
     {
@@ -1911,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 292,
       "user": "H-EmbodVis"
     },
     {
@@ -1926,29 +1923,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 254,
       "user": "1mm-module"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "published_at": "2026-07-28T22:59:24Z",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 248,
-      "user": "Anionex"
+      "stars": 249,
+      "user": "aws"
     },
     {
       "title": "How to show a pygame window with a tkinter window?",
       "url": "https://stackoverflow.com/questions/79990157/how-to-show-a-pygame-window-with-a-tkinter-window",
       "published_at": "2026-08-03T16:25:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "tkinter",
@@ -1962,7 +1959,7 @@
       "title": "Printing the index without errors",
       "url": "https://stackoverflow.com/questions/79990134/printing-the-index-without-errors",
       "published_at": "2026-08-03T14:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python"
       ],
@@ -2073,7 +2070,7 @@
       "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
       "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
       "published_at": "2026-08-01T18:21:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "advice",
         "python",
@@ -2338,7 +2335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "grafana"
     },
     {
@@ -2775,6 +2772,37 @@
       "user": "xbill"
     },
     {
+      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "published_at": "2026-07-28T22:59:24Z",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
+      "source": "GitHub",
+      "stars": 249,
+      "user": "aws"
+    },
+    {
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "published_at": "2026-08-03T18:54:09.000Z",
+      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+      "tags": [
+        "Security",
+        "Advanced Data Protection",
+        "Apple",
+        "apple icloud backdoor",
+        "backdoor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2802,6 +2830,31 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:51:22.427-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
+    },
+    {
+      "title": "Reliability Lessons From SQLite",
+      "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+      "published_at": "2026-08-03T11:27:45.504-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dgv"
     }
   ],
   "Security": [
@@ -3011,6 +3064,34 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:51:22.427-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
+    },
+    {
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "published_at": "2026-08-03T18:54:09.000Z",
+      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+      "tags": [
+        "Security",
+        "Advanced Data Protection",
+        "Apple",
+        "apple icloud backdoor",
+        "backdoor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
@@ -3229,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 813,
       "user": "xikhar"
     },
     {
@@ -3244,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -3259,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -3274,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 509,
       "user": "x4gKing"
     },
     {
@@ -3289,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "Noniv"
     },
     {
@@ -3304,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "lij768423-svg"
     },
     {
@@ -3334,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 292,
       "user": "H-EmbodVis"
     },
     {
@@ -3349,23 +3430,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 254,
       "user": "1mm-module"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "published_at": "2026-07-28T22:59:24Z",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 248,
-      "user": "Anionex"
+      "stars": 249,
+      "user": "aws"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3394,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "grafana"
     },
     {
@@ -3454,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9076,
+      "stars": 9239,
       "user": "yc-software"
     },
     {
@@ -3469,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4175,
+      "stars": 4193,
       "user": "bashalarmistalt"
     },
     {
@@ -3484,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2792,
+      "stars": 2948,
       "user": "trycompai"
     },
     {
@@ -3499,23 +3580,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1334,
       "user": "microsoft"
     },
     {
-      "title": "talivia-group/talivia - Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "url": "https://github.com/talivia-group/talivia",
-      "published_at": "2026-07-29T07:56:49Z",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "published_at": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 678,
-      "user": "talivia-group"
+      "stars": 692,
+      "user": "thebuggeddev"
     },
     {
       "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
@@ -3529,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "gavamedia"
     },
     {
@@ -3544,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "l00sed"
     },
     {
@@ -3574,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "ArchAstro"
     },
     {
