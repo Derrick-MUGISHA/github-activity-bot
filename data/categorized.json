@@ -151,21 +151,6 @@
       "user": "Roberto B."
     },
     {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
-      "published_at": "2026-07-28T16:18:27Z",
-      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "tags": [
-        "bugsmash",
-        "devchallenge",
-        "debugging",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "published_at": "2026-07-30T20:43:23Z",
@@ -179,6 +164,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
       "source": "Dev.to",
       "user": "Giulio D'Erme"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
+      "published_at": "2026-07-28T16:18:27Z",
+      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "tags": [
+        "bugsmash",
+        "devchallenge",
+        "debugging",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -267,21 +267,6 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -735,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "0xwilliamortiz"
     },
     {
@@ -750,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "0xwilliamortiz"
     },
     {
@@ -765,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 473,
       "user": "Noniv"
     },
     {
@@ -780,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 297,
       "user": "Audio8-AI"
     },
     {
@@ -795,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 241,
       "user": "Anionex"
     },
     {
@@ -810,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "grafana"
     },
     {
@@ -825,8 +810,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 151,
       "user": "opentokenz"
+    },
+    {
+      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
+      "url": "https://github.com/magicrew/doc7",
+      "published_at": "2026-08-02T14:03:55Z",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
+      "source": "GitHub",
+      "stars": 111,
+      "user": "magicrew"
     },
     {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2229,
+      "stars": 2578,
       "user": "trycompai"
     },
     {
@@ -855,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 649,
       "user": "gavamedia"
     },
     {
@@ -870,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "arcships"
     },
     {
@@ -885,24 +885,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "hamzarehmandeveloper"
-    },
-    {
-      "title": "Using waxjs to get information about NFTs in Wax Cloud Wallet - possible?",
-      "url": "https://stackoverflow.com/questions/72505817/using-waxjs-to-get-information-about-nfts-in-wax-cloud-wallet-possible",
-      "published_at": "2022-06-05T08:23:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "blockchain",
-        "atomicassets"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "macke89"
     },
     {
       "title": "Failed to create virtual environment in VS Code",
@@ -922,7 +906,7 @@
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "pytorch",
@@ -945,6 +929,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Echeban"
+    },
+    {
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "published_at": "2026-08-03T12:50:46.000Z",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "tags": [
+        "Security",
+        "Startups",
+        "ai security",
+        "Horizon3",
+        "Horizon3.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
@@ -1045,20 +1045,6 @@
         "Government & Policy",
         "SpaceX",
         "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "published_at": "2026-08-01T19:45:45.000Z",
-      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "hank green"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1348,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 808,
       "user": "xikhar"
     },
     {
@@ -1363,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "0xwilliamortiz"
     },
     {
@@ -1378,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "0xwilliamortiz"
     },
     {
@@ -1393,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 473,
       "user": "Noniv"
     },
     {
@@ -1408,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 457,
       "user": "x4gKing"
     },
     {
@@ -1423,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "grafana"
     },
     {
@@ -1438,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 8402,
+      "stars": 8765,
       "user": "yc-software"
     },
     {
@@ -1453,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4068,
+      "stars": 4135,
       "user": "bashalarmistalt"
     },
     {
@@ -1468,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2229,
+      "stars": 2578,
       "user": "trycompai"
     },
     {
@@ -1483,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1279,
       "user": "microsoft"
     },
     {
@@ -1498,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 677,
       "user": "talivia-group"
     },
     {
@@ -1512,6 +1498,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "gkoos"
+    },
+    {
+      "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
+      "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
+      "published_at": "2026-08-03T13:09:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Orc2000"
     },
     {
       "title": "How can I locate an element in a nested div without selecting the outer div?",
@@ -1531,7 +1530,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "html"
@@ -1539,6 +1538,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
+    },
+    {
+      "title": "CSS Alignment Fix",
+      "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
+      "published_at": "2026-08-02T07:16:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luka PUSKARICA"
     },
     {
       "title": "How to test Vue ripple directive has been used?",
@@ -1555,20 +1568,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chiara Ani"
-    },
-    {
-      "title": "CSS Alignment Fix",
-      "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
-      "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luka PUSKARICA"
     },
     {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
@@ -1600,6 +1599,20 @@
       "user": "Jourkey"
     },
     {
+      "title": "Google Pay Error: API Unable to download payment manifest",
+      "url": "https://stackoverflow.com/questions/74995699/google-pay-error-api-unable-to-download-payment-manifest",
+      "published_at": "2023-01-03T15:59:19.000Z",
+      "description": "Stack Overflow question · 3 answers · score 8",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "google-pay"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyingFinn91"
+    },
+    {
       "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
       "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
       "published_at": "2015-02-18T05:31:27.000Z",
@@ -1625,36 +1638,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "chews"
-    },
-    {
-      "title": "Using waxjs to get information about NFTs in Wax Cloud Wallet - possible?",
-      "url": "https://stackoverflow.com/questions/72505817/using-waxjs-to-get-information-about-nfts-in-wax-cloud-wallet-possible",
-      "published_at": "2022-06-05T08:23:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "blockchain",
-        "atomicassets"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "macke89"
-    },
-    {
-      "title": "How to convert from String to the other data type where the data type is stored in a variable - JAVASCRIPT",
-      "url": "https://stackoverflow.com/questions/73016990/how-to-convert-from-string-to-the-other-data-type-where-the-data-type-is-stored",
-      "published_at": "2022-07-18T03:21:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "types",
-        "type-conversion"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rahul Allada"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1865,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 395,
       "user": "lij768423-svg"
     },
     {
@@ -1880,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 297,
       "user": "Audio8-AI"
     },
     {
@@ -1895,23 +1878,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "H-EmbodVis"
-    },
-    {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "Anionex"
     },
     {
       "title": "1mm-module/PNGAL - GitHub Repository",
@@ -1925,14 +1893,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 244,
       "user": "1mm-module"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "Anionex"
+    },
+    {
+      "title": "Printing the index without errors",
+      "url": "https://stackoverflow.com/questions/79990134/printing-the-index-without-errors",
+      "published_at": "2026-08-03T14:44:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Khalid"
     },
     {
       "title": "ImportError: cannot import name 'BuildDependencyInstallError' while compiling Python Kivy 2.1.0 with Buildozer 1.4.0",
       "url": "https://stackoverflow.com/questions/79989978/importerror-cannot-import-name-builddependencyinstallerror-while-compiling-py",
       "published_at": "2026-08-03T00:09:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "pip",
@@ -1959,19 +1954,6 @@
       "user": "beebee"
     },
     {
-      "title": "Positioning plot legend",
-      "url": "https://stackoverflow.com/questions/79989961/positioning-plot-legend",
-      "published_at": "2026-08-02T21:10:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Larry k"
-    },
-    {
       "title": "Failed to create virtual environment in VS Code",
       "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
       "published_at": "2026-08-02T17:58:22.000Z",
@@ -1984,6 +1966,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
+    },
+    {
+      "title": "Positioning plot legend",
+      "url": "https://stackoverflow.com/questions/79989961/positioning-plot-legend",
+      "published_at": "2026-08-02T21:10:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Larry k"
     },
     {
       "title": "KeyError with Performing K-Fold Cross-Validation",
@@ -2003,7 +1998,7 @@
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "pytorch",
@@ -2054,18 +2049,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user1"
-    },
-    {
-      "title": "Why do my nested loops only execute once in Python? (LeetCode Longest Palindromic Substring)",
-      "url": "https://stackoverflow.com/questions/79989814/why-do-my-nested-loops-only-execute-once-in-python-leetcode-longest-palindromi",
-      "published_at": "2026-08-02T04:05:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "James"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2284,21 +2267,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2322,14 +2290,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "grafana"
     },
     {
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "html"
@@ -2342,7 +2310,7 @@
       "title": "CSS Alignment Fix",
       "url": "https://stackoverflow.com/questions/79989830/css-alignment-fix",
       "published_at": "2026-08-02T07:16:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2430,36 +2398,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
       "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
       "published_at": "2026-07-28T16:14:00Z",
@@ -2488,6 +2426,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Rust Project Goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "published_at": "2026-08-03T06:13:13.293-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "noncrab"
     }
   ],
   "Cloud": [
@@ -2715,22 +2665,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Using waxjs to get information about NFTs in Wax Cloud Wallet - possible?",
-      "url": "https://stackoverflow.com/questions/72505817/using-waxjs-to-get-information-about-nfts-in-wax-cloud-wallet-possible",
-      "published_at": "2022-06-05T08:23:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "blockchain",
-        "atomicassets"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "macke89"
     },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -3001,6 +2935,38 @@
       "user": "ewenjo"
     },
     {
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "published_at": "2026-08-03T12:50:46.000Z",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "tags": [
+        "Security",
+        "Startups",
+        "ai security",
+        "Horizon3",
+        "Horizon3.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "Samsung bans smart TV apps that share users&#8217; internet connections with strangers",
+      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+      "published_at": "2026-08-03T12:10:41.000Z",
+      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+      "tags": [
+        "Security",
+        "cyberattacks",
+        "cybersecurity",
+        "Exclusive",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3031,21 +2997,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -3200,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 808,
       "user": "xikhar"
     },
     {
@@ -3215,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "0xwilliamortiz"
     },
     {
@@ -3230,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 545,
       "user": "0xwilliamortiz"
     },
     {
@@ -3245,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 473,
       "user": "Noniv"
     },
     {
@@ -3260,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 457,
       "user": "x4gKing"
     },
     {
@@ -3275,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 395,
       "user": "lij768423-svg"
     },
     {
@@ -3290,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 297,
       "user": "Audio8-AI"
     },
     {
@@ -3305,23 +3256,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 285,
       "user": "H-EmbodVis"
-    },
-    {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "Anionex"
     },
     {
       "title": "1mm-module/PNGAL - GitHub Repository",
@@ -3335,8 +3271,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 244,
       "user": "1mm-module"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "Anionex"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3365,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 199,
       "user": "grafana"
     },
     {
@@ -3380,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 195,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3395,23 +3346,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 151,
       "user": "opentokenz"
     },
     {
-      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
-      "published_at": "2026-08-01T02:36:14Z",
-      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
+      "url": "https://github.com/magicrew/doc7",
+      "published_at": "2026-08-02T14:03:55Z",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 103,
-      "user": "lij768423-svg"
+      "stars": 111,
+      "user": "magicrew"
     },
     {
       "title": "yc-software/qm - Multiplayer agent harness for work",
@@ -3425,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 8402,
+      "stars": 8765,
       "user": "yc-software"
     },
     {
@@ -3440,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4068,
+      "stars": 4135,
       "user": "bashalarmistalt"
     },
     {
@@ -3455,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2229,
+      "stars": 2578,
       "user": "trycompai"
     },
     {
@@ -3470,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1213,
+      "stars": 1279,
       "user": "microsoft"
     },
     {
@@ -3485,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 677,
       "user": "talivia-group"
     },
     {
@@ -3500,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 649,
       "user": "gavamedia"
     },
     {
@@ -3515,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 167,
       "user": "l00sed"
     },
     {
@@ -3530,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "arcships"
     },
     {
@@ -3560,8 +3511,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "hamzarehmandeveloper"
+    },
+    {
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "published_at": "2026-08-03T12:50:46.000Z",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "tags": [
+        "Security",
+        "Startups",
+        "ai security",
+        "Horizon3",
+        "Horizon3.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
