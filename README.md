@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-03 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-04 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
 | 20 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
 
-<sub>Last fetched: Mon, 03 Aug 2026 23:51:43 CAT</sub>
+<sub>Last fetched: Tue, 04 Aug 2026 00:48:13 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**2. `Python` — What is the difference between list and tuple in Python?**
+**2. `JavaScript` — Implement a debounce function from scratch**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
-**3. `DataStructures` — Implement LRU Cache**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -164,10 +164,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 83 | 45.1% | `████████████████████` |
-| **JavaScript** | 39 | 21.2% | `█████████░░░░░░░░░░░` |
+| **AI** | 82 | 44.6% | `████████████████████` |
+| **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Tools** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
-| **Python** | 31 | 16.8% | `███████░░░░░░░░░░░░░` |
+| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 23 | 12.5% | `██████░░░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 03 Aug 2026 21:51:43 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 03 Aug 2026 22:48:13 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
