@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "DevRelCon, Adult Summer Camp, and My First Time Speaking",
-      "url": "https://dev.to/daniellewashington/devrelcon-adult-summer-camp-and-my-first-time-speaking-4p2d",
-      "published_at": "2026-07-28T15:12:02Z",
-      "description": "There’s something about DevRelCon that feels a little like adult summer camp.  It’s immersive,...",
-      "tags": [
-        "ai",
-        "devrel",
-        "devrelcon",
-        "documentation"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzncwaz7wp3o7q99kx7f.png",
-      "source": "Dev.to",
-      "user": "DanielleWashington"
-    },
-    {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
       "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
       "published_at": "2026-07-31T13:17:16Z",
@@ -59,18 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "What is current your \"daily driver\" coding model? (July 2026)",
-      "url": "https://dev.to/peter/what-is-current-your-daily-driver-coding-model-july-2026-24cl",
-      "published_at": "2026-07-29T14:29:13Z",
-      "description": "Fable 5 at Max effort?  OpenAI's gpt-5.6?  The latest Gemini models?  Perhaps Kimi K3 or other...",
-      "tags": [
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9826zicsqfkp1pftld8e.png",
-      "source": "Dev.to",
-      "user": "Peter Kim Frank"
     },
     {
       "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
@@ -118,19 +91,19 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Build and Deploy Java AI Agents with Google ADK",
-      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
-      "published_at": "2026-07-27T19:24:51Z",
-      "description": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
       "tags": [
-        "java",
         "ai",
-        "googlecloud",
-        "debian"
+        "agents",
+        "mcp",
+        "agentskills"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -146,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
@@ -777,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "0xwilliamortiz"
     },
     {
@@ -792,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "Noniv"
     },
     {
@@ -807,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 277,
       "user": "Audio8-AI"
     },
     {
@@ -822,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 214,
       "user": "Anionex"
     },
     {
@@ -837,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62146150?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 203,
       "user": "uczltw6"
     },
     {
@@ -852,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "grafana"
     },
     {
@@ -867,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "opentokenz"
     },
     {
@@ -882,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1940,
       "user": "trycompai"
     },
     {
@@ -897,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 628,
       "user": "gavamedia"
     },
     {
@@ -912,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 146,
       "user": "arcships"
     },
     {
@@ -959,20 +917,6 @@
       "user": "macke89"
     },
     {
-      "title": "Failed to create virtual environment in VS Code",
-      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
-      "published_at": "2026-08-02T17:58:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "virtual-environment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
@@ -986,6 +930,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "C. Ding"
+    },
+    {
+      "title": "Failed to create virtual environment in VS Code",
+      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
+      "published_at": "2026-08-02T17:58:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "virtual-environment"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luna"
     },
     {
       "title": "Abaqus CAE Python scripting, what documentation is available",
@@ -1402,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "xikhar"
     },
     {
@@ -1432,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "0xwilliamortiz"
     },
     {
@@ -1447,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "Noniv"
     },
     {
@@ -1477,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "grafana"
     },
     {
@@ -1492,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7263,
+      "stars": 7658,
       "user": "yc-software"
     },
     {
@@ -1507,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3691,
+      "stars": 3785,
       "user": "bashalarmistalt"
     },
     {
@@ -1522,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1940,
       "user": "trycompai"
     },
     {
@@ -1537,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 928,
       "user": "microsoft"
     },
     {
@@ -1552,8 +1510,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 655,
       "user": "talivia-group"
+    },
+    {
+      "title": "Your JSON Is Lying to You",
+      "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+      "published_at": "2026-08-02T20:40:30.878-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gkoos"
     },
     {
       "title": "How can I locate an element in a nested div without selecting the outer div?",
@@ -1907,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 380,
       "user": "lij768423-svg"
     },
     {
@@ -1922,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 277,
       "user": "Audio8-AI"
     },
     {
@@ -1937,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 253,
       "user": "H-EmbodVis"
     },
     {
@@ -1952,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 214,
       "user": "Anionex"
     },
     {
@@ -1967,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62146150?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 203,
       "user": "uczltw6"
     },
     {
@@ -1987,10 +1957,24 @@
       "user": "Triangle Brannsverberder"
     },
     {
+      "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
+      "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
+      "published_at": "2026-08-02T17:04:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "docx",
+        "python-docx"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "beebee"
+    },
+    {
       "title": "Positioning plot legend",
       "url": "https://stackoverflow.com/questions/79989961/positioning-plot-legend",
       "published_at": "2026-08-02T21:10:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "matplotlib"
@@ -1998,20 +1982,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Larry k"
-    },
-    {
-      "title": "Failed to create virtual environment in VS Code",
-      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
-      "published_at": "2026-08-02T17:58:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "virtual-environment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
     },
     {
       "title": "Llama model generation always skips 1 token during inference",
@@ -2029,18 +1999,18 @@
       "user": "C. Ding"
     },
     {
-      "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
-      "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
-      "published_at": "2026-08-02T17:04:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "Failed to create virtual environment in VS Code",
+      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
+      "published_at": "2026-08-02T17:58:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "docx",
-        "python-docx"
+        "visual-studio-code",
+        "virtual-environment"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "beebee"
+      "user": "Luna"
     },
     {
       "title": "KeyError with Performing K-Fold Cross-Validation",
@@ -2364,7 +2334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "grafana"
     },
     {
@@ -2562,21 +2532,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
       "source": "Dev.to",
       "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Build and Deploy Java AI Agents with Google ADK",
-      "url": "https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi",
-      "published_at": "2026-07-27T19:24:51Z",
-      "description": "Set up Java and Google ADK on Debian 13, run an agent locally, test it with JUnit, and deploy it to Cloud Run.",
-      "tags": [
-        "java",
-        "ai",
-        "googlecloud",
-        "debian"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-java%2Fmain%2Fcover-image-debian.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -3242,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 796,
       "user": "xikhar"
     },
     {
@@ -3272,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 542,
       "user": "0xwilliamortiz"
     },
     {
@@ -3287,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 460,
       "user": "Noniv"
     },
     {
@@ -3317,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 380,
       "user": "lij768423-svg"
     },
     {
@@ -3332,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 277,
       "user": "Audio8-AI"
     },
     {
@@ -3347,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 253,
       "user": "H-EmbodVis"
     },
     {
@@ -3362,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 214,
       "user": "Anionex"
     },
     {
@@ -3377,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62146150?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 203,
       "user": "uczltw6"
     },
     {
@@ -3392,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "codermyxiaoc"
     },
     {
@@ -3407,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 195,
       "user": "grafana"
     },
     {
@@ -3422,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 185,
+      "stars": 189,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3437,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "opentokenz"
     },
     {
@@ -3452,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 93,
       "user": "lij768423-svg"
     },
     {
@@ -3467,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7263,
+      "stars": 7658,
       "user": "yc-software"
     },
     {
@@ -3482,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3691,
+      "stars": 3785,
       "user": "bashalarmistalt"
     },
     {
@@ -3497,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1940,
       "user": "trycompai"
     },
     {
@@ -3512,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 928,
       "user": "microsoft"
     },
     {
@@ -3527,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 655,
       "user": "talivia-group"
     },
     {
@@ -3542,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 628,
       "user": "gavamedia"
     },
     {
@@ -3572,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 146,
       "user": "arcships"
     },
     {
