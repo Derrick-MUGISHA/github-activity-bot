@@ -27,7 +27,7 @@
     "Java": 30,
     "Python": 31,
     "Ruby": 1,
-    "Rust": 6
+    "Rust": 7
   },
   "by_date": {
     "2026-07-29": 14,
@@ -113,7 +113,7 @@
     "javascript": 20,
     "python": 19,
     "ai": 18,
-    "AI": 16,
+    "AI": 17,
     "discuss": 12,
     "Security": 12,
     "Python": 11,
@@ -131,11 +131,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "28.7",
-    "JavaScript": "26.0",
-    "Java": "20.0",
-    "Python": "20.7",
+    "Go": "28.5",
+    "JavaScript": "25.8",
+    "Java": "19.9",
+    "Python": "20.5",
     "Ruby": "0.7",
-    "Rust": "4.0"
+    "Rust": "4.6"
   }
 }
