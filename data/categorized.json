@@ -91,6 +91,21 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
+      "title": "Google ADK: Architecture and Essential Components",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
+      "published_at": "2026-08-02T12:04:38Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
+    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -119,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
@@ -271,34 +301,49 @@
       "user": "xbill"
     },
     {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
+      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0",
+      "published_at": "2026-07-31T17:43:12Z",
+      "description": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — the numbers, the recurring failures, and what is still unmeasured.",
       "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
+        "aiagents",
+        "a2a",
+        "aws",
+        "azure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcross-cloud-a2a-rollup%2Fmain%2Fdevto-cover-rollup.png",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "xbill"
     },
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
+      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
+      "published_at": "2026-07-31T17:44:54Z",
+      "description": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
       "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
-      "user": "Nazar Boyko"
+      "user": "xbill"
+    },
+    {
+      "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
+      "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
+      "published_at": "2026-07-31T17:44:17Z",
+      "description": "A measured cross-cloud smoke test: Microsoft Foundry orchestrates MCP and calls an Amazon Bedrock AgentCore specialist over authenticated A2A.",
+      "tags": [
+        "azure",
+        "aws",
+        "aiagents",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
@@ -735,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 550,
       "user": "0xwilliamortiz"
     },
     {
@@ -750,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "Noniv"
     },
     {
@@ -765,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 304,
       "user": "Audio8-AI"
     },
     {
@@ -780,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 248,
       "user": "Anionex"
     },
     {
@@ -810,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 163,
       "user": "opentokenz"
     },
     {
@@ -825,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "magicrew"
     },
     {
@@ -840,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2578,
+      "stars": 2792,
       "user": "trycompai"
     },
     {
@@ -855,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "gavamedia"
     },
     {
@@ -870,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "arcships"
     },
     {
@@ -885,7 +930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "hamzarehmandeveloper"
     },
     {
@@ -931,10 +976,56 @@
       "user": "Echeban"
     },
     {
+      "title": "Sequoia&#8217;s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "published_at": "2026-08-03T17:16:43.000Z",
+      "description": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Sequoia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "published_at": "2026-08-03T16:46:57.000Z",
+      "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "tags": [
+        "Climate",
+        "Base Power",
+        "energy storage"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Congress&#8217;s favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "published_at": "2026-08-03T16:40:55.000Z",
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "ChatGPT",
+        "Congress",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
       "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
       "published_at": "2026-08-03T12:50:46.000Z",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
       "tags": [
         "Security",
         "Startups",
@@ -952,8 +1043,8 @@
       "published_at": "2026-08-03T10:00:00.000Z",
       "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
       "tags": [
-        "Venture",
         "AI",
+        "Venture",
         "Exclusive"
       ],
       "cover_image": null,
@@ -968,6 +1059,8 @@
       "tags": [
         "Hardware",
         "Apple",
+        "global chip shortage",
+        "In Brief",
         "macbook air"
       ],
       "cover_image": null,
@@ -978,73 +1071,13 @@
       "title": "Sam Altman and AI’s decel debate",
       "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "published_at": "2026-08-02T20:54:22.000Z",
-      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
       "tags": [
         "AI",
+        "Equity podcast",
         "Hugging Face",
         "OpenAI",
         "sam altman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "published_at": "2026-08-02T16:05:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Tesla",
-        "Uber",
-        "Waymo",
-        "wayve"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "published_at": "2026-08-02T15:23:19.000Z",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "tags": [
-        "Apps",
-        "TC",
-        "app store",
-        "Apple",
-        "Google Play"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Inside the London hacker house taking a stand against founder burnout",
-      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "published_at": "2026-08-01T21:14:48.000Z",
-      "description": "How one founder house is betting work-life balance can beat burnout .",
-      "tags": [
-        "Venture",
-        "London",
-        "UK"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "published_at": "2026-08-01T20:26:04.000Z",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "SpaceX",
-        "xAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1334,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 812,
       "user": "xikhar"
     },
     {
@@ -1364,23 +1397,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 550,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
-      "source": "GitHub",
-      "stars": 473,
-      "user": "Noniv"
     },
     {
       "title": "x4gKing/3x-ui-multi - GitHub Repository",
@@ -1394,8 +1412,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 478,
       "user": "x4gKing"
+    },
+    {
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "source": "GitHub",
+      "stars": 475,
+      "user": "Noniv"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1424,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 8765,
+      "stars": 9076,
       "user": "yc-software"
     },
     {
@@ -1439,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4135,
+      "stars": 4175,
       "user": "bashalarmistalt"
     },
     {
@@ -1454,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2578,
+      "stars": 2792,
       "user": "trycompai"
     },
     {
@@ -1469,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1313,
       "user": "microsoft"
     },
     {
@@ -1484,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "talivia-group"
     },
     {
@@ -1503,7 +1536,7 @@
       "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
       "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
       "published_at": "2026-08-03T13:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "json"
@@ -1516,7 +1549,7 @@
       "title": "How can I locate an element in a nested div without selecting the outer div?",
       "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
       "published_at": "2026-08-02T21:00:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "ui-automation",
@@ -1557,7 +1590,7 @@
       "title": "How to test Vue ripple directive has been used?",
       "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
       "published_at": "2026-07-31T20:17:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "vue.js",
@@ -1848,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "lij768423-svg"
     },
     {
@@ -1863,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 304,
       "user": "Audio8-AI"
     },
     {
@@ -1878,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "H-EmbodVis"
     },
     {
@@ -1893,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 252,
       "user": "1mm-module"
     },
     {
@@ -1908,14 +1941,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 248,
       "user": "Anionex"
+    },
+    {
+      "title": "How to show a pygame window with a tkinter window?",
+      "url": "https://stackoverflow.com/questions/79990157/how-to-show-a-pygame-window-with-a-tkinter-window",
+      "published_at": "2026-08-03T16:25:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "tkinter",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noreht"
     },
     {
       "title": "Printing the index without errors",
       "url": "https://stackoverflow.com/questions/79990134/printing-the-index-without-errors",
       "published_at": "2026-08-03T14:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2037,20 +2084,6 @@
       "user": "jayesh patil"
     },
     {
-      "title": "null value return for selected columns of a DataFrame",
-      "url": "https://stackoverflow.com/questions/79989760/null-value-return-for-selected-columns-of-a-dataframe",
-      "published_at": "2026-08-01T19:38:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user1"
-    },
-    {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
       "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
       "published_at": "2026-07-29T13:27:40.000Z",
@@ -2084,6 +2117,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
@@ -2472,6 +2520,21 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
+      "title": "Google ADK: Architecture and Essential Components",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
+      "published_at": "2026-08-02T12:04:38Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
+    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -2532,6 +2595,51 @@
       "user": "xbill"
     },
     {
+      "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
+      "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0",
+      "published_at": "2026-07-31T17:43:12Z",
+      "description": "Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — the numbers, the recurring failures, and what is still unmeasured.",
+      "tags": [
+        "aiagents",
+        "a2a",
+        "aws",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcross-cloud-a2a-rollup%2Fmain%2Fdevto-cover-rollup.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
+      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
+      "published_at": "2026-07-31T17:44:54Z",
+      "description": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Google ADK as the Master Agent, Calling Amazon Bedrock over A2A",
+      "url": "https://dev.to/gde/google-adk-as-the-master-agent-calling-amazon-bedrock-over-a2a-4ahc",
+      "published_at": "2026-07-31T17:42:40Z",
+      "description": "This is the third run of the same cross-cloud currency benchmark, and the first with the arrow...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-bedrock-a2a-currency%2Fmain%2Fdevto-cover-adk-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -2547,6 +2655,21 @@
       "user": "xbill"
     },
     {
+      "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
+      "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
+      "published_at": "2026-07-31T17:44:17Z",
+      "description": "A measured cross-cloud smoke test: Microsoft Foundry orchestrates MCP and calls an Amazon Bedrock AgentCore specialist over authenticated A2A.",
+      "tags": [
+        "azure",
+        "aws",
+        "aiagents",
+        "a2a"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2558,21 +2681,6 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2667,21 +2775,6 @@
       "user": "xbill"
     },
     {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "published_at": "2026-08-01T20:26:04.000Z",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "SpaceX",
-        "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2741,21 +2834,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
-    },
-    {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
@@ -2938,7 +3016,7 @@
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
       "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
       "published_at": "2026-08-03T12:50:46.000Z",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
       "tags": [
         "Security",
         "Startups",
@@ -2999,19 +3077,19 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
       "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3151,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 812,
       "user": "xikhar"
     },
     {
@@ -3181,23 +3259,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 550,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
-      "source": "GitHub",
-      "stars": 473,
-      "user": "Noniv"
     },
     {
       "title": "x4gKing/3x-ui-multi - GitHub Repository",
@@ -3211,8 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 478,
       "user": "x4gKing"
+    },
+    {
+      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "url": "https://github.com/Noniv/snowflow_demo",
+      "published_at": "2026-07-28T19:01:58Z",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "source": "GitHub",
+      "stars": 475,
+      "user": "Noniv"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3226,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "lij768423-svg"
     },
     {
@@ -3241,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 304,
       "user": "Audio8-AI"
     },
     {
@@ -3256,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 291,
       "user": "H-EmbodVis"
     },
     {
@@ -3271,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 252,
       "user": "1mm-module"
     },
     {
@@ -3286,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 248,
       "user": "Anionex"
     },
     {
@@ -3346,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 163,
       "user": "opentokenz"
     },
     {
@@ -3361,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "magicrew"
     },
     {
@@ -3376,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 8765,
+      "stars": 9076,
       "user": "yc-software"
     },
     {
@@ -3391,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4135,
+      "stars": 4175,
       "user": "bashalarmistalt"
     },
     {
@@ -3406,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2578,
+      "stars": 2792,
       "user": "trycompai"
     },
     {
@@ -3421,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1313,
       "user": "microsoft"
     },
     {
@@ -3436,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "talivia-group"
     },
     {
@@ -3451,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "gavamedia"
     },
     {
@@ -3466,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "l00sed"
     },
     {
@@ -3481,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 152,
       "user": "arcships"
     },
     {
@@ -3511,14 +3589,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "hamzarehmandeveloper"
+    },
+    {
+      "title": "Congress&#8217;s favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "published_at": "2026-08-03T16:40:55.000Z",
+      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "ChatGPT",
+        "Congress",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
       "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
       "published_at": "2026-08-03T12:50:46.000Z",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
       "tags": [
         "Security",
         "Startups",
@@ -3529,22 +3623,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "published_at": "2026-08-02T15:23:19.000Z",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
-      "tags": [
-        "Apps",
-        "TC",
-        "app store",
-        "Apple",
-        "Google Play"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
