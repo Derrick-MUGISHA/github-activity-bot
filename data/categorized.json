@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 479,
       "user": "Noniv"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "Audio8-AI"
     },
     {
@@ -825,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "aws"
     },
     {
@@ -885,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 3048,
+      "stars": 3112,
       "user": "trycompai"
     },
     {
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 718,
       "user": "thebuggeddev"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 656,
       "user": "gavamedia"
     },
     {
@@ -934,19 +934,16 @@
       "user": "arcships"
     },
     {
-      "title": "hamzarehmandeveloper/claude-account - Switch between isolated Claude Code accounts on Linux without logging in again.",
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
-      "published_at": "2026-07-30T11:49:22Z",
-      "description": "Switch between isolated Claude Code accounts on Linux without logging in again.",
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:51:22.427-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "security"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
-      "source": "GitHub",
-      "stars": 65,
-      "user": "hamzarehmandeveloper"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
     },
     {
       "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
@@ -1039,12 +1036,13 @@
       "user": "Lorenzo Franceschi-Bicchierai, Zack Whittaker"
     },
     {
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
       "published_at": "2026-08-03T19:28:57.000Z",
-      "description": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
       "tags": [
-        "AI"
+        "AI",
+        "Startups"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1069,11 +1067,10 @@
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "published_at": "2026-08-03T18:43:43.000Z",
-      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it ",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
       "tags": [
         "AI",
         "Apps",
-        "TC",
         "Apple",
         "siri"
       ],
@@ -1111,6 +1108,20 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
+    },
+    {
+      "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
+      "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
+      "published_at": "2026-08-03T18:15:54.000Z",
+      "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
+      "tags": [
+        "deployment",
+        "Kubernetes",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1187,20 +1198,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Obum"
-    },
-    {
-      "title": "Prompt vs Loop Engineering: A Guide for Developers",
-      "url": "https://www.freecodecamp.org/news/prompt-vs-loop-engineering-a-guide-for-developers/",
-      "published_at": "2026-07-28T16:36:56.000Z",
-      "description": "For many developers, the AI workflow looks something like this: write a prompt, get a response, copy what's useful, and move on. This covers a surprising range of tasks, from summarizing a document to",
-      "tags": [
-        "AI",
-        "#PromptEngineering",
-        "ai-agent"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oyedele Tioluwani"
     }
   ],
   "JavaScript": [
@@ -1456,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 541,
       "user": "x4gKing"
     },
     {
@@ -1471,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 479,
       "user": "Noniv"
     },
     {
@@ -1501,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9372,
+      "stars": 9449,
       "user": "yc-software"
     },
     {
@@ -1516,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4216,
+      "stars": 4231,
       "user": "bashalarmistalt"
     },
     {
@@ -1531,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 3048,
+      "stars": 3112,
       "user": "trycompai"
     },
     {
@@ -1546,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1365,
       "user": "microsoft"
     },
     {
@@ -1561,8 +1558,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 718,
       "user": "thebuggeddev"
+    },
+    {
+      "title": "Your JSON Is Lying to You",
+      "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+      "published_at": "2026-08-02T20:40:30.878-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gkoos"
     },
     {
       "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
@@ -1703,6 +1712,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "chews"
+    },
+    {
+      "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
+      "published_at": "2026-08-03T18:39:33.000Z",
+      "description": "Most SaaS landing pages share the same core sections: a hero, social proof, features, pricing, FAQ, and a footer. And most developers end up building these from scratch on every project. That's repeti",
+      "tags": [
+        "Next.js",
+        "Open Source",
+        "shadcn",
+        "shadcnui",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ash"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1928,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "Audio8-AI"
     },
     {
@@ -1943,8 +1968,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "H-EmbodVis"
+    },
+    {
+      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "published_at": "2026-07-28T22:59:24Z",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "aws"
     },
     {
       "title": "1mm-module/PNGAL - GitHub Repository",
@@ -1962,19 +2002,17 @@
       "user": "1mm-module"
     },
     {
-      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "url": "https://github.com/aws/context-ontology-accelerator",
-      "published_at": "2026-07-28T22:59:24Z",
-      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "title": "Random colors in Pygame",
+      "url": "https://stackoverflow.com/questions/79990201/random-colors-in-pygame",
+      "published_at": "2026-08-03T21:15:52.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "pygame"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "aws"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noreht"
     },
     {
       "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
@@ -2005,18 +2043,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "noreht"
-    },
-    {
-      "title": "Printing the index without errors",
-      "url": "https://stackoverflow.com/questions/79990134/printing-the-index-without-errors",
-      "published_at": "2026-08-03T14:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Khalid"
     },
     {
       "title": "ImportError: cannot import name 'BuildDependencyInstallError' while compiling Python Kivy 2.1.0 with Buildozer 1.4.0",
@@ -2317,6 +2343,20 @@
       "user": "jknupp"
     },
     {
+      "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
+      "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
+      "published_at": "2026-08-03T18:15:54.000Z",
+      "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
+      "tags": [
+        "deployment",
+        "Kubernetes",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2448,6 +2488,36 @@
       "user": "ItzMe_Ezhil"
     },
     {
+      "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
+      "url": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
+      "published_at": "2026-08-03T18:39:33.000Z",
+      "description": "Most SaaS landing pages share the same core sections: a hero, social proof, features, pricing, FAQ, and a footer. And most developers end up building these from scratch on every project. That's repeti",
+      "tags": [
+        "Next.js",
+        "Open Source",
+        "shadcn",
+        "shadcnui",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ash"
+    },
+    {
+      "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
+      "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
+      "published_at": "2026-08-03T18:15:54.000Z",
+      "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
+      "tags": [
+        "deployment",
+        "Kubernetes",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
       "title": "How to Create a Marketing Landing Page Using shadcn/ui",
       "url": "https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/",
       "published_at": "2026-07-31T11:01:41.000Z",
@@ -2523,6 +2593,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Rust Project Goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "published_at": "2026-08-03T06:13:13.293-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "noncrab"
     }
   ],
   "Cloud": [
@@ -2823,7 +2905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 258,
       "user": "aws"
     },
     {
@@ -2886,6 +2968,31 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:51:22.427-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
+    },
+    {
+      "title": "Reliability Lessons From SQLite",
+      "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+      "published_at": "2026-08-03T11:27:45.504-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "dgv"
     },
     {
       "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
@@ -3111,6 +3218,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published_at": "2026-08-03T11:51:22.427-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
     },
     {
       "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
@@ -3359,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 541,
       "user": "x4gKing"
     },
     {
@@ -3374,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 478,
+      "stars": 479,
       "user": "Noniv"
     },
     {
@@ -3404,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "Audio8-AI"
     },
     {
@@ -3419,8 +3538,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "H-EmbodVis"
+    },
+    {
+      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "published_at": "2026-07-28T22:59:24Z",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
+      "source": "GitHub",
+      "stars": 258,
+      "user": "aws"
     },
     {
       "title": "1mm-module/PNGAL - GitHub Repository",
@@ -3436,21 +3570,6 @@
       "source": "GitHub",
       "stars": 256,
       "user": "1mm-module"
-    },
-    {
-      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "url": "https://github.com/aws/context-ontology-accelerator",
-      "published_at": "2026-07-28T22:59:24Z",
-      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "aws"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3539,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9372,
+      "stars": 9449,
       "user": "yc-software"
     },
     {
@@ -3554,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4216,
+      "stars": 4231,
       "user": "bashalarmistalt"
     },
     {
@@ -3569,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 3048,
+      "stars": 3112,
       "user": "trycompai"
     },
     {
@@ -3584,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1365,
       "user": "microsoft"
     },
     {
@@ -3599,7 +3718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 718,
       "user": "thebuggeddev"
     },
     {
@@ -3614,7 +3733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 656,
       "user": "gavamedia"
     },
     {
@@ -3659,23 +3778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "ArchAstro"
     },
     {
-      "title": "hamzarehmandeveloper/claude-account - Switch between isolated Claude Code accounts on Linux without logging in again.",
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
-      "published_at": "2026-07-30T11:49:22Z",
-      "description": "Switch between isolated Claude Code accounts on Linux without logging in again.",
+      "title": "programmersd21/wallr - 🎨 GPU-accelerated animated wallpaper engine for Wayland",
+      "url": "https://github.com/programmersd21/wallr",
+      "published_at": "2026-08-01T12:12:05Z",
+      "description": "🎨 GPU-accelerated animated wallpaper engine for Wayland",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 65,
-      "user": "hamzarehmandeveloper"
+      "stars": 66,
+      "user": "programmersd21"
     },
     {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
