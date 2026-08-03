@@ -106,21 +106,6 @@
       "user": "John Bulla"
     },
     {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -164,21 +149,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
       "user": "Shy Ruparel"
-    },
-    {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
     },
     {
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
@@ -331,6 +301,21 @@
       "user": "xbill"
     },
     {
+      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+      "published_at": "2026-07-31T06:57:48Z",
+      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
+      "source": "Dev.to",
+      "user": "Meera9"
+    },
+    {
       "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
       "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
       "published_at": "2026-07-31T17:44:17Z",
@@ -344,6 +329,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
     },
     {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "0xwilliamortiz"
     },
     {
@@ -795,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "Noniv"
     },
     {
@@ -810,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "Audio8-AI"
     },
     {
@@ -825,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "aws"
     },
     {
@@ -840,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "grafana"
     },
     {
@@ -885,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2948,
+      "stars": 3048,
       "user": "trycompai"
     },
     {
@@ -900,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 713,
       "user": "thebuggeddev"
     },
     {
@@ -915,7 +915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "gavamedia"
     },
     {
@@ -949,16 +949,20 @@
       "user": "hamzarehmandeveloper"
     },
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "published_at": "2026-08-03T11:51:22.427-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
+      "url": "https://stackoverflow.com/questions/79990183/how-to-solve-the-problem-with-none-async-engine-in-sqlalchemy-before-closing-eng",
+      "published_at": "2026-08-03T19:27:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
-        "security"
+        "python",
+        "python-3.x",
+        "async-await",
+        "sqlalchemy",
+        "fastapi"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
+      "source": "StackOverflow",
+      "user": "Liomtr"
     },
     {
       "title": "Failed to create virtual environment in VS Code",
@@ -1003,6 +1007,65 @@
       "user": "Echeban"
     },
     {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "description": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "tags": [
+        "TC",
+        "Startups",
+        "AI",
+        "AWS",
+        "vibe coding"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "published_at": "2026-08-03T19:45:35.000Z",
+      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
+      "tags": [
+        "Security",
+        "Anthropic",
+        "CFAA",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai, Zack Whittaker"
+    },
+    {
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "published_at": "2026-08-03T19:28:57.000Z",
+      "description": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "published_at": "2026-08-03T19:09:56.000Z",
+      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Social",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "published_at": "2026-08-03T18:43:43.000Z",
@@ -1028,7 +1091,7 @@
         "Fundraising",
         "Startups",
         "TC",
-        "Sequoia"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1041,44 +1104,13 @@
       "description": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
       "tags": [
         "Climate",
+        "Startups",
         "Base Power",
         "energy storage"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Congress&#8217;s favorite AI tool? ChatGPT",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "published_at": "2026-08-03T16:40:55.000Z",
-      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "ChatGPT",
-        "Congress",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "published_at": "2026-08-03T12:50:46.000Z",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
-      "tags": [
-        "Security",
-        "Startups",
-        "ai security",
-        "Horizon3",
-        "Horizon3.ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
     },
     {
       "title": "What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker",
@@ -1216,6 +1248,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+      "published_at": "2026-07-31T06:57:48Z",
+      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
+      "source": "Dev.to",
+      "user": "Meera9"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -1364,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "xikhar"
     },
     {
@@ -1394,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "0xwilliamortiz"
     },
     {
@@ -1409,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 533,
       "user": "x4gKing"
     },
     {
@@ -1424,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "Noniv"
     },
     {
@@ -1439,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "grafana"
     },
     {
@@ -1454,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9239,
+      "stars": 9372,
       "user": "yc-software"
     },
     {
@@ -1469,7 +1516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4193,
+      "stars": 4216,
       "user": "bashalarmistalt"
     },
     {
@@ -1484,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2948,
+      "stars": 3048,
       "user": "trycompai"
     },
     {
@@ -1499,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1352,
       "user": "microsoft"
     },
     {
@@ -1514,20 +1561,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 713,
       "user": "thebuggeddev"
-    },
-    {
-      "title": "Your JSON Is Lying to You",
-      "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-      "published_at": "2026-08-02T20:40:30.878-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gkoos"
     },
     {
       "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
@@ -1560,7 +1595,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
         "html"
@@ -1643,7 +1678,7 @@
       "user": "FlyingFinn91"
     },
     {
-      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
+      "title": "Mouse click and Drag Instead of Horizontal Scroll bar (To view full content of child DIV)",
       "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
       "published_at": "2015-02-18T05:31:27.000Z",
       "description": "Stack Overflow question · 5 answers · score 54",
@@ -1893,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "Audio8-AI"
     },
     {
@@ -1908,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 298,
       "user": "H-EmbodVis"
     },
     {
@@ -1923,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "1mm-module"
     },
     {
@@ -1938,8 +1973,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "aws"
+    },
+    {
+      "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
+      "url": "https://stackoverflow.com/questions/79990183/how-to-solve-the-problem-with-none-async-engine-in-sqlalchemy-before-closing-eng",
+      "published_at": "2026-08-03T19:27:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "async-await",
+        "sqlalchemy",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liomtr"
     },
     {
       "title": "How to show a pygame window with a tkinter window?",
@@ -1959,7 +2010,7 @@
       "title": "Printing the index without errors",
       "url": "https://stackoverflow.com/questions/79990134/printing-the-index-without-errors",
       "published_at": "2026-08-03T14:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
@@ -2065,20 +2116,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Echeban"
-    },
-    {
-      "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
-      "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
-      "published_at": "2026-08-01T18:21:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "advice",
-        "python",
-        "palindrome"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jayesh patil"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2312,6 +2349,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+      "published_at": "2026-07-31T06:57:48Z",
+      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
+      "source": "Dev.to",
+      "user": "Meera9"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2335,14 +2387,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "grafana"
     },
     {
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
         "html"
@@ -2381,7 +2433,7 @@
       "user": "Jourkey"
     },
     {
-      "title": "Mouse click and Drag Instead of Horizontal Scroll bar( To view full content of child Div)",
+      "title": "Mouse click and Drag Instead of Horizontal Scroll bar (To view full content of child DIV)",
       "url": "https://stackoverflow.com/questions/28576636/mouse-click-and-drag-instead-of-horizontal-scroll-bar-to-view-full-content-of-c",
       "published_at": "2015-02-18T05:31:27.000Z",
       "description": "Stack Overflow question · 5 answers · score 54",
@@ -2471,18 +2523,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Rust Project Goals: Immobile types and guaranteed destructors",
-      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "published_at": "2026-08-03T06:13:13.293-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "noncrab"
     }
   ],
   "Cloud": [
@@ -2783,8 +2823,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "aws"
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "description": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "tags": [
+        "TC",
+        "Startups",
+        "AI",
+        "AWS",
+        "vibe coding"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
@@ -2832,29 +2888,20 @@
       "user": "iancarroll"
     },
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "published_at": "2026-08-03T11:51:22.427-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
+      "url": "https://stackoverflow.com/questions/79990183/how-to-solve-the-problem-with-none-async-engine-in-sqlalchemy-before-closing-eng",
+      "published_at": "2026-08-03T19:27:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
-        "security"
+        "python",
+        "python-3.x",
+        "async-await",
+        "sqlalchemy",
+        "fastapi"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
-    },
-    {
-      "title": "Reliability Lessons From SQLite",
-      "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
-      "published_at": "2026-08-03T11:27:45.504-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dgv"
+      "source": "StackOverflow",
+      "user": "Liomtr"
     }
   ],
   "Security": [
@@ -3066,16 +3113,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "published_at": "2026-08-03T11:51:22.427-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "published_at": "2026-08-03T19:45:35.000Z",
+      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
       "tags": [
-        "security"
+        "Security",
+        "Anthropic",
+        "CFAA",
+        "cybersecurity",
+        "data breach"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai, Zack Whittaker"
     },
     {
       "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
@@ -3094,38 +3145,6 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "published_at": "2026-08-03T12:50:46.000Z",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
-      "tags": [
-        "Security",
-        "Startups",
-        "ai security",
-        "Horizon3",
-        "Horizon3.ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Samsung bans smart TV apps that share users&#8217; internet connections with strangers",
-      "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-      "published_at": "2026-08-03T12:10:41.000Z",
-      "description": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
-      "tags": [
-        "Security",
-        "cyberattacks",
-        "cybersecurity",
-        "Exclusive",
-        "privacy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
       "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
       "published_at": "2026-07-29T09:15:17.000Z",
@@ -3142,21 +3161,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
       "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
@@ -3310,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "xikhar"
     },
     {
@@ -3340,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 556,
       "user": "0xwilliamortiz"
     },
     {
@@ -3355,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 533,
       "user": "x4gKing"
     },
     {
@@ -3370,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 478,
       "user": "Noniv"
     },
     {
@@ -3400,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "Audio8-AI"
     },
     {
@@ -3415,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 298,
       "user": "H-EmbodVis"
     },
     {
@@ -3430,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "1mm-module"
     },
     {
@@ -3445,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 252,
       "user": "aws"
     },
     {
@@ -3475,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 201,
       "user": "grafana"
     },
     {
@@ -3535,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9239,
+      "stars": 9372,
       "user": "yc-software"
     },
     {
@@ -3550,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4193,
+      "stars": 4216,
       "user": "bashalarmistalt"
     },
     {
@@ -3565,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 2948,
+      "stars": 3048,
       "user": "trycompai"
     },
     {
@@ -3580,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1334,
+      "stars": 1352,
       "user": "microsoft"
     },
     {
@@ -3595,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 713,
       "user": "thebuggeddev"
     },
     {
@@ -3610,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "gavamedia"
     },
     {
@@ -3625,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "l00sed"
     },
     {
@@ -3655,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 106,
       "user": "ArchAstro"
     },
     {
@@ -3674,36 +3678,20 @@
       "user": "hamzarehmandeveloper"
     },
     {
-      "title": "Congress&#8217;s favorite AI tool? ChatGPT",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "published_at": "2026-08-03T16:40:55.000Z",
-      "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "description": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
       "tags": [
-        "AI",
-        "Government & Policy",
-        "ChatGPT",
-        "Congress",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "published_at": "2026-08-03T12:50:46.000Z",
-      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
-      "tags": [
-        "Security",
+        "TC",
         "Startups",
-        "ai security",
-        "Horizon3",
-        "Horizon3.ai"
+        "AI",
+        "AWS",
+        "vibe coding"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kate Park"
+      "user": "Julie Bort"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
