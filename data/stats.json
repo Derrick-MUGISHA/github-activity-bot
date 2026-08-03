@@ -1,40 +1,41 @@
 {
-  "total": 174,
+  "total": 184,
   "by_source": {
     "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
+    "Lobste.rs": 10,
     "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
     "AI": 83,
-    "JavaScript": 37,
+    "JavaScript": 39,
     "Python": 31,
-    "DevOps": 14,
-    "WebDev": 10,
-    "Mobile": 3,
+    "DevOps": 15,
+    "WebDev": 12,
+    "Mobile": 4,
     "Cloud": 23,
-    "Database": 2,
-    "Security": 19,
+    "Database": 4,
+    "Security": 20,
     "Tools": 37
   },
   "by_language": {
-    "Go": 42,
-    "JavaScript": 37,
-    "Java": 29,
+    "Go": 43,
+    "JavaScript": 39,
+    "Java": 30,
     "Python": 31,
     "Ruby": 1,
-    "Rust": 5
+    "Rust": 6
   },
   "by_date": {
     "2026-07-29": 14,
     "2026-07-31": 15,
     "2026-07-27": 5,
     "2026-08-02": 12,
-    "2026-07-28": 19,
-    "2026-07-30": 8,
+    "2026-07-28": 17,
+    "2026-07-30": 7,
     "2026-07-26": 4,
     "2026-07-20": 4,
     "2026-07-15": 1,
@@ -99,8 +100,8 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-01": 4,
-    "2026-08-03": 15,
+    "2026-08-01": 5,
+    "2026-08-03": 27,
     "2009-09-07": 1,
     "2023-01-03": 1,
     "2015-02-18": 1,
@@ -109,10 +110,10 @@
   "top_tags": {
     "github": 25,
     "open-source": 25,
-    "javascript": 19,
+    "javascript": 20,
     "python": 19,
     "ai": 18,
-    "AI": 17,
+    "AI": 16,
     "discuss": 12,
     "Security": 12,
     "Python": 11,
@@ -125,16 +126,16 @@
     "go": 6,
     "tpu": 6,
     "mcps": 6,
-    "architecture": 5,
-    "googlecloud": 5
+    "rust": 6,
+    "programming": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "29.0",
-    "JavaScript": "25.5",
+    "Go": "28.7",
+    "JavaScript": "26.0",
     "Java": "20.0",
-    "Python": "21.4",
+    "Python": "20.7",
     "Ruby": "0.7",
-    "Rust": "3.4"
+    "Rust": "4.0"
   }
 }
