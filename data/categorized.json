@@ -541,6 +541,21 @@
       "user": "Athreya aka Maneshwar"
     },
     {
+      "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
+      "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
+      "published_at": "2026-07-20T16:26:42Z",
+      "description": "I never planned to be in tech.  Growing up in Mumbai, I loved acting. Directing. Theatre. That was my...",
+      "tags": [
+        "career",
+        "beginners",
+        "womenintech",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
+      "source": "Dev.to",
+      "user": "Rohini Gaonkar"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -750,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Noniv"
     },
     {
@@ -765,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 285,
       "user": "Audio8-AI"
     },
     {
@@ -780,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 227,
       "user": "Anionex"
     },
     {
@@ -810,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "grafana"
     },
     {
@@ -825,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "opentokenz"
     },
     {
@@ -840,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 2055,
       "user": "trycompai"
     },
     {
@@ -855,14 +870,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "gavamedia"
     },
     {
-      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "title": "arcships/aimux - Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
       "url": "https://github.com/arcships/aimux",
       "published_at": "2026-07-28T04:58:46Z",
-      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
       "tags": [
         "rust",
         "github",
@@ -870,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 149,
       "user": "arcships"
     },
     {
@@ -885,7 +900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "hamzarehmandeveloper"
     },
     {
@@ -917,6 +932,20 @@
       "user": "macke89"
     },
     {
+      "title": "Failed to create virtual environment in VS Code",
+      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
+      "published_at": "2026-08-02T17:58:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "virtual-environment"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luna"
+    },
+    {
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
@@ -930,20 +959,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "C. Ding"
-    },
-    {
-      "title": "Failed to create virtual environment in VS Code",
-      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
-      "published_at": "2026-08-02T17:58:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "virtual-environment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
     },
     {
       "title": "Abaqus CAE Python scripting, what documentation is available",
@@ -1360,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "xikhar"
     },
     {
@@ -1405,23 +1420,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Noniv"
     },
     {
-      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "published_at": "2026-07-31T17:54:30Z",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "title": "x4gKing/3x-ui-multi - GitHub Repository",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "published_at": "2026-08-01T12:34:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "0xwilliamortiz"
+      "stars": 422,
+      "user": "x4gKing"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -1435,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "grafana"
     },
     {
@@ -1450,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7658,
+      "stars": 8030,
       "user": "yc-software"
     },
     {
@@ -1465,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3785,
+      "stars": 3939,
       "user": "bashalarmistalt"
     },
     {
@@ -1480,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 2055,
       "user": "trycompai"
     },
     {
@@ -1495,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 1090,
       "user": "microsoft"
     },
     {
@@ -1510,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 663,
       "user": "talivia-group"
     },
     {
@@ -1565,22 +1580,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luka PUSKARICA"
-    },
-    {
-      "title": "How to test Vue ripple directive has been used?",
-      "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
-      "published_at": "2026-07-31T20:17:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "vue.js",
-        "quasar",
-        "vue-test-utils",
-        "vue-directives"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chiara Ani"
     },
     {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
@@ -1667,6 +1666,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rahul Allada"
+    },
+    {
+      "title": "This can enable a Reflected Cross-Site Scripting (XSS) attack",
+      "url": "https://stackoverflow.com/questions/68549026/this-can-enable-a-reflected-cross-site-scripting-xss-attack",
+      "published_at": "2021-07-27T16:58:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
+      "tags": [
+        "javascript",
+        "xss",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "pmiranda"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -1877,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 387,
       "user": "lij768423-svg"
     },
     {
@@ -1892,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 285,
       "user": "Audio8-AI"
     },
     {
@@ -1907,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 270,
       "user": "H-EmbodVis"
     },
     {
@@ -1922,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 227,
       "user": "Anionex"
     },
     {
@@ -1984,21 +1997,6 @@
       "user": "Larry k"
     },
     {
-      "title": "Llama model generation always skips 1 token during inference",
-      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
-      "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pytorch",
-        "huggingface-transformers",
-        "training-data"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "C. Ding"
-    },
-    {
       "title": "Failed to create virtual environment in VS Code",
       "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
       "published_at": "2026-08-02T17:58:22.000Z",
@@ -2025,6 +2023,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tory"
+    },
+    {
+      "title": "Llama model generation always skips 1 token during inference",
+      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
+      "published_at": "2026-08-02T12:43:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "training-data"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "C. Ding"
     },
     {
       "title": "Abaqus CAE Python scripting, what documentation is available",
@@ -2334,7 +2347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "grafana"
     },
     {
@@ -3150,6 +3163,21 @@
       "user": "Athreya aka Maneshwar"
     },
     {
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+      "published_at": "2026-07-06T15:50:31Z",
+      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+      "tags": [
+        "discuss",
+        "career",
+        "productivity",
+        "mentalhealth"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3197,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 798,
       "user": "xikhar"
     },
     {
@@ -3242,23 +3270,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 461,
       "user": "Noniv"
     },
     {
-      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "published_at": "2026-07-31T17:54:30Z",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "title": "x4gKing/3x-ui-multi - GitHub Repository",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "published_at": "2026-08-01T12:34:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "0xwilliamortiz"
+      "stars": 422,
+      "user": "x4gKing"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3272,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 387,
       "user": "lij768423-svg"
     },
     {
@@ -3287,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 285,
       "user": "Audio8-AI"
     },
     {
@@ -3302,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 270,
       "user": "H-EmbodVis"
     },
     {
@@ -3317,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 227,
       "user": "Anionex"
     },
     {
@@ -3347,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "codermyxiaoc"
     },
     {
@@ -3362,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 196,
       "user": "grafana"
     },
     {
@@ -3377,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "rogerbush007-a11y"
     },
     {
@@ -3392,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "opentokenz"
     },
     {
@@ -3407,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 102,
       "user": "lij768423-svg"
     },
     {
@@ -3422,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7658,
+      "stars": 8030,
       "user": "yc-software"
     },
     {
@@ -3437,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3785,
+      "stars": 3939,
       "user": "bashalarmistalt"
     },
     {
@@ -3452,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 2055,
       "user": "trycompai"
     },
     {
@@ -3467,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 1090,
       "user": "microsoft"
     },
     {
@@ -3482,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 663,
       "user": "talivia-group"
     },
     {
@@ -3497,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "gavamedia"
     },
     {
@@ -3512,14 +3540,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "l00sed"
     },
     {
-      "title": "arcships/aimux - 统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "title": "arcships/aimux - Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
       "url": "https://github.com/arcships/aimux",
       "published_at": "2026-07-28T04:58:46Z",
-      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
       "tags": [
         "rust",
         "github",
@@ -3527,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 149,
       "user": "arcships"
     },
     {
@@ -3557,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "hamzarehmandeveloper"
     },
     {
