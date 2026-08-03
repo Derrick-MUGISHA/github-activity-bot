@@ -751,21 +751,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "published_at": "2026-07-27T05:04:26Z",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
-      "source": "GitHub",
-      "stars": 1730,
-      "user": "QwenAudio"
-    },
-    {
       "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/0xwilliamortiz/ponytail-improved",
       "published_at": "2026-07-28T14:16:19Z",
@@ -811,21 +796,6 @@
       "user": "Noniv"
     },
     {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "PipeNetwork"
-    },
-    {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
       "url": "https://github.com/Audio8-AI/Audio8_TTS",
       "published_at": "2026-07-29T03:58:19Z",
@@ -837,8 +807,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "Audio8-AI"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "Anionex"
+    },
+    {
+      "title": "uczltw6/trace-file-lineage - Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "url": "https://github.com/uczltw6/trace-file-lineage",
+      "published_at": "2026-07-29T22:05:47Z",
+      "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62146150?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "uczltw6"
     },
     {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "opentokenz"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1837,
       "user": "trycompai"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 621,
       "user": "gavamedia"
     },
     {
@@ -912,23 +912,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "arcships"
     },
     {
-      "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-      "url": "https://github.com/hardrave/NIGHTRUN",
-      "published_at": "2026-07-27T19:37:52Z",
-      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "title": "hamzarehmandeveloper/claude-account - Switch between isolated Claude Code accounts on Linux without logging in again.",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "published_at": "2026-07-30T11:49:22Z",
+      "description": "Switch between isolated Claude Code accounts on Linux without logging in again.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "hardrave"
+      "stars": 62,
+      "user": "hamzarehmandeveloper"
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
@@ -976,7 +976,7 @@
       "title": "Llama model generation always skips 1 token during inference",
       "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
       "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "pytorch",
@@ -991,7 +991,7 @@
       "title": "Abaqus CAE Python scripting, what documentation is available",
       "url": "https://stackoverflow.com/questions/79989898/abaqus-cae-python-scripting-what-documentation-is-available",
       "published_at": "2026-08-02T13:39:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "abaqus"
@@ -1391,21 +1391,6 @@
       "user": "velmu"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "published_at": "2026-07-27T05:04:26Z",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
-      "source": "GitHub",
-      "stars": 1730,
-      "user": "QwenAudio"
-    },
-    {
       "title": "xikhar/persona - Bringing real-time voice to life.",
       "url": "https://github.com/xikhar/persona",
       "published_at": "2026-07-28T11:40:19Z",
@@ -1417,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 793,
       "user": "xikhar"
     },
     {
@@ -1466,6 +1451,21 @@
       "user": "Noniv"
     },
     {
+      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "published_at": "2026-07-31T17:54:30Z",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 411,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
       "url": "https://github.com/grafana/ai-sdk",
       "published_at": "2026-07-28T21:51:20Z",
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7141,
+      "stars": 7263,
       "user": "yc-software"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3659,
+      "stars": 3691,
       "user": "bashalarmistalt"
     },
     {
@@ -1522,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1837,
       "user": "trycompai"
     },
     {
@@ -1537,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 819,
       "user": "microsoft"
     },
     {
@@ -1552,23 +1552,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "talivia-group"
-    },
-    {
-      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "url": "https://github.com/Quantova/quantova-cli",
-      "published_at": "2026-07-27T13:47:34Z",
-      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "Quantova"
     },
     {
       "title": "How can I locate an element in a nested div without selecting the outer div?",
@@ -1922,23 +1907,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "lij768423-svg"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "PipeNetwork"
     },
     {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
@@ -1952,23 +1922,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "Audio8-AI"
-    },
-    {
-      "title": "AmazingAng/old-coder - An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-      "url": "https://github.com/AmazingAng/old-coder",
-      "published_at": "2026-07-27T05:03:11Z",
-      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "AmazingAng"
     },
     {
       "title": "H-EmbodVis/TurboVLA - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
@@ -1982,14 +1937,60 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "H-EmbodVis"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "Anionex"
+    },
+    {
+      "title": "uczltw6/trace-file-lineage - Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "url": "https://github.com/uczltw6/trace-file-lineage",
+      "published_at": "2026-07-29T22:05:47Z",
+      "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62146150?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "uczltw6"
+    },
+    {
+      "title": "ImportError: cannot import name 'BuildDependencyInstallError' while compiling Python Kivy 2.1.0 with Buildozer 1.4.0",
+      "url": "https://stackoverflow.com/questions/79989978/importerror-cannot-import-name-builddependencyinstallerror-while-compiling-py",
+      "published_at": "2026-08-03T00:09:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pip",
+        "importerror",
+        "buildozer",
+        "python-3.10"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Triangle Brannsverberder"
     },
     {
       "title": "Positioning plot legend",
       "url": "https://stackoverflow.com/questions/79989961/positioning-plot-legend",
       "published_at": "2026-08-02T21:10:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "matplotlib"
@@ -2013,10 +2014,25 @@
       "user": "Luna"
     },
     {
+      "title": "Llama model generation always skips 1 token during inference",
+      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
+      "published_at": "2026-08-02T12:43:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "training-data"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "C. Ding"
+    },
+    {
       "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
       "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
       "published_at": "2026-08-02T17:04:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "docx",
@@ -2041,25 +2057,10 @@
       "user": "Tory"
     },
     {
-      "title": "Llama model generation always skips 1 token during inference",
-      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
-      "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "pytorch",
-        "huggingface-transformers",
-        "training-data"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "C. Ding"
-    },
-    {
       "title": "Abaqus CAE Python scripting, what documentation is available",
       "url": "https://stackoverflow.com/questions/79989898/abaqus-cae-python-scripting-what-documentation-is-available",
       "published_at": "2026-08-02T13:39:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "abaqus"
@@ -2107,22 +2108,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "James"
-    },
-    {
-      "title": "Why is my hand not detecting properly in opencv?",
-      "url": "https://stackoverflow.com/questions/79989778/why-is-my-hand-not-detecting-properly-in-opencv",
-      "published_at": "2026-08-01T21:26:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "opencv",
-        "computer-vision",
-        "mediapipe",
-        "pose-estimation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mikaela Matthews"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -3246,21 +3231,6 @@
       "user": "pabs3"
     },
     {
-      "title": "QwenAudio/qwen-audio-agent - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "published_at": "2026-07-27T05:04:26Z",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167062371?v=4",
-      "source": "GitHub",
-      "stars": 1730,
-      "user": "QwenAudio"
-    },
-    {
       "title": "xikhar/persona - Bringing real-time voice to life.",
       "url": "https://github.com/xikhar/persona",
       "published_at": "2026-07-28T11:40:19Z",
@@ -3272,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
       "source": "GitHub",
-      "stars": 792,
+      "stars": 793,
       "user": "xikhar"
     },
     {
@@ -3321,6 +3291,21 @@
       "user": "Noniv"
     },
     {
+      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "published_at": "2026-07-31T17:54:30Z",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 411,
+      "user": "0xwilliamortiz"
+    },
+    {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
       "url": "https://github.com/lij768423-svg/grok-register-panel",
       "published_at": "2026-07-29T09:25:01Z",
@@ -3332,23 +3317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "lij768423-svg"
-    },
-    {
-      "title": "PipeNetwork/kimi-k3-mlx - MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
-      "published_at": "2026-07-27T23:51:45Z",
-      "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177175125?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "PipeNetwork"
     },
     {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
@@ -3362,23 +3332,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "Audio8-AI"
-    },
-    {
-      "title": "AmazingAng/old-coder - An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-      "url": "https://github.com/AmazingAng/old-coder",
-      "published_at": "2026-07-27T05:03:11Z",
-      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14728591?v=4",
-      "source": "GitHub",
-      "stars": 242,
-      "user": "AmazingAng"
     },
     {
       "title": "H-EmbodVis/TurboVLA - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
@@ -3392,8 +3347,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 242,
       "user": "H-EmbodVis"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 201,
+      "user": "Anionex"
+    },
+    {
+      "title": "uczltw6/trace-file-lineage - Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "url": "https://github.com/uczltw6/trace-file-lineage",
+      "published_at": "2026-07-29T22:05:47Z",
+      "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62146150?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "uczltw6"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3452,23 +3437,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "opentokenz"
     },
     {
-      "title": "YuJunZhiXue/Cline-proxy - 一个使用go写的简略的反代CLine的网关",
-      "url": "https://github.com/YuJunZhiXue/Cline-proxy",
-      "published_at": "2026-07-30T15:48:40Z",
-      "description": "一个使用go写的简略的反代CLine的网关",
+      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
+      "published_at": "2026-08-01T02:36:14Z",
+      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 86,
-      "user": "YuJunZhiXue"
+      "stars": 90,
+      "user": "lij768423-svg"
     },
     {
       "title": "yc-software/qm - Multiplayer agent harness for work",
@@ -3482,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 7141,
+      "stars": 7263,
       "user": "yc-software"
     },
     {
@@ -3497,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 3659,
+      "stars": 3691,
       "user": "bashalarmistalt"
     },
     {
@@ -3512,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 1787,
+      "stars": 1837,
       "user": "trycompai"
     },
     {
@@ -3527,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 819,
       "user": "microsoft"
     },
     {
@@ -3542,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/309602203?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 651,
       "user": "talivia-group"
     },
     {
@@ -3557,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 621,
       "user": "gavamedia"
     },
     {
@@ -3587,38 +3572,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "arcships"
     },
     {
-      "title": "hardrave/NIGHTRUN - Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-      "url": "https://github.com/hardrave/NIGHTRUN",
-      "published_at": "2026-07-27T19:37:52Z",
-      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "title": "ArchAstro/scopey - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
+      "url": "https://github.com/ArchAstro/scopey",
+      "published_at": "2026-07-31T00:18:13Z",
+      "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97395447?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "hardrave"
+      "stars": 101,
+      "user": "ArchAstro"
     },
     {
-      "title": "Quantova/quantova-cli - The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
-      "url": "https://github.com/Quantova/quantova-cli",
-      "published_at": "2026-07-27T13:47:34Z",
-      "description": "The Quantova command line client. Post quantum accounts, signed transactions, contract deploy and call, and node queries over the gateway, built on the QCore Rust core.",
+      "title": "hamzarehmandeveloper/claude-account - Switch between isolated Claude Code accounts on Linux without logging in again.",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "published_at": "2026-07-30T11:49:22Z",
+      "description": "Switch between isolated Claude Code accounts on Linux without logging in again.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194178501?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/114311730?v=4",
       "source": "GitHub",
-      "stars": 106,
-      "user": "Quantova"
+      "stars": 62,
+      "user": "hamzarehmandeveloper"
     },
     {
       "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
