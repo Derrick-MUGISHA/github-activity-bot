@@ -46,51 +46,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
-      "published_at": "2026-07-31T02:28:26Z",
-      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Fish Audio's $52M Seed: Open Weights Got Them Here",
-      "url": "https://dev.to/lukeocodes/fish-audios-52m-seed-open-weights-got-them-here-25e5",
-      "published_at": "2026-07-29T13:01:42Z",
-      "description": "Fish Audio raised a $52M seed on July 28, 2026 with $21M ARR and 8M users. Its new S2.1 Pro model is closed, API-only. What that shift means for TTS.",
-      "tags": [
-        "tts",
-        "voiceai",
-        "funding",
-        "openweights"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Flukeocodes.dev%2Fog.png%3Fh%3DFish%2BAudio%2527s%2B%252452M%2BSeed%253A%2BOpen%2BWeights%2BGot%2BThem%2BHere%26d%3DFish%2BAudio%2Braised%2Ba%2B%252452M%2Bseed%2Bon%2BJuly%2B28%252C%2B2026%2Bwith%2B%252421M%2BARR%2Band%2B8M%2Busers.%2BIts%2Bnew%2BS2.1%2BPro%2Bmodel%2Bis%2Bclosed%252C%2BAPI-only.%2BWhat%2Bthat%2Bshift%2Bmeans%2Bfor%2BTTS.",
-      "source": "Dev.to",
-      "user": "@lukeocodes 🕹👨‍💻"
-    },
-    {
-      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
-      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363",
-      "published_at": "2026-07-29T09:49:50Z",
-      "description": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
-      "tags": [
-        "gcpbilling",
-        "finops",
-        "killswitch",
-        "hardcap"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
       "title": "Google ADK: Architecture and Essential Components",
       "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
       "published_at": "2026-08-02T12:04:38Z",
@@ -149,21 +104,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
       "user": "Shy Ruparel"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "published_at": "2026-07-30T20:43:23Z",
-      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "tags": [
-        "ai",
-        "rag",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
-      "source": "Dev.to",
-      "user": "Giulio D'Erme"
     },
     {
       "title": "Bug Smash isn't glamorous and that's what I love about it.",
@@ -331,19 +271,19 @@
       "user": "xbill"
     },
     {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
       "tags": [
-        "discuss",
         "ai",
-        "career",
-        "programming"
+        "agents",
+        "mcp",
+        "agentskills"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
       "source": "Dev.to",
-      "user": "Nazar Boyko"
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
@@ -754,21 +694,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
       "url": "https://github.com/0xwilliamortiz/humanizer-cli",
       "published_at": "2026-08-01T20:36:27Z",
@@ -780,23 +705,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "title": "Kenton-GMI/sakura-crossing - An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "url": "https://github.com/Kenton-GMI/sakura-crossing",
+      "published_at": "2026-07-29T22:06:17Z",
+      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/310775475?v=4",
       "source": "GitHub",
-      "stars": 481,
-      "user": "Noniv"
+      "stars": 294,
+      "user": "Kenton-GMI"
     },
     {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
@@ -810,38 +735,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "Audio8-AI"
     },
     {
-      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "url": "https://github.com/aws/context-ontology-accelerator",
-      "published_at": "2026-07-28T22:59:24Z",
-      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "url": "https://github.com/aigclink/geolook",
+      "published_at": "2026-07-29T07:51:43Z",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 265,
-      "user": "aws"
+      "stars": 281,
+      "user": "aigclink"
     },
     {
-      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "url": "https://github.com/grafana/ai-sdk",
-      "published_at": "2026-07-28T21:51:20Z",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 202,
-      "user": "grafana"
+      "stars": 260,
+      "user": "Anionex"
     },
     {
       "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
@@ -855,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 165,
       "user": "opentokenz"
     },
     {
@@ -870,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 155,
       "user": "magicrew"
     },
     {
@@ -885,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 3211,
+      "stars": 3377,
       "user": "trycompai"
     },
     {
@@ -900,38 +825,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 792,
       "user": "thebuggeddev"
     },
     {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+      "published_at": "2026-08-01T08:02:34Z",
+      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 657,
-      "user": "gavamedia"
-    },
-    {
-      "title": "arcships/aimux - Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
-      "url": "https://github.com/arcships/aimux",
-      "published_at": "2026-07-28T04:58:46Z",
-      "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "arcships"
+      "stars": 75,
+      "user": "mrpulor-gh"
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
@@ -974,21 +884,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
-    },
-    {
-      "title": "Llama model generation always skips 1 token during inference",
-      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
-      "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pytorch",
-        "huggingface-transformers",
-        "training-data"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "C. Ding"
     },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
@@ -1095,6 +990,21 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware",
+      "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/",
+      "published_at": "2026-08-03T22:04:49.000Z",
+      "description": "If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri",
+      "tags": [
+        "handbook",
+        "quantum computing",
+        "hardware",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Casmir Onyekani"
     },
     {
       "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
@@ -1384,34 +1294,19 @@
       "user": "velmu"
     },
     {
-      "title": "xikhar/persona - Bringing real-time voice to life.",
-      "url": "https://github.com/xikhar/persona",
-      "published_at": "2026-07-28T11:40:19Z",
-      "description": "Bringing real-time voice to life.",
+      "title": "x4gKing/3x-ui-multi - GitHub Repository",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "published_at": "2026-08-01T12:34:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 818,
-      "user": "xikhar"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "0xwilliamortiz"
+      "stars": 561,
+      "user": "x4gKing"
     },
     {
       "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
@@ -1425,53 +1320,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "x4gKing/3x-ui-multi - GitHub Repository",
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "published_at": "2026-08-01T12:34:51Z",
-      "description": "Trending GitHub Repository",
+      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "published_at": "2026-07-31T17:54:30Z",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
-      "user": "x4gKing"
+      "stars": 425,
+      "user": "0xwilliamortiz"
     },
     {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
+      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "published_at": "2026-08-01T15:22:27Z",
+      "description": "Quick profit scalper using flashloan mechanics",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 481,
-      "user": "Noniv"
+      "stars": 314,
+      "user": "brookfacehe2421"
     },
     {
-      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "url": "https://github.com/grafana/ai-sdk",
-      "published_at": "2026-07-28T21:51:20Z",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "title": "Kenton-GMI/sakura-crossing - An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "url": "https://github.com/Kenton-GMI/sakura-crossing",
+      "published_at": "2026-07-29T22:06:17Z",
+      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
       "tags": [
-        "go",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/310775475?v=4",
       "source": "GitHub",
-      "stars": 202,
-      "user": "grafana"
+      "stars": 294,
+      "user": "Kenton-GMI"
     },
     {
       "title": "yc-software/qm - Multiplayer agent harness for work",
@@ -1485,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9590,
+      "stars": 9903,
       "user": "yc-software"
     },
     {
@@ -1500,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4245,
+      "stars": 4275,
       "user": "bashalarmistalt"
     },
     {
@@ -1515,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 3211,
+      "stars": 3377,
       "user": "trycompai"
     },
     {
@@ -1530,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1378,
+      "stars": 1455,
       "user": "microsoft"
     },
     {
@@ -1545,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 792,
       "user": "thebuggeddev"
     },
     {
@@ -1559,6 +1454,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "gkoos"
+    },
+    {
+      "title": "How do I write a Javascript function to change the source of an iframe?",
+      "url": "https://stackoverflow.com/questions/79990239/how-do-i-write-a-javascript-function-to-change-the-source-of-an-iframe",
+      "published_at": "2026-08-04T01:52:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Koshpeli"
     },
     {
       "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
@@ -1687,18 +1594,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzMe_Ezhil"
-    },
-    {
-      "title": "Game - Calculate player's diagonal movement",
-      "url": "https://stackoverflow.com/questions/74849024/game-calculate-players-diagonal-movement",
-      "published_at": "2022-12-19T10:11:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "chews"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1925,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "lij768423-svg"
     },
     {
@@ -1940,23 +1835,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "Audio8-AI"
     },
     {
-      "title": "H-EmbodVis/TurboVLA - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-      "url": "https://github.com/H-EmbodVis/TurboVLA",
-      "published_at": "2026-07-28T04:04:22Z",
-      "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "url": "https://github.com/aigclink/geolook",
+      "published_at": "2026-07-29T07:51:43Z",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 300,
-      "user": "H-EmbodVis"
+      "stars": 281,
+      "user": "aigclink"
     },
     {
       "title": "1mm-module/PNGAL - GitHub Repository",
@@ -1970,23 +1865,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 279,
       "user": "1mm-module"
     },
     {
-      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "url": "https://github.com/aws/context-ontology-accelerator",
-      "published_at": "2026-07-28T22:59:24Z",
-      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 265,
-      "user": "aws"
+      "stars": 260,
+      "user": "Anionex"
+    },
+    {
+      "title": "Avoiding InvalidIndexError when using xarray.Dataset.sel for time, latitude, and longitude",
+      "url": "https://stackoverflow.com/questions/79990220/avoiding-invalidindexerror-when-using-xarray-dataset-sel-for-time-latitude-and",
+      "published_at": "2026-08-03T23:02:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-xarray",
+        "era5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RockyMountainSB"
     },
     {
       "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
@@ -2048,7 +1957,7 @@
       "title": "ImportError: cannot import name 'BuildDependencyInstallError' while compiling Python Kivy 2.1.0 with Buildozer 1.4.0",
       "url": "https://stackoverflow.com/questions/79989978/importerror-cannot-import-name-builddependencyinstallerror-while-compiling-py",
       "published_at": "2026-08-03T00:09:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "pip",
@@ -2116,19 +2025,19 @@
       "user": "Larry k"
     },
     {
-      "title": "Llama model generation always skips 1 token during inference",
-      "url": "https://stackoverflow.com/questions/79989890/llama-model-generation-always-skips-1-token-during-inference",
-      "published_at": "2026-08-02T12:43:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware",
+      "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/",
+      "published_at": "2026-08-03T22:04:49.000Z",
+      "description": "If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri",
       "tags": [
-        "python",
-        "pytorch",
-        "huggingface-transformers",
-        "training-data"
+        "handbook",
+        "quantum computing",
+        "hardware",
+        "Python"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "C. Ding"
+      "source": "freeCodeCamp",
+      "user": "Casmir Onyekani"
     },
     {
       "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
@@ -2403,21 +2312,6 @@
       "user": "velmu"
     },
     {
-      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "url": "https://github.com/grafana/ai-sdk",
-      "published_at": "2026-07-28T21:51:20Z",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
-      "source": "GitHub",
-      "stars": 202,
-      "user": "grafana"
-    },
-    {
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
@@ -2518,21 +2412,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
-      "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
-      "published_at": "2026-07-29T09:15:17.000Z",
-      "description": "If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like \"Authorization Server\", \"Bearer Tokens\", \"PKCE\", and \"Implicit Grant\". They might also draw a se",
-      "tags": [
-        "oauth",
-        "backend",
-        "authorization",
-        "authentication"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ashutosh Krishna"
     }
   ],
   "Mobile": [
@@ -2609,21 +2488,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Finally — Hard Caps to Limit Your Google Cloud Spend",
-      "url": "https://dev.to/gde/finally-hard-caps-to-limit-your-google-cloud-spend-1363",
-      "published_at": "2026-07-29T09:49:50Z",
-      "description": "TL;DR   For years, Google Cloud budget alerts were purely informational. They sent an email...",
-      "tags": [
-        "gcpbilling",
-        "finops",
-        "killswitch",
-        "hardcap"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F515%2F0%2AiVRnfe5fulaoeeCu",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Google ADK: Architecture and Essential Components",
@@ -2791,6 +2655,21 @@
       "user": "xbill"
     },
     {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2881,21 +2760,6 @@
       "user": "xbill"
     },
     {
-      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "url": "https://github.com/aws/context-ontology-accelerator",
-      "published_at": "2026-07-28T22:59:24Z",
-      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
-      "source": "GitHub",
-      "stars": 265,
-      "user": "aws"
-    },
-    {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
       "published_at": "2026-08-03T20:00:00.000Z",
@@ -2966,19 +2830,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ubernostrum"
-    },
-    {
-      "title": "Reliability Lessons From SQLite",
-      "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
-      "published_at": "2026-08-03T11:27:45.504-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dgv"
     },
     {
       "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
@@ -3248,21 +3099,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How OAuth 2.0 Works: A Practical Guide for Backend Developers",
-      "url": "https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/",
-      "published_at": "2026-07-29T09:15:17.000Z",
-      "description": "If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like \"Authorization Server\", \"Bearer Tokens\", \"PKCE\", and \"Implicit Grant\". They might also draw a se",
-      "tags": [
-        "oauth",
-        "backend",
-        "authorization",
-        "authentication"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ashutosh Krishna"
     }
   ],
   "Tools": [
@@ -3280,6 +3116,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3408,34 +3274,19 @@
       "user": "pabs3"
     },
     {
-      "title": "xikhar/persona - Bringing real-time voice to life.",
-      "url": "https://github.com/xikhar/persona",
-      "published_at": "2026-07-28T11:40:19Z",
-      "description": "Bringing real-time voice to life.",
+      "title": "x4gKing/3x-ui-multi - GitHub Repository",
+      "url": "https://github.com/x4gKing/3x-ui-multi",
+      "published_at": "2026-08-01T12:34:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/215908419?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 818,
-      "user": "xikhar"
-    },
-    {
-      "title": "0xwilliamortiz/ponytail-improved - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "published_at": "2026-07-28T14:16:19Z",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "0xwilliamortiz"
+      "stars": 561,
+      "user": "x4gKing"
     },
     {
       "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
@@ -3449,38 +3300,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "x4gKing/3x-ui-multi - GitHub Repository",
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "published_at": "2026-08-01T12:34:51Z",
-      "description": "Trending GitHub Repository",
+      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "published_at": "2026-07-31T17:54:30Z",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 554,
-      "user": "x4gKing"
+      "stars": 425,
+      "user": "0xwilliamortiz"
     },
     {
-      "title": "Noniv/snowflow_demo - A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
-      "url": "https://github.com/Noniv/snowflow_demo",
-      "published_at": "2026-07-28T19:01:58Z",
-      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
+      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "published_at": "2026-08-01T15:22:27Z",
+      "description": "Quick profit scalper using flashloan mechanics",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80125277?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 481,
-      "user": "Noniv"
+      "stars": 314,
+      "user": "brookfacehe2421"
+    },
+    {
+      "title": "Kenton-GMI/sakura-crossing - An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "url": "https://github.com/Kenton-GMI/sakura-crossing",
+      "published_at": "2026-07-29T22:06:17Z",
+      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310775475?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "Kenton-GMI"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3494,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "lij768423-svg"
     },
     {
@@ -3509,23 +3375,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 312,
       "user": "Audio8-AI"
     },
     {
-      "title": "H-EmbodVis/TurboVLA - TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-      "url": "https://github.com/H-EmbodVis/TurboVLA",
-      "published_at": "2026-07-28T04:04:22Z",
-      "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "url": "https://github.com/aigclink/geolook",
+      "published_at": "2026-07-29T07:51:43Z",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/217294675?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 300,
-      "user": "H-EmbodVis"
+      "stars": 281,
+      "user": "aigclink"
     },
     {
       "title": "1mm-module/PNGAL - GitHub Repository",
@@ -3539,23 +3405,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 279,
       "user": "1mm-module"
     },
     {
-      "title": "aws/context-ontology-accelerator - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-      "url": "https://github.com/aws/context-ontology-accelerator",
-      "published_at": "2026-07-28T22:59:24Z",
-      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2232217?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 265,
-      "user": "aws"
+      "stars": 260,
+      "user": "Anionex"
     },
     {
       "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
@@ -3573,36 +3439,6 @@
       "user": "codermyxiaoc"
     },
     {
-      "title": "grafana/ai-sdk - Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "url": "https://github.com/grafana/ai-sdk",
-      "published_at": "2026-07-28T21:51:20Z",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7195757?v=4",
-      "source": "GitHub",
-      "stars": 202,
-      "user": "grafana"
-    },
-    {
-      "title": "rogerbush007-a11y/DJOneHub-mac-enhanced - GitHub Repository",
-      "url": "https://github.com/rogerbush007-a11y/DJOneHub-mac-enhanced",
-      "published_at": "2026-07-28T08:54:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/290887177?v=4",
-      "source": "GitHub",
-      "stars": 195,
-      "user": "rogerbush007-a11y"
-    },
-    {
       "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
       "url": "https://github.com/opentokenz/mcpx",
       "published_at": "2026-07-30T08:54:23Z",
@@ -3614,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 165,
       "user": "opentokenz"
     },
     {
@@ -3629,8 +3465,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 155,
       "user": "magicrew"
+    },
+    {
+      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
+      "published_at": "2026-08-01T02:36:14Z",
+      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "source": "GitHub",
+      "stars": 108,
+      "user": "lij768423-svg"
+    },
+    {
+      "title": "YuJunZhiXue/Cline-proxy - 一个使用go写的简略的反代CLine的网关",
+      "url": "https://github.com/YuJunZhiXue/Cline-proxy",
+      "published_at": "2026-07-30T15:48:40Z",
+      "description": "一个使用go写的简略的反代CLine的网关",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
+      "source": "GitHub",
+      "stars": 92,
+      "user": "YuJunZhiXue"
     },
     {
       "title": "yc-software/qm - Multiplayer agent harness for work",
@@ -3644,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 9590,
+      "stars": 9903,
       "user": "yc-software"
     },
     {
@@ -3659,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4245,
+      "stars": 4275,
       "user": "bashalarmistalt"
     },
     {
@@ -3674,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 3211,
+      "stars": 3377,
       "user": "trycompai"
     },
     {
@@ -3689,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1378,
+      "stars": 1455,
       "user": "microsoft"
     },
     {
@@ -3704,23 +3570,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 792,
       "user": "thebuggeddev"
-    },
-    {
-      "title": "gavamedia/deltafin - Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "url": "https://github.com/gavamedia/deltafin",
-      "published_at": "2026-07-28T01:01:23Z",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1783489?v=4",
-      "source": "GitHub",
-      "stars": 657,
-      "user": "gavamedia"
     },
     {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
@@ -3734,23 +3585,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "l00sed"
-    },
-    {
-      "title": "arcships/aimux - Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
-      "url": "https://github.com/arcships/aimux",
-      "published_at": "2026-07-28T04:58:46Z",
-      "description": "Unified LLM access layer in Rust — one API for 325 AI providers. 统一 LLM 服务接入层：一套 API 接入 325 家 AI 服务商。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272712626?v=4",
-      "source": "GitHub",
-      "stars": 152,
-      "user": "arcships"
     },
     {
       "title": "ArchAstro/scopey - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
@@ -3764,8 +3600,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "ArchAstro"
+    },
+    {
+      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+      "published_at": "2026-08-01T08:02:34Z",
+      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "mrpulor-gh"
     },
     {
       "title": "programmersd21/wallr - 🎨 GPU-accelerated animated wallpaper engine for Wayland",
@@ -3779,8 +3630,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192335465?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 70,
       "user": "programmersd21"
+    },
+    {
+      "title": "poxk/Falco - Tiny browser engine written from scratch in Rust.",
+      "url": "https://github.com/poxk/Falco",
+      "published_at": "2026-07-31T20:58:22Z",
+      "description": "Tiny browser engine written from scratch in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
+      "source": "GitHub",
+      "stars": 69,
+      "user": "poxk"
+    },
+    {
+      "title": "Avoiding InvalidIndexError when using xarray.Dataset.sel for time, latitude, and longitude",
+      "url": "https://stackoverflow.com/questions/79990220/avoiding-invalidindexerror-when-using-xarray-dataset-sel-for-time-latitude-and",
+      "published_at": "2026-08-03T23:02:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-xarray",
+        "era5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RockyMountainSB"
     },
     {
       "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
