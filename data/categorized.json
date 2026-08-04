@@ -59,21 +59,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Google ADK: Architecture and Essential Components",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
-      "published_at": "2026-08-02T12:04:38Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -149,6 +134,21 @@
       "user": "John"
     },
     {
+      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
+      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4",
+      "published_at": "2026-08-03T07:31:29Z",
+      "description": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -177,21 +177,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
       "source": "Dev.to",
       "user": "John Bulla"
-    },
-    {
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "published_at": "2026-07-31T11:00:29Z",
-      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "tags": [
-        "rag",
-        "ai",
-        "llm",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -269,6 +254,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google ADK: Architecture and Essential Components",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
+      "published_at": "2026-08-02T12:04:38Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
+    {
       "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
       "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
       "published_at": "2026-07-31T17:44:17Z",
@@ -282,36 +282,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
-      "published_at": "2026-07-30T06:55:16Z",
-      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "tags": [
-        "buildwithai",
-        "antigravity",
-        "docker",
-        "orquestator"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -748,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "0xwilliamortiz"
     },
     {
@@ -763,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 376,
       "user": "sophiamyang"
     },
     {
@@ -778,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "Audio8-AI"
     },
     {
@@ -853,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4411,
+      "stars": 4503,
       "user": "trycompai"
     },
     {
@@ -868,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1226,
+      "stars": 1254,
       "user": "genspark-ai"
     },
     {
@@ -883,24 +853,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 357,
       "user": "HaidarJbeily7"
     },
     {
-      "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
-      "url": "https://stackoverflow.com/questions/79990183/how-to-solve-the-problem-with-none-async-engine-in-sqlalchemy-before-closing-eng",
-      "published_at": "2026-08-03T19:27:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "published_at": "2026-08-04T20:05:26.000Z",
+      "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
       "tags": [
-        "python",
-        "python-3.x",
-        "async-await",
-        "sqlalchemy",
-        "fastapi"
+        "AI",
+        "open source",
+        "Z.ai",
+        "GLM"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "published_at": "2026-08-04T19:48:40.000Z",
+      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "volta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "published_at": "2026-08-04T19:34:34.000Z",
+      "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "published_at": "2026-08-04T19:28:49.000Z",
+      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Security",
+        "cybersecurity",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Waymo opens up robotaxi service in Dallas to everyone",
@@ -945,84 +959,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "published_at": "2026-08-04T15:50:06.000Z",
-      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "music streaming",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "published_at": "2026-08-04T15:42:35.000Z",
-      "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Government & Policy",
-        "data centers",
-        "texas"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-      "published_at": "2026-08-04T15:38:22.000Z",
-      "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
-      "tags": [
-        "Media & Entertainment",
-        "Walmart",
-        "Mergers and Acquisitions",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "published_at": "2026-08-04T15:20:06.000Z",
-      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-      "tags": [
-        "AI",
-        "Transportation",
-        "Elon Musk",
-        "Exclusive",
-        "Tesla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane, Russell Brandom"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "published_at": "2026-08-04T14:03:01.000Z",
-      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "tags": [
-        "AI",
-        "Apple",
-        "lawsuit",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -1291,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 676,
       "user": "x4gKing"
     },
     {
@@ -1306,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "0xwilliamortiz"
     },
     {
@@ -1336,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "0xwilliamortiz"
     },
     {
@@ -1351,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 376,
       "user": "sophiamyang"
     },
     {
@@ -1366,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 339,
       "user": "disler"
     },
     {
@@ -1381,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 11021,
+      "stars": 11067,
       "user": "yc-software"
     },
     {
@@ -1396,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4506,
+      "stars": 4520,
       "user": "bashalarmistalt"
     },
     {
@@ -1411,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4411,
+      "stars": 4503,
       "user": "trycompai"
     },
     {
@@ -1426,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1737,
+      "stars": 1748,
       "user": "microsoft"
     },
     {
@@ -1441,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1226,
+      "stars": 1254,
       "user": "genspark-ai"
     },
     {
@@ -1456,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 923,
       "user": "firecrawl"
     },
     {
@@ -1575,6 +1511,22 @@
       "user": "Heba Allah Hashim"
     },
     {
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
+    },
+    {
       "title": "How do I generate SEO-friendly meta tags in React?",
       "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
       "published_at": "2026-06-03T13:40:37.000Z",
@@ -1587,21 +1539,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aryananda arya"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1832,21 +1769,6 @@
       "user": "lij768423-svg"
     },
     {
-      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
-      "url": "https://github.com/Audio8-AI/Audio8_TTS",
-      "published_at": "2026-07-29T03:58:19Z",
-      "description": "SOTA-Class TTS at Compact Scale",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "Audio8-AI"
-    },
-    {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
       "url": "https://github.com/disler/super-simple-software-factory",
       "published_at": "2026-08-02T17:41:00Z",
@@ -1858,8 +1780,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 339,
       "user": "disler"
+    },
+    {
+      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
+      "url": "https://github.com/Audio8-AI/Audio8_TTS",
+      "published_at": "2026-07-29T03:58:19Z",
+      "description": "SOTA-Class TTS at Compact Scale",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "Audio8-AI"
     },
     {
       "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
@@ -1903,14 +1840,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 923,
       "user": "firecrawl"
+    },
+    {
+      "title": "Why can my to-do list only hold two items?",
+      "url": "https://stackoverflow.com/questions/79990514/why-can-my-to-do-list-only-hold-two-items",
+      "published_at": "2026-08-04T19:52:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "list"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Willow Imam"
+    },
+    {
+      "title": "How to iterate through this table in python?",
+      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
+      "published_at": "2026-08-04T19:22:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user683"
     },
     {
       "title": "How to display a grid of random colors in Pygame rather than a single color?",
       "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
       "published_at": "2026-08-04T18:35:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "tkinter",
@@ -1924,7 +1886,7 @@
       "title": "How to test for subgraph isomorphism using networkx",
       "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
       "published_at": "2026-08-04T15:34:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "networkx",
@@ -1938,7 +1900,7 @@
       "title": "KeyError2 when trying to access dataframe cell",
       "url": "https://stackoverflow.com/questions/79990428/keyerror2-when-trying-to-access-dataframe-cell",
       "published_at": "2026-08-04T14:21:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "pandas",
@@ -1952,7 +1914,7 @@
       "title": "Python subprocess.cwd differs from bash cd",
       "url": "https://stackoverflow.com/questions/79990377/python-subprocess-cwd-differs-from-bash-cd",
       "published_at": "2026-08-04T11:33:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "wordpress",
@@ -1966,7 +1928,7 @@
       "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
       "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
       "published_at": "2026-08-04T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python"
@@ -1974,6 +1936,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shakshyam Shrestha"
+    },
+    {
+      "title": "Avoiding InvalidIndexError when using xarray.Dataset.sel for time, latitude, and longitude",
+      "url": "https://stackoverflow.com/questions/79990220/avoiding-invalidindexerror-when-using-xarray-dataset-sel-for-time-latitude-and",
+      "published_at": "2026-08-03T23:02:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "python-xarray",
+        "era5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RockyMountainSB"
     },
     {
       "title": "How to choose driver option for pyodbc connection?",
@@ -1993,53 +1969,10 @@
       "title": "How to show a pygame window with a tkinter window?",
       "url": "https://stackoverflow.com/questions/79990157/how-to-show-a-pygame-window-with-a-tkinter-window",
       "published_at": "2026-08-03T16:25:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "tkinter",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noreht"
-    },
-    {
-      "title": "Avoiding InvalidIndexError when using xarray.Dataset.sel for time, latitude, and longitude",
-      "url": "https://stackoverflow.com/questions/79990220/avoiding-invalidindexerror-when-using-xarray-dataset-sel-for-time-latitude-and",
-      "published_at": "2026-08-03T23:02:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-xarray",
-        "era5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RockyMountainSB"
-    },
-    {
-      "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
-      "url": "https://stackoverflow.com/questions/79990183/how-to-solve-the-problem-with-none-async-engine-in-sqlalchemy-before-closing-eng",
-      "published_at": "2026-08-03T19:27:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "python-3.x",
-        "async-await",
-        "sqlalchemy",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
-    },
-    {
-      "title": "Random colors in Pygame",
-      "url": "https://stackoverflow.com/questions/79990201/random-colors-in-pygame",
-      "published_at": "2026-08-03T21:15:52.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
-      "tags": [
-        "python",
         "pygame"
       ],
       "cover_image": null,
@@ -2093,21 +2026,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
-      "published_at": "2026-07-30T06:55:16Z",
-      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "tags": [
-        "buildwithai",
-        "antigravity",
-        "docker",
-        "orquestator"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -2358,21 +2276,6 @@
       "user": "NiMuSi"
     },
     {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
-    },
-    {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
       "url": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
       "published_at": "2026-08-03T18:39:33.000Z",
@@ -2435,6 +2338,36 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
+      "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474",
+      "published_at": "2026-08-02T01:34:18Z",
+      "description": "When separate family providers store parameterized network queries as isolated state silos, updating an entity in one subset creates stale data across others. Here is how a normalized mapSignal store fixes it.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a68a1k9wglkhz8ygozl.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Porting 16 BLoC & Signal Benchmark Apps to BlocSignal: Elevating Flutter UX & DX",
+      "url": "https://dev.to/gde/porting-16-bloc-signal-benchmark-apps-to-blocsignal-elevating-flutter-ux-dx-2dnl",
+      "published_at": "2026-08-02T18:21:58Z",
+      "description": "We ported 16 official example apps from felangel/bloc and rodydavis/signals.dart to showcase how BlocSignal simplifies Flutter state management with synchronous frame updates, computed() derivations, and streamless Mutex concurrency.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fazbfkq7ro5fnjh4y9o65.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
       "published_at": "2026-07-27T22:37:30Z",
@@ -2493,6 +2426,36 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cgrinds"
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
+      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "published_at": "2026-08-04T20:26:53.000Z",
+      "description": "Developers may not realize they are sharing their users' location data with advertisers, per new research.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "cybersecurity",
+        "data brokers",
+        "Electronic Frontier Foundation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "published_at": "2026-08-04T19:34:34.000Z",
+      "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     }
   ],
   "Cloud": [
@@ -2510,21 +2473,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Google ADK: Architecture and Essential Components",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
-      "published_at": "2026-08-02T12:04:38Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -2615,6 +2563,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Google ADK: Architecture and Essential Components",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
+      "published_at": "2026-08-02T12:04:38Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
     },
     {
       "title": "Google ADK as the Master Agent, Calling Amazon Bedrock over A2A",
@@ -2782,19 +2745,19 @@
       "user": "xbill"
     },
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "published_at": "2026-08-04T14:03:01.000Z",
-      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "published_at": "2026-08-04T19:48:40.000Z",
+      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
       "tags": [
         "AI",
-        "Apple",
-        "lawsuit",
-        "OpenAI"
+        "Anthropic",
+        "In Brief",
+        "volta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Lucas Ropek"
     },
     {
       "title": "How to Implement HIPAA Technical Safeguards on AWS [Full Handbook]",
@@ -2838,22 +2801,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
-      "url": "https://stackoverflow.com/questions/79990183/how-to-solve-the-problem-with-none-async-engine-in-sqlalchemy-before-closing-eng",
-      "published_at": "2026-08-03T19:27:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "python-3.x",
-        "async-await",
-        "sqlalchemy",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     }
   ],
   "Security": [
@@ -3050,19 +2997,48 @@
       "user": "ewenjo"
     },
     {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Security is Hard, Y’all",
+      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+      "published_at": "2026-08-04T13:31:48.150-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
+        "security"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
+      "source": "Lobste.rs",
+      "user": "kevincox"
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
+      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "published_at": "2026-08-04T20:26:53.000Z",
+      "description": "Developers may not realize they are sharing their users' location data with advertisers, per new research.",
+      "tags": [
+        "Privacy",
+        "Security",
+        "cybersecurity",
+        "data brokers",
+        "Electronic Frontier Foundation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "published_at": "2026-08-04T19:28:49.000Z",
+      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Security",
+        "cybersecurity",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
@@ -3124,21 +3100,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3278,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 676,
       "user": "x4gKing"
     },
     {
@@ -3293,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "0xwilliamortiz"
     },
     {
@@ -3323,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "0xwilliamortiz"
     },
     {
@@ -3338,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 376,
       "user": "sophiamyang"
     },
     {
@@ -3357,21 +3318,6 @@
       "user": "lij768423-svg"
     },
     {
-      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
-      "url": "https://github.com/Audio8-AI/Audio8_TTS",
-      "published_at": "2026-07-29T03:58:19Z",
-      "description": "SOTA-Class TTS at Compact Scale",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "Audio8-AI"
-    },
-    {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
       "url": "https://github.com/disler/super-simple-software-factory",
       "published_at": "2026-08-02T17:41:00Z",
@@ -3383,8 +3329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 339,
       "user": "disler"
+    },
+    {
+      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
+      "url": "https://github.com/Audio8-AI/Audio8_TTS",
+      "published_at": "2026-07-29T03:58:19Z",
+      "description": "SOTA-Class TTS at Compact Scale",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
+      "source": "GitHub",
+      "stars": 338,
+      "user": "Audio8-AI"
     },
     {
       "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
@@ -3503,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 11021,
+      "stars": 11067,
       "user": "yc-software"
     },
     {
@@ -3518,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4506,
+      "stars": 4520,
       "user": "bashalarmistalt"
     },
     {
@@ -3533,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4411,
+      "stars": 4503,
       "user": "trycompai"
     },
     {
@@ -3548,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1737,
+      "stars": 1748,
       "user": "microsoft"
     },
     {
@@ -3563,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1226,
+      "stars": 1254,
       "user": "genspark-ai"
     },
     {
@@ -3578,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 923,
       "user": "firecrawl"
     },
     {
@@ -3593,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 357,
       "user": "HaidarJbeily7"
     },
     {
@@ -3608,8 +3569,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 193,
       "user": "l00sed"
+    },
+    {
+      "title": "poxk/Falco - Tiny browser engine written from scratch in Rust.",
+      "url": "https://github.com/poxk/Falco",
+      "published_at": "2026-07-31T20:58:22Z",
+      "description": "Tiny browser engine written from scratch in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "poxk"
     },
     {
       "title": "ArchAstro/scopey - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
@@ -3627,19 +3603,17 @@
       "user": "ArchAstro"
     },
     {
-      "title": "poxk/Falco - Tiny browser engine written from scratch in Rust.",
-      "url": "https://github.com/poxk/Falco",
-      "published_at": "2026-07-31T20:58:22Z",
-      "description": "Tiny browser engine written from scratch in Rust.",
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "published_at": "2026-08-04T05:51:46.868-05:00",
+      "description": "Changelog: https://github.com/FFmpeg/FFmpeg/blob/n9.0/Changelog",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "graphics",
+        "release"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
-      "source": "GitHub",
-      "stars": 111,
-      "user": "poxk"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "olex"
     },
     {
       "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
@@ -3670,23 +3644,26 @@
       "user": "lvmbdv"
     },
     {
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "published_at": "2026-08-04T05:51:46.868-05:00",
-      "description": "Changelog: https://github.com/FFmpeg/FFmpeg/blob/n9.0/Changelog",
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
-        "graphics",
-        "release"
+        "tooling-recommendation",
+        "javascript",
+        "forms",
+        "recaptcha",
+        "hugo"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "olex"
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
       "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
       "published_at": "2026-08-04T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "tooling-recommendation",
         "python"
@@ -3708,22 +3685,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RockyMountainSB"
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "published_at": "2026-08-04T15:50:06.000Z",
-      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "music streaming",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Implement Privacy by Design in Modern APIs – A Developer's Practical Guide",
