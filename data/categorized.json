@@ -121,6 +121,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
+      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
+      "published_at": "2026-08-02T00:00:06Z",
+      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbwezdzfb2uqm5jryl9qq.png",
+      "source": "Dev.to",
+      "user": "John"
+    },
+    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -299,21 +314,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
@@ -765,7 +765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 352,
       "user": "sophiamyang"
     },
     {
@@ -780,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 334,
       "user": "Audio8-AI"
     },
     {
@@ -795,8 +795,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 308,
       "user": "aigclink"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "Anionex"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -810,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "magicrew"
     },
     {
@@ -825,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 179,
       "user": "opentokenz"
     },
     {
@@ -840,7 +855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4179,
+      "stars": 4315,
       "user": "trycompai"
     },
     {
@@ -855,7 +870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1188,
       "user": "genspark-ai"
     },
     {
@@ -870,23 +885,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 308,
       "user": "HaidarJbeily7"
-    },
-    {
-      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "published_at": "2026-08-01T08:02:34Z",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "mrpulor-gh"
     },
     {
       "title": "How to solve the problem with None async engine in sqlalchemy before closing engine?",
@@ -903,6 +903,83 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV tracking app",
+      "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "published_at": "2026-08-04T17:05:48.000Z",
+      "description": "After TV Time’s shutdown left millions of users searching for an alternative, one of the app’s original founders is back with Bingers, a new TV and movie tracker that revives the social features fans loved while adding support for importing their viewing history.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "TV Time"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets",
+      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "published_at": "2026-08-04T16:27:59.000Z",
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain monitoring firms.",
+      "tags": [
+        "Security",
+        "Bitcoin",
+        "blockchain",
+        "crypto",
+        "cryptocurrency"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "published_at": "2026-08-04T15:50:06.000Z",
+      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "music streaming",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "published_at": "2026-08-04T15:42:35.000Z",
+      "description": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "tags": [
+        "AI",
+        "Climate",
+        "Government & Policy",
+        "data centers",
+        "texas"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "published_at": "2026-08-04T15:38:22.000Z",
+      "description": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+      "tags": [
+        "Media & Entertainment",
+        "Walmart",
+        "Mergers and Acquisitions",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
@@ -968,82 +1045,8 @@
       "user": "Jagmeet Singh"
     },
     {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "published_at": "2026-08-04T13:00:00.000Z",
-      "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "published_at": "2026-08-04T12:00:00.000Z",
-      "description": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
-      "tags": [
-        "AI",
-        "Space",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Bending Spoons to buy Airtable for $1.28B",
-      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-      "published_at": "2026-08-04T11:30:56.000Z",
-      "description": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Acquisitions",
-        "Airtable",
-        "Bending Spoons"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "published_at": "2026-08-03T23:19:50.000Z",
-      "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Alex Karp",
-        "Palantir"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-      "published_at": "2026-08-03T22:10:58.000Z",
-      "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
-      "tags": [
-        "Apps",
-        "Hardware",
-        "Social",
-        "Snap",
-        "Snapchat"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware",
-      "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/",
+      "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/",
       "published_at": "2026-08-03T22:04:49.000Z",
       "description": "If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri",
       "tags": [
@@ -1113,38 +1116,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Build AI Applications That Switch Models Automatically",
-      "url": "https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/",
-      "published_at": "2026-07-29T09:21:57.000Z",
-      "description": "Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop",
-      "tags": [
-        "Artificial Intelligence",
-        "Data Science",
-        "large language models",
-        "agentic AI",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidiebere Njoku"
-    },
-    {
-      "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
-      "url": "https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/",
-      "published_at": "2026-07-29T09:19:03.000Z",
-      "description": "Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Google Antigravity",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Obum"
     }
   ],
   "JavaScript": [
@@ -1355,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 652,
       "user": "x4gKing"
     },
     {
@@ -1415,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 352,
       "user": "sophiamyang"
     },
     {
@@ -1430,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 321,
       "user": "disler"
     },
     {
@@ -1445,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 10890,
+      "stars": 10972,
       "user": "yc-software"
     },
     {
@@ -1460,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4454,
+      "stars": 4480,
       "user": "bashalarmistalt"
     },
     {
@@ -1475,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4179,
+      "stars": 4315,
       "user": "trycompai"
     },
     {
@@ -1490,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1723,
       "user": "microsoft"
     },
     {
@@ -1505,14 +1476,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1188,
       "user": "genspark-ai"
+    },
+    {
+      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "url": "https://github.com/firecrawl/anydoc",
+      "published_at": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "firecrawl"
     },
     {
       "title": "Encoding UTF-8 hex and decoding UTF-8 hex in JavaScript",
       "url": "https://stackoverflow.com/questions/79990418/encoding-utf-8-hex-and-decoding-utf-8-hex-in-javascript",
       "published_at": "2026-08-04T13:53:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "javascript",
@@ -1557,7 +1543,7 @@
       "title": "How do I write a Javascript function to change the source of an iframe?",
       "url": "https://stackoverflow.com/questions/79990239/how-do-i-write-a-javascript-function-to-change-the-source-of-an-iframe",
       "published_at": "2026-08-04T01:52:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript"
       ],
@@ -1874,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 422,
       "user": "lij768423-svg"
     },
     {
@@ -1889,23 +1875,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 334,
       "user": "Audio8-AI"
-    },
-    {
-      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "url": "https://github.com/aigclink/geolook",
-      "published_at": "2026-07-29T07:51:43Z",
-      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
-      "source": "GitHub",
-      "stars": 307,
-      "user": "aigclink"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -1919,29 +1890,73 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 321,
       "user": "disler"
     },
     {
-      "title": "1mm-module/PNGAL - GitHub Repository",
-      "url": "https://github.com/1mm-module/PNGAL",
-      "published_at": "2026-08-01T13:03:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "url": "https://github.com/aigclink/geolook",
+      "published_at": "2026-07-29T07:51:43Z",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 297,
-      "user": "1mm-module"
+      "stars": 308,
+      "user": "aigclink"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "Anionex"
+    },
+    {
+      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "url": "https://github.com/firecrawl/anydoc",
+      "published_at": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "firecrawl"
+    },
+    {
+      "title": "How to test for subgraph isomorphism using networkx",
+      "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
+      "published_at": "2026-08-04T15:34:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "networkx",
+        "graph-theory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Carcophan"
     },
     {
       "title": "KeyError2 when trying to access dataframe cell",
       "url": "https://stackoverflow.com/questions/79990428/keyerror2-when-trying-to-access-dataframe-cell",
       "published_at": "2026-08-04T14:21:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "pandas",
@@ -2064,24 +2079,8 @@
       "user": "jayesh patil"
     },
     {
-      "title": "ImportError: cannot import name 'BuildDependencyInstallError' while compiling Python Kivy 2.1.0 with Buildozer 1.4.0",
-      "url": "https://stackoverflow.com/questions/79989978/importerror-cannot-import-name-builddependencyinstallerror-while-compiling-py",
-      "published_at": "2026-08-03T00:09:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "pip",
-        "importerror",
-        "buildozer",
-        "python-3.10"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Triangle Brannsverberder"
-    },
-    {
-      "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware",
-      "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/",
+      "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/",
       "published_at": "2026-08-03T22:04:49.000Z",
       "description": "If the exact same quantum circuit works perfectly in a simulator, why does it often produce different results on a real quantum computer? That question catches almost every quantum developer by surpri",
       "tags": [
@@ -2109,22 +2108,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Build AI Applications That Switch Models Automatically",
-      "url": "https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/",
-      "published_at": "2026-07-29T09:21:57.000Z",
-      "description": "Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop",
-      "tags": [
-        "Artificial Intelligence",
-        "Data Science",
-        "large language models",
-        "agentic AI",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidiebere Njoku"
     }
   ],
   "DevOps": [
@@ -2536,6 +2519,7 @@
       "tags": [
         "java",
         "kotlin",
+        "vibecoding",
         "vscode"
       ],
       "cover_image": null,
@@ -2845,6 +2829,20 @@
       "user": "Sarah Perez"
     },
     {
+      "title": "How to Implement HIPAA Technical Safeguards on AWS [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-hipaa-technical-safeguards-on-aws-full-handbook/",
+      "published_at": "2026-08-04T13:43:18.000Z",
+      "description": "Before I had ever heard the term \"HIPAA audit\", I spent three days helping a healthcare SaaS startup fix a single misconfigured S3 bucket. Not a breach — nothing was accessed. But the bucket was publi",
+      "tags": [
+        "healthcare",
+        "handbook",
+        "AWS"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
+    },
+    {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
       "published_at": "2026-07-29T14:11:02.000Z",
@@ -2920,21 +2918,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
-    },
-    {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -3097,6 +3080,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets",
+      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "published_at": "2026-08-04T16:27:59.000Z",
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain monitoring firms.",
+      "tags": [
+        "Security",
+        "Bitcoin",
+        "blockchain",
+        "crypto",
+        "cryptocurrency"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3283,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 652,
       "user": "x4gKing"
     },
     {
@@ -3343,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 352,
       "user": "sophiamyang"
     },
     {
@@ -3358,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 422,
       "user": "lij768423-svg"
     },
     {
@@ -3373,23 +3372,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 334,
       "user": "Audio8-AI"
-    },
-    {
-      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "url": "https://github.com/aigclink/geolook",
-      "published_at": "2026-07-29T07:51:43Z",
-      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
-      "source": "GitHub",
-      "stars": 307,
-      "user": "aigclink"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -3403,23 +3387,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 321,
       "user": "disler"
     },
     {
-      "title": "1mm-module/PNGAL - GitHub Repository",
-      "url": "https://github.com/1mm-module/PNGAL",
-      "published_at": "2026-08-01T13:03:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "url": "https://github.com/aigclink/geolook",
+      "published_at": "2026-07-29T07:51:43Z",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 297,
-      "user": "1mm-module"
+      "stars": 308,
+      "user": "aigclink"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "Anionex"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3433,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "magicrew"
     },
     {
@@ -3463,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 179,
       "user": "opentokenz"
     },
     {
@@ -3493,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "YuJunZhiXue"
     },
     {
@@ -3508,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 10890,
+      "stars": 10972,
       "user": "yc-software"
     },
     {
@@ -3523,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4454,
+      "stars": 4480,
       "user": "bashalarmistalt"
     },
     {
@@ -3538,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4179,
+      "stars": 4315,
       "user": "trycompai"
     },
     {
@@ -3553,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1723,
       "user": "microsoft"
     },
     {
@@ -3568,8 +3567,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1188,
       "user": "genspark-ai"
+    },
+    {
+      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "url": "https://github.com/firecrawl/anydoc",
+      "published_at": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "firecrawl"
     },
     {
       "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
@@ -3583,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 308,
       "user": "HaidarJbeily7"
     },
     {
@@ -3598,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 191,
       "user": "l00sed"
     },
     {
@@ -3628,36 +3642,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 107,
       "user": "poxk"
     },
     {
-      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "published_at": "2026-08-01T08:02:34Z",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "mrpulor-gh"
-    },
-    {
-      "title": "Tests for a PDF",
-      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-      "published_at": "2026-08-04T05:23:57.087-05:00",
+      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
+      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+      "published_at": "2026-08-04T08:20:25.341-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "devops",
-        "testing"
+        "java",
+        "kotlin",
+        "vibecoding",
+        "vscode"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "lvmbdv"
+      "user": "cgrinds"
     },
     {
       "title": "FFmpeg 9.0",
@@ -3673,18 +3674,17 @@
       "user": "olex"
     },
     {
-      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
-      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
-      "published_at": "2026-08-04T08:20:25.341-05:00",
+      "title": "Tests for a PDF",
+      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+      "published_at": "2026-08-04T05:23:57.087-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "java",
-        "kotlin",
-        "vscode"
+        "devops",
+        "testing"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "cgrinds"
+      "user": "lvmbdv"
     },
     {
       "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
@@ -3714,6 +3714,22 @@
       "user": "RockyMountainSB"
     },
     {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "published_at": "2026-08-04T15:50:06.000Z",
+      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "music streaming",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "India moves to give its instant payments network a business model",
       "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
       "published_at": "2026-08-04T13:31:17.000Z",
@@ -3730,20 +3746,20 @@
       "user": "Jagmeet Singh"
     },
     {
-      "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
-      "url": "https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/",
-      "published_at": "2026-07-29T09:19:03.000Z",
-      "description": "Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r",
+      "title": "How to Implement Privacy by Design in Modern APIs – A Developer's Practical Guide",
+      "url": "https://www.freecodecamp.org/news/how-to-implement-privacy-by-design-in-modern-apis/",
+      "published_at": "2026-08-04T13:19:06.000Z",
+      "description": "As software developers, we're usually taught to prioritize features like speed, performance, and uptime. When we build APIs, our core concern is making sure data gets from Point A to Point B smoothly.",
       "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "Developer Tools",
-        "Google Antigravity",
-        "Google"
+        "api",
+        "APIs",
+        "privacy",
+        "Design",
+        "Developer Tools"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Obum"
+      "user": "samiatakande"
     }
   ]
 }
