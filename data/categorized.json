@@ -1,6 +1,19 @@
 {
   "AI": [
     {
+      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
+      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
+      "published_at": "2026-08-03T21:51:04Z",
+      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -254,21 +267,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
-      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
-      "published_at": "2026-07-31T06:57:48Z",
-      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
-      "source": "Dev.to",
-      "user": "Meera9"
     },
     {
       "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
@@ -750,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "0xwilliamortiz"
     },
     {
@@ -765,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 369,
       "user": "sophiamyang"
     },
     {
@@ -780,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "Audio8-AI"
     },
     {
@@ -795,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "aigclink"
     },
     {
@@ -825,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 244,
       "user": "magicrew"
     },
     {
@@ -840,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "opentokenz"
     },
     {
@@ -855,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4315,
+      "stars": 4411,
       "user": "trycompai"
     },
     {
@@ -870,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1226,
       "user": "genspark-ai"
     },
     {
@@ -885,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 336,
       "user": "HaidarJbeily7"
     },
     {
@@ -905,10 +903,24 @@
       "user": "Liomtr"
     },
     {
-      "title": "TV Time co-founder launches Bingers to revive the beloved TV tracking app",
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "published_at": "2026-08-04T17:31:01.000Z",
+      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+      "tags": [
+        "Transportation",
+        "robotaxis",
+        "Waymo"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
       "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
       "published_at": "2026-08-04T17:05:48.000Z",
-      "description": "After TV Time’s shutdown left millions of users searching for an alternative, one of the app’s original founders is back with Bingers, a new TV and movie tracker that revives the social features fans loved while adding support for importing their viewing history.",
+      "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
       "tags": [
         "Apps",
         "Media & Entertainment",
@@ -919,16 +931,16 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets",
+      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
       "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
       "published_at": "2026-08-04T16:27:59.000Z",
-      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain monitoring firms.",
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
       "tags": [
         "Security",
         "Bitcoin",
         "blockchain",
-        "crypto",
-        "cryptocurrency"
+        "cryptocurrency",
+        "cybercrime"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1011,38 +1023,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Spotify now has over 300M subscribers",
-      "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-      "published_at": "2026-08-04T13:52:58.000Z",
-      "description": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "In Brief",
-        "music streaming",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "India moves to give its instant payments network a business model",
-      "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-      "published_at": "2026-08-04T13:31:17.000Z",
-      "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
-      "tags": [
-        "Fintech",
-        "Government & Policy",
-        "digital payments",
-        "Google Pay",
-        "PhonePe"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -1163,21 +1143,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
-      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
-      "published_at": "2026-07-31T06:57:48Z",
-      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
-      "source": "Dev.to",
-      "user": "Meera9"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -1326,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 663,
       "user": "x4gKing"
     },
     {
@@ -1341,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "0xwilliamortiz"
     },
     {
@@ -1386,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 369,
       "user": "sophiamyang"
     },
     {
@@ -1401,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 332,
       "user": "disler"
     },
     {
@@ -1416,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 10972,
+      "stars": 11021,
       "user": "yc-software"
     },
     {
@@ -1431,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4480,
+      "stars": 4506,
       "user": "bashalarmistalt"
     },
     {
@@ -1446,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4315,
+      "stars": 4411,
       "user": "trycompai"
     },
     {
@@ -1461,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1737,
       "user": "microsoft"
     },
     {
@@ -1476,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1226,
       "user": "genspark-ai"
     },
     {
@@ -1491,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 701,
       "user": "firecrawl"
     },
     {
@@ -1540,18 +1505,6 @@
       "user": "munHunger"
     },
     {
-      "title": "How do I write a Javascript function to change the source of an iframe?",
-      "url": "https://stackoverflow.com/questions/79990239/how-do-i-write-a-javascript-function-to-change-the-source-of-an-iframe",
-      "published_at": "2026-08-04T01:52:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koshpeli"
-    },
-    {
       "title": "How can I locate an element in a nested div without selecting the outer div?",
       "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
       "published_at": "2026-08-02T21:00:54.000Z",
@@ -1582,7 +1535,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
+      "description": "Stack Overflow question · 3 answers · score -4",
       "tags": [
         "javascript",
         "html"
@@ -1634,6 +1587,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aryananda arya"
+    },
+    {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1860,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "lij768423-svg"
     },
     {
@@ -1875,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "Audio8-AI"
     },
     {
@@ -1890,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 332,
       "user": "disler"
     },
     {
@@ -1905,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "aigclink"
     },
     {
@@ -1935,8 +1903,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 701,
       "user": "firecrawl"
+    },
+    {
+      "title": "How to display a grid of random colors in Pygame rather than a single color?",
+      "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
+      "published_at": "2026-08-04T18:35:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "tkinter",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noreht"
     },
     {
       "title": "How to test for subgraph isomorphism using networkx",
@@ -2063,20 +2045,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "noreht"
-    },
-    {
-      "title": "Can this palindrome-with-one-deletion algorithm be improved beyond my current approach?",
-      "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
-      "published_at": "2026-08-01T18:21:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "advice",
-        "python",
-        "palindrome"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jayesh patil"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2336,21 +2304,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
-      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
-      "published_at": "2026-07-31T06:57:48Z",
-      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
-      "source": "Dev.to",
-      "user": "Meera9"
-    },
-    {
       "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
       "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
       "published_at": "2026-07-28T20:13:36Z",
@@ -2395,7 +2348,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
+      "description": "Stack Overflow question · 3 answers · score -4",
       "tags": [
         "javascript",
         "html"
@@ -2403,6 +2356,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
+    },
+    {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -3082,16 +3050,31 @@
       "user": "ewenjo"
     },
     {
-      "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets",
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
+    },
+    {
+      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
       "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
       "published_at": "2026-08-04T16:27:59.000Z",
-      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain monitoring firms.",
+      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
       "tags": [
         "Security",
         "Bitcoin",
         "blockchain",
-        "crypto",
-        "cryptocurrency"
+        "cryptocurrency",
+        "cybercrime"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3099,6 +3082,19 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
+      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
+      "published_at": "2026-08-03T21:51:04Z",
+      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
       "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
@@ -3282,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 663,
       "user": "x4gKing"
     },
     {
@@ -3297,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "0xwilliamortiz"
     },
     {
@@ -3342,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 369,
       "user": "sophiamyang"
     },
     {
@@ -3357,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "lij768423-svg"
     },
     {
@@ -3372,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 336,
       "user": "Audio8-AI"
     },
     {
@@ -3387,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 332,
       "user": "disler"
     },
     {
@@ -3402,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "aigclink"
     },
     {
@@ -3432,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 244,
       "user": "magicrew"
     },
     {
@@ -3462,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 181,
       "user": "opentokenz"
     },
     {
@@ -3507,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 10972,
+      "stars": 11021,
       "user": "yc-software"
     },
     {
@@ -3522,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4480,
+      "stars": 4506,
       "user": "bashalarmistalt"
     },
     {
@@ -3537,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4315,
+      "stars": 4411,
       "user": "trycompai"
     },
     {
@@ -3552,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1737,
       "user": "microsoft"
     },
     {
@@ -3567,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1226,
       "user": "genspark-ai"
     },
     {
@@ -3582,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 701,
       "user": "firecrawl"
     },
     {
@@ -3597,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 336,
       "user": "HaidarJbeily7"
     },
     {
@@ -3612,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 192,
       "user": "l00sed"
     },
     {
@@ -3627,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 111,
       "user": "ArchAstro"
     },
     {
@@ -3642,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 111,
       "user": "poxk"
     },
     {
@@ -3661,19 +3657,6 @@
       "user": "cgrinds"
     },
     {
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "published_at": "2026-08-04T05:51:46.868-05:00",
-      "description": "Changelog: https://github.com/FFmpeg/FFmpeg/blob/n9.0/Changelog",
-      "tags": [
-        "graphics",
-        "release"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "olex"
-    },
-    {
       "title": "Tests for a PDF",
       "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
       "published_at": "2026-08-04T05:23:57.087-05:00",
@@ -3685,6 +3668,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "lvmbdv"
+    },
+    {
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "published_at": "2026-08-04T05:51:46.868-05:00",
+      "description": "Changelog: https://github.com/FFmpeg/FFmpeg/blob/n9.0/Changelog",
+      "tags": [
+        "graphics",
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "olex"
     },
     {
       "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
@@ -3728,22 +3724,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "India moves to give its instant payments network a business model",
-      "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
-      "published_at": "2026-08-04T13:31:17.000Z",
-      "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
-      "tags": [
-        "Fintech",
-        "Government & Policy",
-        "digital payments",
-        "Google Pay",
-        "PhonePe"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Implement Privacy by Design in Modern APIs – A Developer's Practical Guide",
