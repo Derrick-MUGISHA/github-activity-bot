@@ -14,6 +14,19 @@
       "user": "Sireesha Pulipati"
     },
     {
+      "title": "Kiro Crew: The Next Frontier",
+      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
+      "published_at": "2026-08-04T20:26:01Z",
+      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
+      "source": "Dev.to",
+      "user": "Alvaro Llamojha"
+    },
+    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -733,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 381,
       "user": "sophiamyang"
     },
     {
@@ -748,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "Audio8-AI"
     },
     {
@@ -763,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "aigclink"
     },
     {
@@ -778,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "Anionex"
     },
     {
@@ -823,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4503,
+      "stars": 4568,
       "user": "trycompai"
     },
     {
@@ -838,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1274,
       "user": "genspark-ai"
     },
     {
@@ -855,6 +868,38 @@
       "source": "GitHub",
       "stars": 357,
       "user": "HaidarJbeily7"
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "published_at": "2026-08-04T21:07:26.000Z",
+      "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "tags": [
+        "AI",
+        "Climate",
+        "Space",
+        "Megapack",
+        "SpaceX"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
+      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "published_at": "2026-08-04T20:26:53.000Z",
+      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+      "tags": [
+        "Security",
+        "Privacy",
+        "cybersecurity",
+        "location data",
+        "Electronic Frontier Foundation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
@@ -945,20 +990,20 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-      "published_at": "2026-08-04T16:27:59.000Z",
-      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+      "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
+      "url": "https://www.freecodecamp.org/news/what-does-a-modern-qa-engineer-do/",
+      "published_at": "2026-08-04T18:24:32.000Z",
+      "description": "Ask someone what a QA engineer does, and you'll probably hear a familiar answer: \"They test software and find bugs.\" It's a common perception, and to be fair, finding bugs is an important part of the",
       "tags": [
-        "Security",
-        "Bitcoin",
-        "blockchain",
-        "cryptocurrency",
-        "cybercrime"
+        "Quality Engineering",
+        "Software Testing",
+        "automation testing",
+        "career advice",
+        "QAengineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -1016,22 +1061,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
-      "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
-      "published_at": "2026-07-29T13:27:40.000Z",
-      "description": "For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "JavaScript": [
@@ -1227,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 686,
       "user": "x4gKing"
     },
     {
@@ -1257,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 554,
       "user": "brookfacehe2421"
     },
     {
@@ -1287,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 381,
       "user": "sophiamyang"
     },
     {
@@ -1302,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 343,
       "user": "disler"
     },
     {
@@ -1317,23 +1346,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 11067,
+      "stars": 11090,
       "user": "yc-software"
-    },
-    {
-      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "published_at": "2026-07-30T18:17:54Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
-      "source": "GitHub",
-      "stars": 4520,
-      "user": "bashalarmistalt"
     },
     {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
@@ -1347,8 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4503,
+      "stars": 4568,
       "user": "trycompai"
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "published_at": "2026-07-30T18:17:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
+      "source": "GitHub",
+      "stars": 4527,
+      "user": "bashalarmistalt"
     },
     {
       "title": "microsoft/skill-recorder - Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
@@ -1362,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1751,
       "user": "microsoft"
     },
     {
@@ -1377,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1274,
       "user": "genspark-ai"
     },
     {
@@ -1392,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 1074,
       "user": "firecrawl"
     },
     {
@@ -1780,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 343,
       "user": "disler"
     },
     {
@@ -1795,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "Audio8-AI"
     },
     {
@@ -1810,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "aigclink"
     },
     {
@@ -1825,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "Anionex"
     },
     {
@@ -1840,8 +1869,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 1074,
       "user": "firecrawl"
+    },
+    {
+      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
+      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
+      "published_at": "2026-08-04T21:07:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TheLegend"
     },
     {
       "title": "Why can my to-do list only hold two items?",
@@ -1869,20 +1910,6 @@
       "user": "user683"
     },
     {
-      "title": "How to display a grid of random colors in Pygame rather than a single color?",
-      "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
-      "published_at": "2026-08-04T18:35:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "tkinter",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noreht"
-    },
-    {
       "title": "How to test for subgraph isomorphism using networkx",
       "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
       "published_at": "2026-08-04T15:34:34.000Z",
@@ -1895,6 +1922,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Carcophan"
+    },
+    {
+      "title": "How to display a grid of random colors in Pygame rather than a single color?",
+      "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
+      "published_at": "2026-08-04T18:35:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "tkinter",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noreht"
     },
     {
       "title": "KeyError2 when trying to access dataframe cell",
@@ -1966,20 +2007,6 @@
       "user": "lesnik"
     },
     {
-      "title": "How to show a pygame window with a tkinter window?",
-      "url": "https://stackoverflow.com/questions/79990157/how-to-show-a-pygame-window-with-a-tkinter-window",
-      "published_at": "2026-08-03T16:25:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noreht"
-    },
-    {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/",
       "published_at": "2026-08-03T22:04:49.000Z",
@@ -1993,22 +2020,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Casmir Onyekani"
-    },
-    {
-      "title": "Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python",
-      "url": "https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/",
-      "published_at": "2026-07-29T13:27:40.000Z",
-      "description": "For data science leaders and product managers who are overseeing multi-model gateways, the standard regression approach to measuring model quality is fundamentally flawed. You're running a causal infe",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "DevOps": [
@@ -2431,12 +2442,12 @@
       "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
       "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
       "published_at": "2026-08-04T20:26:53.000Z",
-      "description": "Developers may not realize they are sharing their users' location data with advertisers, per new research.",
+      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
       "tags": [
-        "Privacy",
         "Security",
+        "Privacy",
         "cybersecurity",
-        "data brokers",
+        "location data",
         "Electronic Frontier Foundation"
       ],
       "cover_image": null,
@@ -2636,21 +2647,6 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3012,12 +3008,12 @@
       "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
       "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
       "published_at": "2026-08-04T20:26:53.000Z",
-      "description": "Developers may not realize they are sharing their users' location data with advertisers, per new research.",
+      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
       "tags": [
-        "Privacy",
         "Security",
+        "Privacy",
         "cybersecurity",
-        "data brokers",
+        "location data",
         "Electronic Frontier Foundation"
       ],
       "cover_image": null,
@@ -3039,22 +3035,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-      "published_at": "2026-08-04T16:27:59.000Z",
-      "description": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
-      "tags": [
-        "Security",
-        "Bitcoin",
-        "blockchain",
-        "cryptocurrency",
-        "cybercrime"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3085,21 +3065,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3239,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 686,
       "user": "x4gKing"
     },
     {
@@ -3269,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 554,
       "user": "brookfacehe2421"
     },
     {
@@ -3299,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 381,
       "user": "sophiamyang"
     },
     {
@@ -3329,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 343,
       "user": "disler"
     },
     {
@@ -3344,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "Audio8-AI"
     },
     {
@@ -3359,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "aigclink"
     },
     {
@@ -3374,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "Anionex"
     },
     {
@@ -3434,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "lij768423-svg"
     },
     {
@@ -3464,23 +3429,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 11067,
+      "stars": 11090,
       "user": "yc-software"
-    },
-    {
-      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "published_at": "2026-07-30T18:17:54Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
-      "source": "GitHub",
-      "stars": 4520,
-      "user": "bashalarmistalt"
     },
     {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
@@ -3494,8 +3444,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4503,
+      "stars": 4568,
       "user": "trycompai"
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer - GitHub Repository",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "published_at": "2026-07-30T18:17:54Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
+      "source": "GitHub",
+      "stars": 4527,
+      "user": "bashalarmistalt"
     },
     {
       "title": "microsoft/skill-recorder - Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
@@ -3509,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1751,
       "user": "microsoft"
     },
     {
@@ -3524,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1274,
       "user": "genspark-ai"
     },
     {
@@ -3539,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 1074,
       "user": "firecrawl"
     },
     {
@@ -3584,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 117,
       "user": "poxk"
     },
     {
@@ -3685,6 +3650,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RockyMountainSB"
+    },
+    {
+      "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
+      "url": "https://www.freecodecamp.org/news/what-does-a-modern-qa-engineer-do/",
+      "published_at": "2026-08-04T18:24:32.000Z",
+      "description": "Ask someone what a QA engineer does, and you'll probably hear a familiar answer: \"They test software and find bugs.\" It's a common perception, and to be fair, finding bugs is an important part of the",
+      "tags": [
+        "Quality Engineering",
+        "Software Testing",
+        "automation testing",
+        "career advice",
+        "QAengineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     },
     {
       "title": "How to Implement Privacy by Design in Modern APIs – A Developer's Practical Guide",
