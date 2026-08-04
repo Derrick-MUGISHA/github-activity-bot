@@ -286,21 +286,6 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
-      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
-      "published_at": "2026-07-28T16:14:00Z",
-      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
       "published_at": "2026-07-30T06:55:16Z",
@@ -329,6 +314,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "published_at": "2026-07-20T13:20:24Z",
+      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
+      "tags": [
+        "discuss",
+        "ai",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
+      "source": "Dev.to",
+      "user": "Nazar Boyko"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
@@ -361,6 +376,21 @@
       "user": "xbill"
     },
     {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+      "published_at": "2026-07-30T20:43:23Z",
+      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
+      "tags": [
+        "ai",
+        "rag",
+        "opensource",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
+      "source": "Dev.to",
+      "user": "Giulio D'Erme"
+    },
+    {
       "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
       "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
       "published_at": "2026-07-25T07:43:00Z",
@@ -374,6 +404,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
       "source": "Dev.to",
       "user": "Ankita Virani"
+    },
+    {
+      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
+      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
+      "published_at": "2026-07-31T02:28:26Z",
+      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
@@ -421,21 +466,6 @@
       "user": "xbill"
     },
     {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
-      "source": "Dev.to",
-      "user": "Gemini Team"
-    },
-    {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
       "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
       "published_at": "2026-07-24T12:27:58Z",
@@ -462,6 +492,36 @@
         "google"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
+      "tags": [
+        "agents",
+        "ai",
+        "go",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -509,21 +569,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
-    },
-    {
-      "title": "Theatre Kid to Developer Advocate, None of This Was Planned",
-      "url": "https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje",
-      "published_at": "2026-07-20T16:26:42Z",
-      "description": "I never planned to be in tech.  Growing up in Mumbai, I loved acting. Directing. Theatre. That was my...",
-      "tags": [
-        "career",
-        "beginners",
-        "womenintech",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F70qqk4e0p2qb1vpqsgau.png",
-      "source": "Dev.to",
-      "user": "Rohini Gaonkar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -705,23 +750,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 567,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "Kenton-GMI/sakura-crossing - An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
-      "url": "https://github.com/Kenton-GMI/sakura-crossing",
-      "published_at": "2026-07-29T22:06:17Z",
-      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310775475?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 301,
-      "user": "Kenton-GMI"
+      "stars": 338,
+      "user": "sophiamyang"
     },
     {
       "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
@@ -735,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "Audio8-AI"
     },
     {
@@ -750,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "aigclink"
     },
     {
@@ -765,7 +810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 237,
       "user": "magicrew"
     },
     {
@@ -795,7 +840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4016,
+      "stars": 4179,
       "user": "trycompai"
     },
     {
@@ -810,8 +855,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1145,
       "user": "genspark-ai"
+    },
+    {
+      "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
+      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
+      "published_at": "2026-08-03T12:23:26Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
+      "source": "GitHub",
+      "stars": 234,
+      "user": "HaidarJbeily7"
     },
     {
       "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
@@ -825,7 +885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 100,
       "user": "mrpulor-gh"
     },
     {
@@ -845,13 +905,88 @@
       "user": "Liomtr"
     },
     {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "published_at": "2026-08-04T15:20:06.000Z",
+      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "tags": [
+        "AI",
+        "Transportation",
+        "Elon Musk",
+        "Exclusive",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane, Russell Brandom"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "published_at": "2026-08-04T14:03:01.000Z",
+      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+      "tags": [
+        "AI",
+        "Apple",
+        "lawsuit",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Spotify now has over 300M subscribers",
+      "url": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
+      "published_at": "2026-08-04T13:52:58.000Z",
+      "description": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "In Brief",
+        "music streaming",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "India moves to give its instant payments network a business model",
+      "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "published_at": "2026-08-04T13:31:17.000Z",
+      "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
+      "tags": [
+        "Fintech",
+        "Government & Policy",
+        "digital payments",
+        "Google Pay",
+        "PhonePe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "published_at": "2026-08-04T13:00:00.000Z",
+      "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
       "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
       "published_at": "2026-08-04T12:00:00.000Z",
       "description": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
       "tags": [
-        "Space",
         "AI",
+        "Space",
         "Exclusive"
       ],
       "cover_image": null,
@@ -905,80 +1040,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "published_at": "2026-08-03T20:00:00.000Z",
-      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "tags": [
-        "AI",
-        "Startups",
-        "AWS",
-        "vibe coding"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
-      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "published_at": "2026-08-03T19:45:35.000Z",
-      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
-      "tags": [
-        "Security",
-        "Anthropic",
-        "CFAA",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai, Zack Whittaker"
-    },
-    {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "published_at": "2026-08-03T19:28:57.000Z",
-      "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-      "tags": [
-        "AI",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "published_at": "2026-08-03T19:09:56.000Z",
-      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Social",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "published_at": "2026-08-03T18:43:43.000Z",
-      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Apple",
-        "siri"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware",
@@ -1294,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 637,
       "user": "x4gKing"
     },
     {
@@ -1309,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 567,
       "user": "0xwilliamortiz"
     },
     {
@@ -1339,23 +1400,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "Kenton-GMI/sakura-crossing - An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
-      "url": "https://github.com/Kenton-GMI/sakura-crossing",
-      "published_at": "2026-07-29T22:06:17Z",
-      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310775475?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 301,
-      "user": "Kenton-GMI"
+      "stars": 338,
+      "user": "sophiamyang"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -1369,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 306,
       "user": "disler"
     },
     {
@@ -1384,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 10744,
+      "stars": 10890,
       "user": "yc-software"
     },
     {
@@ -1399,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4420,
+      "stars": 4454,
       "user": "bashalarmistalt"
     },
     {
@@ -1414,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4016,
+      "stars": 4179,
       "user": "trycompai"
     },
     {
@@ -1429,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1696,
       "user": "microsoft"
     },
     {
@@ -1444,22 +1505,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1145,
       "user": "genspark-ai"
     },
     {
-      "title": "Classic scrollbar width getters not working on Firefox",
-      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
-      "published_at": "2026-08-04T08:24:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "Encoding UTF-8 hex and decoding UTF-8 hex in JavaScript",
+      "url": "https://stackoverflow.com/questions/79990418/encoding-utf-8-hex-and-decoding-utf-8-hex-in-javascript",
+      "published_at": "2026-08-04T13:53:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
+        "advice",
         "javascript",
-        "css",
-        "firefox"
+        "utf-8",
+        "utf-16",
+        "utf"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "munHunger"
+      "user": "brogrammer"
     },
     {
       "title": "How to reset ContentControl.Color to default?",
@@ -1477,6 +1540,20 @@
       "user": "Burned"
     },
     {
+      "title": "Classic scrollbar width getters not working on Firefox",
+      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
+      "published_at": "2026-08-04T08:24:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "css",
+        "firefox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "munHunger"
+    },
+    {
       "title": "How do I write a Javascript function to change the source of an iframe?",
       "url": "https://stackoverflow.com/questions/79990239/how-do-i-write-a-javascript-function-to-change-the-source-of-an-iframe",
       "published_at": "2026-08-04T01:52:51.000Z",
@@ -1487,19 +1564,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koshpeli"
-    },
-    {
-      "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
-      "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
-      "published_at": "2026-08-03T13:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "json"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Orc2000"
     },
     {
       "title": "How can I locate an element in a nested div without selecting the outer div?",
@@ -1516,10 +1580,23 @@
       "user": "Adnan Zaman"
     },
     {
+      "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
+      "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
+      "published_at": "2026-08-03T13:09:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Orc2000"
+    },
+    {
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -3",
       "tags": [
         "javascript",
         "html"
@@ -1571,21 +1648,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aryananda arya"
-    },
-    {
-      "title": "'contenteditable' change events",
-      "url": "https://stackoverflow.com/questions/1391278/contenteditable-change-events",
-      "published_at": "2009-09-07T23:15:12.000Z",
-      "description": "Stack Overflow question · 23 answers · score 512",
-      "tags": [
-        "javascript",
-        "jquery",
-        "html",
-        "contenteditable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jourkey"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1812,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "lij768423-svg"
     },
     {
@@ -1827,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "Audio8-AI"
     },
     {
@@ -1842,23 +1904,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "aigclink"
-    },
-    {
-      "title": "1mm-module/PNGAL - GitHub Repository",
-      "url": "https://github.com/1mm-module/PNGAL",
-      "published_at": "2026-08-01T13:03:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
-      "source": "GitHub",
-      "stars": 295,
-      "user": "1mm-module"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -1872,8 +1919,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 306,
       "user": "disler"
+    },
+    {
+      "title": "1mm-module/PNGAL - GitHub Repository",
+      "url": "https://github.com/1mm-module/PNGAL",
+      "published_at": "2026-08-01T13:03:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "1mm-module"
+    },
+    {
+      "title": "KeyError2 when trying to access dataframe cell",
+      "url": "https://stackoverflow.com/questions/79990428/keyerror2-when-trying-to-access-dataframe-cell",
+      "published_at": "2026-08-04T14:21:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user1"
     },
     {
       "title": "Python subprocess.cwd differs from bash cd",
@@ -1893,7 +1969,7 @@
       "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
       "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
       "published_at": "2026-08-04T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "python"
@@ -2002,20 +2078,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Triangle Brannsverberder"
-    },
-    {
-      "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
-      "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
-      "published_at": "2026-08-02T17:04:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "docx",
-        "python-docx"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "beebee"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware",
@@ -2232,6 +2294,19 @@
       "user": "jknupp"
     },
     {
+      "title": "Tests for a PDF",
+      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+      "published_at": "2026-08-04T05:23:57.087-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lvmbdv"
+    },
+    {
       "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
       "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
       "published_at": "2026-08-03T18:15:54.000Z",
@@ -2293,6 +2368,21 @@
       "user": "Meera9"
     },
     {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2322,7 +2412,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score -3",
       "tags": [
         "javascript",
         "html"
@@ -2330,21 +2420,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
-    },
-    {
-      "title": "'contenteditable' change events",
-      "url": "https://stackoverflow.com/questions/1391278/contenteditable-change-events",
-      "published_at": "2009-09-07T23:15:12.000Z",
-      "description": "Stack Overflow question · 23 answers · score 512",
-      "tags": [
-        "javascript",
-        "jquery",
-        "html",
-        "contenteditable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jourkey"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -2409,21 +2484,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Why ValueNotifier Fails at Scale: The Non-Composability Problem (and How Signals Fix It)",
-      "url": "https://dev.to/gde/why-valuenotifier-fails-at-scale-the-non-composability-problem-and-how-signals-fix-it-4dbc",
-      "published_at": "2026-07-28T16:14:00Z",
-      "description": "Discover how signals and BlocSignal eliminate ValueNotifier callback spaghetti, memory leaks, and nested ValueListenableBuilder pyramids in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiqmk49amo1sf4zr44rqn.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
       "published_at": "2026-07-27T22:37:30Z",
@@ -2437,6 +2497,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgh988zqdpj20uqqke84x.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
+      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+      "published_at": "2026-08-04T08:20:25.341-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "java",
+        "kotlin",
+        "vscode"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cgrinds"
     }
   ],
   "Cloud": [
@@ -2726,35 +2830,19 @@
       "user": "xbill"
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "published_at": "2026-08-03T20:00:00.000Z",
-      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "published_at": "2026-08-04T14:03:01.000Z",
+      "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
       "tags": [
         "AI",
-        "Startups",
-        "AWS",
-        "vibe coding"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-      "published_at": "2026-08-03T18:54:09.000Z",
-      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
-      "tags": [
-        "Security",
-        "Advanced Data Protection",
         "Apple",
-        "apple icloud backdoor",
-        "backdoor"
+        "lawsuit",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Kubernetes Operators: A Handbook for Devs",
@@ -2864,19 +2952,19 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l",
-      "published_at": "2026-07-24T14:35:41Z",
-      "description": "Scaling AI Safety Research for a Multi-Agent World  For the past decade, we've focused on making...",
+      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
+      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
+      "published_at": "2026-07-28T05:12:52Z",
+      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
       "tags": [
-        "ai",
         "agents",
-        "security",
-        "google"
+        "ai",
+        "go",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg2x8v43efq92hmur1m3j.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
-      "user": "Gemini Team"
+      "user": "Evan Lin"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3009,38 +3097,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "Who&#8217;s legally to blame for Anthropic and OpenAI&#8217;s autonomous AI hacks? It&#8217;s complicated",
-      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "published_at": "2026-08-03T19:45:35.000Z",
-      "description": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking ",
-      "tags": [
-        "Security",
-        "Anthropic",
-        "CFAA",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai, Zack Whittaker"
-    },
-    {
-      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-      "published_at": "2026-08-03T18:54:09.000Z",
-      "description": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
-      "tags": [
-        "Security",
-        "Advanced Data Protection",
-        "Apple",
-        "apple icloud backdoor",
-        "backdoor"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3135,6 +3191,21 @@
       "user": "xbill"
     },
     {
+      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
+      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
+      "published_at": "2026-07-28T20:13:36Z",
+      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
       "published_at": "2026-07-27T20:54:36Z",
@@ -3163,21 +3234,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
       "source": "Dev.to",
       "user": "Athreya aka Maneshwar"
-    },
-    {
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-      "published_at": "2026-07-06T15:50:31Z",
-      "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-      "tags": [
-        "discuss",
-        "career",
-        "productivity",
-        "mentalhealth"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zw4fbks5as22sh7ixl9.png",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3227,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 637,
       "user": "x4gKing"
     },
     {
@@ -3242,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 567,
       "user": "0xwilliamortiz"
     },
     {
@@ -3272,23 +3328,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "Kenton-GMI/sakura-crossing - An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
-      "url": "https://github.com/Kenton-GMI/sakura-crossing",
-      "published_at": "2026-07-29T22:06:17Z",
-      "description": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets.",
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310775475?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 301,
-      "user": "Kenton-GMI"
+      "stars": 338,
+      "user": "sophiamyang"
     },
     {
       "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
@@ -3302,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 419,
       "user": "lij768423-svg"
     },
     {
@@ -3317,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 330,
       "user": "Audio8-AI"
     },
     {
@@ -3332,23 +3388,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "aigclink"
-    },
-    {
-      "title": "1mm-module/PNGAL - GitHub Repository",
-      "url": "https://github.com/1mm-module/PNGAL",
-      "published_at": "2026-08-01T13:03:29Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
-      "source": "GitHub",
-      "stars": 295,
-      "user": "1mm-module"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -3362,8 +3403,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 306,
       "user": "disler"
+    },
+    {
+      "title": "1mm-module/PNGAL - GitHub Repository",
+      "url": "https://github.com/1mm-module/PNGAL",
+      "published_at": "2026-08-01T13:03:29Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/128996680?v=4",
+      "source": "GitHub",
+      "stars": 297,
+      "user": "1mm-module"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3377,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 237,
       "user": "magicrew"
     },
     {
@@ -3422,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 124,
       "user": "lij768423-svg"
     },
     {
@@ -3437,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "YuJunZhiXue"
     },
     {
@@ -3452,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 10744,
+      "stars": 10890,
       "user": "yc-software"
     },
     {
@@ -3467,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4420,
+      "stars": 4454,
       "user": "bashalarmistalt"
     },
     {
@@ -3482,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4016,
+      "stars": 4179,
       "user": "trycompai"
     },
     {
@@ -3497,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1696,
       "user": "microsoft"
     },
     {
@@ -3512,8 +3568,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1145,
       "user": "genspark-ai"
+    },
+    {
+      "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
+      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
+      "published_at": "2026-08-03T12:23:26Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
+      "source": "GitHub",
+      "stars": 234,
+      "user": "HaidarJbeily7"
     },
     {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
@@ -3527,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 187,
       "user": "l00sed"
     },
     {
@@ -3542,23 +3613,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "ArchAstro"
-    },
-    {
-      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "published_at": "2026-08-01T08:02:34Z",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
-      "source": "GitHub",
-      "stars": 94,
-      "user": "mrpulor-gh"
     },
     {
       "title": "poxk/Falco - Tiny browser engine written from scratch in Rust.",
@@ -3572,29 +3628,69 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 100,
       "user": "poxk"
     },
     {
-      "title": "dtolnay/chapter-tgz - Specially crafted .tar.gz with embedded chapter boundary information",
-      "url": "https://github.com/dtolnay/chapter-tgz",
-      "published_at": "2026-08-01T16:23:37Z",
-      "description": "Specially crafted .tar.gz with embedded chapter boundary information",
+      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+      "published_at": "2026-08-01T08:02:34Z",
+      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1940490?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 81,
-      "user": "dtolnay"
+      "stars": 100,
+      "user": "mrpulor-gh"
+    },
+    {
+      "title": "Tests for a PDF",
+      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+      "published_at": "2026-08-04T05:23:57.087-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lvmbdv"
+    },
+    {
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "published_at": "2026-08-04T05:51:46.868-05:00",
+      "description": "Changelog: https://github.com/FFmpeg/FFmpeg/blob/n9.0/Changelog",
+      "tags": [
+        "graphics",
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "olex"
+    },
+    {
+      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
+      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+      "published_at": "2026-08-04T08:20:25.341-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "java",
+        "kotlin",
+        "vscode"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "cgrinds"
     },
     {
       "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
       "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
       "published_at": "2026-08-04T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "python"
@@ -3618,19 +3714,20 @@
       "user": "RockyMountainSB"
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "published_at": "2026-08-03T20:00:00.000Z",
-      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "title": "India moves to give its instant payments network a business model",
+      "url": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "published_at": "2026-08-04T13:31:17.000Z",
+      "description": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020.",
       "tags": [
-        "AI",
-        "Startups",
-        "AWS",
-        "vibe coding"
+        "Fintech",
+        "Government & Policy",
+        "digital payments",
+        "Google Pay",
+        "PhonePe"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Julie Bort"
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)",
