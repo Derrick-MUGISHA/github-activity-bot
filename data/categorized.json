@@ -297,6 +297,51 @@
       "user": "xbill"
     },
     {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
+      "tags": [
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
+      "tags": [
+        "ai",
+        "security",
+        "architecture",
+        "rag"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
       "published_at": "2026-07-20T13:20:24Z",
@@ -327,19 +372,19 @@
       "user": "Roberto B."
     },
     {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "published_at": "2026-07-31T11:00:29Z",
+      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
       "tags": [
+        "rag",
         "ai",
-        "security",
-        "architecture",
-        "devops"
+        "llm",
+        "bedrock"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
       "source": "Dev.to",
-      "user": "Jitendra Gupta"
+      "user": "Rodrigo Diego"
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -477,6 +522,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+      "published_at": "2026-07-31T06:57:48Z",
+      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
+      "source": "Dev.to",
+      "user": "Meera9"
+    },
+    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -505,51 +565,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "url": "https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6",
-      "published_at": "2026-07-28T11:09:48Z",
-      "description": "There is something timeless about opening a pack of football stickers. You never know which player,...",
-      "tags": [
-        "ai",
-        "nanobanana",
-        "gemini",
-        "promptengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fglx751a5qzlz79m49ies.png",
-      "source": "Dev.to",
-      "user": "Julien Landuré"
-    },
-    {
-      "title": "Context Is King: Rethinking Domain Ownership, Product, and the \"Spec Phase\"",
-      "url": "https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8",
-      "published_at": "2026-07-20T14:05:39Z",
-      "description": "If you’ve spent any time recently writing detailed product requirement documents or meticulously...",
-      "tags": [
-        "discuss",
-        "management",
-        "codequality",
-        "product"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxkv7bbv146fg62l3la27.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 387,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "Audio8-AI"
     },
     {
@@ -795,36 +810,6 @@
       "user": "Anionex"
     },
     {
-      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
-      "url": "https://github.com/magicrew/doc7",
-      "published_at": "2026-08-02T14:03:55Z",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
-      "source": "GitHub",
-      "stars": 244,
-      "user": "magicrew"
-    },
-    {
-      "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
-      "url": "https://github.com/opentokenz/mcpx",
-      "published_at": "2026-07-30T08:54:23Z",
-      "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "opentokenz"
-    },
-    {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
       "published_at": "2026-07-31T21:38:51Z",
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4568,
+      "stars": 4613,
       "user": "trycompai"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1299,
       "user": "genspark-ai"
     },
     {
@@ -868,6 +853,19 @@
       "source": "GitHub",
       "stars": 357,
       "user": "HaidarJbeily7"
+    },
+    {
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "published_at": "2026-08-04T22:18:30.000Z",
+      "description": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+      "tags": [
+        "Startups",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -960,34 +958,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Waymo opens up robotaxi service in Dallas to everyone",
-      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-      "published_at": "2026-08-04T17:31:01.000Z",
-      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
-      "tags": [
-        "Transportation",
-        "robotaxis",
-        "Waymo"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-      "url": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-      "published_at": "2026-08-04T17:05:48.000Z",
-      "description": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "TV Time"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
@@ -1125,6 +1095,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+      "published_at": "2026-07-31T06:57:48Z",
+      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
+      "source": "Dev.to",
+      "user": "Meera9"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1256,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 695,
       "user": "x4gKing"
     },
     {
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 553,
       "user": "brookfacehe2421"
     },
     {
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 387,
       "user": "sophiamyang"
     },
     {
@@ -1331,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 348,
       "user": "disler"
     },
     {
@@ -1346,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 11090,
+      "stars": 11112,
       "user": "yc-software"
     },
     {
@@ -1361,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4568,
+      "stars": 4613,
       "user": "trycompai"
     },
     {
@@ -1376,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4527,
+      "stars": 4533,
       "user": "bashalarmistalt"
     },
     {
@@ -1391,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1751,
+      "stars": 1757,
       "user": "microsoft"
     },
     {
@@ -1406,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1299,
       "user": "genspark-ai"
     },
     {
@@ -1421,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1240,
       "user": "firecrawl"
     },
     {
@@ -1809,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 348,
       "user": "disler"
     },
     {
@@ -1824,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "Audio8-AI"
     },
     {
@@ -1869,8 +1854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1240,
       "user": "firecrawl"
+    },
+    {
+      "title": "Python dataclasses - intercept field assignment",
+      "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
+      "published_at": "2026-08-04T22:18:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pydantic",
+        "metaclass",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jim Garrison"
     },
     {
       "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
@@ -1883,6 +1883,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TheLegend"
+    },
+    {
+      "title": "Pyscript app that opens and saves files locally",
+      "url": "https://stackoverflow.com/questions/79990534/pyscript-app-that-opens-and-saves-files-locally",
+      "published_at": "2026-08-04T21:51:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
     },
     {
       "title": "Why can my to-do list only hold two items?",
@@ -1979,34 +1992,6 @@
       "user": "Shakshyam Shrestha"
     },
     {
-      "title": "Avoiding InvalidIndexError when using xarray.Dataset.sel for time, latitude, and longitude",
-      "url": "https://stackoverflow.com/questions/79990220/avoiding-invalidindexerror-when-using-xarray-dataset-sel-for-time-latitude-and",
-      "published_at": "2026-08-03T23:02:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-xarray",
-        "era5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RockyMountainSB"
-    },
-    {
-      "title": "How to choose driver option for pyodbc connection?",
-      "url": "https://stackoverflow.com/questions/79990205/how-to-choose-driver-option-for-pyodbc-connection",
-      "published_at": "2026-08-03T21:32:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "odbc",
-        "pyodbc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lesnik"
-    },
-    {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware-full-handbook/",
       "published_at": "2026-08-03T22:04:49.000Z",
@@ -2039,19 +2024,19 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
+      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
+      "published_at": "2026-07-30T06:55:16Z",
+      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
       "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
+        "buildwithai",
+        "antigravity",
+        "docker",
+        "orquestator"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
       "source": "Dev.to",
-      "user": "Jitendra Gupta"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2231,6 +2216,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+      "published_at": "2026-07-31T06:57:48Z",
+      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
+      "tags": [
+        "frontend",
+        "javascript",
+        "opensource",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
+      "source": "Dev.to",
+      "user": "Meera9"
     },
     {
       "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
@@ -2651,6 +2651,21 @@
       "user": "xbill"
     },
     {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2722,21 +2737,6 @@
         "31b"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
-      "published_at": "2026-07-27T20:54:36Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2831,17 +2831,17 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
+      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
+      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
+      "published_at": "2026-07-30T06:19:47Z",
+      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
       "tags": [
         "ai",
         "security",
         "architecture",
-        "devops"
+        "rag"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
     },
@@ -3067,6 +3067,36 @@
       "user": "Jitendra Gupta"
     },
     {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "Should I quit IT or just live through the burnout?",
       "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
       "published_at": "2026-07-09T14:44:40Z",
@@ -3080,21 +3110,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
       "source": "Dev.to",
       "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "Beyond System Prompts: Enforcing Policy & Action Boundaries in Enterprise AI Agents",
-      "url": "https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac",
-      "published_at": "2026-07-28T02:21:07Z",
-      "description": "Why prompt-based guardrails fail for AI agents and how to enforce deterministic tool adapter validation, 4-tier risk classification, and HITL gates.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lixubzhequv8ko6k9w7.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -3125,36 +3140,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-microsoft-foundry-on-azure-a-cross-cloud-a2a-benchmark-4h36",
-      "published_at": "2026-07-27T20:54:36Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How terminal-sharing tools put your shell in a browser",
-      "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-      "published_at": "2026-07-26T16:43:17Z",
-      "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fycowu2xt3i11rfbe9qfz.png",
-      "source": "Dev.to",
-      "user": "Athreya aka Maneshwar"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3204,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 695,
       "user": "x4gKing"
     },
     {
@@ -3234,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 553,
       "user": "brookfacehe2421"
     },
     {
@@ -3264,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 387,
       "user": "sophiamyang"
     },
     {
@@ -3294,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 348,
       "user": "disler"
     },
     {
@@ -3309,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "Audio8-AI"
     },
     {
@@ -3343,81 +3328,6 @@
       "user": "Anionex"
     },
     {
-      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
-      "url": "https://github.com/magicrew/doc7",
-      "published_at": "2026-08-02T14:03:55Z",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
-      "source": "GitHub",
-      "stars": 244,
-      "user": "magicrew"
-    },
-    {
-      "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
-      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
-      "published_at": "2026-07-30T03:16:09Z",
-      "description": "sub2api-guardian",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
-      "source": "GitHub",
-      "stars": 223,
-      "user": "codermyxiaoc"
-    },
-    {
-      "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
-      "url": "https://github.com/opentokenz/mcpx",
-      "published_at": "2026-07-30T08:54:23Z",
-      "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "opentokenz"
-    },
-    {
-      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
-      "published_at": "2026-08-01T02:36:14Z",
-      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 125,
-      "user": "lij768423-svg"
-    },
-    {
-      "title": "YuJunZhiXue/Cline-proxy - 一个使用go写的简略的反代CLine的网关",
-      "url": "https://github.com/YuJunZhiXue/Cline-proxy",
-      "published_at": "2026-07-30T15:48:40Z",
-      "description": "一个使用go写的简略的反代CLine的网关",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
-      "source": "GitHub",
-      "stars": 95,
-      "user": "YuJunZhiXue"
-    },
-    {
       "title": "yc-software/qm - Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
       "published_at": "2026-07-29T20:03:08Z",
@@ -3429,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "source": "GitHub",
-      "stars": 11090,
+      "stars": 11112,
       "user": "yc-software"
     },
     {
@@ -3444,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4568,
+      "stars": 4613,
       "user": "trycompai"
     },
     {
@@ -3459,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4527,
+      "stars": 4533,
       "user": "bashalarmistalt"
     },
     {
@@ -3474,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "source": "GitHub",
-      "stars": 1751,
+      "stars": 1757,
       "user": "microsoft"
     },
     {
@@ -3489,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1274,
+      "stars": 1299,
       "user": "genspark-ai"
     },
     {
@@ -3504,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1074,
+      "stars": 1240,
       "user": "firecrawl"
     },
     {
@@ -3581,6 +3491,19 @@
       "user": "olex"
     },
     {
+      "title": "Tests for a PDF",
+      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+      "published_at": "2026-08-04T05:23:57.087-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "testing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lvmbdv"
+    },
+    {
       "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
       "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
       "published_at": "2026-08-04T08:20:25.341-05:00",
@@ -3594,19 +3517,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "cgrinds"
-    },
-    {
-      "title": "Tests for a PDF",
-      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-      "published_at": "2026-08-04T05:23:57.087-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvmbdv"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
@@ -3636,20 +3546,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shakshyam Shrestha"
-    },
-    {
-      "title": "Avoiding InvalidIndexError when using xarray.Dataset.sel for time, latitude, and longitude",
-      "url": "https://stackoverflow.com/questions/79990220/avoiding-invalidindexerror-when-using-xarray-dataset-sel-for-time-latitude-and",
-      "published_at": "2026-08-03T23:02:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-xarray",
-        "era5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RockyMountainSB"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
