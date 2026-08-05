@@ -87,21 +87,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
       "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
       "published_at": "2026-08-02T00:00:06Z",
@@ -280,6 +265,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 521,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 829,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "joeseesun"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 288,
       "user": "Anionex"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "magicrew"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5458,
+      "stars": 5584,
       "user": "trycompai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1620,
       "user": "genspark-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1423,
       "user": "thebuggeddev"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 356,
       "user": "HaidarJbeily7"
     },
     {
@@ -908,6 +908,50 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "j11g"
+    },
+    {
+      "title": "How did you become an expert in Programming before AI",
+      "url": "https://stackoverflow.com/questions/79990682/how-did-you-become-an-expert-in-programming-before-ai",
+      "published_at": "2026-08-05T12:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dominic Mulenga"
+    },
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "published_at": "2026-08-05T12:28:38.000Z",
+      "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Liquid AI",
+        "MacPaw",
+        "offline ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+      "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+      "published_at": "2026-08-05T12:23:52.000Z",
+      "description": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "Robinhood",
+        "Y Combinator"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
@@ -967,22 +1011,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
-      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "published_at": "2026-08-04T20:26:53.000Z",
-      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "tags": [
-        "Security",
-        "Privacy",
-        "cybersecurity",
-        "location data",
-        "Electronic Frontier Foundation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
@@ -1266,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 761,
       "user": "x4gKing"
     },
     {
@@ -1281,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -1311,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 521,
       "user": "sophiamyang"
     },
     {
@@ -1341,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "disler"
     },
     {
@@ -1356,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5458,
+      "stars": 5584,
       "user": "trycompai"
     },
     {
@@ -1371,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4619,
+      "stars": 4631,
       "user": "bashalarmistalt"
     },
     {
@@ -1386,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1620,
       "user": "genspark-ai"
     },
     {
@@ -1401,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1423,
       "user": "thebuggeddev"
     },
     {
@@ -1416,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 615,
       "user": "guillermolg00"
     },
     {
@@ -1431,14 +1459,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 2857,
+      "stars": 3131,
       "user": "firecrawl"
     },
     {
       "title": "Javascript generator only running through one array",
       "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
       "published_at": "2026-08-05T05:53:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "arrays",
@@ -1790,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 829,
       "user": "KKKKhazix"
     },
     {
@@ -1805,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "disler"
     },
     {
@@ -1820,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "joeseesun"
     },
     {
@@ -1835,23 +1863,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 288,
       "user": "Anionex"
     },
     {
-      "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
-      "url": "https://github.com/0rangec3t/Black-cat",
-      "published_at": "2026-07-30T03:42:47Z",
-      "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "title": "alexan0618/zkky - 直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "published_at": "2026-08-03T12:57:22Z",
+      "description": "直卡开源",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
       "source": "GitHub",
-      "stars": 258,
-      "user": "0rangec3t"
+      "stars": 259,
+      "user": "alexan0618"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1865,14 +1893,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 2857,
+      "stars": 3131,
       "user": "firecrawl"
+    },
+    {
+      "title": "How did you become an expert in Programming before AI",
+      "url": "https://stackoverflow.com/questions/79990682/how-did-you-become-an-expert-in-programming-before-ai",
+      "published_at": "2026-08-05T12:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dominic Mulenga"
     },
     {
       "title": "https://0a5f00c4049f77c68052daf300f2001f.web-security-academy.net/",
       "url": "https://stackoverflow.com/questions/79990669/https-0a5f00c4049f77c68052daf300f2001f-web-security-academy-net",
       "published_at": "2026-08-05T11:17:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "security",
@@ -1881,6 +1922,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ashutosh Das"
+    },
+    {
+      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
+      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
+      "published_at": "2026-08-05T11:32:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "couchdb",
+        "freeze",
+        "couchdb-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sven"
     },
     {
       "title": "Adjusting time and space complexity of array manipulation",
@@ -1974,34 +2030,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Willow Imam"
-    },
-    {
-      "title": "How to test for subgraph isomorphism using networkx",
-      "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
-      "published_at": "2026-08-04T15:34:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "networkx",
-        "graph-theory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Carcophan"
-    },
-    {
-      "title": "How to display a grid of random colors in Pygame rather than a single color?",
-      "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
-      "published_at": "2026-08-04T18:35:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "tkinter",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noreht"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2420,22 +2448,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
-      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "published_at": "2026-08-04T20:26:53.000Z",
-      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "tags": [
-        "Security",
-        "Privacy",
-        "cybersecurity",
-        "location data",
-        "Electronic Frontier Foundation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Cloud": [
@@ -2616,21 +2628,6 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2947,7 +2944,7 @@
       "title": "https://0a5f00c4049f77c68052daf300f2001f.web-security-academy.net/",
       "url": "https://stackoverflow.com/questions/79990669/https-0a5f00c4049f77c68052daf300f2001f-web-security-academy-net",
       "published_at": "2026-08-05T11:17:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "security",
@@ -2956,22 +2953,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ashutosh Das"
-    },
-    {
-      "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
-      "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-      "published_at": "2026-08-04T20:26:53.000Z",
-      "description": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
-      "tags": [
-        "Security",
-        "Privacy",
-        "cybersecurity",
-        "location data",
-        "Electronic Frontier Foundation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3002,21 +2983,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -3126,7 +3092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 761,
       "user": "x4gKing"
     },
     {
@@ -3141,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "0xwilliamortiz"
     },
     {
@@ -3171,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 521,
       "user": "sophiamyang"
     },
     {
@@ -3201,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 829,
       "user": "KKKKhazix"
     },
     {
@@ -3216,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "disler"
     },
     {
@@ -3231,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "joeseesun"
     },
     {
@@ -3246,23 +3212,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 288,
       "user": "Anionex"
     },
     {
-      "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
-      "url": "https://github.com/0rangec3t/Black-cat",
-      "published_at": "2026-07-30T03:42:47Z",
-      "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "title": "alexan0618/zkky - 直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "published_at": "2026-08-03T12:57:22Z",
+      "description": "直卡开源",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
       "source": "GitHub",
-      "stars": 258,
-      "user": "0rangec3t"
+      "stars": 259,
+      "user": "alexan0618"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3276,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "magicrew"
     },
     {
@@ -3351,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5458,
+      "stars": 5584,
       "user": "trycompai"
     },
     {
@@ -3366,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4619,
+      "stars": 4631,
       "user": "bashalarmistalt"
     },
     {
@@ -3381,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1620,
       "user": "genspark-ai"
     },
     {
@@ -3396,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1423,
       "user": "thebuggeddev"
     },
     {
@@ -3411,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 615,
       "user": "guillermolg00"
     },
     {
@@ -3426,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 2857,
+      "stars": 3131,
       "user": "firecrawl"
     },
     {
@@ -3441,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 356,
       "user": "HaidarJbeily7"
     },
     {
@@ -3456,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 205,
       "user": "l00sed"
     },
     {
@@ -3471,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 180,
       "user": "cristicretu"
     },
     {
@@ -3486,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 126,
       "user": "poxk"
     },
     {
