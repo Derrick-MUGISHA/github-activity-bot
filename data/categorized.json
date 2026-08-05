@@ -117,21 +117,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
-      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4",
-      "published_at": "2026-08-03T07:31:29Z",
-      "description": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Catbot: Custom Grammar Problem Fixed",
       "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
       "published_at": "2026-08-01T16:03:02Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
+      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4",
+      "published_at": "2026-08-03T07:31:29Z",
+      "description": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 551,
       "user": "sophiamyang"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1001,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 510,
       "user": "Binaryify"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "magicrew"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6010,
+      "stars": 6074,
       "user": "trycompai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1746,
       "user": "genspark-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1563,
       "user": "thebuggeddev"
     },
     {
@@ -922,6 +922,37 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "j11g"
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "published_at": "2026-08-05T20:05:00.000Z",
+      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "tags": [
+        "Startups",
+        "AI",
+        "M&A",
+        "exit",
+        "Klaviyo"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "published_at": "2026-08-05T19:30:19.000Z",
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "tags": [
+        "AI",
+        "DeepMind",
+        "Google",
+        "Jeff Dean"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Reddit aims to make &#8216;karma&#8217; less important for first-time posters with shift to AI moderation tools",
@@ -996,22 +1027,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
-      "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
-      "published_at": "2026-08-05T14:40:13.000Z",
-      "description": "Climate nonprofits can again access their federal funding more than a year after the Trump EPA ordered Citibank to freeze their accounts.",
-      "tags": [
-        "Climate",
-        "Government & Policy",
-        "Environmental Protection Agency",
-        "inflation reduction act",
-        "one big beautiful bill"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
@@ -1297,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 804,
       "user": "x4gKing"
     },
     {
@@ -1342,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 551,
       "user": "sophiamyang"
     },
     {
@@ -1372,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "disler"
     },
     {
@@ -1387,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6010,
+      "stars": 6074,
       "user": "trycompai"
     },
     {
@@ -1402,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4668,
+      "stars": 4676,
       "user": "bashalarmistalt"
     },
     {
@@ -1417,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1746,
       "user": "genspark-ai"
     },
     {
@@ -1432,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1563,
       "user": "thebuggeddev"
     },
     {
@@ -1447,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 680,
       "user": "guillermolg00"
     },
     {
@@ -1462,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4326,
+      "stars": 4523,
       "user": "firecrawl"
     },
     {
@@ -1556,19 +1571,6 @@
       "user": "Adnan Zaman"
     },
     {
-      "title": "Javascript innerText not replacing existing text",
-      "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
-      "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NiMuSi"
-    },
-    {
       "title": "How to test Vue ripple directive has been used?",
       "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
       "published_at": "2026-07-31T20:17:36.000Z",
@@ -1615,6 +1617,21 @@
       "user": "Aryananda arya"
     },
     {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
+    },
+    {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
       "url": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
       "published_at": "2026-08-03T18:39:33.000Z",
@@ -1659,21 +1676,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1839,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1001,
       "user": "KKKKhazix"
     },
     {
@@ -1854,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 510,
       "user": "Binaryify"
     },
     {
@@ -1869,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "disler"
     },
     {
@@ -1914,14 +1916,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4326,
+      "stars": 4523,
       "user": "firecrawl"
     },
     {
       "title": "How to solve verify traffic error for web scraping",
       "url": "https://stackoverflow.com/questions/79990794/how-to-solve-verify-traffic-error-for-web-scraping",
       "published_at": "2026-08-05T18:20:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "web-scraping",
@@ -1945,21 +1947,6 @@
       "user": "mxbndwld"
     },
     {
-      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
-      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
-      "published_at": "2026-08-05T11:32:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "couchdb",
-        "freeze",
-        "couchdb-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sven"
-    },
-    {
       "title": "I need the path of the file that is invoking the launch of my Python application",
       "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
       "published_at": "2026-08-05T05:48:15.000Z",
@@ -1976,17 +1963,19 @@
       "user": "Jeex"
     },
     {
-      "title": "Adjusting time and space complexity of array manipulation",
-      "url": "https://stackoverflow.com/questions/79990563/adjusting-time-and-space-complexity-of-array-manipulation",
-      "published_at": "2026-08-05T03:02:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
+      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
+      "published_at": "2026-08-05T11:32:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "arrays"
+        "couchdb",
+        "freeze",
+        "couchdb-python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sunhrit Paria"
+      "user": "Sven"
     },
     {
       "title": "Python dataclasses - intercept field assignment",
@@ -2002,6 +1991,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jim Garrison"
+    },
+    {
+      "title": "Adjusting time and space complexity of array manipulation",
+      "url": "https://stackoverflow.com/questions/79990563/adjusting-time-and-space-complexity-of-array-manipulation",
+      "published_at": "2026-08-05T03:02:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "arrays"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sunhrit Paria"
     },
     {
       "title": "How to iterate through this table in python?",
@@ -2280,20 +2282,6 @@
       "user": "velmu"
     },
     {
-      "title": "we finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
-      "published_at": "2026-08-04T17:21:07.387-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers",
-        "css",
-        "design"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seg6"
-    },
-    {
       "title": "Classic scrollbar width getters not working on Firefox",
       "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
       "published_at": "2026-08-04T08:24:42.000Z",
@@ -2308,17 +2296,19 @@
       "user": "munHunger"
     },
     {
-      "title": "Javascript innerText not replacing existing text",
-      "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
-      "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -5",
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
-        "html"
+        "security",
+        "iframe",
+        "sanitization"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NiMuSi"
+      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -2606,21 +2596,6 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-bedrock-a2a-currency%2Fmain%2Fdevto-cover-adk-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
-      "published_at": "2026-07-15T13:04:39Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "python",
-        "tpu",
-        "antigravitycli",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2950,6 +2925,21 @@
       "user": "kevincox"
     },
     {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
+    },
+    {
       "title": "PSA: Apple’s Private Relay can leak your real IP address",
       "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
       "published_at": "2026-08-05T16:52:29.000Z",
@@ -3118,7 +3108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 804,
       "user": "x4gKing"
     },
     {
@@ -3163,7 +3153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 551,
       "user": "sophiamyang"
     },
     {
@@ -3193,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1001,
       "user": "KKKKhazix"
     },
     {
@@ -3208,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 510,
       "user": "Binaryify"
     },
     {
@@ -3223,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 412,
       "user": "disler"
     },
     {
@@ -3268,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "magicrew"
     },
     {
@@ -3343,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6010,
+      "stars": 6074,
       "user": "trycompai"
     },
     {
@@ -3358,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4668,
+      "stars": 4676,
       "user": "bashalarmistalt"
     },
     {
@@ -3373,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1732,
+      "stars": 1746,
       "user": "genspark-ai"
     },
     {
@@ -3388,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1543,
+      "stars": 1563,
       "user": "thebuggeddev"
     },
     {
@@ -3403,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 680,
       "user": "guillermolg00"
     },
     {
@@ -3418,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4326,
+      "stars": 4523,
       "user": "firecrawl"
     },
     {
@@ -3463,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 199,
       "user": "cristicretu"
     },
     {
@@ -3478,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "poxk"
     },
     {
