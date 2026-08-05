@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-05 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-05 13:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -102,18 +102,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 8 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
 | 9 | [Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI](https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m) | Dev.to |
 | 10 | [Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics](https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585) | Dev.to |
-| 11 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
-| 12 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
+| 11 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
+| 12 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
 | 13 | [Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark](https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4) | Dev.to |
-| 14 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
-| 15 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
-| 16 | [Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474) | Dev.to |
-| 17 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
+| 14 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
+| 15 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
+| 16 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
+| 17 | [Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474) | Dev.to |
 | 18 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
 | 19 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
 | 20 | [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) | Dev.to |
 
-<sub>Last fetched: Wed, 05 Aug 2026 11:13:38 CAT</sub>
+<sub>Last fetched: Wed, 05 Aug 2026 13:34:16 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What are closures and provide a practical example?**
+**1. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**2. `SystemDesign` — How would you design a rate limiter?**
+**2. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**3. `Database` — Design a database schema for a social media platform**
+**3. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -168,11 +168,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 1 | 0.5% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,31 +194,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.2%
-JavaScript      ██████████████████████████ 24.4%
-Java            █████████████████████ 19.9%
-Python          █████████████████████ 19.9%
-Rust            █████ 5.1%
-Kotlin          ██ 1.9%
-Swift           █ 0.6%
+Go              ██████████████████████████████ 27.9%
+JavaScript      ███████████████████████████ 24.7%
+Java            ██████████████████████ 20.1%
+Python          ██████████████████████ 20.1%
+Rust            ██████ 5.2%
+Kotlin          █ 1.3%
+CSharp          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 44
+    "Go" : 43
     "JavaScript" : 38
     "Java" : 31
     "Python" : 31
     "Rust" : 8
-    "Kotlin" : 3
-    "Swift" : 1
+    "Kotlin" : 2
+    "CSharp" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 05 Aug 2026 09:13:38 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 05 Aug 2026 11:34:16 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
