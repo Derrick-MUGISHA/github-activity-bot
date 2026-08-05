@@ -87,21 +87,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
-      "published_at": "2026-07-28T14:00:00Z",
-      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
-      "tags": [
-        "temporal",
-        "codesamples",
-        "industryevents",
-        "durableexecution"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
-      "source": "Dev.to",
-      "user": "Shy Ruparel"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 462,
       "user": "sophiamyang"
     },
     {
@@ -776,14 +761,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 295,
       "user": "joeseesun"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "title": "Anionex/codex-vision-proxy - 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
       "url": "https://github.com/Anionex/codex-vision-proxy",
       "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "description": "给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
       "tags": [
         "python",
         "github",
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "Anionex"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 359,
       "user": "magicrew"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4887,
+      "stars": 5078,
       "user": "trycompai"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1453,
       "user": "genspark-ai"
     },
     {
@@ -866,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1300,
       "user": "thebuggeddev"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "HaidarJbeily7"
     },
     {
@@ -895,18 +880,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "j11g"
-    },
-    {
-      "title": "How Websites Can Sustain Themselves in an AI-Driven World: Advanced Developer Tips on AI-Driven Revenue Models",
-      "url": "https://stackoverflow.com/questions/79990557/how-websites-can-sustain-themselves-in-an-ai-driven-world-advanced-developer-ti",
-      "published_at": "2026-08-05T01:03:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32874482"
     },
     {
       "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
@@ -1295,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 714,
       "user": "x4gKing"
     },
     {
@@ -1310,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "0xwilliamortiz"
     },
     {
@@ -1340,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 462,
       "user": "sophiamyang"
     },
     {
@@ -1370,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 364,
       "user": "disler"
     },
     {
@@ -1385,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4887,
+      "stars": 5078,
       "user": "trycompai"
     },
     {
@@ -1400,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4568,
+      "stars": 4581,
       "user": "bashalarmistalt"
     },
     {
@@ -1415,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1453,
       "user": "genspark-ai"
     },
     {
@@ -1430,23 +1403,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1300,
       "user": "thebuggeddev"
     },
     {
-      "title": "ddoemonn/interior - micro-interactions for react, built for the half-second after a click",
-      "url": "https://github.com/ddoemonn/interior",
-      "published_at": "2026-07-30T18:20:18Z",
-      "description": "micro-interactions for react, built for the half-second after a click",
+      "title": "guillermolg00/morphicons - Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "url": "https://github.com/guillermolg00/morphicons",
+      "published_at": "2026-08-01T08:15:09Z",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 485,
-      "user": "ddoemonn"
+      "stars": 498,
+      "user": "guillermolg00"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1460,8 +1433,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1833,
+      "stars": 2208,
       "user": "firecrawl"
+    },
+    {
+      "title": "Javascript generator only running through one array",
+      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
+      "published_at": "2026-08-05T05:53:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "arrays",
+        "random",
+        "text"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Explorer"
     },
     {
       "title": "Encoding UTF-8 hex and decoding UTF-8 hex in JavaScript",
@@ -1593,21 +1581,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aryananda arya"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1819,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 535,
       "user": "KKKKhazix"
     },
     {
@@ -1834,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 364,
       "user": "disler"
     },
     {
@@ -1849,14 +1822,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 295,
       "user": "joeseesun"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "title": "Anionex/codex-vision-proxy - 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
       "url": "https://github.com/Anionex/codex-vision-proxy",
       "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "description": "给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
       "tags": [
         "python",
         "github",
@@ -1864,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "Anionex"
     },
     {
@@ -1894,14 +1867,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1833,
+      "stars": 2208,
       "user": "firecrawl"
     },
     {
-      "title": "Require help for adjusting time and space complexity of array manipulation problem",
-      "url": "https://stackoverflow.com/questions/79990563/require-help-for-adjusting-time-and-space-complexity-of-array-manipulation-probl",
+      "title": "Adjusting time and space complexity of array manipulation",
+      "url": "https://stackoverflow.com/questions/79990563/adjusting-time-and-space-complexity-of-array-manipulation",
       "published_at": "2026-08-05T03:02:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "arrays"
@@ -1909,18 +1882,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sunhrit Paria"
-    },
-    {
-      "title": "How Websites Can Sustain Themselves in an AI-Driven World: Advanced Developer Tips on AI-Driven Revenue Models",
-      "url": "https://stackoverflow.com/questions/79990557/how-websites-can-sustain-themselves-in-an-ai-driven-world-advanced-developer-ti",
-      "published_at": "2026-08-05T01:03:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32874482"
     },
     {
       "title": "Python dataclasses - intercept field assignment",
@@ -1951,19 +1912,6 @@
       "user": "Willow Imam"
     },
     {
-      "title": "Pyscript app that opens and saves files locally",
-      "url": "https://stackoverflow.com/questions/79990534/pyscript-app-that-opens-and-saves-files-locally",
-      "published_at": "2026-08-04T21:51:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
-    },
-    {
       "title": "How to test for subgraph isomorphism using networkx",
       "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
       "published_at": "2026-08-04T15:34:34.000Z",
@@ -1978,16 +1926,17 @@
       "user": "Carcophan"
     },
     {
-      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
-      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
-      "published_at": "2026-08-04T21:07:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Pyscript app that opens and saves files locally",
+      "url": "https://stackoverflow.com/questions/79990534/pyscript-app-that-opens-and-saves-files-locally",
+      "published_at": "2026-08-04T21:51:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "pyscript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "TheLegend"
+      "user": "Pfalbaum"
     },
     {
       "title": "How to iterate through this table in python?",
@@ -2000,6 +1949,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user683"
+    },
+    {
+      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
+      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
+      "published_at": "2026-08-04T21:07:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TheLegend"
     },
     {
       "title": "How to display a grid of random colors in Pygame rather than a single color?",
@@ -2028,6 +1989,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user1"
+    },
+    {
+      "title": "Python subprocess.cwd differs from bash cd",
+      "url": "https://stackoverflow.com/questions/79990377/python-subprocess-cwd-differs-from-bash-cd",
+      "published_at": "2026-08-04T11:33:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "wordpress",
+        "subprocess"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "npr_se"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2197,19 +2172,6 @@
       "user": "jknupp"
     },
     {
-      "title": "Tests for a PDF",
-      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-      "published_at": "2026-08-04T05:23:57.087-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvmbdv"
-    },
-    {
       "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
       "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
       "published_at": "2026-08-03T18:15:54.000Z",
@@ -2283,6 +2245,20 @@
       "user": "velmu"
     },
     {
+      "title": "we finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "published_at": "2026-08-04T17:21:07.387-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "browsers",
+        "css",
+        "design"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "seg6"
+    },
+    {
       "title": "Classic scrollbar width getters not working on Firefox",
       "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
       "published_at": "2026-08-04T08:24:42.000Z",
@@ -2308,21 +2284,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -3013,21 +2974,6 @@
       "user": "kevincox"
     },
     {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
-    },
-    {
       "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
       "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
       "published_at": "2026-08-04T20:26:53.000Z",
@@ -3212,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 714,
       "user": "x4gKing"
     },
     {
@@ -3227,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "0xwilliamortiz"
     },
     {
@@ -3257,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 462,
       "user": "sophiamyang"
     },
     {
@@ -3287,7 +3233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 535,
       "user": "KKKKhazix"
     },
     {
@@ -3302,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 364,
       "user": "disler"
     },
     {
@@ -3317,14 +3263,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 295,
       "user": "joeseesun"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "title": "Anionex/codex-vision-proxy - 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
       "url": "https://github.com/Anionex/codex-vision-proxy",
       "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "description": "给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
       "tags": [
         "python",
         "github",
@@ -3332,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 277,
       "user": "Anionex"
     },
     {
@@ -3362,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 359,
       "user": "magicrew"
     },
     {
@@ -3437,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4887,
+      "stars": 5078,
       "user": "trycompai"
     },
     {
@@ -3452,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4568,
+      "stars": 4581,
       "user": "bashalarmistalt"
     },
     {
@@ -3467,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1396,
+      "stars": 1453,
       "user": "genspark-ai"
     },
     {
@@ -3482,23 +3428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1300,
       "user": "thebuggeddev"
     },
     {
-      "title": "ddoemonn/interior - micro-interactions for react, built for the half-second after a click",
-      "url": "https://github.com/ddoemonn/interior",
-      "published_at": "2026-07-30T18:20:18Z",
-      "description": "micro-interactions for react, built for the half-second after a click",
+      "title": "guillermolg00/morphicons - Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "url": "https://github.com/guillermolg00/morphicons",
+      "published_at": "2026-08-01T08:15:09Z",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 485,
-      "user": "ddoemonn"
+      "stars": 498,
+      "user": "guillermolg00"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -3512,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1833,
+      "stars": 2208,
       "user": "firecrawl"
     },
     {
@@ -3527,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 358,
       "user": "HaidarJbeily7"
     },
     {
@@ -3542,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 199,
       "user": "l00sed"
     },
     {
@@ -3557,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 148,
       "user": "cristicretu"
     },
     {
@@ -3572,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "poxk"
     },
     {
@@ -3587,19 +3533,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "olex"
-    },
-    {
-      "title": "Tests for a PDF",
-      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
-      "published_at": "2026-08-04T05:23:57.087-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvmbdv"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
