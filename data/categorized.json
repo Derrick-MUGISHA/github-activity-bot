@@ -282,6 +282,21 @@
       "user": "xbill"
     },
     {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -522,34 +537,19 @@
       "user": "Meera9"
     },
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
+      "published_at": "2026-07-28T14:00:00Z",
+      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
       "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
+        "temporal",
+        "codesamples",
+        "industryevents",
+        "durableexecution"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Shy Ruparel"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 539,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 981,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 444,
       "user": "Binaryify"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "joeseesun"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 299,
       "user": "Anionex"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "magicrew"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "opentokenz"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5782,
+      "stars": 5893,
       "user": "trycompai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1702,
       "user": "genspark-ai"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1478,
+      "stars": 1512,
       "user": "thebuggeddev"
     },
     {
@@ -896,7 +896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "HaidarJbeily7"
     },
     {
@@ -937,6 +937,35 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Yogthos"
+    },
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "published_at": "2026-08-05T15:56:14.000Z",
+      "description": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Shopify",
+        "AI search"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "published_at": "2026-08-05T15:46:27.000Z",
+      "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "tags": [
+        "AI",
+        "ai agent",
+        "browser agent"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
@@ -1001,52 +1030,6 @@
       "user": "Lauren Forristal"
     },
     {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "published_at": "2026-08-05T12:28:38.000Z",
-      "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Liquid AI",
-        "MacPaw",
-        "offline ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-      "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
-      "published_at": "2026-08-05T12:23:52.000Z",
-      "description": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "Robinhood",
-        "Y Combinator"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
-      "url": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
-      "published_at": "2026-08-05T11:26:00.000Z",
-      "description": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
-      "tags": [
-        "Fundraising",
-        "Transportation",
-        "electric vehilces",
-        "river"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
       "url": "https://www.freecodecamp.org/news/what-does-a-modern-qa-engineer-do/",
       "published_at": "2026-08-04T18:24:32.000Z",
@@ -1105,19 +1088,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Agentic AI using LangGraph – Build AI Agents & Automate Workflows",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/",
-      "published_at": "2026-07-30T14:40:30.000Z",
-      "description": "We are rapidly moving past standard, single-prompt Large Language Models and entering the era of autonomous AI agents. To help you master this new paradigm, we have just published a massive, comprehen",
-      "tags": [
-        "agentic AI",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1343,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 784,
       "user": "x4gKing"
     },
     {
@@ -1358,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -1373,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "brookfacehe2421"
     },
     {
@@ -1388,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 539,
       "user": "sophiamyang"
     },
     {
@@ -1418,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 406,
       "user": "disler"
     },
     {
@@ -1433,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5782,
+      "stars": 5893,
       "user": "trycompai"
     },
     {
@@ -1448,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4648,
+      "stars": 4655,
       "user": "bashalarmistalt"
     },
     {
@@ -1463,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1702,
       "user": "genspark-ai"
     },
     {
@@ -1478,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1478,
+      "stars": 1512,
       "user": "thebuggeddev"
     },
     {
@@ -1493,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 658,
       "user": "guillermolg00"
     },
     {
@@ -1508,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 3700,
+      "stars": 4069,
       "user": "firecrawl"
     },
     {
@@ -1526,20 +1496,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bledder"
-    },
-    {
-      "title": "HTML-FORM-ISSUE",
-      "url": "https://stackoverflow.com/questions/79990718/html-form-issue",
-      "published_at": "2026-08-05T13:45:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "html",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28144741"
     },
     {
       "title": "Javascript generator only running through one array",
@@ -1659,6 +1615,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "How do I generate SEO-friendly meta tags in React?",
+      "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
+      "published_at": "2026-06-03T13:40:37.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "seo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aryananda arya"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1870,23 +1840,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 981,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "disler"
     },
     {
       "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -1900,8 +1855,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 444,
       "user": "Binaryify"
+    },
+    {
+      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "published_at": "2026-08-02T17:41:00Z",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "disler"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -1915,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "joeseesun"
     },
     {
@@ -1930,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 299,
       "user": "Anionex"
     },
     {
@@ -1945,14 +1915,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 3700,
+      "stars": 4069,
       "user": "firecrawl"
     },
     {
       "title": "When should a Python project be reorganized into packages instead of keeping modules in the project root?",
       "url": "https://stackoverflow.com/questions/79990707/when-should-a-python-project-be-reorganized-into-packages-instead-of-keeping-mod",
       "published_at": "2026-08-05T13:16:24.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 4 answers · score 0",
       "tags": [
         "best-practices",
         "python"
@@ -1960,6 +1930,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mxbndwld"
+    },
+    {
+      "title": "I need the path of the file that is invoking the launch of my Python application",
+      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
+      "published_at": "2026-08-05T05:48:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "path",
+        "pyinstaller",
+        "launch",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeex"
     },
     {
       "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
@@ -2003,20 +1989,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jim Garrison"
-    },
-    {
-      "title": "I need the path of the file that is invoking the launch of my Python application",
-      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
-      "published_at": "2026-08-05T05:48:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "path",
-        "launch"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeex"
     },
     {
       "title": "Why is only one of my tasks being cancelled in my python asyncio program?",
@@ -2100,6 +2072,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
@@ -2282,21 +2269,6 @@
       "user": "Meera9"
     },
     {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2321,20 +2293,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seg6"
-    },
-    {
-      "title": "HTML-FORM-ISSUE",
-      "url": "https://stackoverflow.com/questions/79990718/html-form-issue",
-      "published_at": "2026-08-05T13:45:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "html",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28144741"
     },
     {
       "title": "Classic scrollbar width getters not working on Firefox",
@@ -2456,6 +2414,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Porting 16 BLoC & Signal Benchmark Apps to BlocSignal: Elevating Flutter UX & DX",
+      "url": "https://dev.to/gde/porting-16-bloc-signal-benchmark-apps-to-blocsignal-elevating-flutter-ux-dx-2dnl",
+      "published_at": "2026-08-02T18:21:58Z",
+      "description": "We ported 16 official example apps from felangel/bloc and rodydavis/signals.dart to showcase how BlocSignal simplifies Flutter state management with synchronous frame updates, computed() derivations, and streamless Mutex concurrency.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fazbfkq7ro5fnjh4y9o65.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Seamless Flutter Hooks Integration with BlocSignal via signals_hooks",
       "url": "https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e",
       "published_at": "2026-07-27T22:37:30Z",
@@ -2471,34 +2444,20 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
+      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+      "published_at": "2026-08-05T16:52:29.000Z",
+      "description": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
       "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
+        "Security",
+        "Apple",
+        "iCloud",
+        "iCloud Private Relay",
+        "iOS"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
@@ -2682,6 +2641,36 @@
       "user": "xbill"
     },
     {
+      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
+      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
+      "published_at": "2026-07-08T13:26:02Z",
+      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "tags": [
+        "mcps",
+        "googleantigravity",
+        "googletpu",
+        "gemma4"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -2742,19 +2731,20 @@
       "user": "Evan Lin"
     },
     {
-      "title": "TPU Deployments with Gemma 31B, v6e-4, and Antigravity CLI",
-      "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-4-and-antigravity-cli-50ia",
-      "published_at": "2026-07-11T21:21:38Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
+      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+      "published_at": "2026-08-05T16:52:29.000Z",
+      "description": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
       "tags": [
-        "gemma4",
-        "mcps",
-        "tpu",
-        "31b"
+        "Security",
+        "Apple",
+        "iCloud",
+        "iCloud Private Relay",
+        "iOS"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flp8kbnjiqh8vak80li6v.png",
-      "source": "Dev.to",
-      "user": "xbill"
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Implement HIPAA Technical Safeguards on AWS [Full Handbook]",
@@ -2830,21 +2820,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-implemented It in Go",
-      "url": "https://dev.to/gde/learning-notesgolang-authorization-challenges-in-the-ai-agent-era-what-is-id-jag-and-why-i-jfb",
-      "published_at": "2026-07-28T05:12:52Z",
-      "description": "Preface:   In the past six months or so, connecting AI Agents directly to internal systems...",
-      "tags": [
-        "agents",
-        "ai",
-        "go",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmkgye7upimppsf8820c.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2989,6 +2964,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kevincox"
+    },
+    {
+      "title": "PSA: Apple’s Private Relay can leak your real IP address",
+      "url": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+      "published_at": "2026-08-05T16:52:29.000Z",
+      "description": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
+      "tags": [
+        "Security",
+        "Apple",
+        "iCloud",
+        "iCloud Private Relay",
+        "iOS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3004,6 +2995,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
+    },
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
+      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
+      "published_at": "2026-07-28T18:58:24Z",
+      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -3049,21 +3070,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Beyond Flutter: Running BlocSignal State Machines in Pure Dart, Jaspr Web, and CLI Tools",
-      "url": "https://dev.to/gde/beyond-flutter-running-blocsignal-state-machines-in-pure-dart-jaspr-web-and-cli-tools-51f6",
-      "published_at": "2026-07-28T20:13:36Z",
-      "description": "Discover how BlocSignal's zero-Flutter core package enables unified state management across CLI tools, Jaspr web apps, and Dart Frog server backends with native DevTools telemetry.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3113,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 784,
       "user": "x4gKing"
     },
     {
@@ -3128,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "0xwilliamortiz"
     },
     {
@@ -3143,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 554,
       "user": "brookfacehe2421"
     },
     {
@@ -3158,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 539,
       "user": "sophiamyang"
     },
     {
@@ -3188,23 +3194,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 981,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 398,
-      "user": "disler"
     },
     {
       "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -3218,8 +3209,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 444,
       "user": "Binaryify"
+    },
+    {
+      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "published_at": "2026-08-02T17:41:00Z",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "disler"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -3233,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 311,
       "user": "joeseesun"
     },
     {
@@ -3248,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 299,
       "user": "Anionex"
     },
     {
@@ -3263,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "magicrew"
     },
     {
@@ -3293,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "opentokenz"
     },
     {
@@ -3308,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "lij768423-svg"
     },
     {
@@ -3338,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5782,
+      "stars": 5893,
       "user": "trycompai"
     },
     {
@@ -3353,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4648,
+      "stars": 4655,
       "user": "bashalarmistalt"
     },
     {
@@ -3368,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1664,
+      "stars": 1702,
       "user": "genspark-ai"
     },
     {
@@ -3383,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1478,
+      "stars": 1512,
       "user": "thebuggeddev"
     },
     {
@@ -3398,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 658,
       "user": "guillermolg00"
     },
     {
@@ -3413,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 3700,
+      "stars": 4069,
       "user": "firecrawl"
     },
     {
@@ -3428,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "HaidarJbeily7"
     },
     {
@@ -3458,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 197,
       "user": "cristicretu"
     },
     {
@@ -3473,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "poxk"
     },
     {
