@@ -102,21 +102,6 @@
       "user": "John"
     },
     {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
-      "published_at": "2026-07-28T16:18:27Z",
-      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "tags": [
-        "bugsmash",
-        "devchallenge",
-        "debugging",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Catbot: Custom Grammar Problem Fixed",
       "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
       "published_at": "2026-08-01T16:03:02Z",
@@ -130,6 +115,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
+      "published_at": "2026-07-28T16:18:27Z",
+      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "tags": [
+        "bugsmash",
+        "devchallenge",
+        "debugging",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1012,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 543,
       "user": "Binaryify"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "magicrew"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6135,
+      "stars": 6160,
       "user": "trycompai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "genspark-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1577,
+      "stars": 1585,
       "user": "thebuggeddev"
     },
     {
@@ -947,7 +947,6 @@
       "tags": [
         "Government & Policy",
         "Startups",
-        "TC",
         "OpenAI"
       ],
       "cover_image": null,
@@ -1328,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 809,
       "user": "x4gKing"
     },
     {
@@ -1403,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "disler"
     },
     {
@@ -1418,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6135,
+      "stars": 6160,
       "user": "trycompai"
     },
     {
@@ -1433,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4681,
+      "stars": 4688,
       "user": "bashalarmistalt"
     },
     {
@@ -1448,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "genspark-ai"
     },
     {
@@ -1463,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1577,
+      "stars": 1585,
       "user": "thebuggeddev"
     },
     {
@@ -1478,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 699,
       "user": "guillermolg00"
     },
     {
@@ -1493,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4665,
+      "stars": 4767,
       "user": "firecrawl"
     },
     {
@@ -1573,20 +1572,6 @@
       "user": "munHunger"
     },
     {
-      "title": "How can I locate an element in a nested div without selecting the outer div?",
-      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
-      "published_at": "2026-08-02T21:00:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "ui-automation",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adnan Zaman"
-    },
-    {
       "title": "How to test Vue ripple directive has been used?",
       "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
       "published_at": "2026-07-31T20:17:36.000Z",
@@ -1646,6 +1631,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mahesh Hadagali Sangamesh"
+    },
+    {
+      "title": "Check if mouse button down in JS on browser",
+      "url": "https://stackoverflow.com/questions/322378/check-if-mouse-button-down-in-js-on-browser",
+      "published_at": "2008-11-26T22:29:23.000Z",
+      "description": "Stack Overflow question · 17 answers · score 188",
+      "tags": [
+        "javascript",
+        "input",
+        "mouse",
+        "user-input",
+        "input-devices"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TM."
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -1872,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1012,
       "user": "KKKKhazix"
     },
     {
@@ -1887,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 543,
       "user": "Binaryify"
     },
     {
@@ -1902,7 +1903,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "disler"
     },
     {
@@ -1947,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4665,
+      "stars": 4767,
       "user": "firecrawl"
     },
     {
@@ -1957,7 +1958,6 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "sql",
         "sql-server",
         "sql-server-2022",
         "mssql-python"
@@ -2078,17 +2078,17 @@
       "user": "iamthebull"
     },
     {
-      "title": "Pyscript app that opens and saves files locally",
-      "url": "https://stackoverflow.com/questions/79990534/pyscript-app-that-opens-and-saves-files-locally",
-      "published_at": "2026-08-04T21:51:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Why can my to-do list only hold two items?",
+      "url": "https://stackoverflow.com/questions/79990514/why-can-my-to-do-list-only-hold-two-items",
+      "published_at": "2026-08-04T19:52:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "pyscript"
+        "list"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Pfalbaum"
+      "user": "Willow Imam"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2759,7 +2759,6 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "sql",
         "sql-server",
         "sql-server-2022",
         "mssql-python"
@@ -3127,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 809,
       "user": "x4gKing"
     },
     {
@@ -3202,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1006,
+      "stars": 1012,
       "user": "KKKKhazix"
     },
     {
@@ -3217,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 543,
       "user": "Binaryify"
     },
     {
@@ -3232,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "disler"
     },
     {
@@ -3277,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "magicrew"
     },
     {
@@ -3337,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "YuJunZhiXue"
     },
     {
@@ -3352,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6135,
+      "stars": 6160,
       "user": "trycompai"
     },
     {
@@ -3367,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4681,
+      "stars": 4688,
       "user": "bashalarmistalt"
     },
     {
@@ -3382,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "genspark-ai"
     },
     {
@@ -3397,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1577,
+      "stars": 1585,
       "user": "thebuggeddev"
     },
     {
@@ -3412,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 699,
       "user": "guillermolg00"
     },
     {
@@ -3427,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4665,
+      "stars": 4767,
       "user": "firecrawl"
     },
     {
@@ -3472,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 202,
       "user": "cristicretu"
     },
     {
@@ -3487,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220336074?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 143,
       "user": "yetidevworks"
     },
     {
