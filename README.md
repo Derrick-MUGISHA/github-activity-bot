@@ -21,12 +21,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-05 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-05 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png" width="200" alt="Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI" />
+      <br/>
+      <b>Serving Gemma 4 2B on a Single TPU v5e Chip with M...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/welcome-thread-v387-1iej">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8zwx5oo44gcrjx4t7hpr.jpeg" width="200" alt="Welcome Thread - v387" />
@@ -45,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8uyqy9ibkln948xhrdsj.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
@@ -54,8 +65,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png" width="200" alt="Kiro Crew: The Next Frontier" />
@@ -74,15 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png" width="200" alt="Catbot: Custom Grammar Problem Fixed" />
-      <br/>
-      <b>Catbot: Custom Grammar Problem Fixed</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Welcome Thread - v387](https://dev.to/devteam/welcome-thread-v387-1iej) | Dev.to |
-| 2 | [Exploring Form Management Patterns in Flutter with BlocSignal](https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j) | Dev.to |
-| 3 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2) | Dev.to |
-| 4 | [Kiro Crew: The Next Frontier](https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h) | Dev.to |
-| 5 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
-| 6 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
+| 1 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
+| 2 | [Welcome Thread - v387](https://dev.to/devteam/welcome-thread-v387-1iej) | Dev.to |
+| 3 | [Exploring Form Management Patterns in Flutter with BlocSignal](https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j) | Dev.to |
+| 4 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2) | Dev.to |
+| 5 | [Kiro Crew: The Next Frontier](https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h) | Dev.to |
+| 6 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
 | 7 | [How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost](https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh) | Dev.to |
 | 8 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
 | 9 | [Google's AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816) | Dev.to |
-| 10 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
-| 11 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 12 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
+| 10 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
+| 11 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
+| 12 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
 | 13 | [Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics](https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585) | Dev.to |
 | 14 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 | 15 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
 | 16 | [Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark](https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4) | Dev.to |
-| 17 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
-| 18 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
-| 19 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
-| 20 | [Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474) | Dev.to |
+| 17 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
+| 18 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
+| 19 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
+| 20 | [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e) | Dev.to |
 
-<sub>Last fetched: Wed, 05 Aug 2026 19:11:25 CAT</sub>
+<sub>Last fetched: Wed, 05 Aug 2026 20:54:22 CAT</sub>
 
 
 ---
@@ -133,25 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**2. `Python` — What are generators and when would you use them?**
+**2. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> with statement, setup/teardown, exception handling
 
 </details>
 
-**3. `Java` — Explain the Java memory model**
+**3. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -164,11 +164,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
+| **AI** | 75 | 40.8% | `████████████████████` |
+| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
 | **JavaScript** | 39 | 21.2% | `██████████░░░░░░░░░░` |
-| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
-| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **Python** | 32 | 17.4% | `█████████░░░░░░░░░░░` |
+| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.6%
-JavaScript      ████████████████████████████ 25.7%
-Java            ██████████████████████ 20.4%
-Python          ██████████████████████ 20.4%
+Go              ██████████████████████████████ 27.5%
+JavaScript      ████████████████████████████ 25.5%
+Python          ███████████████████████ 20.9%
+Java            ██████████████████████ 20.3%
 Rust            █████ 4.6%
 Swift           █ 1.3%
 
@@ -207,8 +207,8 @@ Swift           █ 1.3%
 pie title Programming Languages Distribution
     "Go" : 42
     "JavaScript" : 39
+    "Python" : 32
     "Java" : 31
-    "Python" : 31
     "Rust" : 7
     "Swift" : 2
 ```
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-6-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 05 Aug 2026 17:11:25 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 05 Aug 2026 18:54:22 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

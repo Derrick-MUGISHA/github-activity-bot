@@ -29,21 +29,6 @@
       "user": "xbill"
     },
     {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "published_at": "2026-08-01T16:03:02Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "catbot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
-    {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
       "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
       "published_at": "2026-07-31T13:17:16Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "published_at": "2026-08-01T16:03:02Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -265,21 +265,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
       "source": "Dev.to",
       "user": "John Bulla"
-    },
-    {
-      "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
-      "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
-      "published_at": "2026-07-31T17:44:17Z",
-      "description": "A measured cross-cloud smoke test: Microsoft Foundry orchestrates MCP and calls an Amazon Bedrock AgentCore specialist over authenticated A2A.",
-      "tags": [
-        "azure",
-        "aws",
-        "aiagents",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 550,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 994,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 483,
       "user": "Binaryify"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "Anionex"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5893,
+      "stars": 6010,
       "user": "trycompai"
     },
     {
@@ -866,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1732,
       "user": "genspark-ai"
     },
     {
@@ -881,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1543,
       "user": "thebuggeddev"
     },
     {
@@ -896,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 276,
       "user": "HaidarJbeily7"
     },
     {
@@ -913,18 +898,6 @@
       "user": "wezm"
     },
     {
-      "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "published_at": "2026-08-04T15:24:33.112-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "j11g"
-    },
-    {
       "title": "Painting with Gaussians",
       "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
       "published_at": "2026-08-05T08:33:16.943-05:00",
@@ -939,6 +912,47 @@
       "user": "Yogthos"
     },
     {
+      "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "published_at": "2026-08-04T15:24:33.112-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "j11g"
+    },
+    {
+      "title": "Reddit aims to make &#8216;karma&#8217; less important for first-time posters with shift to AI moderation tools",
+      "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+      "published_at": "2026-08-05T18:00:40.000Z",
+      "description": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
+      "tags": [
+        "Social",
+        "Reddit",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
+      "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "published_at": "2026-08-05T17:57:45.000Z",
+      "description": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro.",
+      "tags": [
+        "Transportation",
+        "electric vehicles",
+        "EVs",
+        "Lucid Motors"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
       "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
       "published_at": "2026-08-05T15:56:14.000Z",
@@ -946,8 +960,8 @@
       "tags": [
         "AI",
         "Commerce",
-        "Shopify",
-        "AI search"
+        "AI search",
+        "Shopify"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -960,8 +974,10 @@
       "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
       "tags": [
         "AI",
+        "Startups",
         "ai agent",
-        "browser agent"
+        "browser agent",
+        "hark"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -996,38 +1012,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "published_at": "2026-08-05T14:13:18.000Z",
-      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "AI chips",
-        "Anthropic",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-      "published_at": "2026-08-05T13:21:43.000Z",
-      "description": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "content creator",
-        "disney+",
-        "short form video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
@@ -1092,21 +1076,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-      "published_at": "2026-07-29T18:18:58Z",
-      "description": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
       "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
       "published_at": "2026-07-30T08:02:27Z",
@@ -1120,6 +1089,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
+      "published_at": "2026-07-29T18:18:58Z",
+      "description": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "css",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
@@ -1313,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 795,
       "user": "x4gKing"
     },
     {
@@ -1358,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 550,
       "user": "sophiamyang"
     },
     {
@@ -1388,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "disler"
     },
     {
@@ -1403,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5893,
+      "stars": 6010,
       "user": "trycompai"
     },
     {
@@ -1418,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4655,
+      "stars": 4668,
       "user": "bashalarmistalt"
     },
     {
@@ -1433,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1732,
       "user": "genspark-ai"
     },
     {
@@ -1448,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1543,
       "user": "thebuggeddev"
     },
     {
@@ -1463,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 670,
       "user": "guillermolg00"
     },
     {
@@ -1478,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4069,
+      "stars": 4326,
       "user": "firecrawl"
     },
     {
@@ -1648,6 +1632,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
+      "published_at": "2026-08-05T14:56:26Z",
+      "description": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "tags": [
+        "antigravitycli",
+        "python",
+        "mcps",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
@@ -1840,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 994,
       "user": "KKKKhazix"
     },
     {
@@ -1855,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 483,
       "user": "Binaryify"
     },
     {
@@ -1870,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "disler"
     },
     {
@@ -1900,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "Anionex"
     },
     {
@@ -1915,8 +1914,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4069,
+      "stars": 4326,
       "user": "firecrawl"
+    },
+    {
+      "title": "How to solve verify traffic error for web scraping",
+      "url": "https://stackoverflow.com/questions/79990794/how-to-solve-verify-traffic-error-for-web-scraping",
+      "published_at": "2026-08-05T18:20:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "web-scraping",
+        "shopee"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "eeem"
     },
     {
       "title": "When should a Python project be reorganized into packages instead of keeping modules in the project root?",
@@ -1930,6 +1943,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mxbndwld"
+    },
+    {
+      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
+      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
+      "published_at": "2026-08-05T11:32:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "couchdb",
+        "freeze",
+        "couchdb-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sven"
     },
     {
       "title": "I need the path of the file that is invoking the launch of my Python application",
@@ -1946,21 +1974,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeex"
-    },
-    {
-      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
-      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
-      "published_at": "2026-08-05T11:32:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "couchdb",
-        "freeze",
-        "couchdb-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sven"
     },
     {
       "title": "Adjusting time and space complexity of array manipulation",
@@ -1991,6 +2004,18 @@
       "user": "Jim Garrison"
     },
     {
+      "title": "How to iterate through this table in python?",
+      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
+      "published_at": "2026-08-04T19:22:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user683"
+    },
+    {
       "title": "Why is only one of my tasks being cancelled in my python asyncio program?",
       "url": "https://stackoverflow.com/questions/79990524/why-is-only-one-of-my-tasks-being-cancelled-in-my-python-asyncio-program",
       "published_at": "2026-08-04T21:00:06.000Z",
@@ -2002,18 +2027,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "How to iterate through this table in python?",
-      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
-      "published_at": "2026-08-04T19:22:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user683"
     },
     {
       "title": "Pyscript app that opens and saves files locally",
@@ -2040,20 +2053,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Willow Imam"
-    },
-    {
-      "title": "How to test for subgraph isomorphism using networkx",
-      "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
-      "published_at": "2026-08-04T15:34:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "networkx",
-        "graph-theory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Carcophan"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2626,21 +2625,6 @@
       "user": "xbill"
     },
     {
-      "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
-      "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
-      "published_at": "2026-07-31T17:44:17Z",
-      "description": "A measured cross-cloud smoke test: Microsoft Foundry orchestrates MCP and calls an Amazon Bedrock AgentCore specialist over authenticated A2A.",
-      "tags": [
-        "azure",
-        "aws",
-        "aiagents",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2984,6 +2968,21 @@
   ],
   "Tools": [
     {
+      "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
+      "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
+      "published_at": "2026-08-05T14:56:26Z",
+      "description": "This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...",
+      "tags": [
+        "antigravitycli",
+        "python",
+        "mcps",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
       "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
       "published_at": "2026-08-03T21:51:04Z",
@@ -3119,7 +3118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 795,
       "user": "x4gKing"
     },
     {
@@ -3164,7 +3163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 550,
       "user": "sophiamyang"
     },
     {
@@ -3194,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 994,
       "user": "KKKKhazix"
     },
     {
@@ -3209,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 483,
       "user": "Binaryify"
     },
     {
@@ -3224,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "disler"
     },
     {
@@ -3254,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "Anionex"
     },
     {
@@ -3344,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5893,
+      "stars": 6010,
       "user": "trycompai"
     },
     {
@@ -3359,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4655,
+      "stars": 4668,
       "user": "bashalarmistalt"
     },
     {
@@ -3374,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1732,
       "user": "genspark-ai"
     },
     {
@@ -3389,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1543,
       "user": "thebuggeddev"
     },
     {
@@ -3404,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 670,
       "user": "guillermolg00"
     },
     {
@@ -3419,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 4069,
+      "stars": 4326,
       "user": "firecrawl"
     },
     {
@@ -3434,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 276,
       "user": "HaidarJbeily7"
     },
     {
@@ -3497,6 +3496,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Reddit aims to make &#8216;karma&#8217; less important for first-time posters with shift to AI moderation tools",
+      "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+      "published_at": "2026-08-05T18:00:40.000Z",
+      "description": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
+      "tags": [
+        "Social",
+        "Reddit",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
