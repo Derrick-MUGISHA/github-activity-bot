@@ -72,21 +72,6 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bnt"
-    },
-    {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
       "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
       "published_at": "2026-08-02T11:08:36Z",
@@ -115,6 +100,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
       "user": "Shy Ruparel"
+    },
+    {
+      "title": "Passkeys Explained Simply",
+      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
+      "published_at": "2026-07-27T21:09:04Z",
+      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
+      "tags": [
+        "security",
+        "api",
+        "webdev",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "source": "Dev.to",
+      "user": "Thomas Bnt"
     },
     {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "0xwilliamortiz"
     },
     {
@@ -761,23 +761,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 434,
       "user": "sophiamyang"
-    },
-    {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
-      "source": "GitHub",
-      "stars": 273,
-      "user": "Anionex"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -791,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 278,
       "user": "joeseesun"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "Anionex"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 252,
       "user": "magicrew"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "opentokenz"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4652,
+      "stars": 4887,
       "user": "trycompai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1396,
       "user": "genspark-ai"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1265,
       "user": "thebuggeddev"
     },
     {
@@ -895,6 +895,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "j11g"
+    },
+    {
+      "title": "How Websites Can Sustain Themselves in an AI-Driven World: Advanced Developer Tips on AI-Driven Revenue Models",
+      "url": "https://stackoverflow.com/questions/79990557/how-websites-can-sustain-themselves-in-an-ai-driven-world-advanced-developer-ti",
+      "published_at": "2026-08-05T01:03:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874482"
     },
     {
       "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
@@ -1283,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 707,
       "user": "x4gKing"
     },
     {
@@ -1298,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "0xwilliamortiz"
     },
     {
@@ -1317,6 +1329,21 @@
       "user": "brookfacehe2421"
     },
     {
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 434,
+      "user": "sophiamyang"
+    },
+    {
       "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
       "url": "https://github.com/0xwilliamortiz/ratchet",
       "published_at": "2026-07-31T17:54:30Z",
@@ -1332,21 +1359,6 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "sophiamyang"
-    },
-    {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
       "url": "https://github.com/disler/super-simple-software-factory",
       "published_at": "2026-08-02T17:41:00Z",
@@ -1358,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 359,
       "user": "disler"
     },
     {
@@ -1373,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4652,
+      "stars": 4887,
       "user": "trycompai"
     },
     {
@@ -1388,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4536,
+      "stars": 4568,
       "user": "bashalarmistalt"
     },
     {
@@ -1403,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1396,
       "user": "genspark-ai"
     },
     {
@@ -1418,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1265,
       "user": "thebuggeddev"
     },
     {
@@ -1433,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "ddoemonn"
     },
     {
@@ -1448,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1833,
       "user": "firecrawl"
     },
     {
@@ -1527,7 +1539,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
+      "description": "Stack Overflow question · 3 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -1551,20 +1563,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chiara Ani"
-    },
-    {
-      "title": "What is the difference between link wrapping and 'use client' in Next.js?",
-      "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
-      "published_at": "2026-07-28T15:26:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Heba Allah Hashim"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
@@ -1597,6 +1595,21 @@
       "user": "Aryananda arya"
     },
     {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
+    },
+    {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
       "url": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
       "published_at": "2026-08-03T18:39:33.000Z",
@@ -1611,21 +1624,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ash"
-    },
-    {
-      "title": "How to Build Kubernetes Operators: A Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
-      "published_at": "2026-07-29T14:11:02.000Z",
-      "description": "Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou",
-      "tags": [
-        "Kubernetes",
-        "Go Language",
-        "Docker",
-        "cloud native"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Karan Pratap Singh"
     }
   ],
   "Python": [
@@ -1810,6 +1808,21 @@
       "user": "arathore"
     },
     {
+      "title": "KKKKhazix/human-writing - 活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "published_at": "2026-08-05T01:19:41Z",
+      "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 406,
+      "user": "KKKKhazix"
+    },
+    {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
       "url": "https://github.com/disler/super-simple-software-factory",
       "published_at": "2026-08-02T17:41:00Z",
@@ -1821,23 +1834,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 359,
       "user": "disler"
-    },
-    {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
-      "source": "GitHub",
-      "stars": 273,
-      "user": "Anionex"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -1851,8 +1849,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 278,
       "user": "joeseesun"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "Anionex"
     },
     {
       "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
@@ -1866,23 +1879,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "0rangec3t"
-    },
-    {
-      "title": "alexan0618/zkky - 直卡开源",
-      "url": "https://github.com/alexan0618/zkky",
-      "published_at": "2026-08-03T12:57:22Z",
-      "description": "直卡开源",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "alexan0618"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1896,14 +1894,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1833,
       "user": "firecrawl"
+    },
+    {
+      "title": "Require help for adjusting time and space complexity of array manipulation problem",
+      "url": "https://stackoverflow.com/questions/79990563/require-help-for-adjusting-time-and-space-complexity-of-array-manipulation-probl",
+      "published_at": "2026-08-05T03:02:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "arrays"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sunhrit Paria"
+    },
+    {
+      "title": "How Websites Can Sustain Themselves in an AI-Driven World: Advanced Developer Tips on AI-Driven Revenue Models",
+      "url": "https://stackoverflow.com/questions/79990557/how-websites-can-sustain-themselves-in-an-ai-driven-world-advanced-developer-ti",
+      "published_at": "2026-08-05T01:03:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874482"
     },
     {
       "title": "Python dataclasses - intercept field assignment",
       "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
       "published_at": "2026-08-04T22:18:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "pydantic",
@@ -1941,30 +1964,6 @@
       "user": "Pfalbaum"
     },
     {
-      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
-      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
-      "published_at": "2026-08-04T21:07:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TheLegend"
-    },
-    {
-      "title": "How to iterate through this table in python?",
-      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
-      "published_at": "2026-08-04T19:22:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user683"
-    },
-    {
       "title": "How to test for subgraph isomorphism using networkx",
       "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
       "published_at": "2026-08-04T15:34:34.000Z",
@@ -1979,10 +1978,34 @@
       "user": "Carcophan"
     },
     {
+      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
+      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
+      "published_at": "2026-08-04T21:07:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TheLegend"
+    },
+    {
+      "title": "How to iterate through this table in python?",
+      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
+      "published_at": "2026-08-04T19:22:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user683"
+    },
+    {
       "title": "How to display a grid of random colors in Pygame rather than a single color?",
       "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
       "published_at": "2026-08-04T18:35:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "tkinter",
@@ -1996,7 +2019,7 @@
       "title": "KeyError2 when trying to access dataframe cell",
       "url": "https://stackoverflow.com/questions/79990428/keyerror2-when-trying-to-access-dataframe-cell",
       "published_at": "2026-08-04T14:21:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pandas",
@@ -2005,33 +2028,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user1"
-    },
-    {
-      "title": "Python subprocess.cwd differs from bash cd",
-      "url": "https://stackoverflow.com/questions/79990377/python-subprocess-cwd-differs-from-bash-cd",
-      "published_at": "2026-08-04T11:33:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "wordpress",
-        "subprocess"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "npr_se"
-    },
-    {
-      "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
-      "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
-      "published_at": "2026-08-04T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shakshyam Shrestha"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2226,21 +2222,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build Kubernetes Operators: A Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
-      "published_at": "2026-07-29T14:11:02.000Z",
-      "description": "Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou",
-      "tags": [
-        "Kubernetes",
-        "Go Language",
-        "Docker",
-        "cloud native"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Karan Pratap Singh"
     }
   ],
   "WebDev": [
@@ -2319,7 +2300,7 @@
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
+      "description": "Stack Overflow question · 3 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -2327,6 +2308,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NiMuSi"
+    },
+    {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -2464,21 +2460,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
-      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
-      "published_at": "2026-08-04T08:20:25.341-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "java",
-        "kotlin",
-        "vibecoding",
-        "vscode"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cgrinds"
     },
     {
       "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
@@ -2810,21 +2791,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ayobami Adejumo"
-    },
-    {
-      "title": "How to Build Kubernetes Operators: A Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/how-to-build-kubernetes-operators-a-handbook-for-devs/",
-      "published_at": "2026-07-29T14:11:02.000Z",
-      "description": "Kubernetes ships with controllers that manage a fixed set of built-in resources: Deployments, Services, Nodes, and so on. An operator extends the same pattern to resources Kubernetes doesn't know abou",
-      "tags": [
-        "Kubernetes",
-        "Go Language",
-        "Docker",
-        "cloud native"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Karan Pratap Singh"
     }
   ],
   "Database": [
@@ -3047,6 +3013,21 @@
       "user": "kevincox"
     },
     {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
+    },
+    {
       "title": "Android app developers may be unwittingly sharing their users&#8217; location data with advertisers",
       "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
       "published_at": "2026-08-04T20:26:53.000Z",
@@ -3231,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 707,
       "user": "x4gKing"
     },
     {
@@ -3246,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 570,
       "user": "0xwilliamortiz"
     },
     {
@@ -3265,6 +3246,21 @@
       "user": "brookfacehe2421"
     },
     {
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 434,
+      "user": "sophiamyang"
+    },
+    {
       "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
       "url": "https://github.com/0xwilliamortiz/ratchet",
       "published_at": "2026-07-31T17:54:30Z",
@@ -3280,19 +3276,19 @@
       "user": "0xwilliamortiz"
     },
     {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
+      "title": "KKKKhazix/human-writing - 活人感写作 1.0.0｜通用中文创作与改稿 Skill",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "published_at": "2026-08-05T01:19:41Z",
+      "description": "活人感写作 1.0.0｜通用中文创作与改稿 Skill",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 392,
-      "user": "sophiamyang"
+      "stars": 406,
+      "user": "KKKKhazix"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -3306,23 +3302,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 359,
       "user": "disler"
-    },
-    {
-      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
-      "published_at": "2026-08-01T10:00:13Z",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
-      "source": "GitHub",
-      "stars": 273,
-      "user": "Anionex"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -3336,8 +3317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 278,
       "user": "joeseesun"
+    },
+    {
+      "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "published_at": "2026-08-01T10:00:13Z",
+      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "Anionex"
     },
     {
       "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
@@ -3351,23 +3347,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 253,
       "user": "0rangec3t"
-    },
-    {
-      "title": "alexan0618/zkky - 直卡开源",
-      "url": "https://github.com/alexan0618/zkky",
-      "published_at": "2026-08-03T12:57:22Z",
-      "description": "直卡开源",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "alexan0618"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3381,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 252,
       "user": "magicrew"
     },
     {
@@ -3396,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "codermyxiaoc"
     },
     {
@@ -3411,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "opentokenz"
     },
     {
@@ -3426,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 128,
       "user": "lij768423-svg"
     },
     {
@@ -3456,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4652,
+      "stars": 4887,
       "user": "trycompai"
     },
     {
@@ -3471,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4536,
+      "stars": 4568,
       "user": "bashalarmistalt"
     },
     {
@@ -3486,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1396,
       "user": "genspark-ai"
     },
     {
@@ -3501,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1265,
       "user": "thebuggeddev"
     },
     {
@@ -3516,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "ddoemonn"
     },
     {
@@ -3531,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1833,
       "user": "firecrawl"
     },
     {
@@ -3561,8 +3542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "l00sed"
+    },
+    {
+      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "url": "https://github.com/cristicretu/diri",
+      "published_at": "2026-08-04T10:08:23Z",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "cristicretu"
     },
     {
       "title": "poxk/Falco - Tiny browser engine written from scratch in Rust.",
@@ -3576,23 +3572,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 123,
       "user": "poxk"
-    },
-    {
-      "title": "ArchAstro/scopey - Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
-      "url": "https://github.com/ArchAstro/scopey",
-      "published_at": "2026-07-31T00:18:13Z",
-      "description": "Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "ArchAstro"
     },
     {
       "title": "FFmpeg 9.0",
@@ -3621,21 +3602,6 @@
       "user": "lvmbdv"
     },
     {
-      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
-      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
-      "published_at": "2026-08-04T08:20:25.341-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "java",
-        "kotlin",
-        "vibecoding",
-        "vscode"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "cgrinds"
-    },
-    {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
       "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
       "published_at": "2026-07-20T20:58:56.000Z",
@@ -3650,19 +3616,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
-      "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
-      "published_at": "2026-08-04T10:14:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shakshyam Shrestha"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
