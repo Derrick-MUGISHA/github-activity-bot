@@ -1,19 +1,6 @@
 {
   "AI": [
     {
-      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
-      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
-      "published_at": "2026-08-03T21:51:04Z",
-      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
-      "tags": [
-        "ai",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
       "title": "Kiro Crew: The Next Frontier",
       "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
       "published_at": "2026-08-04T20:26:01Z",
@@ -72,6 +59,19 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
+      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
+      "published_at": "2026-08-03T21:51:04Z",
+      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -117,21 +117,6 @@
       "user": "Shy Ruparel"
     },
     {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
-      "published_at": "2026-07-28T16:18:27Z",
-      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "tags": [
-        "bugsmash",
-        "devchallenge",
-        "debugging",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
       "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
       "published_at": "2026-08-02T00:00:06Z",
@@ -145,6 +130,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbwezdzfb2uqm5jryl9qq.png",
       "source": "Dev.to",
       "user": "John"
+    },
+    {
+      "title": "Bug Smash isn't glamorous and that's what I love about it.",
+      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
+      "published_at": "2026-07-28T16:18:27Z",
+      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
+      "tags": [
+        "bugsmash",
+        "devchallenge",
+        "debugging",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
@@ -761,38 +761,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "sophiamyang"
-    },
-    {
-      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
-      "url": "https://github.com/Audio8-AI/Audio8_TTS",
-      "published_at": "2026-07-29T03:58:19Z",
-      "description": "SOTA-Class TTS at Compact Scale",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "Audio8-AI"
-    },
-    {
-      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "url": "https://github.com/aigclink/geolook",
-      "published_at": "2026-07-29T07:51:43Z",
-      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "aigclink"
     },
     {
       "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
@@ -810,6 +780,51 @@
       "user": "Anionex"
     },
     {
+      "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "published_at": "2026-08-03T09:57:25Z",
+      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "joeseesun"
+    },
+    {
+      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
+      "url": "https://github.com/magicrew/doc7",
+      "published_at": "2026-08-02T14:03:55Z",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "magicrew"
+    },
+    {
+      "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "url": "https://github.com/opentokenz/mcpx",
+      "published_at": "2026-07-30T08:54:23Z",
+      "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "opentokenz"
+    },
+    {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
       "url": "https://github.com/trycompai/crm",
       "published_at": "2026-07-31T21:38:51Z",
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4613,
+      "stars": 4652,
       "user": "trycompai"
     },
     {
@@ -836,8 +851,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1321,
       "user": "genspark-ai"
+    },
+    {
+      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "published_at": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
+      "source": "GitHub",
+      "stars": 1204,
+      "user": "thebuggeddev"
     },
     {
       "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
@@ -853,6 +883,18 @@
       "source": "GitHub",
       "stars": 357,
       "user": "HaidarJbeily7"
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "published_at": "2026-08-04T15:24:33.112-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "j11g"
     },
     {
       "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
@@ -1241,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 699,
       "user": "x4gKing"
     },
     {
@@ -1301,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "sophiamyang"
     },
     {
@@ -1316,23 +1358,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 351,
       "user": "disler"
-    },
-    {
-      "title": "yc-software/qm - Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "published_at": "2026-07-29T20:03:08Z",
-      "description": "Multiplayer agent harness for work",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
-      "source": "GitHub",
-      "stars": 11112,
-      "user": "yc-software"
     },
     {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
@@ -1346,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4613,
+      "stars": 4652,
       "user": "trycompai"
     },
     {
@@ -1361,23 +1388,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4533,
+      "stars": 4536,
       "user": "bashalarmistalt"
-    },
-    {
-      "title": "microsoft/skill-recorder - Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "url": "https://github.com/microsoft/skill-recorder",
-      "published_at": "2026-07-29T18:16:14Z",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
-      "source": "GitHub",
-      "stars": 1757,
-      "user": "microsoft"
     },
     {
       "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
@@ -1391,8 +1403,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1321,
       "user": "genspark-ai"
+    },
+    {
+      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "published_at": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
+      "source": "GitHub",
+      "stars": 1204,
+      "user": "thebuggeddev"
+    },
+    {
+      "title": "ddoemonn/interior - micro-interactions for react, built for the half-second after a click",
+      "url": "https://github.com/ddoemonn/interior",
+      "published_at": "2026-07-30T18:20:18Z",
+      "description": "micro-interactions for react, built for the half-second after a click",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "ddoemonn"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1406,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1397,
       "user": "firecrawl"
     },
     {
@@ -1768,21 +1810,6 @@
       "user": "arathore"
     },
     {
-      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
-      "url": "https://github.com/lij768423-svg/grok-register-panel",
-      "published_at": "2026-07-29T09:25:01Z",
-      "description": "Grok register engine (Camoufox) + live web monitor panel",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "lij768423-svg"
-    },
-    {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
       "url": "https://github.com/disler/super-simple-software-factory",
       "published_at": "2026-08-02T17:41:00Z",
@@ -1794,38 +1821,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 351,
       "user": "disler"
-    },
-    {
-      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
-      "url": "https://github.com/Audio8-AI/Audio8_TTS",
-      "published_at": "2026-07-29T03:58:19Z",
-      "description": "SOTA-Class TTS at Compact Scale",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "Audio8-AI"
-    },
-    {
-      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "url": "https://github.com/aigclink/geolook",
-      "published_at": "2026-07-29T07:51:43Z",
-      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "aigclink"
     },
     {
       "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
@@ -1843,6 +1840,51 @@
       "user": "Anionex"
     },
     {
+      "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "published_at": "2026-08-03T09:57:25Z",
+      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "joeseesun"
+    },
+    {
+      "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "url": "https://github.com/0rangec3t/Black-cat",
+      "published_at": "2026-07-30T03:42:47Z",
+      "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "0rangec3t"
+    },
+    {
+      "title": "alexan0618/zkky - 直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "published_at": "2026-08-03T12:57:22Z",
+      "description": "直卡开源",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "alexan0618"
+    },
+    {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "url": "https://github.com/firecrawl/anydoc",
       "published_at": "2026-08-03T16:36:14Z",
@@ -1854,14 +1896,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1397,
       "user": "firecrawl"
     },
     {
       "title": "Python dataclasses - intercept field assignment",
       "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
       "published_at": "2026-08-04T22:18:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "pydantic",
@@ -1873,16 +1915,17 @@
       "user": "Jim Garrison"
     },
     {
-      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
-      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
-      "published_at": "2026-08-04T21:07:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Why can my to-do list only hold two items?",
+      "url": "https://stackoverflow.com/questions/79990514/why-can-my-to-do-list-only-hold-two-items",
+      "published_at": "2026-08-04T19:52:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "list"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "TheLegend"
+      "user": "Willow Imam"
     },
     {
       "title": "Pyscript app that opens and saves files locally",
@@ -1898,17 +1941,16 @@
       "user": "Pfalbaum"
     },
     {
-      "title": "Why can my to-do list only hold two items?",
-      "url": "https://stackoverflow.com/questions/79990514/why-can-my-to-do-list-only-hold-two-items",
-      "published_at": "2026-08-04T19:52:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
+      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
+      "published_at": "2026-08-04T21:07:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "python",
-        "list"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Willow Imam"
+      "user": "TheLegend"
     },
     {
       "title": "How to iterate through this table in python?",
@@ -3189,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 695,
+      "stars": 699,
       "user": "x4gKing"
     },
     {
@@ -3249,23 +3291,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 392,
       "user": "sophiamyang"
-    },
-    {
-      "title": "lij768423-svg/grok-register-panel - Grok register engine (Camoufox) + live web monitor panel",
-      "url": "https://github.com/lij768423-svg/grok-register-panel",
-      "published_at": "2026-07-29T09:25:01Z",
-      "description": "Grok register engine (Camoufox) + live web monitor panel",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 423,
-      "user": "lij768423-svg"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -3279,38 +3306,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 351,
       "user": "disler"
-    },
-    {
-      "title": "Audio8-AI/Audio8_TTS - SOTA-Class TTS at Compact Scale",
-      "url": "https://github.com/Audio8-AI/Audio8_TTS",
-      "published_at": "2026-07-29T03:58:19Z",
-      "description": "SOTA-Class TTS at Compact Scale",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/310437271?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "Audio8-AI"
-    },
-    {
-      "title": "aigclink/geolook - Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "url": "https://github.com/aigclink/geolook",
-      "published_at": "2026-07-29T07:51:43Z",
-      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/80378102?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "aigclink"
     },
     {
       "title": "Anionex/codex-vision-proxy - 让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
@@ -3328,19 +3325,124 @@
       "user": "Anionex"
     },
     {
-      "title": "yc-software/qm - Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "published_at": "2026-07-29T20:03:08Z",
-      "description": "Multiplayer agent harness for work",
+      "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "url": "https://github.com/joeseesun/qiaomu-seo",
+      "published_at": "2026-08-03T09:57:25Z",
+      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
       "tags": [
-        "typescript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153323858?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 11112,
-      "user": "yc-software"
+      "stars": 265,
+      "user": "joeseesun"
+    },
+    {
+      "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "url": "https://github.com/0rangec3t/Black-cat",
+      "published_at": "2026-07-30T03:42:47Z",
+      "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
+      "source": "GitHub",
+      "stars": 250,
+      "user": "0rangec3t"
+    },
+    {
+      "title": "alexan0618/zkky - 直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "published_at": "2026-08-03T12:57:22Z",
+      "description": "直卡开源",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
+      "source": "GitHub",
+      "stars": 218,
+      "user": "alexan0618"
+    },
+    {
+      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
+      "url": "https://github.com/magicrew/doc7",
+      "published_at": "2026-08-02T14:03:55Z",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
+      "source": "GitHub",
+      "stars": 244,
+      "user": "magicrew"
+    },
+    {
+      "title": "codermyxiaoc/sub2api-guardian - sub2api-guardian",
+      "url": "https://github.com/codermyxiaoc/sub2api-guardian",
+      "published_at": "2026-07-30T03:16:09Z",
+      "description": "sub2api-guardian",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "codermyxiaoc"
+    },
+    {
+      "title": "opentokenz/mcpx - MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "url": "https://github.com/opentokenz/mcpx",
+      "published_at": "2026-07-30T08:54:23Z",
+      "description": "MCPX 是运行在开发环境中的 MCP Runtime（网关）。ChatGPT、Claude、Cursor、Grok 及其他支持 Streamable HTTP 的 MCP 客户端，可以通过统一工具面理解项目、查看 Unified Diff、修改源码、运行任务、采集环境信息，并调用本地 MCP 与 Skill。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/64851230?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "opentokenz"
+    },
+    {
+      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
+      "published_at": "2026-08-01T02:36:14Z",
+      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "lij768423-svg"
+    },
+    {
+      "title": "YuJunZhiXue/Cline-proxy - 一个使用go写的简略的反代CLine的网关",
+      "url": "https://github.com/YuJunZhiXue/Cline-proxy",
+      "published_at": "2026-07-30T15:48:40Z",
+      "description": "一个使用go写的简略的反代CLine的网关",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188421097?v=4",
+      "source": "GitHub",
+      "stars": 95,
+      "user": "YuJunZhiXue"
     },
     {
       "title": "trycompai/crm - An open-source, agentic-first CRM.",
@@ -3354,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 4613,
+      "stars": 4652,
       "user": "trycompai"
     },
     {
@@ -3369,23 +3471,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4533,
+      "stars": 4536,
       "user": "bashalarmistalt"
-    },
-    {
-      "title": "microsoft/skill-recorder - Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "url": "https://github.com/microsoft/skill-recorder",
-      "published_at": "2026-07-29T18:16:14Z",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6154722?v=4",
-      "source": "GitHub",
-      "stars": 1757,
-      "user": "microsoft"
     },
     {
       "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
@@ -3399,8 +3486,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1321,
       "user": "genspark-ai"
+    },
+    {
+      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "published_at": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
+      "source": "GitHub",
+      "stars": 1204,
+      "user": "thebuggeddev"
+    },
+    {
+      "title": "ddoemonn/interior - micro-interactions for react, built for the half-second after a click",
+      "url": "https://github.com/ddoemonn/interior",
+      "published_at": "2026-07-30T18:20:18Z",
+      "description": "micro-interactions for react, built for the half-second after a click",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/109994179?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "ddoemonn"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -3414,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 1240,
+      "stars": 1397,
       "user": "firecrawl"
     },
     {
@@ -3444,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 194,
       "user": "l00sed"
     },
     {
@@ -3459,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "poxk"
     },
     {
@@ -3474,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245046957?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "ArchAstro"
     },
     {
