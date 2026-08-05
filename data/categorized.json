@@ -72,21 +72,6 @@
       "user": "Sireesha Pulipati"
     },
     {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -100,6 +85,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
@@ -357,6 +357,21 @@
       "user": "Roberto B."
     },
     {
+      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
+      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
+      "published_at": "2026-07-30T20:43:23Z",
+      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
+      "tags": [
+        "ai",
+        "rag",
+        "opensource",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
+      "source": "Dev.to",
+      "user": "Giulio D'Erme"
+    },
+    {
       "title": "Your RAG copilot can't count — stop letting it try",
       "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
       "published_at": "2026-07-31T11:00:29Z",
@@ -385,21 +400,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "published_at": "2026-07-30T20:43:23Z",
-      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "tags": [
-        "ai",
-        "rag",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
-      "source": "Dev.to",
-      "user": "Giulio D'Erme"
     },
     {
       "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 573,
       "user": "0xwilliamortiz"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 492,
       "user": "sophiamyang"
     },
     {
@@ -761,14 +761,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 302,
       "user": "joeseesun"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "title": "Anionex/agent-vision-toolkit - 给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+      "url": "https://github.com/Anionex/agent-vision-toolkit",
       "published_at": "2026-08-01T10:00:13Z",
-      "description": "给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
+      "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
       "tags": [
         "python",
         "github",
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 284,
       "user": "Anionex"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 441,
       "user": "magicrew"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5078,
+      "stars": 5290,
       "user": "trycompai"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1538,
       "user": "genspark-ai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1334,
       "user": "thebuggeddev"
     },
     {
@@ -868,6 +868,19 @@
       "source": "GitHub",
       "stars": 358,
       "user": "HaidarJbeily7"
+    },
+    {
+      "title": "rust-lang/rust is adopting an LLM policy",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "published_at": "2026-08-05T01:55:36.963-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "wezm"
     },
     {
       "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
@@ -971,22 +984,6 @@
       "user": "Aisha Malik"
     },
     {
-      "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "published_at": "2026-08-04T19:28:49.000Z",
-      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Security",
-        "cybersecurity",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
       "url": "https://www.freecodecamp.org/news/what-does-a-modern-qa-engineer-do/",
       "published_at": "2026-08-04T18:24:32.000Z",
@@ -1077,21 +1074,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -1105,6 +1087,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+      "published_at": "2026-07-28T10:50:54Z",
+      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "tags": [
+        "react",
+        "webdev",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
@@ -1268,7 +1265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 726,
       "user": "x4gKing"
     },
     {
@@ -1283,7 +1280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 573,
       "user": "0xwilliamortiz"
     },
     {
@@ -1313,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 492,
       "user": "sophiamyang"
     },
     {
@@ -1343,7 +1340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 379,
       "user": "disler"
     },
     {
@@ -1358,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5078,
+      "stars": 5290,
       "user": "trycompai"
     },
     {
@@ -1373,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4581,
+      "stars": 4607,
       "user": "bashalarmistalt"
     },
     {
@@ -1388,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1538,
       "user": "genspark-ai"
     },
     {
@@ -1403,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1334,
       "user": "thebuggeddev"
     },
     {
@@ -1418,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 557,
       "user": "guillermolg00"
     },
     {
@@ -1433,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 2208,
+      "stars": 2594,
       "user": "firecrawl"
     },
     {
@@ -1500,7 +1497,7 @@
       "title": "How can I locate an element in a nested div without selecting the outer div?",
       "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
       "published_at": "2026-08-02T21:00:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "ui-automation",
@@ -1514,7 +1511,7 @@
       "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
       "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
       "published_at": "2026-08-03T13:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "json"
@@ -1792,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 651,
       "user": "KKKKhazix"
     },
     {
@@ -1807,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 379,
       "user": "disler"
     },
     {
@@ -1822,14 +1819,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 302,
       "user": "joeseesun"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "title": "Anionex/agent-vision-toolkit - 给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+      "url": "https://github.com/Anionex/agent-vision-toolkit",
       "published_at": "2026-08-01T10:00:13Z",
-      "description": "给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
+      "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
       "tags": [
         "python",
         "github",
@@ -1837,23 +1834,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 284,
       "user": "Anionex"
     },
     {
-      "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
-      "url": "https://github.com/0rangec3t/Black-cat",
-      "published_at": "2026-07-30T03:42:47Z",
-      "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "title": "alexan0618/zkky - 直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "published_at": "2026-08-03T12:57:22Z",
+      "description": "直卡开源",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
       "source": "GitHub",
-      "stars": 253,
-      "user": "0rangec3t"
+      "stars": 256,
+      "user": "alexan0618"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1867,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 2208,
+      "stars": 2594,
       "user": "firecrawl"
     },
     {
@@ -1882,6 +1879,58 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sunhrit Paria"
+    },
+    {
+      "title": "I need the path of the file that is invoking the launch of my Python application",
+      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
+      "published_at": "2026-08-05T05:48:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "path",
+        "launch"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeex"
+    },
+    {
+      "title": "Why is only one of my tasks being cancelled in my python asyncio program?",
+      "url": "https://stackoverflow.com/questions/79990524/why-is-only-one-of-my-tasks-being-cancelled-in-my-python-asyncio-program",
+      "published_at": "2026-08-04T21:00:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "Pyscript app that opens and saves files locally",
+      "url": "https://stackoverflow.com/questions/79990534/pyscript-app-that-opens-and-saves-files-locally",
+      "published_at": "2026-08-04T21:51:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
+    },
+    {
+      "title": "How to iterate through this table in python?",
+      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
+      "published_at": "2026-08-04T19:22:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user683"
     },
     {
       "title": "Python dataclasses - intercept field assignment",
@@ -1926,43 +1975,6 @@
       "user": "Carcophan"
     },
     {
-      "title": "Pyscript app that opens and saves files locally",
-      "url": "https://stackoverflow.com/questions/79990534/pyscript-app-that-opens-and-saves-files-locally",
-      "published_at": "2026-08-04T21:51:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
-    },
-    {
-      "title": "How to iterate through this table in python?",
-      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
-      "published_at": "2026-08-04T19:22:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user683"
-    },
-    {
-      "title": "How to use dictionary comprehension to make a dictionary that has a word as a key and the length of it as the value",
-      "url": "https://stackoverflow.com/questions/79990527/how-to-use-dictionary-comprehension-to-make-a-dictionary-that-has-a-word-as-a-ke",
-      "published_at": "2026-08-04T21:07:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TheLegend"
-    },
-    {
       "title": "How to display a grid of random colors in Pygame rather than a single color?",
       "url": "https://stackoverflow.com/questions/79990494/how-to-display-a-grid-of-random-colors-in-pygame-rather-than-a-single-color",
       "published_at": "2026-08-04T18:35:51.000Z",
@@ -1989,20 +2001,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user1"
-    },
-    {
-      "title": "Python subprocess.cwd differs from bash cd",
-      "url": "https://stackoverflow.com/questions/79990377/python-subprocess-cwd-differs-from-bash-cd",
-      "published_at": "2026-08-04T11:33:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "wordpress",
-        "subprocess"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "npr_se"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2988,22 +2986,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "published_at": "2026-08-04T19:28:49.000Z",
-      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Security",
-        "cybersecurity",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     }
   ],
   "Tools": [
@@ -3158,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 726,
       "user": "x4gKing"
     },
     {
@@ -3173,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 573,
       "user": "0xwilliamortiz"
     },
     {
@@ -3203,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 492,
       "user": "sophiamyang"
     },
     {
@@ -3233,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 651,
       "user": "KKKKhazix"
     },
     {
@@ -3248,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 379,
       "user": "disler"
     },
     {
@@ -3263,14 +3245,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 302,
       "user": "joeseesun"
     },
     {
-      "title": "Anionex/codex-vision-proxy - 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
-      "url": "https://github.com/Anionex/codex-vision-proxy",
+      "title": "Anionex/agent-vision-toolkit - 给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+      "url": "https://github.com/Anionex/agent-vision-toolkit",
       "published_at": "2026-08-01T10:00:13Z",
-      "description": "给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilities, along with a carefully designed vision toolkit and skill",
+      "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
       "tags": [
         "python",
         "github",
@@ -3278,23 +3260,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 284,
       "user": "Anionex"
     },
     {
-      "title": "0rangec3t/Black-cat - Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
-      "url": "https://github.com/0rangec3t/Black-cat",
-      "published_at": "2026-07-30T03:42:47Z",
-      "description": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill",
+      "title": "alexan0618/zkky - 直卡开源",
+      "url": "https://github.com/alexan0618/zkky",
+      "published_at": "2026-08-03T12:57:22Z",
+      "description": "直卡开源",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/121176091?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
       "source": "GitHub",
-      "stars": 253,
-      "user": "0rangec3t"
+      "stars": 256,
+      "user": "alexan0618"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3308,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 441,
       "user": "magicrew"
     },
     {
@@ -3323,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/109565963?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "codermyxiaoc"
     },
     {
@@ -3353,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "lij768423-svg"
     },
     {
@@ -3383,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5078,
+      "stars": 5290,
       "user": "trycompai"
     },
     {
@@ -3398,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4581,
+      "stars": 4607,
       "user": "bashalarmistalt"
     },
     {
@@ -3413,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1453,
+      "stars": 1538,
       "user": "genspark-ai"
     },
     {
@@ -3428,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1334,
       "user": "thebuggeddev"
     },
     {
@@ -3443,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 557,
       "user": "guillermolg00"
     },
     {
@@ -3458,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 2208,
+      "stars": 2594,
       "user": "firecrawl"
     },
     {
@@ -3488,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "l00sed"
     },
     {
@@ -3503,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 160,
       "user": "cristicretu"
     },
     {
@@ -3518,21 +3500,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 126,
       "user": "poxk"
-    },
-    {
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "published_at": "2026-08-04T05:51:46.868-05:00",
-      "description": "Changelog: https://github.com/FFmpeg/FFmpeg/blob/n9.0/Changelog",
-      "tags": [
-        "graphics",
-        "release"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "olex"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
