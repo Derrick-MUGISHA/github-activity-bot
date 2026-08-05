@@ -29,6 +29,21 @@
       "user": "xbill"
     },
     {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "published_at": "2026-08-01T16:03:02Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
       "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
       "published_at": "2026-07-31T13:17:16Z",
@@ -265,21 +280,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 533,
       "user": "sophiamyang"
     },
     {
@@ -761,8 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 929,
       "user": "KKKKhazix"
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "published_at": "2026-08-05T07:30:56Z",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
+      "source": "GitHub",
+      "stars": 335,
+      "user": "Binaryify"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 309,
       "user": "joeseesun"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "Anionex"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "magicrew"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5584,
+      "stars": 5782,
       "user": "trycompai"
     },
     {
@@ -851,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1664,
       "user": "genspark-ai"
     },
     {
@@ -866,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1478,
       "user": "thebuggeddev"
     },
     {
@@ -910,17 +925,80 @@
       "user": "j11g"
     },
     {
-      "title": "How did you become an expert in Programming before AI",
-      "url": "https://stackoverflow.com/questions/79990682/how-did-you-become-an-expert-in-programming-before-ai",
-      "published_at": "2026-08-05T12:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Painting with Gaussians",
+      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+      "published_at": "2026-08-05T08:33:16.943-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "advice",
-        "python"
+        "graphics",
+        "programming",
+        "vibecoding"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dominic Mulenga"
+      "source": "Lobste.rs",
+      "user": "Yogthos"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "published_at": "2026-08-05T15:05:00.000Z",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "tags": [
+        "AI",
+        "TechCrunch Disrupt",
+        "Colossal Biosciences"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "Trump EPA wrongly canceled $20B in climate funds, appeals court rules",
+      "url": "https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/",
+      "published_at": "2026-08-05T14:40:13.000Z",
+      "description": "Climate nonprofits can again access their federal funding more than a year after the Trump EPA ordered Citibank to freeze their accounts.",
+      "tags": [
+        "Climate",
+        "Government & Policy",
+        "Environmental Protection Agency",
+        "inflation reduction act",
+        "one big beautiful bill"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "published_at": "2026-08-05T14:13:18.000Z",
+      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "AI chips",
+        "Anthropic",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
+      "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
+      "published_at": "2026-08-05T13:21:43.000Z",
+      "description": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "content creator",
+        "disney+",
+        "short form video"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
@@ -967,50 +1045,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "published_at": "2026-08-05T11:00:00.000Z",
-      "description": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "tags": [
-        "Venture",
-        "AI",
-        "weather",
-        "meteorology"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-      "published_at": "2026-08-04T22:18:30.000Z",
-      "description": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "tags": [
-        "Startups",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "published_at": "2026-08-04T21:07:26.000Z",
-      "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Space",
-        "Megapack",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
@@ -1101,6 +1135,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
+      "published_at": "2026-07-30T08:02:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "angular",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
@@ -1294,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 775,
       "user": "x4gKing"
     },
     {
@@ -1339,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 533,
       "user": "sophiamyang"
     },
     {
@@ -1369,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 398,
       "user": "disler"
     },
     {
@@ -1384,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5584,
+      "stars": 5782,
       "user": "trycompai"
     },
     {
@@ -1399,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4631,
+      "stars": 4648,
       "user": "bashalarmistalt"
     },
     {
@@ -1414,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1664,
       "user": "genspark-ai"
     },
     {
@@ -1429,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1478,
       "user": "thebuggeddev"
     },
     {
@@ -1444,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 643,
       "user": "guillermolg00"
     },
     {
@@ -1459,14 +1508,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 3131,
+      "stars": 3700,
       "user": "firecrawl"
+    },
+    {
+      "title": "How to build a shared lock using Atomics",
+      "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-shared-lock-using-atomics",
+      "published_at": "2026-08-05T14:28:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "multithreading",
+        "atomic",
+        "sharedarraybuffer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Bledder"
+    },
+    {
+      "title": "HTML-FORM-ISSUE",
+      "url": "https://stackoverflow.com/questions/79990718/html-form-issue",
+      "published_at": "2026-08-05T13:45:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28144741"
     },
     {
       "title": "Javascript generator only running through one array",
       "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
       "published_at": "2026-08-05T05:53:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "arrays",
@@ -1537,19 +1616,6 @@
       "user": "Adnan Zaman"
     },
     {
-      "title": "How do I access multiple entries from a JSON file, that I appended to a <select>",
-      "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
-      "published_at": "2026-08-03T13:09:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "json"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Orc2000"
-    },
-    {
       "title": "Javascript innerText not replacing existing text",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "published_at": "2026-08-01T14:45:05.000Z",
@@ -1593,20 +1659,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "How do I generate SEO-friendly meta tags in React?",
-      "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
-      "published_at": "2026-06-03T13:40:37.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "seo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aryananda arya"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -1818,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 929,
       "user": "KKKKhazix"
     },
     {
@@ -1833,8 +1885,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 398,
       "user": "disler"
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "published_at": "2026-08-05T07:30:56Z",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
+      "source": "GitHub",
+      "stars": 335,
+      "user": "Binaryify"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -1848,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 309,
       "user": "joeseesun"
     },
     {
@@ -1863,23 +1930,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "Anionex"
-    },
-    {
-      "title": "alexan0618/zkky - 直卡开源",
-      "url": "https://github.com/alexan0618/zkky",
-      "published_at": "2026-08-03T12:57:22Z",
-      "description": "直卡开源",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "alexan0618"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1893,35 +1945,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 3131,
+      "stars": 3700,
       "user": "firecrawl"
     },
     {
-      "title": "How did you become an expert in Programming before AI",
-      "url": "https://stackoverflow.com/questions/79990682/how-did-you-become-an-expert-in-programming-before-ai",
-      "published_at": "2026-08-05T12:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "When should a Python project be reorganized into packages instead of keeping modules in the project root?",
+      "url": "https://stackoverflow.com/questions/79990707/when-should-a-python-project-be-reorganized-into-packages-instead-of-keeping-mod",
+      "published_at": "2026-08-05T13:16:24.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
-        "advice",
+        "best-practices",
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Dominic Mulenga"
-    },
-    {
-      "title": "https://0a5f00c4049f77c68052daf300f2001f.web-security-academy.net/",
-      "url": "https://stackoverflow.com/questions/79990669/https-0a5f00c4049f77c68052daf300f2001f-web-security-academy-net",
-      "published_at": "2026-08-05T11:17:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "security",
-        "burp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ashutosh Das"
+      "user": "mxbndwld"
     },
     {
       "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
@@ -1950,6 +1988,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sunhrit Paria"
+    },
+    {
+      "title": "Python dataclasses - intercept field assignment",
+      "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
+      "published_at": "2026-08-04T22:18:29.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "pydantic",
+        "metaclass",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jim Garrison"
     },
     {
       "title": "I need the path of the file that is invoking the launch of my Python application",
@@ -2004,21 +2057,6 @@
       "user": "Pfalbaum"
     },
     {
-      "title": "Python dataclasses - intercept field assignment",
-      "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
-      "published_at": "2026-08-04T22:18:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "pydantic",
-        "metaclass",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jim Garrison"
-    },
-    {
       "title": "Why can my to-do list only hold two items?",
       "url": "https://stackoverflow.com/questions/79990514/why-can-my-to-do-list-only-hold-two-items",
       "published_at": "2026-08-04T19:52:37.000Z",
@@ -2030,6 +2068,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Willow Imam"
+    },
+    {
+      "title": "How to test for subgraph isomorphism using networkx",
+      "url": "https://stackoverflow.com/questions/79990454/how-to-test-for-subgraph-isomorphism-using-networkx",
+      "published_at": "2026-08-04T15:34:34.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "networkx",
+        "graph-theory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Carcophan"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2048,21 +2100,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
@@ -2286,6 +2323,20 @@
       "user": "seg6"
     },
     {
+      "title": "HTML-FORM-ISSUE",
+      "url": "https://stackoverflow.com/questions/79990718/html-form-issue",
+      "published_at": "2026-08-05T13:45:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28144741"
+    },
+    {
       "title": "Classic scrollbar width getters not working on Firefox",
       "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
       "published_at": "2026-08-04T08:24:42.000Z",
@@ -2360,6 +2411,21 @@
   ],
   "Mobile": [
     {
+      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
+      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
+      "published_at": "2026-08-04T23:10:31Z",
+      "description": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals, compare 3 clean form architectural patterns, and pick the right one for your app.",
+      "tags": [
+        "flutter",
+        "dart",
+        "bloc",
+        "signals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
       "published_at": "2026-07-27T15:37:53Z",
@@ -2386,21 +2452,6 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a68a1k9wglkhz8ygozl.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Porting 16 BLoC & Signal Benchmark Apps to BlocSignal: Elevating Flutter UX & DX",
-      "url": "https://dev.to/gde/porting-16-bloc-signal-benchmark-apps-to-blocsignal-elevating-flutter-ux-dx-2dnl",
-      "published_at": "2026-08-02T18:21:58Z",
-      "description": "We ported 16 official example apps from felangel/bloc and rodydavis/signals.dart to showcase how BlocSignal simplifies Flutter state management with synchronous frame updates, computed() derivations, and streamless Mutex concurrency.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fazbfkq7ro5fnjh4y9o65.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2448,6 +2499,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi01luwz6dmvdaxoo8po.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "published_at": "2026-08-05T15:05:00.000Z",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "tags": [
+        "AI",
+        "TechCrunch Disrupt",
+        "Colossal Biosciences"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     }
   ],
   "Cloud": [
@@ -2613,21 +2678,6 @@
         "a2a"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
-      "published_at": "2026-07-08T13:26:02Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "mcps",
-        "googleantigravity",
-        "googletpu",
-        "gemma4"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2939,20 +2989,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "kevincox"
-    },
-    {
-      "title": "https://0a5f00c4049f77c68052daf300f2001f.web-security-academy.net/",
-      "url": "https://stackoverflow.com/questions/79990669/https-0a5f00c4049f77c68052daf300f2001f-web-security-academy-net",
-      "published_at": "2026-08-05T11:17:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "security",
-        "burp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ashutosh Das"
     }
   ],
   "Tools": [
@@ -2968,21 +3004,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
       "source": "Dev.to",
       "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -3092,7 +3113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 775,
       "user": "x4gKing"
     },
     {
@@ -3137,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 533,
       "user": "sophiamyang"
     },
     {
@@ -3167,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 929,
       "user": "KKKKhazix"
     },
     {
@@ -3182,8 +3203,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 398,
       "user": "disler"
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "published_at": "2026-08-05T07:30:56Z",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
+      "source": "GitHub",
+      "stars": 335,
+      "user": "Binaryify"
     },
     {
       "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -3197,7 +3233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 309,
       "user": "joeseesun"
     },
     {
@@ -3212,23 +3248,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/123177548?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 295,
       "user": "Anionex"
-    },
-    {
-      "title": "alexan0618/zkky - 直卡开源",
-      "url": "https://github.com/alexan0618/zkky",
-      "published_at": "2026-08-03T12:57:22Z",
-      "description": "直卡开源",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/301847489?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "alexan0618"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3242,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 448,
       "user": "magicrew"
     },
     {
@@ -3287,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "lij768423-svg"
     },
     {
@@ -3317,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 5584,
+      "stars": 5782,
       "user": "trycompai"
     },
     {
@@ -3332,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311128416?v=4",
       "source": "GitHub",
-      "stars": 4631,
+      "stars": 4648,
       "user": "bashalarmistalt"
     },
     {
@@ -3347,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1620,
+      "stars": 1664,
       "user": "genspark-ai"
     },
     {
@@ -3362,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1478,
       "user": "thebuggeddev"
     },
     {
@@ -3377,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 643,
       "user": "guillermolg00"
     },
     {
@@ -3392,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 3131,
+      "stars": 3700,
       "user": "firecrawl"
     },
     {
@@ -3422,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "l00sed"
     },
     {
@@ -3437,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 193,
       "user": "cristicretu"
     },
     {
@@ -3452,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 130,
       "user": "poxk"
     },
     {
@@ -3470,6 +3491,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "published_at": "2026-08-05T15:05:00.000Z",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "tags": [
+        "AI",
+        "TechCrunch Disrupt",
+        "Colossal Biosciences"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
