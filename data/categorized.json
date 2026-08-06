@@ -357,21 +357,6 @@
       "user": "John"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "published_at": "2026-07-30T20:43:23Z",
@@ -385,6 +370,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
       "source": "Dev.to",
       "user": "Giulio D'Erme"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "Your RAG copilot can't count — stop letting it try",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 573,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1318,
+      "stars": 1412,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 1004,
       "user": "Binaryify"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 358,
       "user": "SandAI-org"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6665,
+      "stars": 6812,
       "user": "trycompai"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1928,
       "user": "genspark-ai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1691,
+      "stars": 1742,
       "user": "thebuggeddev"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "HaidarJbeily7"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 833,
       "user": "x4gKing"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 573,
       "user": "sophiamyang"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 437,
       "user": "disler"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6665,
+      "stars": 6812,
       "user": "trycompai"
     },
     {
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1928,
       "user": "genspark-ai"
     },
     {
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1691,
+      "stars": 1742,
       "user": "thebuggeddev"
     },
     {
@@ -1421,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 766,
       "user": "guillermolg00"
     },
     {
@@ -1436,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "deedy"
     },
     {
@@ -1451,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5806,
+      "stars": 6109,
       "user": "firecrawl"
     },
     {
@@ -1486,7 +1486,7 @@
       "title": "How to build a shared lock using Atomics",
       "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-shared-lock-using-atomics",
       "published_at": "2026-08-05T14:28:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "best-practices",
         "javascript",
@@ -1576,32 +1576,35 @@
       "user": "Malte K"
     },
     {
-      "title": "How to parse and read SketchUp (.skp) files programmatically in Python or JavaScript without the official C++ SDK?",
-      "url": "https://stackoverflow.com/questions/79966226/how-to-parse-and-read-sketchup-skp-files-programmatically-in-python-or-javasc",
-      "published_at": "2026-06-24T08:56:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
-        "python",
-        "sketchup"
+        "security",
+        "iframe",
+        "sanitization"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "iamahsanmehmoood"
+      "user": "Mahesh Hadagali Sangamesh"
     },
     {
-      "title": "How do I generate SEO-friendly meta tags in React?",
-      "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
-      "published_at": "2026-06-03T13:40:37.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "title": "Check if mouse button down in JS on browser",
+      "url": "https://stackoverflow.com/questions/322378/check-if-mouse-button-down-in-js-on-browser",
+      "published_at": "2008-11-26T22:29:23.000Z",
+      "description": "Stack Overflow question · 17 answers · score 188",
       "tags": [
         "javascript",
-        "reactjs",
-        "seo"
+        "input",
+        "mouse",
+        "user-input",
+        "input-devices"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Aryananda arya"
+      "user": "TM."
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -1843,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1318,
+      "stars": 1412,
       "user": "KKKKhazix"
     },
     {
@@ -1858,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 1004,
       "user": "Binaryify"
     },
     {
@@ -1873,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 437,
       "user": "disler"
     },
     {
@@ -1888,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 358,
       "user": "SandAI-org"
     },
     {
@@ -1903,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "0xwilliamortiz"
     },
     {
@@ -1918,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5806,
+      "stars": 6109,
       "user": "firecrawl"
     },
     {
@@ -1934,18 +1937,44 @@
       "user": "raymii"
     },
     {
-      "title": "How to parse and read SketchUp (.skp) files programmatically in Python or JavaScript without the official C++ SDK?",
-      "url": "https://stackoverflow.com/questions/79966226/how-to-parse-and-read-sketchup-skp-files-programmatically-in-python-or-javasc",
-      "published_at": "2026-06-24T08:56:42.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "title": "How do I stop a Python comment from being the only line of code running in VS Code?",
+      "url": "https://stackoverflow.com/questions/79990962/how-do-i-stop-a-python-comment-from-being-the-only-line-of-code-running-in-vs-co",
+      "published_at": "2026-08-06T09:01:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "javascript",
         "python",
-        "sketchup"
+        "visual-studio-code"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "iamahsanmehmoood"
+      "user": "Termin_AI"
+    },
+    {
+      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
+      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
+      "published_at": "2026-08-06T08:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sufian Says Hello"
+    },
+    {
+      "title": "How can I get individual CPU core usage with psutil in Python?",
+      "url": "https://stackoverflow.com/questions/79990922/how-can-i-get-individual-cpu-core-usage-with-psutil-in-python",
+      "published_at": "2026-08-06T07:19:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "psutil"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33004568"
     },
     {
       "title": "How can I separate functions on Python so that it doesn't reset each time I use the terminal?",
@@ -2047,46 +2076,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sunhrit Paria"
-    },
-    {
-      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
-      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
-      "published_at": "2026-08-05T11:32:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "couchdb",
-        "freeze",
-        "couchdb-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sven"
-    },
-    {
-      "title": "How to iterate through this table in python?",
-      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
-      "published_at": "2026-08-04T19:22:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user683"
-    },
-    {
-      "title": "Why is only one of my tasks being cancelled in my python asyncio program?",
-      "url": "https://stackoverflow.com/questions/79990524/why-is-only-one-of-my-tasks-being-cancelled-in-my-python-asyncio-program",
-      "published_at": "2026-08-04T21:00:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2340,7 +2329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "codetesla51"
     },
     {
@@ -2369,6 +2358,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "munHunger"
+    },
+    {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -2403,21 +2407,6 @@
   ],
   "Mobile": [
     {
-      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
-      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
-      "published_at": "2026-08-04T23:10:31Z",
-      "description": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals, compare 3 clean form architectural patterns, and pick the right one for your app.",
-      "tags": [
-        "flutter",
-        "dart",
-        "bloc",
-        "signals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
       "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
       "published_at": "2026-07-27T15:37:53Z",
@@ -2429,6 +2418,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
+      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
+      "published_at": "2026-08-04T23:10:31Z",
+      "description": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals, compare 3 clean form architectural patterns, and pick the right one for your app.",
+      "tags": [
+        "flutter",
+        "dart",
+        "bloc",
+        "signals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2790,7 +2794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "0xwilliamortiz"
     },
     {
@@ -2805,7 +2809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "codetesla51"
     },
     {
@@ -3014,8 +3018,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "0xwilliamortiz"
+    },
+    {
+      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
+      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
+      "published_at": "2026-04-15T11:09:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "security",
+        "iframe",
+        "sanitization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mahesh Hadagali Sangamesh"
     }
   ],
   "Tools": [
@@ -3170,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 833,
       "user": "x4gKing"
     },
     {
@@ -3200,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 573,
       "user": "sophiamyang"
     },
     {
@@ -3245,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1318,
+      "stars": 1412,
       "user": "KKKKhazix"
     },
     {
@@ -3260,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 1004,
       "user": "Binaryify"
     },
     {
@@ -3275,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 437,
       "user": "disler"
     },
     {
@@ -3290,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 358,
       "user": "SandAI-org"
     },
     {
@@ -3305,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 334,
       "user": "0xwilliamortiz"
     },
     {
@@ -3335,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 150,
       "user": "lij768423-svg"
     },
     {
@@ -3350,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 72,
       "user": "codetesla51"
     },
     {
@@ -3365,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28004283?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "BetaLi"
     },
     {
@@ -3380,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 45,
       "user": "smol-env"
     },
     {
@@ -3395,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6665,
+      "stars": 6812,
       "user": "trycompai"
     },
     {
@@ -3410,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1881,
+      "stars": 1928,
       "user": "genspark-ai"
     },
     {
@@ -3425,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1691,
+      "stars": 1742,
       "user": "thebuggeddev"
     },
     {
@@ -3440,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 766,
       "user": "guillermolg00"
     },
     {
@@ -3455,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 420,
       "user": "deedy"
     },
     {
@@ -3470,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5806,
+      "stars": 6109,
       "user": "firecrawl"
     },
     {
@@ -3485,8 +3504,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "HaidarJbeily7"
+    },
+    {
+      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "url": "https://github.com/cristicretu/diri",
+      "published_at": "2026-08-04T10:08:23Z",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
+      "source": "GitHub",
+      "stars": 207,
+      "user": "cristicretu"
     },
     {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
@@ -3504,21 +3538,6 @@
       "user": "l00sed"
     },
     {
-      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "url": "https://github.com/cristicretu/diri",
-      "published_at": "2026-08-04T10:08:23Z",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
-      "source": "GitHub",
-      "stars": 206,
-      "user": "cristicretu"
-    },
-    {
       "title": "Gaoshu705/QzoneArchive - 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
       "url": "https://github.com/Gaoshu705/QzoneArchive",
       "published_at": "2026-08-02T19:53:30Z",
@@ -3530,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 177,
       "user": "Gaoshu705"
     },
     {
