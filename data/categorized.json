@@ -222,21 +222,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google ADK: Architecture and Essential Components",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
-      "published_at": "2026-08-02T12:04:38Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
-    },
-    {
       "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
       "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
       "published_at": "2026-07-31T17:44:54Z",
@@ -507,6 +492,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google ADK: Architecture and Essential Components",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
+      "published_at": "2026-08-02T12:04:38Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
+    {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
       "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
       "published_at": "2026-07-23T13:24:50Z",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1477,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1159,
       "user": "Binaryify"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "SandAI-org"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "magicrew"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6898,
+      "stars": 6971,
       "user": "trycompai"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1966,
+      "stars": 1997,
       "user": "genspark-ai"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1797,
       "user": "thebuggeddev"
     },
     {
@@ -883,110 +883,129 @@
       "user": "wezm"
     },
     {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "published_at": "2026-08-05T21:21:28.000Z",
-      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
+      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
+      "published_at": "2022-04-30T17:39:03.000Z",
+      "description": "Stack Overflow question · 17 answers · score 62",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "kubernetes",
+        "mime-types"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "suku"
+    },
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "published_at": "2026-08-06T13:31:57.000Z",
+      "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
       "tags": [
         "AI",
-        "Anthropic",
-        "In Brief",
-        "Mark Zuckerberg",
-        "Meta"
+        "Apps",
+        "Music AI",
+        "suno",
+        "watermarking"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Ivan Mehta"
     },
     {
-      "title": "Trump&#8217;s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-      "published_at": "2026-08-05T21:05:37.000Z",
-      "description": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
-      "tags": [
-        "Government & Policy",
-        "Startups",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-      "published_at": "2026-08-05T20:50:45.000Z",
-      "description": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "title": "Ford&#8217;s new electric truck, &#8216;Fathom&#8217;, starts at $28,350",
+      "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+      "published_at": "2026-08-06T13:01:25.000Z",
+      "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
       "tags": [
         "Transportation",
-        "Venture",
-        "Moove"
+        "electric trucks",
+        "EVs",
+        "Ford"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "user": "Sean O'Kane"
     },
     {
-      "title": "How Lightspeed found its newest hire … via Instagram DM",
-      "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
-      "published_at": "2026-08-05T20:48:56.000Z",
-      "description": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "Equity",
-        "lightspeed"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Why Lightspeed is going all-in on creator-led venture capital",
-      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-      "published_at": "2026-08-05T20:48:54.000Z",
-      "description": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;OpenAI&#8217;s acquisiti",
-      "tags": [
-        "Social",
-        "Venture",
-        "content creation",
-        "lightspeed venture partners",
-        "venture capital"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "published_at": "2026-08-05T20:05:00.000Z",
-      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "published_at": "2026-08-06T13:00:00.000Z",
+      "description": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
       "tags": [
         "AI",
-        "Startups",
-        "acqui-hire",
-        "exit",
-        "Klaviyo"
+        "Commerce",
+        "Fundraising",
+        "Bessemer Venture Partners",
+        "Gradient Ventures"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "published_at": "2026-08-05T19:30:19.000Z",
-      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "published_at": "2026-08-06T13:00:00.000Z",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
       "tags": [
         "AI",
-        "DeepMind",
+        "Enterprise",
+        "Exclusive",
         "Google",
-        "Jeff Dean"
+        "google cloud"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "published_at": "2026-08-06T12:30:00.000Z",
+      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google Maps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "published_at": "2026-08-06T12:00:00.000Z",
+      "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "customer support",
+        "Expedition Growth Capital"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP",
+      "url": "https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/",
+      "published_at": "2026-08-06T09:15:25.000Z",
+      "description": "Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev",
+      "tags": [
+        "Healthcare AI",
+        "ai agents",
+        "Claude Desktop",
+        "mcp",
+        "Medical Imaging"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -1033,20 +1052,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Casmir Onyekani"
-    },
-    {
-      "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
-      "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
-      "published_at": "2026-08-03T18:15:54.000Z",
-      "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
-      "tags": [
-        "deployment",
-        "Kubernetes",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1272,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 848,
       "user": "x4gKing"
     },
     {
@@ -1302,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "sophiamyang"
     },
     {
@@ -1347,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 448,
       "user": "disler"
     },
     {
@@ -1362,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6898,
+      "stars": 6971,
       "user": "trycompai"
     },
     {
@@ -1377,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1966,
+      "stars": 1997,
       "user": "genspark-ai"
     },
     {
@@ -1392,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1797,
       "user": "thebuggeddev"
     },
     {
@@ -1407,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 789,
       "user": "guillermolg00"
     },
     {
@@ -1422,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "deedy"
     },
     {
@@ -1437,20 +1442,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 6458,
+      "stars": 6990,
       "user": "firecrawl"
-    },
-    {
-      "title": "Why I defined baseurl but still saying that it is not defined",
-      "url": "https://stackoverflow.com/questions/79990994/why-i-defined-baseurl-but-still-saying-that-it-is-not-defined",
-      "published_at": "2026-08-06T11:14:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dow Monke"
     },
     {
       "title": "I want to filter the class but got error .filter is not a function",
@@ -1464,21 +1457,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hanzla Khalid"
-    },
-    {
-      "title": "Javascript generator only running through one array",
-      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
-      "published_at": "2026-08-05T05:53:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "arrays",
-        "random",
-        "text"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Explorer"
     },
     {
       "title": "How to build a shared lock using Atomics",
@@ -1497,10 +1475,25 @@
       "user": "Bledder"
     },
     {
+      "title": "Javascript generator only running through one array",
+      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
+      "published_at": "2026-08-05T05:53:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "arrays",
+        "random",
+        "text"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Explorer"
+    },
+    {
       "title": "Encoding UTF-8 hex and decoding UTF-8 hex in JavaScript",
       "url": "https://stackoverflow.com/questions/79990418/encoding-utf-8-hex-and-decoding-utf-8-hex-in-javascript",
       "published_at": "2026-08-04T13:53:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "advice",
         "javascript",
@@ -1516,7 +1509,7 @@
       "title": "How to test Vue ripple directive has been used?",
       "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
       "published_at": "2026-07-31T20:17:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "vue.js",
@@ -1527,6 +1520,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chiara Ani"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
+    },
+    {
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "recaptcha",
+        "netlify",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "How to round to at most 2 decimal places, if necessary",
@@ -1541,22 +1565,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "stinkycheeseman"
-    },
-    {
-      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
-      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
-      "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "forms",
-        "recaptcha",
-        "hugo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
     },
     {
       "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
@@ -1574,16 +1582,20 @@
       "user": "Mahesh Hadagali Sangamesh"
     },
     {
-      "title": "How can I avoid scientific notation for large numbers in JavaScript?",
-      "url": "https://stackoverflow.com/questions/1685680/how-can-i-avoid-scientific-notation-for-large-numbers-in-javascript",
-      "published_at": "2009-11-06T05:54:01.000Z",
-      "description": "Stack Overflow question · 29 answers · score 325",
+      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
+      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
+      "published_at": "2022-04-30T17:39:03.000Z",
+      "description": "Stack Overflow question · 17 answers · score 62",
       "tags": [
-        "javascript"
+        "javascript",
+        "angular",
+        "google-chrome",
+        "kubernetes",
+        "mime-types"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "chris"
+      "user": "suku"
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -1825,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1477,
       "user": "KKKKhazix"
     },
     {
@@ -1840,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1159,
       "user": "Binaryify"
     },
     {
@@ -1855,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 448,
       "user": "disler"
     },
     {
@@ -1870,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "SandAI-org"
     },
     {
@@ -1885,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "0xwilliamortiz"
     },
     {
@@ -1900,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 6458,
+      "stars": 6990,
       "user": "firecrawl"
     },
     {
@@ -1916,18 +1928,42 @@
       "user": "raymii"
     },
     {
-      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
-      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
-      "published_at": "2026-08-06T08:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "RabbitMQ is missing every other message",
+      "url": "https://stackoverflow.com/questions/79991050/rabbitmq-is-missing-every-other-message",
+      "published_at": "2026-08-06T14:24:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "visual-studio-code",
-        "pygame"
+        "rabbitmq"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sufian Says Hello"
+      "user": "BertC"
+    },
+    {
+      "title": "Always unmute/mute a mic in Python",
+      "url": "https://stackoverflow.com/questions/79991046/always-unmute-mute-a-mic-in-python",
+      "published_at": "2026-08-06T13:57:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "controls"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Archie Enstone"
+    },
+    {
+      "title": "ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'd:\\\\chatbot\\\\scripts\\\\pip.exe' Check the permissions",
+      "url": "https://stackoverflow.com/questions/79991044/error-could-not-install-packages-due-to-an-oserror-winerror-5-access-is-deni",
+      "published_at": "2026-08-06T13:56:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trung Trưc"
     },
     {
       "title": "How can I get individual CPU core usage with psutil in Python?",
@@ -1941,6 +1977,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33004568"
+    },
+    {
+      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
+      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
+      "published_at": "2026-08-06T08:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sufian Says Hello"
     },
     {
       "title": "How can I separate functions on Python so that it doesn't reset each time I use the terminal?",
@@ -1973,6 +2023,22 @@
       "user": "Stevoisiak"
     },
     {
+      "title": "I need the path of the file that is invoking the launch of my Python application",
+      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
+      "published_at": "2026-08-05T05:48:15.000Z",
+      "description": "Stack Overflow question · 4 answers · score -1",
+      "tags": [
+        "python",
+        "path",
+        "pyinstaller",
+        "launch",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeex"
+    },
+    {
       "title": "When should a Python project be reorganized into packages instead of keeping modules in the project root?",
       "url": "https://stackoverflow.com/questions/79990707/when-should-a-python-project-be-reorganized-into-packages-instead-of-keeping-mod",
       "published_at": "2026-08-05T13:16:24.000Z",
@@ -1998,65 +2064,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "eeem"
-    },
-    {
-      "title": "I need the path of the file that is invoking the launch of my Python application",
-      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
-      "published_at": "2026-08-05T05:48:15.000Z",
-      "description": "Stack Overflow question · 4 answers · score -1",
-      "tags": [
-        "python",
-        "path",
-        "pyinstaller",
-        "launch",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeex"
-    },
-    {
-      "title": "Python dataclasses - intercept field assignment",
-      "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
-      "published_at": "2026-08-04T22:18:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "pydantic",
-        "metaclass",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jim Garrison"
-    },
-    {
-      "title": "Adjusting time and space complexity of array manipulation",
-      "url": "https://stackoverflow.com/questions/79990563/adjusting-time-and-space-complexity-of-array-manipulation",
-      "published_at": "2026-08-05T03:02:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sunhrit Paria"
-    },
-    {
-      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
-      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
-      "published_at": "2026-08-05T11:32:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "couchdb",
-        "freeze",
-        "couchdb-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sven"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2226,6 +2233,22 @@
       "user": "jknupp"
     },
     {
+      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
+      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
+      "published_at": "2022-04-30T17:39:03.000Z",
+      "description": "Stack Overflow question · 17 answers · score 62",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "kubernetes",
+        "mime-types"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "suku"
+    },
+    {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
       "url": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
       "published_at": "2026-08-05T17:14:47.000Z",
@@ -2239,20 +2262,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Gabor Koos"
-    },
-    {
-      "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
-      "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
-      "published_at": "2026-08-03T18:15:54.000Z",
-      "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
-      "tags": [
-        "deployment",
-        "Kubernetes",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "WebDev": [
@@ -2310,7 +2319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "codetesla51"
     },
     {
@@ -2325,6 +2334,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hanzla Khalid"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
@@ -2342,6 +2366,22 @@
       "user": "Mahesh Hadagali Sangamesh"
     },
     {
+      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
+      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
+      "published_at": "2022-04-30T17:39:03.000Z",
+      "description": "Stack Overflow question · 17 answers · score 62",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "kubernetes",
+        "mime-types"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "suku"
+    },
+    {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
       "url": "https://www.freecodecamp.org/news/how-to-build-landing-page-nextjs-shadcn/",
       "published_at": "2026-08-03T18:39:33.000Z",
@@ -2356,20 +2396,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ash"
-    },
-    {
-      "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
-      "url": "https://www.freecodecamp.org/news/what-happens-during-a-production-deployment/",
-      "published_at": "2026-08-03T18:15:54.000Z",
-      "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, health checks, traffic shifts. Every produc",
-      "tags": [
-        "deployment",
-        "Kubernetes",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Mobile": [
@@ -2542,21 +2568,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google ADK: Architecture and Essential Components",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
-      "published_at": "2026-08-02T12:04:38Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
-    },
-    {
       "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
       "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
       "published_at": "2026-07-31T17:44:54Z",
@@ -2692,6 +2703,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google ADK: Architecture and Essential Components",
+      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
+      "published_at": "2026-08-02T12:04:38Z",
+      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
+      "tags": [
+        "ai",
+        "agents",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
+      "source": "Dev.to",
+      "user": "John Bulla"
+    },
+    {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
       "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
       "published_at": "2026-07-23T13:24:50Z",
@@ -2705,6 +2731,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "published_at": "2026-08-06T13:00:00.000Z",
+      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Exclusive",
+        "Google",
+        "google cloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -2761,7 +2803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "0xwilliamortiz"
     },
     {
@@ -2776,7 +2818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "codetesla51"
     },
     {
@@ -2985,7 +3027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "0xwilliamortiz"
     },
     {
@@ -3000,6 +3042,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yoelcabo"
+    },
+    {
+      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
+      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
+      "published_at": "2026-07-23T13:19:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "web",
+        "content-security-policy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MatrixRonny"
     },
     {
       "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
@@ -3169,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 848,
       "user": "x4gKing"
     },
     {
@@ -3199,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "sophiamyang"
     },
     {
@@ -3244,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1477,
       "user": "KKKKhazix"
     },
     {
@@ -3259,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1159,
       "user": "Binaryify"
     },
     {
@@ -3274,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 448,
       "user": "disler"
     },
     {
@@ -3289,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "SandAI-org"
     },
     {
@@ -3304,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 356,
       "user": "0xwilliamortiz"
     },
     {
@@ -3319,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 464,
       "user": "magicrew"
     },
     {
@@ -3334,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "lij768423-svg"
     },
     {
@@ -3349,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 73,
       "user": "codetesla51"
     },
     {
@@ -3379,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 51,
       "user": "smol-env"
     },
     {
@@ -3394,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6898,
+      "stars": 6971,
       "user": "trycompai"
     },
     {
@@ -3409,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1966,
+      "stars": 1997,
       "user": "genspark-ai"
     },
     {
@@ -3424,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1797,
       "user": "thebuggeddev"
     },
     {
@@ -3439,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 789,
       "user": "guillermolg00"
     },
     {
@@ -3454,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "deedy"
     },
     {
@@ -3469,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 6458,
+      "stars": 6990,
       "user": "firecrawl"
     },
     {
@@ -3499,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "cristicretu"
     },
     {
@@ -3514,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 208,
       "user": "l00sed"
     },
     {
@@ -3529,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "Gaoshu705"
     },
     {
@@ -3540,13 +3597,27 @@
       "tags": [
         "tooling-recommendation",
         "javascript",
-        "forms",
         "recaptcha",
+        "netlify",
         "hugo"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "published_at": "2026-08-06T12:30:00.000Z",
+      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google Maps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
