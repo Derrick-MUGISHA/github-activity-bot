@@ -222,21 +222,6 @@
       "user": "xbill"
     },
     {
-      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
-      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
-      "published_at": "2026-07-31T17:44:54Z",
-      "description": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Google ADK: Architecture and Essential Components",
       "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
       "published_at": "2026-08-02T12:04:38Z",
@@ -250,6 +235,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
       "source": "Dev.to",
       "user": "John Bulla"
+    },
+    {
+      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
+      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
+      "published_at": "2026-07-31T17:44:54Z",
+      "description": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
@@ -340,6 +340,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
       "source": "Dev.to",
       "user": "Nazar Boyko"
+    },
+    {
+      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
+      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
+      "published_at": "2026-08-02T00:00:06Z",
+      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbwezdzfb2uqm5jryl9qq.png",
+      "source": "Dev.to",
+      "user": "John"
     },
     {
       "title": "Does it still make sense to learn how to code?",
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 570,
       "user": "sophiamyang"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1318,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 906,
       "user": "Binaryify"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 339,
       "user": "SandAI-org"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 460,
       "user": "magicrew"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6476,
+      "stars": 6665,
       "user": "trycompai"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1881,
       "user": "genspark-ai"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1648,
+      "stars": 1691,
       "user": "thebuggeddev"
     },
     {
@@ -1271,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 823,
       "user": "x4gKing"
     },
     {
@@ -1301,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 570,
       "user": "sophiamyang"
     },
     {
@@ -1331,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "0xwilliamortiz"
     },
     {
@@ -1346,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 433,
       "user": "disler"
     },
     {
@@ -1361,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6476,
+      "stars": 6665,
       "user": "trycompai"
     },
     {
@@ -1376,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1881,
       "user": "genspark-ai"
     },
     {
@@ -1391,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1648,
+      "stars": 1691,
       "user": "thebuggeddev"
     },
     {
@@ -1406,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 750,
       "user": "guillermolg00"
     },
     {
@@ -1421,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "deedy"
     },
     {
@@ -1436,19 +1451,17 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5489,
+      "stars": 5806,
       "user": "firecrawl"
     },
     {
       "title": "I want to filter the class but got error .filter is not a function",
       "url": "https://stackoverflow.com/questions/79990871/i-want-to-filter-the-class-but-got-error-filter-is-not-a-function",
       "published_at": "2026-08-06T03:42:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
-        "debugging",
-        "dom",
-        "functional-programming"
+        "html"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1563,6 +1576,20 @@
       "user": "Malte K"
     },
     {
+      "title": "How to parse and read SketchUp (.skp) files programmatically in Python or JavaScript without the official C++ SDK?",
+      "url": "https://stackoverflow.com/questions/79966226/how-to-parse-and-read-sketchup-skp-files-programmatically-in-python-or-javasc",
+      "published_at": "2026-06-24T08:56:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 2",
+      "tags": [
+        "javascript",
+        "python",
+        "sketchup"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamahsanmehmoood"
+    },
+    {
       "title": "How do I generate SEO-friendly meta tags in React?",
       "url": "https://stackoverflow.com/questions/79950873/how-do-i-generate-seo-friendly-meta-tags-in-react",
       "published_at": "2026-06-03T13:40:37.000Z",
@@ -1575,21 +1602,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aryananda arya"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -1831,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1318,
       "user": "KKKKhazix"
     },
     {
@@ -1846,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 906,
       "user": "Binaryify"
     },
     {
@@ -1861,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 433,
       "user": "disler"
     },
     {
@@ -1876,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 339,
       "user": "SandAI-org"
     },
     {
@@ -1906,14 +1918,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5489,
+      "stars": 5806,
       "user": "firecrawl"
+    },
+    {
+      "title": "python string literals are kinda funny",
+      "url": "https://sebsite.pw/w/20260806-pystrings.html",
+      "published_at": "2026-08-05T23:44:44.655-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "raymii"
+    },
+    {
+      "title": "How to parse and read SketchUp (.skp) files programmatically in Python or JavaScript without the official C++ SDK?",
+      "url": "https://stackoverflow.com/questions/79966226/how-to-parse-and-read-sketchup-skp-files-programmatically-in-python-or-javasc",
+      "published_at": "2026-06-24T08:56:42.000Z",
+      "description": "Stack Overflow question · 5 answers · score 2",
+      "tags": [
+        "javascript",
+        "python",
+        "sketchup"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamahsanmehmoood"
     },
     {
       "title": "How can I separate functions on Python so that it doesn't reset each time I use the terminal?",
       "url": "https://stackoverflow.com/questions/79990855/how-can-i-separate-functions-on-python-so-that-it-doesnt-reset-each-time-i-use",
       "published_at": "2026-08-06T00:44:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-3.x",
@@ -1943,7 +1981,7 @@
       "title": "How to solve verify traffic error for web scraping",
       "url": "https://stackoverflow.com/questions/79990794/how-to-solve-verify-traffic-error-for-web-scraping",
       "published_at": "2026-08-05T18:20:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "web-scraping",
@@ -2302,8 +2340,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "codetesla51"
+    },
+    {
+      "title": "I want to filter the class but got error .filter is not a function",
+      "url": "https://stackoverflow.com/questions/79990871/i-want-to-filter-the-class-but-got-error-filter-is-not-a-function",
+      "published_at": "2026-08-06T03:42:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hanzla Khalid"
     },
     {
       "title": "Classic scrollbar width getters not working on Firefox",
@@ -2318,21 +2369,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "munHunger"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "How to Build an Open Source SaaS Landing Page Template with shadcn/ui",
@@ -2535,21 +2571,6 @@
       "user": "xbill"
     },
     {
-      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
-      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
-      "published_at": "2026-07-31T17:44:54Z",
-      "description": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "azure"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Google ADK: Architecture and Essential Components",
       "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
       "published_at": "2026-08-02T12:04:38Z",
@@ -2563,6 +2584,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
       "source": "Dev.to",
       "user": "John Bulla"
+    },
+    {
+      "title": "Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0",
+      "url": "https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0",
+      "published_at": "2026-07-31T17:44:54Z",
+      "description": "This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Google ADK as the Master Agent, Calling Amazon Bedrock over A2A",
@@ -2769,7 +2805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "codetesla51"
     },
     {
@@ -2980,33 +3016,6 @@
       "source": "GitHub",
       "stars": 332,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "Security is Hard, Y’all",
-      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-      "published_at": "2026-08-04T13:31:48.150-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kevincox"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     }
   ],
   "Tools": [
@@ -3161,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 823,
       "user": "x4gKing"
     },
     {
@@ -3191,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 570,
       "user": "sophiamyang"
     },
     {
@@ -3221,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 433,
       "user": "0xwilliamortiz"
     },
     {
@@ -3236,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1318,
       "user": "KKKKhazix"
     },
     {
@@ -3251,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 906,
       "user": "Binaryify"
     },
     {
@@ -3266,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 433,
       "user": "disler"
     },
     {
@@ -3281,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 339,
       "user": "SandAI-org"
     },
     {
@@ -3311,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 460,
       "user": "magicrew"
     },
     {
@@ -3326,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 147,
       "user": "lij768423-svg"
     },
     {
@@ -3341,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "codetesla51"
     },
     {
@@ -3356,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/28004283?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "BetaLi"
     },
     {
@@ -3371,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
       "source": "GitHub",
-      "stars": 40,
+      "stars": 43,
       "user": "smol-env"
     },
     {
@@ -3386,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6476,
+      "stars": 6665,
       "user": "trycompai"
     },
     {
@@ -3401,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1881,
       "user": "genspark-ai"
     },
     {
@@ -3416,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1648,
+      "stars": 1691,
       "user": "thebuggeddev"
     },
     {
@@ -3431,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 750,
       "user": "guillermolg00"
     },
     {
@@ -3446,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "deedy"
     },
     {
@@ -3461,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5489,
+      "stars": 5806,
       "user": "firecrawl"
     },
     {
@@ -3480,21 +3489,6 @@
       "user": "HaidarJbeily7"
     },
     {
-      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "url": "https://github.com/cristicretu/diri",
-      "published_at": "2026-08-04T10:08:23Z",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
-      "source": "GitHub",
-      "stars": 207,
-      "user": "cristicretu"
-    },
-    {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
       "url": "https://github.com/l00sed/termixer",
       "published_at": "2026-07-31T15:52:49Z",
@@ -3510,6 +3504,21 @@
       "user": "l00sed"
     },
     {
+      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "url": "https://github.com/cristicretu/diri",
+      "published_at": "2026-08-04T10:08:23Z",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
+      "source": "GitHub",
+      "stars": 206,
+      "user": "cristicretu"
+    },
+    {
       "title": "Gaoshu705/QzoneArchive - 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
       "url": "https://github.com/Gaoshu705/QzoneArchive",
       "published_at": "2026-08-02T19:53:30Z",
@@ -3521,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 173,
       "user": "Gaoshu705"
     },
     {
