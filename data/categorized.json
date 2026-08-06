@@ -87,21 +87,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
-      "published_at": "2026-08-02T00:00:06Z",
-      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbwezdzfb2uqm5jryl9qq.png",
-      "source": "Dev.to",
-      "user": "John"
-    },
-    {
       "title": "Catbot: Custom Grammar Problem Fixed",
       "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
       "published_at": "2026-08-01T16:03:02Z",
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 560,
       "user": "sophiamyang"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1235,
       "user": "KKKKhazix"
     },
     {
@@ -776,23 +761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 796,
       "user": "Binaryify"
     },
     {
-      "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "url": "https://github.com/joeseesun/qiaomu-seo",
-      "published_at": "2026-08-03T09:57:25Z",
-      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "title": "SandAI-org/MAGI-2-preview - MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "url": "https://github.com/SandAI-org/MAGI-2-preview",
+      "published_at": "2026-08-04T12:47:38Z",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 311,
-      "user": "joeseesun"
+      "stars": 333,
+      "user": "SandAI-org"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "magicrew"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6270,
+      "stars": 6476,
       "user": "trycompai"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1780,
+      "stars": 1838,
       "user": "genspark-ai"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1648,
       "user": "thebuggeddev"
     },
     {
@@ -895,18 +880,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Yogthos"
-    },
-    {
-      "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "published_at": "2026-08-04T15:24:33.112-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "j11g"
     },
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -1298,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 814,
       "user": "x4gKing"
     },
     {
@@ -1317,6 +1290,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 560,
+      "user": "sophiamyang"
+    },
+    {
       "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
       "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
       "published_at": "2026-08-01T15:22:27Z",
@@ -1330,21 +1318,6 @@
       "source": "GitHub",
       "stars": 555,
       "user": "brookfacehe2421"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "sophiamyang"
     },
     {
       "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
@@ -1373,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 426,
       "user": "disler"
     },
     {
@@ -1388,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6270,
+      "stars": 6476,
       "user": "trycompai"
     },
     {
@@ -1403,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1780,
+      "stars": 1838,
       "user": "genspark-ai"
     },
     {
@@ -1418,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1648,
       "user": "thebuggeddev"
     },
     {
@@ -1433,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 736,
       "user": "guillermolg00"
     },
     {
@@ -1448,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "deedy"
     },
     {
@@ -1463,8 +1436,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5087,
+      "stars": 5489,
       "user": "firecrawl"
+    },
+    {
+      "title": "I want to filter the class but got error .filter is not a function",
+      "url": "https://stackoverflow.com/questions/79990871/i-want-to-filter-the-class-but-got-error-filter-is-not-a-function",
+      "published_at": "2026-08-06T03:42:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "debugging",
+        "dom",
+        "functional-programming"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hanzla Khalid"
+    },
+    {
+      "title": "Javascript generator only running through one array",
+      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
+      "published_at": "2026-08-05T05:53:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "arrays",
+        "random",
+        "text"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Explorer"
     },
     {
       "title": "How to build a shared lock using Atomics",
@@ -1481,21 +1484,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bledder"
-    },
-    {
-      "title": "Javascript generator only running through one array",
-      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
-      "published_at": "2026-08-05T05:53:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "arrays",
-        "random",
-        "text"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Explorer"
     },
     {
       "title": "How to reset ContentControl.Color to default?",
@@ -1602,22 +1590,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mahesh Hadagali Sangamesh"
-    },
-    {
-      "title": "Check if mouse button down in JS on browser",
-      "url": "https://stackoverflow.com/questions/322378/check-if-mouse-button-down-in-js-on-browser",
-      "published_at": "2008-11-26T22:29:23.000Z",
-      "description": "Stack Overflow question · 17 answers · score 188",
-      "tags": [
-        "javascript",
-        "input",
-        "mouse",
-        "user-input",
-        "input-devices"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TM."
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -1859,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1235,
       "user": "KKKKhazix"
     },
     {
@@ -1874,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 796,
       "user": "Binaryify"
     },
     {
@@ -1889,8 +1861,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 426,
       "user": "disler"
+    },
+    {
+      "title": "SandAI-org/MAGI-2-preview - MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "url": "https://github.com/SandAI-org/MAGI-2-preview",
+      "published_at": "2026-08-04T12:47:38Z",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
+      "source": "GitHub",
+      "stars": 333,
+      "user": "SandAI-org"
     },
     {
       "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
@@ -1904,23 +1891,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "url": "https://github.com/joeseesun/qiaomu-seo",
-      "published_at": "2026-08-03T09:57:25Z",
-      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "joeseesun"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1934,14 +1906,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5087,
+      "stars": 5489,
       "user": "firecrawl"
     },
     {
       "title": "How can I separate functions on Python so that it doesn't reset each time I use the terminal?",
       "url": "https://stackoverflow.com/questions/79990855/how-can-i-separate-functions-on-python-so-that-it-doesnt-reset-each-time-i-use",
       "published_at": "2026-08-06T00:44:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "python-3.x",
@@ -1971,7 +1943,7 @@
       "title": "How to solve verify traffic error for web scraping",
       "url": "https://stackoverflow.com/questions/79990794/how-to-solve-verify-traffic-error-for-web-scraping",
       "published_at": "2026-08-05T18:20:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "web-scraping",
@@ -2782,7 +2754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "0xwilliamortiz"
     },
     {
@@ -3006,7 +2978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "0xwilliamortiz"
     },
     {
@@ -3189,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 814,
       "user": "x4gKing"
     },
     {
@@ -3208,6 +3180,21 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "published_at": "2026-08-02T21:58:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 560,
+      "user": "sophiamyang"
+    },
+    {
       "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
       "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
       "published_at": "2026-08-01T15:22:27Z",
@@ -3221,21 +3208,6 @@
       "source": "GitHub",
       "stars": 555,
       "user": "brookfacehe2421"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 553,
-      "user": "sophiamyang"
     },
     {
       "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
@@ -3264,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1065,
+      "stars": 1235,
       "user": "KKKKhazix"
     },
     {
@@ -3279,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 796,
       "user": "Binaryify"
     },
     {
@@ -3294,8 +3266,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 426,
       "user": "disler"
+    },
+    {
+      "title": "SandAI-org/MAGI-2-preview - MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "url": "https://github.com/SandAI-org/MAGI-2-preview",
+      "published_at": "2026-08-04T12:47:38Z",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
+      "source": "GitHub",
+      "stars": 333,
+      "user": "SandAI-org"
     },
     {
       "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
@@ -3309,23 +3296,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 332,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "joeseesun/qiaomu-seo - Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "url": "https://github.com/joeseesun/qiaomu-seo",
-      "published_at": "2026-08-03T09:57:25Z",
-      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3236682?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "joeseesun"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3339,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "magicrew"
     },
     {
@@ -3354,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 142,
       "user": "lij768423-svg"
     },
     {
@@ -3399,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 40,
       "user": "smol-env"
     },
     {
@@ -3414,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
       "source": "GitHub",
-      "stars": 6270,
+      "stars": 6476,
       "user": "trycompai"
     },
     {
@@ -3429,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
       "source": "GitHub",
-      "stars": 1780,
+      "stars": 1838,
       "user": "genspark-ai"
     },
     {
@@ -3444,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1648,
       "user": "thebuggeddev"
     },
     {
@@ -3459,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 736,
       "user": "guillermolg00"
     },
     {
@@ -3474,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "deedy"
     },
     {
@@ -3489,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 5087,
+      "stars": 5489,
       "user": "firecrawl"
     },
     {
@@ -3508,6 +3480,21 @@
       "user": "HaidarJbeily7"
     },
     {
+      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "url": "https://github.com/cristicretu/diri",
+      "published_at": "2026-08-04T10:08:23Z",
+      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
+      "source": "GitHub",
+      "stars": 207,
+      "user": "cristicretu"
+    },
+    {
       "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
       "url": "https://github.com/l00sed/termixer",
       "published_at": "2026-07-31T15:52:49Z",
@@ -3523,34 +3510,19 @@
       "user": "l00sed"
     },
     {
-      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "url": "https://github.com/cristicretu/diri",
-      "published_at": "2026-08-04T10:08:23Z",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "title": "Gaoshu705/QzoneArchive - 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
+      "url": "https://github.com/Gaoshu705/QzoneArchive",
+      "published_at": "2026-08-02T19:53:30Z",
+      "description": "将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 204,
-      "user": "cristicretu"
-    },
-    {
-      "title": "poxk/Falco - Tiny browser engine written from scratch in Rust.",
-      "url": "https://github.com/poxk/Falco",
-      "published_at": "2026-07-31T20:58:22Z",
-      "description": "Tiny browser engine written from scratch in Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308533320?v=4",
-      "source": "GitHub",
-      "stars": 138,
-      "user": "poxk"
+      "stars": 163,
+      "user": "Gaoshu705"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
