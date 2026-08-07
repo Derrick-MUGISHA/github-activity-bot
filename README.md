@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
 | 20 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
 
-<sub>Last fetched: Sat, 08 Aug 2026 01:15:27 CAT</sub>
+<sub>Last fetched: Sat, 08 Aug 2026 01:53:19 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-**2. `Python` — What is the difference between list and tuple in Python?**
+**2. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Heap, stack, garbage collection
 
 </details>
 
-**3. `JavaScript` — What is the event loop and how does it work?**
+**3. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -164,7 +164,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 84 | 45.7% | `████████████████████` |
+| **AI** | 83 | 45.1% | `████████████████████` |
 | **Tools** | 43 | 23.4% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 41 | 22.3% | `██████████░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 07 Aug 2026 23:15:27 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 07 Aug 2026 23:53:19 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
