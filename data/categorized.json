@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
+    },
+    {
+      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
+      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if",
+      "published_at": "2026-08-07T02:55:21Z",
+      "description": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnefu6fvjpyyy9hjeagu8.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Kiro Crew: The Next Frontier",
       "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
       "published_at": "2026-08-04T20:26:01Z",
@@ -462,6 +492,21 @@
       "user": "xbill"
     },
     {
+      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
+      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
+      "published_at": "2026-07-28T14:00:00Z",
+      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
+      "tags": [
+        "temporal",
+        "codesamples",
+        "industryevents",
+        "durableexecution"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
+      "source": "Dev.to",
+      "user": "Shy Ruparel"
+    },
+    {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
       "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
       "published_at": "2026-07-23T13:24:50Z",
@@ -490,36 +535,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
       "source": "Dev.to",
       "user": "Meera9"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
-      "published_at": "2026-07-28T14:00:00Z",
-      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
-      "tags": [
-        "temporal",
-        "codesamples",
-        "industryevents",
-        "durableexecution"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
-      "source": "Dev.to",
-      "user": "Shy Ruparel"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "sophiamyang"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1845,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "SandAI-org"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "AMAP-ML"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "jd-opensource"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "magicrew"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1942,
+      "stars": 1945,
       "user": "thebuggeddev"
     },
     {
@@ -866,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "mrpulor-gh"
     },
     {
@@ -958,8 +973,8 @@
         "Security",
         "AI",
         "cybersecurity",
-        "infosec",
-        "kimi"
+        "In Brief",
+        "infosec"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -997,7 +1012,7 @@
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "published_at": "2026-08-07T11:40:37.000Z",
-      "description": "Meta's total fine has raked up to $942 million in this case",
+      "description": "Meta's total fine has raked up to $942 million in this case.",
       "tags": [
         "AI",
         "child safety",
@@ -1145,6 +1160,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7",
+      "published_at": "2026-08-07T08:43:39Z",
+      "description": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
+      "tags": [
+        "angular",
+        "typescript",
+        "angularsignals",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
+    },
     {
       "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
       "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
@@ -1367,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "x4gKing"
     },
     {
@@ -1382,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "sophiamyang"
     },
     {
@@ -1427,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 467,
       "user": "0xwilliamortiz"
     },
     {
@@ -1442,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "disler"
     },
     {
@@ -1457,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1942,
+      "stars": 1945,
       "user": "thebuggeddev"
     },
     {
@@ -1472,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 839,
       "user": "guillermolg00"
     },
     {
@@ -1532,8 +1562,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10281,
+      "stars": 10379,
       "user": "firecrawl"
+    },
+    {
+      "title": "Why currentUser below is empty while currentUser above is not?",
+      "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
+      "published_at": "2026-08-07T15:07:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "XavierLM"
     },
     {
       "title": "Why something executes before something else?",
@@ -1667,21 +1710,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chiara Ani"
-    },
-    {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1923,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1845,
       "user": "KKKKhazix"
     },
     {
@@ -1938,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "disler"
     },
     {
@@ -1953,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "SandAI-org"
     },
     {
@@ -1968,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "AMAP-ML"
     },
     {
@@ -1983,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "jd-opensource"
     },
     {
@@ -1998,14 +2026,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10281,
+      "stars": 10379,
       "user": "firecrawl"
     },
     {
       "title": "Why does tf.function retrace when only the RaggedTensor row-splits dtype changes?",
       "url": "https://stackoverflow.com/questions/79991283/why-does-tf-function-retrace-when-only-the-raggedtensor-row-splits-dtype-changes",
       "published_at": "2026-08-07T09:30:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "tensorflow",
@@ -2157,6 +2185,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
+    },
     {
       "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
       "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
@@ -2424,21 +2467,6 @@
       "user": "munHunger"
     },
     {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
-    },
-    {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
       "published_at": "2026-08-06T22:17:36.000Z",
@@ -2515,21 +2543,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a68a1k9wglkhz8ygozl.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -2846,7 +2859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 467,
       "user": "0xwilliamortiz"
     },
     {
@@ -2882,6 +2895,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
+    },
     {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
       "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
@@ -3071,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 467,
       "user": "0xwilliamortiz"
     },
     {
@@ -3088,21 +3116,6 @@
       "user": "yoelcabo"
     },
     {
-      "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
-      "url": "https://stackoverflow.com/questions/79984216/content-security-policy-csp-unsafe-hashes-does-not-work-as-expected-browser",
-      "published_at": "2026-07-23T13:19:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "web",
-        "content-security-policy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MatrixRonny"
-    },
-    {
       "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
       "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
       "published_at": "2026-08-07T14:28:31.000Z",
@@ -3111,8 +3124,8 @@
         "Security",
         "AI",
         "cybersecurity",
-        "infosec",
-        "kimi"
+        "In Brief",
+        "infosec"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3287,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 905,
       "user": "x4gKing"
     },
     {
@@ -3302,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "sophiamyang"
     },
     {
@@ -3347,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 467,
       "user": "0xwilliamortiz"
     },
     {
@@ -3362,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1845,
       "user": "KKKKhazix"
     },
     {
@@ -3377,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 488,
       "user": "disler"
     },
     {
@@ -3392,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 416,
       "user": "SandAI-org"
     },
     {
@@ -3407,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "AMAP-ML"
     },
     {
@@ -3422,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "jd-opensource"
     },
     {
@@ -3437,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "magicrew"
     },
     {
@@ -3512,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1942,
+      "stars": 1945,
       "user": "thebuggeddev"
     },
     {
@@ -3527,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 839,
       "user": "guillermolg00"
     },
     {
@@ -3587,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10281,
+      "stars": 10379,
       "user": "firecrawl"
     },
     {
@@ -3632,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "Gaoshu705"
     },
     {
@@ -3647,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 160,
       "user": "mrpulor-gh"
     },
     {
@@ -3687,8 +3700,8 @@
         "Security",
         "AI",
         "cybersecurity",
-        "infosec",
-        "kimi"
+        "In Brief",
+        "infosec"
       ],
       "cover_image": null,
       "source": "TechCrunch",
