@@ -102,21 +102,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Bug Smash isn't glamorous and that's what I love about it.",
-      "url": "https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i",
-      "published_at": "2026-07-28T16:18:27Z",
-      "description": "We kicked off DEV's Big Summer Bug Smash on July 14, and I've been waiting to write this post since...",
-      "tags": [
-        "bugsmash",
-        "devchallenge",
-        "debugging",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rei87zs62x8tssvxg66.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "sophiamyang"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1829,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "SandAI-org"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 369,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 595,
       "user": "magicrew"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "WhiteDNS"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1939,
+      "stars": 1942,
       "user": "thebuggeddev"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "criptogus"
     },
     {
@@ -909,10 +894,10 @@
       "user": "mzl"
     },
     {
-      "title": "I don't understand why something executes before something else",
-      "url": "https://stackoverflow.com/questions/79991337/i-dont-understand-why-something-executes-before-something-else",
+      "title": "Why something executes before something else?",
+      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
       "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "async-await"
@@ -963,6 +948,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas"
+    },
+    {
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "published_at": "2026-08-07T14:28:31.000Z",
+      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "tags": [
+        "Security",
+        "AI",
+        "cybersecurity",
+        "infosec",
+        "kimi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "published_at": "2026-08-07T14:22:49.000Z",
+      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "tags": [
+        "AI",
+        "ai coding",
+        "Airbnb",
+        "brian chesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -1032,22 +1048,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-      "published_at": "2026-08-06T19:02:57.000Z",
-      "description": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "TC",
-        "Transportation",
-        "defense technology"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
@@ -1367,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 901,
       "user": "x4gKing"
     },
     {
@@ -1382,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "sophiamyang"
     },
     {
@@ -1427,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "0xwilliamortiz"
     },
     {
@@ -1457,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1939,
+      "stars": 1942,
       "user": "thebuggeddev"
     },
     {
@@ -1472,7 +1472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 837,
       "user": "guillermolg00"
     },
     {
@@ -1502,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "criptogus"
     },
     {
@@ -1532,14 +1532,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10158,
+      "stars": 10281,
       "user": "firecrawl"
     },
     {
-      "title": "I don't understand why something executes before something else",
-      "url": "https://stackoverflow.com/questions/79991337/i-dont-understand-why-something-executes-before-something-else",
+      "title": "Why something executes before something else?",
+      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
       "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "async-await"
@@ -1923,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1829,
       "user": "KKKKhazix"
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "SandAI-org"
     },
     {
@@ -1983,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 369,
       "user": "jd-opensource"
     },
     {
@@ -1998,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10158,
+      "stars": 10281,
       "user": "firecrawl"
     },
     {
@@ -2502,6 +2502,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
+      "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474",
+      "published_at": "2026-08-02T01:34:18Z",
+      "description": "When separate family providers store parameterized network queries as isolated state silos, updating an entity in one subset creates stale data across others. Here is how a normalized mapSignal store fixes it.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a68a1k9wglkhz8ygozl.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
       "published_at": "2026-07-28T18:25:43Z",
@@ -2528,7 +2543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "WhiteDNS"
     },
     {
@@ -2831,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "0xwilliamortiz"
     },
     {
@@ -3056,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "0xwilliamortiz"
     },
     {
@@ -3088,35 +3103,20 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-      "published_at": "2026-08-06T19:40:46.000Z",
-      "description": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "published_at": "2026-08-07T14:28:31.000Z",
+      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
       "tags": [
         "Security",
-        "cybercrime",
+        "AI",
         "cybersecurity",
-        "Google",
-        "hackers"
+        "infosec",
+        "kimi"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-      "published_at": "2026-08-06T19:22:30.000Z",
-      "description": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "nato",
-        "Spyware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
@@ -3287,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 901,
       "user": "x4gKing"
     },
     {
@@ -3302,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 600,
       "user": "sophiamyang"
     },
     {
@@ -3347,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "0xwilliamortiz"
     },
     {
@@ -3362,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1822,
+      "stars": 1829,
       "user": "KKKKhazix"
     },
     {
@@ -3392,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "SandAI-org"
     },
     {
@@ -3422,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 369,
       "user": "jd-opensource"
     },
     {
@@ -3437,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 595,
       "user": "magicrew"
     },
     {
@@ -3467,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "WhiteDNS"
     },
     {
@@ -3512,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1939,
+      "stars": 1942,
       "user": "thebuggeddev"
     },
     {
@@ -3527,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 837,
       "user": "guillermolg00"
     },
     {
@@ -3557,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 406,
       "user": "criptogus"
     },
     {
@@ -3587,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10158,
+      "stars": 10281,
       "user": "firecrawl"
     },
     {
@@ -3632,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "Gaoshu705"
     },
     {
@@ -3677,6 +3677,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fi Li Ppo"
+    },
+    {
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "published_at": "2026-08-07T14:28:31.000Z",
+      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "tags": [
+        "Security",
+        "AI",
+        "cybersecurity",
+        "infosec",
+        "kimi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",

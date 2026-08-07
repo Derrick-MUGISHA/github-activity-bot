@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-07 15:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-07 16:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -99,21 +99,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 5 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
 | 6 | [How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost](https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh) | Dev.to |
 | 7 | [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929) | Dev.to |
-| 8 | [Welcome Thread - v387](https://dev.to/devteam/welcome-thread-v387-1iej) | Dev.to |
-| 9 | [Google's AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816) | Dev.to |
-| 10 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 11 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
-| 12 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
-| 13 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
-| 14 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
-| 15 | [Exploring Form Management Patterns in Flutter with BlocSignal](https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j) | Dev.to |
-| 16 | [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i) | Dev.to |
-| 17 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
-| 18 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
-| 19 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
-| 20 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
+| 8 | [Google's AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816) | Dev.to |
+| 9 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
+| 10 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
+| 11 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
+| 12 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
+| 13 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
+| 14 | [Exploring Form Management Patterns in Flutter with BlocSignal](https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j) | Dev.to |
+| 15 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
+| 16 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
+| 17 | [Welcome Thread - v387](https://dev.to/devteam/welcome-thread-v387-1iej) | Dev.to |
+| 18 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
+| 19 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
+| 20 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2) | Dev.to |
 
-<sub>Last fetched: Fri, 07 Aug 2026 15:26:08 CAT</sub>
+<sub>Last fetched: Fri, 07 Aug 2026 16:34:57 CAT</sub>
 
 
 ---
@@ -122,29 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> B-tree, trade-offs, query performance
-
-</details>
-
-**2. `Python` — Explain decorators in Python with an example**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Function wrappers, @syntax, practical uses
-
-</details>
-
-**3. `DataStructures` — Find the longest substring without repeating characters**
+**1. `DataStructures` — Find the longest substring without repeating characters**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
@@ -152,6 +130,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Sliding window, hash map, two pointers
+
+</details>
+
+**2. `SystemDesign` — Design a distributed cache system**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Consistency, partitioning, replication, eviction policies
+
+</details>
+
+**3. `React` — What is the Virtual DOM and how does React use it?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -165,14 +165,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 80 | 43.5% | `████████████████████` |
+| **Tools** | 41 | 22.3% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
 | **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-33-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-6-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 07 Aug 2026 13:26:08 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 07 Aug 2026 14:34:57 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
