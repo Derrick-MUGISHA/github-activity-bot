@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "sophiamyang"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1860,
+      "stars": 1863,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "jd-opensource"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "WhiteDNS"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1963,
       "user": "thebuggeddev"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "mrpulor-gh"
     },
     {
@@ -951,6 +951,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fedor Pasynkov"
+    },
+    {
+      "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
+      "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
+      "published_at": "2026-08-07T18:43:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "task",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "juliana"
     },
     {
       "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
@@ -1417,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 911,
       "user": "x4gKing"
     },
     {
@@ -1432,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "sophiamyang"
     },
     {
@@ -1477,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 492,
       "user": "0xwilliamortiz"
     },
     {
@@ -1492,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "disler"
     },
     {
@@ -1507,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1963,
       "user": "thebuggeddev"
     },
     {
@@ -1522,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 850,
       "user": "guillermolg00"
     },
     {
@@ -1567,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "alexngdev99"
     },
     {
@@ -1582,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10630,
+      "stars": 10705,
       "user": "firecrawl"
     },
     {
@@ -1971,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1860,
+      "stars": 1863,
       "user": "KKKKhazix"
     },
     {
@@ -1986,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "disler"
     },
     {
@@ -2016,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "jd-opensource"
     },
     {
@@ -2046,8 +2060,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10630,
+      "stars": 10705,
       "user": "firecrawl"
+    },
+    {
+      "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
+      "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
+      "published_at": "2026-08-07T18:43:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "task",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "juliana"
     },
     {
       "title": "Why does tf.function retrace when only the RaggedTensor row-splits dtype changes?",
@@ -2091,6 +2119,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
+    },
+    {
+      "title": "ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'd:\\\\chatbot\\\\scripts\\\\pip.exe' Check the permissions",
+      "url": "https://stackoverflow.com/questions/79991044/error-could-not-install-packages-due-to-an-oserror-winerror-5-access-is-deni",
+      "published_at": "2026-08-06T13:56:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trung Trưc"
     },
     {
       "title": "RabbitMQ is missing every other message",
@@ -2161,32 +2201,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rohit Magesh"
-    },
-    {
-      "title": "xsdata serialization with a computed field",
-      "url": "https://stackoverflow.com/questions/79991102/xsdata-serialization-with-a-computed-field",
-      "published_at": "2026-08-06T17:40:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "abcdefg"
-    },
-    {
-      "title": "Always unmute/mute a mic in Python",
-      "url": "https://stackoverflow.com/questions/79991046/always-unmute-mute-a-mic-in-python",
-      "published_at": "2026-08-06T13:57:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "controls"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Archie Enstone"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2576,7 +2590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "WhiteDNS"
     },
     {
@@ -2879,7 +2893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 492,
       "user": "0xwilliamortiz"
     },
     {
@@ -3119,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 492,
       "user": "0xwilliamortiz"
     },
     {
@@ -3336,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 909,
+      "stars": 911,
       "user": "x4gKing"
     },
     {
@@ -3351,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "sophiamyang"
     },
     {
@@ -3396,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 492,
       "user": "0xwilliamortiz"
     },
     {
@@ -3411,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1860,
+      "stars": 1863,
       "user": "KKKKhazix"
     },
     {
@@ -3426,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "disler"
     },
     {
@@ -3456,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 387,
       "user": "jd-opensource"
     },
     {
@@ -3516,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 81,
       "user": "WhiteDNS"
     },
     {
@@ -3561,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1959,
+      "stars": 1963,
       "user": "thebuggeddev"
     },
     {
@@ -3576,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 850,
       "user": "guillermolg00"
     },
     {
@@ -3621,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "alexngdev99"
     },
     {
@@ -3636,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10630,
+      "stars": 10705,
       "user": "firecrawl"
     },
     {
@@ -3696,7 +3710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "mrpulor-gh"
     },
     {
