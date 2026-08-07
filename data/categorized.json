@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "sophiamyang"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1681,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1502,
       "user": "Binaryify"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 395,
       "user": "SandAI-org"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "AMAP-ML"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 561,
       "user": "magicrew"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1878,
+      "stars": 1888,
       "user": "thebuggeddev"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "criptogus"
     },
     {
@@ -870,20 +870,19 @@
       "user": "mrpulor-gh"
     },
     {
-      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
-      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
-      "published_at": "2022-04-30T17:39:03.000Z",
-      "description": "Stack Overflow question · 17 answers · score 62",
+      "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
+      "url": "https://stackoverflow.com/questions/79991196/fixing-a-gnome-shell-st-scrollview-1px-layout-collapse-under-unconstrained-sizin",
+      "published_at": "2026-08-07T03:20:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
-        "angular",
-        "google-chrome",
-        "kubernetes",
-        "mime-types"
+        "gnome-shell",
+        "gjs",
+        "clutter"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "suku"
+      "user": "Fedor Pasynkov"
     },
     {
       "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
@@ -1319,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "sophiamyang"
     },
     {
@@ -1364,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "0xwilliamortiz"
     },
     {
@@ -1379,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "disler"
     },
     {
@@ -1394,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1878,
+      "stars": 1888,
       "user": "thebuggeddev"
     },
     {
@@ -1409,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 819,
       "user": "guillermolg00"
     },
     {
@@ -1424,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "criptogus"
     },
     {
@@ -1439,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 370,
       "user": "wumingqi60"
     },
     {
@@ -1454,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "alexngdev99"
     },
     {
@@ -1469,14 +1468,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 8791,
+      "stars": 9018,
       "user": "firecrawl"
+    },
+    {
+      "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
+      "url": "https://stackoverflow.com/questions/79991196/fixing-a-gnome-shell-st-scrollview-1px-layout-collapse-under-unconstrained-sizin",
+      "published_at": "2026-08-07T03:20:22.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "gnome-shell",
+        "gjs",
+        "clutter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fedor Pasynkov"
     },
     {
       "title": "How to delete from a sorted array without O(n)",
       "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
       "published_at": "2026-08-06T19:43:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "advice",
         "javascript",
@@ -1608,22 +1622,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
-      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
-      "published_at": "2022-04-30T17:39:03.000Z",
-      "description": "Stack Overflow question · 17 answers · score 62",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "kubernetes",
-        "mime-types"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "suku"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1865,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1681,
       "user": "KKKKhazix"
     },
     {
@@ -1880,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1502,
       "user": "Binaryify"
     },
     {
@@ -1895,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "disler"
     },
     {
@@ -1910,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 395,
       "user": "SandAI-org"
     },
     {
@@ -1925,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "AMAP-ML"
     },
     {
@@ -1940,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 8791,
+      "stars": 9018,
       "user": "firecrawl"
     },
     {
@@ -1956,19 +1954,6 @@
       "user": "raymii"
     },
     {
-      "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
-      "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
-      "published_at": "2026-08-06T23:59:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
-    },
-    {
       "title": "What's the correct pattern to guarantee an async generator is closed when its consuming task is cancelled mid-queue.put()?",
       "url": "https://stackoverflow.com/questions/79991144/whats-the-correct-pattern-to-guarantee-an-async-generator-is-closed-when-its-co",
       "published_at": "2026-08-06T21:12:28.000Z",
@@ -1978,6 +1963,19 @@
         "python-asyncio",
         "generator",
         "backpressure"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "juliana"
+    },
+    {
+      "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
+      "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
+      "published_at": "2026-08-06T23:59:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2262,22 +2260,6 @@
       "user": "jknupp"
     },
     {
-      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
-      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
-      "published_at": "2022-04-30T17:39:03.000Z",
-      "description": "Stack Overflow question · 17 answers · score 62",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "kubernetes",
-        "mime-types"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "suku"
-    },
-    {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
       "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
       "published_at": "2026-08-06T22:51:17.000Z",
@@ -2393,22 +2375,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
-      "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
-      "published_at": "2022-04-30T17:39:03.000Z",
-      "description": "Stack Overflow question · 17 answers · score 62",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "kubernetes",
-        "mime-types"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "suku"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -2819,7 +2785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "0xwilliamortiz"
     },
     {
@@ -2841,7 +2807,7 @@
       "title": "How to delete from a sorted array without O(n)",
       "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
       "published_at": "2026-08-06T19:43:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "advice",
         "javascript",
@@ -3044,7 +3010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "0xwilliamortiz"
     },
     {
@@ -3290,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "sophiamyang"
     },
     {
@@ -3335,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "0xwilliamortiz"
     },
     {
@@ -3350,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1651,
+      "stars": 1681,
       "user": "KKKKhazix"
     },
     {
@@ -3365,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1502,
       "user": "Binaryify"
     },
     {
@@ -3380,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "disler"
     },
     {
@@ -3395,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 395,
       "user": "SandAI-org"
     },
     {
@@ -3410,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 356,
       "user": "AMAP-ML"
     },
     {
@@ -3425,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 561,
       "user": "magicrew"
     },
     {
@@ -3459,6 +3425,21 @@
       "user": "codetesla51"
     },
     {
+      "title": "smol-env/smol - smol is a smol agent",
+      "url": "https://github.com/smol-env/smol",
+      "published_at": "2026-08-01T14:40:09Z",
+      "description": "smol is a smol agent",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
+      "source": "GitHub",
+      "stars": 61,
+      "user": "smol-env"
+    },
+    {
       "title": "BetaLi/direct-link - 免费好用的加速器",
       "url": "https://github.com/BetaLi/direct-link",
       "published_at": "2026-08-01T12:10:10Z",
@@ -3474,21 +3455,6 @@
       "user": "BetaLi"
     },
     {
-      "title": "smol-env/smol - smol is a smol agent",
-      "url": "https://github.com/smol-env/smol",
-      "published_at": "2026-08-01T14:40:09Z",
-      "description": "smol is a smol agent",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "smol-env"
-    },
-    {
       "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "url": "https://github.com/thebuggeddev/anatomy",
       "published_at": "2026-08-02T11:15:16Z",
@@ -3500,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1878,
+      "stars": 1888,
       "user": "thebuggeddev"
     },
     {
@@ -3515,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 819,
       "user": "guillermolg00"
     },
     {
@@ -3530,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "criptogus"
     },
     {
@@ -3545,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 370,
       "user": "wumingqi60"
     },
     {
@@ -3560,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 217,
       "user": "alexngdev99"
     },
     {
@@ -3575,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 8791,
+      "stars": 9018,
       "user": "firecrawl"
     },
     {
@@ -3620,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 193,
       "user": "Gaoshu705"
     },
     {
