@@ -1,7 +1,7 @@
 {
-  "total": 183,
+  "total": 184,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 78,
+    "AI": 80,
     "JavaScript": 40,
     "Python": 32,
     "DevOps": 14,
@@ -19,7 +19,7 @@
     "Cloud": 16,
     "Database": 4,
     "Security": 20,
-    "Tools": 39
+    "Tools": 40
   },
   "by_language": {
     "Python": 32,
@@ -30,6 +30,7 @@
     "Rust": 6
   },
   "by_date": {
+    "2026-08-07": 13,
     "2026-08-05": 10,
     "2026-08-04": 9,
     "2026-07-29": 3,
@@ -102,9 +103,7 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-06": 34,
-    "2026-08-07": 8,
-    "2012-08-06": 1
+    "2026-08-06": 31
   },
   "top_tags": {
     "github": 25,
@@ -116,8 +115,8 @@
     "AI": 12,
     "JavaScript": 11,
     "Python": 11,
+    "discuss": 10,
     "DevOps": 10,
-    "discuss": 9,
     "agents": 8,
     "gemini": 8,
     "webdev": 7,
@@ -126,7 +125,7 @@
     "go": 6,
     "mcps": 5,
     "aws": 5,
-    "tpu": 5
+    "programming": 5
   },
   "trending_topics": [],
   "language_percentages": {
