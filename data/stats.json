@@ -10,15 +10,15 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 81,
+    "AI": 80,
     "JavaScript": 41,
     "Python": 32,
     "DevOps": 15,
     "WebDev": 7,
     "Mobile": 7,
-    "Cloud": 16,
+    "Cloud": 17,
     "Database": 4,
-    "Security": 19,
+    "Security": 20,
     "Tools": 41
   },
   "by_language": {
@@ -30,7 +30,7 @@
     "Rust": 6
   },
   "by_date": {
-    "2026-08-07": 22,
+    "2026-08-07": 25,
     "2026-08-05": 10,
     "2026-08-04": 9,
     "2026-07-29": 3,
@@ -102,7 +102,7 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-06": 26
+    "2026-08-06": 23
   },
   "top_tags": {
     "github": 25,
@@ -111,7 +111,7 @@
     "python": 20,
     "javascript": 20,
     "AI": 14,
-    "Security": 12,
+    "Security": 13,
     "JavaScript": 11,
     "Python": 11,
     "DevOps": 10,
