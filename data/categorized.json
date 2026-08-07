@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1868,
+      "stars": 1870,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 403,
       "user": "jd-opensource"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "AMAP-ML"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1970,
+      "stars": 1973,
       "user": "thebuggeddev"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "criptogus"
     },
     {
@@ -909,6 +909,32 @@
       "user": "mzl"
     },
     {
+      "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+      "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+      "published_at": "2026-08-07T16:22:54.952-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "bobpoekert"
+    },
+    {
+      "title": "Software Understanding in the Sciences is Really Uneven",
+      "url": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+      "published_at": "2026-08-07T10:24:58.559-05:00",
+      "description": "My day job, such as it is, involves optimizing simulations and scientific tooling. Right now I'm working on an astrophysical simulation with a group at CUNY. One of the grad students has spent the last few months working on a tool to process the output of a simulation. \r\n\r\nThe output is pretty big, about 200GB for a local test run, probably going into the tens of terabytes once we do a big run on the actual cluster. The tool, which needs to walk the output tables to construct a tree of black hole mergers (and other events, but that's the focus), takes about an hour to run. I answered a request to take a look and see what can be done to speed it up.\r\n\r\nThe first thing I discover is that the data is split across tens of thousands of .txt files, with every simulation timestep producing several individual tables, some of them just a few rows, others tens of thousands of rows.\r\n\r\nThe second thing I notice is that the postprocessing code is looping over the files, reading the same one multiple times in some places, to extract the merger information. There's a gigantic dictionary of dictionaries, and the leaf dictionaries are manually simulating a binary tree using labels as keys (\"root\", \"A\", \"B\", \"A1\", \"A2\", etc), and the values are pandas dataframes. \r\n\r\nIt is very difficult to understand. I am reminded that astrophysics grad students have a great deal of brainpower and focus available to them, and this may sometimes be counterproductive.\r\n\r\nThere's no good way to optimize this code in-place. Luckily, I've built some credibility with this team, so they trust me when I basically tell them we're going to redo the tree construction code entirely, and try to preserve the graphing code, which is also elaborate but is a lot saner, mostly just trying to work within networkgraph's preferred input mode.\r\n\r\nStill, I get them to turn their runner into a script rather than a jupyter notebook, install snakeviz, and get a profile on a short run. They audibly gasped when they saw the snakeviz window pop open, and they could just see where all the time was going (mostly walking lots of small in-memory dataframes and loading them from txt). Thing is, they've seen this tool before, I've showed it in previous meetings for other performance work on the main simulation, they just thought it was something I coded up manually rather than something they can also do with cPython's bundled profiler and a single pip install. \r\n\r\nIt really shouldn't be shocking, since about 2 years ago I was in pretty much the same place, but it surprised me anyway. I sometimes think we need a 'Missing Semester of Your CS Education' equivalent specifically for scientists who got introduced to Python + data science tools and use that for pretty much everything. Intro to profilers and debuggers, the python memory model, useful/harmful data structures, and when NOT to use a dataframe. I think it would be useful.",
+      "tags": [
+        "practices",
+        "python",
+        "science"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nrposner"
+    },
+    {
       "title": "Why something executes before something else?",
       "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
       "published_at": "2026-08-07T12:39:53.000Z",
@@ -956,7 +982,7 @@
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
       "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
       "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "task",
@@ -993,6 +1019,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published_at": "2026-08-07T22:48:24.000Z",
+      "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
@@ -1068,21 +1107,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "published_at": "2026-08-07T14:22:49.000Z",
-      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "tags": [
-        "AI",
-        "ai coding",
-        "Airbnb",
-        "brian chesky"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1212,21 +1236,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
-      "published_at": "2026-07-30T08:02:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "angular",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
       "published_at": "2026-07-29T18:18:58Z",
@@ -1240,6 +1249,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
+      "published_at": "2026-07-30T08:02:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "angular",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
     },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
@@ -1433,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 918,
       "user": "x4gKing"
     },
     {
@@ -1523,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1970,
+      "stars": 1973,
       "user": "thebuggeddev"
     },
     {
@@ -1538,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 860,
       "user": "guillermolg00"
     },
     {
@@ -1568,7 +1592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "criptogus"
     },
     {
@@ -1583,7 +1607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "openTrinity"
     },
     {
@@ -1598,7 +1622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10893,
+      "stars": 10936,
       "user": "firecrawl"
     },
     {
@@ -1973,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1868,
+      "stars": 1870,
       "user": "KKKKhazix"
     },
     {
@@ -2018,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 403,
       "user": "jd-opensource"
     },
     {
@@ -2033,7 +2057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "AMAP-ML"
     },
     {
@@ -2048,8 +2072,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10893,
+      "stars": 10936,
       "user": "firecrawl"
+    },
+    {
+      "title": "Software Understanding in the Sciences is Really Uneven",
+      "url": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+      "published_at": "2026-08-07T10:24:58.559-05:00",
+      "description": "My day job, such as it is, involves optimizing simulations and scientific tooling. Right now I'm working on an astrophysical simulation with a group at CUNY. One of the grad students has spent the last few months working on a tool to process the output of a simulation. \r\n\r\nThe output is pretty big, about 200GB for a local test run, probably going into the tens of terabytes once we do a big run on the actual cluster. The tool, which needs to walk the output tables to construct a tree of black hole mergers (and other events, but that's the focus), takes about an hour to run. I answered a request to take a look and see what can be done to speed it up.\r\n\r\nThe first thing I discover is that the data is split across tens of thousands of .txt files, with every simulation timestep producing several individual tables, some of them just a few rows, others tens of thousands of rows.\r\n\r\nThe second thing I notice is that the postprocessing code is looping over the files, reading the same one multiple times in some places, to extract the merger information. There's a gigantic dictionary of dictionaries, and the leaf dictionaries are manually simulating a binary tree using labels as keys (\"root\", \"A\", \"B\", \"A1\", \"A2\", etc), and the values are pandas dataframes. \r\n\r\nIt is very difficult to understand. I am reminded that astrophysics grad students have a great deal of brainpower and focus available to them, and this may sometimes be counterproductive.\r\n\r\nThere's no good way to optimize this code in-place. Luckily, I've built some credibility with this team, so they trust me when I basically tell them we're going to redo the tree construction code entirely, and try to preserve the graphing code, which is also elaborate but is a lot saner, mostly just trying to work within networkgraph's preferred input mode.\r\n\r\nStill, I get them to turn their runner into a script rather than a jupyter notebook, install snakeviz, and get a profile on a short run. They audibly gasped when they saw the snakeviz window pop open, and they could just see where all the time was going (mostly walking lots of small in-memory dataframes and loading them from txt). Thing is, they've seen this tool before, I've showed it in previous meetings for other performance work on the main simulation, they just thought it was something I coded up manually rather than something they can also do with cPython's bundled profiler and a single pip install. \r\n\r\nIt really shouldn't be shocking, since about 2 years ago I was in pretty much the same place, but it surprised me anyway. I sometimes think we need a 'Missing Semester of Your CS Education' equivalent specifically for scientists who got introduced to Python + data science tools and use that for pretty much everything. Intro to profilers and debuggers, the python memory model, useful/harmful data structures, and when NOT to use a dataframe. I think it would be useful.",
+      "tags": [
+        "practices",
+        "python",
+        "science"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nrposner"
     },
     {
       "title": "Unexpected interaction between list comprehensions, late-binding closures, and in-place mutation in Python loop scopes",
@@ -2067,7 +2105,7 @@
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
       "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
       "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "task",
@@ -3108,6 +3146,19 @@
       "user": "yoelcabo"
     },
     {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published_at": "2026-08-07T22:48:24.000Z",
+      "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
       "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
       "published_at": "2026-08-07T21:00:08.000Z",
@@ -3322,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 918,
       "user": "x4gKing"
     },
     {
@@ -3397,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1868,
+      "stars": 1870,
       "user": "KKKKhazix"
     },
     {
@@ -3442,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 403,
       "user": "jd-opensource"
     },
     {
@@ -3457,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 386,
       "user": "AMAP-ML"
     },
     {
@@ -3547,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1970,
+      "stars": 1973,
       "user": "thebuggeddev"
     },
     {
@@ -3562,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 860,
       "user": "guillermolg00"
     },
     {
@@ -3592,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "criptogus"
     },
     {
@@ -3607,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "openTrinity"
     },
     {
@@ -3622,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10893,
+      "stars": 10936,
       "user": "firecrawl"
     },
     {
@@ -3686,16 +3737,18 @@
       "user": "mrpulor-gh"
     },
     {
-      "title": "Some ways to navigate through 'git blame' over time in GNU Emacs",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-      "published_at": "2026-08-07T03:25:17.249-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Software Understanding in the Sciences is Really Uneven",
+      "url": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
+      "published_at": "2026-08-07T10:24:58.559-05:00",
+      "description": "My day job, such as it is, involves optimizing simulations and scientific tooling. Right now I'm working on an astrophysical simulation with a group at CUNY. One of the grad students has spent the last few months working on a tool to process the output of a simulation. \r\n\r\nThe output is pretty big, about 200GB for a local test run, probably going into the tens of terabytes once we do a big run on the actual cluster. The tool, which needs to walk the output tables to construct a tree of black hole mergers (and other events, but that's the focus), takes about an hour to run. I answered a request to take a look and see what can be done to speed it up.\r\n\r\nThe first thing I discover is that the data is split across tens of thousands of .txt files, with every simulation timestep producing several individual tables, some of them just a few rows, others tens of thousands of rows.\r\n\r\nThe second thing I notice is that the postprocessing code is looping over the files, reading the same one multiple times in some places, to extract the merger information. There's a gigantic dictionary of dictionaries, and the leaf dictionaries are manually simulating a binary tree using labels as keys (\"root\", \"A\", \"B\", \"A1\", \"A2\", etc), and the values are pandas dataframes. \r\n\r\nIt is very difficult to understand. I am reminded that astrophysics grad students have a great deal of brainpower and focus available to them, and this may sometimes be counterproductive.\r\n\r\nThere's no good way to optimize this code in-place. Luckily, I've built some credibility with this team, so they trust me when I basically tell them we're going to redo the tree construction code entirely, and try to preserve the graphing code, which is also elaborate but is a lot saner, mostly just trying to work within networkgraph's preferred input mode.\r\n\r\nStill, I get them to turn their runner into a script rather than a jupyter notebook, install snakeviz, and get a profile on a short run. They audibly gasped when they saw the snakeviz window pop open, and they could just see where all the time was going (mostly walking lots of small in-memory dataframes and loading them from txt). Thing is, they've seen this tool before, I've showed it in previous meetings for other performance work on the main simulation, they just thought it was something I coded up manually rather than something they can also do with cPython's bundled profiler and a single pip install. \r\n\r\nIt really shouldn't be shocking, since about 2 years ago I was in pretty much the same place, but it surprised me anyway. I sometimes think we need a 'Missing Semester of Your CS Education' equivalent specifically for scientists who got introduced to Python + data science tools and use that for pretty much everything. Intro to profilers and debuggers, the python memory model, useful/harmful data structures, and when NOT to use a dataframe. I think it would be useful.",
       "tags": [
-        "emacs"
+        "practices",
+        "python",
+        "science"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "mattofr"
+      "user": "nrposner"
     },
     {
       "title": "How to test PlateJs Marks with React Testing Library",
