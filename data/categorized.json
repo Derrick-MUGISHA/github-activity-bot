@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "sophiamyang"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1866,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "jd-opensource"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1964,
+      "stars": 1968,
       "user": "thebuggeddev"
     },
     {
@@ -956,7 +956,7 @@
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
       "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
       "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "task",
@@ -993,6 +993,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas"
+    },
+    {
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "published_at": "2026-08-07T21:00:08.000Z",
+      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "poland"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -1070,18 +1084,20 @@
       "user": "TechCrunch Events"
     },
     {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "published_at": "2026-08-07T11:40:37.000Z",
-      "description": "Meta's total fine has raked up to $942 million in this case.",
+      "title": "How to Test AI Features in Flutter [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
+      "published_at": "2026-08-07T16:05:31.000Z",
+      "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
       "tags": [
-        "AI",
-        "Meta",
-        "child safety"
+        "Flutter",
+        "gemini",
+        "flutter-aware",
+        "Dart",
+        "AI"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "source": "freeCodeCamp",
+      "user": "Atuoha Anthony"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
@@ -1161,21 +1177,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Lakshmi Mahabaleshwara"
-    },
-    {
-      "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
-      "published_at": "2026-08-05T17:14:47.000Z",
-      "description": "Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con",
-      "tags": [
-        "Node.js",
-        "design patterns",
-        "AWS",
-        "Docker"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ],
   "JavaScript": [
@@ -1431,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 918,
       "user": "x4gKing"
     },
     {
@@ -1446,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "sophiamyang"
     },
     {
@@ -1461,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -1491,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -1506,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "disler"
     },
     {
@@ -1521,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1964,
+      "stars": 1968,
       "user": "thebuggeddev"
     },
     {
@@ -1536,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 856,
       "user": "guillermolg00"
     },
     {
@@ -1581,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 226,
       "user": "openTrinity"
     },
     {
@@ -1596,8 +1597,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10744,
+      "stars": 10812,
       "user": "firecrawl"
+    },
+    {
+      "title": "Why does my async function return a pending Promise instead of the resolved value when I call it inside a forEach loop",
+      "url": "https://stackoverflow.com/questions/79991429/why-does-my-async-function-return-a-pending-promise-instead-of-the-resolved-valu",
+      "published_at": "2026-08-07T20:31:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "asynchronous",
+        "promise",
+        "es6-promise"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cristina"
     },
     {
       "title": "Why currentUser below is empty while currentUser above is not?",
@@ -1732,20 +1748,6 @@
       "user": "Bledder"
     },
     {
-      "title": "Classic scrollbar width getters not working on Firefox",
-      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
-      "published_at": "2026-08-04T08:24:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "firefox"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "munHunger"
-    },
-    {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
       "published_at": "2026-08-06T22:17:36.000Z",
@@ -1760,21 +1762,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
-      "published_at": "2026-08-05T17:14:47.000Z",
-      "description": "Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con",
-      "tags": [
-        "Node.js",
-        "design patterns",
-        "AWS",
-        "Docker"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ],
   "Python": [
@@ -1985,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1866,
       "user": "KKKKhazix"
     },
     {
@@ -2000,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "disler"
     },
     {
@@ -2030,7 +2017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "jd-opensource"
     },
     {
@@ -2060,7 +2047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10744,
+      "stars": 10812,
       "user": "firecrawl"
     },
     {
@@ -2080,7 +2067,7 @@
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
       "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
       "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "task",
@@ -2399,21 +2386,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
-      "published_at": "2026-08-05T17:14:47.000Z",
-      "description": "Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con",
-      "tags": [
-        "Node.js",
-        "design patterns",
-        "AWS",
-        "Docker"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ],
   "WebDev": [
@@ -2486,20 +2458,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hanzla Khalid"
-    },
-    {
-      "title": "Classic scrollbar width getters not working on Firefox",
-      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
-      "published_at": "2026-08-04T08:24:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "firefox"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "munHunger"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -2593,6 +2551,22 @@
       "source": "GitHub",
       "stars": 84,
       "user": "WhiteDNS"
+    },
+    {
+      "title": "How to Test AI Features in Flutter [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
+      "published_at": "2026-08-07T16:05:31.000Z",
+      "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
+      "tags": [
+        "Flutter",
+        "gemini",
+        "flutter-aware",
+        "Dart",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Atuoha Anthony"
     },
     {
       "title": "A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures",
@@ -2852,21 +2826,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
-      "url": "https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/",
-      "published_at": "2026-08-05T17:14:47.000Z",
-      "description": "Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con",
-      "tags": [
-        "Node.js",
-        "design patterns",
-        "AWS",
-        "Docker"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ],
   "Database": [
@@ -2894,7 +2853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -3134,7 +3093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -3149,6 +3108,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yoelcabo"
+    },
+    {
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "published_at": "2026-08-07T21:00:08.000Z",
+      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "poland"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Computer maker Framework notifies &#8216;all customers&#8217; of a data breach",
@@ -3351,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 918,
       "user": "x4gKing"
     },
     {
@@ -3366,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "sophiamyang"
     },
     {
@@ -3381,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "0xwilliamortiz"
     },
     {
@@ -3411,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 554,
       "user": "0xwilliamortiz"
     },
     {
@@ -3426,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1866,
       "user": "KKKKhazix"
     },
     {
@@ -3441,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 494,
       "user": "disler"
     },
     {
@@ -3471,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "jd-opensource"
     },
     {
@@ -3576,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1964,
+      "stars": 1968,
       "user": "thebuggeddev"
     },
     {
@@ -3591,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 856,
       "user": "guillermolg00"
     },
     {
@@ -3636,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 226,
       "user": "openTrinity"
     },
     {
@@ -3651,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10744,
+      "stars": 10812,
       "user": "firecrawl"
     },
     {
