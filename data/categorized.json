@@ -117,21 +117,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
-      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4",
-      "published_at": "2026-08-03T07:31:29Z",
-      "description": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
       "published_at": "2026-07-27T17:09:33Z",
@@ -145,21 +130,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Google ADK: Introduction to AI Agent Development",
-      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e",
-      "published_at": "2026-07-26T15:56:55Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -342,6 +312,21 @@
       "user": "John"
     },
     {
+      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
+      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4",
+      "published_at": "2026-08-03T07:31:29Z",
+      "description": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
+      "tags": [
+        "ai",
+        "gemini",
+        "mcp",
+        "googleappsscript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "published_at": "2026-07-30T20:43:23Z",
@@ -357,21 +342,6 @@
       "user": "Giulio D'Erme"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "Your RAG copilot can't count — stop letting it try",
       "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
       "published_at": "2026-07-31T11:00:29Z",
@@ -385,6 +355,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
       "source": "Dev.to",
       "user": "Rodrigo Diego"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -492,21 +477,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google ADK: Architecture and Essential Components",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
-      "published_at": "2026-08-02T12:04:38Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
-    },
-    {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
       "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
       "published_at": "2026-07-23T13:24:50Z",
@@ -550,6 +520,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
       "source": "Dev.to",
       "user": "Shy Ruparel"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -720,169 +705,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "published_at": "2026-08-01T20:36:27Z",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 579,
-      "user": "sophiamyang"
-    },
-    {
-      "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "published_at": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 1477,
-      "user": "KKKKhazix"
-    },
-    {
-      "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "published_at": "2026-08-05T07:30:56Z",
-      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
-      "source": "GitHub",
-      "stars": 1159,
-      "user": "Binaryify"
-    },
-    {
-      "title": "SandAI-org/MAGI-2-preview - MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "url": "https://github.com/SandAI-org/MAGI-2-preview",
-      "published_at": "2026-08-04T12:47:38Z",
-      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
-      "source": "GitHub",
-      "stars": 372,
-      "user": "SandAI-org"
-    },
-    {
-      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
-      "url": "https://github.com/magicrew/doc7",
-      "published_at": "2026-08-02T14:03:55Z",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
-      "source": "GitHub",
-      "stars": 464,
-      "user": "magicrew"
-    },
-    {
-      "title": "trycompai/crm - An open-source, agentic-first CRM.",
-      "url": "https://github.com/trycompai/crm",
-      "published_at": "2026-07-31T21:38:51Z",
-      "description": "An open-source, agentic-first CRM.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
-      "source": "GitHub",
-      "stars": 6971,
-      "user": "trycompai"
-    },
-    {
-      "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "published_at": "2026-07-31T09:40:58Z",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
-      "source": "GitHub",
-      "stars": 1997,
-      "user": "genspark-ai"
-    },
-    {
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "published_at": "2026-08-02T11:15:16Z",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
-      "source": "GitHub",
-      "stars": 1797,
-      "user": "thebuggeddev"
-    },
-    {
-      "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
-      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
-      "published_at": "2026-08-03T12:23:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
-      "source": "GitHub",
-      "stars": 278,
-      "user": "HaidarJbeily7"
-    },
-    {
-      "title": "rust-lang/rust is adopting an LLM policy",
-      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-      "published_at": "2026-08-05T01:55:36.963-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "wezm"
-    },
-    {
       "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
       "url": "https://stackoverflow.com/questions/72070748/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server",
       "published_at": "2022-04-30T17:39:03.000Z",
@@ -899,93 +721,73 @@
       "user": "suku"
     },
     {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "published_at": "2026-08-06T13:31:57.000Z",
-      "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "published_at": "2026-08-06T22:43:53.000Z",
+      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "tags": [
         "AI",
-        "Apps",
-        "Music AI",
-        "suno",
-        "watermarking"
+        "Gadgets",
+        "Hardware",
+        "ChatGPT",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Lucas Ropek"
     },
     {
-      "title": "Ford&#8217;s new electric truck, &#8216;Fathom&#8217;, starts at $28,350",
-      "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
-      "published_at": "2026-08-06T13:01:25.000Z",
-      "description": "Due in \"fall 2027,\" Ford said Thursday that it won't reveal what Fathom looks like until early next year.",
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "published_at": "2026-08-06T22:00:00.000Z",
+      "description": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offer",
       "tags": [
-        "Transportation",
-        "electric trucks",
-        "EVs",
-        "Ford"
+        "Startups",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sean O'Kane"
+      "user": "TechCrunch Events"
     },
     {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "published_at": "2026-08-06T13:00:00.000Z",
-      "description": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "title": "Vogue just gave another nod of approval to the tech world",
+      "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+      "published_at": "2026-08-06T21:24:47.000Z",
+      "description": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
       "tags": [
-        "AI",
-        "Commerce",
-        "Fundraising",
-        "Bessemer Venture Partners",
-        "Gradient Ventures"
+        "Media & Entertainment",
+        "vogue"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "published_at": "2026-08-06T13:00:00.000Z",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "published_at": "2026-08-06T19:02:57.000Z",
+      "description": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
       "tags": [
-        "AI",
-        "Enterprise",
-        "Exclusive",
-        "Google",
-        "google cloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "published_at": "2026-08-06T12:30:00.000Z",
-      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Google Maps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "published_at": "2026-08-06T12:00:00.000Z",
-      "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "tags": [
-        "AI",
         "Fundraising",
         "Startups",
-        "customer support",
-        "Expedition Growth Capital"
+        "TC",
+        "Transportation",
+        "defense technology"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "published_at": "2026-08-06T17:34:42.000Z",
+      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ChatGPT",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1266,184 +1068,36 @@
       "user": "velmu"
     },
     {
-      "title": "x4gKing/3x-ui-multi - GitHub Repository",
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "published_at": "2026-08-01T12:34:51Z",
-      "description": "Trending GitHub Repository",
+      "title": "How to delete from a sorted array without O(n)",
+      "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
+      "published_at": "2026-08-06T19:43:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "advice",
+        "javascript",
+        "database",
+        "optimization",
+        "data-structures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loliland Wizard"
+    },
+    {
+      "title": "How to test PlateJs Marks with React Testing Library",
+      "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
+      "published_at": "2026-08-06T16:17:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
-        "github",
-        "open-source"
+        "reactjs",
+        "jestjs",
+        "react-testing-library",
+        "slate.js"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 848,
-      "user": "x4gKing"
-    },
-    {
-      "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "published_at": "2026-08-01T20:36:27Z",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 579,
-      "user": "sophiamyang"
-    },
-    {
-      "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
-      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
-      "published_at": "2026-08-01T15:22:27Z",
-      "description": "Quick profit scalper using flashloan mechanics",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
-      "source": "GitHub",
-      "stars": 555,
-      "user": "brookfacehe2421"
-    },
-    {
-      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "published_at": "2026-07-31T17:54:30Z",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 435,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "disler"
-    },
-    {
-      "title": "trycompai/crm - An open-source, agentic-first CRM.",
-      "url": "https://github.com/trycompai/crm",
-      "published_at": "2026-07-31T21:38:51Z",
-      "description": "An open-source, agentic-first CRM.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
-      "source": "GitHub",
-      "stars": 6971,
-      "user": "trycompai"
-    },
-    {
-      "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "published_at": "2026-07-31T09:40:58Z",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
-      "source": "GitHub",
-      "stars": 1997,
-      "user": "genspark-ai"
-    },
-    {
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "published_at": "2026-08-02T11:15:16Z",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
-      "source": "GitHub",
-      "stars": 1797,
-      "user": "thebuggeddev"
-    },
-    {
-      "title": "guillermolg00/morphicons - Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "url": "https://github.com/guillermolg00/morphicons",
-      "published_at": "2026-08-01T08:15:09Z",
-      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
-      "source": "GitHub",
-      "stars": 789,
-      "user": "guillermolg00"
-    },
-    {
-      "title": "deedy/qr-data-transfer - GitHub Repository",
-      "url": "https://github.com/deedy/qr-data-transfer",
-      "published_at": "2026-07-31T04:32:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
-      "source": "GitHub",
-      "stars": 422,
-      "user": "deedy"
-    },
-    {
-      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "url": "https://github.com/firecrawl/anydoc",
-      "published_at": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
-      "source": "GitHub",
-      "stars": 6990,
-      "user": "firecrawl"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
     },
     {
       "title": "I want to filter the class but got error .filter is not a function",
@@ -1457,6 +1111,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hanzla Khalid"
+    },
+    {
+      "title": "Javascript generator only running through one array",
+      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
+      "published_at": "2026-08-05T05:53:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "arrays",
+        "random",
+        "text"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Explorer"
     },
     {
       "title": "How to build a shared lock using Atomics",
@@ -1473,37 +1142,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bledder"
-    },
-    {
-      "title": "Javascript generator only running through one array",
-      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
-      "published_at": "2026-08-05T05:53:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "arrays",
-        "random",
-        "text"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Explorer"
-    },
-    {
-      "title": "Encoding UTF-8 hex and decoding UTF-8 hex in JavaScript",
-      "url": "https://stackoverflow.com/questions/79990418/encoding-utf-8-hex-and-decoding-utf-8-hex-in-javascript",
-      "published_at": "2026-08-04T13:53:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "advice",
-        "javascript",
-        "utf-8",
-        "utf-16",
-        "utf"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "brogrammer"
     },
     {
       "title": "How to test Vue ripple directive has been used?",
@@ -1537,22 +1175,6 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
-      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
-      "published_at": "2026-07-20T20:58:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "recaptcha",
-        "netlify",
-        "hugo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
-    },
-    {
       "title": "How to round to at most 2 decimal places, if necessary",
       "url": "https://stackoverflow.com/questions/11832914/how-to-round-to-at-most-2-decimal-places-if-necessary",
       "published_at": "2012-08-06T17:17:48.000Z",
@@ -1567,19 +1189,20 @@
       "user": "stinkycheeseman"
     },
     {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
+        "tooling-recommendation",
         "javascript",
-        "security",
-        "iframe",
-        "sanitization"
+        "recaptcha",
+        "netlify",
+        "hugo"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
+      "user": "Malte K"
     },
     {
       "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
@@ -1826,96 +1449,6 @@
       "user": "arathore"
     },
     {
-      "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "published_at": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 1477,
-      "user": "KKKKhazix"
-    },
-    {
-      "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "published_at": "2026-08-05T07:30:56Z",
-      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
-      "source": "GitHub",
-      "stars": 1159,
-      "user": "Binaryify"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "disler"
-    },
-    {
-      "title": "SandAI-org/MAGI-2-preview - MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "url": "https://github.com/SandAI-org/MAGI-2-preview",
-      "published_at": "2026-08-04T12:47:38Z",
-      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
-      "source": "GitHub",
-      "stars": 372,
-      "user": "SandAI-org"
-    },
-    {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 356,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "url": "https://github.com/firecrawl/anydoc",
-      "published_at": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
-      "source": "GitHub",
-      "stars": 6990,
-      "user": "firecrawl"
-    },
-    {
       "title": "python string literals are kinda funny",
       "url": "https://sebsite.pw/w/20260806-pystrings.html",
       "published_at": "2026-08-05T23:44:44.655-05:00",
@@ -1926,6 +1459,74 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "raymii"
+    },
+    {
+      "title": "What's the correct pattern to guarantee an async generator is closed when its consuming task is cancelled mid-queue.put()?",
+      "url": "https://stackoverflow.com/questions/79991144/whats-the-correct-pattern-to-guarantee-an-async-generator-is-closed-when-its-co",
+      "published_at": "2026-08-06T21:12:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "python-asyncio",
+        "generator",
+        "backpressure"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "juliana"
+    },
+    {
+      "title": "Expected type SupportsWrite[bytes], got BufferedWriter instead when dumping a pickle object in Python 3.12.5",
+      "url": "https://stackoverflow.com/questions/79991075/expected-type-supportswritebytes-got-bufferedwriter-instead-when-dumping-a-pi",
+      "published_at": "2026-08-06T16:07:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pycharm",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
+    },
+    {
+      "title": "How to implement condition checker?",
+      "url": "https://stackoverflow.com/questions/79991068/how-to-implement-condition-checker",
+      "published_at": "2026-08-06T15:41:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rohit Magesh"
+    },
+    {
+      "title": "xsdata serialization with a computed field",
+      "url": "https://stackoverflow.com/questions/79991102/xsdata-serialization-with-a-computed-field",
+      "published_at": "2026-08-06T17:40:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pydantic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "abcdefg"
+    },
+    {
+      "title": "Always unmute/mute a mic in Python",
+      "url": "https://stackoverflow.com/questions/79991046/always-unmute-mute-a-mic-in-python",
+      "published_at": "2026-08-06T13:57:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python",
+        "controls"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Archie Enstone"
     },
     {
       "title": "RabbitMQ is missing every other message",
@@ -1941,23 +1542,40 @@
       "user": "BertC"
     },
     {
-      "title": "Always unmute/mute a mic in Python",
-      "url": "https://stackoverflow.com/questions/79991046/always-unmute-mute-a-mic-in-python",
-      "published_at": "2026-08-06T13:57:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
+      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
+      "published_at": "2026-08-06T14:51:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "controls"
+        "multithreading",
+        "google-cloud-platform",
+        "concurrency",
+        "spacy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Archie Enstone"
+      "user": "lightning_missile"
+    },
+    {
+      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
+      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
+      "published_at": "2026-08-06T08:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sufian Says Hello"
     },
     {
       "title": "ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: 'd:\\\\chatbot\\\\scripts\\\\pip.exe' Check the permissions",
       "url": "https://stackoverflow.com/questions/79991044/error-could-not-install-packages-due-to-an-oserror-winerror-5-access-is-deni",
       "published_at": "2026-08-06T13:56:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python"
       ],
@@ -1977,93 +1595,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33004568"
-    },
-    {
-      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
-      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
-      "published_at": "2026-08-06T08:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sufian Says Hello"
-    },
-    {
-      "title": "How can I separate functions on Python so that it doesn't reset each time I use the terminal?",
-      "url": "https://stackoverflow.com/questions/79990855/how-can-i-separate-functions-on-python-so-that-it-doesnt-reset-each-time-i-use",
-      "published_at": "2026-08-06T00:44:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "python-3.x",
-        "function",
-        "class"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33003870"
-    },
-    {
-      "title": "SQL Server database stuck restoring when restored with mssql_python",
-      "url": "https://stackoverflow.com/questions/79990815/sql-server-database-stuck-restoring-when-restored-with-mssql-python",
-      "published_at": "2026-08-05T20:19:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "sql-server",
-        "sql-server-2022",
-        "mssql-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Stevoisiak"
-    },
-    {
-      "title": "I need the path of the file that is invoking the launch of my Python application",
-      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
-      "published_at": "2026-08-05T05:48:15.000Z",
-      "description": "Stack Overflow question · 4 answers · score -1",
-      "tags": [
-        "python",
-        "path",
-        "pyinstaller",
-        "launch",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeex"
-    },
-    {
-      "title": "When should a Python project be reorganized into packages instead of keeping modules in the project root?",
-      "url": "https://stackoverflow.com/questions/79990707/when-should-a-python-project-be-reorganized-into-packages-instead-of-keeping-mod",
-      "published_at": "2026-08-05T13:16:24.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mxbndwld"
-    },
-    {
-      "title": "How to solve verify traffic error for web scraping",
-      "url": "https://stackoverflow.com/questions/79990794/how-to-solve-verify-traffic-error-for-web-scraping",
-      "published_at": "2026-08-05T18:20:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python",
-        "web-scraping",
-        "shopee"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "eeem"
     },
     {
       "title": "Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware [Full Handbook]",
@@ -2308,21 +1839,6 @@
       "user": "velmu"
     },
     {
-      "title": "codetesla51/barrage - Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "url": "https://github.com/codetesla51/barrage",
-      "published_at": "2026-08-02T17:21:16Z",
-      "description": "Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "codetesla51"
-    },
-    {
       "title": "I want to filter the class but got error .filter is not a function",
       "url": "https://stackoverflow.com/questions/79990871/i-want-to-filter-the-class-but-got-error-filter-is-not-a-function",
       "published_at": "2026-08-06T03:42:04.000Z",
@@ -2349,21 +1865,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MatrixRonny"
-    },
-    {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
     },
     {
       "title": "Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of \"text/html\"",
@@ -2460,6 +1961,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Bluetooth Low Energy in Flutter: A Handbook for Devs",
       "url": "https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/",
       "published_at": "2026-08-05T17:25:01.000Z",
@@ -2506,21 +2022,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Google ADK: Introduction to AI Agent Development",
-      "url": "https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e",
-      "published_at": "2026-07-26T15:56:55Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co           ...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjprzcnaqilowqrxdrgwg.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -2703,21 +2204,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google ADK: Architecture and Essential Components",
-      "url": "https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6",
-      "published_at": "2026-08-02T12:04:38Z",
-      "description": "Nota: ✋ This post was originally published on my blog wiki-cloud.co            Introduction   The...",
-      "tags": [
-        "ai",
-        "agents",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8nezh6tgnlfxcj5w3gn.png",
-      "source": "Dev.to",
-      "user": "John Bulla"
-    },
-    {
       "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
       "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
       "published_at": "2026-07-23T13:24:50Z",
@@ -2733,20 +2219,20 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "published_at": "2026-08-06T13:00:00.000Z",
-      "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
+      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
+      "published_at": "2026-08-06T14:51:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
-        "AI",
-        "Enterprise",
-        "Exclusive",
-        "Google",
-        "google cloud"
+        "python",
+        "multithreading",
+        "google-cloud-platform",
+        "concurrency",
+        "spacy"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "source": "StackOverflow",
+      "user": "lightning_missile"
     },
     {
       "title": "How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern",
@@ -2792,49 +2278,20 @@
       "user": "iancarroll"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "title": "How to delete from a sorted array without O(n)",
+      "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
+      "published_at": "2026-08-06T19:43:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 356,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "codetesla51/barrage - Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "url": "https://github.com/codetesla51/barrage",
-      "published_at": "2026-08-02T17:21:16Z",
-      "description": "Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "codetesla51"
-    },
-    {
-      "title": "SQL Server database stuck restoring when restored with mssql_python",
-      "url": "https://stackoverflow.com/questions/79990815/sql-server-database-stuck-restoring-when-restored-with-mssql-python",
-      "published_at": "2026-08-05T20:19:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "sql-server",
-        "sql-server-2022",
-        "mssql-python"
+        "advice",
+        "javascript",
+        "database",
+        "optimization",
+        "data-structures"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Stevoisiak"
+      "user": "Loliland Wizard"
     }
   ],
   "Security": [
@@ -3016,21 +2473,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 356,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
       "url": "https://bobdahacker.com/blog/tldv-hack",
       "published_at": "2026-08-06T06:22:20.687-05:00",
@@ -3042,6 +2484,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yoelcabo"
+    },
+    {
+      "title": "schrodingers-toctou: The binary you run is not the program you wrote",
+      "url": "https://github.com/xoreaxeaxeax/schrodingers-toctou",
+      "published_at": "2026-08-06T10:47:45.559-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "c",
+        "compilers",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "juri"
     },
     {
       "title": "Content Security Policy (CSP) \"unsafe-hashes\" does not work as expected. Browser expecting different hash",
@@ -3059,19 +2516,35 @@
       "user": "MatrixRonny"
     },
     {
-      "title": "Cycode scan recommends HTML sanitization for iframe.src assignment, but I'm only using a URL—what is the proper mitigation?",
-      "url": "https://stackoverflow.com/questions/79925945/cycode-scan-recommends-html-sanitization-for-iframe-src-assignment-but-im-only",
-      "published_at": "2026-04-15T11:09:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+      "published_at": "2026-08-06T19:40:46.000Z",
+      "description": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
       "tags": [
-        "javascript",
-        "security",
-        "iframe",
-        "sanitization"
+        "Security",
+        "cybercrime",
+        "cybersecurity",
+        "Google",
+        "hackers"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mahesh Hadagali Sangamesh"
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+      "published_at": "2026-08-06T19:22:30.000Z",
+      "description": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "nato",
+        "Spyware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3215,379 +2688,20 @@
       "user": "pabs3"
     },
     {
-      "title": "x4gKing/3x-ui-multi - GitHub Repository",
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "published_at": "2026-08-01T12:34:51Z",
-      "description": "Trending GitHub Repository",
+      "title": "How to test PlateJs Marks with React Testing Library",
+      "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
+      "published_at": "2026-08-06T16:17:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
-        "github",
-        "open-source"
+        "reactjs",
+        "jestjs",
+        "react-testing-library",
+        "slate.js"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 848,
-      "user": "x4gKing"
-    },
-    {
-      "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "published_at": "2026-08-01T20:36:27Z",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 580,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 579,
-      "user": "sophiamyang"
-    },
-    {
-      "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
-      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
-      "published_at": "2026-08-01T15:22:27Z",
-      "description": "Quick profit scalper using flashloan mechanics",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
-      "source": "GitHub",
-      "stars": 555,
-      "user": "brookfacehe2421"
-    },
-    {
-      "title": "0xwilliamortiz/ratchet - Your agent reads the rules. This checks whether it followed them.",
-      "url": "https://github.com/0xwilliamortiz/ratchet",
-      "published_at": "2026-07-31T17:54:30Z",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 435,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "published_at": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 1477,
-      "user": "KKKKhazix"
-    },
-    {
-      "title": "Binaryify/open-kimi-ppt-skill - 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "published_at": "2026-08-05T07:30:56Z",
-      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
-      "source": "GitHub",
-      "stars": 1159,
-      "user": "Binaryify"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "disler"
-    },
-    {
-      "title": "SandAI-org/MAGI-2-preview - MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "url": "https://github.com/SandAI-org/MAGI-2-preview",
-      "published_at": "2026-08-04T12:47:38Z",
-      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
-      "source": "GitHub",
-      "stars": 372,
-      "user": "SandAI-org"
-    },
-    {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 356,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
-      "url": "https://github.com/magicrew/doc7",
-      "published_at": "2026-08-02T14:03:55Z",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
-      "source": "GitHub",
-      "stars": 464,
-      "user": "magicrew"
-    },
-    {
-      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
-      "published_at": "2026-08-01T02:36:14Z",
-      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "lij768423-svg"
-    },
-    {
-      "title": "codetesla51/barrage - Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "url": "https://github.com/codetesla51/barrage",
-      "published_at": "2026-08-02T17:21:16Z",
-      "description": "Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "codetesla51"
-    },
-    {
-      "title": "BetaLi/direct-link - 免费好用的加速器",
-      "url": "https://github.com/BetaLi/direct-link",
-      "published_at": "2026-08-01T12:10:10Z",
-      "description": "免费好用的加速器",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/28004283?v=4",
-      "source": "GitHub",
-      "stars": 60,
-      "user": "BetaLi"
-    },
-    {
-      "title": "smol-env/smol - smol is a smol agent",
-      "url": "https://github.com/smol-env/smol",
-      "published_at": "2026-08-01T14:40:09Z",
-      "description": "smol is a smol agent",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
-      "source": "GitHub",
-      "stars": 51,
-      "user": "smol-env"
-    },
-    {
-      "title": "trycompai/crm - An open-source, agentic-first CRM.",
-      "url": "https://github.com/trycompai/crm",
-      "published_at": "2026-07-31T21:38:51Z",
-      "description": "An open-source, agentic-first CRM.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/195194844?v=4",
-      "source": "GitHub",
-      "stars": 6971,
-      "user": "trycompai"
-    },
-    {
-      "title": "genspark-ai/genoffice - An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "published_at": "2026-07-31T09:40:58Z",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/242390443?v=4",
-      "source": "GitHub",
-      "stars": 1997,
-      "user": "genspark-ai"
-    },
-    {
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "published_at": "2026-08-02T11:15:16Z",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
-      "source": "GitHub",
-      "stars": 1797,
-      "user": "thebuggeddev"
-    },
-    {
-      "title": "guillermolg00/morphicons - Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "url": "https://github.com/guillermolg00/morphicons",
-      "published_at": "2026-08-01T08:15:09Z",
-      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
-      "source": "GitHub",
-      "stars": 789,
-      "user": "guillermolg00"
-    },
-    {
-      "title": "deedy/qr-data-transfer - GitHub Repository",
-      "url": "https://github.com/deedy/qr-data-transfer",
-      "published_at": "2026-07-31T04:32:13Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1846373?v=4",
-      "source": "GitHub",
-      "stars": 422,
-      "user": "deedy"
-    },
-    {
-      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "url": "https://github.com/firecrawl/anydoc",
-      "published_at": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
-      "source": "GitHub",
-      "stars": 6990,
-      "user": "firecrawl"
-    },
-    {
-      "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
-      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
-      "published_at": "2026-08-03T12:23:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
-      "source": "GitHub",
-      "stars": 278,
-      "user": "HaidarJbeily7"
-    },
-    {
-      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "url": "https://github.com/cristicretu/diri",
-      "published_at": "2026-08-04T10:08:23Z",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
-      "source": "GitHub",
-      "stars": 210,
-      "user": "cristicretu"
-    },
-    {
-      "title": "l00sed/termixer - A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
-      "url": "https://github.com/l00sed/termixer",
-      "published_at": "2026-07-31T15:52:49Z",
-      "description": "A 2-deck mixer, sample pads, sequencer— all from any Unix terminal.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/23065167?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "l00sed"
-    },
-    {
-      "title": "Gaoshu705/QzoneArchive - 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
-      "url": "https://github.com/Gaoshu705/QzoneArchive",
-      "published_at": "2026-08-02T19:53:30Z",
-      "description": "将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "Gaoshu705"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fi Li Ppo"
     },
     {
       "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
@@ -3604,20 +2718,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "published_at": "2026-08-06T12:30:00.000Z",
-      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Google Maps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "What Modern QA Engineers Actually Do: It's More Than Finding Bugs",
