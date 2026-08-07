@@ -5,9 +5,9 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-159-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-5-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--07-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-07 2:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-07 5:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
 | 20 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
 
-<sub>Last fetched: Fri, 07 Aug 2026 02:22:03 CAT</sub>
+<sub>Last fetched: Fri, 07 Aug 2026 05:26:00 CAT</sub>
 
 
 ---
@@ -122,29 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Users, posts, relationships, indexes, partitioning
-
-</details>
-
-**2. `JavaScript` — What are closures and provide a practical example?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> useState, useEffect, loading states, error handling
 
 </details>
 
-**3. `SystemDesign` — Design a distributed cache system**
+**2. `SystemDesign` — Design a distributed cache system**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
@@ -152,6 +141,17 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Consistency, partitioning, replication, eviction policies
+
+</details>
+
+**3. `JavaScript` — Implement a debounce function from scratch**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 60 | 37.7% | `████████████████████` |
-| **JavaScript** | 28 | 17.6% | `█████████░░░░░░░░░░░` |
-| **Python** | 27 | 17.0% | `█████████░░░░░░░░░░░` |
-| **Security** | 19 | 11.9% | `██████░░░░░░░░░░░░░░` |
-| **Cloud** | 18 | 11.3% | `██████░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 8.8% | `█████░░░░░░░░░░░░░░░` |
-| **Tools** | 14 | 8.8% | `█████░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 2 | 1.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 75 | 40.8% | `████████████████████` |
+| **JavaScript** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -184,6 +184,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |--------|---------:|
 | Dev.to | 60 |
 | HackerNews | 49 |
+| GitHub | 25 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -193,27 +194,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 31.1%
-JavaScript      ███████████████████████ 23.5%
-Python          ██████████████████████ 22.7%
-Java            █████████████████████ 21.8%
-Kotlin          █ 0.8%
+Go              ██████████████████████████████ 27.6%
+JavaScript      ████████████████████████████ 25.6%
+Java            ████████████████████████ 21.8%
+Python          ███████████████████████ 21.2%
+Rust            ███ 3.2%
+Kotlin          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 37
-    "JavaScript" : 28
-    "Python" : 27
-    "Java" : 26
+    "Go" : 43
+    "JavaScript" : 40
+    "Java" : 34
+    "Python" : 33
+    "Rust" : 5
     "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) ![mcps](https://img.shields.io/badge/mcps-5-0969da?style=flat-square) ![aws](https://img.shields.io/badge/aws-5-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-33-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) 
 
 
 ---
@@ -265,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 07 Aug 2026 00:22:03 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 07 Aug 2026 03:26:00 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
