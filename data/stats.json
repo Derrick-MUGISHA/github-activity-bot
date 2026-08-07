@@ -24,7 +24,7 @@
   "by_language": {
     "JavaScript": 42,
     "Python": 32,
-    "Go": 39,
+    "Go": 38,
     "Java": 33,
     "Kotlin": 1,
     "Rust": 6
@@ -128,10 +128,10 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.5",
-    "Python": "20.9",
-    "Go": "25.5",
-    "Java": "21.6",
+    "JavaScript": "27.6",
+    "Python": "21.1",
+    "Go": "25.0",
+    "Java": "21.7",
     "Kotlin": "0.7",
     "Rust": "3.9"
   }
