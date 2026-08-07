@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1860,
       "user": "KKKKhazix"
     },
     {
@@ -765,21 +765,6 @@
       "user": "SandAI-org"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "AMAP-ML"
-    },
-    {
       "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
       "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
       "published_at": "2026-08-04T08:22:24Z",
@@ -791,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 382,
       "user": "jd-opensource"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 382,
+      "user": "AMAP-ML"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 607,
       "user": "magicrew"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1956,
+      "stars": 1959,
       "user": "thebuggeddev"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "criptogus"
     },
     {
@@ -956,7 +956,7 @@
       "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
       "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
       "published_at": "2026-08-06T23:59:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-asyncio"
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "disler"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1956,
+      "stars": 1959,
       "user": "thebuggeddev"
     },
     {
@@ -1522,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 847,
       "user": "guillermolg00"
     },
     {
@@ -1552,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "criptogus"
     },
     {
@@ -1567,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 219,
       "user": "alexngdev99"
     },
     {
@@ -1582,14 +1582,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10560,
+      "stars": 10630,
       "user": "firecrawl"
     },
     {
       "title": "Why currentUser below is empty while currentUser above is not?",
       "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
       "published_at": "2026-08-07T15:07:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "reactjs"
@@ -1971,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1860,
       "user": "KKKKhazix"
     },
     {
@@ -1986,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "disler"
     },
     {
@@ -2005,21 +2005,6 @@
       "user": "SandAI-org"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "AMAP-ML"
-    },
-    {
       "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
       "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
       "published_at": "2026-08-04T08:22:24Z",
@@ -2031,8 +2016,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 382,
       "user": "jd-opensource"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 382,
+      "user": "AMAP-ML"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -2046,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10560,
+      "stars": 10630,
       "user": "firecrawl"
     },
     {
@@ -2062,6 +2062,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zzzCode"
+    },
+    {
+      "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
+      "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
+      "published_at": "2026-08-06T23:59:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "juliana"
     },
     {
       "title": "SQL Server backup to rustfs gives Operating system error 12175",
@@ -2102,19 +2115,6 @@
         "python-asyncio",
         "generator",
         "backpressure"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
-      "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
-      "published_at": "2026-08-06T23:59:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2879,7 +2879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -3119,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -3396,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 473,
       "user": "0xwilliamortiz"
     },
     {
@@ -3411,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1860,
       "user": "KKKKhazix"
     },
     {
@@ -3426,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "disler"
     },
     {
@@ -3445,21 +3445,6 @@
       "user": "SandAI-org"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "AMAP-ML"
-    },
-    {
       "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
       "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
       "published_at": "2026-08-04T08:22:24Z",
@@ -3471,8 +3456,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 382,
       "user": "jd-opensource"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 382,
+      "user": "AMAP-ML"
     },
     {
       "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
@@ -3486,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 607,
       "user": "magicrew"
     },
     {
@@ -3561,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1956,
+      "stars": 1959,
       "user": "thebuggeddev"
     },
     {
@@ -3576,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 847,
       "user": "guillermolg00"
     },
     {
@@ -3606,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "criptogus"
     },
     {
@@ -3621,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 219,
       "user": "alexngdev99"
     },
     {
@@ -3636,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10560,
+      "stars": 10630,
       "user": "firecrawl"
     },
     {
@@ -3666,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 221,
       "user": "cristicretu"
     },
     {
