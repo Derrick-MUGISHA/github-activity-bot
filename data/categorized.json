@@ -16,6 +16,21 @@
       "user": "Çalgan Aygün"
     },
     {
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
+      "published_at": "2026-08-07T14:54:45Z",
+      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "tags": [
+        "angular",
+        "firebase",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
       "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if",
       "published_at": "2026-08-07T02:55:21Z",
@@ -218,21 +233,6 @@
         "azure"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
-      "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
-      "published_at": "2026-07-31T17:44:17Z",
-      "description": "A measured cross-cloud smoke test: Microsoft Foundry orchestrates MCP and calls an Amazon Bedrock AgentCore specialist over authenticated A2A.",
-      "tags": [
-        "azure",
-        "aws",
-        "aiagents",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1855,
       "user": "KKKKhazix"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "magicrew"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "WhiteDNS"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1950,
+      "stars": 1956,
       "user": "thebuggeddev"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "criptogus"
     },
     {
@@ -920,6 +920,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
+    },
+    {
+      "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
+      "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
+      "published_at": "2026-08-07T09:40:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "server-side-rendering",
+        "dynamic-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ashutosh Shukla"
     },
     {
       "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
@@ -1165,6 +1181,21 @@
       "user": "Giorgio Galassi"
     },
     {
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
+      "published_at": "2026-08-07T14:54:45Z",
+      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "tags": [
+        "angular",
+        "firebase",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
       "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
       "published_at": "2026-07-30T08:02:27Z",
@@ -1386,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 909,
       "user": "x4gKing"
     },
     {
@@ -1446,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "0xwilliamortiz"
     },
     {
@@ -1476,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1950,
+      "stars": 1956,
       "user": "thebuggeddev"
     },
     {
@@ -1491,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 845,
       "user": "guillermolg00"
     },
     {
@@ -1521,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "criptogus"
     },
     {
@@ -1551,7 +1582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10462,
+      "stars": 10560,
       "user": "firecrawl"
     },
     {
@@ -1579,6 +1610,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
+    },
+    {
+      "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
+      "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
+      "published_at": "2026-08-07T09:40:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "server-side-rendering",
+        "dynamic-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ashutosh Shukla"
     },
     {
       "title": "How to delete from a sorted array without O(n)",
@@ -1614,7 +1661,7 @@
       "title": "How to test PlateJs Marks with React Testing Library",
       "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
       "published_at": "2026-08-06T16:17:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "reactjs",
@@ -1683,22 +1730,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "munHunger"
-    },
-    {
-      "title": "How to test Vue ripple directive has been used?",
-      "url": "https://stackoverflow.com/questions/79989578/how-to-test-vue-ripple-directive-has-been-used",
-      "published_at": "2026-07-31T20:17:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "vue.js",
-        "quasar",
-        "vue-test-utils",
-        "vue-directives"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chiara Ani"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1940,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1855,
       "user": "KKKKhazix"
     },
     {
@@ -2000,7 +2031,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "jd-opensource"
     },
     {
@@ -2015,7 +2046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10462,
+      "stars": 10560,
       "user": "firecrawl"
     },
     {
@@ -2545,7 +2576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "WhiteDNS"
     },
     {
@@ -2703,21 +2734,6 @@
       "user": "xbill"
     },
     {
-      "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
-      "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
-      "published_at": "2026-07-31T17:44:17Z",
-      "description": "A measured cross-cloud smoke test: Microsoft Foundry orchestrates MCP and calls an Amazon Bedrock AgentCore specialist over authenticated A2A.",
-      "tags": [
-        "azure",
-        "aws",
-        "aiagents",
-        "a2a"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2863,7 +2879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "0xwilliamortiz"
     },
     {
@@ -3103,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "0xwilliamortiz"
     },
     {
@@ -3320,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
       "source": "GitHub",
-      "stars": 908,
+      "stars": 909,
       "user": "x4gKing"
     },
     {
@@ -3380,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 472,
       "user": "0xwilliamortiz"
     },
     {
@@ -3395,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1855,
       "user": "KKKKhazix"
     },
     {
@@ -3455,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "jd-opensource"
     },
     {
@@ -3470,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 605,
       "user": "magicrew"
     },
     {
@@ -3500,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 80,
       "user": "WhiteDNS"
     },
     {
@@ -3545,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1950,
+      "stars": 1956,
       "user": "thebuggeddev"
     },
     {
@@ -3560,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 845,
       "user": "guillermolg00"
     },
     {
@@ -3590,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 408,
       "user": "criptogus"
     },
     {
@@ -3620,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10462,
+      "stars": 10560,
       "user": "firecrawl"
     },
     {
@@ -3650,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 220,
       "user": "cristicretu"
     },
     {
@@ -3699,7 +3715,7 @@
       "title": "How to test PlateJs Marks with React Testing Library",
       "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
       "published_at": "2026-08-06T16:17:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "reactjs",
