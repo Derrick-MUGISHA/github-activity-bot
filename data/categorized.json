@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1867,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 395,
       "user": "jd-opensource"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "AMAP-ML"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "WhiteDNS"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "criptogus"
     },
     {
@@ -881,7 +881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "mrpulor-gh"
     },
     {
@@ -956,7 +956,7 @@
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
       "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
       "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "task",
@@ -995,6 +995,20 @@
       "user": "Thomas"
     },
     {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published_at": "2026-08-07T21:30:11.000Z",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Rippling"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
       "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
       "published_at": "2026-08-07T21:00:08.000Z",
@@ -1012,7 +1026,7 @@
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published_at": "2026-08-07T16:16:09.000Z",
-      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "tags": [
         "AI",
         "Apps",
@@ -1069,19 +1083,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "The founder&#8217;s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "published_at": "2026-08-07T12:30:00.000Z",
-      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "tags": [
-        "Startups",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1507,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 495,
       "user": "disler"
     },
     {
@@ -1537,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 858,
       "user": "guillermolg00"
     },
     {
@@ -1567,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "criptogus"
     },
     {
@@ -1582,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "openTrinity"
     },
     {
@@ -1597,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10812,
+      "stars": 10860,
       "user": "firecrawl"
     },
     {
@@ -1972,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1867,
       "user": "KKKKhazix"
     },
     {
@@ -1987,7 +1988,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 495,
       "user": "disler"
     },
     {
@@ -2017,7 +2018,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 395,
       "user": "jd-opensource"
     },
     {
@@ -2032,7 +2033,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "AMAP-ML"
     },
     {
@@ -2047,8 +2048,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10812,
+      "stars": 10860,
       "user": "firecrawl"
+    },
+    {
+      "title": "Unexpected interaction between list comprehensions, late-binding closures, and in-place mutation in Python loop scopes",
+      "url": "https://stackoverflow.com/questions/79991433/unexpected-interaction-between-list-comprehensions-late-binding-closures-and-i",
+      "published_at": "2026-08-07T20:58:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Anas Odeh"
+    },
+    {
+      "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
+      "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
+      "published_at": "2026-08-07T18:43:24.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "task",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "juliana"
     },
     {
       "title": "Decode PyASN1 recursive structure",
@@ -2062,20 +2089,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user3472"
-    },
-    {
-      "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
-      "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
-      "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "task",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
     },
     {
       "title": "Why does tf.function retrace when only the RaggedTensor row-splits dtype changes?",
@@ -2174,21 +2187,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas"
-    },
-    {
-      "title": "Expected type SupportsWrite[bytes], got BufferedWriter instead when dumping a pickle object in Python 3.12.5",
-      "url": "https://stackoverflow.com/questions/79991075/expected-type-supportswritebytes-got-bufferedwriter-instead-when-dumping-a-pi",
-      "published_at": "2026-08-06T16:07:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pycharm",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2549,7 +2547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "WhiteDNS"
     },
     {
@@ -2816,7 +2814,7 @@
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published_at": "2026-08-07T16:16:09.000Z",
-      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "tags": [
         "AI",
         "Apps",
@@ -3399,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1866,
+      "stars": 1867,
       "user": "KKKKhazix"
     },
     {
@@ -3414,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 495,
       "user": "disler"
     },
     {
@@ -3444,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 395,
       "user": "jd-opensource"
     },
     {
@@ -3459,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 384,
       "user": "AMAP-ML"
     },
     {
@@ -3504,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 86,
       "user": "WhiteDNS"
     },
     {
@@ -3564,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
       "source": "GitHub",
-      "stars": 856,
+      "stars": 858,
       "user": "guillermolg00"
     },
     {
@@ -3594,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "criptogus"
     },
     {
@@ -3609,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 230,
       "user": "openTrinity"
     },
     {
@@ -3624,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10812,
+      "stars": 10860,
       "user": "firecrawl"
     },
     {
@@ -3669,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 208,
       "user": "Gaoshu705"
     },
     {
@@ -3684,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "mrpulor-gh"
     },
     {
@@ -3714,6 +3712,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fi Li Ppo"
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published_at": "2026-08-07T21:30:11.000Z",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Rippling"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Wacom&#8217;s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "published_at": "2026-08-07T21:20:00.000Z",
+      "description": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "tags": [
+        "Hardware",
+        "hardware",
+        "Wacom",
+        "consumer",
+        "digital art"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
