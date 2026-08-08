@@ -46,21 +46,6 @@
       "user": "Jenuel Oras Ganawed"
     },
     {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
-      "published_at": "2026-07-27T15:37:53Z",
-      "description": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and Provider synchronously without microtask stream latency or heavy code generation.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -301,6 +286,19 @@
       "user": "Nazar Boyko"
     },
     {
+      "title": "Kiro Crew: The Next Frontier",
+      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
+      "published_at": "2026-08-04T20:26:01Z",
+      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
+      "source": "Dev.to",
+      "user": "Alvaro Llamojha"
+    },
+    {
       "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
       "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
       "published_at": "2026-08-02T00:00:06Z",
@@ -479,6 +477,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
+      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
+      "published_at": "2026-08-03T21:51:04Z",
+      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
     },
     {
       "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
@@ -720,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 246,
       "user": "eternityspring"
     },
     {
@@ -795,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "WhiteDNS"
     },
     {
@@ -825,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2026,
       "user": "thebuggeddev"
     },
     {
@@ -1436,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 557,
       "user": "google-gemma"
     },
     {
@@ -1451,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 246,
       "user": "eternityspring"
     },
     {
@@ -1511,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2026,
       "user": "thebuggeddev"
     },
     {
@@ -1556,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 374,
       "user": "openTrinity"
     },
     {
@@ -1586,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12010,
+      "stars": 12028,
       "user": "firecrawl"
     },
     {
@@ -2005,7 +2016,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "T8mars"
     },
     {
@@ -2035,21 +2046,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12010,
+      "stars": 12028,
       "user": "firecrawl"
-    },
-    {
-      "title": "Item index in a for loop",
-      "url": "https://stackoverflow.com/questions/79991612/item-index-in-a-for-loop",
-      "published_at": "2026-08-08T19:37:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "dataframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user1"
     },
     {
       "title": "How to reduce the time taken to solve cses problem number 2?",
@@ -2062,6 +2060,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Damian Fernando D"
+    },
+    {
+      "title": "Item index in a for loop",
+      "url": "https://stackoverflow.com/questions/79991612/item-index-in-a-for-loop",
+      "published_at": "2026-08-08T19:37:49.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
+      "tags": [
+        "python",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user1"
     },
     {
       "title": "How can I create a ribbon in a Tk window with Python Tkinter pack?",
@@ -2459,19 +2470,6 @@
       "user": "Yogthos"
     },
     {
-      "title": "‘Farewell, Etaoin Shrdlu’",
-      "url": "https://archive.org/details/FarewellEtaoinShrdlu",
-      "published_at": "2026-08-07T23:45:36.812-05:00",
-      "description": "Perhaps does not meet the bar for topicality, but it feels very relevant to the current software zeitgeist.\r\n\r\n\"It's inevitable that we're going to go into computers. All the knowledge I've acquired over these 26 years is all locked up in a little box now called a computer. I think most jobs are probably going to end up the same way.\" @13:51\r\n\r\nMore direct source from the New York Times: https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html\r\n\r\nYouTube mirror for those that prefer it: https://www.youtube.com/watch?v=1MGjFKs9bnU",
-      "tags": [
-        "historical",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lyall"
-    },
-    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
@@ -2518,21 +2516,6 @@
   ],
   "Mobile": [
     {
-      "title": "Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider",
-      "url": "https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929",
-      "published_at": "2026-07-27T15:37:53Z",
-      "description": "Stop derailing your Flutter apps! Learn how BlocSignal acts as a central railway switchyard bridging BLoC, Riverpod, and Provider synchronously without microtask stream latency or heavy code generation.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ku505653e0t2zcdeji6.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
       "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
       "published_at": "2026-08-04T23:10:31Z",
@@ -2544,21 +2527,6 @@
         "signals"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Porting 16 BLoC & Signal Benchmark Apps to BlocSignal: Elevating Flutter UX & DX",
-      "url": "https://dev.to/gde/porting-16-bloc-signal-benchmark-apps-to-blocsignal-elevating-flutter-ux-dx-2dnl",
-      "published_at": "2026-08-02T18:21:58Z",
-      "description": "We ported 16 official example apps from felangel/bloc and rodydavis/signals.dart to showcase how BlocSignal simplifies Flutter state management with synchronous frame updates, computed() derivations, and streamless Mutex concurrency.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fazbfkq7ro5fnjh4y9o65.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2578,6 +2546,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Porting 16 BLoC & Signal Benchmark Apps to BlocSignal: Elevating Flutter UX & DX",
+      "url": "https://dev.to/gde/porting-16-bloc-signal-benchmark-apps-to-blocsignal-elevating-flutter-ux-dx-2dnl",
+      "published_at": "2026-08-02T18:21:58Z",
+      "description": "We ported 16 official example apps from felangel/bloc and rodydavis/signals.dart to showcase how BlocSignal simplifies Flutter state management with synchronous frame updates, computed() derivations, and streamless Mutex concurrency.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fazbfkq7ro5fnjh4y9o65.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
       "published_at": "2026-08-05T12:44:16Z",
@@ -2589,7 +2572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "WhiteDNS"
     },
     {
@@ -3243,21 +3226,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
       "published_at": "2026-07-28T18:58:24Z",
@@ -3271,6 +3239,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "published_at": "2026-07-30T17:50:23Z",
+      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
+      "tags": [
+        "ai",
+        "agents",
+        "mcp",
+        "agentskills"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
     },
     {
       "title": "Should I quit IT or just live through the burnout?",
@@ -3301,6 +3284,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
+      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
+      "published_at": "2026-08-03T21:51:04Z",
+      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3380,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 557,
       "user": "google-gemma"
     },
     {
@@ -3395,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 246,
       "user": "eternityspring"
     },
     {
@@ -3470,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "T8mars"
     },
     {
@@ -3515,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 109,
       "user": "WhiteDNS"
     },
     {
@@ -3575,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2026,
       "user": "thebuggeddev"
     },
     {
@@ -3620,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 374,
       "user": "openTrinity"
     },
     {
@@ -3650,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12010,
+      "stars": 12028,
       "user": "firecrawl"
     },
     {
