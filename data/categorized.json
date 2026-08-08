@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "sophiamyang"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "eternityspring"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1899,
+      "stars": 1907,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 700,
       "user": "magicrew"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "WhiteDNS"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1991,
+      "stars": 1994,
       "user": "thebuggeddev"
     },
     {
@@ -1095,101 +1095,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How to Test AI Features in Flutter [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
-      "published_at": "2026-08-07T16:05:31.000Z",
-      "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
-      "tags": [
-        "Flutter",
-        "gemini",
-        "flutter-aware",
-        "Dart",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
-    },
-    {
-      "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-      "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-      "published_at": "2026-08-06T22:51:17.000Z",
-      "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-      "tags": [
-        "DevSecOps",
-        "GitHub Actions",
-        "CI/CD",
-        "supply chain"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
-      "published_at": "2026-08-06T21:35:36.000Z",
-      "description": "If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid",
-      "tags": [
-        "Security",
-        "csrf",
-        "spring-boot",
-        "spring security",
-        "Java"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ashutosh Krishna"
-    },
-    {
-      "title": "How to Customize an LLM for AI Agents using SFT and QLoRA",
-      "url": "https://www.freecodecamp.org/news/how-to-customize-an-llm-for-ai-agents-using-sft-and-qlora/",
-      "published_at": "2026-08-06T16:13:59.000Z",
-      "description": "In this tutorial, I’ll show you how to fine-tune a large language model for use in AI agents using supervised fine-tuning with QLoRA. This lets us customize a pre-trained model so it behaves the way w",
-      "tags": [
-        "AI",
-        "ai agents",
-        "SFT",
-        "finetuning",
-        "#Finetuning Models"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP",
-      "url": "https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/",
-      "published_at": "2026-08-06T09:15:25.000Z",
-      "description": "Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev",
-      "tags": [
-        "Healthcare AI",
-        "ai agents",
-        "Claude Desktop",
-        "mcp",
-        "Medical Imaging"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
     }
   ],
   "JavaScript": [
@@ -1445,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "sophiamyang"
     },
     {
@@ -1460,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -1475,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 439,
       "user": "google-gemma"
     },
     {
@@ -1490,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "eternityspring"
     },
     {
@@ -1520,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "disler"
     },
     {
@@ -1550,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1991,
+      "stars": 1994,
       "user": "thebuggeddev"
     },
     {
@@ -1565,7 +1470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "wumingqi60"
     },
     {
@@ -1595,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 271,
       "user": "openTrinity"
     },
     {
@@ -1610,7 +1515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "alexngdev99"
     },
     {
@@ -1625,7 +1530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11205,
+      "stars": 11275,
       "user": "firecrawl"
     },
     {
@@ -1671,19 +1576,6 @@
       "user": "XavierLM"
     },
     {
-      "title": "Why something executes before something else?",
-      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
-      "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "async-await"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
       "title": "How to delete from a sorted array without O(n)",
       "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
       "published_at": "2026-08-06T19:43:24.000Z",
@@ -1697,6 +1589,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loliland Wizard"
+    },
+    {
+      "title": "Why something executes before something else?",
+      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
+      "published_at": "2026-08-07T12:39:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "async-await"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luna"
     },
     {
       "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
@@ -1772,22 +1677,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Explorer"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1998,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1899,
+      "stars": 1907,
       "user": "KKKKhazix"
     },
     {
@@ -2013,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "disler"
     },
     {
@@ -2028,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "jd-opensource"
     },
     {
@@ -2073,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11205,
+      "stars": 11275,
       "user": "firecrawl"
     },
     {
@@ -2122,7 +2011,7 @@
       "title": "QGraphicsView scrollbar does not update with contents",
       "url": "https://stackoverflow.com/questions/79991448/qgraphicsview-scrollbar-does-not-update-with-contents",
       "published_at": "2026-08-07T23:07:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "qt",
@@ -2163,7 +2052,7 @@
       "title": "Decode PyASN1 recursive structure",
       "url": "https://stackoverflow.com/questions/79991413/decode-pyasn1-recursive-structure",
       "published_at": "2026-08-07T18:44:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "pyasn1"
@@ -2229,21 +2118,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "juliana"
-    },
-    {
-      "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
-      "url": "https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/",
-      "published_at": "2026-08-06T21:25:06.000Z",
-      "description": "I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo",
-      "tags": [
-        "quantum computing",
-        "scaling",
-        "computer architecture",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Casmir Onyekani"
     }
   ],
   "DevOps": [
@@ -2426,21 +2300,6 @@
       "source": "GitHub",
       "stars": 38,
       "user": "kylan11"
-    },
-    {
-      "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-      "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-      "published_at": "2026-08-06T22:51:17.000Z",
-      "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-      "tags": [
-        "DevSecOps",
-        "GitHub Actions",
-        "CI/CD",
-        "supply chain"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
     }
   ],
   "WebDev": [
@@ -2542,22 +2401,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hanzla Khalid"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2633,56 +2476,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "WhiteDNS"
-    },
-    {
-      "title": "How to Test AI Features in Flutter [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
-      "published_at": "2026-08-07T16:05:31.000Z",
-      "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
-      "tags": [
-        "Flutter",
-        "gemini",
-        "flutter-aware",
-        "Dart",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
-    },
-    {
-      "title": "A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures",
-      "url": "https://www.freecodecamp.org/news/the-visitor-design-pattern-and-its-clean-operations-across-complex-object-structures/",
-      "published_at": "2026-08-06T16:11:11.000Z",
-      "description": "There's a problem that shows up in almost every growing software system, and most developers don't even realize they're hitting it until the damage is already done. You have a set of objects: differen",
-      "tags": [
-        "Design",
-        "design patterns",
-        "design principles",
-        "Dart",
-        "mobile"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Bluetooth Low Energy in Flutter: A Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/",
-      "published_at": "2026-08-05T17:25:01.000Z",
-      "description": "Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c",
-      "tags": [
-        "bluetooth",
-        "Bluetooth Low Energy",
-        "Flutter",
-        "Flutter SDK",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikheel Vishwas Savant"
     }
   ],
   "Cloud": [
@@ -2952,7 +2747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -3192,7 +2987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -3266,22 +3061,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
-      "published_at": "2026-08-06T21:35:36.000Z",
-      "description": "If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid",
-      "tags": [
-        "Security",
-        "csrf",
-        "spring-boot",
-        "spring security",
-        "Java"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ashutosh Krishna"
     }
   ],
   "Tools": [
@@ -3436,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "sophiamyang"
     },
     {
@@ -3451,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 564,
       "user": "0xwilliamortiz"
     },
     {
@@ -3466,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 439,
       "user": "google-gemma"
     },
     {
@@ -3481,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "eternityspring"
     },
     {
@@ -3511,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1899,
+      "stars": 1907,
       "user": "KKKKhazix"
     },
     {
@@ -3526,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 498,
       "user": "disler"
     },
     {
@@ -3541,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "jd-opensource"
     },
     {
@@ -3586,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 700,
       "user": "magicrew"
     },
     {
@@ -3601,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "WhiteDNS"
     },
     {
@@ -3661,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1991,
+      "stars": 1994,
       "user": "thebuggeddev"
     },
     {
@@ -3676,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "wumingqi60"
     },
     {
@@ -3706,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 271,
       "user": "openTrinity"
     },
     {
@@ -3721,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "alexngdev99"
     },
     {
@@ -3736,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11205,
+      "stars": 11275,
       "user": "firecrawl"
     },
     {
@@ -3872,53 +3651,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-      "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-      "published_at": "2026-08-06T22:51:17.000Z",
-      "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-      "tags": [
-        "DevSecOps",
-        "GitHub Actions",
-        "CI/CD",
-        "supply chain"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test",
-      "url": "https://www.freecodecamp.org/news/how-smartwatch-ecg-works/",
-      "published_at": "2026-08-06T17:39:45.000Z",
-      "description": "For decades, recording an electrocardiogram (ECG) meant visiting a hospital or clinic. The doctors would place multiple electrodes on your chest and limbs to capture your heart's electrical activity.",
-      "tags": [
-        "embedded systems",
-        "Internet of Things",
-        "Wearable Technology",
-        "Health Tech",
-        "Digital Signal Processing"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
     }
   ]
 }
