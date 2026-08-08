@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 613,
       "user": "sophiamyang"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1944,
       "user": "KKKKhazix"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "jd-opensource"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "WhiteDNS"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2004,
+      "stars": 2006,
       "user": "thebuggeddev"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "criptogus"
     },
     {
@@ -887,18 +887,6 @@
       "user": "HaidarJbeily7"
     },
     {
-      "title": "I'm leaving OpenAI to build Jurassic Park",
-      "url": "https://taylor.town/leaving-openai",
-      "published_at": "2026-08-06T23:26:26.622-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "satire"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "j11g"
-    },
-    {
       "title": "Software Understanding in the Sciences is Really Uneven",
       "url": "https://lobste.rs/s/rn8uva/software_understanding_sciences_is",
       "published_at": "2026-08-07T10:24:58.559-05:00",
@@ -911,6 +899,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nrposner"
+    },
+    {
+      "title": "I'm leaving OpenAI to build Jurassic Park",
+      "url": "https://taylor.town/leaving-openai",
+      "published_at": "2026-08-06T23:26:26.622-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "satire"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "j11g"
     },
     {
       "title": "Why something executes before something else?",
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 613,
       "user": "sophiamyang"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 605,
       "user": "0xwilliamortiz"
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "google-gemma"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "nkxx188"
     },
     {
@@ -1525,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2004,
+      "stars": 2006,
       "user": "thebuggeddev"
     },
     {
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "wumingqi60"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "criptogus"
     },
     {
@@ -1570,7 +1570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "openTrinity"
     },
     {
@@ -1600,7 +1600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11684,
+      "stars": 11720,
       "user": "firecrawl"
     },
     {
@@ -1646,19 +1646,6 @@
       "user": "XavierLM"
     },
     {
-      "title": "Why something executes before something else?",
-      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
-      "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "async-await"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
       "title": "How to delete from a sorted array without O(n)",
       "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
       "published_at": "2026-08-06T19:43:24.000Z",
@@ -1672,6 +1659,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loliland Wizard"
+    },
+    {
+      "title": "Why something executes before something else?",
+      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
+      "published_at": "2026-08-07T12:39:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "async-await"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luna"
     },
     {
       "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1944,
       "user": "KKKKhazix"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "jd-opensource"
     },
     {
@@ -2036,7 +2036,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 405,
       "user": "T8mars"
     },
     {
@@ -2051,7 +2051,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11684,
+      "stars": 11720,
       "user": "firecrawl"
     },
     {
@@ -2611,7 +2611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "WhiteDNS"
     },
     {
@@ -2945,7 +2945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 605,
       "user": "0xwilliamortiz"
     },
     {
@@ -3185,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 605,
       "user": "0xwilliamortiz"
     },
     {
@@ -3403,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 613,
       "user": "sophiamyang"
     },
     {
@@ -3418,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 605,
       "user": "0xwilliamortiz"
     },
     {
@@ -3433,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "google-gemma"
     },
     {
@@ -3463,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "nkxx188"
     },
     {
@@ -3478,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1940,
+      "stars": 1944,
       "user": "KKKKhazix"
     },
     {
@@ -3508,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "jd-opensource"
     },
     {
@@ -3538,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 405,
       "user": "T8mars"
     },
     {
@@ -3568,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "WhiteDNS"
     },
     {
@@ -3628,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2004,
+      "stars": 2006,
       "user": "thebuggeddev"
     },
     {
@@ -3643,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 502,
       "user": "wumingqi60"
     },
     {
@@ -3658,7 +3658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 417,
       "user": "criptogus"
     },
     {
@@ -3673,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "openTrinity"
     },
     {
@@ -3703,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11684,
+      "stars": 11720,
       "user": "firecrawl"
     },
     {
@@ -3748,7 +3748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "Gaoshu705"
     },
     {
