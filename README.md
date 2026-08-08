@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-09 0:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-09 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
 | 20 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
 
-<sub>Last fetched: Sun, 09 Aug 2026 00:56:35 CAT</sub>
+<sub>Last fetched: Sun, 09 Aug 2026 01:29:27 CAT</sub>
 
 
 ---
@@ -133,25 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**2. `Database` — What is database normalization and denormalization?**
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Schema, scalability, ACID vs BASE
 
 </details>
 
-**3. `SystemDesign` — How would you design a rate limiter?**
+**3. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Ownership, mutability, data flow direction
 
 </details>
 
@@ -171,8 +171,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 22:56:35 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 23:29:27 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
