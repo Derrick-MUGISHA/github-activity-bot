@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
 | 20 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
 
-<sub>Last fetched: Sun, 09 Aug 2026 01:29:27 CAT</sub>
+<sub>Last fetched: Sun, 09 Aug 2026 01:59:10 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a distributed cache system**
+**1. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**2. `Database` — What is the difference between SQL and NoSQL databases?**
+**2. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**3. `React` — Explain the difference between state and props**
+**3. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -168,7 +168,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 42 | 22.8% | `██████████░░░░░░░░░░` |
 | **Tools** | 41 | 22.3% | `██████████░░░░░░░░░░` |
 | **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 23:29:27 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 23:59:10 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
