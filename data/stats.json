@@ -17,20 +17,20 @@
     "WebDev": 9,
     "Mobile": 8,
     "Cloud": 16,
-    "Database": 4,
+    "Database": 3,
     "Security": 21,
-    "Tools": 42
+    "Tools": 41
   },
   "by_language": {
     "JavaScript": 42,
     "Python": 33,
-    "Go": 39,
+    "Go": 40,
     "Java": 32,
     "Kotlin": 1,
-    "Rust": 7
+    "Rust": 6
   },
   "by_date": {
-    "2026-08-07": 32,
+    "2026-08-07": 30,
     "2026-08-05": 12,
     "2026-08-04": 8,
     "2026-07-29": 3,
@@ -103,7 +103,7 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2026-08-06": 12,
-    "2026-08-08": 9
+    "2026-08-08": 11
   },
   "top_tags": {
     "github": 25,
@@ -111,7 +111,7 @@
     "ai": 22,
     "python": 21,
     "javascript": 20,
-    "AI": 15,
+    "AI": 14,
     "Security": 14,
     "JavaScript": 11,
     "Python": 11,
@@ -131,9 +131,9 @@
   "language_percentages": {
     "JavaScript": "27.3",
     "Python": "21.4",
-    "Go": "25.3",
+    "Go": "26.0",
     "Java": "20.8",
     "Kotlin": "0.6",
-    "Rust": "4.5"
+    "Rust": "3.9"
   }
 }
