@@ -720,19 +720,19 @@
       "user": "sophiamyang"
     },
     {
-      "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "published_at": "2026-08-01T20:36:27Z",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "published_at": "2026-08-06T10:38:49Z",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 585,
-      "user": "0xwilliamortiz"
+      "stars": 188,
+      "user": "eternityspring"
     },
     {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1872,
+      "stars": 1874,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 409,
       "user": "jd-opensource"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "AMAP-ML"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 611,
       "user": "magicrew"
     },
     {
@@ -825,6 +825,36 @@
       "user": "WhiteDNS"
     },
     {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 37,
+      "user": "kylan11"
+    },
+    {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "espressif"
+    },
+    {
       "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "url": "https://github.com/thebuggeddev/anatomy",
       "published_at": "2026-08-02T11:15:16Z",
@@ -836,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 1982,
       "user": "thebuggeddev"
     },
     {
@@ -870,21 +900,6 @@
       "user": "HaidarJbeily7"
     },
     {
-      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "published_at": "2026-08-01T08:02:34Z",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "mrpulor-gh"
-    },
-    {
       "title": "I'm leaving OpenAI to build Jurassic Park",
       "url": "https://taylor.town/leaving-openai",
       "published_at": "2026-08-06T23:26:26.622-05:00",
@@ -895,18 +910,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "j11g"
-    },
-    {
-      "title": "From constraint models to playable puzzle games",
-      "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-      "published_at": "2026-08-07T05:54:46.870-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mzl"
     },
     {
       "title": "Software Understanding in the Sciences is Really Uneven",
@@ -921,6 +924,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nrposner"
+    },
+    {
+      "title": "From constraint models to playable puzzle games",
+      "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+      "published_at": "2026-08-07T05:54:46.870-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mzl"
     },
     {
       "title": "Why something executes before something else?",
@@ -994,25 +1009,10 @@
       "user": "juliana"
     },
     {
-      "title": "Disable specific Python error raising in VS Code",
-      "url": "https://stackoverflow.com/questions/79990929/disable-specific-python-error-raising-in-vs-code",
-      "published_at": "2026-08-06T07:30:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thomas"
-    },
-    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "published_at": "2026-08-07T22:48:24.000Z",
-      "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "tags": [
         "AI",
         "OpenAI"
@@ -1434,21 +1434,6 @@
       "user": "velmu"
     },
     {
-      "title": "x4gKing/3x-ui-multi - GitHub Repository",
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "published_at": "2026-08-01T12:34:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 918,
-      "user": "x4gKing"
-    },
-    {
       "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
       "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
       "published_at": "2026-08-02T21:58:43Z",
@@ -1464,21 +1449,6 @@
       "user": "sophiamyang"
     },
     {
-      "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "published_at": "2026-08-01T20:36:27Z",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/0xwilliamortiz/claude-red",
       "published_at": "2026-08-05T16:54:36Z",
@@ -1490,23 +1460,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
-      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
-      "published_at": "2026-08-01T15:22:27Z",
-      "description": "Quick profit scalper using flashloan mechanics",
+      "title": "google-gemma/gemma-translator - GitHub Repository",
+      "url": "https://github.com/google-gemma/gemma-translator",
+      "published_at": "2026-08-03T18:50:34Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 556,
-      "user": "brookfacehe2421"
+      "stars": 412,
+      "user": "google-gemma"
+    },
+    {
+      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "published_at": "2026-08-06T10:38:49Z",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
+      "source": "GitHub",
+      "stars": 188,
+      "user": "eternityspring"
+    },
+    {
+      "title": "sophiamyang/finger-frame-effect-lucy - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-lucy",
+      "published_at": "2026-08-03T20:32:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "sophiamyang"
     },
     {
       "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
@@ -1524,6 +1524,21 @@
       "user": "disler"
     },
     {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 37,
+      "user": "kylan11"
+    },
+    {
       "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "url": "https://github.com/thebuggeddev/anatomy",
       "published_at": "2026-08-02T11:15:16Z",
@@ -1535,23 +1550,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 1982,
       "user": "thebuggeddev"
-    },
-    {
-      "title": "guillermolg00/morphicons - Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "url": "https://github.com/guillermolg00/morphicons",
-      "published_at": "2026-08-01T08:15:09Z",
-      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
-      "source": "GitHub",
-      "stars": 860,
-      "user": "guillermolg00"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -1565,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "wumingqi60"
     },
     {
@@ -1595,8 +1595,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "openTrinity"
+    },
+    {
+      "title": "alexngdev99/rork-medieval-3d-chess - Created by Rork",
+      "url": "https://github.com/alexngdev99/rork-medieval-3d-chess",
+      "published_at": "2026-08-02T14:09:39Z",
+      "description": "Created by Rork",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "alexngdev99"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1610,8 +1625,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10969,
+      "stars": 11029,
       "user": "firecrawl"
+    },
+    {
+      "title": "Im confused about changing a background image with a confirm()",
+      "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
+      "published_at": "2026-08-08T00:27:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "confirm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lproductions"
     },
     {
       "title": "Why does my async function return a pending Promise instead of the resolved value when I call it inside a forEach loop",
@@ -1743,22 +1772,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Explorer"
-    },
-    {
-      "title": "How to build a shared lock using Atomics",
-      "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-shared-lock-using-atomics",
-      "published_at": "2026-08-05T14:28:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "multithreading",
-        "atomic",
-        "sharedarraybuffer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bledder"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1985,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1872,
+      "stars": 1874,
       "user": "KKKKhazix"
     },
     {
@@ -2030,7 +2043,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 409,
       "user": "jd-opensource"
     },
     {
@@ -2045,7 +2058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "AMAP-ML"
     },
     {
@@ -2060,7 +2073,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10969,
+      "stars": 11029,
       "user": "firecrawl"
     },
     {
@@ -2076,6 +2089,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nrposner"
+    },
+    {
+      "title": "QGraphicsView scrollbar does not update with contents",
+      "url": "https://stackoverflow.com/questions/79991448/qgraphicsview-scrollbar-does-not-update-with-contents",
+      "published_at": "2026-08-07T23:07:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "qt",
+        "pyqt",
+        "scrollbar"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rayos"
     },
     {
       "title": "Unexpected interaction between list comprehensions, late-binding closures, and in-place mutation in Python loop scopes",
@@ -2198,21 +2226,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BertC"
-    },
-    {
-      "title": "Disable specific Python error raising in VS Code",
-      "url": "https://stackoverflow.com/questions/79990929/disable-specific-python-error-raising-in-vs-code",
-      "published_at": "2026-08-06T07:30:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thomas"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2397,6 +2410,21 @@
       "user": "jknupp"
     },
     {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 37,
+      "user": "kylan11"
+    },
+    {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
       "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
       "published_at": "2026-08-06T22:51:17.000Z",
@@ -2469,6 +2497,35 @@
       "source": "GitHub",
       "stars": 73,
       "user": "codetesla51"
+    },
+    {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "espressif"
+    },
+    {
+      "title": "Im confused about changing a background image with a confirm()",
+      "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
+      "published_at": "2026-08-08T00:27:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "confirm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lproductions"
     },
     {
       "title": "I want to filter the class but got error .filter is not a function",
@@ -2837,6 +2894,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "espressif"
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published_at": "2026-08-07T16:16:09.000Z",
@@ -2877,7 +2949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "0xwilliamortiz"
     },
     {
@@ -3117,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "0xwilliamortiz"
     },
     {
@@ -3137,7 +3209,7 @@
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "published_at": "2026-08-07T22:48:24.000Z",
-      "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "tags": [
         "AI",
         "OpenAI"
@@ -3350,21 +3422,6 @@
       "user": "pabs3"
     },
     {
-      "title": "x4gKing/3x-ui-multi - GitHub Repository",
-      "url": "https://github.com/x4gKing/3x-ui-multi",
-      "published_at": "2026-08-01T12:34:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298382259?v=4",
-      "source": "GitHub",
-      "stars": 918,
-      "user": "x4gKing"
-    },
-    {
       "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
       "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
       "published_at": "2026-08-02T21:58:43Z",
@@ -3380,21 +3437,6 @@
       "user": "sophiamyang"
     },
     {
-      "title": "0xwilliamortiz/humanizer-cli - 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-      "published_at": "2026-08-01T20:36:27Z",
-      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/0xwilliamortiz/claude-red",
       "published_at": "2026-08-05T16:54:36Z",
@@ -3406,23 +3448,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "0xwilliamortiz"
     },
     {
-      "title": "brookfacehe2421/flashloan-scalper-bot - Quick profit scalper using flashloan mechanics",
-      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
-      "published_at": "2026-08-01T15:22:27Z",
-      "description": "Quick profit scalper using flashloan mechanics",
+      "title": "google-gemma/gemma-translator - GitHub Repository",
+      "url": "https://github.com/google-gemma/gemma-translator",
+      "published_at": "2026-08-03T18:50:34Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308380480?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 556,
-      "user": "brookfacehe2421"
+      "stars": 412,
+      "user": "google-gemma"
+    },
+    {
+      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "published_at": "2026-08-06T10:38:49Z",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
+      "source": "GitHub",
+      "stars": 188,
+      "user": "eternityspring"
+    },
+    {
+      "title": "sophiamyang/finger-frame-effect-lucy - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-lucy",
+      "published_at": "2026-08-03T20:32:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 184,
+      "user": "sophiamyang"
     },
     {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -3436,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1872,
+      "stars": 1874,
       "user": "KKKKhazix"
     },
     {
@@ -3481,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 409,
       "user": "jd-opensource"
     },
     {
@@ -3496,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "AMAP-ML"
     },
     {
@@ -3511,23 +3583,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 611,
       "user": "magicrew"
-    },
-    {
-      "title": "lij768423-svg/grok2api-egress-enhancements - Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "url": "https://github.com/lij768423-svg/grok2api-egress-enhancements",
-      "published_at": "2026-08-01T02:36:14Z",
-      "description": "Grok2API & CPA egress quality guard with proxy recovery, quarantine, migration, and operations UI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265844445?v=4",
-      "source": "GitHub",
-      "stars": 159,
-      "user": "lij768423-svg"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -3560,19 +3617,34 @@
       "user": "codetesla51"
     },
     {
-      "title": "smol-env/smol - smol is a smol agent",
-      "url": "https://github.com/smol-env/smol",
-      "published_at": "2026-08-01T14:40:09Z",
-      "description": "smol is a smol agent",
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311803820?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 62,
-      "user": "smol-env"
+      "stars": 37,
+      "user": "kylan11"
+    },
+    {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 31,
+      "user": "espressif"
     },
     {
       "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
@@ -3586,23 +3658,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 1982,
       "user": "thebuggeddev"
-    },
-    {
-      "title": "guillermolg00/morphicons - Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "url": "https://github.com/guillermolg00/morphicons",
-      "published_at": "2026-08-01T08:15:09Z",
-      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85084558?v=4",
-      "source": "GitHub",
-      "stars": 860,
-      "user": "guillermolg00"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -3616,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 447,
       "user": "wumingqi60"
     },
     {
@@ -3646,8 +3703,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "openTrinity"
+    },
+    {
+      "title": "alexngdev99/rork-medieval-3d-chess - Created by Rork",
+      "url": "https://github.com/alexngdev99/rork-medieval-3d-chess",
+      "published_at": "2026-08-02T14:09:39Z",
+      "description": "Created by Rork",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
+      "source": "GitHub",
+      "stars": 221,
+      "user": "alexngdev99"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -3661,7 +3733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 10969,
+      "stars": 11029,
       "user": "firecrawl"
     },
     {
@@ -3710,19 +3782,19 @@
       "user": "Gaoshu705"
     },
     {
-      "title": "mrpulor-gh/nuphus-mcp - Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "published_at": "2026-08-01T08:02:34Z",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "title": "Andiveli/wptui - Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
+      "url": "https://github.com/Andiveli/wptui",
+      "published_at": "2026-08-03T03:59:51Z",
+      "description": "Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187365610?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 163,
-      "user": "mrpulor-gh"
+      "stars": 118,
+      "user": "Andiveli"
     },
     {
       "title": "Software Understanding in the Sciences is Really Uneven",
@@ -3772,12 +3844,10 @@
       "title": "Wacom&#8217;s MovinkPad 11 is a fun, midpriced entry point for digital artists",
       "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
       "published_at": "2026-08-07T21:20:00.000Z",
-      "description": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
       "tags": [
         "Hardware",
-        "consumer",
         "digital art",
-        "hardware",
         "Wacom"
       ],
       "cover_image": null,
