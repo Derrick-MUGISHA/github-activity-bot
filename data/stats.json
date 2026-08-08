@@ -10,11 +10,11 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 83,
+    "AI": 82,
     "JavaScript": 42,
     "Python": 33,
     "DevOps": 15,
-    "WebDev": 9,
+    "WebDev": 8,
     "Mobile": 8,
     "Cloud": 17,
     "Database": 4,
@@ -24,14 +24,14 @@
   "by_language": {
     "JavaScript": 42,
     "Python": 33,
-    "Go": 41,
+    "Go": 40,
     "Java": 32,
     "Kotlin": 1,
     "Rust": 7
   },
   "by_date": {
-    "2026-08-07": 35,
-    "2026-08-05": 10,
+    "2026-08-07": 34,
+    "2026-08-05": 11,
     "2026-08-04": 9,
     "2026-07-29": 3,
     "2026-07-31": 9,
@@ -102,8 +102,8 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-06": 13,
-    "2026-08-08": 6
+    "2026-08-06": 12,
+    "2026-08-08": 7
   },
   "top_tags": {
     "github": 25,
@@ -124,15 +124,15 @@
     "go": 6,
     "antigravity": 5,
     "aws": 5,
-    "programming": 5,
-    "architecture": 5
+    "architecture": 5,
+    "devchallenge": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "26.9",
-    "Python": "21.2",
-    "Go": "26.3",
-    "Java": "20.5",
+    "JavaScript": "27.1",
+    "Python": "21.3",
+    "Go": "25.8",
+    "Java": "20.6",
     "Kotlin": "0.6",
     "Rust": "4.5"
   }
