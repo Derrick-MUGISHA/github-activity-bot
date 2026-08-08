@@ -14,7 +14,7 @@
     "JavaScript": 42,
     "Python": 32,
     "DevOps": 15,
-    "WebDev": 9,
+    "WebDev": 8,
     "Mobile": 8,
     "Cloud": 16,
     "Database": 4,
@@ -24,10 +24,10 @@
   "by_language": {
     "JavaScript": 42,
     "Python": 32,
-    "Go": 37,
+    "Go": 36,
     "Java": 32,
     "Kotlin": 1,
-    "Rust": 7
+    "Rust": 8
   },
   "by_date": {
     "2026-08-07": 27,
@@ -121,8 +121,8 @@
     "agents": 8,
     "typescript": 7,
     "webdev": 7,
+    "rust": 7,
     "go": 6,
-    "rust": 6,
     "aws": 5,
     "programming": 5,
     "architecture": 5
@@ -131,9 +131,9 @@
   "language_percentages": {
     "JavaScript": "27.8",
     "Python": "21.2",
-    "Go": "24.5",
+    "Go": "23.8",
     "Java": "21.2",
     "Kotlin": "0.7",
-    "Rust": "4.6"
+    "Rust": "5.3"
   }
 }
