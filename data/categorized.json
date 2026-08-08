@@ -16,6 +16,19 @@
       "user": "Çalgan Aygün"
     },
     {
+      "title": "Kiro Crew: The Next Frontier",
+      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
+      "published_at": "2026-08-04T20:26:01Z",
+      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
+      "source": "Dev.to",
+      "user": "Alvaro Llamojha"
+    },
+    {
       "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
       "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
       "published_at": "2026-08-07T14:54:45Z",
@@ -29,34 +42,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
       "source": "Dev.to",
       "user": "Connie Leung"
-    },
-    {
-      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
-      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if",
-      "published_at": "2026-08-07T02:55:21Z",
-      "description": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnefu6fvjpyyy9hjeagu8.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "Kiro Crew: The Next Frontier",
-      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
-      "published_at": "2026-08-04T20:26:01Z",
-      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
-      "source": "Dev.to",
-      "user": "Alvaro Llamojha"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -117,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
+      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if",
+      "published_at": "2026-08-07T02:55:21Z",
+      "description": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "datascience"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnefu6fvjpyyy9hjeagu8.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Catbot: Custom Grammar Problem Fixed",
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sophiamyang"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1951,
+      "stars": 1953,
       "user": "KKKKhazix"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "jd-opensource"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "SandAI-org"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "magicrew"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "WhiteDNS"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2014,
       "user": "thebuggeddev"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 663,
       "user": "0xwilliamortiz"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sophiamyang"
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 495,
       "user": "google-gemma"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 194,
       "user": "nkxx188"
     },
     {
@@ -1525,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2014,
       "user": "thebuggeddev"
     },
     {
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 523,
       "user": "wumingqi60"
     },
     {
@@ -1570,7 +1570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "openTrinity"
     },
     {
@@ -1600,7 +1600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11792,
+      "stars": 11831,
       "user": "firecrawl"
     },
     {
@@ -1736,20 +1736,18 @@
       "user": "Explorer"
     },
     {
-      "title": "How to build a shared lock using Atomics",
-      "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-shared-lock-using-atomics",
-      "published_at": "2026-08-05T14:28:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
+      "title": "Classic scrollbar width getters not working on Firefox",
+      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
+      "published_at": "2026-08-04T08:24:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "best-practices",
         "javascript",
-        "multithreading",
-        "atomic",
-        "sharedarraybuffer"
+        "css",
+        "firefox"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Bledder"
+      "user": "munHunger"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1976,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1951,
+      "stars": 1953,
       "user": "KKKKhazix"
     },
     {
@@ -2006,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "jd-opensource"
     },
     {
@@ -2021,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "SandAI-org"
     },
     {
@@ -2036,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "T8mars"
     },
     {
@@ -2051,7 +2049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11792,
+      "stars": 11831,
       "user": "firecrawl"
     },
     {
@@ -2069,8 +2067,8 @@
       "user": "nrposner"
     },
     {
-      "title": "How to create a ribbon in a Tk window with Python Tkinter pack?",
-      "url": "https://stackoverflow.com/questions/79991500/how-to-create-a-ribbon-in-a-tk-window-with-python-tkinter-pack",
+      "title": "How can I create a ribbon in a Tk window with Python Tkinter pack?",
+      "url": "https://stackoverflow.com/questions/79991500/how-can-i-create-a-ribbon-in-a-tk-window-with-python-tkinter-pack",
       "published_at": "2026-08-08T07:18:26.000Z",
       "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
@@ -2141,7 +2139,7 @@
       "title": "QGraphicsView scrollbar does not update with contents",
       "url": "https://stackoverflow.com/questions/79991448/qgraphicsview-scrollbar-does-not-update-with-contents",
       "published_at": "2026-08-07T23:07:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "qt",
@@ -2522,6 +2520,20 @@
       "user": "Lproductions"
     },
     {
+      "title": "Classic scrollbar width getters not working on Firefox",
+      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
+      "published_at": "2026-08-04T08:24:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "css",
+        "firefox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "munHunger"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
       "published_at": "2026-08-06T22:17:36.000Z",
@@ -2611,7 +2623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "WhiteDNS"
     },
     {
@@ -2945,7 +2957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 663,
       "user": "0xwilliamortiz"
     },
     {
@@ -3185,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 663,
       "user": "0xwilliamortiz"
     },
     {
@@ -3403,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 663,
       "user": "0xwilliamortiz"
     },
     {
@@ -3418,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sophiamyang"
     },
     {
@@ -3433,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 495,
       "user": "google-gemma"
     },
     {
@@ -3463,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 194,
       "user": "nkxx188"
     },
     {
@@ -3478,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1951,
+      "stars": 1953,
       "user": "KKKKhazix"
     },
     {
@@ -3508,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 479,
       "user": "jd-opensource"
     },
     {
@@ -3523,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "SandAI-org"
     },
     {
@@ -3538,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "T8mars"
     },
     {
@@ -3553,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "magicrew"
     },
     {
@@ -3568,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "WhiteDNS"
     },
     {
@@ -3628,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2011,
+      "stars": 2014,
       "user": "thebuggeddev"
     },
     {
@@ -3643,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 523,
       "user": "wumingqi60"
     },
     {
@@ -3673,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 318,
       "user": "openTrinity"
     },
     {
@@ -3703,7 +3715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11792,
+      "stars": 11831,
       "user": "firecrawl"
     },
     {
@@ -3748,23 +3760,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "Gaoshu705"
     },
     {
-      "title": "Andiveli/wptui - Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
-      "url": "https://github.com/Andiveli/wptui",
-      "published_at": "2026-08-03T03:59:51Z",
-      "description": "Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
+      "title": "ikuV/deident-wasm - Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
+      "url": "https://github.com/ikuV/deident-wasm",
+      "published_at": "2026-08-03T13:07:42Z",
+      "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 124,
-      "user": "Andiveli"
+      "stars": 125,
+      "user": "ikuV"
     },
     {
       "title": "Software Understanding in the Sciences is Really Uneven",

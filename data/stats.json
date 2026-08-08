@@ -14,7 +14,7 @@
     "JavaScript": 42,
     "Python": 33,
     "DevOps": 15,
-    "WebDev": 8,
+    "WebDev": 9,
     "Mobile": 8,
     "Cloud": 17,
     "Database": 4,
@@ -24,15 +24,15 @@
   "by_language": {
     "JavaScript": 42,
     "Python": 33,
-    "Go": 40,
+    "Go": 39,
     "Java": 32,
     "Kotlin": 1,
     "Rust": 7
   },
   "by_date": {
     "2026-08-07": 34,
-    "2026-08-05": 12,
-    "2026-08-04": 8,
+    "2026-08-05": 11,
+    "2026-08-04": 9,
     "2026-07-29": 3,
     "2026-07-31": 9,
     "2026-07-27": 3,
@@ -122,17 +122,17 @@
     "typescript": 7,
     "webdev": 7,
     "go": 6,
-    "antigravity": 5,
     "aws": 5,
     "architecture": 5,
-    "devchallenge": 5
+    "devchallenge": 5,
+    "antigravity": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.1",
-    "Python": "21.3",
-    "Go": "25.8",
-    "Java": "20.6",
+    "JavaScript": "27.3",
+    "Python": "21.4",
+    "Go": "25.3",
+    "Java": "20.8",
     "Kotlin": "0.6",
     "Rust": "4.5"
   }
