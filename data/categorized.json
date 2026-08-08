@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 609,
       "user": "sophiamyang"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "eternityspring"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1907,
+      "stars": 1912,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "jd-opensource"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 395,
       "user": "AMAP-ML"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 716,
       "user": "magicrew"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 1995,
       "user": "thebuggeddev"
     },
     {
@@ -1350,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 609,
       "user": "sophiamyang"
     },
     {
@@ -1365,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 566,
       "user": "0xwilliamortiz"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 446,
       "user": "google-gemma"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "eternityspring"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "disler"
     },
     {
@@ -1455,7 +1455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 1995,
       "user": "thebuggeddev"
     },
     {
@@ -1470,7 +1470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "wumingqi60"
     },
     {
@@ -1500,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 275,
       "user": "openTrinity"
     },
     {
@@ -1530,7 +1530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11275,
+      "stars": 11311,
       "user": "firecrawl"
     },
     {
@@ -1887,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1907,
+      "stars": 1912,
       "user": "KKKKhazix"
     },
     {
@@ -1902,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "disler"
     },
     {
@@ -1917,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "jd-opensource"
     },
     {
@@ -1947,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 395,
       "user": "AMAP-ML"
     },
     {
@@ -1962,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11275,
+      "stars": 11311,
       "user": "firecrawl"
     },
     {
@@ -2105,19 +2105,18 @@
       "user": "Dinesh"
     },
     {
-      "title": "What's the correct pattern to guarantee an async generator is closed when its consuming task is cancelled mid-queue.put()?",
-      "url": "https://stackoverflow.com/questions/79991144/whats-the-correct-pattern-to-guarantee-an-async-generator-is-closed-when-its-co",
-      "published_at": "2026-08-06T21:12:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
+      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
+      "published_at": "2026-08-06T08:18:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "python-asyncio",
-        "generator",
-        "backpressure"
+        "visual-studio-code",
+        "pygame"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "juliana"
+      "user": "Sufian Says Hello"
     }
   ],
   "DevOps": [
@@ -2747,7 +2746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 566,
       "user": "0xwilliamortiz"
     },
     {
@@ -2987,7 +2986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 566,
       "user": "0xwilliamortiz"
     },
     {
@@ -3215,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 609,
       "user": "sophiamyang"
     },
     {
@@ -3230,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 566,
       "user": "0xwilliamortiz"
     },
     {
@@ -3245,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 446,
       "user": "google-gemma"
     },
     {
@@ -3260,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 200,
       "user": "eternityspring"
     },
     {
@@ -3290,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1907,
+      "stars": 1912,
       "user": "KKKKhazix"
     },
     {
@@ -3305,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "disler"
     },
     {
@@ -3320,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 437,
       "user": "jd-opensource"
     },
     {
@@ -3350,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 395,
       "user": "AMAP-ML"
     },
     {
@@ -3365,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 716,
       "user": "magicrew"
     },
     {
@@ -3440,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 1995,
       "user": "thebuggeddev"
     },
     {
@@ -3455,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 482,
       "user": "wumingqi60"
     },
     {
@@ -3485,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 275,
       "user": "openTrinity"
     },
     {
@@ -3515,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11275,
+      "stars": 11311,
       "user": "firecrawl"
     },
     {
@@ -3560,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 210,
       "user": "Gaoshu705"
     },
     {
@@ -3575,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "Andiveli"
     },
     {

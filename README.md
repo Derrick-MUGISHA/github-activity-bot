@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd) | Dev.to |
 | 20 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
 
-<sub>Last fetched: Sat, 08 Aug 2026 07:11:13 CAT</sub>
+<sub>Last fetched: Sat, 08 Aug 2026 07:59:32 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**2. `Python` — What is the difference between list and tuple in Python?**
+**2. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
-**3. `Database` — Design a database schema for a social media platform**
+**3. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> useState, useEffect, loading states, error handling
 
 </details>
 
@@ -267,6 +267,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 05:11:13 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 05:59:32 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
