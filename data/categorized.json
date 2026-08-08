@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "sophiamyang"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "eternityspring"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1922,
       "user": "KKKKhazix"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 449,
       "user": "jd-opensource"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "magicrew"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "WhiteDNS"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "kylan11"
     },
     {
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "sophiamyang"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "0xwilliamortiz"
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 462,
       "user": "google-gemma"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "eternityspring"
     },
     {
@@ -1537,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "kylan11"
     },
     {
@@ -1567,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 494,
       "user": "wumingqi60"
     },
     {
@@ -1597,7 +1597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 287,
       "user": "openTrinity"
     },
     {
@@ -1627,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11386,
+      "stars": 11461,
       "user": "firecrawl"
     },
     {
@@ -1663,7 +1663,7 @@
       "title": "Why currentUser below is empty while currentUser above is not?",
       "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
       "published_at": "2026-08-07T15:07:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs"
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1922,
       "user": "KKKKhazix"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 449,
       "user": "jd-opensource"
     },
     {
@@ -2075,7 +2075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11386,
+      "stars": 11461,
       "user": "firecrawl"
     },
     {
@@ -2091,6 +2091,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nrposner"
+    },
+    {
+      "title": "How to create a ribbon in a Tk window with Python Tkinter pack?",
+      "url": "https://stackoverflow.com/questions/79991500/how-to-create-a-ribbon-in-a-tk-window-with-python-tkinter-pack",
+      "published_at": "2026-08-08T07:18:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "tkinter",
+        "ribbon"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
     },
     {
       "title": "Threading flask and while loop",
@@ -2216,20 +2230,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
-    },
-    {
-      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
-      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
-      "published_at": "2026-08-06T08:18:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "visual-studio-code",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sufian Says Hello"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2425,7 +2425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "kylan11"
     },
     {
@@ -2634,7 +2634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "WhiteDNS"
     },
     {
@@ -2968,7 +2968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "0xwilliamortiz"
     },
     {
@@ -3208,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "0xwilliamortiz"
     },
     {
@@ -3439,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "sophiamyang"
     },
     {
@@ -3454,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "0xwilliamortiz"
     },
     {
@@ -3469,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 462,
       "user": "google-gemma"
     },
     {
@@ -3484,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "eternityspring"
     },
     {
@@ -3514,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1922,
       "user": "KKKKhazix"
     },
     {
@@ -3544,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 449,
       "user": "jd-opensource"
     },
     {
@@ -3589,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 718,
       "user": "magicrew"
     },
     {
@@ -3604,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 91,
       "user": "WhiteDNS"
     },
     {
@@ -3634,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 39,
       "user": "kylan11"
     },
     {
@@ -3679,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 494,
       "user": "wumingqi60"
     },
     {
@@ -3709,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 287,
       "user": "openTrinity"
     },
     {
@@ -3739,7 +3739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11386,
+      "stars": 11461,
       "user": "firecrawl"
     },
     {
@@ -3769,7 +3769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 223,
       "user": "cristicretu"
     },
     {
@@ -3784,7 +3784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 212,
       "user": "Gaoshu705"
     },
     {
@@ -3799,7 +3799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "Andiveli"
     },
     {
