@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1966,
+      "stars": 1968,
       "user": "KKKKhazix"
     },
     {
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "jd-opensource"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "SandAI-org"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2019,
       "user": "thebuggeddev"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 511,
       "user": "google-gemma"
     },
     {
@@ -1465,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "nkxx188"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "disler"
     },
     {
@@ -1510,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2019,
       "user": "thebuggeddev"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 340,
       "user": "openTrinity"
     },
     {
@@ -1585,7 +1585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11893,
+      "stars": 11908,
       "user": "firecrawl"
     },
     {
@@ -1959,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1966,
+      "stars": 1968,
       "user": "KKKKhazix"
     },
     {
@@ -1974,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "disler"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "jd-opensource"
     },
     {
@@ -2004,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "T8mars"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "SandAI-org"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11893,
+      "stars": 11908,
       "user": "firecrawl"
     },
     {
@@ -2050,19 +2050,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nrposner"
-    },
-    {
-      "title": "ESP32-S3 GPIO0 reads 0.65V and prevents normal boot",
-      "url": "https://stackoverflow.com/questions/79991563/esp32-s3-gpio0-reads-0-65v-and-prevents-normal-boot",
-      "published_at": "2026-08-08T14:58:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "esp32"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "عبدالرحيم"
     },
     {
       "title": "How can I create a ribbon in a Tk window with Python Tkinter pack?",
@@ -2187,6 +2174,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zzzCode"
+    },
+    {
+      "title": "SQL Server backup to rustfs gives Operating system error 12175",
+      "url": "https://stackoverflow.com/questions/79991227/sql-server-backup-to-rustfs-gives-operating-system-error-12175",
+      "published_at": "2026-08-07T05:54:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "sql-server",
+        "nginx",
+        "mssql-python",
+        "rustfs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dinesh"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2941,6 +2944,22 @@
       "source": "GitHub",
       "stars": 73,
       "user": "codetesla51"
+    },
+    {
+      "title": "SQL Server backup to rustfs gives Operating system error 12175",
+      "url": "https://stackoverflow.com/questions/79991227/sql-server-backup-to-rustfs-gives-operating-system-error-12175",
+      "published_at": "2026-08-07T05:54:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "sql-server",
+        "nginx",
+        "mssql-python",
+        "rustfs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dinesh"
     }
   ],
   "Security": [
@@ -3396,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 511,
       "user": "google-gemma"
     },
     {
@@ -3426,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "nkxx188"
     },
     {
@@ -3441,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1966,
+      "stars": 1968,
       "user": "KKKKhazix"
     },
     {
@@ -3456,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 504,
       "user": "disler"
     },
     {
@@ -3471,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 494,
       "user": "jd-opensource"
     },
     {
@@ -3486,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 431,
+      "stars": 434,
       "user": "T8mars"
     },
     {
@@ -3501,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "SandAI-org"
     },
     {
@@ -3591,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2018,
+      "stars": 2019,
       "user": "thebuggeddev"
     },
     {
@@ -3636,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 340,
       "user": "openTrinity"
     },
     {
@@ -3666,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11893,
+      "stars": 11908,
       "user": "firecrawl"
     },
     {
@@ -3726,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 127,
       "user": "ikuV"
     },
     {

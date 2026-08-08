@@ -28,15 +28,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-3n23">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0nbq4ovx9jdt9wiwfszc.jpg" width="200" alt="What was your win this week?" />
-      <br/>
-      <b>What was your win this week?</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png" width="200" alt="Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)" />
       <br/>
@@ -50,6 +41,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png" width="200" alt="linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀" />
       <br/>
       <b>linkedSignal() Writes Back: A Trace Through the Re...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-3n23">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0nbq4ovx9jdt9wiwfszc.jpg" width="200" alt="What was your win this week?" />
+      <br/>
+      <b>What was your win this week?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,9 +92,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3n23) | Dev.to |
-| 2 | [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4) | Dev.to |
-| 3 | [linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7) | Dev.to |
+| 1 | [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4) | Dev.to |
+| 2 | [linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7) | Dev.to |
+| 3 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3n23) | Dev.to |
 | 4 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
 | 5 | [Kiro Crew: The Next Frontier](https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h) | Dev.to |
 | 6 | [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf) | Dev.to |
 | 20 | [Welcome Thread - v387](https://dev.to/devteam/welcome-thread-v387-1iej) | Dev.to |
 
-<sub>Last fetched: Sat, 08 Aug 2026 17:22:15 CAT</sub>
+<sub>Last fetched: Sat, 08 Aug 2026 17:55:39 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain GIL and its implications for multithreading**
+**1. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**2. `React` — How would you optimize a React app's performance?**
+**2. `JavaScript` — What is the event loop and how does it work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Call stack, callback queue, microtask queue
 
 </details>
 
-**3. `NodeJS` — Implement rate limiting for an API**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -173,7 +173,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3%
-Go              █████████████████████████████ 26.0%
-Python          ████████████████████████ 21.4%
-Java            ███████████████████████ 20.8%
-Rust            ████ 3.9%
+JavaScript      ██████████████████████████████ 27.1%
+Go              █████████████████████████████ 25.8%
+Python          ████████████████████████ 21.3%
+Java            ███████████████████████ 20.6%
+Rust            █████ 4.5%
 Kotlin          █ 0.6%
 
 ```
@@ -209,7 +209,7 @@ pie title Programming Languages Distribution
     "Go" : 40
     "Python" : 33
     "Java" : 32
-    "Rust" : 6
+    "Rust" : 7
     "Kotlin" : 1
 ```
 
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 15:22:15 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 15:55:39 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

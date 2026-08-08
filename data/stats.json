@@ -17,7 +17,7 @@
     "WebDev": 9,
     "Mobile": 8,
     "Cloud": 16,
-    "Database": 3,
+    "Database": 4,
     "Security": 21,
     "Tools": 41
   },
@@ -27,7 +27,7 @@
     "Go": 40,
     "Java": 32,
     "Kotlin": 1,
-    "Rust": 6
+    "Rust": 7
   },
   "by_date": {
     "2026-08-07": 30,
@@ -129,11 +129,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "JavaScript": "27.3",
-    "Python": "21.4",
-    "Go": "26.0",
-    "Java": "20.8",
+    "JavaScript": "27.1",
+    "Python": "21.3",
+    "Go": "25.8",
+    "Java": "20.6",
     "Kotlin": "0.6",
-    "Rust": "3.9"
+    "Rust": "4.5"
   }
 }
