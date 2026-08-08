@@ -16,34 +16,6 @@
       "user": "Çalgan Aygün"
     },
     {
-      "title": "Kiro Crew: The Next Frontier",
-      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
-      "published_at": "2026-08-04T20:26:01Z",
-      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
-      "source": "Dev.to",
-      "user": "Alvaro Llamojha"
-    },
-    {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
-      "published_at": "2026-08-07T14:54:45Z",
-      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "tags": [
-        "angular",
-        "firebase",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -102,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
+    },
+    {
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
+      "published_at": "2026-08-07T14:54:45Z",
+      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "tags": [
+        "angular",
+        "firebase",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
@@ -718,7 +705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "sophiamyang"
     },
     {
@@ -733,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 237,
       "user": "eternityspring"
     },
     {
@@ -763,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 505,
       "user": "jd-opensource"
     },
     {
@@ -793,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "magicrew"
     },
     {
@@ -808,7 +795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "WhiteDNS"
     },
     {
@@ -838,7 +825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2025,
       "user": "thebuggeddev"
     },
     {
@@ -1420,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "sophiamyang"
     },
     {
@@ -1435,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 544,
       "user": "google-gemma"
     },
     {
@@ -1450,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 237,
       "user": "eternityspring"
     },
     {
@@ -1510,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2025,
       "user": "thebuggeddev"
     },
     {
@@ -1555,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 364,
       "user": "openTrinity"
     },
     {
@@ -1585,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11973,
+      "stars": 11994,
       "user": "firecrawl"
     },
     {
@@ -1989,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 505,
       "user": "jd-opensource"
     },
     {
@@ -2004,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 449,
       "user": "T8mars"
     },
     {
@@ -2034,8 +2021,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11973,
+      "stars": 11994,
       "user": "firecrawl"
+    },
+    {
+      "title": "How to reduce the time taken to solve cses problem number 2?",
+      "url": "https://stackoverflow.com/questions/79991602/how-to-reduce-the-time-taken-to-solve-cses-problem-number-2",
+      "published_at": "2026-08-08T18:40:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Damian Fernando D"
     },
     {
       "title": "How can I create a ribbon in a Tk window with Python Tkinter pack?",
@@ -2105,21 +2104,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "juliana"
-    },
-    {
-      "title": "QGraphicsView scrollbar does not update with contents",
-      "url": "https://stackoverflow.com/questions/79991448/qgraphicsview-scrollbar-does-not-update-with-contents",
-      "published_at": "2026-08-07T23:07:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "qt",
-        "pyqt",
-        "scrollbar"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rayos"
     },
     {
       "title": "Decode PyASN1 recursive structure",
@@ -2464,6 +2448,19 @@
       "user": "Yogthos"
     },
     {
+      "title": "‘Farewell, Etaoin Shrdlu’",
+      "url": "https://archive.org/details/FarewellEtaoinShrdlu",
+      "published_at": "2026-08-07T23:45:36.812-05:00",
+      "description": "Perhaps does not meet the bar for topicality, but it feels very relevant to the current software zeitgeist.\r\n\r\n\"It's inevitable that we're going to go into computers. All the knowledge I've acquired over these 26 years is all locked up in a little box now called a computer. I think most jobs are probably going to end up the same way.\" @13:51\r\n\r\nMore direct source from the New York Times: https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html\r\n\r\nYouTube mirror for those that prefer it: https://www.youtube.com/watch?v=1MGjFKs9bnU",
+      "tags": [
+        "historical",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lyall"
+    },
+    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
@@ -2581,7 +2578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "WhiteDNS"
     },
     {
@@ -3373,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 618,
       "user": "sophiamyang"
     },
     {
@@ -3388,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 544,
       "user": "google-gemma"
     },
     {
@@ -3403,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 237,
       "user": "eternityspring"
     },
     {
@@ -3463,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 505,
       "user": "jd-opensource"
     },
     {
@@ -3478,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 449,
       "user": "T8mars"
     },
     {
@@ -3508,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "magicrew"
     },
     {
@@ -3523,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "WhiteDNS"
     },
     {
@@ -3583,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
       "source": "GitHub",
-      "stars": 2024,
+      "stars": 2025,
       "user": "thebuggeddev"
     },
     {
@@ -3628,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 364,
       "user": "openTrinity"
     },
     {
@@ -3658,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 11973,
+      "stars": 11994,
       "user": "firecrawl"
     },
     {
