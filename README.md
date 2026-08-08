@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf) | Dev.to |
 | 20 | [Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55) | Dev.to |
 
-<sub>Last fetched: Sat, 08 Aug 2026 23:18:23 CAT</sub>
+<sub>Last fetched: Sat, 08 Aug 2026 23:54:14 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Schema, scalability, ACID vs BASE
 
 </details>
 
-**2. `NodeJS` — How do you handle errors in async/await?**
+**2. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**3. `Python` — Explain GIL and its implications for multithreading**
+**3. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -168,7 +168,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 42 | 22.8% | `██████████░░░░░░░░░░` |
 | **Tools** | 41 | 22.3% | `██████████░░░░░░░░░░` |
 | **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **Security** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 21:18:23 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 08 Aug 2026 21:54:14 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
