@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) | Dev.to |
 | 20 | [Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together](https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0) | Dev.to |
 
-<sub>Last fetched: Sun, 09 Aug 2026 16:06:08 CAT</sub>
+<sub>Last fetched: Sun, 09 Aug 2026 16:51:29 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> Request/response cycle, next(), chain of functions
 
 </details>
 
-**2. `Database` — Explain database indexing and when to use it**
+**2. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Token bucket, sliding window, Redis
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
@@ -165,14 +165,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 80 | 44.2% | `████████████████████` |
-| **JavaScript** | 41 | 22.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 42 | 23.2% | `███████████░░░░░░░░░` |
 | **Tools** | 40 | 22.1% | `██████████░░░░░░░░░░` |
 | **Python** | 33 | 18.2% | `████████░░░░░░░░░░░░` |
-| **Security** | 19 | 10.5% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 20 | 11.0% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 9 | 5.0% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.3%
-Go              █████████████████████████████ 25.6%
-Python          ████████████████████████ 21.2%
-Java            ███████████████████████ 20.5%
+JavaScript      ██████████████████████████████ 26.8%
+Go              █████████████████████████████ 25.5%
+Python          ████████████████████████ 21.0%
+Java            ███████████████████████ 20.4%
 Rust            ████ 3.8%
 Kotlin          █ 1.3%
 Swift           █ 0.6%
@@ -207,7 +207,7 @@ Ruby            █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 41
+    "JavaScript" : 42
     "Go" : 40
     "Python" : 33
     "Java" : 32
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 14:06:08 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 14:51:29 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

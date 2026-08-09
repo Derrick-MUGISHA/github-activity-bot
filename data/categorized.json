@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 426,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2062,
+      "stars": 2066,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 472,
       "user": "AMAP-ML"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "WhiteDNS"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "MengMengCode"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "kylan11"
     },
     {
@@ -880,6 +880,19 @@
       "user": "hugoarnal"
     },
     {
+      "title": "Who Should Pay For Source Code Availability?",
+      "url": "https://kristoff.it/blog/source-code-availability/",
+      "published_at": "2026-08-09T08:42:39.432-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs",
+        "zig"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
+    },
+    {
       "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
       "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
       "published_at": "2026-08-07T09:40:04.000Z",
@@ -894,19 +907,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ashutosh Shukla"
-    },
-    {
-      "title": "Why something executes before something else?",
-      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
-      "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "async-await"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
     },
     {
       "title": "React Error: Target Container is not a DOM Element",
@@ -938,17 +938,20 @@
       "user": "juliana"
     },
     {
-      "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
-      "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
-      "published_at": "2026-08-06T23:59:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published_at": "2026-08-09T14:30:00.000Z",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
       "tags": [
-        "python",
-        "python-asyncio"
+        "Security",
+        "AI",
+        "Meta",
+        "cybersecurity",
+        "moonshot"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "This former notorious red-light district is now one of the world’s top AI hubs",
@@ -1413,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 665,
       "user": "google-gemma"
     },
     {
@@ -1428,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 426,
       "user": "eternityspring"
     },
     {
@@ -1473,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "kylan11"
     },
     {
@@ -1488,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 693,
       "user": "wumingqi60"
     },
     {
@@ -1503,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 504,
       "user": "openTrinity"
     },
     {
@@ -1533,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "Appllama"
     },
     {
@@ -1563,7 +1566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12506,
+      "stars": 12532,
       "user": "firecrawl"
     },
     {
@@ -1582,7 +1585,7 @@
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "css",
@@ -1652,19 +1655,6 @@
       "user": "Ashutosh Shukla"
     },
     {
-      "title": "Why something executes before something else?",
-      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
-      "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "async-await"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
       "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
       "published_at": "2026-07-28T15:26:45.000Z",
@@ -1706,6 +1696,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lnhubbell"
+    },
+    {
+      "title": "jQuery SVG vs. Rapha&#235;l",
+      "url": "https://stackoverflow.com/questions/588718/jquery-svg-vs-rapha%c3%abl",
+      "published_at": "2009-02-26T01:21:54.000Z",
+      "description": "Stack Overflow question · 14 answers · score 255",
+      "tags": [
+        "javascript",
+        "jquery",
+        "svg",
+        "raphael"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luke Dennis"
+    },
+    {
+      "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
+      "published_at": "2026-08-09T14:06:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "python",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Bergh"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1932,23 +1951,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2062,
+      "stars": 2066,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 570,
-      "user": "jd-opensource"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -1962,8 +1966,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 589,
       "user": "ShawnPana"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "published_at": "2026-08-04T08:22:24Z",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 574,
+      "user": "jd-opensource"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -1977,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 521,
       "user": "T8mars"
     },
     {
@@ -1992,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 472,
       "user": "AMAP-ML"
     },
     {
@@ -2007,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12506,
+      "stars": 12532,
       "user": "firecrawl"
     },
     {
@@ -2026,10 +2045,38 @@
       "user": "lnhubbell"
     },
     {
+      "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
+      "published_at": "2026-08-09T14:06:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "python",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Bergh"
+    },
+    {
+      "title": "Modifying a class list results in no modification of the list",
+      "url": "https://stackoverflow.com/questions/79991677/modifying-a-class-list-results-in-no-modification-of-the-list",
+      "published_at": "2026-08-09T14:03:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "list",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ItzSeegy"
+    },
+    {
       "title": "Unable to chose a date from a “Date Picker” in selenium python",
       "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
       "published_at": "2026-08-09T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "selenium-webdriver"
@@ -2128,32 +2175,6 @@
       "tags": [
         "python",
         "task",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
-    },
-    {
-      "title": "Decode PyASN1 recursive structure",
-      "url": "https://stackoverflow.com/questions/79991413/decode-pyasn1-recursive-structure",
-      "published_at": "2026-08-07T18:44:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "pyasn1"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user3472"
-    },
-    {
-      "title": "Why does asyncio.TaskGroup hang instead of raising when one of several concurrent LLM calls swallows CancelledError?",
-      "url": "https://stackoverflow.com/questions/79991171/why-does-asyncio-taskgroup-hang-instead-of-raising-when-one-of-several-concurren",
-      "published_at": "2026-08-06T23:59:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
         "python-asyncio"
       ],
       "cover_image": null,
@@ -2354,7 +2375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "kylan11"
     },
     {
@@ -2434,7 +2455,7 @@
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "css",
@@ -2457,6 +2478,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zubair Fathi"
+    },
+    {
+      "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
+      "published_at": "2026-08-09T14:06:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "advice",
+        "python",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Bergh"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -2533,7 +2568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "WhiteDNS"
     },
     {
@@ -2548,7 +2583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "Appllama"
     },
     {
@@ -3093,6 +3128,22 @@
       "user": "0xwilliamortiz"
     },
     {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published_at": "2026-08-09T14:30:00.000Z",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "tags": [
+        "Security",
+        "AI",
+        "Meta",
+        "cybersecurity",
+        "moonshot"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "This &#8216;adversarial&#8217; pattern can prevent surveillance cameras from detecting you",
       "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
       "published_at": "2026-08-09T14:00:00.000Z",
@@ -3320,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 665,
       "user": "google-gemma"
     },
     {
@@ -3335,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 426,
       "user": "eternityspring"
     },
     {
@@ -3380,23 +3431,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2062,
+      "stars": 2066,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 570,
-      "user": "jd-opensource"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -3410,8 +3446,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 589,
       "user": "ShawnPana"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "published_at": "2026-08-04T08:22:24Z",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 574,
+      "user": "jd-opensource"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -3425,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 521,
       "user": "T8mars"
     },
     {
@@ -3440,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 472,
       "user": "AMAP-ML"
     },
     {
@@ -3455,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "WhiteDNS"
     },
     {
@@ -3470,8 +3521,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 74,
       "user": "MengMengCode"
+    },
+    {
+      "title": "Zesuy/Plugin-Deepseek-Vision - CLIProxyAPI v7 plugin for DeepSeek Responses vision preprocessing",
+      "url": "https://github.com/Zesuy/Plugin-Deepseek-Vision",
+      "published_at": "2026-08-03T02:54:48Z",
+      "description": "CLIProxyAPI v7 plugin for DeepSeek Responses vision preprocessing",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
+      "source": "GitHub",
+      "stars": 45,
+      "user": "Zesuy"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -3500,23 +3566,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 42,
       "user": "kylan11"
-    },
-    {
-      "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
-      "url": "https://github.com/cr-zhichen/DJOneHubNative",
-      "published_at": "2026-08-05T02:51:22Z",
-      "description": "DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
-      "source": "GitHub",
-      "stars": 40,
-      "user": "cr-zhichen"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -3530,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 693,
       "user": "wumingqi60"
     },
     {
@@ -3545,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 504,
       "user": "openTrinity"
     },
     {
@@ -3575,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 213,
       "user": "Appllama"
     },
     {
@@ -3605,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12506,
+      "stars": 12532,
       "user": "firecrawl"
     },
     {
@@ -3650,7 +3701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "ikuV"
     },
     {
@@ -3665,8 +3716,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 137,
       "user": "Andiveli"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published_at": "2026-08-09T14:30:00.000Z",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "tags": [
+        "Security",
+        "AI",
+        "Meta",
+        "cybersecurity",
+        "moonshot"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
@@ -3681,20 +3748,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Wacom&#8217;s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "published_at": "2026-08-07T21:20:00.000Z",
-      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "tags": [
-        "Hardware",
-        "digital art",
-        "Wacom"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
