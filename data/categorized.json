@@ -299,21 +299,6 @@
       "user": "Giulio D'Erme"
     },
     {
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "published_at": "2026-07-31T11:00:29Z",
-      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "tags": [
-        "rag",
-        "ai",
-        "llm",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
-    },
-    {
       "title": "Does it still make sense to learn how to code?",
       "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
       "published_at": "2026-07-30T11:27:07Z",
@@ -342,6 +327,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
+      "published_at": "2026-07-31T11:00:29Z",
+      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
+      "tags": [
+        "rag",
+        "ai",
+        "llm",
+        "bedrock"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
+      "source": "Dev.to",
+      "user": "Rodrigo Diego"
     },
     {
       "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2087,
+      "stars": 2089,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "jd-opensource"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 88,
       "user": "MengMengCode"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "forever94yu"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "0xwilliamortiz"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 677,
       "user": "google-gemma"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "eternityspring"
     },
     {
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1466,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "Appllama"
     },
     {
@@ -1496,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12618,
+      "stars": 12630,
       "user": "firecrawl"
     },
     {
@@ -1882,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2087,
+      "stars": 2089,
       "user": "KKKKhazix"
     },
     {
@@ -1897,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 732,
       "user": "ShawnPana"
     },
     {
@@ -1912,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "jd-opensource"
     },
     {
@@ -1927,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 540,
       "user": "T8mars"
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 535,
       "user": "oil-oil"
     },
     {
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12618,
+      "stars": 12630,
       "user": "firecrawl"
     },
     {
@@ -2029,8 +2029,8 @@
       "user": "Soroush Kalantari"
     },
     {
-      "title": "How to reduce the time taken to solve cses problem number 2?",
-      "url": "https://stackoverflow.com/questions/79991602/how-to-reduce-the-time-taken-to-solve-cses-problem-number-2",
+      "title": "How can I improve the efficiency of my code for CSES Missing Number?",
+      "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
       "published_at": "2026-08-08T18:40:06.000Z",
       "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
@@ -2528,7 +2528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "Appllama"
     },
     {
@@ -2830,7 +2830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "forever94yu"
     }
   ],
@@ -2859,7 +2859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "0xwilliamortiz"
     },
     {
@@ -3069,7 +3069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "0xwilliamortiz"
     },
     {
@@ -3288,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 696,
       "user": "0xwilliamortiz"
     },
     {
@@ -3303,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 677,
       "user": "google-gemma"
     },
     {
@@ -3318,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 470,
       "user": "eternityspring"
     },
     {
@@ -3348,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3363,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2087,
+      "stars": 2089,
       "user": "KKKKhazix"
     },
     {
@@ -3378,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 732,
       "user": "ShawnPana"
     },
     {
@@ -3393,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "jd-opensource"
     },
     {
@@ -3408,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 540,
       "user": "T8mars"
     },
     {
@@ -3423,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 535,
       "user": "oil-oil"
     },
     {
@@ -3453,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 88,
       "user": "MengMengCode"
     },
     {
@@ -3468,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 69,
       "user": "Zesuy"
     },
     {
@@ -3483,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 58,
       "user": "forever94yu"
     },
     {
@@ -3498,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266401714?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "KoleCheckley"
     },
     {
@@ -3558,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 239,
       "user": "Appllama"
     },
     {
@@ -3588,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12618,
+      "stars": 12630,
       "user": "firecrawl"
     },
     {
@@ -3648,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "Andiveli"
     },
     {
