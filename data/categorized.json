@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2078,
+      "stars": 2082,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "WhiteDNS"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "MengMengCode"
     },
     {
@@ -776,23 +776,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 50,
       "user": "forever94yu"
-    },
-    {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "kylan11"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -876,22 +861,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hugoarnal"
-    },
-    {
-      "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
-      "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
-      "published_at": "2026-08-07T09:40:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "server-side-rendering",
-        "dynamic-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ashutosh Shukla"
     },
     {
       "title": "React Error: Target Container is not a DOM Element",
@@ -1033,10 +1002,10 @@
       "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
       "tags": [
         "Security",
-        "Google",
-        "hackers",
-        "cybersecurity",
-        "cybercrime"
+        "advanced persistent threat",
+        "apt",
+        "cybercrime",
+        "cybersecurity"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1391,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 687,
       "user": "0xwilliamortiz"
     },
     {
@@ -1421,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "eternityspring"
     },
     {
@@ -1436,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "nkxx188"
     },
     {
@@ -1453,21 +1422,6 @@
       "source": "GitHub",
       "stars": 214,
       "user": "ruudkoeyvoets"
-    },
-    {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "kylan11"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -1526,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 231,
       "user": "Appllama"
     },
     {
@@ -1556,14 +1510,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12581,
+      "stars": 12598,
       "user": "firecrawl"
     },
     {
       "title": "Pointers and references in Javascript",
       "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
       "published_at": "2026-08-08T22:56:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript"
       ],
@@ -1614,22 +1568,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "cristina"
-    },
-    {
-      "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
-      "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
-      "published_at": "2026-08-07T09:40:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "server-side-rendering",
-        "dynamic-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ashutosh Shukla"
     },
     {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
@@ -1706,10 +1644,24 @@
       "user": "wildair"
     },
     {
+      "title": "Unzipping files",
+      "url": "https://stackoverflow.com/questions/2095697/unzipping-files",
+      "published_at": "2010-01-19T17:54:40.000Z",
+      "description": "Stack Overflow question · 9 answers · score 96",
+      "tags": [
+        "javascript",
+        "zip",
+        "unzip"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user69260"
+    },
+    {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "python",
@@ -1944,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2078,
+      "stars": 2082,
       "user": "KKKKhazix"
     },
     {
@@ -1959,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 686,
       "user": "ShawnPana"
     },
     {
@@ -1974,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "jd-opensource"
     },
     {
@@ -1989,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "T8mars"
     },
     {
@@ -2004,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "oil-oil"
     },
     {
@@ -2019,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12581,
+      "stars": 12598,
       "user": "firecrawl"
     },
     {
@@ -2041,7 +1993,7 @@
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "python",
@@ -2357,21 +2309,6 @@
       "user": "jknupp"
     },
     {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
-      "source": "GitHub",
-      "stars": 42,
-      "user": "kylan11"
-    },
-    {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
       "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
       "published_at": "2026-08-06T22:51:17.000Z",
@@ -2478,7 +2415,7 @@
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "python",
@@ -2578,7 +2515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "WhiteDNS"
     },
     {
@@ -2593,7 +2530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 231,
       "user": "Appllama"
     },
     {
@@ -2895,7 +2832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 50,
       "user": "forever94yu"
     }
   ],
@@ -2924,7 +2861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 687,
       "user": "0xwilliamortiz"
     },
     {
@@ -3134,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 687,
       "user": "0xwilliamortiz"
     },
     {
@@ -3175,10 +3112,10 @@
       "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
       "tags": [
         "Security",
-        "Google",
-        "hackers",
-        "cybersecurity",
-        "cybercrime"
+        "advanced persistent threat",
+        "apt",
+        "cybercrime",
+        "cybersecurity"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3353,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 687,
       "user": "0xwilliamortiz"
     },
     {
@@ -3383,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 463,
       "user": "eternityspring"
     },
     {
@@ -3398,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "nkxx188"
     },
     {
@@ -3428,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2078,
+      "stars": 2082,
       "user": "KKKKhazix"
     },
     {
@@ -3443,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 664,
+      "stars": 686,
       "user": "ShawnPana"
     },
     {
@@ -3458,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "jd-opensource"
     },
     {
@@ -3473,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 534,
       "user": "T8mars"
     },
     {
@@ -3488,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 507,
       "user": "oil-oil"
     },
     {
@@ -3503,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "WhiteDNS"
     },
     {
@@ -3518,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "MengMengCode"
     },
     {
@@ -3533,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 60,
       "user": "Zesuy"
     },
     {
@@ -3548,23 +3485,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 50,
       "user": "forever94yu"
     },
     {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "title": "KoleCheckley/SmartContract - GitHub Repository",
+      "url": "https://github.com/KoleCheckley/SmartContract",
+      "published_at": "2026-08-08T08:31:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266401714?v=4",
       "source": "GitHub",
-      "stars": 42,
-      "user": "kylan11"
+      "stars": 46,
+      "user": "KoleCheckley"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -3623,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 231,
       "user": "Appllama"
     },
     {
@@ -3653,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12581,
+      "stars": 12598,
       "user": "firecrawl"
     },
     {
@@ -3698,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 146,
       "user": "ikuV"
     },
     {
