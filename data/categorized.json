@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 378,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2035,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 554,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "AMAP-ML"
     },
     {
@@ -763,6 +763,21 @@
       "source": "GitHub",
       "stars": 118,
       "user": "WhiteDNS"
+    },
+    {
+      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "url": "https://github.com/MengMengCode/VoCat",
+      "published_at": "2026-08-09T06:43:49Z",
+      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "MengMengCode"
     },
     {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 41,
       "user": "forever94yu"
     },
     {
@@ -1398,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 638,
       "user": "google-gemma"
     },
     {
@@ -1413,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 378,
       "user": "eternityspring"
     },
     {
@@ -1428,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 223,
       "user": "nkxx188"
     },
     {
@@ -1443,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1473,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 629,
       "user": "wumingqi60"
     },
     {
@@ -1488,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "openTrinity"
     },
     {
@@ -1518,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "Appllama"
     },
     {
@@ -1548,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12375,
+      "stars": 12392,
       "user": "firecrawl"
     },
     {
@@ -1919,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2035,
       "user": "KKKKhazix"
     },
     {
@@ -1934,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 554,
       "user": "jd-opensource"
     },
     {
@@ -1949,23 +1964,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 504,
       "user": "T8mars"
-    },
-    {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "AMAP-ML"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -1979,8 +1979,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 450,
       "user": "ShawnPana"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 450,
+      "user": "AMAP-ML"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1994,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12375,
+      "stars": 12392,
       "user": "firecrawl"
     },
     {
@@ -2491,7 +2506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "Appllama"
     },
     {
@@ -2793,7 +2808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 41,
       "user": "forever94yu"
     },
     {
@@ -3261,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 638,
       "user": "google-gemma"
     },
     {
@@ -3276,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 378,
       "user": "eternityspring"
     },
     {
@@ -3291,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 223,
       "user": "nkxx188"
     },
     {
@@ -3306,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3321,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2035,
       "user": "KKKKhazix"
     },
     {
@@ -3336,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 554,
       "user": "jd-opensource"
     },
     {
@@ -3351,23 +3366,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 504,
       "user": "T8mars"
-    },
-    {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "AMAP-ML"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -3381,8 +3381,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 438,
+      "stars": 450,
       "user": "ShawnPana"
+    },
+    {
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 450,
+      "user": "AMAP-ML"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -3398,6 +3413,21 @@
       "source": "GitHub",
       "stars": 118,
       "user": "WhiteDNS"
+    },
+    {
+      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "url": "https://github.com/MengMengCode/VoCat",
+      "published_at": "2026-08-09T06:43:49Z",
+      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "source": "GitHub",
+      "stars": 49,
+      "user": "MengMengCode"
     },
     {
       "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
@@ -3430,21 +3460,6 @@
       "user": "kylan11"
     },
     {
-      "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
-      "url": "https://github.com/cr-zhichen/DJOneHubNative",
-      "published_at": "2026-08-05T02:51:22Z",
-      "description": "DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
-      "source": "GitHub",
-      "stars": 39,
-      "user": "cr-zhichen"
-    },
-    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -3456,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 39,
+      "stars": 41,
       "user": "forever94yu"
     },
     {
@@ -3471,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 629,
       "user": "wumingqi60"
     },
     {
@@ -3486,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "openTrinity"
     },
     {
@@ -3516,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 173,
       "user": "Appllama"
     },
     {
@@ -3546,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12375,
+      "stars": 12392,
       "user": "firecrawl"
     },
     {
