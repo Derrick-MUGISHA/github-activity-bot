@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2090,
+      "stars": 2091,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 590,
       "user": "jd-opensource"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "MengMengCode"
     },
     {
@@ -780,6 +780,21 @@
       "user": "forever94yu"
     },
     {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "kylan11"
+    },
+    {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
       "url": "https://github.com/criptogus/HermesOffice",
       "published_at": "2026-08-04T15:55:03Z",
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "criptogus"
     },
     {
@@ -863,6 +878,18 @@
       "user": "hugoarnal"
     },
     {
+      "title": "I think the vibecoding tag has gotten out of hand",
+      "url": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
+      "published_at": "2026-08-09T10:37:14.432-05:00",
+      "description": "I was reading [this post](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) and noticed the `vibecoding` had been applied. I’m not sure if this was applied by the lobste.rs team or by the author, but after reading the post it’s pretty clear that the only vibecoding involved  is mentioned in an appendix separate from the actual meat of the post, which was well written and the product of sole-human effort and care. This tag feels like a black mark on what are otherwise interesting posts and has the potential to filter out genuinely human content. In other words, I think the tag does not capture the nuances of actual LLM use and is perhaps being applied too broadly.\r\n\r\nedit: it now seems the tag has been removed on that post. I still feel this should be a point of discussion",
+      "tags": [
+        "meta"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "anex9d"
+    },
+    {
       "title": "React Error: Target Container is not a DOM Element",
       "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
       "published_at": "2014-10-17T01:03:11.000Z",
@@ -876,6 +903,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lnhubbell"
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "published_at": "2026-08-09T20:35:17.000Z",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "situational awareness"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Anthropic is turning Claude Code’s auto mode on by default",
@@ -1345,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 700,
       "user": "0xwilliamortiz"
     },
     {
@@ -1360,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 682,
       "user": "google-gemma"
     },
     {
@@ -1409,6 +1450,21 @@
       "user": "ruudkoeyvoets"
     },
     {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "kylan11"
+    },
+    {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
       "url": "https://github.com/wumingqi60/lingxi",
       "published_at": "2026-08-03T05:46:34Z",
@@ -1435,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "openTrinity"
     },
     {
@@ -1450,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "criptogus"
     },
     {
@@ -1495,14 +1551,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12647,
+      "stars": 12657,
       "user": "firecrawl"
     },
     {
       "title": "Pointers and references in Javascript",
       "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
       "published_at": "2026-08-08T22:56:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript"
       ],
@@ -1538,21 +1594,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loliland Wizard"
-    },
-    {
-      "title": "Why does my async function return a pending Promise instead of the resolved value when I call it inside a forEach loop",
-      "url": "https://stackoverflow.com/questions/79991429/why-does-my-async-function-return-a-pending-promise-instead-of-the-resolved-valu",
-      "published_at": "2026-08-07T20:31:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "asynchronous",
-        "promise",
-        "es6-promise"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cristina"
     },
     {
       "title": "Stuck in tutorial hell after 4 years: How do I build web sites and think independently?",
@@ -1616,7 +1657,7 @@
       "title": "Preloading Google Fonts",
       "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
       "published_at": "2018-06-12T19:07:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 58",
+      "description": "Stack Overflow question · 3 answers · score 59",
       "tags": [
         "javascript",
         "html",
@@ -1641,6 +1682,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user69260"
+    },
+    {
+      "title": "AngularJS ng-click fires twice",
+      "url": "https://stackoverflow.com/questions/18709297/angularjs-ng-click-fires-twice",
+      "published_at": "2013-09-10T01:06:58.000Z",
+      "description": "Stack Overflow question · 19 answers · score 25",
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ravi Ram"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -1881,7 +1935,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2090,
+      "stars": 2091,
       "user": "KKKKhazix"
     },
     {
@@ -1896,7 +1950,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 770,
       "user": "ShawnPana"
     },
     {
@@ -1911,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 590,
       "user": "jd-opensource"
     },
     {
@@ -1926,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 552,
       "user": "oil-oil"
     },
     {
@@ -1956,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12647,
+      "stars": 12657,
       "user": "firecrawl"
     },
     {
@@ -2292,6 +2346,21 @@
       "user": "jknupp"
     },
     {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "kylan11"
+    },
+    {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
       "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
       "published_at": "2026-08-06T22:51:17.000Z",
@@ -2396,7 +2465,7 @@
       "title": "Preloading Google Fonts",
       "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
       "published_at": "2018-06-12T19:07:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 58",
+      "description": "Stack Overflow question · 3 answers · score 59",
       "tags": [
         "javascript",
         "html",
@@ -2529,18 +2598,6 @@
       "source": "GitHub",
       "stars": 244,
       "user": "Appllama"
-    },
-    {
-      "title": "my server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "published_at": "2026-08-08T22:39:26.949-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "android"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gnyeki"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -2858,7 +2915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 700,
       "user": "0xwilliamortiz"
     },
     {
@@ -3068,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 700,
       "user": "0xwilliamortiz"
     },
     {
@@ -3271,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 700,
       "user": "0xwilliamortiz"
     },
     {
@@ -3286,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 682,
       "user": "google-gemma"
     },
     {
@@ -3346,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2090,
+      "stars": 2091,
       "user": "KKKKhazix"
     },
     {
@@ -3361,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 770,
       "user": "ShawnPana"
     },
     {
@@ -3376,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 590,
       "user": "jd-opensource"
     },
     {
@@ -3391,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 552,
       "user": "oil-oil"
     },
     {
@@ -3436,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "MengMengCode"
     },
     {
@@ -3455,21 +3512,6 @@
       "user": "Zesuy"
     },
     {
-      "title": "KoleCheckley/SmartContract - GitHub Repository",
-      "url": "https://github.com/KoleCheckley/SmartContract",
-      "published_at": "2026-08-08T08:31:23Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266401714?v=4",
-      "source": "GitHub",
-      "stars": 65,
-      "user": "KoleCheckley"
-    },
-    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -3483,6 +3525,21 @@
       "source": "GitHub",
       "stars": 58,
       "user": "forever94yu"
+    },
+    {
+      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "url": "https://github.com/kylan11/understudy",
+      "published_at": "2026-08-05T13:18:53Z",
+      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "source": "GitHub",
+      "stars": 42,
+      "user": "kylan11"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -3511,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 518,
       "user": "openTrinity"
     },
     {
@@ -3526,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "criptogus"
     },
     {
@@ -3571,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12647,
+      "stars": 12657,
       "user": "firecrawl"
     },
     {
@@ -3616,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "ikuV"
     },
     {
@@ -3631,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "Andiveli"
     },
     {
