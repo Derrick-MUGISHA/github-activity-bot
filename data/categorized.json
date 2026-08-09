@@ -31,21 +31,6 @@
       "user": "Çalgan Aygün"
     },
     {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
-      "published_at": "2026-07-31T13:17:16Z",
-      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
-      "tags": [
-        "ai",
-        "opensource",
-        "hardware",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 352,
       "user": "eternityspring"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2013,
+      "stars": 2017,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 547,
       "user": "jd-opensource"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 435,
       "user": "AMAP-ML"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "WhiteDNS"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "forever94yu"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "criptogus"
     },
     {
@@ -1415,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 610,
       "user": "google-gemma"
     },
     {
@@ -1430,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 352,
       "user": "eternityspring"
     },
     {
@@ -1460,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "sophiamyang"
     },
     {
@@ -1490,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 615,
       "user": "wumingqi60"
     },
     {
@@ -1505,7 +1490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 460,
       "user": "openTrinity"
     },
     {
@@ -1520,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "criptogus"
     },
     {
@@ -1550,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 156,
       "user": "Appllama"
     },
     {
@@ -1565,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12279,
+      "stars": 12317,
       "user": "firecrawl"
     },
     {
@@ -1667,22 +1652,6 @@
       "user": "Luna"
     },
     {
-      "title": "How to test PlateJs Marks with React Testing Library",
-      "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
-      "published_at": "2026-08-06T16:17:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "jestjs",
-        "react-testing-library",
-        "slate.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fi Li Ppo"
-    },
-    {
       "title": "Javascript generator only running through one array",
       "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
       "published_at": "2026-08-05T05:53:57.000Z",
@@ -1710,6 +1679,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Heba Allah Hashim"
+    },
+    {
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "recaptcha",
+        "netlify",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1936,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2013,
+      "stars": 2017,
       "user": "KKKKhazix"
     },
     {
@@ -1951,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 547,
       "user": "jd-opensource"
     },
     {
@@ -1966,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 487,
       "user": "T8mars"
     },
     {
@@ -1981,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 435,
       "user": "AMAP-ML"
     },
     {
@@ -2011,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12279,
+      "stars": 12317,
       "user": "firecrawl"
     },
     {
@@ -2493,7 +2478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "WhiteDNS"
     },
     {
@@ -2508,7 +2493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 156,
       "user": "Appllama"
     },
     {
@@ -2810,7 +2795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "forever94yu"
     },
     {
@@ -2873,21 +2858,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
-    },
-    {
-      "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
-      "url": "https://dev.to/jenueldev/how-to-build-a-local-ai-workspace-like-pewdiepies-odysseus-hardware-models-and-cost-3egh",
-      "published_at": "2026-07-31T13:17:16Z",
-      "description": "A practical, source-backed guide to building a local AI workspace like PewDiePie's Odysseus, including VRAM tiers, realistic budgets, model runtimes, installation steps, and security advice.",
-      "tags": [
-        "ai",
-        "opensource",
-        "hardware",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi311nwozj2kckjbjj8ee.png",
-      "source": "Dev.to",
-      "user": "Jenuel Oras Ganawed"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -3293,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 610,
       "user": "google-gemma"
     },
     {
@@ -3308,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 352,
       "user": "eternityspring"
     },
     {
@@ -3338,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "sophiamyang"
     },
     {
@@ -3353,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2013,
+      "stars": 2017,
       "user": "KKKKhazix"
     },
     {
@@ -3368,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 547,
       "user": "jd-opensource"
     },
     {
@@ -3383,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 487,
       "user": "T8mars"
     },
     {
@@ -3398,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 435,
       "user": "AMAP-ML"
     },
     {
@@ -3428,8 +3398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "WhiteDNS"
+    },
+    {
+      "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
+      "url": "https://github.com/tllovesxs/cc-switch-route",
+      "published_at": "2026-08-08T01:55:40Z",
+      "description": "cc-swith的路由加强,无侵入,打开即用",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
+      "source": "GitHub",
+      "stars": 41,
+      "user": "tllovesxs"
     },
     {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
@@ -3445,21 +3430,6 @@
       "source": "GitHub",
       "stars": 41,
       "user": "kylan11"
-    },
-    {
-      "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
-      "url": "https://github.com/tllovesxs/cc-switch-route",
-      "published_at": "2026-08-08T01:55:40Z",
-      "description": "cc-swith的路由加强,无侵入,打开即用",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
-      "source": "GitHub",
-      "stars": 38,
-      "user": "tllovesxs"
     },
     {
       "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
@@ -3488,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 36,
+      "stars": 37,
       "user": "forever94yu"
     },
     {
@@ -3503,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 612,
+      "stars": 615,
       "user": "wumingqi60"
     },
     {
@@ -3518,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 460,
       "user": "openTrinity"
     },
     {
@@ -3533,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "criptogus"
     },
     {
@@ -3563,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 156,
       "user": "Appllama"
     },
     {
@@ -3578,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12279,
+      "stars": 12317,
       "user": "firecrawl"
     },
     {
@@ -3642,20 +3612,20 @@
       "user": "Andiveli"
     },
     {
-      "title": "How to test PlateJs Marks with React Testing Library",
-      "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
-      "published_at": "2026-08-06T16:17:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How do you load the google recaptcha scripts after the user accepted the cookies pop-up?",
+      "url": "https://stackoverflow.com/questions/79982354/how-do-you-load-the-google-recaptcha-scripts-after-the-user-accepted-the-cookies",
+      "published_at": "2026-07-20T20:58:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
+        "tooling-recommendation",
         "javascript",
-        "reactjs",
-        "jestjs",
-        "react-testing-library",
-        "slate.js"
+        "recaptcha",
+        "netlify",
+        "hugo"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Fi Li Ppo"
+      "user": "Malte K"
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
