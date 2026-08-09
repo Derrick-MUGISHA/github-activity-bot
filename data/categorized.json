@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2082,
+      "stars": 2086,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 582,
       "user": "jd-opensource"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 54,
       "user": "forever94yu"
     },
     {
@@ -876,20 +876,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lnhubbell"
-    },
-    {
-      "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
-      "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
-      "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "task",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
     },
     {
       "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
@@ -1360,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 692,
       "user": "0xwilliamortiz"
     },
     {
@@ -1390,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "eternityspring"
     },
     {
@@ -1420,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1480,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "Appllama"
     },
     {
@@ -1510,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12598,
+      "stars": 12612,
       "user": "firecrawl"
     },
     {
@@ -1598,6 +1584,20 @@
       "user": "Zubair Fathi"
     },
     {
+      "title": "Using HTML5/JavaScript to generate and save a file",
+      "url": "https://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file",
+      "published_at": "2010-05-24T14:16:34.000Z",
+      "description": "Stack Overflow question · 18 answers · score 372",
+      "tags": [
+        "javascript",
+        "html",
+        "download"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toji"
+    },
+    {
       "title": "React Error: Target Container is not a DOM Element",
       "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
       "published_at": "2014-10-17T01:03:11.000Z",
@@ -1642,20 +1642,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "wildair"
-    },
-    {
-      "title": "Unzipping files",
-      "url": "https://stackoverflow.com/questions/2095697/unzipping-files",
-      "published_at": "2010-01-19T17:54:40.000Z",
-      "description": "Stack Overflow question · 9 answers · score 96",
-      "tags": [
-        "javascript",
-        "zip",
-        "unzip"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user69260"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -1896,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2082,
+      "stars": 2086,
       "user": "KKKKhazix"
     },
     {
@@ -1911,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 701,
       "user": "ShawnPana"
     },
     {
@@ -1926,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 582,
       "user": "jd-opensource"
     },
     {
@@ -1941,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 535,
       "user": "T8mars"
     },
     {
@@ -1956,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 514,
       "user": "oil-oil"
     },
     {
@@ -1971,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12598,
+      "stars": 12612,
       "user": "firecrawl"
     },
     {
@@ -1988,6 +1974,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lnhubbell"
+    },
+    {
+      "title": "Running a Class.method() when that module is imported",
+      "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
+      "published_at": "2026-08-09T17:36:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -2111,20 +2110,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koby Marcroft"
-    },
-    {
-      "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
-      "url": "https://stackoverflow.com/questions/79991412/asyncio-shield-protects-my-in-flight-llm-call-from-cancellation-but-i-lose-th",
-      "published_at": "2026-08-07T18:43:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "task",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "juliana"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2396,6 +2381,20 @@
       "user": "Zubair Fathi"
     },
     {
+      "title": "Using HTML5/JavaScript to generate and save a file",
+      "url": "https://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file",
+      "published_at": "2010-05-24T14:16:34.000Z",
+      "description": "Stack Overflow question · 18 answers · score 372",
+      "tags": [
+        "javascript",
+        "html",
+        "download"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toji"
+    },
+    {
       "title": "Preloading Google Fonts",
       "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
       "published_at": "2018-06-12T19:07:13.000Z",
@@ -2530,7 +2529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "Appllama"
     },
     {
@@ -2832,7 +2831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 54,
       "user": "forever94yu"
     }
   ],
@@ -2861,7 +2860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 692,
       "user": "0xwilliamortiz"
     },
     {
@@ -3071,7 +3070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 692,
       "user": "0xwilliamortiz"
     },
     {
@@ -3290,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 692,
       "user": "0xwilliamortiz"
     },
     {
@@ -3320,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 466,
       "user": "eternityspring"
     },
     {
@@ -3350,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3365,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2082,
+      "stars": 2086,
       "user": "KKKKhazix"
     },
     {
@@ -3380,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 701,
       "user": "ShawnPana"
     },
     {
@@ -3395,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 582,
       "user": "jd-opensource"
     },
     {
@@ -3410,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 535,
       "user": "T8mars"
     },
     {
@@ -3425,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 514,
       "user": "oil-oil"
     },
     {
@@ -3470,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 65,
       "user": "Zesuy"
     },
     {
@@ -3485,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 54,
       "user": "forever94yu"
     },
     {
@@ -3500,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266401714?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 48,
       "user": "KoleCheckley"
     },
     {
@@ -3560,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "Appllama"
     },
     {
@@ -3590,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12598,
+      "stars": 12612,
       "user": "firecrawl"
     },
     {
