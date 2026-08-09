@@ -705,6 +705,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "published_at": "2026-08-06T10:38:49Z",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
+      "source": "GitHub",
+      "stars": 321,
+      "user": "eternityspring"
+    },
+    {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
       "published_at": "2026-08-05T01:19:41Z",
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1989,
+      "stars": 1996,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 525,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "SandAI-org"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "AMAP-ML"
     },
     {
@@ -810,21 +825,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
-      "url": "https://github.com/espressif/esp-rainmaker-neo",
-      "published_at": "2026-08-04T04:03:48Z",
-      "description": "ESP RainMaker Neo Cloud Backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "espressif"
-    },
-    {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
       "url": "https://github.com/criptogus/HermesOffice",
       "published_at": "2026-08-04T15:55:03Z",
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "margelo"
     },
     {
@@ -1419,6 +1419,81 @@
       "user": "velmu"
     },
     {
+      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/0xwilliamortiz/claude-red",
+      "published_at": "2026-08-05T16:54:36Z",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 681,
+      "user": "0xwilliamortiz"
+    },
+    {
+      "title": "google-gemma/gemma-translator - GitHub Repository",
+      "url": "https://github.com/google-gemma/gemma-translator",
+      "published_at": "2026-08-03T18:50:34Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
+      "source": "GitHub",
+      "stars": 590,
+      "user": "google-gemma"
+    },
+    {
+      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "published_at": "2026-08-06T10:38:49Z",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
+      "source": "GitHub",
+      "stars": 321,
+      "user": "eternityspring"
+    },
+    {
+      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "published_at": "2026-08-05T11:45:52Z",
+      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "nkxx188"
+    },
+    {
+      "title": "sophiamyang/finger-frame-effect-lucy - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-lucy",
+      "published_at": "2026-08-03T20:32:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 194,
+      "user": "sophiamyang"
+    },
+    {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
       "url": "https://github.com/kylan11/understudy",
       "published_at": "2026-08-05T13:18:53Z",
@@ -1445,8 +1520,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 583,
       "user": "wumingqi60"
+    },
+    {
+      "title": "openTrinity/mycontext - MyContext is a local-first desktop app for everyday communication and knowledge work",
+      "url": "https://github.com/openTrinity/mycontext",
+      "published_at": "2026-08-03T15:08:51Z",
+      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
+      "source": "GitHub",
+      "stars": 432,
+      "user": "openTrinity"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -1464,21 +1554,6 @@
       "user": "criptogus"
     },
     {
-      "title": "openTrinity/mycontext - MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "url": "https://github.com/openTrinity/mycontext",
-      "published_at": "2026-08-03T15:08:51Z",
-      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "openTrinity"
-    },
-    {
       "title": "margelo/ai-chat-demo - GitHub Repository",
       "url": "https://github.com/margelo/ai-chat-demo",
       "published_at": "2026-08-04T10:09:41Z",
@@ -1490,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "margelo"
     },
     {
@@ -1520,7 +1595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12158,
+      "stars": 12206,
       "user": "firecrawl"
     },
     {
@@ -1892,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1989,
+      "stars": 1996,
       "user": "KKKKhazix"
     },
     {
@@ -1907,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 525,
       "user": "jd-opensource"
     },
     {
@@ -1922,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 476,
       "user": "T8mars"
     },
     {
@@ -1937,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "SandAI-org"
     },
     {
@@ -1952,7 +2027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "AMAP-ML"
     },
     {
@@ -1967,7 +2042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12158,
+      "stars": 12206,
       "user": "firecrawl"
     },
     {
@@ -2361,21 +2436,6 @@
       "user": "velmu"
     },
     {
-      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
-      "url": "https://github.com/espressif/esp-rainmaker-neo",
-      "published_at": "2026-08-04T04:03:48Z",
-      "description": "ESP RainMaker Neo Cloud Backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "espressif"
-    },
-    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
@@ -2758,21 +2818,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
-      "url": "https://github.com/espressif/esp-rainmaker-neo",
-      "published_at": "2026-08-04T04:03:48Z",
-      "description": "ESP RainMaker Neo Cloud Backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "espressif"
-    },
-    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published_at": "2026-08-07T16:16:09.000Z",
@@ -2800,6 +2845,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/0xwilliamortiz/claude-red",
+      "published_at": "2026-08-05T16:54:36Z",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 681,
+      "user": "0xwilliamortiz"
     }
   ],
   "Security": [
@@ -2994,6 +3054,33 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/0xwilliamortiz/claude-red",
+      "published_at": "2026-08-05T16:54:36Z",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 681,
+      "user": "0xwilliamortiz"
+    },
+    {
+      "title": "OpenSSH Key Structure Guide",
+      "url": "https://sshref.dev/",
+      "published_at": "2026-08-08T13:22:36.847-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "BD103"
     },
     {
       "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
@@ -3196,6 +3283,81 @@
       "user": "pabs3"
     },
     {
+      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/0xwilliamortiz/claude-red",
+      "published_at": "2026-08-05T16:54:36Z",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
+      "source": "GitHub",
+      "stars": 681,
+      "user": "0xwilliamortiz"
+    },
+    {
+      "title": "google-gemma/gemma-translator - GitHub Repository",
+      "url": "https://github.com/google-gemma/gemma-translator",
+      "published_at": "2026-08-03T18:50:34Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
+      "source": "GitHub",
+      "stars": 590,
+      "user": "google-gemma"
+    },
+    {
+      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "published_at": "2026-08-06T10:38:49Z",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
+      "source": "GitHub",
+      "stars": 321,
+      "user": "eternityspring"
+    },
+    {
+      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "published_at": "2026-08-05T11:45:52Z",
+      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "source": "GitHub",
+      "stars": 211,
+      "user": "nkxx188"
+    },
+    {
+      "title": "sophiamyang/finger-frame-effect-lucy - GitHub Repository",
+      "url": "https://github.com/sophiamyang/finger-frame-effect-lucy",
+      "published_at": "2026-08-03T20:32:45Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
+      "source": "GitHub",
+      "stars": 194,
+      "user": "sophiamyang"
+    },
+    {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
       "published_at": "2026-08-05T01:19:41Z",
@@ -3207,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1989,
+      "stars": 1996,
       "user": "KKKKhazix"
     },
     {
@@ -3222,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 520,
+      "stars": 525,
       "user": "jd-opensource"
     },
     {
@@ -3237,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 476,
       "user": "T8mars"
     },
     {
@@ -3252,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/208222005?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 426,
       "user": "SandAI-org"
     },
     {
@@ -3267,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "AMAP-ML"
     },
     {
@@ -3301,6 +3463,21 @@
       "user": "kylan11"
     },
     {
+      "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
+      "url": "https://github.com/tllovesxs/cc-switch-route",
+      "published_at": "2026-08-08T01:55:40Z",
+      "description": "cc-swith的路由加强,无侵入,打开即用",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
+      "source": "GitHub",
+      "stars": 37,
+      "user": "tllovesxs"
+    },
+    {
       "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
       "url": "https://github.com/cr-zhichen/DJOneHubNative",
       "published_at": "2026-08-05T02:51:22Z",
@@ -3331,21 +3508,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
-      "url": "https://github.com/espressif/esp-rainmaker-neo",
-      "published_at": "2026-08-04T04:03:48Z",
-      "description": "ESP RainMaker Neo Cloud Backend",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
-      "source": "GitHub",
-      "stars": 33,
-      "user": "espressif"
-    },
-    {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
       "url": "https://github.com/wumingqi60/lingxi",
       "published_at": "2026-08-03T05:46:34Z",
@@ -3357,8 +3519,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 583,
       "user": "wumingqi60"
+    },
+    {
+      "title": "openTrinity/mycontext - MyContext is a local-first desktop app for everyday communication and knowledge work",
+      "url": "https://github.com/openTrinity/mycontext",
+      "published_at": "2026-08-03T15:08:51Z",
+      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
+      "source": "GitHub",
+      "stars": 432,
+      "user": "openTrinity"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -3376,21 +3553,6 @@
       "user": "criptogus"
     },
     {
-      "title": "openTrinity/mycontext - MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "url": "https://github.com/openTrinity/mycontext",
-      "published_at": "2026-08-03T15:08:51Z",
-      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "openTrinity"
-    },
-    {
       "title": "margelo/ai-chat-demo - GitHub Repository",
       "url": "https://github.com/margelo/ai-chat-demo",
       "published_at": "2026-08-04T10:09:41Z",
@@ -3402,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "margelo"
     },
     {
@@ -3432,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12158,
+      "stars": 12206,
       "user": "firecrawl"
     },
     {
@@ -3462,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 229,
       "user": "cristicretu"
     },
     {
@@ -3477,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "ikuV"
     },
     {
@@ -3492,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "Andiveli"
     },
     {
