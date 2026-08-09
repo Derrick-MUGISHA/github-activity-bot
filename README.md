@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) | Dev.to |
 | 20 | [Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together](https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0) | Dev.to |
 
-<sub>Last fetched: Sun, 09 Aug 2026 23:00:20 CAT</sub>
+<sub>Last fetched: Sun, 09 Aug 2026 23:43:54 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Explain event delegation and why it's useful**
+**1. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> Token bucket, sliding window, Redis
 
 </details>
 
-**2. `NodeJS` — How do you handle errors in async/await?**
+**2. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**3. `SystemDesign` — Design Twitter's timeline feature**
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -164,7 +164,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 79 | 42.9% | `████████████████████` |
+| **AI** | 78 | 42.4% | `████████████████████` |
 | **JavaScript** | 42 | 22.8% | `███████████░░░░░░░░░` |
 | **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 21:00:20 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 21:43:54 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
