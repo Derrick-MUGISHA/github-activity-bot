@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 328,
       "user": "eternityspring"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 1998,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 530,
       "user": "jd-opensource"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 422,
       "user": "AMAP-ML"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 36,
       "user": "forever94yu"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "criptogus"
     },
     {
@@ -924,21 +924,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
-    },
-    {
-      "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
-      "url": "https://stackoverflow.com/questions/79991196/fixing-a-gnome-shell-st-scrollview-1px-layout-collapse-under-unconstrained-sizin",
-      "published_at": "2026-08-07T03:20:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "gnome-shell",
-        "gjs",
-        "clutter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fedor Pasynkov"
     },
     {
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
@@ -1430,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "0xwilliamortiz"
     },
     {
@@ -1445,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "google-gemma"
     },
     {
@@ -1460,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 328,
       "user": "eternityspring"
     },
     {
@@ -1475,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "nkxx188"
     },
     {
@@ -1490,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "sophiamyang"
     },
     {
@@ -1520,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 597,
       "user": "wumingqi60"
     },
     {
@@ -1535,7 +1520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 440,
       "user": "openTrinity"
     },
     {
@@ -1550,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "criptogus"
     },
     {
@@ -1595,7 +1580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12206,
+      "stars": 12233,
       "user": "firecrawl"
     },
     {
@@ -1697,21 +1682,6 @@
       "user": "Luna"
     },
     {
-      "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
-      "url": "https://stackoverflow.com/questions/79991196/fixing-a-gnome-shell-st-scrollview-1px-layout-collapse-under-unconstrained-sizin",
-      "published_at": "2026-08-07T03:20:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "gnome-shell",
-        "gjs",
-        "clutter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fedor Pasynkov"
-    },
-    {
       "title": "How to test PlateJs Marks with React Testing Library",
       "url": "https://stackoverflow.com/questions/79991081/how-to-test-platejs-marks-with-react-testing-library",
       "published_at": "2026-08-06T16:17:09.000Z",
@@ -1741,6 +1711,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Explorer"
+    },
+    {
+      "title": "Classic scrollbar width getters not working on Firefox",
+      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
+      "published_at": "2026-08-04T08:24:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "css",
+        "firefox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "munHunger"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1967,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 1998,
       "user": "KKKKhazix"
     },
     {
@@ -1982,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 530,
       "user": "jd-opensource"
     },
     {
@@ -2027,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 422,
       "user": "AMAP-ML"
     },
     {
@@ -2042,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12206,
+      "stars": 12233,
       "user": "firecrawl"
     },
     {
@@ -2450,6 +2434,20 @@
       "user": "Lproductions"
     },
     {
+      "title": "Classic scrollbar width getters not working on Firefox",
+      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
+      "published_at": "2026-08-04T08:24:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "css",
+        "firefox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "munHunger"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
       "published_at": "2026-08-06T22:17:36.000Z",
@@ -2526,6 +2524,18 @@
       "source": "GitHub",
       "stars": 111,
       "user": "WhiteDNS"
+    },
+    {
+      "title": "my server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "published_at": "2026-08-08T22:39:26.949-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gnyeki"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -2814,7 +2824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 36,
       "user": "forever94yu"
     },
     {
@@ -2858,7 +2868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "0xwilliamortiz"
     }
   ],
@@ -3067,20 +3077,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "OpenSSH Key Structure Guide",
-      "url": "https://sshref.dev/",
-      "published_at": "2026-08-08T13:22:36.847-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "BD103"
     },
     {
       "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
@@ -3294,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "0xwilliamortiz"
     },
     {
@@ -3309,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 593,
       "user": "google-gemma"
     },
     {
@@ -3324,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 328,
       "user": "eternityspring"
     },
     {
@@ -3339,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "nkxx188"
     },
     {
@@ -3354,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "sophiamyang"
     },
     {
@@ -3369,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1996,
+      "stars": 1998,
       "user": "KKKKhazix"
     },
     {
@@ -3384,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 530,
       "user": "jd-opensource"
     },
     {
@@ -3429,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 422,
       "user": "AMAP-ML"
     },
     {
@@ -3504,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 34,
+      "stars": 36,
       "user": "forever94yu"
     },
     {
@@ -3519,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 597,
       "user": "wumingqi60"
     },
     {
@@ -3534,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 440,
       "user": "openTrinity"
     },
     {
@@ -3549,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "criptogus"
     },
     {
@@ -3594,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12206,
+      "stars": 12233,
       "user": "firecrawl"
     },
     {
@@ -3639,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 140,
       "user": "ikuV"
     },
     {
@@ -3654,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "Andiveli"
     },
     {
