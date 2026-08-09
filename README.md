@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-181-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-180-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--09-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-09 16:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-09 17:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) | Dev.to |
 | 20 | [Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together](https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0) | Dev.to |
 
-<sub>Last fetched: Sun, 09 Aug 2026 16:51:29 CAT</sub>
+<sub>Last fetched: Sun, 09 Aug 2026 17:21:11 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Explain middleware in Express.js**
+**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> Execution timing, event loop phases
 
 </details>
 
-**2. `NodeJS` — Implement rate limiting for an API**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Execution timing, event loop phases
 
 </details>
 
-**3. `React` — How would you optimize a React app's performance?**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 80 | 44.2% | `████████████████████` |
-| **JavaScript** | 42 | 23.2% | `███████████░░░░░░░░░` |
-| **Tools** | 40 | 22.1% | `██████████░░░░░░░░░░` |
-| **Python** | 33 | 18.2% | `████████░░░░░░░░░░░░` |
-| **Security** | 20 | 11.0% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
+| **AI** | 79 | 43.9% | `████████████████████` |
+| **JavaScript** | 42 | 23.3% | `███████████░░░░░░░░░` |
+| **Tools** | 38 | 21.1% | `██████████░░░░░░░░░░` |
+| **Python** | 33 | 18.3% | `████████░░░░░░░░░░░░` |
+| **Security** | 20 | 11.1% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 16 | 8.9% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 9 | 5.0% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 57 |
+| Dev.to | 56 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.8%
-Go              █████████████████████████████ 25.5%
-Python          ████████████████████████ 21.0%
-Java            ███████████████████████ 20.4%
+JavaScript      ██████████████████████████████ 26.6%
+Go              █████████████████████████████ 25.9%
+Python          ████████████████████████ 20.9%
+Java            ███████████████████████ 20.3%
 Rust            ████ 3.8%
 Kotlin          █ 1.3%
 Swift           █ 0.6%
@@ -208,7 +208,7 @@ Ruby            █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 42
-    "Go" : 40
+    "Go" : 41
     "Python" : 33
     "Java" : 32
     "Rust" : 6
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-14-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-8-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 14:51:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 15:21:11 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

@@ -196,21 +196,6 @@
       "user": "xbill"
     },
     {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -701,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 432,
       "user": "eternityspring"
     },
     {
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2069,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 575,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 474,
       "user": "AMAP-ML"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "WhiteDNS"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "MengMengCode"
     },
     {
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "forever94yu"
     },
     {
@@ -855,6 +840,19 @@
       "user": "HaidarJbeily7"
     },
     {
+      "title": "Who Should Pay For Source Code Availability?",
+      "url": "https://kristoff.it/blog/source-code-availability/",
+      "published_at": "2026-08-09T08:42:39.432-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs",
+        "zig"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
+    },
+    {
       "title": "Rails is done",
       "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
       "published_at": "2026-08-09T02:14:28.028-05:00",
@@ -874,19 +872,6 @@
       "description": "Not tagged as video but contains mostly links to videos",
       "tags": [
         "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hugoarnal"
-    },
-    {
-      "title": "Who Should Pay For Source Code Availability?",
-      "url": "https://kristoff.it/blog/source-code-availability/",
-      "published_at": "2026-08-09T08:42:39.432-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs",
-        "zig"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -936,6 +921,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "juliana"
+    },
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "published_at": "2026-08-09T15:00:00.000Z",
+      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "tags": [
+        "Media & Entertainment",
+        "AI",
+        "Government & Policy",
+        "Elon Musk",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "The AI safety test is becoming a safety risk",
@@ -1037,20 +1038,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "published_at": "2026-08-07T21:30:11.000Z",
-      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Rippling"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1416,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "google-gemma"
     },
     {
@@ -1431,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 432,
       "user": "eternityspring"
     },
     {
@@ -1446,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "nkxx188"
     },
     {
@@ -1461,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1491,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "wumingqi60"
     },
     {
@@ -1506,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "openTrinity"
     },
     {
@@ -1536,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 218,
       "user": "Appllama"
     },
     {
@@ -1566,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12532,
+      "stars": 12549,
       "user": "firecrawl"
     },
     {
@@ -1585,7 +1572,7 @@
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "css",
@@ -1716,7 +1703,7 @@
       "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
       "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "python",
@@ -1951,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2069,
       "user": "KKKKhazix"
     },
     {
@@ -1966,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 615,
       "user": "ShawnPana"
     },
     {
@@ -1981,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 575,
       "user": "jd-opensource"
     },
     {
@@ -1996,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 524,
       "user": "T8mars"
     },
     {
@@ -2011,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 474,
       "user": "AMAP-ML"
     },
     {
@@ -2026,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12532,
+      "stars": 12549,
       "user": "firecrawl"
     },
     {
@@ -2048,7 +2035,7 @@
       "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
       "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "python",
@@ -2062,7 +2049,7 @@
       "title": "Modifying a class list results in no modification of the list",
       "url": "https://stackoverflow.com/questions/79991677/modifying-a-class-list-results-in-no-modification-of-the-list",
       "published_at": "2026-08-09T14:03:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "list",
@@ -2098,6 +2085,21 @@
       "user": "Damian Fernando D"
     },
     {
+      "title": "Threading Flask and 'while' loop",
+      "url": "https://stackoverflow.com/questions/79991465/threading-flask-and-while-loop",
+      "published_at": "2026-08-08T01:32:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "flask",
+        "while-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hamza lion"
+    },
+    {
       "title": "Item index in a for loop",
       "url": "https://stackoverflow.com/questions/79991612/item-index-in-a-for-loop",
       "published_at": "2026-08-08T19:37:49.000Z",
@@ -2125,21 +2127,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
-    },
-    {
-      "title": "Threading flask and while loop",
-      "url": "https://stackoverflow.com/questions/79991465/threading-flask-and-while-loop",
-      "published_at": "2026-08-08T01:32:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "flask",
-        "while-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hamza lion"
     },
     {
       "title": "Unexpected interaction between list comprehensions, late-binding closures, and in-place mutation in Python loop scopes",
@@ -2212,21 +2199,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
-    },
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
@@ -2438,24 +2410,10 @@
       "user": "velmu"
     },
     {
-      "title": "What Software is Made Of (2015)",
-      "url": "https://siderea.dreamwidth.org/1219758.html",
-      "published_at": "2026-08-09T07:26:37.872-05:00",
-      "description": "Try [Internet Archive mirror](https://web.archive.org/web/20260730202909/https://siderea.dreamwidth.org/1219758.html) if the website doesn't load.",
-      "tags": [
-        "philosophy",
-        "practices",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "n3t"
-    },
-    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "css",
@@ -2483,7 +2441,7 @@
       "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
       "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "python",
@@ -2568,7 +2526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "WhiteDNS"
     },
     {
@@ -2583,7 +2541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 218,
       "user": "Appllama"
     },
     {
@@ -2885,7 +2843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "forever94yu"
     }
   ],
@@ -3221,21 +3179,6 @@
       "user": "xbill"
     },
     {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
       "published_at": "2026-07-28T18:58:24Z",
@@ -3371,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "google-gemma"
     },
     {
@@ -3386,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 432,
       "user": "eternityspring"
     },
     {
@@ -3401,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "nkxx188"
     },
     {
@@ -3416,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3431,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2069,
       "user": "KKKKhazix"
     },
     {
@@ -3446,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 615,
       "user": "ShawnPana"
     },
     {
@@ -3461,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 575,
       "user": "jd-opensource"
     },
     {
@@ -3476,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 524,
       "user": "T8mars"
     },
     {
@@ -3491,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 472,
+      "stars": 474,
       "user": "AMAP-ML"
     },
     {
@@ -3506,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "WhiteDNS"
     },
     {
@@ -3521,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 74,
+      "stars": 76,
       "user": "MengMengCode"
     },
     {
@@ -3536,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 48,
       "user": "Zesuy"
     },
     {
@@ -3551,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "forever94yu"
     },
     {
@@ -3581,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "wumingqi60"
     },
     {
@@ -3596,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "openTrinity"
     },
     {
@@ -3626,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 218,
       "user": "Appllama"
     },
     {
@@ -3656,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12532,
+      "stars": 12549,
       "user": "firecrawl"
     },
     {
@@ -3716,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "Andiveli"
     },
     {
@@ -3734,20 +3677,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "published_at": "2026-08-07T21:30:11.000Z",
-      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Rippling"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
