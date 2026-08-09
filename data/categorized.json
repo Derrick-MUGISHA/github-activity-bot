@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 473,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2089,
+      "stars": 2090,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "jd-opensource"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 90,
       "user": "MengMengCode"
     },
     {
@@ -878,6 +878,21 @@
       "user": "lnhubbell"
     },
     {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "published_at": "2026-08-09T19:20:32.000Z",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Anthropic",
+        "claude code"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
       "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
       "published_at": "2026-08-09T16:05:00.000Z",
@@ -980,22 +995,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "published_at": "2026-08-08T15:00:00.000Z",
-      "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-      "tags": [
-        "Security",
-        "advanced persistent threat",
-        "apt",
-        "cybercrime",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1346,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "0xwilliamortiz"
     },
     {
@@ -1361,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 679,
       "user": "google-gemma"
     },
     {
@@ -1376,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 473,
       "user": "eternityspring"
     },
     {
@@ -1466,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "Appllama"
     },
     {
@@ -1496,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12630,
+      "stars": 12642,
       "user": "firecrawl"
     },
     {
@@ -1882,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2089,
+      "stars": 2090,
       "user": "KKKKhazix"
     },
     {
@@ -1897,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 747,
       "user": "ShawnPana"
     },
     {
@@ -1912,8 +1911,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "jd-opensource"
+    },
+    {
+      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "published_at": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
+      "source": "GitHub",
+      "stars": 541,
+      "user": "oil-oil"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -1931,21 +1945,6 @@
       "user": "T8mars"
     },
     {
-      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
-      "url": "https://github.com/oil-oil/oil-motion",
-      "published_at": "2026-08-07T12:36:33Z",
-      "description": "Create smooth, responsive interactive web animations.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 535,
-      "user": "oil-oil"
-    },
-    {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "url": "https://github.com/firecrawl/anydoc",
       "published_at": "2026-08-03T16:36:14Z",
@@ -1957,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12630,
+      "stars": 12642,
       "user": "firecrawl"
     },
     {
@@ -1979,7 +1978,7 @@
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python"
       ],
@@ -2528,7 +2527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "Appllama"
     },
     {
@@ -2859,7 +2858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "0xwilliamortiz"
     },
     {
@@ -3069,7 +3068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "0xwilliamortiz"
     },
     {
@@ -3102,22 +3101,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "published_at": "2026-08-08T15:00:00.000Z",
-      "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-      "tags": [
-        "Security",
-        "advanced persistent threat",
-        "apt",
-        "cybercrime",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
@@ -3288,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "0xwilliamortiz"
     },
     {
@@ -3303,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 679,
       "user": "google-gemma"
     },
     {
@@ -3318,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 473,
       "user": "eternityspring"
     },
     {
@@ -3363,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2089,
+      "stars": 2090,
       "user": "KKKKhazix"
     },
     {
@@ -3378,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 732,
+      "stars": 747,
       "user": "ShawnPana"
     },
     {
@@ -3393,8 +3376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 587,
       "user": "jd-opensource"
+    },
+    {
+      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "published_at": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
+      "source": "GitHub",
+      "stars": 541,
+      "user": "oil-oil"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -3410,21 +3408,6 @@
       "source": "GitHub",
       "stars": 540,
       "user": "T8mars"
-    },
-    {
-      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
-      "url": "https://github.com/oil-oil/oil-motion",
-      "published_at": "2026-08-07T12:36:33Z",
-      "description": "Create smooth, responsive interactive web animations.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 535,
-      "user": "oil-oil"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -3453,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 90,
       "user": "MengMengCode"
     },
     {
@@ -3498,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266401714?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 57,
       "user": "KoleCheckley"
     },
     {
@@ -3558,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 241,
       "user": "Appllama"
     },
     {
@@ -3588,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12630,
+      "stars": 12642,
       "user": "firecrawl"
     },
     {
