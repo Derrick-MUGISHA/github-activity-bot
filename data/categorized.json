@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
     },
     {
       "title": "How to Build a Local AI Workspace Like PewDiePie's Odysseus: Hardware, Models, and Cost",
@@ -705,36 +705,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 621,
-      "user": "sophiamyang"
-    },
-    {
-      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "published_at": "2026-08-06T10:38:49Z",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "eternityspring"
-    },
-    {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
       "published_at": "2026-08-05T01:19:41Z",
@@ -746,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1987,
+      "stars": 1989,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 520,
       "user": "jd-opensource"
     },
     {
@@ -780,19 +750,19 @@
       "user": "SandAI-org"
     },
     {
-      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
-      "url": "https://github.com/magicrew/doc7",
-      "published_at": "2026-08-02T14:03:55Z",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 727,
-      "user": "magicrew"
+      "stars": 411,
+      "user": "AMAP-ML"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -825,19 +795,34 @@
       "user": "kylan11"
     },
     {
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "published_at": "2026-08-02T11:15:16Z",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "title": "forever94yu/icloud-prime - Local iCloud Hide My Email management console",
+      "url": "https://github.com/forever94yu/icloud-prime",
+      "published_at": "2026-08-08T14:35:00Z",
+      "description": "Local iCloud Hide My Email management console",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 2034,
-      "user": "thebuggeddev"
+      "stars": 34,
+      "user": "forever94yu"
+    },
+    {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 33,
+      "user": "espressif"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -853,6 +838,36 @@
       "source": "GitHub",
       "stars": 419,
       "user": "criptogus"
+    },
+    {
+      "title": "margelo/ai-chat-demo - GitHub Repository",
+      "url": "https://github.com/margelo/ai-chat-demo",
+      "published_at": "2026-08-04T10:09:41Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
+      "source": "GitHub",
+      "stars": 157,
+      "user": "margelo"
+    },
+    {
+      "title": "harrietbrooke/NeuralEdge - Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence.",
+      "url": "https://github.com/harrietbrooke/NeuralEdge",
+      "published_at": "2026-08-03T17:38:03Z",
+      "description": "Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301762394?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "harrietbrooke"
     },
     {
       "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
@@ -882,19 +897,6 @@
       "user": "hugoarnal"
     },
     {
-      "title": "Why something executes before something else?",
-      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
-      "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "async-await"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
       "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
       "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
       "published_at": "2026-08-07T09:40:04.000Z",
@@ -909,6 +911,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ashutosh Shukla"
+    },
+    {
+      "title": "Why something executes before something else?",
+      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
+      "published_at": "2026-08-07T12:39:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "async-await"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luna"
     },
     {
       "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
@@ -1404,96 +1419,6 @@
       "user": "velmu"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 681,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 621,
-      "user": "sophiamyang"
-    },
-    {
-      "title": "google-gemma/gemma-translator - GitHub Repository",
-      "url": "https://github.com/google-gemma/gemma-translator",
-      "published_at": "2026-08-03T18:50:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "google-gemma"
-    },
-    {
-      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "published_at": "2026-08-06T10:38:49Z",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "eternityspring"
-    },
-    {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
-      "source": "GitHub",
-      "stars": 207,
-      "user": "nkxx188"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "disler"
-    },
-    {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
       "url": "https://github.com/kylan11/understudy",
       "published_at": "2026-08-05T13:18:53Z",
@@ -1509,21 +1434,6 @@
       "user": "kylan11"
     },
     {
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "published_at": "2026-08-02T11:15:16Z",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
-      "source": "GitHub",
-      "stars": 2034,
-      "user": "thebuggeddev"
-    },
-    {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
       "url": "https://github.com/wumingqi60/lingxi",
       "published_at": "2026-08-03T05:46:34Z",
@@ -1535,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 571,
       "user": "wumingqi60"
     },
     {
@@ -1565,23 +1475,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 418,
       "user": "openTrinity"
     },
     {
-      "title": "alexngdev99/rork-medieval-3d-chess - Created by Rork",
-      "url": "https://github.com/alexngdev99/rork-medieval-3d-chess",
-      "published_at": "2026-08-02T14:09:39Z",
-      "description": "Created by Rork",
+      "title": "margelo/ai-chat-demo - GitHub Repository",
+      "url": "https://github.com/margelo/ai-chat-demo",
+      "published_at": "2026-08-04T10:09:41Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 225,
-      "user": "alexngdev99"
+      "stars": 157,
+      "user": "margelo"
+    },
+    {
+      "title": "harrietbrooke/NeuralEdge - Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence.",
+      "url": "https://github.com/harrietbrooke/NeuralEdge",
+      "published_at": "2026-08-03T17:38:03Z",
+      "description": "Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301762394?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "harrietbrooke"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -1595,14 +1520,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12104,
+      "stars": 12158,
       "user": "firecrawl"
     },
     {
       "title": "Pointers and references in Javascript",
       "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
       "published_at": "2026-08-08T22:56:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript"
       ],
@@ -1668,19 +1593,6 @@
       "user": "Loliland Wizard"
     },
     {
-      "title": "Why something executes before something else?",
-      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
-      "published_at": "2026-08-07T12:39:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "async-await"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
       "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
       "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
       "published_at": "2026-08-07T09:40:04.000Z",
@@ -1695,6 +1607,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ashutosh Shukla"
+    },
+    {
+      "title": "Why something executes before something else?",
+      "url": "https://stackoverflow.com/questions/79991337/why-something-executes-before-something-else",
+      "published_at": "2026-08-07T12:39:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "async-await"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Luna"
     },
     {
       "title": "Fixing a GNOME Shell St.ScrollView 1px layout collapse under unconstrained sizing queries",
@@ -1967,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1987,
+      "stars": 1989,
       "user": "KKKKhazix"
     },
     {
@@ -1982,23 +1907,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 520,
       "user": "jd-opensource"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "disler"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -2012,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 468,
       "user": "T8mars"
     },
     {
@@ -2031,6 +1941,21 @@
       "user": "SandAI-org"
     },
     {
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "source": "GitHub",
+      "stars": 411,
+      "user": "AMAP-ML"
+    },
+    {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "url": "https://github.com/firecrawl/anydoc",
       "published_at": "2026-08-03T16:36:14Z",
@@ -2042,14 +1967,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12104,
+      "stars": 12158,
       "user": "firecrawl"
     },
     {
       "title": "Item index in a for loop",
       "url": "https://stackoverflow.com/questions/79991612/item-index-in-a-for-loop",
       "published_at": "2026-08-08T19:37:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "dataframe"
@@ -2436,19 +2361,19 @@
       "user": "velmu"
     },
     {
-      "title": "codetesla51/barrage - Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "url": "https://github.com/codetesla51/barrage",
-      "published_at": "2026-08-02T17:21:16Z",
-      "description": "Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
       "source": "GitHub",
-      "stars": 73,
-      "user": "codetesla51"
+      "stars": 33,
+      "user": "espressif"
     },
     {
       "title": "Im confused about changing a background image with a confirm()",
@@ -2818,6 +2743,36 @@
       "user": "Evan Lin"
     },
     {
+      "title": "forever94yu/icloud-prime - Local iCloud Hide My Email management console",
+      "url": "https://github.com/forever94yu/icloud-prime",
+      "published_at": "2026-08-08T14:35:00Z",
+      "description": "Local iCloud Hide My Email management console",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
+      "source": "GitHub",
+      "stars": 34,
+      "user": "forever94yu"
+    },
+    {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 33,
+      "user": "espressif"
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published_at": "2026-08-07T16:16:09.000Z",
@@ -2845,36 +2800,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 681,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "codetesla51/barrage - Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "url": "https://github.com/codetesla51/barrage",
-      "published_at": "2026-08-02T17:21:16Z",
-      "description": "Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "codetesla51"
     }
   ],
   "Security": [
@@ -3069,33 +2994,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 681,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "OpenSSH Key Structure Guide",
-      "url": "https://sshref.dev/",
-      "published_at": "2026-08-08T13:22:36.847-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "BD103"
     },
     {
       "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
@@ -3298,81 +3196,6 @@
       "user": "pabs3"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 681,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "sophiamyang/finger-frame-effect-ai - GitHub Repository",
-      "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "published_at": "2026-08-02T21:58:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/39501859?v=4",
-      "source": "GitHub",
-      "stars": 621,
-      "user": "sophiamyang"
-    },
-    {
-      "title": "google-gemma/gemma-translator - GitHub Repository",
-      "url": "https://github.com/google-gemma/gemma-translator",
-      "published_at": "2026-08-03T18:50:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "google-gemma"
-    },
-    {
-      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "published_at": "2026-08-06T10:38:49Z",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "eternityspring"
-    },
-    {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
-      "source": "GitHub",
-      "stars": 207,
-      "user": "nkxx188"
-    },
-    {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "url": "https://github.com/KKKKhazix/human-writing",
       "published_at": "2026-08-05T01:19:41Z",
@@ -3384,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1987,
+      "stars": 1989,
       "user": "KKKKhazix"
     },
     {
@@ -3399,23 +3222,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 520,
       "user": "jd-opensource"
-    },
-    {
-      "title": "disler/super-simple-software-factory - Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "url": "https://github.com/disler/super-simple-software-factory",
-      "published_at": "2026-08-02T17:41:00Z",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7570811?v=4",
-      "source": "GitHub",
-      "stars": 516,
-      "user": "disler"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -3429,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 468,
       "user": "T8mars"
     },
     {
@@ -3448,19 +3256,19 @@
       "user": "SandAI-org"
     },
     {
-      "title": "magicrew/doc7 - Turn documents into AI-ready Markdown with visual understanding",
-      "url": "https://github.com/magicrew/doc7",
-      "published_at": "2026-08-02T14:03:55Z",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "published_at": "2026-08-04T04:30:58Z",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266043650?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 727,
-      "user": "magicrew"
+      "stars": 411,
+      "user": "AMAP-ML"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -3478,21 +3286,6 @@
       "user": "WhiteDNS"
     },
     {
-      "title": "codetesla51/barrage - Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "url": "https://github.com/codetesla51/barrage",
-      "published_at": "2026-08-02T17:21:16Z",
-      "description": "Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bottleneck — with a shareable HTML report",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149274873?v=4",
-      "source": "GitHub",
-      "stars": 73,
-      "user": "codetesla51"
-    },
-    {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
       "url": "https://github.com/kylan11/understudy",
       "published_at": "2026-08-05T13:18:53Z",
@@ -3508,34 +3301,49 @@
       "user": "kylan11"
     },
     {
-      "title": "atoonk/wireblast - A fast, easy-to-use AF_XDP traffic generator for Linux",
-      "url": "https://github.com/atoonk/wireblast",
-      "published_at": "2026-08-02T02:06:36Z",
-      "description": "A fast, easy-to-use AF_XDP traffic generator for Linux",
+      "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
+      "url": "https://github.com/cr-zhichen/DJOneHubNative",
+      "published_at": "2026-08-05T02:51:22Z",
+      "description": "DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10093084?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
       "source": "GitHub",
-      "stars": 40,
-      "user": "atoonk"
+      "stars": 36,
+      "user": "cr-zhichen"
     },
     {
-      "title": "thebuggeddev/anatomy - An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "url": "https://github.com/thebuggeddev/anatomy",
-      "published_at": "2026-08-02T11:15:16Z",
-      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "title": "forever94yu/icloud-prime - Local iCloud Hide My Email management console",
+      "url": "https://github.com/forever94yu/icloud-prime",
+      "published_at": "2026-08-08T14:35:00Z",
+      "description": "Local iCloud Hide My Email management console",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/228721029?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 2034,
-      "user": "thebuggeddev"
+      "stars": 34,
+      "user": "forever94yu"
+    },
+    {
+      "title": "espressif/esp-rainmaker-neo - ESP RainMaker Neo Cloud Backend",
+      "url": "https://github.com/espressif/esp-rainmaker-neo",
+      "published_at": "2026-08-04T04:03:48Z",
+      "description": "ESP RainMaker Neo Cloud Backend",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "source": "GitHub",
+      "stars": 33,
+      "user": "espressif"
     },
     {
       "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
@@ -3549,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 571,
       "user": "wumingqi60"
     },
     {
@@ -3579,23 +3387,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 418,
       "user": "openTrinity"
     },
     {
-      "title": "alexngdev99/rork-medieval-3d-chess - Created by Rork",
-      "url": "https://github.com/alexngdev99/rork-medieval-3d-chess",
-      "published_at": "2026-08-02T14:09:39Z",
-      "description": "Created by Rork",
+      "title": "margelo/ai-chat-demo - GitHub Repository",
+      "url": "https://github.com/margelo/ai-chat-demo",
+      "published_at": "2026-08-04T10:09:41Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118056890?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 225,
-      "user": "alexngdev99"
+      "stars": 157,
+      "user": "margelo"
+    },
+    {
+      "title": "harrietbrooke/NeuralEdge - Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence.",
+      "url": "https://github.com/harrietbrooke/NeuralEdge",
+      "published_at": "2026-08-03T17:38:03Z",
+      "description": "Dynamically parallel data ingestion and adaptive analytics converge in real-time, forging resilient enterprise intelligence.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/301762394?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "harrietbrooke"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -3609,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12104,
+      "stars": 12158,
       "user": "firecrawl"
     },
     {
@@ -3639,23 +3462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "cristicretu"
-    },
-    {
-      "title": "Gaoshu705/QzoneArchive - 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
-      "url": "https://github.com/Gaoshu705/QzoneArchive",
-      "published_at": "2026-08-02T19:53:30Z",
-      "description": "将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207906163?v=4",
-      "source": "GitHub",
-      "stars": 218,
-      "user": "Gaoshu705"
     },
     {
       "title": "ikuV/deident-wasm - Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
@@ -3671,6 +3479,21 @@
       "source": "GitHub",
       "stars": 135,
       "user": "ikuV"
+    },
+    {
+      "title": "Andiveli/wptui - Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
+      "url": "https://github.com/Andiveli/wptui",
+      "published_at": "2026-08-03T03:59:51Z",
+      "description": "Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "Andiveli"
     },
     {
       "title": "How to test PlateJs Marks with React Testing Library",
