@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 444,
       "user": "eternityspring"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2072,
       "user": "KKKKhazix"
     },
     {
@@ -720,21 +720,6 @@
       "user": "jd-opensource"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
-      "source": "GitHub",
-      "stars": 474,
-      "user": "AMAP-ML"
-    },
-    {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
       "published_at": "2026-08-05T12:44:16Z",
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "WhiteDNS"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 80,
       "user": "MengMengCode"
     },
     {
@@ -928,11 +913,11 @@
       "published_at": "2026-08-09T15:00:00.000Z",
       "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
       "tags": [
-        "Media & Entertainment",
         "AI",
         "Government & Policy",
-        "Elon Musk",
-        "sam altman"
+        "Media & Entertainment",
+        "AI policy",
+        "AI regulation"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1388,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "0xwilliamortiz"
     },
     {
@@ -1403,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "google-gemma"
     },
     {
@@ -1418,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 444,
       "user": "eternityspring"
     },
     {
@@ -1478,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "wumingqi60"
     },
     {
@@ -1493,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 509,
       "user": "openTrinity"
     },
     {
@@ -1523,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "Appllama"
     },
     {
@@ -1553,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12549,
+      "stars": 12561,
       "user": "firecrawl"
     },
     {
@@ -1581,19 +1566,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lproductions"
-    },
-    {
-      "title": "Why currentUser below is empty while currentUser above is not?",
-      "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
-      "published_at": "2026-08-07T15:07:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "XavierLM"
     },
     {
       "title": "How to delete from a sorted array without O(n)",
@@ -1698,6 +1670,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luke Dennis"
+    },
+    {
+      "title": "Preloading Google Fonts",
+      "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
+      "published_at": "2018-06-12T19:07:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 58",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "reactjs",
+        "lighthouse"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wildair"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
@@ -1938,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2072,
       "user": "KKKKhazix"
     },
     {
@@ -1953,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 641,
       "user": "ShawnPana"
     },
     {
@@ -1983,23 +1971,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 526,
       "user": "T8mars"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "published_at": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 474,
-      "user": "AMAP-ML"
+      "stars": 484,
+      "user": "oil-oil"
     },
     {
       "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
@@ -2013,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12549,
+      "stars": 12561,
       "user": "firecrawl"
     },
     {
@@ -2063,7 +2051,7 @@
       "title": "Unable to chose a date from a “Date Picker” in selenium python",
       "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
       "published_at": "2026-08-09T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "selenium-webdriver"
@@ -2076,7 +2064,7 @@
       "title": "How to reduce the time taken to solve cses problem number 2?",
       "url": "https://stackoverflow.com/questions/79991602/how-to-reduce-the-time-taken-to-solve-cses-problem-number-2",
       "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2103,7 +2091,7 @@
       "title": "Item index in a for loop",
       "url": "https://stackoverflow.com/questions/79991612/item-index-in-a-for-loop",
       "published_at": "2026-08-08T19:37:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "python",
         "dataframe"
@@ -2410,6 +2398,20 @@
       "user": "velmu"
     },
     {
+      "title": "What Software is Made Of (2015)",
+      "url": "https://siderea.dreamwidth.org/1219758.html",
+      "published_at": "2026-08-09T07:26:37.872-05:00",
+      "description": "Try [Internet Archive mirror](https://web.archive.org/web/20260730202909/https://siderea.dreamwidth.org/1219758.html) if the website doesn't load.",
+      "tags": [
+        "philosophy",
+        "practices",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "n3t"
+    },
+    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
@@ -2436,6 +2438,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zubair Fathi"
+    },
+    {
+      "title": "Preloading Google Fonts",
+      "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
+      "published_at": "2018-06-12T19:07:13.000Z",
+      "description": "Stack Overflow question · 3 answers · score 58",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "reactjs",
+        "lighthouse"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wildair"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
@@ -2526,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "WhiteDNS"
     },
     {
@@ -2541,7 +2559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "Appllama"
     },
     {
@@ -2872,7 +2890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "0xwilliamortiz"
     },
     {
@@ -3082,7 +3100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "0xwilliamortiz"
     },
     {
@@ -3299,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "0xwilliamortiz"
     },
     {
@@ -3314,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "google-gemma"
     },
     {
@@ -3329,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 432,
+      "stars": 444,
       "user": "eternityspring"
     },
     {
@@ -3374,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2069,
+      "stars": 2072,
       "user": "KKKKhazix"
     },
     {
@@ -3389,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 641,
       "user": "ShawnPana"
     },
     {
@@ -3419,23 +3437,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 526,
       "user": "T8mars"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "published_at": "2026-08-04T04:30:58Z",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "published_at": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 474,
-      "user": "AMAP-ML"
+      "stars": 484,
+      "user": "oil-oil"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -3449,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "WhiteDNS"
     },
     {
@@ -3464,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 80,
       "user": "MengMengCode"
     },
     {
@@ -3479,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 51,
       "user": "Zesuy"
     },
     {
@@ -3524,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 697,
       "user": "wumingqi60"
     },
     {
@@ -3539,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 509,
       "user": "openTrinity"
     },
     {
@@ -3569,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "Appllama"
     },
     {
@@ -3599,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12549,
+      "stars": 12561,
       "user": "firecrawl"
     },
     {

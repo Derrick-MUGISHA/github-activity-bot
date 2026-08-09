@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4) | Dev.to |
 | 20 | [Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together](https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0) | Dev.to |
 
-<sub>Last fetched: Sun, 09 Aug 2026 17:21:11 CAT</sub>
+<sub>Last fetched: Sun, 09 Aug 2026 17:56:01 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**1. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Sliding window, hash map, two pointers
 
 </details>
 
-**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**2. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**3. `DataStructures` — Find the median of two sorted arrays**
+**3. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 79 | 43.9% | `████████████████████` |
+| **AI** | 78 | 43.3% | `████████████████████` |
 | **JavaScript** | 42 | 23.3% | `███████████░░░░░░░░░` |
 | **Tools** | 38 | 21.1% | `██████████░░░░░░░░░░` |
 | **Python** | 33 | 18.3% | `████████░░░░░░░░░░░░` |
 | **Security** | 20 | 11.1% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.9% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 5.0% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 9 | 5.0% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 7 | 3.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.6%
-Go              █████████████████████████████ 25.9%
-Python          ████████████████████████ 20.9%
-Java            ███████████████████████ 20.3%
+JavaScript      ██████████████████████████████ 26.4%
+Go              ██████████████████████████████ 26.4%
+Python          ████████████████████████ 20.8%
+Java            ███████████████████████ 20.1%
 Rust            ████ 3.8%
 Kotlin          █ 1.3%
 Swift           █ 0.6%
@@ -208,7 +208,7 @@ Ruby            █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 42
-    "Go" : 41
+    "Go" : 42
     "Python" : 33
     "Java" : 32
     "Rust" : 6
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 15:21:11 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 09 Aug 2026 15:56:01 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
