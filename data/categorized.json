@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 417,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2054,
+      "stars": 2062,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 570,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 469,
       "user": "AMAP-ML"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 70,
       "user": "MengMengCode"
     },
     {
@@ -855,18 +855,6 @@
       "user": "HaidarJbeily7"
     },
     {
-      "title": "some software talks i like",
-      "url": "https://char.lt/blog/2026/08/talks-i-like/",
-      "published_at": "2026-08-08T08:48:36.676-05:00",
-      "description": "Not tagged as video but contains mostly links to videos",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hugoarnal"
-    },
-    {
       "title": "Rails is done",
       "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
       "published_at": "2026-08-09T02:14:28.028-05:00",
@@ -878,6 +866,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "henrycatalinismith"
+    },
+    {
+      "title": "some software talks i like",
+      "url": "https://char.lt/blog/2026/08/talks-i-like/",
+      "published_at": "2026-08-08T08:48:36.676-05:00",
+      "description": "Not tagged as video but contains mostly links to videos",
+      "tags": [
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
     },
     {
       "title": "Why does Next.js dynamic import fail with \"window is not defined\" during server-side rendering?",
@@ -907,6 +907,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
+    },
+    {
+      "title": "React Error: Target Container is not a DOM Element",
+      "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
+      "published_at": "2014-10-17T01:03:11.000Z",
+      "description": "Stack Overflow question · 13 answers · score 116",
+      "tags": [
+        "javascript",
+        "django",
+        "dom",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lnhubbell"
     },
     {
       "title": "asyncio.shield() protects my in-flight LLM call from cancellation, but I lose the ability to know when it actually finishes",
@@ -1033,20 +1048,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "published_at": "2026-08-07T21:00:08.000Z",
-      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "poland"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1397,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "0xwilliamortiz"
     },
     {
@@ -1412,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 660,
       "user": "google-gemma"
     },
     {
@@ -1427,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 417,
       "user": "eternityspring"
     },
     {
@@ -1457,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1487,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 675,
       "user": "wumingqi60"
     },
     {
@@ -1502,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 497,
       "user": "openTrinity"
     },
     {
@@ -1532,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 207,
       "user": "Appllama"
     },
     {
@@ -1562,7 +1563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12476,
+      "stars": 12506,
       "user": "firecrawl"
     },
     {
@@ -1664,21 +1665,6 @@
       "user": "Luna"
     },
     {
-      "title": "Javascript generator only running through one array",
-      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
-      "published_at": "2026-08-05T05:53:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "arrays",
-        "random",
-        "text"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Explorer"
-    },
-    {
       "title": "What is the difference between link wrapping and 'use client' in Next.js?",
       "url": "https://stackoverflow.com/questions/79987549/what-is-the-difference-between-link-wrapping-and-use-client-in-next-js",
       "published_at": "2026-07-28T15:26:45.000Z",
@@ -1705,6 +1691,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zubair Fathi"
+    },
+    {
+      "title": "React Error: Target Container is not a DOM Element",
+      "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
+      "published_at": "2014-10-17T01:03:11.000Z",
+      "description": "Stack Overflow question · 13 answers · score 116",
+      "tags": [
+        "javascript",
+        "django",
+        "dom",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lnhubbell"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1931,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2054,
+      "stars": 2062,
       "user": "KKKKhazix"
     },
     {
@@ -1946,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 570,
       "user": "jd-opensource"
     },
     {
@@ -1961,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 559,
       "user": "ShawnPana"
     },
     {
@@ -1976,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 518,
       "user": "T8mars"
     },
     {
@@ -1991,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 469,
       "user": "AMAP-ML"
     },
     {
@@ -2006,8 +2007,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12476,
+      "stars": 12506,
       "user": "firecrawl"
+    },
+    {
+      "title": "React Error: Target Container is not a DOM Element",
+      "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
+      "published_at": "2014-10-17T01:03:11.000Z",
+      "description": "Stack Overflow question · 13 answers · score 116",
+      "tags": [
+        "javascript",
+        "django",
+        "dom",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lnhubbell"
+    },
+    {
+      "title": "Unable to chose a date from a “Date Picker” in selenium python",
+      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
+      "published_at": "2026-08-09T13:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soroush Kalantari"
     },
     {
       "title": "How to reduce the time taken to solve cses problem number 2?",
@@ -2035,18 +2064,20 @@
       "user": "user1"
     },
     {
-      "title": "How can I create a ribbon in a Tk window with Python Tkinter pack?",
-      "url": "https://stackoverflow.com/questions/79991500/how-can-i-create-a-ribbon-in-a-tk-window-with-python-tkinter-pack",
-      "published_at": "2026-08-08T07:18:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "SQL Server backup to rustfs gives Operating system error 12175",
+      "url": "https://stackoverflow.com/questions/79991227/sql-server-backup-to-rustfs-gives-operating-system-error-12175",
+      "published_at": "2026-08-07T05:54:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "tkinter",
-        "ribbon"
+        "sql-server",
+        "nginx",
+        "mssql-python",
+        "rustfs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
+      "user": "Dinesh"
     },
     {
       "title": "Threading flask and while loop",
@@ -2128,20 +2159,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "juliana"
-    },
-    {
-      "title": "Why does tf.function retrace when only the RaggedTensor row-splits dtype changes?",
-      "url": "https://stackoverflow.com/questions/79991283/why-does-tf-function-retrace-when-only-the-raggedtensor-row-splits-dtype-changes",
-      "published_at": "2026-08-07T09:30:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "tensorflow",
-        "tensorflow2.0"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "zzzCode"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2400,6 +2417,20 @@
       "user": "velmu"
     },
     {
+      "title": "What Software is Made Of (2015)",
+      "url": "https://siderea.dreamwidth.org/1219758.html",
+      "published_at": "2026-08-09T07:26:37.872-05:00",
+      "description": "Try [Internet Archive mirror](https://web.archive.org/web/20260730202909/https://siderea.dreamwidth.org/1219758.html) if the website doesn't load.",
+      "tags": [
+        "philosophy",
+        "practices",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "n3t"
+    },
+    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
@@ -2517,7 +2548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 207,
       "user": "Appllama"
     },
     {
@@ -2848,8 +2879,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "0xwilliamortiz"
+    },
+    {
+      "title": "SQL Server backup to rustfs gives Operating system error 12175",
+      "url": "https://stackoverflow.com/questions/79991227/sql-server-backup-to-rustfs-gives-operating-system-error-12175",
+      "published_at": "2026-08-07T05:54:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "sql-server",
+        "nginx",
+        "mssql-python",
+        "rustfs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dinesh"
     }
   ],
   "Security": [
@@ -3042,8 +3089,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "0xwilliamortiz"
+    },
+    {
+      "title": "This &#8216;adversarial&#8217; pattern can prevent surveillance cameras from detecting you",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "published_at": "2026-08-09T14:00:00.000Z",
+      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "tags": [
+        "Security",
+        "privacy",
+        "facial recognition",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Google&#8217;s top hacker hunter explains why hacking groups get codenames",
@@ -3073,20 +3135,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "published_at": "2026-08-07T21:00:08.000Z",
-      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "poland"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
@@ -3257,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "0xwilliamortiz"
     },
     {
@@ -3272,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 655,
+      "stars": 660,
       "user": "google-gemma"
     },
     {
@@ -3287,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 417,
       "user": "eternityspring"
     },
     {
@@ -3317,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 212,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3332,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2054,
+      "stars": 2062,
       "user": "KKKKhazix"
     },
     {
@@ -3347,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 570,
       "user": "jd-opensource"
     },
     {
@@ -3362,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 559,
       "user": "ShawnPana"
     },
     {
@@ -3377,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 518,
       "user": "T8mars"
     },
     {
@@ -3392,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/202896035?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 469,
       "user": "AMAP-ML"
     },
     {
@@ -3422,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 70,
       "user": "MengMengCode"
     },
     {
@@ -3482,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 675,
       "user": "wumingqi60"
     },
     {
@@ -3497,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 497,
       "user": "openTrinity"
     },
     {
@@ -3527,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 207,
       "user": "Appllama"
     },
     {
@@ -3557,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12476,
+      "stars": 12506,
       "user": "firecrawl"
     },
     {
@@ -3587,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "cristicretu"
     },
     {
@@ -3617,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "Andiveli"
     },
     {
