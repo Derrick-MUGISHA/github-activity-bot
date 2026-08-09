@@ -284,21 +284,6 @@
       "user": "John"
     },
     {
-      "title": "Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark",
-      "url": "https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4",
-      "published_at": "2026-08-03T07:31:29Z",
-      "description": "Abstract   Gemini Spark, Google's 24/7 autonomous AI agent, seamlessly connects with Google...",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "googleappsscript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8mztm71n5drur3m2k9gd.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
       "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
       "published_at": "2026-07-30T20:43:23Z",
@@ -507,6 +492,36 @@
       "user": "Meera9"
     },
     {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -686,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 451,
       "user": "eternityspring"
     },
     {
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2072,
+      "stars": 2078,
       "user": "KKKKhazix"
     },
     {
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 580,
       "user": "jd-opensource"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "WhiteDNS"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "MengMengCode"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 47,
       "user": "forever94yu"
     },
     {
@@ -908,6 +923,22 @@
       "user": "juliana"
     },
     {
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "published_at": "2026-08-09T16:05:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "Elon Musk",
+        "Tesla",
+        "zoox",
+        "techcrunch mobility"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "published_at": "2026-08-09T15:00:00.000Z",
@@ -1010,19 +1041,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "published_at": "2026-08-07T22:48:24.000Z",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1373,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "0xwilliamortiz"
     },
     {
@@ -1388,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "google-gemma"
     },
     {
@@ -1403,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 451,
       "user": "eternityspring"
     },
     {
@@ -1418,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 234,
       "user": "nkxx188"
     },
     {
@@ -1433,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1478,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 516,
       "user": "openTrinity"
     },
     {
@@ -1508,7 +1526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 226,
       "user": "Appllama"
     },
     {
@@ -1538,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12561,
+      "stars": 12581,
       "user": "firecrawl"
     },
     {
@@ -1688,8 +1706,8 @@
       "user": "wildair"
     },
     {
-      "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
+      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
@@ -1926,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2072,
+      "stars": 2078,
       "user": "KKKKhazix"
     },
     {
@@ -1941,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 664,
       "user": "ShawnPana"
     },
     {
@@ -1956,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 580,
       "user": "jd-opensource"
     },
     {
@@ -1971,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 532,
       "user": "T8mars"
     },
     {
@@ -1986,7 +2004,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 497,
       "user": "oil-oil"
     },
     {
@@ -2001,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12561,
+      "stars": 12581,
       "user": "firecrawl"
     },
     {
@@ -2020,8 +2038,8 @@
       "user": "lnhubbell"
     },
     {
-      "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
+      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
@@ -2037,7 +2055,7 @@
       "title": "Modifying a class list results in no modification of the list",
       "url": "https://stackoverflow.com/questions/79991677/modifying-a-class-list-results-in-no-modification-of-the-list",
       "published_at": "2026-08-09T14:03:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "list",
@@ -2202,6 +2220,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2398,20 +2431,6 @@
       "user": "velmu"
     },
     {
-      "title": "What Software is Made Of (2015)",
-      "url": "https://siderea.dreamwidth.org/1219758.html",
-      "published_at": "2026-08-09T07:26:37.872-05:00",
-      "description": "Try [Internet Archive mirror](https://web.archive.org/web/20260730202909/https://siderea.dreamwidth.org/1219758.html) if the website doesn't load.",
-      "tags": [
-        "philosophy",
-        "practices",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "n3t"
-    },
-    {
       "title": "Im confused about changing a background image with a confirm()",
       "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
       "published_at": "2026-08-08T00:27:35.000Z",
@@ -2456,8 +2475,8 @@
       "user": "wildair"
     },
     {
-      "title": "Are Flask HTTP requests from a Jinja template safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-safer-than-from-react-or-any-other",
+      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
@@ -2533,6 +2552,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
+      "published_at": "2026-07-28T18:25:43Z",
+      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
+      "tags": [
+        "kotlin",
+        "ai",
+        "gemini",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
       "published_at": "2026-08-05T12:44:16Z",
@@ -2544,7 +2578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "WhiteDNS"
     },
     {
@@ -2559,7 +2593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 226,
       "user": "Appllama"
     },
     {
@@ -2861,7 +2895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 47,
       "user": "forever94yu"
     }
   ],
@@ -2890,7 +2924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "0xwilliamortiz"
     },
     {
@@ -3100,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "0xwilliamortiz"
     },
     {
@@ -3149,19 +3183,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "published_at": "2026-08-07T22:48:24.000Z",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
@@ -3270,6 +3291,21 @@
       "user": "Sireesha Pulipati"
     },
     {
+      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+      "published_at": "2026-08-02T11:08:36Z",
+      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
+      "tags": [
+        "ai",
+        "devops",
+        "gitops",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
+      "source": "Dev.to",
+      "user": "Jitendra Gupta"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3317,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "0xwilliamortiz"
     },
     {
@@ -3332,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "google-gemma"
     },
     {
@@ -3347,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 451,
       "user": "eternityspring"
     },
     {
@@ -3362,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 234,
       "user": "nkxx188"
     },
     {
@@ -3377,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3392,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2072,
+      "stars": 2078,
       "user": "KKKKhazix"
     },
     {
@@ -3407,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 664,
       "user": "ShawnPana"
     },
     {
@@ -3422,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 580,
       "user": "jd-opensource"
     },
     {
@@ -3437,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 532,
       "user": "T8mars"
     },
     {
@@ -3452,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 497,
       "user": "oil-oil"
     },
     {
@@ -3467,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "WhiteDNS"
     },
     {
@@ -3482,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "MengMengCode"
     },
     {
@@ -3497,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 55,
       "user": "Zesuy"
     },
     {
@@ -3512,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 47,
       "user": "forever94yu"
     },
     {
@@ -3557,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 516,
       "user": "openTrinity"
     },
     {
@@ -3587,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 226,
       "user": "Appllama"
     },
     {
@@ -3617,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12561,
+      "stars": 12581,
       "user": "firecrawl"
     },
     {
@@ -3677,7 +3713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "Andiveli"
     },
     {
