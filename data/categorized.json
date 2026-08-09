@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 485,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 233,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2093,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "jd-opensource"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 101,
       "user": "MengMengCode"
     },
     {
@@ -858,11 +858,25 @@
       "published_at": "2026-08-09T10:37:14.432-05:00",
       "description": "I was reading [this post](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) and noticed the `vibecoding` had been applied. I’m not sure if this was applied by the lobste.rs team or by the author, but after reading the post it’s pretty clear that the only vibecoding involved  is mentioned in an appendix separate from the actual meat of the post, which was well written and the product of sole-human effort and care. This tag feels like a black mark on what are otherwise interesting posts and has the potential to filter out genuinely human content. In other words, I think the tag does not capture the nuances of actual LLM use and is perhaps being applied too broadly.\r\n\r\nedit: it now seems the tag has been removed on that post. I still feel this should be a point of discussion",
       "tags": [
-        "meta"
+        "meta",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "anex9d"
+    },
+    {
+      "title": "I got an email about resistance",
+      "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
+      "published_at": "2026-08-09T17:14:17.317-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "culture",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "untitaker"
     },
     {
       "title": "Rails is done",
@@ -876,19 +890,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "henrycatalinismith"
-    },
-    {
-      "title": "I got an email about resistance",
-      "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
-      "published_at": "2026-08-09T17:14:17.317-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "untitaker"
     },
     {
       "title": "React Error: Target Container is not a DOM Element",
@@ -1387,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "0xwilliamortiz"
     },
     {
@@ -1417,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 485,
       "user": "eternityspring"
     },
     {
@@ -1447,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 233,
       "user": "sv-number"
     },
     {
@@ -1522,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "Appllama"
     },
     {
@@ -1537,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312717042?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "halcyon-video"
     },
     {
@@ -1552,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12692,
+      "stars": 12697,
       "user": "firecrawl"
     },
     {
@@ -1936,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2093,
       "user": "KKKKhazix"
     },
     {
@@ -1951,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 811,
       "user": "ShawnPana"
     },
     {
@@ -1966,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "jd-opensource"
     },
     {
@@ -1981,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "oil-oil"
     },
     {
@@ -2011,7 +2012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12692,
+      "stars": 12697,
       "user": "firecrawl"
     },
     {
@@ -2597,7 +2598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "Appllama"
     },
     {
@@ -2916,7 +2917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "0xwilliamortiz"
     },
     {
@@ -3126,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "0xwilliamortiz"
     },
     {
@@ -3329,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 705,
       "user": "0xwilliamortiz"
     },
     {
@@ -3359,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 485,
       "user": "eternityspring"
     },
     {
@@ -3389,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 233,
       "user": "sv-number"
     },
     {
@@ -3404,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2092,
+      "stars": 2093,
       "user": "KKKKhazix"
     },
     {
@@ -3419,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 811,
       "user": "ShawnPana"
     },
     {
@@ -3434,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 596,
       "user": "jd-opensource"
     },
     {
@@ -3449,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 564,
       "user": "oil-oil"
     },
     {
@@ -3494,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 101,
       "user": "MengMengCode"
     },
     {
@@ -3509,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "Zesuy"
     },
     {
@@ -3599,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "Appllama"
     },
     {
@@ -3614,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312717042?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "halcyon-video"
     },
     {
@@ -3629,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
       "source": "GitHub",
-      "stars": 12692,
+      "stars": 12697,
       "user": "firecrawl"
     },
     {
