@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 548,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 266,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2102,
+      "stars": 2129,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 625,
       "user": "jd-opensource"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 115,
       "user": "MengMengCode"
     },
     {
@@ -866,23 +866,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "mikker"
-    },
-    {
-      "title": "p4r1ch4y/superfind - find your devices using bluetooth, available for CLI and Android ",
-      "url": "https://github.com/p4r1ch4y/superfind",
-      "published_at": "2026-08-05T13:00:47Z",
-      "description": "find your devices using bluetooth, available for CLI and Android ",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59067421?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "p4r1ch4y"
     },
     {
       "title": "Who Should Pay For Source Code Availability?",
@@ -898,19 +883,6 @@
       "user": "hugoarnal"
     },
     {
-      "title": "I think the vibecoding tag has gotten out of hand",
-      "url": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
-      "published_at": "2026-08-09T10:37:14.432-05:00",
-      "description": "I was reading [this post](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) and noticed the `vibecoding` had been applied. I’m not sure if this was applied by the lobste.rs team or by the author, but after reading the post it’s pretty clear that the only vibecoding involved  is mentioned in an appendix separate from the actual meat of the post, which was well written and the product of sole-human effort and care. This tag feels like a black mark on what are otherwise interesting posts and has the potential to filter out genuinely human content. In other words, I think the tag does not capture the nuances of actual LLM use and is perhaps being applied too broadly.\r\n\r\nedit: it now seems the tag has been removed on that post. I still feel this should be a point of discussion",
-      "tags": [
-        "meta",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "anex9d"
-    },
-    {
       "title": "I got an email about resistance",
       "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
       "published_at": "2026-08-09T17:14:17.317-05:00",
@@ -924,6 +896,19 @@
       "user": "untitaker"
     },
     {
+      "title": "I think the vibecoding tag has gotten out of hand",
+      "url": "https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand",
+      "published_at": "2026-08-09T10:37:14.432-05:00",
+      "description": "I was reading [this post](https://lobste.rs/s/x0jlp7/tracking_down_zsh_history_data_loss_bug) and noticed the `vibecoding` had been applied. I’m not sure if this was applied by the lobste.rs team or by the author, but after reading the post it’s pretty clear that the only vibecoding involved  is mentioned in an appendix separate from the actual meat of the post, which was well written and the product of sole-human effort and care. This tag feels like a black mark on what are otherwise interesting posts and has the potential to filter out genuinely human content. In other words, I think the tag does not capture the nuances of actual LLM use and is perhaps being applied too broadly.\r\n\r\nedit: it now seems the tag has been removed on that post. I still feel this should be a point of discussion",
+      "tags": [
+        "meta",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "anex9d"
+    },
+    {
       "title": "Rails is done",
       "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
       "published_at": "2026-08-09T02:14:28.028-05:00",
@@ -935,21 +920,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "henrycatalinismith"
-    },
-    {
-      "title": "React Error: Target Container is not a DOM Element",
-      "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
-      "published_at": "2014-10-17T01:03:11.000Z",
-      "description": "Stack Overflow question · 13 answers · score 116",
-      "tags": [
-        "javascript",
-        "django",
-        "dom",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lnhubbell"
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -1433,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "0xwilliamortiz"
     },
     {
@@ -1448,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 548,
       "user": "eternityspring"
     },
     {
@@ -1463,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 266,
       "user": "sv-number"
     },
     {
@@ -1478,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "nkxx188"
     },
     {
@@ -1493,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 229,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1538,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 269,
       "user": "Appllama"
     },
     {
@@ -1568,23 +1538,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 144,
       "user": "tanishqkancharla"
     },
     {
-      "title": "2023782whl/Mem-kb - Self-Evolving Enterprise Knowledge Base",
-      "url": "https://github.com/2023782whl/Mem-kb",
-      "published_at": "2026-08-06T03:34:56Z",
-      "description": "Self-Evolving Enterprise Knowledge Base",
+      "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "published_at": "2026-08-05T10:26:26Z",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102843792?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
       "stars": 134,
-      "user": "2023782whl"
+      "user": "UditAkhourii"
     },
     {
       "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
@@ -1605,7 +1575,7 @@
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript"
       ],
@@ -1626,19 +1596,17 @@
       "user": "Koolaid222"
     },
     {
-      "title": "How to delete from a sorted array without O(n)",
-      "url": "https://stackoverflow.com/questions/79991124/how-to-delete-from-a-sorted-array-without-on",
-      "published_at": "2026-08-06T19:43:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "How do I retrieve the shared facbook post links in bulk?",
+      "url": "https://stackoverflow.com/questions/79972560/how-do-i-retrieve-the-shared-facbook-post-links-in-bulk",
+      "published_at": "2026-07-02T10:30:57.000Z",
+      "description": "Stack Overflow question · 9 answers · score 0",
       "tags": [
-        "advice",
         "javascript",
-        "arrays",
-        "optimization"
+        "facebook"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Loliland Wizard"
+      "user": "T&#249;ng Nguyễn"
     },
     {
       "title": "Stuck in tutorial hell after 4 years: How do I build web sites and think independently?",
@@ -1667,21 +1635,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toji"
-    },
-    {
-      "title": "React Error: Target Container is not a DOM Element",
-      "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
-      "published_at": "2014-10-17T01:03:11.000Z",
-      "description": "Stack Overflow question · 13 answers · score 116",
-      "tags": [
-        "javascript",
-        "django",
-        "dom",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lnhubbell"
     },
     {
       "title": "jQuery SVG vs. Rapha&#235;l",
@@ -1740,6 +1693,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ravi Ram"
+    },
+    {
+      "title": "How do I customize the scrollbar in a Swiper JS slider?",
+      "url": "https://stackoverflow.com/questions/73482103/how-do-i-customize-the-scrollbar-in-a-swiper-js-slider",
+      "published_at": "2022-08-25T05:05:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "slider",
+        "swiper.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Channing Ellison"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -1980,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2102,
+      "stars": 2129,
       "user": "KKKKhazix"
     },
     {
@@ -1995,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 947,
       "user": "ShawnPana"
     },
     {
@@ -2010,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 625,
       "user": "jd-opensource"
     },
     {
@@ -2025,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 614,
       "user": "oil-oil"
     },
     {
@@ -2040,36 +2007,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 550,
       "user": "T8mars"
-    },
-    {
-      "title": "React Error: Target Container is not a DOM Element",
-      "url": "https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element",
-      "published_at": "2014-10-17T01:03:11.000Z",
-      "description": "Stack Overflow question · 13 answers · score 116",
-      "tags": [
-        "javascript",
-        "django",
-        "dom",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lnhubbell"
-    },
-    {
-      "title": "Addition without Operators",
-      "url": "https://stackoverflow.com/questions/79991789/addition-without-operators",
-      "published_at": "2026-08-09T22:15:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "dsa"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "PIYUSH MAURYA"
     },
     {
       "title": "Running a Class.method() when that module is imported",
@@ -2192,6 +2131,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anas Odeh"
+    },
+    {
+      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
+      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
+      "published_at": "2026-08-06T14:51:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "google-cloud-platform",
+        "concurrency",
+        "spacy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lightning_missile"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2453,7 +2408,7 @@
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript"
       ],
@@ -2624,23 +2579,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 269,
       "user": "Appllama"
-    },
-    {
-      "title": "p4r1ch4y/superfind - find your devices using bluetooth, available for CLI and Android ",
-      "url": "https://github.com/p4r1ch4y/superfind",
-      "published_at": "2026-08-05T13:00:47Z",
-      "description": "find your devices using bluetooth, available for CLI and Android ",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59067421?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "p4r1ch4y"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -2931,6 +2871,22 @@
       "source": "GitHub",
       "stars": 60,
       "user": "forever94yu"
+    },
+    {
+      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
+      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
+      "published_at": "2026-08-06T14:51:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "google-cloud-platform",
+        "concurrency",
+        "spacy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lightning_missile"
     }
   ],
   "Database": [
@@ -2958,7 +2914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "0xwilliamortiz"
     },
     {
@@ -3168,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "0xwilliamortiz"
     },
     {
@@ -3371,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 712,
       "user": "0xwilliamortiz"
     },
     {
@@ -3386,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 548,
       "user": "eternityspring"
     },
     {
@@ -3401,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 266,
       "user": "sv-number"
     },
     {
@@ -3416,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "nkxx188"
     },
     {
@@ -3431,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 229,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3446,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2102,
+      "stars": 2129,
       "user": "KKKKhazix"
     },
     {
@@ -3461,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 947,
       "user": "ShawnPana"
     },
     {
@@ -3476,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 625,
       "user": "jd-opensource"
     },
     {
@@ -3491,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 614,
       "user": "oil-oil"
     },
     {
@@ -3506,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 550,
       "user": "T8mars"
     },
     {
@@ -3536,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 115,
       "user": "MengMengCode"
     },
     {
@@ -3566,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "cr-zhichen"
     },
     {
@@ -3611,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 269,
       "user": "Appllama"
     },
     {
@@ -3641,23 +3597,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 144,
       "user": "tanishqkancharla"
     },
     {
-      "title": "2023782whl/Mem-kb - Self-Evolving Enterprise Knowledge Base",
-      "url": "https://github.com/2023782whl/Mem-kb",
-      "published_at": "2026-08-06T03:34:56Z",
-      "description": "Self-Evolving Enterprise Knowledge Base",
+      "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "published_at": "2026-08-05T10:26:26Z",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102843792?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
       "stars": 134,
-      "user": "2023782whl"
+      "user": "UditAkhourii"
     },
     {
       "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
@@ -3671,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "cristicretu"
     },
     {
@@ -3701,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "mikker"
     },
     {
@@ -3720,19 +3676,19 @@
       "user": "Flaminis"
     },
     {
-      "title": "p4r1ch4y/superfind - find your devices using bluetooth, available for CLI and Android ",
-      "url": "https://github.com/p4r1ch4y/superfind",
-      "published_at": "2026-08-05T13:00:47Z",
-      "description": "find your devices using bluetooth, available for CLI and Android ",
+      "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
+      "url": "https://github.com/tllovesxs/cc-switch-route",
+      "published_at": "2026-08-08T01:55:40Z",
+      "description": "cc-swith的路由加强,无侵入,打开即用",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59067421?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 72,
-      "user": "p4r1ch4y"
+      "stars": 75,
+      "user": "tllovesxs"
     },
     {
       "title": "The AI safety test is becoming a safety risk",
