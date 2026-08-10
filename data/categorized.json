@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2266,
+      "stars": 2271,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 715,
       "user": "jd-opensource"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "MengMengCode"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "forever94yu"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "SMNETSTUDIO"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "JohnKinyanjui"
     },
     {
@@ -979,6 +979,37 @@
       "user": "Rebecca Bellan"
     },
     {
+      "title": "How to Get Your Side Project Seen and Gain Paying Users",
+      "url": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
+      "published_at": "2026-08-10T20:47:17.000Z",
+      "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
+      "tags": [
+        "sidehustle",
+        "marketing",
+        "Entrepreneurship",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "George Field"
+    },
+    {
+      "title": "AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/",
+      "published_at": "2026-08-10T20:42:28.000Z",
+      "description": "The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app",
+      "tags": [
+        "AI",
+        "ai agents",
+        "evaluation metrics",
+        "llm",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
+    },
+    {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
       "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
       "published_at": "2026-08-10T14:14:41.000Z",
@@ -1056,22 +1087,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ashutosh Krishna"
-    },
-    {
-      "title": "How to Customize an LLM for AI Agents using SFT and QLoRA",
-      "url": "https://www.freecodecamp.org/news/how-to-customize-an-llm-for-ai-agents-using-sft-and-qlora/",
-      "published_at": "2026-08-06T16:13:59.000Z",
-      "description": "In this tutorial, I’ll show you how to fine-tune a large language model for use in AI agents using supervised fine-tuning with QLoRA. This lets us customize a pre-trained model so it behaves the way w",
-      "tags": [
-        "AI",
-        "ai agents",
-        "SFT",
-        "finetuning",
-        "#Finetuning Models"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
     }
   ],
   "JavaScript": [
@@ -1372,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "eternityspring"
     },
     {
@@ -1387,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "sv-number"
     },
     {
@@ -1447,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1477,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 410,
       "user": "Appllama"
     },
     {
@@ -1507,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "tanishqkancharla"
     },
     {
@@ -1927,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2266,
+      "stars": 2271,
       "user": "KKKKhazix"
     },
     {
@@ -1942,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1299,
       "user": "ShawnPana"
     },
     {
@@ -1957,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1161,
       "user": "oil-oil"
     },
     {
@@ -1972,7 +1987,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 715,
       "user": "jd-opensource"
     },
     {
@@ -2639,7 +2654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 410,
       "user": "Appllama"
     },
     {
@@ -2689,22 +2704,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Atuoha Anthony"
-    },
-    {
-      "title": "A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures",
-      "url": "https://www.freecodecamp.org/news/the-visitor-design-pattern-and-its-clean-operations-across-complex-object-structures/",
-      "published_at": "2026-08-06T16:11:11.000Z",
-      "description": "There's a problem that shows up in almost every growing software system, and most developers don't even realize they're hitting it until the damage is already done. You have a set of objects: differen",
-      "tags": [
-        "Design",
-        "design patterns",
-        "design principles",
-        "Dart",
-        "mobile"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Cloud": [
@@ -2944,7 +2943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "forever94yu"
     },
     {
@@ -2959,6 +2958,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "claytonwramsey"
+    },
+    {
+      "title": "Now Rippling is counter suing tiny startup Runlayer",
+      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "published_at": "2026-08-10T22:26:54.000Z",
+      "description": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller and buyer-beware market warning.",
+      "tags": [
+        "Enterprise",
+        "TC",
+        "Rippling"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
@@ -2991,22 +3004,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Archer buys former rival Wisk Aero",
-      "url": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
-      "published_at": "2026-08-10T15:09:39.000Z",
-      "description": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
-      "tags": [
-        "Transportation",
-        "Archer Aviation",
-        "Boeing",
-        "eVTOL",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     }
   ],
   "Database": [
@@ -3503,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 644,
       "user": "eternityspring"
     },
     {
@@ -3518,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "sv-number"
     },
     {
@@ -3578,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2266,
+      "stars": 2271,
       "user": "KKKKhazix"
     },
     {
@@ -3593,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1299,
       "user": "ShawnPana"
     },
     {
@@ -3608,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1142,
+      "stars": 1161,
       "user": "oil-oil"
     },
     {
@@ -3623,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 715,
       "user": "jd-opensource"
     },
     {
@@ -3653,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 149,
       "user": "MengMengCode"
     },
     {
@@ -3713,7 +3710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 67,
       "user": "forever94yu"
     },
     {
@@ -3728,7 +3725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 657,
+      "stars": 663,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3758,7 +3755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 410,
       "user": "Appllama"
     },
     {
@@ -3788,7 +3785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 289,
       "user": "tanishqkancharla"
     },
     {
@@ -3863,7 +3860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "JohnKinyanjui"
     },
     {
@@ -3889,6 +3886,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nitin_Juyal"
+    },
+    {
+      "title": "How to Get Your Side Project Seen and Gain Paying Users",
+      "url": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
+      "published_at": "2026-08-10T20:47:17.000Z",
+      "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
+      "tags": [
+        "sidehustle",
+        "marketing",
+        "Entrepreneurship",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "George Field"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
