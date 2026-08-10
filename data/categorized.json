@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 448,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2210,
+      "stars": 2215,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 676,
       "user": "jd-opensource"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 406,
       "user": "SMNETSTUDIO"
     },
     {
@@ -868,17 +868,16 @@
       "user": "hugoarnal"
     },
     {
-      "title": "I got an email about resistance",
-      "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
-      "published_at": "2026-08-09T17:14:17.317-05:00",
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "published_at": "2026-08-10T04:37:18.304-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "culture",
-        "vibecoding"
+        "browsers"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "untitaker"
+      "user": "freddyb"
     },
     {
       "title": "How do programming languages impact token efficiency and correctness?",
@@ -892,6 +891,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ndr"
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "published_at": "2026-08-10T12:00:00.000Z",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -993,34 +1007,6 @@
         "AI",
         "Climate",
         "Amazon"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "published_at": "2026-08-08T19:41:13.000Z",
-      "description": "NextSlide says its team members are now working on ChatGPT.",
-      "tags": [
-        "AI",
-        "Startups",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "published_at": "2026-08-08T16:34:22.000Z",
-      "description": "X is winding down its existing Revenue Sharing program.",
-      "tags": [
-        "Media & Entertainment",
-        "Social",
-        "X"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1375,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "eternityspring"
     },
     {
@@ -1390,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 448,
       "user": "sv-number"
     },
     {
@@ -1405,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "nkxx188"
     },
     {
@@ -1420,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1454,21 +1440,6 @@
       "user": "criptogus"
     },
     {
-      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "url": "https://github.com/Appllama/top-welcome-screens",
-      "published_at": "2026-08-08T12:44:52Z",
-      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
-      "source": "GitHub",
-      "stars": 342,
-      "user": "Appllama"
-    },
-    {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
       "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "published_at": "2026-08-10T09:06:43Z",
@@ -1480,8 +1451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 406,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "published_at": "2026-08-08T12:44:52Z",
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "Appllama"
     },
     {
       "title": "s010s/prehistoric-animal-museum - A calm, parent-and-child 3D prehistoric animal museum.",
@@ -1495,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "s010s"
     },
     {
@@ -1510,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 219,
       "user": "tanishqkancharla"
     },
     {
@@ -1532,7 +1518,7 @@
       "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
       "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
       "published_at": "2026-08-10T06:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "advice",
         "javascript",
@@ -1548,7 +1534,7 @@
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript"
       ],
@@ -1905,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2210,
+      "stars": 2215,
       "user": "KKKKhazix"
     },
     {
@@ -1920,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1131,
       "user": "ShawnPana"
     },
     {
@@ -1935,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 839,
       "user": "oil-oil"
     },
     {
@@ -1950,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 676,
       "user": "jd-opensource"
     },
     {
@@ -1965,14 +1951,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "T8mars"
     },
     {
       "title": "How to divide a Python script in a shorter script and a module?",
       "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
       "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 4 answers · score -2",
       "tags": [
         "python",
         "jupyter-notebook"
@@ -1985,7 +1971,7 @@
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2351,7 +2337,7 @@
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript"
       ],
@@ -2506,7 +2492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 349,
       "user": "Appllama"
     },
     {
@@ -3224,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "eternityspring"
     },
     {
@@ -3239,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 448,
       "user": "sv-number"
     },
     {
@@ -3254,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "nkxx188"
     },
     {
@@ -3269,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3299,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2210,
+      "stars": 2215,
       "user": "KKKKhazix"
     },
     {
@@ -3314,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1119,
+      "stars": 1131,
       "user": "ShawnPana"
     },
     {
@@ -3329,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 839,
       "user": "oil-oil"
     },
     {
@@ -3344,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 676,
       "user": "jd-opensource"
     },
     {
@@ -3359,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 579,
       "user": "T8mars"
     },
     {
@@ -3404,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/200734773?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 77,
       "user": "XiaoRavpa"
     },
     {
@@ -3434,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 47,
       "user": "cr-zhichen"
     },
     {
@@ -3453,21 +3439,6 @@
       "user": "criptogus"
     },
     {
-      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "url": "https://github.com/Appllama/top-welcome-screens",
-      "published_at": "2026-08-08T12:44:52Z",
-      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
-      "source": "GitHub",
-      "stars": 342,
-      "user": "Appllama"
-    },
-    {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
       "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "published_at": "2026-08-10T09:06:43Z",
@@ -3479,8 +3450,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 406,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "url": "https://github.com/Appllama/top-welcome-screens",
+      "published_at": "2026-08-08T12:44:52Z",
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "Appllama"
     },
     {
       "title": "s010s/prehistoric-animal-museum - A calm, parent-and-child 3D prehistoric animal museum.",
@@ -3494,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "s010s"
     },
     {
@@ -3509,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 219,
       "user": "tanishqkancharla"
     },
     {
@@ -3554,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "tllovesxs"
     },
     {
