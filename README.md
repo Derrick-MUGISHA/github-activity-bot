@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-174-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--10-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-10 18:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-10 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -29,9 +29,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <tr>
   <td align="center" width="33%">
     <a href="https://dev.to/heyitsjem/hey-all-im-jem-the-dev-community-program-coordinator-2g2">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd7nq2k970lld9yo3g17f.png" width="200" alt="Hey all! I’m Jem, the DEV Community Program Coordinator" />
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7k01rhem8csp3id2h5qa.png" width="200" alt="Hey all! I’m Jem, the DEV Community Program Coordinator" />
       <br/>
       <b>Hey all! I’m Jem, the DEV Community Program Coordi...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3jtnr9kobn2yfnsuwwgt.png" width="200" alt="Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!" />
+      <br/>
+      <b>Jem has quietly been working behind-the-scenes her...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -45,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-3n1d">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F06d6szzlup9wnmc1cxhh.webp" width="200" alt="Meme Monday" />
@@ -54,8 +65,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg" width="200" alt="Build a Dart ADK Agent and MCP Server" />
@@ -74,15 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png" width="200" alt="Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1" />
-      <br/>
-      <b>Self-hosting a lite agent backend on one TPU: Gemm...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -93,27 +93,27 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/heyitsjem/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
-| 2 | [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf) | Dev.to |
-| 3 | [Meme Monday](https://dev.to/ben/meme-monday-3n1d) | Dev.to |
-| 4 | [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n) | Dev.to |
-| 5 | [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) | Dev.to |
-| 6 | [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1) | Dev.to |
-| 7 | [linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7) | Dev.to |
-| 8 | [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1) | Dev.to |
-| 9 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
-| 10 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
-| 11 | [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi) | Dev.to |
-| 12 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3n23) | Dev.to |
-| 13 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 14 | [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl) | Dev.to |
-| 15 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
-| 16 | [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if) | Dev.to |
-| 17 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
-| 18 | [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4) | Dev.to |
-| 19 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
-| 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
+| 2 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
+| 3 | [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf) | Dev.to |
+| 4 | [Meme Monday](https://dev.to/ben/meme-monday-3n1d) | Dev.to |
+| 5 | [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n) | Dev.to |
+| 6 | [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) | Dev.to |
+| 7 | [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1) | Dev.to |
+| 8 | [linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7) | Dev.to |
+| 9 | [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1) | Dev.to |
+| 10 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
+| 11 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
+| 12 | [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi) | Dev.to |
+| 13 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3n23) | Dev.to |
+| 14 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
+| 15 | [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl) | Dev.to |
+| 16 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
+| 17 | [I built an open source library of animated icons for React, all using motion and Phosphor icons](https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p) | Dev.to |
+| 18 | [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if) | Dev.to |
+| 19 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
+| 20 | [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4) | Dev.to |
 
-<sub>Last fetched: Mon, 10 Aug 2026 18:39:23 CAT</sub>
+<sub>Last fetched: Mon, 10 Aug 2026 19:37:32 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**2. `SystemDesign` — Design a distributed cache system**
+**2. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
-**3. `NodeJS` — How do you handle errors in async/await?**
+**3. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> useState, useEffect, loading states, error handling
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 41.8% | `████████████████████` |
-| **JavaScript** | 42 | 22.8% | `███████████░░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **Cloud** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 74 | 42.5% | `████████████████████` |
+| **JavaScript** | 44 | 25.3% | `████████████░░░░░░░░` |
+| **Tools** | 39 | 22.4% | `███████████░░░░░░░░░` |
+| **Python** | 31 | 17.8% | `████████░░░░░░░░░░░░` |
+| **Cloud** | 20 | 11.5% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 8.0% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.9% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 9 | 5.2% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 3 | 1.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -185,7 +185,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
-| Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
 | freeCodeCamp | 10 |
@@ -194,11 +193,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.3%
-Go              █████████████████████████████ 26.0%
-Python          ███████████████████████ 20.8%
-Java            ██████████████████████ 20.1%
-Rust            ████ 3.9%
+JavaScript      ██████████████████████████████ 28.2%
+Go              ███████████████████████████ 25.6%
+Java            ██████████████████████ 20.5%
+Python          █████████████████████ 19.9%
+Rust            ████ 3.8%
 Swift           █ 1.3%
 Kotlin          █ 0.6%
 
@@ -206,10 +205,10 @@ Kotlin          █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 42
+    "JavaScript" : 44
     "Go" : 40
-    "Python" : 32
-    "Java" : 31
+    "Java" : 32
+    "Python" : 31
     "Rust" : 6
     "Swift" : 2
     "Kotlin" : 1
@@ -218,7 +217,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-19-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +269,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 10 Aug 2026 16:39:23 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 10 Aug 2026 17:37:32 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
