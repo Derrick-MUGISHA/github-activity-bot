@@ -211,21 +211,6 @@
       "user": "Giorgio Galassi"
     },
     {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
-      "published_at": "2026-07-27T17:09:33Z",
-      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
-      "tags": [
-        "typescript",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "The AI That Broke Out of Its Box, and What Happens Next",
       "url": "https://dev.to/auth0/the-ai-that-broke-out-of-its-box-and-what-happens-next-m3d",
       "published_at": "2026-08-06T16:29:21Z",
@@ -507,6 +492,21 @@
       "user": "Ankita Virani"
     },
     {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
       "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
       "published_at": "2026-07-31T02:28:26Z",
@@ -520,36 +520,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -731,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 639,
       "user": "eternityspring"
     },
     {
@@ -746,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 527,
       "user": "sv-number"
     },
     {
@@ -761,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2257,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 699,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 120,
       "user": "WhiteDNS"
     },
     {
@@ -836,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 637,
       "user": "SMNETSTUDIO"
     },
     {
@@ -885,6 +855,58 @@
       "user": "mikker"
     },
     {
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "published_at": "2026-08-10T04:37:18.304-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "browsers"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
+    },
+    {
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "published_at": "2026-08-10T08:30:18.013-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
+    },
+    {
+      "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
+      "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
+      "published_at": "2026-08-10T17:41:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nitin_Juyal"
+    },
+    {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "published_at": "2026-08-10T18:30:33.000Z",
+      "description": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Facebook",
+        "Instagram",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
       "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
       "published_at": "2026-08-10T16:20:13.000Z",
@@ -931,53 +953,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "published_at": "2026-08-09T20:35:17.000Z",
-      "description": "The AI-focused hedge fund is still making some big bets.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "In Brief",
-        "situational awareness"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "published_at": "2026-08-09T19:20:32.000Z",
-      "description": "Programming with Claude Code will soon require even less human oversight.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Anthropic",
-        "claude code",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-      "published_at": "2026-08-09T16:05:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "tags": [
-        "Transportation",
-        "Elon Musk",
-        "Tesla",
-        "zoox",
-        "techcrunch mobility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -1197,21 +1172,6 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
-      "published_at": "2026-07-27T17:09:33Z",
-      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
-      "tags": [
-        "typescript",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
       "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
       "published_at": "2026-07-28T05:12:29Z",
@@ -1225,6 +1185,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "I built dev tools that literally cannot send your data anywhere",
+      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
+      "published_at": "2026-08-05T18:45:20Z",
+      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "security",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
+      "source": "Dev.to",
+      "user": "nullisland"
+    },
+    {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1358,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 639,
       "user": "eternityspring"
     },
     {
@@ -1373,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 527,
       "user": "sv-number"
     },
     {
@@ -1403,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1433,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 637,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1463,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 395,
       "user": "Appllama"
     },
     {
@@ -1493,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "tanishqkancharla"
     },
     {
@@ -1648,6 +1638,18 @@
       "user": "Luke Dennis"
     },
     {
+      "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
+      "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
+      "published_at": "2026-08-10T17:41:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nitin_Juyal"
+    },
+    {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
@@ -1739,6 +1741,21 @@
       "user": "xbill"
     },
     {
+      "title": "How I Built a Retro Python Racer from Scratch (Screenshots Included)",
+      "url": "https://dev.to/daniel_possiblekwabi_b57/how-i-built-a-retro-python-racer-from-scratch-screenshots-included-43h5",
+      "published_at": "2026-08-06T16:44:10Z",
+      "description": "Lovely people, it's been a minute. I hope everyone has been good, alive, and well.  From my...",
+      "tags": [
+        "python",
+        "programming",
+        "gamedev",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ib8fc1xjfxlnnmbykm0.JPG",
+      "source": "Dev.to",
+      "user": "Daniel Possible Kwabi"
+    },
+    {
       "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
       "published_at": "2026-07-07T17:12:47Z",
@@ -1750,21 +1767,6 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "MCP Configuration for Looker with Antigravity CLI",
-      "url": "https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d",
-      "published_at": "2026-07-06T20:23:55Z",
-      "description": "This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...",
-      "tags": [
-        "looker",
-        "lookml",
-        "python",
-        "antigravitycli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1900,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2257,
       "user": "KKKKhazix"
     },
     {
@@ -1915,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1258,
       "user": "ShawnPana"
     },
     {
@@ -1930,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1076,
       "user": "oil-oil"
     },
     {
@@ -1945,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 699,
       "user": "jd-opensource"
     },
     {
@@ -1964,10 +1966,36 @@
       "user": "T8mars"
     },
     {
+      "title": "Django is moving to an annual release cycle",
+      "url": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
+      "published_at": "2026-08-10T07:46:03.432-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python",
+        "release",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ggpsv"
+    },
+    {
+      "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
+      "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
+      "published_at": "2026-08-10T17:41:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nitin_Juyal"
+    },
+    {
       "title": "How to divide a Python script in a shorter script and a module?",
       "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
       "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score -2",
+      "description": "Stack Overflow question · 4 answers · score -3",
       "tags": [
         "python",
         "jupyter-notebook"
@@ -1980,7 +2008,7 @@
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "python"
       ],
@@ -2084,22 +2112,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
-    },
-    {
-      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
-      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
-      "published_at": "2026-08-06T14:51:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "google-cloud-platform",
-        "concurrency",
-        "spacy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lightning_missile"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2345,6 +2357,21 @@
       "user": "Parsa Jiravand"
     },
     {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2355,6 +2382,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "a pure css implementation of some sunlight streaming in through the window",
+      "url": "https://github.com/jackyzha0/sunlit",
+      "published_at": "2026-08-10T10:29:34.545-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css",
+        "design",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "juliethefoxcoon"
     },
     {
       "title": "How do I make it so that the script responds differently for each element?",
@@ -2543,7 +2584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 120,
       "user": "WhiteDNS"
     },
     {
@@ -2558,8 +2599,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 395,
       "user": "Appllama"
+    },
+    {
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "published_at": "2026-08-10T18:31:54.000Z",
+      "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+      "tags": [
+        "Apps",
+        "android apps",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -2668,21 +2723,6 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf",
-      "published_at": "2026-07-27T17:09:33Z",
-      "description": "Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.",
-      "tags": [
-        "typescript",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2851,21 +2891,6 @@
       "user": "xbill"
     },
     {
-      "title": "Gemma 4 E2B on a Single TPU v6e Chip: A Serving Deep Dive",
-      "url": "https://dev.to/gde/gemma-4-e2b-on-a-single-tpu-v6e-chip-a-serving-deep-dive-53n",
-      "published_at": "2026-07-21T03:48:40Z",
-      "description": "What it took to deploy, why the QAT checkpoints refuse to load, and what one flex-start v6e chip is actually worth — measured live.",
-      "tags": [
-        "tpu",
-        "llm",
-        "vllm",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaujssn9hhcnl6wccuv4.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -2881,20 +2906,34 @@
       "user": "forever94yu"
     },
     {
-      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
-      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
-      "published_at": "2026-08-06T14:51:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "published_at": "2026-08-10T18:31:54.000Z",
+      "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
       "tags": [
-        "python",
-        "multithreading",
-        "google-cloud-platform",
-        "concurrency",
-        "spacy"
+        "Apps",
+        "android apps",
+        "lawsuit"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lightning_missile"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "published_at": "2026-08-10T18:30:33.000Z",
+      "description": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Facebook",
+        "Instagram",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Archer buys former rival Wisk Aero",
@@ -2905,7 +2944,8 @@
         "Transportation",
         "Archer Aviation",
         "Boeing",
-        "Wisk Aero"
+        "eVTOL",
+        "Mergers and Acquisitions"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3032,6 +3072,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "I built dev tools that literally cannot send your data anywhere",
+      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
+      "published_at": "2026-08-05T18:45:20Z",
+      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "security",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
+      "source": "Dev.to",
+      "user": "nullisland"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3164,6 +3219,31 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "published_at": "2026-08-10T08:30:18.013-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
+    },
+    {
+      "title": "A researcher bought noreply.net. Companies started sending him secrets",
+      "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+      "published_at": "2026-08-10T11:47:33.710-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "privacy",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hoistbypetard"
     },
     {
       "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
@@ -3320,6 +3400,36 @@
       "user": "Klaudia Grzondziel"
     },
     {
+      "title": "I built dev tools that literally cannot send your data anywhere",
+      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
+      "published_at": "2026-08-05T18:45:20Z",
+      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "security",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
+      "source": "Dev.to",
+      "user": "nullisland"
+    },
+    {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3367,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 639,
       "user": "eternityspring"
     },
     {
@@ -3382,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 518,
+      "stars": 527,
       "user": "sv-number"
     },
     {
@@ -3412,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3442,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2257,
       "user": "KKKKhazix"
     },
     {
@@ -3457,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1258,
       "user": "ShawnPana"
     },
     {
@@ -3472,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1076,
       "user": "oil-oil"
     },
     {
@@ -3487,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 699,
       "user": "jd-opensource"
     },
     {
@@ -3532,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 120,
       "user": "WhiteDNS"
     },
     {
@@ -3592,7 +3702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 637,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3622,7 +3732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 395,
       "user": "Appllama"
     },
     {
@@ -3652,7 +3762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 271,
       "user": "tanishqkancharla"
     },
     {
@@ -3701,6 +3811,21 @@
       "user": "tllovesxs"
     },
     {
+      "title": "gpwn-org/gpwn-toolkit - A collection of libraries and a TUI to test fiber GPON deployments.",
+      "url": "https://github.com/gpwn-org/gpwn-toolkit",
+      "published_at": "2026-08-08T19:34:23Z",
+      "description": "A collection of libraries and a TUI to test fiber GPON deployments.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "gpwn-org"
+    },
+    {
       "title": "mikker/fut - fear, uncertainty and ... terminals",
       "url": "https://github.com/mikker/fut",
       "published_at": "2026-08-04T08:23:00Z",
@@ -3716,19 +3841,41 @@
       "user": "mikker"
     },
     {
-      "title": "gpwn-org/gpwn-toolkit - A collection of libraries and a TUI to test fiber GPON deployments.",
-      "url": "https://github.com/gpwn-org/gpwn-toolkit",
-      "published_at": "2026-08-08T19:34:23Z",
-      "description": "A collection of libraries and a TUI to test fiber GPON deployments.",
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "published_at": "2026-08-10T08:30:18.013-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "security"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
-      "source": "GitHub",
-      "stars": 82,
-      "user": "gpwn-org"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
+    },
+    {
+      "title": "Fast Haskell Scripts on GitHub Actions",
+      "url": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
+      "published_at": "2026-08-10T06:21:36.319-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "haskell",
+        "nix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abhin4v"
+    },
+    {
+      "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
+      "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
+      "published_at": "2026-08-10T17:41:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nitin_Juyal"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
