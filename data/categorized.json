@@ -136,6 +136,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
+      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
+      "published_at": "2026-08-07T11:30:53Z",
+      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "animation",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
+      "source": "Dev.to",
+      "user": "Muhammad Ammar"
+    },
+    {
       "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
       "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if",
       "published_at": "2026-08-07T02:55:21Z",
@@ -537,21 +552,6 @@
       "user": "xbill"
     },
     {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -731,14 +731,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "eternityspring"
     },
     {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "url": "https://github.com/sv-number/mcp-server",
       "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "tags": [
         "javascript",
         "github",
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 518,
       "user": "sv-number"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2253,
       "user": "KKKKhazix"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 698,
       "user": "jd-opensource"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "MengMengCode"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 121,
       "user": "WhiteDNS"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 632,
       "user": "SMNETSTUDIO"
     },
     {
@@ -883,43 +883,6 @@
       "source": "GitHub",
       "stars": 82,
       "user": "mikker"
-    },
-    {
-      "title": "Firefox Containers Preview",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "published_at": "2026-08-10T04:37:18.304-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
-      "title": "GitHub Actions needs OIDC audience constraints",
-      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-      "published_at": "2026-08-10T08:30:18.013-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
-    },
-    {
-      "title": "Who Should Pay For Source Code Availability?",
-      "url": "https://kristoff.it/blog/source-code-availability/",
-      "published_at": "2026-08-09T08:42:39.432-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs",
-        "zig"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hugoarnal"
     },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
@@ -993,7 +956,8 @@
         "AI",
         "Enterprise",
         "Anthropic",
-        "claude code"
+        "claude code",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1014,6 +978,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
+      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
+      "published_at": "2026-08-10T14:14:41.000Z",
+      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
+      "tags": [
+        "Flutter",
+        "System Design",
+        "mobile app development",
+        "Dart",
+        "software architecture"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Jesutoni Aderibigbe"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1093,22 +1073,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Build a Privacy-First Medical Image De-Identification Agent with Claude and MCP",
-      "url": "https://www.freecodecamp.org/news/build-a-privacy-first-medical-image-de-identification-agent/",
-      "published_at": "2026-08-06T09:15:25.000Z",
-      "description": "Imagine asking an AI assistant to de-identify thousands of medical images. It runs the pipeline, tracks progress, summarizes every decision, and tells you which files need human review, all without ev",
-      "tags": [
-        "Healthcare AI",
-        "ai agents",
-        "Claude Desktop",
-        "mcp",
-        "Medical Imaging"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Lakshmi Mahabaleshwara"
     }
   ],
   "JavaScript": [
@@ -1171,6 +1135,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
+      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
+      "published_at": "2026-08-07T11:30:53Z",
+      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "animation",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
+      "source": "Dev.to",
+      "user": "Muhammad Ammar"
     },
     {
       "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
@@ -1379,14 +1358,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "eternityspring"
     },
     {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "url": "https://github.com/sv-number/mcp-server",
       "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "tags": [
         "javascript",
         "github",
@@ -1394,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 518,
       "user": "sv-number"
     },
     {
@@ -1424,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1454,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 632,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1484,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "Appllama"
     },
     {
@@ -1499,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "s010s"
     },
     {
@@ -1514,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 267,
       "user": "tanishqkancharla"
     },
     {
@@ -1681,6 +1660,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Noah Bergh"
+    },
+    {
+      "title": "How to Add Dynamic Features to a Static Site Without a Server",
+      "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
+      "published_at": "2026-08-10T14:13:37.000Z",
+      "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
+      "tags": [
+        "Static Website",
+        "JavaScript",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
@@ -1907,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2253,
       "user": "KKKKhazix"
     },
     {
@@ -1922,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1250,
       "user": "ShawnPana"
     },
     {
@@ -1937,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1041,
       "user": "oil-oil"
     },
     {
@@ -1952,7 +1945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 698,
       "user": "jd-opensource"
     },
     {
@@ -1967,22 +1960,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "T8mars"
-    },
-    {
-      "title": "Django is moving to an annual release cycle",
-      "url": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
-      "published_at": "2026-08-10T07:46:03.432-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python",
-        "release",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggpsv"
     },
     {
       "title": "How to divide a Python script in a shorter script and a module?",
@@ -2001,7 +1980,7 @@
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python"
       ],
@@ -2026,7 +2005,7 @@
       "title": "How can I improve the efficiency of my code for CSES Missing Number?",
       "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
       "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
+      "description": "Stack Overflow question · 2 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2445,6 +2424,36 @@
       "user": "Noah Bergh"
     },
     {
+      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
+      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
+      "published_at": "2026-08-10T14:14:41.000Z",
+      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
+      "tags": [
+        "Flutter",
+        "System Design",
+        "mobile app development",
+        "Dart",
+        "software architecture"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Jesutoni Aderibigbe"
+    },
+    {
+      "title": "How to Add Dynamic Features to a Static Site Without a Server",
+      "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
+      "published_at": "2026-08-10T14:13:37.000Z",
+      "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
+      "tags": [
+        "Static Website",
+        "JavaScript",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
       "published_at": "2026-08-06T22:17:36.000Z",
@@ -2523,21 +2532,6 @@
       "user": "Gamya "
     },
     {
-      "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
-      "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474",
-      "published_at": "2026-08-02T01:34:18Z",
-      "description": "When separate family providers store parameterized network queries as isolated state silos, updating an entity in one subset creates stale data across others. Here is how a normalized mapSignal store fixes it.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a68a1k9wglkhz8ygozl.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
       "published_at": "2026-08-05T12:44:16Z",
@@ -2549,7 +2543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 121,
       "user": "WhiteDNS"
     },
     {
@@ -2564,8 +2558,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "Appllama"
+    },
+    {
+      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
+      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
+      "published_at": "2026-08-10T14:14:41.000Z",
+      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
+      "tags": [
+        "Flutter",
+        "System Design",
+        "mobile app development",
+        "Dart",
+        "software architecture"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Jesutoni Aderibigbe"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -2598,22 +2608,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Bluetooth Low Energy in Flutter: A Handbook for Devs",
-      "url": "https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/",
-      "published_at": "2026-08-05T17:25:01.000Z",
-      "description": "Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c",
-      "tags": [
-        "bluetooth",
-        "Bluetooth Low Energy",
-        "Flutter",
-        "Flutter SDK",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikheel Vishwas Savant"
     }
   ],
   "Cloud": [
@@ -2872,21 +2866,6 @@
       "user": "xbill"
     },
     {
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "url": "https://dev.to/gde/tpu-management-a-claude-code-skill-for-running-gemma-4-on-cloud-tpus-1b1e",
-      "published_at": "2026-07-21T00:10:45Z",
-      "description": "A Claude Code skill + MCP server that provisions Google Cloud TPU capacity, serves Gemma 4 with vLLM, benchmarks it, and tears it down — installable in one command.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "claudecode"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsllui7qdxqeu572u4xu0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -2961,6 +2940,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
+    },
+    {
+      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
+      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
+      "published_at": "2026-08-10T14:14:41.000Z",
+      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
+      "tags": [
+        "Flutter",
+        "System Design",
+        "mobile app development",
+        "Dart",
+        "software architecture"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Jesutoni Aderibigbe"
     }
   ],
   "Security": [
@@ -3171,18 +3166,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "GitHub Actions needs OIDC audience constraints",
-      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-      "published_at": "2026-08-10T08:30:18.013-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
-    },
-    {
       "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
       "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
       "published_at": "2026-08-10T14:20:19.000Z",
@@ -3384,14 +3367,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 636,
       "user": "eternityspring"
     },
     {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "url": "https://github.com/sv-number/mcp-server",
       "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "tags": [
         "javascript",
         "github",
@@ -3399,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 518,
       "user": "sv-number"
     },
     {
@@ -3429,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3459,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2249,
+      "stars": 2253,
       "user": "KKKKhazix"
     },
     {
@@ -3474,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1250,
       "user": "ShawnPana"
     },
     {
@@ -3489,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1041,
       "user": "oil-oil"
     },
     {
@@ -3504,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 698,
       "user": "jd-opensource"
     },
     {
@@ -3519,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "T8mars"
     },
     {
@@ -3534,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "MengMengCode"
     },
     {
@@ -3549,8 +3532,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 121,
       "user": "WhiteDNS"
+    },
+    {
+      "title": "jundizhou/easy-stock - GitHub Repository",
+      "url": "https://github.com/jundizhou/easy-stock",
+      "published_at": "2026-08-07T16:25:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
+      "source": "GitHub",
+      "stars": 102,
+      "user": "jundizhou"
     },
     {
       "title": "XiaoRavpa/IP-STRESSER - Local-only IP stresser made by https://ipstresser.pro in Go, This IP booter was made for safely stress-testing your own servers. Supports UDP, TCP & Layer-7 (GET/POST) methods. ",
@@ -3564,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/200734773?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "XiaoRavpa"
     },
     {
@@ -3583,21 +3581,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "jundizhou/easy-stock - GitHub Repository",
-      "url": "https://github.com/jundizhou/easy-stock",
-      "published_at": "2026-08-07T16:25:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
-      "source": "GitHub",
-      "stars": 56,
-      "user": "jundizhou"
-    },
-    {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
       "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "published_at": "2026-08-10T09:06:43Z",
@@ -3609,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 632,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3639,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 389,
       "user": "Appllama"
     },
     {
@@ -3654,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 318,
       "user": "s010s"
     },
     {
@@ -3669,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 267,
       "user": "tanishqkancharla"
     },
     {
@@ -3714,7 +3697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "tllovesxs"
     },
     {
@@ -3744,33 +3727,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
       "source": "GitHub",
-      "stars": 80,
+      "stars": 82,
       "user": "gpwn-org"
     },
     {
-      "title": "GitHub Actions needs OIDC audience constraints",
-      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-      "published_at": "2026-08-10T08:30:18.013-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to Add Dynamic Features to a Static Site Without a Server",
+      "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
+      "published_at": "2026-08-10T14:13:37.000Z",
+      "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
       "tags": [
-        "security"
+        "Static Website",
+        "JavaScript",
+        "Web Development"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
-    },
-    {
-      "title": "Fast Haskell Scripts on GitHub Actions",
-      "url": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
-      "published_at": "2026-08-10T06:21:36.319-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "haskell",
-        "nix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abhin4v"
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
