@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 588,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 395,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2153,
+      "stars": 2173,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 658,
       "user": "jd-opensource"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 128,
       "user": "MengMengCode"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "forever94yu"
     },
     {
@@ -907,19 +907,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "anex9d"
-    },
-    {
-      "title": "Rails is done",
-      "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
-      "published_at": "2026-08-09T02:14:28.028-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "culture",
-        "ruby"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "henrycatalinismith"
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -1403,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 720,
       "user": "0xwilliamortiz"
     },
     {
@@ -1418,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 588,
       "user": "eternityspring"
     },
     {
@@ -1433,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 395,
       "user": "sv-number"
     },
     {
@@ -1448,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "nkxx188"
     },
     {
@@ -1463,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1508,8 +1495,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 310,
       "user": "Appllama"
+    },
+    {
+      "title": "s010s/prehistoric-animal-museum - A calm, parent-and-child 3D prehistoric animal museum.",
+      "url": "https://github.com/s010s/prehistoric-animal-museum",
+      "published_at": "2026-08-04T15:01:54Z",
+      "description": "A calm, parent-and-child 3D prehistoric animal museum.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "s010s"
+    },
+    {
+      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "published_at": "2026-08-07T22:46:51Z",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "tanishqkancharla"
     },
     {
       "title": "margelo/ai-chat-demo - GitHub Repository",
@@ -1527,36 +1544,6 @@
       "user": "margelo"
     },
     {
-      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "url": "https://github.com/tanishqkancharla/calldiff",
-      "published_at": "2026-08-07T22:46:51Z",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
-      "source": "GitHub",
-      "stars": 158,
-      "user": "tanishqkancharla"
-    },
-    {
-      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "published_at": "2026-08-09T12:15:30Z",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "SaladDay"
-    },
-    {
       "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
       "url": "https://github.com/OlegSotnikov/jc-rs",
       "published_at": "2026-08-04T03:46:11Z",
@@ -1572,10 +1559,26 @@
       "user": "OlegSotnikov"
     },
     {
+      "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
+      "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
+      "published_at": "2026-08-10T06:45:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "advice",
+        "javascript",
+        "node.js",
+        "passport.js",
+        "libraries"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shanto Sur"
+    },
+    {
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript"
       ],
@@ -1594,6 +1597,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koolaid222"
+    },
+    {
+      "title": "Why currentUser below is empty while currentUser above is not?",
+      "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
+      "published_at": "2026-08-07T15:07:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "XavierLM"
     },
     {
       "title": "How do I retrieve the shared facbook post links in bulk?",
@@ -1665,22 +1681,6 @@
       "user": "Luke Dennis"
     },
     {
-      "title": "Preloading Google Fonts",
-      "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
-      "published_at": "2018-06-12T19:07:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 58",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "reactjs",
-        "lighthouse"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wildair"
-    },
-    {
       "title": "Unzipping files",
       "url": "https://stackoverflow.com/questions/2095697/unzipping-files",
       "published_at": "2010-01-19T17:54:40.000Z",
@@ -1693,19 +1693,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user69260"
-    },
-    {
-      "title": "AngularJS ng-click fires twice",
-      "url": "https://stackoverflow.com/questions/18709297/angularjs-ng-click-fires-twice",
-      "published_at": "2013-09-10T01:06:58.000Z",
-      "description": "Stack Overflow question · 19 answers · score 25",
-      "tags": [
-        "javascript",
-        "angularjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ravi Ram"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -1946,7 +1933,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2153,
+      "stars": 2173,
       "user": "KKKKhazix"
     },
     {
@@ -1961,23 +1948,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1063,
       "user": "ShawnPana"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "jd-opensource"
     },
     {
       "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
@@ -1991,8 +1963,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 679,
       "user": "oil-oil"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "published_at": "2026-08-04T08:22:24Z",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 658,
+      "user": "jd-opensource"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -2006,21 +1993,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 568,
       "user": "T8mars"
-    },
-    {
-      "title": "Unable to chose a date from a “Date Picker” in selenium python",
-      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
-      "published_at": "2026-08-09T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "selenium-webdriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soroush Kalantari"
     },
     {
       "title": "Running a Class.method() when that module is imported",
@@ -2035,18 +2009,17 @@
       "user": "NickC"
     },
     {
-      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
-      "published_at": "2026-08-09T14:06:24.000Z",
+      "title": "Unable to chose a date from a “Date Picker” in selenium python",
+      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
+      "published_at": "2026-08-09T13:35:44.000Z",
       "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "advice",
         "python",
-        "flask"
+        "selenium-webdriver"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Noah Bergh"
+      "user": "Soroush Kalantari"
     },
     {
       "title": "Modifying a class list results in no modification of the list",
@@ -2063,10 +2036,24 @@
       "user": "ItzSeegy"
     },
     {
+      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
+      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
+      "published_at": "2026-08-09T14:06:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "advice",
+        "python",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Noah Bergh"
+    },
+    {
       "title": "How can I improve the efficiency of my code for CSES Missing Number?",
       "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
       "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2407,7 +2394,7 @@
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript"
       ],
@@ -2442,22 +2429,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toji"
-    },
-    {
-      "title": "Preloading Google Fonts",
-      "url": "https://stackoverflow.com/questions/50824181/preloading-google-fonts",
-      "published_at": "2018-06-12T19:07:13.000Z",
-      "description": "Stack Overflow question · 3 answers · score 58",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "reactjs",
-        "lighthouse"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wildair"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -2578,7 +2549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 310,
       "user": "Appllama"
     },
     {
@@ -2868,7 +2839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "forever94yu"
     },
     {
@@ -2913,8 +2884,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 720,
       "user": "0xwilliamortiz"
+    },
+    {
+      "title": "IBM i (OS/400) The Database Operating System",
+      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+      "published_at": "2026-08-09T23:13:40.317-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "osdev"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "calvin"
     },
     {
       "title": "SQL Server backup to rustfs gives Operating system error 12175",
@@ -3123,7 +3106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 720,
       "user": "0xwilliamortiz"
     },
     {
@@ -3326,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 720,
       "user": "0xwilliamortiz"
     },
     {
@@ -3341,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 588,
       "user": "eternityspring"
     },
     {
@@ -3356,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 395,
       "user": "sv-number"
     },
     {
@@ -3371,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 247,
       "user": "nkxx188"
     },
     {
@@ -3386,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 238,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3401,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2153,
+      "stars": 2173,
       "user": "KKKKhazix"
     },
     {
@@ -3416,23 +3399,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1063,
       "user": "ShawnPana"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "jd-opensource"
     },
     {
       "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
@@ -3446,8 +3414,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 679,
       "user": "oil-oil"
+    },
+    {
+      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "published_at": "2026-08-04T08:22:24Z",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
+      "source": "GitHub",
+      "stars": 658,
+      "user": "jd-opensource"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -3461,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 568,
       "user": "T8mars"
     },
     {
@@ -3491,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 128,
       "user": "MengMengCode"
     },
     {
@@ -3506,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "forever94yu"
     },
     {
@@ -3566,8 +3549,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 310,
       "user": "Appllama"
+    },
+    {
+      "title": "s010s/prehistoric-animal-museum - A calm, parent-and-child 3D prehistoric animal museum.",
+      "url": "https://github.com/s010s/prehistoric-animal-museum",
+      "published_at": "2026-08-04T15:01:54Z",
+      "description": "A calm, parent-and-child 3D prehistoric animal museum.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "s010s"
+    },
+    {
+      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "published_at": "2026-08-07T22:46:51Z",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
+      "source": "GitHub",
+      "stars": 182,
+      "user": "tanishqkancharla"
     },
     {
       "title": "margelo/ai-chat-demo - GitHub Repository",
@@ -3583,36 +3596,6 @@
       "source": "GitHub",
       "stars": 158,
       "user": "margelo"
-    },
-    {
-      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "url": "https://github.com/tanishqkancharla/calldiff",
-      "published_at": "2026-08-07T22:46:51Z",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
-      "source": "GitHub",
-      "stars": 158,
-      "user": "tanishqkancharla"
-    },
-    {
-      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "published_at": "2026-08-09T12:15:30Z",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
-      "source": "GitHub",
-      "stars": 144,
-      "user": "SaladDay"
     },
     {
       "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
@@ -3645,6 +3628,21 @@
       "user": "OlegSotnikov"
     },
     {
+      "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
+      "url": "https://github.com/tllovesxs/cc-switch-route",
+      "published_at": "2026-08-08T01:55:40Z",
+      "description": "cc-swith的路由加强,无侵入,打开即用",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
+      "source": "GitHub",
+      "stars": 83,
+      "user": "tllovesxs"
+    },
+    {
       "title": "mikker/fut - fear, uncertainty and ... terminals",
       "url": "https://github.com/mikker/fut",
       "published_at": "2026-08-04T08:23:00Z",
@@ -3658,21 +3656,6 @@
       "source": "GitHub",
       "stars": 80,
       "user": "mikker"
-    },
-    {
-      "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
-      "url": "https://github.com/tllovesxs/cc-switch-route",
-      "published_at": "2026-08-08T01:55:40Z",
-      "description": "cc-swith的路由加强,无侵入,打开即用",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "tllovesxs"
     },
     {
       "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
