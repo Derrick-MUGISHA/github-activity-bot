@@ -1,6 +1,81 @@
 {
   "AI": [
     {
+      "title": "Three Clouds, Three Native Agents",
+      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
+      "published_at": "2026-08-10T15:04:09Z",
+      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
+      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
+      "published_at": "2026-08-09T22:14:30Z",
+      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
+      "tags": [
+        "tpu",
+        "vllm",
+        "llm",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -14,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -89,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "published_at": "2026-08-08T10:09:17Z",
+      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
+      "tags": [
+        "angular",
+        "typescript",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
     },
     {
       "title": "Building AI Agents with the TypeScript Agent Development Kit (ADK)",
@@ -194,6 +299,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-bedrock-a2a-currency%2Fmain%2Fdevto-cover-foundry-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP",
+      "url": "https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i",
+      "published_at": "2026-08-08T12:43:55Z",
+      "description": "The Problem with Fully Autonomous Remediation  Every platform team eventually asks the same...",
+      "tags": [
+        "ai",
+        "gcp",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq284czaemc8cyufm98xh.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -434,79 +553,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
-      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
-      "published_at": "2026-08-03T21:51:04Z",
-      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
-      "tags": [
-        "ai",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "url": "https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h",
-      "published_at": "2026-07-28T14:00:00Z",
-      "description": "A Wordle clone, an 8-foot keyboard, and a holographic fan display made Temporal's Durable Execution visible at AI Engineer World's Fair.",
-      "tags": [
-        "temporal",
-        "codesamples",
-        "industryevents",
-        "durableexecution"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.ctfassets.net%2F0uuz8ydxyd9p%2F77EA3CO7pz5bMyIqBx5cT8%2F75fafc7b99bd9a4212ca261a20b302b8%2FPXL_20260629_225400155.jpg",
-      "source": "Dev.to",
-      "user": "Shy Ruparel"
-    },
-    {
-      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
-      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
-      "published_at": "2026-07-23T13:24:50Z",
-      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
-      "tags": [
-        "ai",
-        "cloud",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
-      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
-      "published_at": "2026-07-31T06:57:48Z",
-      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
-      "source": "Dev.to",
-      "user": "Meera9"
-    },
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -675,10 +721,10 @@
       "user": "caseyf7"
     },
     {
-      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
       "tags": [
         "javascript",
         "github",
@@ -686,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "eternityspring"
     },
     {
@@ -701,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 495,
       "user": "sv-number"
     },
     {
@@ -716,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2237,
+      "stars": 2246,
       "user": "KKKKhazix"
     },
     {
@@ -731,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 687,
       "user": "jd-opensource"
     },
     {
@@ -746,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "MengMengCode"
     },
     {
@@ -761,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 122,
       "user": "WhiteDNS"
     },
     {
@@ -776,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "forever94yu"
     },
     {
@@ -791,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 575,
       "user": "SMNETSTUDIO"
     },
     {
@@ -852,6 +898,18 @@
       "user": "freddyb"
     },
     {
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "published_at": "2026-08-10T08:30:18.013-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
+    },
+    {
       "title": "Who Should Pay For Source Code Availability?",
       "url": "https://kristoff.it/blog/source-code-availability/",
       "published_at": "2026-08-09T08:42:39.432-05:00",
@@ -871,10 +929,10 @@
       "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
       "tags": [
         "Security",
-        "ceva logistics",
-        "cyberattack",
-        "data breach",
-        "Shipping"
+        "Steam",
+        "Valve Software",
+        "Shipping",
+        "data breach"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -955,22 +1013,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "published_at": "2026-08-09T14:30:00.000Z",
-      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "tags": [
-        "Security",
-        "AI",
-        "Meta",
-        "cybersecurity",
-        "moonshot"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1085,6 +1127,21 @@
       "user": "Giorgio Galassi"
     },
     {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
       "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
       "published_at": "2026-08-07T14:54:45Z",
@@ -1130,6 +1187,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "published_at": "2026-08-08T10:09:17Z",
+      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
+      "tags": [
+        "angular",
+        "typescript",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
+    },
+    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
       "published_at": "2026-07-28T10:50:54Z",
@@ -1173,21 +1245,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
-      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
-      "published_at": "2026-07-31T06:57:48Z",
-      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
-      "source": "Dev.to",
-      "user": "Meera9"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1310,10 +1367,10 @@
       "user": "velmu"
     },
     {
-      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
       "tags": [
         "javascript",
         "github",
@@ -1321,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "eternityspring"
     },
     {
@@ -1336,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 495,
       "user": "sv-number"
     },
     {
@@ -1351,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "nkxx188"
     },
     {
@@ -1381,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "pingmike2"
     },
     {
@@ -1396,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 575,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1426,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 380,
       "user": "Appllama"
     },
     {
@@ -1441,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 312,
       "user": "s010s"
     },
     {
@@ -1456,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 256,
       "user": "tanishqkancharla"
     },
     {
@@ -1849,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2237,
+      "stars": 2246,
       "user": "KKKKhazix"
     },
     {
@@ -1864,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1216,
       "user": "ShawnPana"
     },
     {
@@ -1879,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 973,
       "user": "oil-oil"
     },
     {
@@ -1894,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 687,
       "user": "jd-opensource"
     },
     {
@@ -1930,7 +1987,7 @@
       "title": "How to divide a Python script in a shorter script and a module?",
       "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
       "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score -3",
+      "description": "Stack Overflow question · 4 answers · score -2",
       "tags": [
         "python",
         "jupyter-notebook"
@@ -2097,6 +2154,20 @@
       "user": "Çalgan Aygün"
     },
     {
+      "title": "AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP",
+      "url": "https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i",
+      "published_at": "2026-08-08T12:43:55Z",
+      "description": "The Problem with Fully Autonomous Remediation  Every platform team eventually asks the same...",
+      "tags": [
+        "ai",
+        "gcp",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq284czaemc8cyufm98xh.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
       "published_at": "2026-07-30T06:55:16Z",
@@ -2110,21 +2181,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2264,6 +2320,21 @@
   ],
   "WebDev": [
     {
+      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
+      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
+      "published_at": "2026-08-09T22:14:30Z",
+      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
+      "tags": [
+        "tpu",
+        "vllm",
+        "llm",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
       "published_at": "2026-07-29T18:18:58Z",
@@ -2277,21 +2348,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
-      "url": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
-      "published_at": "2026-07-31T06:57:48Z",
-      "description": "Why I Built a Responsive Image Strip Gallery (and Published It for Every Framework)   A few...",
-      "tags": [
-        "frontend",
-        "javascript",
-        "opensource",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmcmnbgrn747nhal0jku0.jpg",
-      "source": "Dev.to",
-      "user": "Meera9"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2391,6 +2447,36 @@
   ],
   "Mobile": [
     {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
       "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
       "published_at": "2026-08-04T23:10:31Z",
@@ -2421,21 +2507,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Porting 16 BLoC & Signal Benchmark Apps to BlocSignal: Elevating Flutter UX & DX",
-      "url": "https://dev.to/gde/porting-16-bloc-signal-benchmark-apps-to-blocsignal-elevating-flutter-ux-dx-2dnl",
-      "published_at": "2026-08-02T18:21:58Z",
-      "description": "We ported 16 official example apps from felangel/bloc and rodydavis/signals.dart to showcase how BlocSignal simplifies Flutter state management with synchronous frame updates, computed() derivations, and streamless Mutex concurrency.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fazbfkq7ro5fnjh4y9o65.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
       "published_at": "2026-08-05T12:44:16Z",
@@ -2447,7 +2518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 122,
       "user": "WhiteDNS"
     },
     {
@@ -2462,7 +2533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 380,
       "user": "Appllama"
     },
     {
@@ -2515,6 +2586,51 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Three Clouds, Three Native Agents",
+      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
+      "published_at": "2026-08-10T15:04:09Z",
+      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
+      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
+      "published_at": "2026-08-09T22:14:30Z",
+      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
+      "tags": [
+        "tpu",
+        "vllm",
+        "llm",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
@@ -2651,6 +2767,20 @@
       "user": "xbill"
     },
     {
+      "title": "AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP",
+      "url": "https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i",
+      "published_at": "2026-08-08T12:43:55Z",
+      "description": "The Problem with Fully Autonomous Remediation  Every platform team eventually asks the same...",
+      "tags": [
+        "ai",
+        "gcp",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq284czaemc8cyufm98xh.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Debugging Deployments with Gemma 2B, TPU v6e-1, MCP, and Antigravity CLI",
       "url": "https://dev.to/gde/debugging-deployments-with-gemma-2b-tpu-v6e-1-mcp-and-antigravity-cli-3hh3",
       "published_at": "2026-07-08T13:26:02Z",
@@ -2726,21 +2856,6 @@
       "user": "xbill"
     },
     {
-      "title": "[GCP in Action] LINE Business Card Bot Evolution: Dual-Side Recognition and Merging with Gemini",
-      "url": "https://dev.to/gde/gcp-in-action-line-business-card-bot-evolution-dual-side-recognition-and-merging-with-gemini-2220",
-      "published_at": "2026-07-23T13:24:50Z",
-      "description": "Pain Point: One Chinese Business Card is Actually Two Business Cards     Business cards in...",
-      "tags": [
-        "ai",
-        "cloud",
-        "gemini",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6w6qe4tziwy0pk8qm71.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -2752,7 +2867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "forever94yu"
     },
     {
@@ -2770,6 +2885,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "lightning_missile"
+    },
+    {
+      "title": "Archer buys former rival Wisk Aero",
+      "url": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
+      "published_at": "2026-08-10T15:09:39.000Z",
+      "description": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
+      "tags": [
+        "Transportation",
+        "Archer Aviation",
+        "Boeing",
+        "Wisk Aero"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     }
   ],
   "Database": [
@@ -2803,6 +2933,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
     {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
@@ -2981,16 +3126,28 @@
       "user": "ewenjo"
     },
     {
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "published_at": "2026-08-10T08:30:18.013-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
+    },
+    {
       "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
       "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
       "published_at": "2026-08-10T14:20:19.000Z",
       "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
       "tags": [
         "Security",
-        "ceva logistics",
-        "cyberattack",
-        "data breach",
-        "Shipping"
+        "Steam",
+        "Valve Software",
+        "Shipping",
+        "data breach"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3000,43 +3157,12 @@
       "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
       "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
       "published_at": "2026-08-10T14:14:43.000Z",
-      "description": "A bug in the tech giant's website mistakenly shared users' sign-up information, including personal data and their password, to third-party companies.",
+      "description": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..",
       "tags": [
         "Security",
-        "cybersecurity",
         "advertisers",
-        "Klaviyo"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "published_at": "2026-08-09T14:30:00.000Z",
-      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "tags": [
-        "Security",
-        "AI",
-        "Meta",
         "cybersecurity",
-        "moonshot"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "This &#8216;adversarial&#8217; pattern can prevent surveillance cameras from detecting you",
-      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-      "published_at": "2026-08-09T14:00:00.000Z",
-      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
-      "tags": [
-        "Security",
-        "privacy",
-        "facial recognition",
-        "cybersecurity"
+        "Klaviyo"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3061,6 +3187,36 @@
   ],
   "Tools": [
     {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
       "published_at": "2026-08-05T14:56:26Z",
@@ -3074,6 +3230,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "published_at": "2026-08-08T10:09:17Z",
+      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
+      "tags": [
+        "angular",
+        "typescript",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -3136,34 +3307,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google's AI tools for developers and enterprise, and when to actually reach for each",
-      "url": "https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816",
-      "published_at": "2026-08-03T21:51:04Z",
-      "description": "Beyond the consumer surfaces most people know, the Gemini app and Gemini Notebook (formerly...",
-      "tags": [
-        "ai",
-        "google"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl0dm27io681f8bhcsgv1.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
-      "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
-      "url": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
-      "published_at": "2026-08-02T11:08:36Z",
-      "description": "A deep-dive technical guide to GitOps agent manifests, AOT evaluation gates, canary deployments, and multi-agent communication protocols.",
-      "tags": [
-        "ai",
-        "devops",
-        "gitops",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45slrjfmxxjbkrx22vhe.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3200,10 +3343,10 @@
       "user": "pabs3"
     },
     {
-      "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
       "tags": [
         "javascript",
         "github",
@@ -3211,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "eternityspring"
     },
     {
@@ -3226,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 495,
       "user": "sv-number"
     },
     {
@@ -3241,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 256,
       "user": "nkxx188"
     },
     {
@@ -3271,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "pingmike2"
     },
     {
@@ -3286,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2237,
+      "stars": 2246,
       "user": "KKKKhazix"
     },
     {
@@ -3301,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1189,
+      "stars": 1216,
       "user": "ShawnPana"
     },
     {
@@ -3316,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 973,
       "user": "oil-oil"
     },
     {
@@ -3331,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 687,
       "user": "jd-opensource"
     },
     {
@@ -3361,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "MengMengCode"
     },
     {
@@ -3376,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 122,
       "user": "WhiteDNS"
     },
     {
@@ -3406,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "forever94yu"
     },
     {
@@ -3436,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 575,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3466,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 380,
       "user": "Appllama"
     },
     {
@@ -3481,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 312,
       "user": "s010s"
     },
     {
@@ -3496,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 256,
       "user": "tanishqkancharla"
     },
     {
@@ -3571,8 +3714,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 80,
       "user": "gpwn-org"
+    },
+    {
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "published_at": "2026-08-10T08:30:18.013-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
     },
     {
       "title": "Fast Haskell Scripts on GitHub Actions",
@@ -3586,22 +3741,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abhin4v"
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "published_at": "2026-08-09T14:30:00.000Z",
-      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "tags": [
-        "Security",
-        "AI",
-        "Meta",
-        "cybersecurity",
-        "moonshot"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
