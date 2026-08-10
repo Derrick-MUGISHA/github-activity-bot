@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if) | Dev.to |
 | 20 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
 
-<sub>Last fetched: Tue, 11 Aug 2026 00:03:38 CAT</sub>
+<sub>Last fetched: Tue, 11 Aug 2026 00:54:28 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `Python` — Explain GIL and its implications for multithreading**
+**2. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 40.8% | `████████████████████` |
+| **AI** | 76 | 41.3% | `████████████████████` |
 | **JavaScript** | 46 | 25.0% | `████████████░░░░░░░░` |
-| **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **Python** | 32 | 17.4% | `█████████░░░░░░░░░░░` |
+| **Tools** | 44 | 23.9% | `████████████░░░░░░░░` |
+| **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.2%
-Go              ███████████████████████████ 25.2%
-Python          █████████████████████ 19.6%
-Java            █████████████████████ 19.6%
-Rust            █████ 4.3%
+JavaScript      ██████████████████████████████ 28.0%
+Go              ███████████████████████████ 25.0%
+Python          █████████████████████ 19.5%
+Java            █████████████████████ 19.5%
+Rust            █████ 4.9%
 Swift           █ 1.2%
 Kotlin          █ 1.2%
 CSharp          █ 0.6%
@@ -211,7 +211,7 @@ pie title Programming Languages Distribution
     "Go" : 41
     "Python" : 32
     "Java" : 32
-    "Rust" : 7
+    "Rust" : 8
     "Swift" : 2
     "Kotlin" : 2
     "CSharp" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-19-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-37-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-19-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 10 Aug 2026 22:03:38 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 10 Aug 2026 22:54:28 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
