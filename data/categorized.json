@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 508,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 249,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2102,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 609,
       "user": "jd-opensource"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 105,
       "user": "MengMengCode"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "forever94yu"
     },
     {
@@ -825,19 +825,64 @@
       "user": "criptogus"
     },
     {
-      "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
-      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
-      "published_at": "2026-08-03T12:23:26Z",
+      "title": "margelo/ai-chat-demo - GitHub Repository",
+      "url": "https://github.com/margelo/ai-chat-demo",
+      "published_at": "2026-08-04T10:09:41Z",
       "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
+      "source": "GitHub",
+      "stars": 158,
+      "user": "margelo"
+    },
+    {
+      "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
+      "url": "https://github.com/OlegSotnikov/jc-rs",
+      "published_at": "2026-08-04T03:46:11Z",
+      "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/70569672?v=4",
       "source": "GitHub",
-      "stars": 279,
-      "user": "HaidarJbeily7"
+      "stars": 105,
+      "user": "OlegSotnikov"
+    },
+    {
+      "title": "mikker/fut - fear, uncertainty and ... terminals",
+      "url": "https://github.com/mikker/fut",
+      "published_at": "2026-08-04T08:23:00Z",
+      "description": "fear, uncertainty and ... terminals",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
+      "source": "GitHub",
+      "stars": 78,
+      "user": "mikker"
+    },
+    {
+      "title": "p4r1ch4y/superfind - find your devices using bluetooth, available for CLI and Android ",
+      "url": "https://github.com/p4r1ch4y/superfind",
+      "published_at": "2026-08-05T13:00:47Z",
+      "description": "find your devices using bluetooth, available for CLI and Android ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59067421?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "p4r1ch4y"
     },
     {
       "title": "Who Should Pay For Source Code Availability?",
@@ -1388,23 +1433,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "google-gemma/gemma-translator - GitHub Repository",
-      "url": "https://github.com/google-gemma/gemma-translator",
-      "published_at": "2026-08-03T18:50:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
-      "source": "GitHub",
-      "stars": 686,
-      "user": "google-gemma"
     },
     {
       "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
@@ -1418,23 +1448,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 508,
       "user": "eternityspring"
-    },
-    {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "nkxx188"
     },
     {
       "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
@@ -1448,8 +1463,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 249,
       "user": "sv-number"
+    },
+    {
+      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "published_at": "2026-08-05T11:45:52Z",
+      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "nkxx188"
+    },
+    {
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+      "published_at": "2026-08-06T08:24:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "source": "GitHub",
+      "stars": 225,
+      "user": "ruudkoeyvoets"
     },
     {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
@@ -1465,36 +1510,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "kylan11"
-    },
-    {
-      "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
-      "url": "https://github.com/wumingqi60/lingxi",
-      "published_at": "2026-08-03T05:46:34Z",
-      "description": "灵犀跨境-开源共建版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
-      "source": "GitHub",
-      "stars": 697,
-      "user": "wumingqi60"
-    },
-    {
-      "title": "openTrinity/mycontext - MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "url": "https://github.com/openTrinity/mycontext",
-      "published_at": "2026-08-03T15:08:51Z",
-      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
-      "source": "GitHub",
-      "stars": 522,
-      "user": "openTrinity"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -1523,38 +1538,80 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 256,
       "user": "Appllama"
     },
     {
-      "title": "halcyon-video/halcyon-video - Your Jellyfin library as a walkable 1990s video rental store — three.js, first-person, self-hosted",
-      "url": "https://github.com/halcyon-video/halcyon-video",
-      "published_at": "2026-08-03T22:26:10Z",
-      "description": "Your Jellyfin library as a walkable 1990s video rental store — three.js, first-person, self-hosted",
+      "title": "margelo/ai-chat-demo - GitHub Repository",
+      "url": "https://github.com/margelo/ai-chat-demo",
+      "published_at": "2026-08-04T10:09:41Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312717042?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 163,
-      "user": "halcyon-video"
+      "stars": 158,
+      "user": "margelo"
     },
     {
-      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "url": "https://github.com/firecrawl/anydoc",
-      "published_at": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "published_at": "2026-08-07T22:46:51Z",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "tanishqkancharla"
+    },
+    {
+      "title": "2023782whl/Mem-kb - Self-Evolving Enterprise Knowledge Base",
+      "url": "https://github.com/2023782whl/Mem-kb",
+      "published_at": "2026-08-06T03:34:56Z",
+      "description": "Self-Evolving Enterprise Knowledge Base",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102843792?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "2023782whl"
+    },
+    {
+      "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
+      "url": "https://github.com/OlegSotnikov/jc-rs",
+      "published_at": "2026-08-04T03:46:11Z",
+      "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/70569672?v=4",
       "source": "GitHub",
-      "stars": 12704,
-      "user": "firecrawl"
+      "stars": 105,
+      "user": "OlegSotnikov"
+    },
+    {
+      "title": "Show javascript text on an html file",
+      "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
+      "published_at": "2026-08-10T00:52:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sumo"
     },
     {
       "title": "Pointers and references in Javascript",
@@ -1567,20 +1624,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koolaid222"
-    },
-    {
-      "title": "Im confused about changing a background image with a confirm()",
-      "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
-      "published_at": "2026-08-08T00:27:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "css",
-        "confirm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lproductions"
     },
     {
       "title": "How to delete from a sorted array without O(n)",
@@ -1937,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2102,
       "user": "KKKKhazix"
     },
     {
@@ -1952,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 867,
       "user": "ShawnPana"
     },
     {
@@ -1967,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 609,
       "user": "jd-opensource"
     },
     {
@@ -1982,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 590,
       "user": "oil-oil"
     },
     {
@@ -1997,23 +2040,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 544,
       "user": "T8mars"
-    },
-    {
-      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "url": "https://github.com/firecrawl/anydoc",
-      "published_at": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
-      "source": "GitHub",
-      "stars": 12704,
-      "user": "firecrawl"
     },
     {
       "title": "React Error: Target Container is not a DOM Element",
@@ -2047,7 +2075,7 @@
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python"
       ],
@@ -2422,18 +2450,16 @@
       "user": "velmu"
     },
     {
-      "title": "Im confused about changing a background image with a confirm()",
-      "url": "https://stackoverflow.com/questions/79991460/im-confused-about-changing-a-background-image-with-a-confirm",
-      "published_at": "2026-08-08T00:27:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Show javascript text on an html file",
+      "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
+      "published_at": "2026-08-10T00:52:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "javascript",
-        "css",
-        "confirm"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Lproductions"
+      "user": "Sumo"
     },
     {
       "title": "Stuck in tutorial hell after 4 years: How do I build web sites and think independently?",
@@ -2598,8 +2624,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 256,
       "user": "Appllama"
+    },
+    {
+      "title": "p4r1ch4y/superfind - find your devices using bluetooth, available for CLI and Android ",
+      "url": "https://github.com/p4r1ch4y/superfind",
+      "published_at": "2026-08-05T13:00:47Z",
+      "description": "find your devices using bluetooth, available for CLI and Android ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59067421?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "p4r1ch4y"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -2888,7 +2929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "forever94yu"
     }
   ],
@@ -2917,7 +2958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "0xwilliamortiz"
     },
     {
@@ -3127,7 +3168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "0xwilliamortiz"
     },
     {
@@ -3330,23 +3371,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 706,
       "user": "0xwilliamortiz"
-    },
-    {
-      "title": "google-gemma/gemma-translator - GitHub Repository",
-      "url": "https://github.com/google-gemma/gemma-translator",
-      "published_at": "2026-08-03T18:50:34Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/271369873?v=4",
-      "source": "GitHub",
-      "stars": 686,
-      "user": "google-gemma"
     },
     {
       "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
@@ -3360,23 +3386,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 508,
       "user": "eternityspring"
-    },
-    {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "nkxx188"
     },
     {
       "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
@@ -3390,8 +3401,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 249,
       "user": "sv-number"
+    },
+    {
+      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "published_at": "2026-08-05T11:45:52Z",
+      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "nkxx188"
+    },
+    {
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+      "published_at": "2026-08-06T08:24:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "source": "GitHub",
+      "stars": 225,
+      "user": "ruudkoeyvoets"
     },
     {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -3405,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2102,
       "user": "KKKKhazix"
     },
     {
@@ -3420,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 867,
       "user": "ShawnPana"
     },
     {
@@ -3435,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 609,
       "user": "jd-opensource"
     },
     {
@@ -3450,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 590,
       "user": "oil-oil"
     },
     {
@@ -3465,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 544,
       "user": "T8mars"
     },
     {
@@ -3495,23 +3536,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 105,
       "user": "MengMengCode"
-    },
-    {
-      "title": "Zesuy/Plugin-Deepseek-Vision - CLIProxyAPI v7 plugin for DeepSeek Responses vision preprocessing",
-      "url": "https://github.com/Zesuy/Plugin-Deepseek-Vision",
-      "published_at": "2026-08-03T02:54:48Z",
-      "description": "CLIProxyAPI v7 plugin for DeepSeek Responses vision preprocessing",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/170857976?v=4",
-      "source": "GitHub",
-      "stars": 72,
-      "user": "Zesuy"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -3525,8 +3551,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "forever94yu"
+    },
+    {
+      "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
+      "url": "https://github.com/cr-zhichen/DJOneHubNative",
+      "published_at": "2026-08-05T02:51:22Z",
+      "description": "DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "cr-zhichen"
     },
     {
       "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
@@ -3542,36 +3583,6 @@
       "source": "GitHub",
       "stars": 42,
       "user": "kylan11"
-    },
-    {
-      "title": "wumingqi60/lingxi - 灵犀跨境-开源共建版",
-      "url": "https://github.com/wumingqi60/lingxi",
-      "published_at": "2026-08-03T05:46:34Z",
-      "description": "灵犀跨境-开源共建版",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63189147?v=4",
-      "source": "GitHub",
-      "stars": 697,
-      "user": "wumingqi60"
-    },
-    {
-      "title": "openTrinity/mycontext - MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "url": "https://github.com/openTrinity/mycontext",
-      "published_at": "2026-08-03T15:08:51Z",
-      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312550136?v=4",
-      "source": "GitHub",
-      "stars": 522,
-      "user": "openTrinity"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -3600,53 +3611,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 256,
       "user": "Appllama"
     },
     {
-      "title": "halcyon-video/halcyon-video - Your Jellyfin library as a walkable 1990s video rental store — three.js, first-person, self-hosted",
-      "url": "https://github.com/halcyon-video/halcyon-video",
-      "published_at": "2026-08-03T22:26:10Z",
-      "description": "Your Jellyfin library as a walkable 1990s video rental store — three.js, first-person, self-hosted",
+      "title": "margelo/ai-chat-demo - GitHub Repository",
+      "url": "https://github.com/margelo/ai-chat-demo",
+      "published_at": "2026-08-04T10:09:41Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312717042?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
       "source": "GitHub",
-      "stars": 163,
-      "user": "halcyon-video"
+      "stars": 158,
+      "user": "margelo"
     },
     {
-      "title": "firecrawl/anydoc - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "url": "https://github.com/firecrawl/anydoc",
-      "published_at": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "published_at": "2026-08-07T22:46:51Z",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/135057108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 12704,
-      "user": "firecrawl"
+      "stars": 138,
+      "user": "tanishqkancharla"
     },
     {
-      "title": "HaidarJbeily7/cargo-frisk - GitHub Repository",
-      "url": "https://github.com/HaidarJbeily7/cargo-frisk",
-      "published_at": "2026-08-03T12:23:26Z",
-      "description": "Trending GitHub Repository",
+      "title": "2023782whl/Mem-kb - Self-Evolving Enterprise Knowledge Base",
+      "url": "https://github.com/2023782whl/Mem-kb",
+      "published_at": "2026-08-06T03:34:56Z",
+      "description": "Self-Evolving Enterprise Knowledge Base",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/112971443?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/102843792?v=4",
       "source": "GitHub",
-      "stars": 279,
-      "user": "HaidarJbeily7"
+      "stars": 134,
+      "user": "2023782whl"
     },
     {
       "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
@@ -3664,34 +3675,64 @@
       "user": "cristicretu"
     },
     {
-      "title": "ikuV/deident-wasm - Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
-      "url": "https://github.com/ikuV/deident-wasm",
-      "published_at": "2026-08-03T13:07:42Z",
-      "description": "Privacy transformation engine for structured datasets — pseudonymization and risk-assessed anonymization for CSV files, driven by a declarative YAML policy.",
+      "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
+      "url": "https://github.com/OlegSotnikov/jc-rs",
+      "published_at": "2026-08-04T03:46:11Z",
+      "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65980620?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/70569672?v=4",
       "source": "GitHub",
-      "stars": 148,
-      "user": "ikuV"
+      "stars": 105,
+      "user": "OlegSotnikov"
     },
     {
-      "title": "Andiveli/wptui - Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
-      "url": "https://github.com/Andiveli/wptui",
-      "published_at": "2026-08-03T03:59:51Z",
-      "description": "Keyboard-driven WhatsApp client for the terminal (Rust/Ratatui + Go/whatsmeow)",
+      "title": "mikker/fut - fear, uncertainty and ... terminals",
+      "url": "https://github.com/mikker/fut",
+      "published_at": "2026-08-04T08:23:00Z",
+      "description": "fear, uncertainty and ... terminals",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/160297636?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
       "source": "GitHub",
-      "stars": 143,
-      "user": "Andiveli"
+      "stars": 78,
+      "user": "mikker"
+    },
+    {
+      "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "published_at": "2026-08-07T09:37:32Z",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "Flaminis"
+    },
+    {
+      "title": "p4r1ch4y/superfind - find your devices using bluetooth, available for CLI and Android ",
+      "url": "https://github.com/p4r1ch4y/superfind",
+      "published_at": "2026-08-05T13:00:47Z",
+      "description": "find your devices using bluetooth, available for CLI and Android ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/59067421?v=4",
+      "source": "GitHub",
+      "stars": 72,
+      "user": "p4r1ch4y"
     },
     {
       "title": "The AI safety test is becoming a safety risk",
