@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build a Dart ADK Agent and MCP Server",
-      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
-      "published_at": "2026-08-09T17:03:45Z",
-      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
-      "tags": [
-        "dart",
-        "ai",
-        "mcp",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
       "published_at": "2026-08-09T22:51:30Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2262,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 703,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "SMNETSTUDIO"
     },
     {
@@ -840,19 +840,19 @@
       "user": "OlegSotnikov"
     },
     {
-      "title": "mikker/fut - fear, uncertainty and ... terminals",
-      "url": "https://github.com/mikker/fut",
-      "published_at": "2026-08-04T08:23:00Z",
-      "description": "fear, uncertainty and ... terminals",
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 82,
-      "user": "mikker"
+      "stars": 83,
+      "user": "JohnKinyanjui"
     },
     {
       "title": "GitHub Actions needs OIDC audience constraints",
@@ -889,6 +889,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nitin_Juyal"
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "published_at": "2026-08-10T20:04:24.000Z",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "openclaw"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
@@ -937,22 +952,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "published_at": "2026-08-10T12:00:00.000Z",
-      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "Exclusive",
-        "microchips"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -1363,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "sv-number"
     },
     {
@@ -1393,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1423,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1453,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 404,
       "user": "Appllama"
     },
     {
@@ -1468,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "s010s"
     },
     {
@@ -1483,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "tanishqkancharla"
     },
     {
@@ -1502,21 +1501,6 @@
       "user": "OlegSotnikov"
     },
     {
-      "title": "How do I export a JavaScript project from Dashtera platform?",
-      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
-      "published_at": "2026-08-10T19:04:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "dashboard",
-        "lightningchart"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarekD"
-    },
-    {
       "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
       "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
       "published_at": "2026-08-10T19:29:02.000Z",
@@ -1530,6 +1514,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "omerix"
+    },
+    {
+      "title": "How do I export a JavaScript project from Dashtera platform?",
+      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
+      "published_at": "2026-08-10T19:04:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "dashboard",
+        "lightningchart"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JarekD"
     },
     {
       "title": "How do I make it so that the script responds differently for each element?",
@@ -1904,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2262,
       "user": "KKKKhazix"
     },
     {
@@ -1919,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1270,
+      "stars": 1276,
       "user": "ShawnPana"
     },
     {
@@ -1934,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1116,
       "user": "oil-oil"
     },
     {
@@ -1949,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 703,
       "user": "jd-opensource"
     },
     {
@@ -2032,18 +2030,6 @@
       "user": "Soroush Kalantari"
     },
     {
-      "title": "How can I improve the efficiency of my code for CSES Missing Number?",
-      "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
-      "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Damian Fernando D"
-    },
-    {
       "title": "Modifying a class list results in no modification of the list",
       "url": "https://stackoverflow.com/questions/79991677/modifying-a-class-list-results-in-no-modification-of-the-list",
       "published_at": "2026-08-09T14:03:24.000Z",
@@ -2056,6 +2042,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
+    },
+    {
+      "title": "How can I improve the efficiency of my code for CSES Missing Number?",
+      "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
+      "published_at": "2026-08-08T18:40:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Damian Fernando D"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -2616,7 +2614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 404,
       "user": "Appllama"
     },
     {
@@ -2923,6 +2921,19 @@
       "source": "GitHub",
       "stars": 66,
       "user": "forever94yu"
+    },
+    {
+      "title": "We're not done with point clouds",
+      "url": "https://claytonwramsey.com/blog/mvt/",
+      "published_at": "2026-08-10T13:21:20.088-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "performance",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "claytonwramsey"
     },
     {
       "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
@@ -3513,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "sv-number"
     },
     {
@@ -3543,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3573,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2260,
+      "stars": 2262,
       "user": "KKKKhazix"
     },
     {
@@ -3588,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1270,
+      "stars": 1276,
       "user": "ShawnPana"
     },
     {
@@ -3603,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1116,
       "user": "oil-oil"
     },
     {
@@ -3618,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 703,
       "user": "jd-opensource"
     },
     {
@@ -3723,7 +3734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3753,7 +3764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 404,
       "user": "Appllama"
     },
     {
@@ -3768,7 +3779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "s010s"
     },
     {
@@ -3783,7 +3794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 282,
       "user": "tanishqkancharla"
     },
     {
@@ -3828,7 +3839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 90,
       "user": "tllovesxs"
     },
     {
@@ -3847,19 +3858,19 @@
       "user": "gpwn-org"
     },
     {
-      "title": "mikker/fut - fear, uncertainty and ... terminals",
-      "url": "https://github.com/mikker/fut",
-      "published_at": "2026-08-04T08:23:00Z",
-      "description": "fear, uncertainty and ... terminals",
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 82,
-      "user": "mikker"
+      "stars": 83,
+      "user": "JohnKinyanjui"
     },
     {
       "title": "GitHub Actions needs OIDC audience constraints",
