@@ -507,21 +507,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -701,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 628,
       "user": "eternityspring"
     },
     {
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 467,
       "user": "sv-number"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2215,
+      "stars": 2231,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 681,
       "user": "jd-opensource"
     },
     {
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "MengMengCode"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 130,
       "user": "WhiteDNS"
     },
     {
@@ -791,8 +776,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "forever94yu"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "published_at": "2026-08-10T09:06:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
+      "source": "GitHub",
+      "stars": 494,
+      "user": "SMNETSTUDIO"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -808,21 +808,6 @@
       "source": "GitHub",
       "stars": 425,
       "user": "criptogus"
-    },
-    {
-      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "published_at": "2026-08-10T09:06:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
-      "source": "GitHub",
-      "stars": 406,
-      "user": "SMNETSTUDIO"
     },
     {
       "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "mikker"
     },
     {
@@ -878,19 +863,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
-    },
-    {
-      "title": "How do programming languages impact token efficiency and correctness?",
-      "url": "https://danluu.com/pl-tokens/",
-      "published_at": "2026-08-10T02:47:36.345-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ndr"
     },
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
@@ -1361,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 628,
       "user": "eternityspring"
     },
     {
@@ -1376,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 467,
       "user": "sv-number"
     },
     {
@@ -1391,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "nkxx188"
     },
     {
@@ -1406,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1421,8 +1393,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "pingmike2"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "published_at": "2026-08-10T09:06:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
+      "source": "GitHub",
+      "stars": 494,
+      "user": "SMNETSTUDIO"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -1440,21 +1427,6 @@
       "user": "criptogus"
     },
     {
-      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "published_at": "2026-08-10T09:06:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
-      "source": "GitHub",
-      "stars": 406,
-      "user": "SMNETSTUDIO"
-    },
-    {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
       "url": "https://github.com/Appllama/top-welcome-screens",
       "published_at": "2026-08-08T12:44:52Z",
@@ -1466,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 368,
       "user": "Appllama"
     },
     {
@@ -1481,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 297,
       "user": "s010s"
     },
     {
@@ -1496,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 232,
       "user": "tanishqkancharla"
     },
     {
@@ -1515,6 +1487,31 @@
       "user": "OlegSotnikov"
     },
     {
+      "title": "How do I make it so that the script responds differently for each element?",
+      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
+      "published_at": "2026-08-10T12:53:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xenon7N"
+    },
+    {
+      "title": "Show javascript text on an html file",
+      "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
+      "published_at": "2026-08-10T00:52:26.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sumo"
+    },
+    {
       "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
       "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
       "published_at": "2026-08-10T06:45:26.000Z",
@@ -1531,16 +1528,16 @@
       "user": "Shanto Sur"
     },
     {
-      "title": "Show javascript text on an html file",
-      "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
-      "published_at": "2026-08-10T00:52:26.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "title": "Pointers and references in Javascript",
+      "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
+      "published_at": "2026-08-08T22:56:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Sumo"
+      "user": "Koolaid222"
     },
     {
       "title": "Why currentUser below is empty while currentUser above is not?",
@@ -1555,18 +1552,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "XavierLM"
-    },
-    {
-      "title": "Pointers and references in Javascript",
-      "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
-      "published_at": "2026-08-08T22:56:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Koolaid222"
     },
     {
       "title": "How do I retrieve the shared facbook post links in bulk?",
@@ -1636,21 +1621,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luke Dennis"
-    },
-    {
-      "title": "How to get the filepath of the currently executing JavaScript code",
-      "url": "https://stackoverflow.com/questions/2255689/how-to-get-the-filepath-of-the-currently-executing-javascript-code",
-      "published_at": "2010-02-12T23:00:40.000Z",
-      "description": "Stack Overflow question · 13 answers · score 90",
-      "tags": [
-        "javascript",
-        "include",
-        "absolute-path",
-        "src"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "B T"
     },
     {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
@@ -1891,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2215,
+      "stars": 2231,
       "user": "KKKKhazix"
     },
     {
@@ -1906,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1154,
       "user": "ShawnPana"
     },
     {
@@ -1921,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 909,
       "user": "oil-oil"
     },
     {
@@ -1936,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 681,
       "user": "jd-opensource"
     },
     {
@@ -1951,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 582,
       "user": "T8mars"
     },
     {
@@ -2024,7 +1994,7 @@
       "title": "How can I improve the efficiency of my code for CSES Missing Number?",
       "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
       "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2334,6 +2304,19 @@
       "user": "velmu"
     },
     {
+      "title": "How do I make it so that the script responds differently for each element?",
+      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
+      "published_at": "2026-08-10T12:53:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xenon7N"
+    },
+    {
       "title": "Show javascript text on an html file",
       "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
       "published_at": "2026-08-10T00:52:26.000Z",
@@ -2451,21 +2434,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building AI Agents with the Kotlin Agent Development Kit (ADK)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-kotlin-agent-development-kit-adk-2gpa",
-      "published_at": "2026-07-28T18:25:43Z",
-      "description": "This tutorial builds a starter \"Hello World\" style agent using Kotlin and the native Kotlin version...",
-      "tags": [
-        "kotlin",
-        "ai",
-        "gemini",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8dj5tuqt2cvbl3t1jns.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
       "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
       "published_at": "2026-08-05T12:44:16Z",
@@ -2477,7 +2445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 130,
       "user": "WhiteDNS"
     },
     {
@@ -2492,7 +2460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 368,
       "user": "Appllama"
     },
     {
@@ -2782,7 +2750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "forever94yu"
     },
     {
@@ -3210,7 +3178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 628,
       "user": "eternityspring"
     },
     {
@@ -3225,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 467,
       "user": "sv-number"
     },
     {
@@ -3240,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "nkxx188"
     },
     {
@@ -3255,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3270,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "pingmike2"
     },
     {
@@ -3285,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2215,
+      "stars": 2231,
       "user": "KKKKhazix"
     },
     {
@@ -3300,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1154,
       "user": "ShawnPana"
     },
     {
@@ -3315,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 909,
       "user": "oil-oil"
     },
     {
@@ -3330,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 681,
       "user": "jd-opensource"
     },
     {
@@ -3345,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 582,
       "user": "T8mars"
     },
     {
@@ -3360,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "MengMengCode"
     },
     {
@@ -3375,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 130,
       "user": "WhiteDNS"
     },
     {
@@ -3390,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/200734773?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 85,
       "user": "XiaoRavpa"
     },
     {
@@ -3405,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 63,
+      "stars": 64,
       "user": "forever94yu"
     },
     {
@@ -3420,8 +3388,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "cr-zhichen"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "published_at": "2026-08-10T09:06:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
+      "source": "GitHub",
+      "stars": 494,
+      "user": "SMNETSTUDIO"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -3439,21 +3422,6 @@
       "user": "criptogus"
     },
     {
-      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "published_at": "2026-08-10T09:06:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
-      "source": "GitHub",
-      "stars": 406,
-      "user": "SMNETSTUDIO"
-    },
-    {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
       "url": "https://github.com/Appllama/top-welcome-screens",
       "published_at": "2026-08-08T12:44:52Z",
@@ -3465,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 368,
       "user": "Appllama"
     },
     {
@@ -3480,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 290,
+      "stars": 297,
       "user": "s010s"
     },
     {
@@ -3495,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 232,
       "user": "tanishqkancharla"
     },
     {
@@ -3555,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2819?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "mikker"
     },
     {
@@ -3572,6 +3540,19 @@
       "source": "GitHub",
       "stars": 76,
       "user": "Flaminis"
+    },
+    {
+      "title": "Fast Haskell Scripts on GitHub Actions",
+      "url": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
+      "published_at": "2026-08-10T06:21:36.319-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "haskell",
+        "nix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "abhin4v"
     },
     {
       "title": "The AI safety test is becoming a safety risk",
