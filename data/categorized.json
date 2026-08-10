@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 609,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 427,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2173,
+      "stars": 2196,
       "user": "KKKKhazix"
     },
     {
@@ -746,8 +746,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 667,
       "user": "jd-opensource"
+    },
+    {
+      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "url": "https://github.com/MengMengCode/VoCat",
+      "published_at": "2026-08-09T06:43:49Z",
+      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "MengMengCode"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -765,21 +780,6 @@
       "user": "WhiteDNS"
     },
     {
-      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "url": "https://github.com/MengMengCode/VoCat",
-      "published_at": "2026-08-09T06:43:49Z",
-      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
-      "source": "GitHub",
-      "stars": 128,
-      "user": "MengMengCode"
-    },
-    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -791,23 +791,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "forever94yu"
-    },
-    {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
-      "source": "GitHub",
-      "stars": 44,
-      "user": "kylan11"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -823,21 +808,6 @@
       "source": "GitHub",
       "stars": 425,
       "user": "criptogus"
-    },
-    {
-      "title": "margelo/ai-chat-demo - GitHub Repository",
-      "url": "https://github.com/margelo/ai-chat-demo",
-      "published_at": "2026-08-04T10:09:41Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
-      "source": "GitHub",
-      "stars": 158,
-      "user": "margelo"
     },
     {
       "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
@@ -1379,21 +1349,6 @@
       "user": "velmu"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 720,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
@@ -1405,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 609,
       "user": "eternityspring"
     },
     {
@@ -1420,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 427,
       "user": "sv-number"
     },
     {
@@ -1435,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "nkxx188"
     },
     {
@@ -1450,23 +1405,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 242,
       "user": "ruudkoeyvoets"
     },
     {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
+      "title": "pingmike2/freebuff2api-wokers - GitHub Repository",
+      "url": "https://github.com/pingmike2/freebuff2api-wokers",
+      "published_at": "2026-08-06T14:25:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 44,
-      "user": "kylan11"
+      "stars": 219,
+      "user": "pingmike2"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -1495,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 327,
       "user": "Appllama"
     },
     {
@@ -1510,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 266,
       "user": "s010s"
     },
     {
@@ -1525,23 +1480,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 198,
       "user": "tanishqkancharla"
     },
     {
-      "title": "margelo/ai-chat-demo - GitHub Repository",
-      "url": "https://github.com/margelo/ai-chat-demo",
-      "published_at": "2026-08-04T10:09:41Z",
-      "description": "Trending GitHub Repository",
+      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "published_at": "2026-08-09T12:15:30Z",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 158,
-      "user": "margelo"
+      "stars": 169,
+      "user": "SaladDay"
     },
     {
       "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
@@ -1587,6 +1542,20 @@
       "user": "Sumo"
     },
     {
+      "title": "Why currentUser below is empty while currentUser above is not?",
+      "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
+      "published_at": "2026-08-07T15:07:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "zustand"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "XavierLM"
+    },
+    {
       "title": "Pointers and references in Javascript",
       "url": "https://stackoverflow.com/questions/79991637/pointers-and-references-in-javascript",
       "published_at": "2026-08-08T22:56:05.000Z",
@@ -1597,19 +1566,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Koolaid222"
-    },
-    {
-      "title": "Why currentUser below is empty while currentUser above is not?",
-      "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
-      "published_at": "2026-08-07T15:07:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "XavierLM"
     },
     {
       "title": "How do I retrieve the shared facbook post links in bulk?",
@@ -1933,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2173,
+      "stars": 2196,
       "user": "KKKKhazix"
     },
     {
@@ -1948,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1098,
       "user": "ShawnPana"
     },
     {
@@ -1963,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 752,
       "user": "oil-oil"
     },
     {
@@ -1978,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 667,
       "user": "jd-opensource"
     },
     {
@@ -1993,8 +1949,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 573,
       "user": "T8mars"
+    },
+    {
+      "title": "How to divide a Python script in a shorter script and a module?",
+      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
+      "published_at": "2026-08-10T08:56:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "jupyter-notebook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "janpeter"
     },
     {
       "title": "Running a Class.method() when that module is imported",
@@ -2104,19 +2073,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
-    },
-    {
-      "title": "Unexpected interaction between list comprehensions, late-binding closures, and in-place mutation in Python loop scopes",
-      "url": "https://stackoverflow.com/questions/79991433/unexpected-interaction-between-list-comprehensions-late-binding-closures-and-i",
-      "published_at": "2026-08-07T20:58:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "list-comprehension"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Anas Odeh"
     },
     {
       "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
@@ -2315,21 +2271,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
-      "source": "GitHub",
-      "stars": 44,
-      "user": "kylan11"
     },
     {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
@@ -2549,7 +2490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 327,
       "user": "Appllama"
     },
     {
@@ -2839,7 +2780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "forever94yu"
     },
     {
@@ -2871,33 +2812,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 720,
-      "user": "0xwilliamortiz"
-    },
-    {
-      "title": "IBM i (OS/400) The Database Operating System",
-      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-      "published_at": "2026-08-09T23:13:40.317-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "osdev"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "calvin"
     },
     {
       "title": "SQL Server backup to rustfs gives Operating system error 12175",
@@ -3095,21 +3009,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 720,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "The AI safety test is becoming a safety risk",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "published_at": "2026-08-09T14:30:00.000Z",
@@ -3298,21 +3197,6 @@
       "user": "pabs3"
     },
     {
-      "title": "0xwilliamortiz/claude-red - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/0xwilliamortiz/claude-red",
-      "published_at": "2026-08-05T16:54:36Z",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155918204?v=4",
-      "source": "GitHub",
-      "stars": 720,
-      "user": "0xwilliamortiz"
-    },
-    {
       "title": "eternityspring/shuohao-skills - 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
@@ -3324,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 609,
       "user": "eternityspring"
     },
     {
@@ -3339,7 +3223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 427,
       "user": "sv-number"
     },
     {
@@ -3354,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "nkxx188"
     },
     {
@@ -3369,8 +3253,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 242,
       "user": "ruudkoeyvoets"
+    },
+    {
+      "title": "pingmike2/freebuff2api-wokers - GitHub Repository",
+      "url": "https://github.com/pingmike2/freebuff2api-wokers",
+      "published_at": "2026-08-06T14:25:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
+      "source": "GitHub",
+      "stars": 219,
+      "user": "pingmike2"
     },
     {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -3384,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2173,
+      "stars": 2196,
       "user": "KKKKhazix"
     },
     {
@@ -3399,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1098,
       "user": "ShawnPana"
     },
     {
@@ -3414,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 752,
       "user": "oil-oil"
     },
     {
@@ -3429,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 667,
       "user": "jd-opensource"
     },
     {
@@ -3444,8 +3343,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 573,
       "user": "T8mars"
+    },
+    {
+      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "url": "https://github.com/MengMengCode/VoCat",
+      "published_at": "2026-08-09T06:43:49Z",
+      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "source": "GitHub",
+      "stars": 134,
+      "user": "MengMengCode"
     },
     {
       "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
@@ -3463,19 +3377,19 @@
       "user": "WhiteDNS"
     },
     {
-      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "url": "https://github.com/MengMengCode/VoCat",
-      "published_at": "2026-08-09T06:43:49Z",
-      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+      "title": "XiaoRavpa/IP-STRESSER - Local-only IP stresser made by https://ipstresser.pro in Go, This IP booter was made for safely stress-testing your own servers. Supports UDP, TCP & Layer-7 (GET/POST) methods. ",
+      "url": "https://github.com/XiaoRavpa/IP-STRESSER",
+      "published_at": "2026-08-05T21:08:39Z",
+      "description": "Local-only IP stresser made by https://ipstresser.pro in Go, This IP booter was made for safely stress-testing your own servers. Supports UDP, TCP & Layer-7 (GET/POST) methods. ",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/200734773?v=4",
       "source": "GitHub",
-      "stars": 128,
-      "user": "MengMengCode"
+      "stars": 64,
+      "user": "XiaoRavpa"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -3489,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 63,
       "user": "forever94yu"
     },
     {
@@ -3504,23 +3418,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "cr-zhichen"
-    },
-    {
-      "title": "kylan11/understudy - Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "url": "https://github.com/kylan11/understudy",
-      "published_at": "2026-08-05T13:18:53Z",
-      "description": "Best-effort high availability for single-replica Kubernetes workloads: no downtime from announced node disruptions (drains, upgrades, consolidation, spot reclaims) without a standing second replica.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50871360?v=4",
-      "source": "GitHub",
-      "stars": 44,
-      "user": "kylan11"
     },
     {
       "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -3549,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 327,
       "user": "Appllama"
     },
     {
@@ -3564,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 266,
       "user": "s010s"
     },
     {
@@ -3579,23 +3478,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 198,
       "user": "tanishqkancharla"
     },
     {
-      "title": "margelo/ai-chat-demo - GitHub Repository",
-      "url": "https://github.com/margelo/ai-chat-demo",
-      "published_at": "2026-08-04T10:09:41Z",
-      "description": "Trending GitHub Repository",
+      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "published_at": "2026-08-09T12:15:30Z",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/91980534?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 158,
-      "user": "margelo"
+      "stars": 169,
+      "user": "SaladDay"
     },
     {
       "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
@@ -3639,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "tllovesxs"
     },
     {
