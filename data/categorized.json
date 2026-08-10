@@ -166,6 +166,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
+      "url": "https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph",
+      "published_at": "2026-08-07T17:35:35Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           🎨...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "webdev",
+        "googleai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
+      "source": "Dev.to",
+      "user": "Omar Afifi"
+    },
+    {
       "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
       "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
       "published_at": "2026-08-07T09:38:40Z",
@@ -507,21 +522,6 @@
       "user": "Mxhlix"
     },
     {
-      "title": "Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science",
-      "url": "https://dev.to/gde/inside-the-virtual-rd-lab-how-human-imagination-and-ai-multi-agents-shape-the-future-of-science-3c6j",
-      "published_at": "2026-07-31T02:28:26Z",
-      "description": "System Enforces Order, AI Accelerates Logic: Driving Next-Generation R&amp;D Through...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9afgqbgukf2zsfr1eu2m.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 535,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2257,
+      "stars": 2260,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 702,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "SMNETSTUDIO"
     },
     {
@@ -855,18 +855,6 @@
       "user": "mikker"
     },
     {
-      "title": "Firefox Containers Preview",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "published_at": "2026-08-10T04:37:18.304-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
       "title": "GitHub Actions needs OIDC audience constraints",
       "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
       "published_at": "2026-08-10T08:30:18.013-05:00",
@@ -877,6 +865,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
+    },
+    {
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "published_at": "2026-08-10T04:37:18.304-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "browsers"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
     },
     {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
@@ -898,9 +898,9 @@
       "tags": [
         "Apps",
         "Social",
-        "Facebook",
+        "social media",
         "Instagram",
-        "Meta"
+        "TikTok"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "eternityspring"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 535,
       "user": "sv-number"
     },
     {
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "nkxx188"
     },
     {
@@ -1408,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "pingmike2"
     },
     {
@@ -1423,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1453,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "Appllama"
     },
     {
@@ -1468,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "s010s"
     },
     {
@@ -1483,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 280,
       "user": "tanishqkancharla"
     },
     {
@@ -1500,6 +1500,36 @@
       "source": "GitHub",
       "stars": 106,
       "user": "OlegSotnikov"
+    },
+    {
+      "title": "How do I export a JavaScript project from Dashtera platform?",
+      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
+      "published_at": "2026-08-10T19:04:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "dashboard",
+        "lightningchart"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JarekD"
+    },
+    {
+      "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
+      "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
+      "published_at": "2026-08-10T19:29:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "responsive-design",
+        "bootstrap-5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "omerix"
     },
     {
       "title": "How do I make it so that the script responds differently for each element?",
@@ -1608,34 +1638,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toji"
-    },
-    {
-      "title": "What is the javascript filename naming convention?",
-      "url": "https://stackoverflow.com/questions/7273316/what-is-the-javascript-filename-naming-convention",
-      "published_at": "2011-09-01T16:24:17.000Z",
-      "description": "Stack Overflow question · 6 answers · score 390",
-      "tags": [
-        "javascript",
-        "naming-conventions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ripper234"
-    },
-    {
-      "title": "jQuery SVG vs. Rapha&#235;l",
-      "url": "https://stackoverflow.com/questions/588718/jquery-svg-vs-rapha%c3%abl",
-      "published_at": "2009-02-26T01:21:54.000Z",
-      "description": "Stack Overflow question · 14 answers · score 255",
-      "tags": [
-        "javascript",
-        "jquery",
-        "svg",
-        "raphael"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luke Dennis"
     },
     {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
@@ -1902,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2257,
+      "stars": 2260,
       "user": "KKKKhazix"
     },
     {
@@ -1917,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1270,
       "user": "ShawnPana"
     },
     {
@@ -1932,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1099,
       "user": "oil-oil"
     },
     {
@@ -1947,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 702,
       "user": "jd-opensource"
     },
     {
@@ -2033,7 +2035,7 @@
       "title": "How can I improve the efficiency of my code for CSES Missing Number?",
       "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
       "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
+      "description": "Stack Overflow question · 2 answers · score -7",
       "tags": [
         "python"
       ],
@@ -2398,6 +2400,21 @@
       "user": "juliethefoxcoon"
     },
     {
+      "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
+      "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
+      "published_at": "2026-08-10T19:29:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "responsive-design",
+        "bootstrap-5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "omerix"
+    },
+    {
       "title": "How do I make it so that the script responds differently for each element?",
       "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
       "published_at": "2026-08-10T12:53:06.000Z",
@@ -2599,7 +2616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "Appllama"
     },
     {
@@ -2609,8 +2626,10 @@
       "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
       "tags": [
         "Apps",
+        "lawsuit",
         "android apps",
-        "lawsuit"
+        "aptoide",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2912,8 +2931,10 @@
       "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
       "tags": [
         "Apps",
+        "lawsuit",
         "android apps",
-        "lawsuit"
+        "aptoide",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2927,9 +2948,9 @@
       "tags": [
         "Apps",
         "Social",
-        "Facebook",
+        "social media",
         "Instagram",
-        "Meta"
+        "TikTok"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3477,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 640,
       "user": "eternityspring"
     },
     {
@@ -3492,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 527,
+      "stars": 535,
       "user": "sv-number"
     },
     {
@@ -3507,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "nkxx188"
     },
     {
@@ -3537,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 226,
       "user": "pingmike2"
     },
     {
@@ -3552,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2257,
+      "stars": 2260,
       "user": "KKKKhazix"
     },
     {
@@ -3567,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1270,
       "user": "ShawnPana"
     },
     {
@@ -3582,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1076,
+      "stars": 1099,
       "user": "oil-oil"
     },
     {
@@ -3597,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 699,
+      "stars": 702,
       "user": "jd-opensource"
     },
     {
@@ -3702,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 639,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3732,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 399,
       "user": "Appllama"
     },
     {
@@ -3747,7 +3768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "s010s"
     },
     {
@@ -3762,7 +3783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 280,
       "user": "tanishqkancharla"
     },
     {
@@ -3822,7 +3843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 88,
       "user": "gpwn-org"
     },
     {
