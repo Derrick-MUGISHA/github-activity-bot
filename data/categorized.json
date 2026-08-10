@@ -16,21 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
-      "published_at": "2026-08-09T22:51:30Z",
-      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -44,6 +29,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
@@ -209,6 +209,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The AI That Broke Out of Its Box, and What Happens Next",
+      "url": "https://dev.to/auth0/the-ai-that-broke-out-of-its-box-and-what-happens-next-m3d",
+      "published_at": "2026-08-06T16:29:21Z",
+      "description": "Ever read a security disclosure and hit paragraph two going \"wait, WHAT?\" That's this one.  On July...",
+      "tags": [
+        "ai",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6pprvwn8qj6159yjw8a.png",
+      "source": "Dev.to",
+      "user": "layla "
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -538,21 +552,6 @@
       "user": "xbill"
     },
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -732,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 635,
       "user": "eternityspring"
     },
     {
@@ -747,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 505,
       "user": "sv-number"
     },
     {
@@ -762,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2246,
+      "stars": 2249,
       "user": "KKKKhazix"
     },
     {
@@ -777,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 693,
       "user": "jd-opensource"
     },
     {
@@ -792,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "MengMengCode"
     },
     {
@@ -822,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "forever94yu"
     },
     {
@@ -837,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 620,
       "user": "SMNETSTUDIO"
     },
     {
@@ -923,6 +922,22 @@
       "user": "hugoarnal"
     },
     {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "published_at": "2026-08-10T16:20:13.000Z",
+      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Mark Zuckerberg",
+        "Meta",
+        "Meta Superintelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
       "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
       "published_at": "2026-08-10T14:20:19.000Z",
@@ -944,10 +959,11 @@
       "published_at": "2026-08-10T12:00:00.000Z",
       "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
       "tags": [
-        "Startups",
         "AI",
         "Fundraising",
-        "Exclusive"
+        "Startups",
+        "Exclusive",
+        "microchips"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -961,6 +977,7 @@
       "tags": [
         "AI",
         "Fundraising",
+        "In Brief",
         "situational awareness"
       ],
       "cover_image": null,
@@ -997,22 +1014,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "published_at": "2026-08-09T15:00:00.000Z",
-      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Media & Entertainment",
-        "AI policy",
-        "AI regulation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Test AI Features in Flutter [Full Handbook]",
@@ -1378,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 635,
       "user": "eternityspring"
     },
     {
@@ -1393,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 505,
       "user": "sv-number"
     },
     {
@@ -1408,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "nkxx188"
     },
     {
@@ -1453,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 620,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1483,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 388,
       "user": "Appllama"
     },
     {
@@ -1498,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 315,
       "user": "s010s"
     },
     {
@@ -1513,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 264,
       "user": "tanishqkancharla"
     },
     {
@@ -1906,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2246,
+      "stars": 2249,
       "user": "KKKKhazix"
     },
     {
@@ -1921,7 +1922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1232,
       "user": "ShawnPana"
     },
     {
@@ -1936,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1003,
       "user": "oil-oil"
     },
     {
@@ -1951,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 693,
       "user": "jd-opensource"
     },
     {
@@ -2022,6 +2023,18 @@
       "user": "Soroush Kalantari"
     },
     {
+      "title": "How can I improve the efficiency of my code for CSES Missing Number?",
+      "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
+      "published_at": "2026-08-08T18:40:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Damian Fernando D"
+    },
+    {
       "title": "Modifying a class list results in no modification of the list",
       "url": "https://stackoverflow.com/questions/79991677/modifying-a-class-list-results-in-no-modification-of-the-list",
       "published_at": "2026-08-09T14:03:24.000Z",
@@ -2048,18 +2061,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Noah Bergh"
-    },
-    {
-      "title": "How can I improve the efficiency of my code for CSES Missing Number?",
-      "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
-      "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Damian Fernando D"
     },
     {
       "title": "Threading Flask and 'while' loop",
@@ -2350,6 +2351,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
+      "url": "https://dev.to/parsajiravand/your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that-3g7c",
+      "published_at": "2026-08-04T08:44:58Z",
+      "description": "When you open a long page — a news feed, an admin table, a documentation article — the browser lays...",
+      "tags": [
+        "css",
+        "webdev",
+        "performance",
+        "frontend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpntjz7ywpxbqr667ydk.png",
+      "source": "Dev.to",
+      "user": "Parsa Jiravand"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2492,6 +2508,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Swift Protocols — The Art of Making Promises 🤝",
+      "url": "https://dev.to/gamya_m/swift-protocols-the-art-of-making-promises-59mb",
+      "published_at": "2026-08-05T08:58:40Z",
+      "description": "Protocols let you define what a type can do without caring about what it actually is. Once...",
+      "tags": [
+        "swift",
+        "ios",
+        "programming",
+        "developer"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzdwiamf2zbcizwme0vm.png",
+      "source": "Dev.to",
+      "user": "Gamya "
+    },
+    {
       "title": "Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal",
       "url": "https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474",
       "published_at": "2026-08-02T01:34:18Z",
@@ -2533,7 +2564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 388,
       "user": "Appllama"
     },
     {
@@ -2867,7 +2898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "forever94yu"
     },
     {
@@ -2977,6 +3008,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
+    },
+    {
+      "title": "The AI That Broke Out of Its Box, and What Happens Next",
+      "url": "https://dev.to/auth0/the-ai-that-broke-out-of-its-box-and-what-happens-next-m3d",
+      "published_at": "2026-08-06T16:29:21Z",
+      "description": "Ever read a security disclosure and hit paragraph two going \"wait, WHAT?\" That's this one.  On July...",
+      "tags": [
+        "ai",
+        "security",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6pprvwn8qj6159yjw8a.png",
+      "source": "Dev.to",
+      "user": "layla "
     },
     {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
@@ -3292,21 +3337,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "Teaching Antigravity to Direct: A Stateful Video-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-antigravity-to-direct-a-stateful-video-editing-skill-built-on-geminis-interactions-api-2ccn",
-      "published_at": "2026-07-24T12:27:58Z",
-      "description": "How omni-skill-agy packages Google's gemini-omni-flash-preview as an Antigravity CLI skill + MCP server — what Omni Flash actually does, a field guide to all eight tool calls, multi-turn stateful edits, an idiot-proof install guide, and a one-tool-call path to YouTube.",
-      "tags": [
-        "ai",
-        "gemini",
-        "mcp",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fomni-skill-agy%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3354,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 635,
       "user": "eternityspring"
     },
     {
@@ -3369,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 505,
       "user": "sv-number"
     },
     {
@@ -3384,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 258,
       "user": "nkxx188"
     },
     {
@@ -3429,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2246,
+      "stars": 2249,
       "user": "KKKKhazix"
     },
     {
@@ -3444,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1232,
       "user": "ShawnPana"
     },
     {
@@ -3459,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 1003,
       "user": "oil-oil"
     },
     {
@@ -3474,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 693,
       "user": "jd-opensource"
     },
     {
@@ -3504,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 146,
       "user": "MengMengCode"
     },
     {
@@ -3534,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/200734773?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 93,
       "user": "XiaoRavpa"
     },
     {
@@ -3549,23 +3579,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 66,
       "user": "forever94yu"
     },
     {
-      "title": "cr-zhichen/DJOneHubNative - DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
-      "url": "https://github.com/cr-zhichen/DJOneHubNative",
-      "published_at": "2026-08-05T02:51:22Z",
-      "description": "DJOneHub（大疆第一代 4G 模块管理工具）的原生 macOS 重制版",
+      "title": "jundizhou/easy-stock - GitHub Repository",
+      "url": "https://github.com/jundizhou/easy-stock",
+      "published_at": "2026-08-07T16:25:36Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57337795?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 48,
-      "user": "cr-zhichen"
+      "stars": 56,
+      "user": "jundizhou"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -3579,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 620,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3609,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 388,
       "user": "Appllama"
     },
     {
@@ -3624,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 315,
       "user": "s010s"
     },
     {
@@ -3639,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 264,
       "user": "tanishqkancharla"
     },
     {
@@ -3684,7 +3714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "tllovesxs"
     },
     {
