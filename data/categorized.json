@@ -166,21 +166,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
-      "url": "https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph",
-      "published_at": "2026-08-07T17:35:35Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           🎨...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "webdev",
-        "googleai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
-      "source": "Dev.to",
-      "user": "Omar Afifi"
-    },
-    {
       "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
       "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
       "published_at": "2026-08-07T09:38:40Z",
@@ -194,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
+    },
+    {
+      "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
+      "url": "https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph",
+      "published_at": "2026-08-07T17:35:35Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           🎨...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "webdev",
+        "googleai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
+      "source": "Dev.to",
+      "user": "Omar Afifi"
     },
     {
       "title": "Catbot: Custom Grammar Problem Fixed",
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2265,
+      "stars": 2266,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 710,
       "user": "jd-opensource"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 657,
       "user": "SMNETSTUDIO"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "JohnKinyanjui"
     },
     {
@@ -879,6 +879,19 @@
       "user": "freddyb"
     },
     {
+      "title": "How to convert constraints.txt to uv constraint-dependencies section",
+      "url": "https://stackoverflow.com/questions/79992054/how-to-convert-constraints-txt-to-uv-constraint-dependencies-section",
+      "published_at": "2026-08-10T20:44:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "uv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eric Wohnlich"
+    },
+    {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
       "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
       "published_at": "2026-08-10T17:41:14.000Z",
@@ -891,12 +904,28 @@
       "user": "Nitin_Juyal"
     },
     {
+      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+      "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+      "published_at": "2026-08-10T21:20:04.000Z",
+      "description": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+      "tags": [
+        "Government & Policy",
+        "billionaire tax",
+        "Google",
+        "Sergey Brin"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
       "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
       "published_at": "2026-08-10T20:53:02.000Z",
-      "description": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
       "tags": [
-        "AI"
+        "AI",
+        "Mark Zuckerberg"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -948,22 +977,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-      "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-      "published_at": "2026-08-10T14:20:19.000Z",
-      "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
-      "tags": [
-        "Security",
-        "Steam",
-        "Valve Software",
-        "Shipping",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -1359,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "eternityspring"
     },
     {
@@ -1374,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "sv-number"
     },
     {
@@ -1434,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 657,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1464,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 407,
       "user": "Appllama"
     },
     {
@@ -1479,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "s010s"
     },
     {
@@ -1530,7 +1543,7 @@
       "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
       "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
       "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "css",
@@ -1914,7 +1927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2265,
+      "stars": 2266,
       "user": "KKKKhazix"
     },
     {
@@ -1929,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1282,
       "user": "ShawnPana"
     },
     {
@@ -1944,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1142,
       "user": "oil-oil"
     },
     {
@@ -1959,7 +1972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 710,
       "user": "jd-opensource"
     },
     {
@@ -1990,6 +2003,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ggpsv"
+    },
+    {
+      "title": "How to convert constraints.txt to uv constraint-dependencies section",
+      "url": "https://stackoverflow.com/questions/79992054/how-to-convert-constraints-txt-to-uv-constraint-dependencies-section",
+      "published_at": "2026-08-10T20:44:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "uv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eric Wohnlich"
     },
     {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
@@ -2111,22 +2137,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Dinesh"
-    },
-    {
-      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
-      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
-      "published_at": "2026-08-06T14:51:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "google-cloud-platform",
-        "concurrency",
-        "spacy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lightning_missile"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2416,7 +2426,7 @@
       "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
       "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
       "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "css",
@@ -2629,7 +2639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 407,
       "user": "Appllama"
     },
     {
@@ -2949,22 +2959,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "claytonwramsey"
-    },
-    {
-      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
-      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
-      "published_at": "2026-08-06T14:51:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "google-cloud-platform",
-        "concurrency",
-        "spacy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "lightning_missile"
     },
     {
       "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
@@ -3309,22 +3303,6 @@
       "user": "hoistbypetard"
     },
     {
-      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-      "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-      "published_at": "2026-08-10T14:20:19.000Z",
-      "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
-      "tags": [
-        "Security",
-        "Steam",
-        "Valve Software",
-        "Shipping",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
       "published_at": "2026-08-06T21:35:36.000Z",
@@ -3525,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "eternityspring"
     },
     {
@@ -3540,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "sv-number"
     },
     {
@@ -3600,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2265,
+      "stars": 2266,
       "user": "KKKKhazix"
     },
     {
@@ -3615,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1278,
+      "stars": 1282,
       "user": "ShawnPana"
     },
     {
@@ -3630,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1142,
       "user": "oil-oil"
     },
     {
@@ -3645,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 710,
       "user": "jd-opensource"
     },
     {
@@ -3750,7 +3728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 657,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3780,7 +3758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 407,
       "user": "Appllama"
     },
     {
@@ -3795,7 +3773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "s010s"
     },
     {
@@ -3885,7 +3863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "JohnKinyanjui"
     },
     {
@@ -3899,19 +3877,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
-    },
-    {
-      "title": "Fast Haskell Scripts on GitHub Actions",
-      "url": "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/",
-      "published_at": "2026-08-10T06:21:36.319-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "haskell",
-        "nix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abhin4v"
     },
     {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
