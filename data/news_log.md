@@ -11298,3 +11298,1073 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-08-10 18:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (77 articles)
+
+#### 1. [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf)
+📅 Mon, 10 Aug 2026 15:04:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Clouds, Three Native Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg)
+
+What is this project trying to do?   Three AI agents, each built with a different vendor's...
+
+🏷️ Tags: `agents`, `ai`, `architecture`, `cloud`
+
+---
+
+#### 2. [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
+📅 Sun, 09 Aug 2026 17:03:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Build a Dart ADK Agent and MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg)
+
+Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.
+
+🏷️ Tags: `dart`, `ai`, `mcp`, `googlecloud`
+
+---
+
+#### 3. [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
+📅 Sun, 09 Aug 2026 22:51:30 GMT
+👤 By: Karthigayan Devan | 📌 Source: Dev.to
+
+![From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png)
+
+A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...
+
+🏷️ Tags: `discuss`, `ai`, `security`, `opensource`
+
+---
+
+#### 4. [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
+📅 Sun, 09 Aug 2026 22:14:30 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png)
+
+Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...
+
+🏷️ Tags: `tpu`, `vllm`, `llm`, `gcp`
+
+---
+
+#### 5. [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
+📅 Sun, 09 Aug 2026 15:31:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Unit Testing in BlocSignal: The Practical Handbook](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png)
+
+A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.
+
+🏷️ Tags: `flutter`, `dart`, `testing`, `statemanagement`
+
+---
+
+#### 6. [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b)
+📅 Wed, 29 Jul 2026 19:14:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png)
+
+This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `aws`
+
+---
+
+#### 7. [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi)
+📅 Sat, 08 Aug 2026 19:37:57 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png)
+
+Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `webdev`
+
+---
+
+#### 8. [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+📅 Mon, 27 Jul 2026 21:09:04 GMT
+👤 By: Thomas Bnt | 📌 Source: Dev.to
+
+![Passkeys Explained Simply](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp)
+
+You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+
+🏷️ Tags: `security`, `api`, `webdev`, `discuss`
+
+---
+
+#### 9. [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl)
+📅 Fri, 07 Aug 2026 14:54:45 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png)
+
+This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...
+
+🏷️ Tags: `angular`, `firebase`, `gemini`, `ai`
+
+---
+
+#### 10. [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if)
+📅 Fri, 07 Aug 2026 02:55:21 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnefu6fvjpyyy9hjeagu8.png)
+
+Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...
+
+🏷️ Tags: `ai`, `gemini`, `antigravity`, `datascience`
+
+---
+
+### 🏷️ JavaScript (42 articles)
+
+#### 1. [linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7)
+📅 Fri, 07 Aug 2026 08:43:39 GMT
+👤 By: Giorgio Galassi | 📌 Source: Dev.to
+
+![linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png)
+
+Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...
+
+🏷️ Tags: `angular`, `typescript`, `angularsignals`, `webdev`
+
+---
+
+#### 2. [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi)
+📅 Sat, 08 Aug 2026 19:37:57 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png)
+
+Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `webdev`
+
+---
+
+#### 3. [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl)
+📅 Fri, 07 Aug 2026 14:54:45 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png)
+
+This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...
+
+🏷️ Tags: `angular`, `firebase`, `gemini`, `ai`
+
+---
+
+#### 4. [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+📅 Wed, 29 Jul 2026 18:18:58 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png)
+
+We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `css`, `javascript`
+
+---
+
+#### 5. [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+📅 Thu, 30 Jul 2026 08:02:27 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![It Was Just a Patch Update. What Could Possibly Go Wrong?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `angular`, `javascript`
+
+---
+
+#### 6. [Angular WebMCP — Your App is Now an AI Tool 🔥🚀](https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4)
+📅 Sat, 08 Aug 2026 10:09:17 GMT
+👤 By: Giorgio Galassi | 📌 Source: Dev.to
+
+![Angular WebMCP — Your App is Now an AI Tool 🔥🚀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png)
+
+There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...
+
+🏷️ Tags: `angular`, `typescript`, `ai`, `webdev`
+
+---
+
+#### 7. [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+📅 Tue, 28 Jul 2026 10:50:54 GMT
+👤 By: Shubhra Pokhariya | 📌 Source: Dev.to
+
+![React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png)
+
+Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...
+
+🏷️ Tags: `react`, `webdev`, `javascript`, `programming`
+
+---
+
+#### 8. [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
+📅 Mon, 27 Jul 2026 17:09:33 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg)
+
+Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.
+
+🏷️ Tags: `typescript`, `ai`, `gemini`, `webdev`
+
+---
+
+#### 9. [[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4)
+📅 Tue, 28 Jul 2026 05:12:29 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png)
+
+Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....
+
+🏷️ Tags: `javascript`, `node`, `sideprojects`, `webdev`
+
+---
+
+#### 10. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (32 articles)
+
+#### 1. [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8)
+📅 Wed, 05 Aug 2026 14:56:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png)
+
+This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...
+
+🏷️ Tags: `antigravitycli`, `python`, `mcps`, `gemma`
+
+---
+
+#### 2. [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf)
+📅 Sun, 26 Jul 2026 19:27:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg)
+
+Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...
+
+🏷️ Tags: `python`, `ai`, `googlecloud`, `gemini`
+
+---
+
+#### 3. [TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n)
+📅 Wed, 15 Jul 2026 13:04:39 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `python`, `tpu`, `antigravitycli`, `gemma4`
+
+---
+
+#### 4. [Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82)
+📅 Tue, 07 Jul 2026 17:12:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png)
+
+This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...
+
+🏷️ Tags: `googleantigravity`, `python`, `mcps`, `tpu`
+
+---
+
+#### 5. [MCP Configuration for Looker with Antigravity CLI](https://dev.to/gde/mcp-configuration-for-looker-with-antigravity-cli-504d)
+📅 Mon, 06 Jul 2026 20:23:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![MCP Configuration for Looker with Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh0mbufi60qobfzdqrn1.png)
+
+This article covers the MCP setup and configuration for using Looker and underlying Gemini LLM with...
+
+🏷️ Tags: `looker`, `lookml`, `python`, `antigravitycli`
+
+---
+
+#### 6. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (14 articles)
+
+#### 1. [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4)
+📅 Fri, 07 Aug 2026 09:38:40 GMT
+👤 By: Çalgan Aygün | 📌 Source: Dev.to
+
+![Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png)
+
+Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...
+
+🏷️ Tags: `ai`, `kubernetes`, `devops`, `security`
+
+---
+
+#### 2. [AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP](https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i)
+📅 Sat, 08 Aug 2026 12:43:55 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq284czaemc8cyufm98xh.png)
+
+The Problem with Fully Autonomous Remediation  Every platform team eventually asks the same...
+
+🏷️ Tags: `ai`, `gcp`, `kubernetes`
+
+---
+
+#### 3. [Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i](https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c)
+📅 Thu, 30 Jul 2026 06:55:16 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png)
+
+Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...
+
+🏷️ Tags: `buildwithai`, `antigravity`, `docker`, `orquestator`
+
+---
+
+#### 4. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (10 articles)
+
+#### 1. [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
+📅 Sun, 09 Aug 2026 22:14:30 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png)
+
+Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...
+
+🏷️ Tags: `tpu`, `vllm`, `llm`, `gcp`
+
+---
+
+#### 2. [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+📅 Wed, 29 Jul 2026 18:18:58 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png)
+
+We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `css`, `javascript`
+
+---
+
+#### 3. [Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that](https://dev.to/parsajiravand/your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that-3g7c)
+📅 Tue, 04 Aug 2026 08:44:58 GMT
+👤 By: Parsa Jiravand | 📌 Source: Dev.to
+
+![Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpntjz7ywpxbqr667ydk.png)
+
+When you open a long page — a news feed, an admin table, a documentation article — the browser lays...
+
+🏷️ Tags: `css`, `webdev`, `performance`, `frontend`
+
+---
+
+#### 4. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [How do I make it so that the script responds differently for each element?](https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element)
+📅 Mon, 10 Aug 2026 12:53:06 GMT
+👤 By: Xenon7N | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score -3
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+#### 6. [Show javascript text on an html file](https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file)
+📅 Mon, 10 Aug 2026 00:52:26 GMT
+👤 By: Sumo | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 2
+
+🏷️ Tags: `javascript`
+
+---
+
+#### 7. [Stuck in tutorial hell after 4 years: How do I build web sites and think independently?](https://stackoverflow.com/questions/79941955/stuck-in-tutorial-hell-after-4-years-how-do-i-build-web-sites-and-think-indepen)
+📅 Fri, 15 May 2026 21:23:20 GMT
+👤 By: Zubair Fathi | 📌 Source: StackOverflow
+
+Stack Overflow question · 8 answers · score 3
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 8. [Using HTML5/JavaScript to generate and save a file](https://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file)
+📅 Mon, 24 May 2010 14:16:34 GMT
+👤 By: Toji | 📌 Source: StackOverflow
+
+Stack Overflow question · 18 answers · score 372
+
+🏷️ Tags: `javascript`, `html`, `download`
+
+---
+
+#### 9. [Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework](https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea)
+📅 Sun, 09 Aug 2026 14:06:24 GMT
+👤 By: Noah Bergh | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -4
+
+🏷️ Tags: `advice`, `python`, `flask`
+
+---
+
+#### 10. [How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript](https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/)
+📅 Thu, 06 Aug 2026 22:17:36 GMT
+👤 By: Bhavin Sheth | 📌 Source: freeCodeCamp
+
+Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de
+
+🏷️ Tags: `JavaScript`, `Web Development`, `pdf`, `pdfjs`, `Tutorial`
+
+---
+
+### 🏷️ Mobile (10 articles)
+
+#### 1. [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
+📅 Sun, 09 Aug 2026 15:31:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Unit Testing in BlocSignal: The Practical Handbook](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png)
+
+A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.
+
+🏷️ Tags: `flutter`, `dart`, `testing`, `statemanagement`
+
+---
+
+#### 2. [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi)
+📅 Sat, 08 Aug 2026 19:37:57 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png)
+
+Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `webdev`
+
+---
+
+#### 3. [Exploring Form Management Patterns in Flutter with BlocSignal](https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j)
+📅 Tue, 04 Aug 2026 23:10:31 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Exploring Form Management Patterns in Flutter with BlocSignal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png)
+
+Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals, compare 3 clean form architectural patterns, and pick the right one for your app.
+
+🏷️ Tags: `flutter`, `dart`, `bloc`, `signals`
+
+---
+
+#### 4. [Swift Protocols — The Art of Making Promises 🤝](https://dev.to/gamya_m/swift-protocols-the-art-of-making-promises-59mb)
+📅 Wed, 05 Aug 2026 08:58:40 GMT
+👤 By: Gamya  | 📌 Source: Dev.to
+
+![Swift Protocols — The Art of Making Promises 🤝](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzdwiamf2zbcizwme0vm.png)
+
+Protocols let you define what a type can do without caring about what it actually is. Once...
+
+🏷️ Tags: `swift`, `ios`, `programming`, `developer`
+
+---
+
+#### 5. [Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://dev.to/gde/solving-riverpods-family-provider-cache-dilemma-with-signals-mapsignal-474)
+📅 Sun, 02 Aug 2026 01:34:18 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Solving Riverpod’s Family Provider Cache Dilemma with Signals & mapSignal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a68a1k9wglkhz8ygozl.png)
+
+When separate family providers store parameterized network queries as isolated state silos, updating an entity in one subset creates stale data across others. Here is how a normalized mapSignal store fixes it.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `architecture`
+
+---
+
+#### 6. [WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android](https://github.com/WhiteDNS/WhiteVPN-Desktop)
+📅 Wed, 05 Aug 2026 12:44:16 GMT
+👤 By: WhiteDNS | 📌 Source: GitHub
+
+![WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android](https://avatars.githubusercontent.com/u/294980615?v=4)
+
+WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 122
+
+---
+
+#### 7. [Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.](https://github.com/Appllama/top-welcome-screens)
+📅 Sat, 08 Aug 2026 12:44:52 GMT
+👤 By: Appllama | 📌 Source: GitHub
+
+![Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.](https://avatars.githubusercontent.com/u/313732614?v=4)
+
+How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.
+
+🏷️ Tags: `typescript`, `github`, `open-source`
+
+⭐ Stars: 388
+
+---
+
+#### 8. [How to Test AI Features in Flutter [Full Handbook]](https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/)
+📅 Fri, 07 Aug 2026 16:05:31 GMT
+👤 By: Atuoha Anthony | 📌 Source: freeCodeCamp
+
+You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse
+
+🏷️ Tags: `Flutter`, `gemini`, `flutter-aware`, `Dart`, `AI`
+
+---
+
+#### 9. [A Deep Dive into Behavioral Patterns: The Visitor Design Pattern and its Clean Operations Across Complex Object Structures](https://www.freecodecamp.org/news/the-visitor-design-pattern-and-its-clean-operations-across-complex-object-structures/)
+📅 Thu, 06 Aug 2026 16:11:11 GMT
+👤 By: Oluwaseyi Fatunmole | 📌 Source: freeCodeCamp
+
+There's a problem that shows up in almost every growing software system, and most developers don't even realize they're hitting it until the damage is already done. You have a set of objects: differen
+
+🏷️ Tags: `Design`, `design patterns`, `design principles`, `Dart`, `mobile`
+
+---
+
+#### 10. [Bluetooth Low Energy in Flutter: A Handbook for Devs](https://www.freecodecamp.org/news/bluetooth-low-energy-in-flutter-a-handbook-for-devs/)
+📅 Wed, 05 Aug 2026 17:25:01 GMT
+👤 By: Nikheel Vishwas Savant | 📌 Source: freeCodeCamp
+
+Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c
+
+🏷️ Tags: `bluetooth`, `Bluetooth Low Energy`, `Flutter`, `Flutter SDK`, `handbook`
+
+---
+
+### 🏷️ Cloud (21 articles)
+
+#### 1. [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf)
+📅 Mon, 10 Aug 2026 15:04:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Clouds, Three Native Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg)
+
+What is this project trying to do?   Three AI agents, each built with a different vendor's...
+
+🏷️ Tags: `agents`, `ai`, `architecture`, `cloud`
+
+---
+
+#### 2. [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
+📅 Sun, 09 Aug 2026 17:03:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Build a Dart ADK Agent and MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg)
+
+Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.
+
+🏷️ Tags: `dart`, `ai`, `mcp`, `googlecloud`
+
+---
+
+#### 3. [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
+📅 Sun, 09 Aug 2026 22:14:30 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png)
+
+Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...
+
+🏷️ Tags: `tpu`, `vllm`, `llm`, `gcp`
+
+---
+
+#### 4. [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b)
+📅 Wed, 29 Jul 2026 19:14:47 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png)
+
+This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `aws`
+
+---
+
+#### 5. [Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
+📅 Mon, 27 Jul 2026 17:09:33 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the TypeScript Agent Development Kit (ADK)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-hello-world-typescript%2Fmain%2Fcover.jpg)
+
+Build, test, and deploy AI agents using Google's native TypeScript Agent Development Kit (ADK), Gemini 2.5 Flash, and Cloud Run.
+
+🏷️ Tags: `typescript`, `ai`, `gemini`, `webdev`
+
+---
+
+#### 6. [Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf)
+📅 Sun, 26 Jul 2026 19:27:29 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg)
+
+Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...
+
+🏷️ Tags: `python`, `ai`, `googlecloud`, `gemini`
+
+---
+
+#### 7. [One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4)
+📅 Wed, 29 Jul 2026 22:02:22 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png)
+
+Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...
+
+🏷️ Tags: `tpu`, `llm`, `jax`, `agents`
+
+---
+
+#### 8. [Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together](https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0)
+📅 Fri, 31 Jul 2026 17:43:12 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcross-cloud-a2a-rollup%2Fmain%2Fdevto-cover-rollup.png)
+
+Every directed edge between Bedrock AgentCore, Microsoft Foundry, and Google ADK, deployed and measured over A2A v1.0 — the numbers, the recurring failures, and what is still unmeasured.
+
+🏷️ Tags: `aiagents`, `a2a`, `aws`, `azure`
+
+---
+
+#### 9. [Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0](https://dev.to/gde/microsoft-foundry-as-the-master-cloud-google-adk-as-the-client-cross-cloud-a2a-v10-3me0)
+📅 Fri, 31 Jul 2026 17:44:54 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Microsoft Foundry as the Master Cloud, Google ADK as the Client: Cross-Cloud A2A v1.0](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ffoundry-adk-a2a-currency%2Fmain%2Fdevto-cover.png)
+
+This installment puts Microsoft Foundry in charge. Azure is the main cloud: it hosts the master...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `azure`
+
+---
+
+#### 10. [Google ADK as the Master Agent, Calling Amazon Bedrock over A2A](https://dev.to/gde/google-adk-as-the-master-agent-calling-amazon-bedrock-over-a2a-4ahc)
+📅 Fri, 31 Jul 2026 17:42:40 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Google ADK as the Master Agent, Calling Amazon Bedrock over A2A](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fadk-bedrock-a2a-currency%2Fmain%2Fdevto-cover-adk-master.png)
+
+This is the third run of the same cross-cloud currency benchmark, and the first with the arrow...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `aws`
+
+---
+
+### 🏷️ Database (2 articles)
+
+#### 1. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 2. [SQL Server backup to rustfs gives Operating system error 12175](https://stackoverflow.com/questions/79991227/sql-server-backup-to-rustfs-gives-operating-system-error-12175)
+📅 Fri, 07 Aug 2026 05:54:06 GMT
+👤 By: Dinesh | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -3
+
+🏷️ Tags: `python`, `sql-server`, `nginx`, `mssql-python`, `rustfs`
+
+---
+
+### 🏷️ Security (20 articles)
+
+#### 1. [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
+📅 Sun, 09 Aug 2026 22:51:30 GMT
+👤 By: Karthigayan Devan | 📌 Source: Dev.to
+
+![From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png)
+
+A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...
+
+🏷️ Tags: `discuss`, `ai`, `security`, `opensource`
+
+---
+
+#### 2. [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+📅 Mon, 27 Jul 2026 21:09:04 GMT
+👤 By: Thomas Bnt | 📌 Source: Dev.to
+
+![Passkeys Explained Simply](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp)
+
+You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+
+🏷️ Tags: `security`, `api`, `webdev`, `discuss`
+
+---
+
+#### 3. [Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4)
+📅 Fri, 07 Aug 2026 09:38:40 GMT
+👤 By: Çalgan Aygün | 📌 Source: Dev.to
+
+![Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png)
+
+Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...
+
+🏷️ Tags: `ai`, `kubernetes`, `devops`, `security`
+
+---
+
+#### 4. [The AI That Broke Out of Its Box, and What Happens Next](https://dev.to/auth0/the-ai-that-broke-out-of-its-box-and-what-happens-next-m3d)
+📅 Thu, 06 Aug 2026 16:29:21 GMT
+👤 By: layla  | 📌 Source: Dev.to
+
+![The AI That Broke Out of Its Box, and What Happens Next](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6pprvwn8qj6159yjw8a.png)
+
+Ever read a security disclosure and hit paragraph two going "wait, WHAT?" That's this one.  On July...
+
+🏷️ Tags: `ai`, `security`, `discuss`
+
+---
+
+#### 5. [Data, Context & RAG Lineage Governance for Enterprise AI Agents](https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj)
+📅 Thu, 30 Jul 2026 06:19:47 GMT
+👤 By: Jitendra Gupta | 📌 Source: Dev.to
+
+![Data, Context & RAG Lineage Governance for Enterprise AI Agents](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png)
+
+A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.
+
+🏷️ Tags: `ai`, `security`, `architecture`, `rag`
+
+---
+
+#### 6. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (40 articles)
+
+#### 1. [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
+📅 Sun, 09 Aug 2026 17:03:45 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Build a Dart ADK Agent and MCP Server](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg)
+
+Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.
+
+🏷️ Tags: `dart`, `ai`, `mcp`, `googlecloud`
+
+---
+
+#### 2. [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
+📅 Sun, 09 Aug 2026 15:31:53 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Unit Testing in BlocSignal: The Practical Handbook](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png)
+
+A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.
+
+🏷️ Tags: `flutter`, `dart`, `testing`, `statemanagement`
+
+---
+
+#### 3. [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8)
+📅 Wed, 05 Aug 2026 14:56:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png)
+
+This article is the v5e follow-on to the v6e-1 debugging guide. Same MCP tooling, same Antigravity...
+
+🏷️ Tags: `antigravitycli`, `python`, `mcps`, `gemma`
+
+---
+
+#### 4. [Angular WebMCP — Your App is Now an AI Tool 🔥🚀](https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4)
+📅 Sat, 08 Aug 2026 10:09:17 GMT
+👤 By: Giorgio Galassi | 📌 Source: Dev.to
+
+![Angular WebMCP — Your App is Now an AI Tool 🔥🚀](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png)
+
+There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...
+
+🏷️ Tags: `angular`, `typescript`, `ai`, `webdev`
+
+---
+
+#### 5. [Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l)
+📅 Tue, 28 Jul 2026 18:58:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png)
+
+This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...
+
+🏷️ Tags: `agents`, `googleadk`, `a2aprotocol`, `aws`
+
+---
+
+#### 6. [Skills vs MCP: How AI tools have evolved](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk)
+📅 Thu, 30 Jul 2026 17:50:23 GMT
+👤 By: Tilde A. Thurium | 📌 Source: Dev.to
+
+![Skills vs MCP: How AI tools have evolved](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png)
+
+Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...
+
+🏷️ Tags: `ai`, `agents`, `mcp`, `agentskills`
+
+---
+
+#### 7. [Should I quit IT or just live through the burnout?](https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng)
+📅 Thu, 09 Jul 2026 14:44:40 GMT
+👤 By: Klaudia Grzondziel | 📌 Source: Dev.to
+
+![Should I quit IT or just live through the burnout?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png)
+
+Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....
+
+🏷️ Tags: `mentalhealth`, `career`, `productivity`, `discuss`
+
+---
+
+#### 8. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+📅 Wed, 21 Feb 2024 11:20:49 GMT
+👤 By: pabs3 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
