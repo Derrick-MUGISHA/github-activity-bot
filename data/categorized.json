@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 677,
       "user": "eternityspring"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2367,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "MengMengCode"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1221,
+      "stars": 1272,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1428,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 677,
       "user": "eternityspring"
     },
     {
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "nkxx188"
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 244,
       "user": "achrefelouafi"
     },
     {
@@ -1503,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1221,
+      "stars": 1272,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1518,23 +1518,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "Appllama"
-    },
-    {
-      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "url": "https://github.com/tanishqkancharla/calldiff",
-      "published_at": "2026-08-07T22:46:51Z",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "tanishqkancharla"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -1548,8 +1533,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 341,
       "user": "SaladDay"
+    },
+    {
+      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "published_at": "2026-08-07T22:46:51Z",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "tanishqkancharla"
     },
     {
       "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
@@ -1563,8 +1563,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "UditAkhourii"
+    },
+    {
+      "title": "Avoid synthetic sounds overlapping",
+      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
+      "published_at": "2026-08-11T09:02:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vatar"
     },
     {
       "title": "How can I prevent JavaScript from running before the DOM is fully loaded?",
@@ -1692,20 +1705,6 @@
       "user": "jameslk"
     },
     {
-      "title": "Using HTML5/JavaScript to generate and save a file",
-      "url": "https://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file",
-      "published_at": "2010-05-24T14:16:34.000Z",
-      "description": "Stack Overflow question · 18 answers · score 372",
-      "tags": [
-        "javascript",
-        "html",
-        "download"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toji"
-    },
-    {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
       "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
       "published_at": "2026-08-10T17:41:14.000Z",
@@ -1716,21 +1715,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nitin_Juyal"
-    },
-    {
-      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
-      "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "python",
-        "flask",
-        "jinja2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Bergh"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
@@ -1971,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2367,
       "user": "KKKKhazix"
     },
     {
@@ -1986,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1420,
       "user": "ShawnPana"
     },
     {
@@ -2001,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1336,
       "user": "oil-oil"
     },
     {
@@ -2016,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 605,
       "user": "T8mars"
     },
     {
@@ -2047,24 +2031,10 @@
       "user": "ubernostrum"
     },
     {
-      "title": "Django is moving to an annual release cycle",
-      "url": "https://www.djangoproject.com/weblog/2026/aug/10/annual-release-cycle/",
-      "published_at": "2026-08-10T07:46:03.432-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python",
-        "release",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggpsv"
-    },
-    {
       "title": "Is there a better way to filter text?",
       "url": "https://stackoverflow.com/questions/79992171/is-there-a-better-way-to-filter-text",
       "published_at": "2026-08-11T08:30:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "substring"
@@ -2072,19 +2042,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DBFI"
-    },
-    {
-      "title": "How to improve vectorStore and Search in RAG Pipeline",
-      "url": "https://stackoverflow.com/questions/79992136/how-to-improve-vectorstore-and-search-in-rag-pipeline",
-      "published_at": "2026-08-11T06:01:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
     },
     {
       "title": "limitations of manually constructed RAG prompt",
@@ -2098,6 +2055,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gypsy"
+    },
+    {
+      "title": "How to improve vectorStore and Search in RAG Pipeline",
+      "url": "https://stackoverflow.com/questions/79992136/how-to-improve-vectorstore-and-search-in-rag-pipeline",
+      "published_at": "2026-08-11T06:01:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kamien Rider"
     },
     {
       "title": "How can I improve a basic FAISS RAG pipeline",
@@ -2153,6 +2123,19 @@
       "user": "Nitin_Juyal"
     },
     {
+      "title": "Unable to chose a date from a “Date Picker” in selenium python",
+      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
+      "published_at": "2026-08-09T13:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soroush Kalantari"
+    },
+    {
       "title": "How to divide a Python script in a shorter script and a module?",
       "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
       "published_at": "2026-08-10T08:56:33.000Z",
@@ -2176,21 +2159,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
-      "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "python",
-        "flask",
-        "jinja2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Bergh"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2492,6 +2460,19 @@
       "user": "juliethefoxcoon"
     },
     {
+      "title": "Avoid synthetic sounds overlapping",
+      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
+      "published_at": "2026-08-11T09:02:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vatar"
+    },
+    {
       "title": "How do I make it so that the script responds differently for each element?",
       "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
       "published_at": "2026-08-10T12:53:06.000Z",
@@ -2530,35 +2511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sumo"
-    },
-    {
-      "title": "Using HTML5/JavaScript to generate and save a file",
-      "url": "https://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file",
-      "published_at": "2010-05-24T14:16:34.000Z",
-      "description": "Stack Overflow question · 18 answers · score 372",
-      "tags": [
-        "javascript",
-        "html",
-        "download"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toji"
-    },
-    {
-      "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
-      "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
-      "published_at": "2026-08-09T14:06:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "python",
-        "flask",
-        "jinja2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Bergh"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -2695,7 +2647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "Appllama"
     },
     {
@@ -3526,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 677,
       "user": "eternityspring"
     },
     {
@@ -3571,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "nkxx188"
     },
     {
@@ -3586,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 244,
       "user": "achrefelouafi"
     },
     {
@@ -3601,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2367,
       "user": "KKKKhazix"
     },
     {
@@ -3616,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1409,
+      "stars": 1420,
       "user": "ShawnPana"
     },
     {
@@ -3631,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1336,
       "user": "oil-oil"
     },
     {
@@ -3646,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 605,
       "user": "T8mars"
     },
     {
@@ -3676,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "MengMengCode"
     },
     {
@@ -3751,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1221,
+      "stars": 1272,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3766,23 +3718,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "Appllama"
-    },
-    {
-      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "url": "https://github.com/tanishqkancharla/calldiff",
-      "published_at": "2026-08-07T22:46:51Z",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "tanishqkancharla"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -3796,8 +3733,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 341,
       "user": "SaladDay"
+    },
+    {
+      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "published_at": "2026-08-07T22:46:51Z",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "tanishqkancharla"
     },
     {
       "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
@@ -3811,7 +3763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "UditAkhourii"
     },
     {
@@ -3826,7 +3778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 164,
       "user": "Flaminis"
     },
     {
@@ -3856,7 +3808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 101,
       "user": "tllovesxs"
     },
     {
