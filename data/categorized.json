@@ -121,21 +121,6 @@
       "user": "Thomas Bnt"
     },
     {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
-      "published_at": "2026-08-07T14:54:45Z",
-      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "tags": [
-        "angular",
-        "firebase",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
       "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
       "published_at": "2026-08-07T11:30:53Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
       "source": "Dev.to",
       "user": "Muhammad Ammar"
+    },
+    {
+      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
+      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
+      "published_at": "2026-08-07T14:54:45Z",
+      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
+      "tags": [
+        "angular",
+        "firebase",
+        "gemini",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
@@ -179,21 +179,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
       "source": "Dev.to",
       "user": "Omar Afifi"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
     },
     {
       "title": "Catbot: Custom Grammar Problem Fixed",
@@ -701,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 686,
       "user": "eternityspring"
     },
     {
@@ -716,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "sv-number"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2367,
+      "stars": 2372,
       "user": "KKKKhazix"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "MengMengCode"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1303,
       "user": "SMNETSTUDIO"
     },
     {
@@ -847,6 +832,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
+    },
+    {
+      "title": "Maintaining a SOCKS connection over ssh in Python",
+      "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
+      "published_at": "2026-08-11T10:05:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sockets",
+        "ssh",
+        "paramiko",
+        "socks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "notanothercliche"
     },
     {
       "title": "How can I improve a basic FAISS RAG pipeline",
@@ -1147,6 +1148,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
+      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
+      "published_at": "2026-08-07T11:30:53Z",
+      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "animation",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
+      "source": "Dev.to",
+      "user": "Muhammad Ammar"
+    },
+    {
       "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
       "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
       "published_at": "2026-08-07T14:54:45Z",
@@ -1175,21 +1191,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
-      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
-      "published_at": "2026-08-07T11:30:53Z",
-      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "animation",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
-      "source": "Dev.to",
-      "user": "Muhammad Ammar"
     },
     {
       "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
@@ -1428,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 686,
       "user": "eternityspring"
     },
     {
@@ -1443,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "sv-number"
     },
     {
@@ -1473,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "nkxx188"
     },
     {
@@ -1488,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "achrefelouafi"
     },
     {
@@ -1503,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1303,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1518,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 445,
       "user": "Appllama"
     },
     {
@@ -1533,7 +1534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 360,
       "user": "SaladDay"
     },
     {
@@ -1548,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "tanishqkancharla"
     },
     {
@@ -1563,14 +1564,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 275,
       "user": "UditAkhourii"
     },
     {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html"
@@ -1607,6 +1608,22 @@
       "user": "Xenon7N"
     },
     {
+      "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
+      "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
+      "published_at": "2026-08-10T06:45:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -9",
+      "tags": [
+        "advice",
+        "javascript",
+        "node.js",
+        "passport.js",
+        "libraries"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shanto Sur"
+    },
+    {
       "title": "How do I export a JavaScript project from Dashtera platform?",
       "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
       "published_at": "2026-08-10T19:04:21.000Z",
@@ -1634,22 +1651,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "omerix"
-    },
-    {
-      "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
-      "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
-      "published_at": "2026-08-10T06:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -10",
-      "tags": [
-        "advice",
-        "javascript",
-        "node.js",
-        "passport.js",
-        "libraries"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shanto Sur"
     },
     {
       "title": "Show javascript text on an html file",
@@ -1955,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2367,
+      "stars": 2372,
       "user": "KKKKhazix"
     },
     {
@@ -1970,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1420,
+      "stars": 1428,
       "user": "ShawnPana"
     },
     {
@@ -1985,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1354,
       "user": "oil-oil"
     },
     {
@@ -2000,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "T8mars"
     },
     {
@@ -2019,22 +2020,26 @@
       "user": "Larryvrh"
     },
     {
-      "title": "Breaking up (lines) is hard to do",
-      "url": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
-      "published_at": "2026-08-10T16:32:57.675-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Maintaining a SOCKS connection over ssh in Python",
+      "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
+      "published_at": "2026-08-11T10:05:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "sockets",
+        "ssh",
+        "paramiko",
+        "socks"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
+      "source": "StackOverflow",
+      "user": "notanothercliche"
     },
     {
       "title": "Is there a better way to filter text?",
       "url": "https://stackoverflow.com/questions/79992171/is-there-a-better-way-to-filter-text",
       "published_at": "2026-08-11T08:30:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "substring"
@@ -2136,19 +2141,6 @@
       "user": "Soroush Kalantari"
     },
     {
-      "title": "How to divide a Python script in a shorter script and a module?",
-      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
-      "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
-      "tags": [
-        "python",
-        "jupyter-notebook"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "janpeter"
-    },
-    {
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
@@ -2177,21 +2169,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
     {
       "title": "AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP",
       "url": "https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i",
@@ -2463,7 +2440,7 @@
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html"
@@ -2647,7 +2624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 445,
       "user": "Appllama"
     },
     {
@@ -3045,21 +3022,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bnt"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
     },
     {
       "title": "The AI That Broke Out of Its Box, and What Happens Next",
@@ -3478,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 686,
       "user": "eternityspring"
     },
     {
@@ -3493,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "sv-number"
     },
     {
@@ -3523,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 267,
       "user": "nkxx188"
     },
     {
@@ -3538,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 248,
       "user": "achrefelouafi"
     },
     {
@@ -3553,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2367,
+      "stars": 2372,
       "user": "KKKKhazix"
     },
     {
@@ -3568,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1420,
+      "stars": 1428,
       "user": "ShawnPana"
     },
     {
@@ -3583,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1354,
       "user": "oil-oil"
     },
     {
@@ -3598,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 608,
       "user": "T8mars"
     },
     {
@@ -3628,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "MengMengCode"
     },
     {
@@ -3703,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1303,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3718,7 +3680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 445,
       "user": "Appllama"
     },
     {
@@ -3733,7 +3695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 360,
       "user": "SaladDay"
     },
     {
@@ -3748,7 +3710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "tanishqkancharla"
     },
     {
@@ -3763,7 +3725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 275,
       "user": "UditAkhourii"
     },
     {
@@ -3778,8 +3740,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 172,
       "user": "Flaminis"
+    },
+    {
+      "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
+      "url": "https://github.com/tllovesxs/cc-switch-route",
+      "published_at": "2026-08-08T01:55:40Z",
+      "description": "CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
+      "source": "GitHub",
+      "stars": 105,
+      "user": "tllovesxs"
     },
     {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
@@ -3795,21 +3772,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "JohnKinyanjui"
-    },
-    {
-      "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
-      "url": "https://github.com/tllovesxs/cc-switch-route",
-      "published_at": "2026-08-08T01:55:40Z",
-      "description": "CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "tllovesxs"
     },
     {
       "title": "gpwn-org/gpwn-toolkit - A collection of libraries and a TUI to test fiber GPON deployments.",
@@ -3838,7 +3800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13034313?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "zortax"
     },
     {
