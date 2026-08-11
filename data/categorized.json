@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 847,
       "user": "eternityspring"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 611,
       "user": "sv-number"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2405,
       "user": "KKKKhazix"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 408,
       "user": "NikoDemon80"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "MengMengCode"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "WhiteDNS"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1403,
       "user": "SMNETSTUDIO"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 836,
       "user": "sohaibdevv"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 367,
       "user": "shadcn-ui"
     },
     {
@@ -840,6 +840,18 @@
       "user": "JohnKinyanjui"
     },
     {
+      "title": "My Anti AI computer",
+      "url": "https://punkx.org/jackdoe/home.html",
+      "published_at": "2026-08-11T12:31:53.127-05:00",
+      "description": "I made this computer to have a place where I can calm my mind, and to re-learn patience; the irony is that I used AI to write the OS and the drivers and everything, and now I do enjoy it, but surely not as much as if I would've written the code myself.",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jackdoe"
+    },
+    {
       "title": "Briar is in maintenance mode",
       "url": "https://briarproject.org/news/2026-maintenance-mode/",
       "published_at": "2026-08-11T07:22:26.913-05:00",
@@ -851,18 +863,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "patternist"
-    },
-    {
-      "title": "My Anti AI computer",
-      "url": "https://punkx.org/jackdoe/home.html",
-      "published_at": "2026-08-11T12:31:53.127-05:00",
-      "description": "I made this computer to have a place where I can calm my mind, and to re-learn patience; the irony is that I used AI to write the OS and the drivers and everything, and now I do enjoy it, but surely not as much as if I would've written the code myself.",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jackdoe"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -944,8 +944,8 @@
       "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
       "tags": [
         "AI",
-        "TC",
         "Apps",
+        "TC",
         "ChatGPT",
         "codex"
       ],
@@ -1026,6 +1026,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
+    },
+    {
+      "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
+      "url": "https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/",
+      "published_at": "2026-08-11T16:47:38.000Z",
+      "description": "Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac",
+      "tags": [
+        "product experimentation",
+        "experimentation",
+        "causal inference",
+        "AI",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Rudrendu Paul"
     },
     {
       "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
@@ -1136,22 +1152,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
-      "published_at": "2026-08-06T21:35:36.000Z",
-      "description": "If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid",
-      "tags": [
-        "Security",
-        "csrf",
-        "spring-boot",
-        "spring security",
-        "Java"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ashutosh Krishna"
     }
   ],
   "JavaScript": [
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 847,
       "user": "eternityspring"
     },
     {
@@ -1452,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 611,
       "user": "sv-number"
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 308,
       "user": "achrefelouafi"
     },
     {
@@ -1497,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "nkxx188"
     },
     {
@@ -1512,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1403,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1527,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 836,
       "user": "sohaibdevv"
     },
     {
@@ -1542,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 508,
       "user": "SaladDay"
     },
     {
@@ -1572,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 367,
       "user": "shadcn-ui"
     },
     {
@@ -1605,6 +1605,19 @@
       "user": "bill42"
     },
     {
+      "title": "Avoid synthetic sounds overlapping",
+      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
+      "published_at": "2026-08-11T09:02:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vatar"
+    },
+    {
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
@@ -1633,19 +1646,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wiz"
-    },
-    {
-      "title": "Avoid synthetic sounds overlapping",
-      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
-      "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vatar"
     },
     {
       "title": "How can I prevent JavaScript from running before the DOM is fully loaded?",
@@ -1943,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2405,
       "user": "KKKKhazix"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1484,
+      "stars": 1485,
       "user": "ShawnPana"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1470,
       "user": "oil-oil"
     },
     {
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 408,
       "user": "NikoDemon80"
     },
     {
@@ -2140,21 +2140,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soroush Kalantari"
-    },
-    {
-      "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
-      "url": "https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/",
-      "published_at": "2026-08-06T21:25:06.000Z",
-      "description": "I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo",
-      "tags": [
-        "quantum computing",
-        "scaling",
-        "computer architecture",
-        "Python"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Casmir Onyekani"
     }
   ],
   "DevOps": [
@@ -2602,7 +2587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "WhiteDNS"
     },
     {
@@ -2662,6 +2647,20 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
+      "url": "https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/",
+      "published_at": "2026-08-11T16:47:02.000Z",
+      "description": "Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "flutter-aware"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Atuoha Anthony"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -3176,19 +3175,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "A researcher bought noreply.net. Companies started sending him secrets",
-      "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-      "published_at": "2026-08-10T11:47:33.710-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "privacy",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
       "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
       "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
       "published_at": "2026-08-11T19:38:23.000Z",
@@ -3203,22 +3189,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
-      "published_at": "2026-08-06T21:35:36.000Z",
-      "description": "If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid",
-      "tags": [
-        "Security",
-        "csrf",
-        "spring-boot",
-        "spring security",
-        "Java"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ashutosh Krishna"
     }
   ],
   "Tools": [
@@ -3390,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 847,
       "user": "eternityspring"
     },
     {
@@ -3405,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 611,
       "user": "sv-number"
     },
     {
@@ -3420,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 308,
       "user": "achrefelouafi"
     },
     {
@@ -3450,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "nkxx188"
     },
     {
@@ -3465,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2405,
       "user": "KKKKhazix"
     },
     {
@@ -3480,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1484,
+      "stars": 1485,
       "user": "ShawnPana"
     },
     {
@@ -3495,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1470,
       "user": "oil-oil"
     },
     {
@@ -3525,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 408,
       "user": "NikoDemon80"
     },
     {
@@ -3540,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 171,
       "user": "MengMengCode"
     },
     {
@@ -3570,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "WhiteDNS"
     },
     {
@@ -3615,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1403,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3630,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 836,
       "user": "sohaibdevv"
     },
     {
@@ -3645,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 508,
       "user": "SaladDay"
     },
     {
@@ -3675,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 367,
       "user": "shadcn-ui"
     },
     {
@@ -3690,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 633,
       "user": "Flaminis"
     },
     {
@@ -3752,6 +3722,20 @@
       "source": "GitHub",
       "stars": 92,
       "user": "gpwn-org"
+    },
+    {
+      "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
+      "url": "https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/",
+      "published_at": "2026-08-11T16:47:02.000Z",
+      "description": "Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "flutter-aware"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Atuoha Anthony"
     },
     {
       "title": "How to Get Your Side Project Seen and Gain Paying Users",
