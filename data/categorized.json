@@ -344,6 +344,21 @@
       "user": "Tilde A. Thurium"
     },
     {
+      "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
+      "url": "https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph",
+      "published_at": "2026-08-07T17:35:35Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           🎨...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "webdev",
+        "googleai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
+      "source": "Dev.to",
+      "user": "Omar Afifi"
+    },
+    {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
       "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
       "published_at": "2026-07-30T06:55:16Z",
@@ -671,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 861,
       "user": "eternityspring"
     },
     {
@@ -686,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sv-number"
     },
     {
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2405,
+      "stars": 2406,
       "user": "KKKKhazix"
     },
     {
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 410,
       "user": "NikoDemon80"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1410,
       "user": "SMNETSTUDIO"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 835,
       "user": "sohaibdevv"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 386,
       "user": "shadcn-ui"
     },
     {
@@ -1463,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 861,
       "user": "eternityspring"
     },
     {
@@ -1478,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sv-number"
     },
     {
@@ -1493,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 317,
       "user": "achrefelouafi"
     },
     {
@@ -1538,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1410,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1553,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 835,
       "user": "sohaibdevv"
     },
     {
@@ -1568,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 515,
       "user": "SaladDay"
     },
     {
@@ -1583,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "Appllama"
     },
     {
@@ -1598,8 +1613,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 386,
       "user": "shadcn-ui"
+    },
+    {
+      "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
+      "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
+      "published_at": "2026-08-11T22:27:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html-object"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
@@ -1730,20 +1758,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shanto Sur"
-    },
-    {
-      "title": "How do I export a JavaScript project from Dashtera platform?",
-      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
-      "published_at": "2026-08-10T19:04:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "dashboard",
-        "lightningchart"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarekD"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
@@ -1969,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2405,
+      "stars": 2406,
       "user": "KKKKhazix"
     },
     {
@@ -1984,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1493,
       "user": "ShawnPana"
     },
     {
@@ -1999,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1478,
       "user": "oil-oil"
     },
     {
@@ -2029,21 +2043,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 410,
       "user": "NikoDemon80"
-    },
-    {
-      "title": "Issue with web scraping script",
-      "url": "https://stackoverflow.com/questions/79992344/issue-with-web-scraping-script",
-      "published_at": "2026-08-11T21:20:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "fatal_error"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -2166,6 +2167,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Unable to chose a date from a “Date Picker” in selenium python",
+      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
+      "published_at": "2026-08-09T13:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soroush Kalantari"
     }
   ],
   "DevOps": [
@@ -2453,6 +2467,19 @@
       "user": "velmu"
     },
     {
+      "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
+      "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
+      "published_at": "2026-08-11T22:27:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html-object"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
@@ -2628,7 +2655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "Appllama"
     },
     {
@@ -3386,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 861,
       "user": "eternityspring"
     },
     {
@@ -3401,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "sv-number"
     },
     {
@@ -3416,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 317,
       "user": "achrefelouafi"
     },
     {
@@ -3461,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2405,
+      "stars": 2406,
       "user": "KKKKhazix"
     },
     {
@@ -3476,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1493,
       "user": "ShawnPana"
     },
     {
@@ -3491,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1476,
+      "stars": 1478,
       "user": "oil-oil"
     },
     {
@@ -3521,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 410,
       "user": "NikoDemon80"
     },
     {
@@ -3611,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1406,
+      "stars": 1410,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3626,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 835,
       "user": "sohaibdevv"
     },
     {
@@ -3641,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 515,
       "user": "SaladDay"
     },
     {
@@ -3656,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "Appllama"
     },
     {
@@ -3671,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 386,
       "user": "shadcn-ui"
     },
     {
@@ -3686,7 +3713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 646,
       "user": "Flaminis"
     },
     {
