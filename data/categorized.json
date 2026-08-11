@@ -46,21 +46,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
-      "published_at": "2026-08-09T22:51:30Z",
-      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 804,
       "user": "eternityspring"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 592,
       "user": "sv-number"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2390,
+      "stars": 2397,
       "user": "KKKKhazix"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 395,
       "user": "NikoDemon80"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "MengMengCode"
     },
     {
@@ -765,10 +765,10 @@
       "user": "WhiteDNS"
     },
     {
-      "title": "jundizhou/easy-stock - A 股AI行情分析与智能投研工作台-基于大模型",
+      "title": "jundizhou/easy-stock - A 股行情分析与AI智能投研智能体--基于大模型",
       "url": "https://github.com/jundizhou/easy-stock",
       "published_at": "2026-08-07T16:25:36Z",
-      "description": "A 股AI行情分析与智能投研工作台-基于大模型",
+      "description": "A 股行情分析与AI智能投研智能体--基于大模型",
       "tags": [
         "go",
         "github",
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1356,
       "user": "SMNETSTUDIO"
     },
     {
@@ -833,18 +833,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
-    },
-    {
-      "title": "Firefox Containers Preview",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "published_at": "2026-08-10T04:37:18.304-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "browsers"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -904,76 +892,49 @@
       "user": "Eric Wohnlich"
     },
     {
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "published_at": "2026-08-11T15:40:46.000Z",
+      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "Delta",
+        "wi-fi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he&#8217;ll explain why at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+      "published_at": "2026-08-11T15:30:00.000Z",
+      "description": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+      "tags": [
+        "Transportation",
+        "TechCrunch Disrupt",
+        "Rivian",
+        "RJ Scaringe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
       "title": "Spotify will label &#8216;AI Persona&#8217; profiles and exclude their music from recommendations",
       "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
       "published_at": "2026-08-11T13:00:00.000Z",
       "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
       "tags": [
-        "Media & Entertainment",
         "AI",
+        "Media & Entertainment",
         "Spotify"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "published_at": "2026-08-11T12:13:47.000Z",
-      "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "claude code",
-        "watermarks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "published_at": "2026-08-11T00:03:18.000Z",
-      "description": "San Francisco's housing market is in trouble again.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "published_at": "2026-08-10T23:56:15.000Z",
-      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Mythos",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Jeff Bezos might finally get his hands on a sports team",
-      "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
-      "published_at": "2026-08-10T23:16:44.000Z",
-      "description": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
-      "tags": [
-        "Media & Entertainment",
-        "jeff bezos",
-        "Sports"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
@@ -1385,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 804,
       "user": "eternityspring"
     },
     {
@@ -1400,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 592,
       "user": "sv-number"
     },
     {
@@ -1415,23 +1376,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 278,
       "user": "ruudkoeyvoets"
-    },
-    {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "nkxx188"
     },
     {
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
@@ -1445,8 +1391,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 275,
       "user": "achrefelouafi"
+    },
+    {
+      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "published_at": "2026-08-05T11:45:52Z",
+      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "nkxx188"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1460,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1356,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1475,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 477,
       "user": "SaladDay"
     },
     {
@@ -1505,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "tanishqkancharla"
     },
     {
@@ -1524,10 +1485,23 @@
       "user": "UditAkhourii"
     },
     {
+      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
+      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
+      "published_at": "2026-08-11T15:31:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bill42"
+    },
+    {
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "reactjs",
@@ -1649,20 +1623,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sumo"
-    },
-    {
-      "title": "Why currentUser below is empty while currentUser above is not?",
-      "url": "https://stackoverflow.com/questions/79991373/why-currentuser-below-is-empty-while-currentuser-above-is-not",
-      "published_at": "2026-08-07T15:07:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "zustand"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "XavierLM"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
@@ -1903,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2390,
+      "stars": 2397,
       "user": "KKKKhazix"
     },
     {
@@ -1918,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1458,
+      "stars": 1464,
       "user": "ShawnPana"
     },
     {
@@ -1933,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1433,
       "user": "oil-oil"
     },
     {
@@ -1948,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 615,
       "user": "T8mars"
     },
     {
@@ -1963,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 395,
       "user": "NikoDemon80"
     },
     {
@@ -1986,7 +1946,7 @@
       "title": "Is there a better way to filter text?",
       "url": "https://stackoverflow.com/questions/79992171/is-there-a-better-way-to-filter-text",
       "published_at": "2026-08-11T08:30:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "substring",
@@ -2387,20 +2347,6 @@
       "user": "velmu"
     },
     {
-      "title": "a pure css implementation of some sunlight streaming in through the window",
-      "url": "https://github.com/jackyzha0/sunlit",
-      "published_at": "2026-08-10T10:29:34.545-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css",
-        "design",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "juliethefoxcoon"
-    },
-    {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
@@ -2608,7 +2554,7 @@
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "reactjs",
@@ -2617,6 +2563,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vedant"
+    },
+    {
+      "title": "2025&#8217;s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
+      "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+      "published_at": "2026-08-11T15:33:59.000Z",
+      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September where it will be ad-free.",
+      "tags": [
+        "Apps",
+        "Gaming",
+        "Apple",
+        "Apple Arcade"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -2875,21 +2836,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Now Rippling is counter-suing tiny startup Runlayer",
-      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
-      "published_at": "2026-08-10T22:26:54.000Z",
-      "description": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
-      "tags": [
-        "Enterprise",
-        "TC",
-        "lawsuits",
-        "Rippling"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     }
   ],
   "Database": [
@@ -3155,34 +3101,35 @@
       "user": "yossarian"
     },
     {
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "published_at": "2026-08-11T15:40:46.000Z",
+      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "Delta",
+        "wi-fi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "North Korean remote IT staffer worked for US government agency, says FBI",
       "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
       "published_at": "2026-08-11T13:40:30.000Z",
       "description": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
       "tags": [
         "Security",
-        "North Korea",
         "cybersecurity",
+        "North Korea",
         "us government"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "published_at": "2026-08-10T23:56:15.000Z",
-      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Mythos",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
@@ -3385,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 804,
       "user": "eternityspring"
     },
     {
@@ -3400,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 592,
       "user": "sv-number"
     },
     {
@@ -3415,23 +3362,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 278,
       "user": "ruudkoeyvoets"
-    },
-    {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "nkxx188"
     },
     {
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
@@ -3445,8 +3377,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 275,
       "user": "achrefelouafi"
+    },
+    {
+      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+      "published_at": "2026-08-05T11:45:52Z",
+      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "source": "GitHub",
+      "stars": 272,
+      "user": "nkxx188"
     },
     {
       "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
@@ -3460,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2390,
+      "stars": 2397,
       "user": "KKKKhazix"
     },
     {
@@ -3475,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1458,
+      "stars": 1464,
       "user": "ShawnPana"
     },
     {
@@ -3490,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1433,
       "user": "oil-oil"
     },
     {
@@ -3505,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 615,
       "user": "T8mars"
     },
     {
@@ -3520,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 395,
       "user": "NikoDemon80"
     },
     {
@@ -3535,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "MengMengCode"
     },
     {
@@ -3569,10 +3516,10 @@
       "user": "WhiteDNS"
     },
     {
-      "title": "jundizhou/easy-stock - A 股AI行情分析与智能投研工作台-基于大模型",
+      "title": "jundizhou/easy-stock - A 股行情分析与AI智能投研智能体--基于大模型",
       "url": "https://github.com/jundizhou/easy-stock",
       "published_at": "2026-08-07T16:25:36Z",
-      "description": "A 股AI行情分析与智能投研工作台-基于大模型",
+      "description": "A 股行情分析与AI智能投研智能体--基于大模型",
       "tags": [
         "go",
         "github",
@@ -3610,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1346,
+      "stars": 1356,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3625,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 477,
       "user": "SaladDay"
     },
     {
@@ -3655,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "tanishqkancharla"
     },
     {
@@ -3685,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 407,
       "user": "Flaminis"
     },
     {
@@ -3759,6 +3706,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "yossarian"
+    },
+    {
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "published_at": "2026-08-11T15:40:46.000Z",
+      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "Delta",
+        "wi-fi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Get Your Side Project Seen and Gain Paying Users",
