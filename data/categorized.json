@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "eternityspring"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2322,
       "user": "KKKKhazix"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 157,
       "user": "surya-koritala"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "jundizhou"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1042,
       "user": "SMNETSTUDIO"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "JohnKinyanjui"
     },
     {
@@ -893,7 +893,7 @@
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
       "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
       "published_at": "2026-08-10T17:41:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1428,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "eternityspring"
     },
     {
@@ -1443,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "sv-number"
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 269,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "pingmike2"
     },
     {
@@ -1503,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1042,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1533,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "tanishqkancharla"
     },
     {
@@ -1563,28 +1563,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 234,
       "user": "SaladDay"
-    },
-    {
-      "title": "How do I export a JavaScript project from Dashtera platform?",
-      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
-      "published_at": "2026-08-10T19:04:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "dashboard",
-        "lightningchart"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarekD"
     },
     {
       "title": "How do I make it so that the script responds differently for each element?",
       "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
       "published_at": "2026-08-10T12:53:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -1607,6 +1593,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "omerix"
+    },
+    {
+      "title": "How do I export a JavaScript project from Dashtera platform?",
+      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
+      "published_at": "2026-08-10T19:04:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "dashboard",
+        "lightningchart"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JarekD"
     },
     {
       "title": "Show javascript text on an html file",
@@ -1708,7 +1708,7 @@
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
       "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
       "published_at": "2026-08-10T17:41:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1970,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2322,
       "user": "KKKKhazix"
     },
     {
@@ -1985,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1366,
+      "stars": 1372,
       "user": "ShawnPana"
     },
     {
@@ -2000,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1282,
       "user": "oil-oil"
     },
     {
@@ -2015,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "T8mars"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "Larryvrh"
     },
     {
@@ -2046,6 +2046,31 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ggpsv"
+    },
+    {
+      "title": "Breaking up (lines) is hard to do",
+      "url": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
+      "published_at": "2026-08-10T16:32:57.675-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
+    },
+    {
+      "title": "How to improve vectorStore and Search in RAG Pipeline",
+      "url": "https://stackoverflow.com/questions/79992136/how-to-improve-vectorstore-and-search-in-rag-pipeline",
+      "published_at": "2026-08-11T06:01:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kamien Rider"
     },
     {
       "title": "How can I improve a basic FAISS RAG pipeline",
@@ -2092,7 +2117,7 @@
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
       "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
       "published_at": "2026-08-10T17:41:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -2113,19 +2138,6 @@
       "user": "NickC"
     },
     {
-      "title": "How to divide a Python script in a shorter script and a module?",
-      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
-      "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score -3",
-      "tags": [
-        "python",
-        "jupyter-notebook"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "janpeter"
-    },
-    {
       "title": "Are Flask HTTP requests from a Jinja template to a Flask api safer than from React or any other frontend framework",
       "url": "https://stackoverflow.com/questions/79991679/are-flask-http-requests-from-a-jinja-template-to-a-flask-api-safer-than-from-rea",
       "published_at": "2026-08-09T14:06:24.000Z",
@@ -2141,10 +2153,23 @@
       "user": "Noah Bergh"
     },
     {
+      "title": "How to divide a Python script in a shorter script and a module?",
+      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
+      "published_at": "2026-08-10T08:56:33.000Z",
+      "description": "Stack Overflow question · 4 answers · score -4",
+      "tags": [
+        "python",
+        "jupyter-notebook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "janpeter"
+    },
+    {
       "title": "Unable to chose a date from a “Date Picker” in selenium python",
       "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
       "published_at": "2026-08-09T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "selenium-webdriver"
@@ -2166,18 +2191,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
-    },
-    {
-      "title": "How can I improve the efficiency of my code for CSES Missing Number?",
-      "url": "https://stackoverflow.com/questions/79991602/how-can-i-improve-the-efficiency-of-my-code-for-cses-missing-number",
-      "published_at": "2026-08-08T18:40:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Damian Fernando D"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2372,7 +2385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 157,
       "user": "surya-koritala"
     },
     {
@@ -2482,7 +2495,7 @@
       "title": "How do I make it so that the script responds differently for each element?",
       "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
       "published_at": "2026-08-10T12:53:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -3513,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 659,
       "user": "eternityspring"
     },
     {
@@ -3528,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 574,
       "user": "sv-number"
     },
     {
@@ -3543,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 269,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3573,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "pingmike2"
     },
     {
@@ -3588,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2320,
+      "stars": 2322,
       "user": "KKKKhazix"
     },
     {
@@ -3603,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1366,
+      "stars": 1372,
       "user": "ShawnPana"
     },
     {
@@ -3618,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1282,
       "user": "oil-oil"
     },
     {
@@ -3633,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "T8mars"
     },
     {
@@ -3648,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "Larryvrh"
     },
     {
@@ -3678,7 +3691,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 157,
       "user": "surya-koritala"
     },
     {
@@ -3708,7 +3721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "jundizhou"
     },
     {
@@ -3738,7 +3751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 992,
+      "stars": 1042,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3768,7 +3781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "tanishqkancharla"
     },
     {
@@ -3798,8 +3811,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 234,
       "user": "SaladDay"
+    },
+    {
+      "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "published_at": "2026-08-07T09:37:32Z",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "Flaminis"
     },
     {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
@@ -3813,7 +3841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 102,
       "user": "JohnKinyanjui"
     },
     {
@@ -3828,7 +3856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "tllovesxs"
     },
     {
@@ -3843,23 +3871,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "gpwn-org"
-    },
-    {
-      "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "url": "https://github.com/Flaminis/Dalaran",
-      "published_at": "2026-08-07T09:37:32Z",
-      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
-      "source": "GitHub",
-      "stars": 86,
-      "user": "Flaminis"
     },
     {
       "title": "zortax/canora - native spotify client because all my homies hate electron ",
@@ -3892,7 +3905,7 @@
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
       "url": "https://stackoverflow.com/questions/79992010/how-do-you-reliably-recover-from-invalid-json-during-llm-tool-calling",
       "published_at": "2026-08-10T17:41:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
