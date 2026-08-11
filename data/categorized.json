@@ -46,21 +46,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Build a Dart ADK Agent and MCP Server",
-      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
-      "published_at": "2026-08-09T17:03:45Z",
-      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
-      "tags": [
-        "dart",
-        "ai",
-        "mcp",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
       "published_at": "2026-08-09T22:51:30Z",
@@ -106,6 +91,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -118,7 +118,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
-      "user": "Thomas Bnt"
+      "user": "Thomas Bonnet"
     },
     {
       "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
@@ -492,19 +492,19 @@
       "user": "Rodrigo Diego"
     },
     {
-      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
-      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
-      "published_at": "2026-07-25T07:43:00Z",
-      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
       "tags": [
         "ai",
-        "robotics",
-        "machinelearning",
-        "llm"
+        "designsystems",
+        "frontend",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
       "source": "Dev.to",
-      "user": "Ankita Virani"
+      "user": "Mxhlix"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 828,
       "user": "eternityspring"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "sv-number"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 400,
       "user": "NikoDemon80"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1390,
       "user": "SMNETSTUDIO"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 314,
       "user": "shadcn-ui"
     },
     {
@@ -853,16 +853,16 @@
       "user": "patternist"
     },
     {
-      "title": "GitHub Actions needs OIDC audience constraints",
-      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-      "published_at": "2026-08-10T08:30:18.013-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "My Anti AI computer",
+      "url": "https://punkx.org/jackdoe/home.html",
+      "published_at": "2026-08-11T12:31:53.127-05:00",
+      "description": "I made this computer to have a place where I can calm my mind, and to re-learn patience; the irony is that I used AI to write the OS and the drivers and everything, and now I do enjoy it, but surely not as much as if I would've written the code myself.",
       "tags": [
-        "security"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "yossarian"
+      "user": "jackdoe"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -922,6 +922,51 @@
       "user": "Eric Wohnlich"
     },
     {
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "published_at": "2026-08-11T17:46:14.000Z",
+      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "tags": [
+        "Apps",
+        "Social",
+        "social media",
+        "Open Web",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "published_at": "2026-08-11T17:41:34.000Z",
+      "description": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "tags": [
+        "AI",
+        "Brad Lightcap",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "published_at": "2026-08-11T17:41:22.000Z",
+      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "General Catalyst"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "An unreleased Anthropic model made progress on one of math&#8217;s biggest unsolved problems",
       "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "published_at": "2026-08-11T16:25:20.000Z",
@@ -958,27 +1003,13 @@
       "description": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
       "tags": [
         "Transportation",
-        "TechCrunch Disrupt",
         "Rivian",
-        "RJ Scaringe"
+        "RJ Scaringe",
+        "TechCrunch Disrupt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Spotify will label &#8216;AI Persona&#8217; profiles and exclude their music from recommendations",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "published_at": "2026-08-11T13:00:00.000Z",
-      "description": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Spotify"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
@@ -1244,6 +1275,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1375,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 828,
       "user": "eternityspring"
     },
     {
@@ -1390,23 +1436,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "sv-number"
-    },
-    {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "published_at": "2026-08-06T08:24:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "ruudkoeyvoets"
     },
     {
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
@@ -1420,8 +1451,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 287,
       "user": "achrefelouafi"
+    },
+    {
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+      "published_at": "2026-08-06T08:24:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "source": "GitHub",
+      "stars": 279,
+      "user": "ruudkoeyvoets"
     },
     {
       "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
@@ -1435,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "nkxx188"
     },
     {
@@ -1450,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1390,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1465,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 500,
       "user": "SaladDay"
     },
     {
@@ -1495,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "tanishqkancharla"
     },
     {
@@ -1510,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 314,
       "user": "shadcn-ui"
     },
     {
@@ -1597,6 +1643,21 @@
       "user": "Xenon7N"
     },
     {
+      "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
+      "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
+      "published_at": "2026-08-10T19:29:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "javascript",
+        "css",
+        "responsive-design",
+        "bootstrap-5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "omerix"
+    },
+    {
       "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
       "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
       "published_at": "2026-08-10T06:45:26.000Z",
@@ -1611,21 +1672,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shanto Sur"
-    },
-    {
-      "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
-      "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
-      "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "css",
-        "responsive-design",
-        "bootstrap-5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "omerix"
     },
     {
       "title": "How do I export a JavaScript project from Dashtera platform?",
@@ -1892,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1478,
       "user": "ShawnPana"
     },
     {
@@ -1907,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1448,
       "user": "oil-oil"
     },
     {
@@ -1937,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 400,
       "user": "NikoDemon80"
     },
     {
@@ -2349,6 +2395,21 @@
       "user": "Parsa Jiravand"
     },
     {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2579,6 +2640,22 @@
       "user": "Vedant"
     },
     {
+      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "published_at": "2026-08-11T17:46:14.000Z",
+      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+      "tags": [
+        "Apps",
+        "Social",
+        "social media",
+        "Open Web",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "2025&#8217;s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
       "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
       "published_at": "2026-08-11T15:33:59.000Z",
@@ -2658,21 +2735,6 @@
       "user": "xbill"
     },
     {
-      "title": "Build a Dart ADK Agent and MCP Server",
-      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
-      "published_at": "2026-08-09T17:03:45Z",
-      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
-      "tags": [
-        "dart",
-        "ai",
-        "mcp",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -2684,6 +2746,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2896,7 +2973,7 @@
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
-      "user": "Thomas Bnt"
+      "user": "Thomas Bonnet"
     },
     {
       "title": "The AI That Broke Out of Its Box, and What Happens Next",
@@ -3088,18 +3165,6 @@
       "user": "hoistbypetard"
     },
     {
-      "title": "GitHub Actions needs OIDC audience constraints",
-      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-      "published_at": "2026-08-10T08:30:18.013-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
-    },
-    {
       "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
       "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
       "published_at": "2026-08-11T15:40:46.000Z",
@@ -3114,21 +3179,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
-      "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
-      "published_at": "2026-08-11T13:40:30.000Z",
-      "description": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "North Korea",
-        "us government"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
@@ -3254,6 +3304,21 @@
       "user": "Klaudia Grzondziel"
     },
     {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3301,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 828,
       "user": "eternityspring"
     },
     {
@@ -3316,23 +3381,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 600,
       "user": "sv-number"
-    },
-    {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "published_at": "2026-08-06T08:24:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "ruudkoeyvoets"
     },
     {
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
@@ -3346,8 +3396,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 287,
       "user": "achrefelouafi"
+    },
+    {
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+      "published_at": "2026-08-06T08:24:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "source": "GitHub",
+      "stars": 279,
+      "user": "ruudkoeyvoets"
     },
     {
       "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
@@ -3361,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 273,
+      "stars": 274,
       "user": "nkxx188"
     },
     {
@@ -3391,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1478,
       "user": "ShawnPana"
     },
     {
@@ -3406,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1448,
       "user": "oil-oil"
     },
     {
@@ -3436,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 400,
       "user": "NikoDemon80"
     },
     {
@@ -3526,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1390,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3541,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 500,
       "user": "SaladDay"
     },
     {
@@ -3571,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 330,
       "user": "tanishqkancharla"
     },
     {
@@ -3586,7 +3651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 314,
       "user": "shadcn-ui"
     },
     {
@@ -3601,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 549,
       "user": "Flaminis"
     },
     {
@@ -3631,7 +3696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 106,
       "user": "tllovesxs"
     },
     {
@@ -3663,18 +3728,6 @@
       "source": "GitHub",
       "stars": 84,
       "user": "zortax"
-    },
-    {
-      "title": "GitHub Actions needs OIDC audience constraints",
-      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
-      "published_at": "2026-08-10T08:30:18.013-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
     },
     {
       "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
