@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 854,
       "user": "eternityspring"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "sv-number"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "WhiteDNS"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1406,
       "user": "SMNETSTUDIO"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 377,
       "user": "shadcn-ui"
     },
     {
@@ -865,6 +865,19 @@
       "user": "patternist"
     },
     {
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "published_at": "2026-08-11T14:35:12.200-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gmem"
+    },
+    {
       "title": "Maintaining a SOCKS connection over ssh in Python",
       "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
       "published_at": "2026-08-11T10:05:20.000Z",
@@ -881,20 +894,6 @@
       "user": "notanothercliche"
     },
     {
-      "title": "pandas running notnull() sum() versus count() against the dataframe",
-      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
-      "published_at": "2026-08-11T01:51:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pandas",
-        "notnull"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "punsoca"
-    },
-    {
       "title": "How can I improve a basic FAISS RAG pipeline",
       "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
       "published_at": "2026-08-11T05:00:36.000Z",
@@ -909,6 +908,20 @@
       "user": "Kamien Rider"
     },
     {
+      "title": "pandas running notnull() sum() versus count() against the dataframe",
+      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
+      "published_at": "2026-08-11T01:51:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "pandas",
+        "notnull"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "punsoca"
+    },
+    {
       "title": "How to convert constraints.txt to uv constraint-dependencies section",
       "url": "https://stackoverflow.com/questions/79992054/how-to-convert-constraints-txt-to-uv-constraint-dependencies-section",
       "published_at": "2026-08-10T20:44:45.000Z",
@@ -920,6 +933,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eric Wohnlich"
+    },
+    {
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing&#8217; for months",
+      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "published_at": "2026-08-11T21:39:58.000Z",
+      "description": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "tags": [
+        "Startups",
+        "Phia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "published_at": "2026-08-11T21:39:11.000Z",
+      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "tags": [
+        "AI",
+        "Venture",
+        "Accel"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
@@ -954,10 +994,10 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "Google’s Gemini app surges to one billion users",
+      "title": "Google’s Gemini app surges to 1 billion users",
       "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "published_at": "2026-08-11T18:49:12.000Z",
-      "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
       "tags": [
         "AI",
         "Apps",
@@ -1012,20 +1052,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math&#8217;s biggest unsolved problems",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "published_at": "2026-08-11T16:25:20.000Z",
-      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "mathematics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
@@ -1437,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 854,
       "user": "eternityspring"
     },
     {
@@ -1452,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "sv-number"
     },
     {
@@ -1467,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 311,
       "user": "achrefelouafi"
     },
     {
@@ -1497,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 276,
       "user": "nkxx188"
     },
     {
@@ -1512,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1406,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1542,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 510,
       "user": "SaladDay"
     },
     {
@@ -1557,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "Appllama"
     },
     {
@@ -1572,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 377,
       "user": "shadcn-ui"
     },
     {
@@ -1958,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1488,
       "user": "ShawnPana"
     },
     {
@@ -1973,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1476,
       "user": "oil-oil"
     },
     {
@@ -1988,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 617,
       "user": "T8mars"
     },
     {
@@ -2005,6 +2031,19 @@
       "source": "GitHub",
       "stars": 408,
       "user": "NikoDemon80"
+    },
+    {
+      "title": "Issue with web scraping script",
+      "url": "https://stackoverflow.com/questions/79992344/issue-with-web-scraping-script",
+      "published_at": "2026-08-11T21:20:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "web-scraping"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fatal_error"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -2063,20 +2102,6 @@
       "user": "Kamien Rider"
     },
     {
-      "title": "pandas running notnull() sum() versus count() against the dataframe",
-      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
-      "published_at": "2026-08-11T01:51:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pandas",
-        "notnull"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "punsoca"
-    },
-    {
       "title": "How can I improve a basic FAISS RAG pipeline",
       "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
       "published_at": "2026-08-11T05:00:36.000Z",
@@ -2089,6 +2114,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kamien Rider"
+    },
+    {
+      "title": "pandas running notnull() sum() versus count() against the dataframe",
+      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
+      "published_at": "2026-08-11T01:51:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "pandas",
+        "notnull"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "punsoca"
     },
     {
       "title": "How to divide a Python script in a shorter script and a module?",
@@ -2127,19 +2166,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Unable to chose a date from a “Date Picker” in selenium python",
-      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
-      "published_at": "2026-08-09T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "selenium-webdriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soroush Kalantari"
     }
   ],
   "DevOps": [
@@ -2587,7 +2613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "WhiteDNS"
     },
     {
@@ -2602,7 +2628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "Appllama"
     },
     {
@@ -3360,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 854,
       "user": "eternityspring"
     },
     {
@@ -3375,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "sv-number"
     },
     {
@@ -3390,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 311,
       "user": "achrefelouafi"
     },
     {
@@ -3420,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 276,
       "user": "nkxx188"
     },
     {
@@ -3450,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1485,
+      "stars": 1488,
       "user": "ShawnPana"
     },
     {
@@ -3465,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1476,
       "user": "oil-oil"
     },
     {
@@ -3480,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 617,
       "user": "T8mars"
     },
     {
@@ -3540,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "WhiteDNS"
     },
     {
@@ -3585,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1406,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3615,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 510,
       "user": "SaladDay"
     },
     {
@@ -3630,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "Appllama"
     },
     {
@@ -3645,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 377,
       "user": "shadcn-ui"
     },
     {
@@ -3660,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 638,
       "user": "Flaminis"
     },
     {
@@ -3720,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "gpwn-org"
     },
     {
