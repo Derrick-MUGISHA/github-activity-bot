@@ -151,21 +151,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
-      "url": "https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph",
-      "published_at": "2026-08-07T17:35:35Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           🎨...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "webdev",
-        "googleai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
-      "source": "Dev.to",
-      "user": "Omar Afifi"
-    },
-    {
       "title": "Catbot: Custom Grammar Problem Fixed",
       "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
       "published_at": "2026-08-01T16:03:02Z",
@@ -686,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 839,
       "user": "eternityspring"
     },
     {
@@ -701,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 609,
       "user": "sv-number"
     },
     {
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "NikoDemon80"
     },
     {
@@ -746,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "MengMengCode"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "WhiteDNS"
     },
     {
@@ -806,8 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1401,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "published_at": "2026-08-11T18:17:18Z",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
+      "source": "GitHub",
+      "stars": 835,
+      "user": "sohaibdevv"
     },
     {
       "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 342,
       "user": "shadcn-ui"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "JohnKinyanjui"
     },
     {
@@ -881,20 +881,6 @@
       "user": "notanothercliche"
     },
     {
-      "title": "How can I improve a basic FAISS RAG pipeline",
-      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
-      "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
-    },
-    {
       "title": "pandas running notnull() sum() versus count() against the dataframe",
       "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
       "published_at": "2026-08-11T01:51:01.000Z",
@@ -909,6 +895,20 @@
       "user": "punsoca"
     },
     {
+      "title": "How can I improve a basic FAISS RAG pipeline",
+      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
+      "published_at": "2026-08-11T05:00:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kamien Rider"
+    },
+    {
       "title": "How to convert constraints.txt to uv constraint-dependencies section",
       "url": "https://stackoverflow.com/questions/79992054/how-to-convert-constraints-txt-to-uv-constraint-dependencies-section",
       "published_at": "2026-08-10T20:44:45.000Z",
@@ -920,6 +920,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eric Wohnlich"
+    },
+    {
+      "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "published_at": "2026-08-11T19:38:23.000Z",
+      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "tags": [
+        "Security",
+        "cybercrime",
+        "cybersecurity",
+        "extortion",
+        "hacking"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
@@ -1010,22 +1026,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-      "published_at": "2026-08-11T15:40:46.000Z",
-      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
-      "tags": [
-        "Security",
-        "Transportation",
-        "cybersecurity",
-        "Delta",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 839,
       "user": "eternityspring"
     },
     {
@@ -1452,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 609,
       "user": "sv-number"
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 303,
       "user": "achrefelouafi"
     },
     {
@@ -1512,8 +1512,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1401,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "published_at": "2026-08-11T18:17:18Z",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
+      "source": "GitHub",
+      "stars": 835,
+      "user": "sohaibdevv"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -1527,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "SaladDay"
     },
     {
@@ -1546,21 +1561,6 @@
       "user": "Appllama"
     },
     {
-      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "url": "https://github.com/tanishqkancharla/calldiff",
-      "published_at": "2026-08-07T22:46:51Z",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
-      "source": "GitHub",
-      "stars": 332,
-      "user": "tanishqkancharla"
-    },
-    {
       "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "url": "https://github.com/shadcn-ui/chatbot-template",
       "published_at": "2026-08-11T11:53:02Z",
@@ -1572,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 342,
       "user": "shadcn-ui"
     },
     {
@@ -1958,7 +1958,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1484,
       "user": "ShawnPana"
     },
     {
@@ -1973,7 +1973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1457,
+      "stars": 1461,
       "user": "oil-oil"
     },
     {
@@ -2003,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "NikoDemon80"
     },
     {
@@ -2063,20 +2063,6 @@
       "user": "Kamien Rider"
     },
     {
-      "title": "How can I improve a basic FAISS RAG pipeline",
-      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
-      "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
-    },
-    {
       "title": "pandas running notnull() sum() versus count() against the dataframe",
       "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
       "published_at": "2026-08-11T01:51:01.000Z",
@@ -2089,6 +2075,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "punsoca"
+    },
+    {
+      "title": "How can I improve a basic FAISS RAG pipeline",
+      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
+      "published_at": "2026-08-11T05:00:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kamien Rider"
     },
     {
       "title": "How to divide a Python script in a shorter script and a module?",
@@ -2602,7 +2602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "WhiteDNS"
     },
     {
@@ -2658,21 +2658,6 @@
         "Bluesky",
         "Open Web",
         "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "2025&#8217;s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
-      "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-      "published_at": "2026-08-11T15:33:59.000Z",
-      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
-      "tags": [
-        "Apps",
-        "Gaming",
-        "Apple",
-        "Apple Arcade"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3204,16 +3189,16 @@
       "user": "hoistbypetard"
     },
     {
-      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-      "published_at": "2026-08-11T15:40:46.000Z",
-      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "published_at": "2026-08-11T19:38:23.000Z",
+      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
       "tags": [
         "Security",
-        "Transportation",
+        "cybercrime",
         "cybersecurity",
-        "Delta",
-        "In Brief"
+        "extortion",
+        "hacking"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3405,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 839,
       "user": "eternityspring"
     },
     {
@@ -3420,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 609,
       "user": "sv-number"
     },
     {
@@ -3435,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 303,
       "user": "achrefelouafi"
     },
     {
@@ -3495,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1482,
+      "stars": 1484,
       "user": "ShawnPana"
     },
     {
@@ -3510,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1457,
+      "stars": 1461,
       "user": "oil-oil"
     },
     {
@@ -3540,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "NikoDemon80"
     },
     {
@@ -3555,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 170,
       "user": "MengMengCode"
     },
     {
@@ -3585,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "WhiteDNS"
     },
     {
@@ -3630,8 +3615,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1401,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "published_at": "2026-08-11T18:17:18Z",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
+      "source": "GitHub",
+      "stars": 835,
+      "user": "sohaibdevv"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -3645,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "SaladDay"
     },
     {
@@ -3664,21 +3664,6 @@
       "user": "Appllama"
     },
     {
-      "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "url": "https://github.com/tanishqkancharla/calldiff",
-      "published_at": "2026-08-07T22:46:51Z",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
-      "source": "GitHub",
-      "stars": 332,
-      "user": "tanishqkancharla"
-    },
-    {
       "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "url": "https://github.com/shadcn-ui/chatbot-template",
       "published_at": "2026-08-11T11:53:02Z",
@@ -3690,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 342,
       "user": "shadcn-ui"
     },
     {
@@ -3705,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 616,
       "user": "Flaminis"
     },
     {
@@ -3735,7 +3720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "JohnKinyanjui"
     },
     {
@@ -3767,22 +3752,6 @@
       "source": "GitHub",
       "stars": 92,
       "user": "gpwn-org"
-    },
-    {
-      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-      "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-      "published_at": "2026-08-11T15:40:46.000Z",
-      "description": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
-      "tags": [
-        "Security",
-        "Transportation",
-        "cybersecurity",
-        "Delta",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Get Your Side Project Seen and Gain Paying Users",
