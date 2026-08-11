@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "sv-number"
     },
     {
@@ -731,23 +731,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2271,
+      "stars": 2272,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 717,
-      "user": "jd-opensource"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -761,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "MengMengCode"
     },
     {
@@ -776,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "WhiteDNS"
     },
     {
@@ -806,38 +791,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 697,
       "user": "SMNETSTUDIO"
-    },
-    {
-      "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "url": "https://github.com/criptogus/HermesOffice",
-      "published_at": "2026-08-04T15:55:03Z",
-      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
-      "source": "GitHub",
-      "stars": 426,
-      "user": "criptogus"
-    },
-    {
-      "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
-      "url": "https://github.com/OlegSotnikov/jc-rs",
-      "published_at": "2026-08-04T03:46:11Z",
-      "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70569672?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "OlegSotnikov"
     },
     {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
@@ -851,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 89,
       "user": "JohnKinyanjui"
     },
     {
@@ -904,14 +859,43 @@
       "user": "Nitin_Juyal"
     },
     {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "published_at": "2026-08-11T00:03:18.000Z",
+      "description": "San Francisco's housing market is in trouble again.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "published_at": "2026-08-10T23:56:15.000Z",
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Mythos",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Jeff Bezos might finally get his hands on a sports team",
       "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
       "published_at": "2026-08-10T23:16:44.000Z",
       "description": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
       "tags": [
         "Media & Entertainment",
-        "Sports",
-        "UK"
+        "jeff bezos",
+        "Sports"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -975,22 +959,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "published_at": "2026-08-10T16:20:13.000Z",
-      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Mark Zuckerberg",
-        "Meta",
-        "Meta Superintelligence"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Get Your Side Project Seen and Gain Paying Users",
@@ -1416,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "sv-number"
     },
     {
@@ -1476,23 +1444,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 697,
       "user": "SMNETSTUDIO"
-    },
-    {
-      "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "url": "https://github.com/criptogus/HermesOffice",
-      "published_at": "2026-08-04T15:55:03Z",
-      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
-      "source": "GitHub",
-      "stars": 426,
-      "user": "criptogus"
     },
     {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
@@ -1510,21 +1463,6 @@
       "user": "Appllama"
     },
     {
-      "title": "s010s/prehistoric-animal-museum - A calm, parent-and-child 3D prehistoric animal museum.",
-      "url": "https://github.com/s010s/prehistoric-animal-museum",
-      "published_at": "2026-08-04T15:01:54Z",
-      "description": "A calm, parent-and-child 3D prehistoric animal museum.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
-      "source": "GitHub",
-      "stars": 322,
-      "user": "s010s"
-    },
-    {
       "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
       "url": "https://github.com/tanishqkancharla/calldiff",
       "published_at": "2026-08-07T22:46:51Z",
@@ -1536,23 +1474,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 292,
       "user": "tanishqkancharla"
     },
     {
-      "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
-      "url": "https://github.com/OlegSotnikov/jc-rs",
-      "published_at": "2026-08-04T03:46:11Z",
-      "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
+      "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "published_at": "2026-08-05T10:26:26Z",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70569672?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
-      "stars": 106,
-      "user": "OlegSotnikov"
+      "stars": 241,
+      "user": "UditAkhourii"
+    },
+    {
+      "title": "2023782whl/Mem-kb - Self-Evolving Enterprise Knowledge Base",
+      "url": "https://github.com/2023782whl/Mem-kb",
+      "published_at": "2026-08-06T03:34:56Z",
+      "description": "Self-Evolving Enterprise Knowledge Base",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102843792?v=4",
+      "source": "GitHub",
+      "stars": 205,
+      "user": "2023782whl"
     },
     {
       "title": "How do I export a JavaScript project from Dashtera platform?",
@@ -1572,7 +1525,7 @@
       "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
       "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
       "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "css",
@@ -1664,20 +1617,6 @@
       "user": "T&#249;ng Nguyễn"
     },
     {
-      "title": "Stuck in tutorial hell after 4 years: How do I build web sites and think independently?",
-      "url": "https://stackoverflow.com/questions/79941955/stuck-in-tutorial-hell-after-4-years-how-do-i-build-web-sites-and-think-indepen",
-      "published_at": "2026-05-15T21:23:20.000Z",
-      "description": "Stack Overflow question · 8 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zubair Fathi"
-    },
-    {
       "title": "Using HTML5/JavaScript to generate and save a file",
       "url": "https://stackoverflow.com/questions/2897619/using-html5-javascript-to-generate-and-save-a-file",
       "published_at": "2010-05-24T14:16:34.000Z",
@@ -1690,6 +1629,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toji"
+    },
+    {
+      "title": "What is the javascript filename naming convention?",
+      "url": "https://stackoverflow.com/questions/7273316/what-is-the-javascript-filename-naming-convention",
+      "published_at": "2011-09-01T16:24:17.000Z",
+      "description": "Stack Overflow question · 6 answers · score 390",
+      "tags": [
+        "javascript",
+        "naming-conventions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ripper234"
     },
     {
       "title": "How do you reliably recover from invalid JSON during LLM tool calling?",
@@ -1956,7 +1908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2271,
+      "stars": 2272,
       "user": "KKKKhazix"
     },
     {
@@ -1971,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1308,
       "user": "ShawnPana"
     },
     {
@@ -1986,23 +1938,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1182,
       "user": "oil-oil"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 717,
-      "user": "jd-opensource"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -2018,6 +1955,21 @@
       "source": "GitHub",
       "stars": 585,
       "user": "T8mars"
+    },
+    {
+      "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
+      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "published_at": "2026-08-06T06:43:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
+      "source": "GitHub",
+      "stars": 372,
+      "user": "Larryvrh"
     },
     {
       "title": "Django is moving to an annual release cycle",
@@ -2454,7 +2406,7 @@
       "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
       "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
       "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "css",
@@ -2489,20 +2441,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sumo"
-    },
-    {
-      "title": "Stuck in tutorial hell after 4 years: How do I build web sites and think independently?",
-      "url": "https://stackoverflow.com/questions/79941955/stuck-in-tutorial-hell-after-4-years-how-do-i-build-web-sites-and-think-indepen",
-      "published_at": "2026-05-15T21:23:20.000Z",
-      "description": "Stack Overflow question · 8 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zubair Fathi"
     },
     {
       "title": "Using HTML5/JavaScript to generate and save a file",
@@ -2652,7 +2590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "WhiteDNS"
     },
     {
@@ -3298,6 +3236,21 @@
       "user": "hoistbypetard"
     },
     {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "published_at": "2026-08-10T23:56:15.000Z",
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Mythos",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/",
       "published_at": "2026-08-06T21:35:36.000Z",
@@ -3513,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "sv-number"
     },
     {
@@ -3573,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2271,
+      "stars": 2272,
       "user": "KKKKhazix"
     },
     {
@@ -3588,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1304,
+      "stars": 1308,
       "user": "ShawnPana"
     },
     {
@@ -3603,23 +3556,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1182,
       "user": "oil-oil"
-    },
-    {
-      "title": "jd-opensource/JoyAI-Video-Edit - [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "published_at": "2026-08-04T08:22:24Z",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75349771?v=4",
-      "source": "GitHub",
-      "stars": 717,
-      "user": "jd-opensource"
     },
     {
       "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
@@ -3637,6 +3575,21 @@
       "user": "T8mars"
     },
     {
+      "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
+      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "published_at": "2026-08-06T06:43:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
+      "source": "GitHub",
+      "stars": 372,
+      "user": "Larryvrh"
+    },
+    {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
       "url": "https://github.com/MengMengCode/VoCat",
       "published_at": "2026-08-09T06:43:49Z",
@@ -3648,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "MengMengCode"
     },
     {
@@ -3663,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "WhiteDNS"
     },
     {
@@ -3723,23 +3676,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 697,
       "user": "SMNETSTUDIO"
-    },
-    {
-      "title": "criptogus/HermesOffice - HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "url": "https://github.com/criptogus/HermesOffice",
-      "published_at": "2026-08-04T15:55:03Z",
-      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/128640021?v=4",
-      "source": "GitHub",
-      "stars": 426,
-      "user": "criptogus"
     },
     {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
@@ -3757,21 +3695,6 @@
       "user": "Appllama"
     },
     {
-      "title": "s010s/prehistoric-animal-museum - A calm, parent-and-child 3D prehistoric animal museum.",
-      "url": "https://github.com/s010s/prehistoric-animal-museum",
-      "published_at": "2026-08-04T15:01:54Z",
-      "description": "A calm, parent-and-child 3D prehistoric animal museum.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8357465?v=4",
-      "source": "GitHub",
-      "stars": 322,
-      "user": "s010s"
-    },
-    {
       "title": "tanishqkancharla/calldiff - Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
       "url": "https://github.com/tanishqkancharla/calldiff",
       "published_at": "2026-08-07T22:46:51Z",
@@ -3783,38 +3706,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 292,
       "user": "tanishqkancharla"
     },
     {
-      "title": "cristicretu/diri - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
-      "url": "https://github.com/cristicretu/diri",
-      "published_at": "2026-08-04T10:08:23Z",
-      "description": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "published_at": "2026-08-05T10:26:26Z",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45521157?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
       "source": "GitHub",
-      "stars": 236,
-      "user": "cristicretu"
+      "stars": 241,
+      "user": "UditAkhourii"
     },
     {
-      "title": "OlegSotnikov/jc-rs - 237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
-      "url": "https://github.com/OlegSotnikov/jc-rs",
-      "published_at": "2026-08-04T03:46:11Z",
-      "description": "237 parsers that turn command output, file formats and strings into JSON, from one static Rust binary with no runtime to install. Verified against the full reference fixture corpus on every commit.",
+      "title": "2023782whl/Mem-kb - Self-Evolving Enterprise Knowledge Base",
+      "url": "https://github.com/2023782whl/Mem-kb",
+      "published_at": "2026-08-06T03:34:56Z",
+      "description": "Self-Evolving Enterprise Knowledge Base",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/70569672?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/102843792?v=4",
       "source": "GitHub",
-      "stars": 106,
-      "user": "OlegSotnikov"
+      "stars": 205,
+      "user": "2023782whl"
     },
     {
       "title": "tllovesxs/cc-switch-route - cc-swith的路由加强,无侵入,打开即用",
@@ -3832,21 +3755,6 @@
       "user": "tllovesxs"
     },
     {
-      "title": "gpwn-org/gpwn-toolkit - A collection of libraries and a TUI to test fiber GPON deployments.",
-      "url": "https://github.com/gpwn-org/gpwn-toolkit",
-      "published_at": "2026-08-08T19:34:23Z",
-      "description": "A collection of libraries and a TUI to test fiber GPON deployments.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "gpwn-org"
-    },
-    {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
       "url": "https://github.com/JohnKinyanjui/sprite-maker",
       "published_at": "2026-08-09T20:25:50Z",
@@ -3858,8 +3766,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 89,
       "user": "JohnKinyanjui"
+    },
+    {
+      "title": "gpwn-org/gpwn-toolkit - A collection of libraries and a TUI to test fiber GPON deployments.",
+      "url": "https://github.com/gpwn-org/gpwn-toolkit",
+      "published_at": "2026-08-08T19:34:23Z",
+      "description": "A collection of libraries and a TUI to test fiber GPON deployments.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
+      "source": "GitHub",
+      "stars": 89,
+      "user": "gpwn-org"
+    },
+    {
+      "title": "zortax/canora - native spotify client because all my homies hate electron ",
+      "url": "https://github.com/zortax/canora",
+      "published_at": "2026-08-07T23:11:54Z",
+      "description": "native spotify client because all my homies hate electron ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13034313?v=4",
+      "source": "GitHub",
+      "stars": 80,
+      "user": "zortax"
+    },
+    {
+      "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "published_at": "2026-08-07T09:37:32Z",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
+      "source": "GitHub",
+      "stars": 76,
+      "user": "Flaminis"
     },
     {
       "title": "GitHub Actions needs OIDC audience constraints",
