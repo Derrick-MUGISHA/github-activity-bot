@@ -314,6 +314,36 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
+      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
+      "published_at": "2026-08-07T11:30:53Z",
+      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "animation",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
+      "source": "Dev.to",
+      "user": "Muhammad Ammar"
+    },
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
+    },
+    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -475,21 +505,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
       "source": "Dev.to",
       "user": "Ankita Virani"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -671,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 816,
       "user": "eternityspring"
     },
     {
@@ -686,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 598,
       "user": "sv-number"
     },
     {
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2397,
+      "stars": 2401,
       "user": "KKKKhazix"
     },
     {
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 398,
       "user": "NikoDemon80"
     },
     {
@@ -761,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "WhiteDNS"
     },
     {
@@ -791,8 +806,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1379,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 295,
+      "user": "shadcn-ui"
     },
     {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
@@ -806,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "JohnKinyanjui"
     },
     {
@@ -854,7 +884,7 @@
       "title": "How can I improve a basic FAISS RAG pipeline",
       "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
       "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -892,6 +922,20 @@
       "user": "Eric Wohnlich"
     },
     {
+      "title": "An unreleased Anthropic model made progress on one of math&#8217;s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "published_at": "2026-08-11T16:25:20.000Z",
+      "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "mathematics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
       "url": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
       "published_at": "2026-08-11T15:40:46.000Z",
@@ -901,7 +945,7 @@
         "Transportation",
         "cybersecurity",
         "Delta",
-        "wi-fi"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1170,6 +1214,21 @@
       "user": "Shubhra Pokhariya"
     },
     {
+      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
+      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
+      "published_at": "2026-08-07T11:30:53Z",
+      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
+      "tags": [
+        "ai",
+        "webdev",
+        "animation",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
+      "source": "Dev.to",
+      "user": "Muhammad Ammar"
+    },
+    {
       "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
       "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
       "published_at": "2026-07-28T05:12:29Z",
@@ -1183,36 +1242,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "I built dev tools that literally cannot send your data anywhere",
-      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
-      "published_at": "2026-08-05T18:45:20Z",
-      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "security",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
-      "source": "Dev.to",
-      "user": "nullisland"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1346,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 816,
       "user": "eternityspring"
     },
     {
@@ -1361,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 598,
       "user": "sv-number"
     },
     {
@@ -1376,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1391,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 279,
       "user": "achrefelouafi"
     },
     {
@@ -1406,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "nkxx188"
     },
     {
@@ -1421,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1379,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1436,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 489,
       "user": "SaladDay"
     },
     {
@@ -1466,29 +1495,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "tanishqkancharla"
     },
     {
-      "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "url": "https://github.com/UditAkhourii/neuroarxiv",
-      "published_at": "2026-08-05T10:26:26Z",
-      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 284,
-      "user": "UditAkhourii"
+      "stars": 295,
+      "user": "shadcn-ui"
     },
     {
       "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
       "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
       "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "regex"
@@ -1501,7 +1530,7 @@
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -1544,7 +1573,7 @@
       "title": "How can I prevent JavaScript from running before the DOM is fully loaded?",
       "url": "https://stackoverflow.com/questions/79992162/how-can-i-prevent-javascript-from-running-before-the-dom-is-fully-loaded",
       "published_at": "2026-08-11T08:00:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "javascript",
@@ -1717,21 +1746,6 @@
       "user": "Daniel Possible Kwabi"
     },
     {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1863,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2397,
+      "stars": 2401,
       "user": "KKKKhazix"
     },
     {
@@ -1878,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1471,
       "user": "ShawnPana"
     },
     {
@@ -1893,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1444,
       "user": "oil-oil"
     },
     {
@@ -1923,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 398,
       "user": "NikoDemon80"
     },
     {
@@ -1946,7 +1960,7 @@
       "title": "Is there a better way to filter text?",
       "url": "https://stackoverflow.com/questions/79992171/is-there-a-better-way-to-filter-text",
       "published_at": "2026-08-11T08:30:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "substring",
@@ -1960,7 +1974,7 @@
       "title": "limitations of manually constructed RAG prompt",
       "url": "https://stackoverflow.com/questions/79992139/limitations-of-manually-constructed-rag-prompt",
       "published_at": "2026-08-11T06:28:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "rag"
@@ -1973,7 +1987,7 @@
       "title": "How to improve vectorStore and Search in RAG Pipeline",
       "url": "https://stackoverflow.com/questions/79992136/how-to-improve-vectorstore-and-search-in-rag-pipeline",
       "published_at": "2026-08-11T06:01:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "rag"
@@ -1986,7 +2000,7 @@
       "title": "How can I improve a basic FAISS RAG pipeline",
       "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
       "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -2009,6 +2023,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "punsoca"
+    },
+    {
+      "title": "How to divide a Python script in a shorter script and a module?",
+      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
+      "published_at": "2026-08-10T08:56:33.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
+      "tags": [
+        "python",
+        "jupyter-notebook"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "janpeter"
     },
     {
       "title": "How to convert constraints.txt to uv constraint-dependencies section",
@@ -2047,19 +2074,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Soroush Kalantari"
-    },
-    {
-      "title": "How to divide a Python script in a shorter script and a module?",
-      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
-      "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
-      "tags": [
-        "python",
-        "jupyter-notebook"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "janpeter"
     },
     {
       "title": "Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures",
@@ -2106,6 +2120,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq284czaemc8cyufm98xh.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
     },
     {
       "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
@@ -2320,21 +2349,6 @@
       "user": "Parsa Jiravand"
     },
     {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2519,7 +2533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "WhiteDNS"
     },
     {
@@ -2554,7 +2568,7 @@
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -2568,7 +2582,7 @@
       "title": "2025&#8217;s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
       "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
       "published_at": "2026-08-11T15:33:59.000Z",
-      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September where it will be ad-free.",
+      "description": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
       "tags": [
         "Apps",
         "Gaming",
@@ -2821,21 +2835,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Debugging Deployments with Gemma 4B, TPU v6e-4, MCP, and Antigravity CLI",
-      "url": "https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-4-mcp-and-antigravity-cli-1l82",
-      "published_at": "2026-07-07T17:12:47Z",
-      "description": "This article provides a step by step debugging guide for deploying Gemma 4 to a Google Cloud TPU...",
-      "tags": [
-        "googleantigravity",
-        "python",
-        "mcps",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32miztckxtv5u58nr0h7.png",
-      "source": "Dev.to",
-      "user": "xbill"
     }
   ],
   "Database": [
@@ -2914,6 +2913,21 @@
       "user": "layla "
     },
     {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
+    },
+    {
       "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
       "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
       "published_at": "2026-07-30T06:19:47Z",
@@ -2927,21 +2941,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "I built dev tools that literally cannot send your data anywhere",
-      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
-      "published_at": "2026-08-05T18:45:20Z",
-      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "security",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
-      "source": "Dev.to",
-      "user": "nullisland"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3110,7 +3109,7 @@
         "Transportation",
         "cybersecurity",
         "Delta",
-        "wi-fi"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3255,36 +3254,6 @@
       "user": "Klaudia Grzondziel"
     },
     {
-      "title": "I built dev tools that literally cannot send your data anywhere",
-      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
-      "published_at": "2026-08-05T18:45:20Z",
-      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "security",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
-      "source": "Dev.to",
-      "user": "nullisland"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3332,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 816,
       "user": "eternityspring"
     },
     {
@@ -3347,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 598,
       "user": "sv-number"
     },
     {
@@ -3362,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3377,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 279,
       "user": "achrefelouafi"
     },
     {
@@ -3392,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 273,
       "user": "nkxx188"
     },
     {
@@ -3407,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2397,
+      "stars": 2401,
       "user": "KKKKhazix"
     },
     {
@@ -3422,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1471,
       "user": "ShawnPana"
     },
     {
@@ -3437,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1444,
       "user": "oil-oil"
     },
     {
@@ -3467,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 398,
       "user": "NikoDemon80"
     },
     {
@@ -3512,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 129,
       "user": "WhiteDNS"
     },
     {
@@ -3557,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1379,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3572,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 489,
       "user": "SaladDay"
     },
     {
@@ -3602,23 +3571,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31808124?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "tanishqkancharla"
     },
     {
-      "title": "UditAkhourii/neuroarxiv - A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
-      "url": "https://github.com/UditAkhourii/neuroarxiv",
-      "published_at": "2026-08-05T10:26:26Z",
-      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156824020?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 284,
-      "user": "UditAkhourii"
+      "stars": 295,
+      "user": "shadcn-ui"
     },
     {
       "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
@@ -3632,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 497,
       "user": "Flaminis"
     },
     {
@@ -3647,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "JohnKinyanjui"
     },
     {
@@ -3717,7 +3686,7 @@
         "Transportation",
         "cybersecurity",
         "Delta",
-        "wi-fi"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
