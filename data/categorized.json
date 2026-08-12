@@ -196,21 +196,6 @@
       "user": "xbill"
     },
     {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "published_at": "2026-07-29T22:02:22Z",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "tags": [
-        "tpu",
-        "llm",
-        "jax",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
       "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0",
       "published_at": "2026-07-31T17:43:12Z",
@@ -672,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1097,
       "user": "eternityspring"
     },
     {
@@ -687,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "sv-number"
     },
     {
@@ -702,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 708,
       "user": "guillaumemeyer"
     },
     {
@@ -717,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "NikoDemon80"
     },
     {
@@ -732,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 195,
       "user": "MengMengCode"
     },
     {
@@ -747,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 159,
       "user": "surya-koritala"
     },
     {
@@ -762,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "jundizhou"
     },
     {
@@ -777,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 76,
       "user": "forever94yu"
     },
     {
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "Lynricsy"
     },
     {
@@ -807,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1507,
       "user": "SMNETSTUDIO"
     },
     {
@@ -822,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "sohaibdevv"
     },
     {
@@ -837,23 +822,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 534,
       "user": "shadcn-ui"
-    },
-    {
-      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
-      "url": "https://github.com/JohnKinyanjui/sprite-maker",
-      "published_at": "2026-08-09T20:25:50Z",
-      "description": "An open source ai sprite maker",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "JohnKinyanjui"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -867,8 +837,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 121,
       "user": "lexmount"
+    },
+    {
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "JohnKinyanjui"
+    },
+    {
+      "title": "My Anti AI computer",
+      "url": "https://punkx.org/jackdoe/home.html",
+      "published_at": "2026-08-11T12:31:53.127-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jackdoe"
     },
     {
       "title": "Compression is prediction",
@@ -884,29 +881,17 @@
       "user": "gmem"
     },
     {
-      "title": "My Anti AI computer",
-      "url": "https://punkx.org/jackdoe/home.html",
-      "published_at": "2026-08-11T12:31:53.127-05:00",
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "published_at": "2026-08-12T00:20:40.296-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "plt",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "jackdoe"
-    },
-    {
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "published_at": "2026-08-11T07:22:26.913-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "mobile",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "patternist"
+      "user": "yawaramin"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -951,6 +936,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kamien Rider"
+    },
+    {
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "url": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+      "published_at": "2026-08-12T14:00:00.000Z",
+      "description": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "Google",
+        "PIXEL"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year",
@@ -1023,69 +1023,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
-      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "published_at": "2026-08-11T19:38:23.000Z",
-      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "tags": [
-        "Security",
-        "cybercrime",
-        "cybersecurity",
-        "extortion",
-        "hacking"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "published_at": "2026-08-11T19:15:35.000Z",
-      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "tags": [
-        "AI",
-        "Apps",
-        "TC",
-        "ChatGPT",
-        "codex"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "published_at": "2026-08-11T18:49:12.000Z",
-      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "published_at": "2026-08-11T17:46:14.000Z",
-      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Bluesky",
-        "Open Web",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
@@ -1497,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1097,
       "user": "eternityspring"
     },
     {
@@ -1512,23 +1449,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "sv-number"
-    },
-    {
-      "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
-      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
-      "published_at": "2026-08-06T22:44:53Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
-      "source": "GitHub",
-      "stars": 375,
-      "user": "achrefelouafi"
     },
     {
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
@@ -1542,8 +1464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 460,
       "user": "LaoFeng-mouse"
+    },
+    {
+      "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
+      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
+      "published_at": "2026-08-06T22:44:53Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "achrefelouafi"
     },
     {
       "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
@@ -1557,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1572,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1507,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1587,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "sohaibdevv"
     },
     {
@@ -1602,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 701,
       "user": "SaladDay"
     },
     {
@@ -1617,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 534,
       "user": "shadcn-ui"
     },
     {
@@ -1632,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Appllama"
     },
     {
@@ -1652,7 +1589,7 @@
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
       "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
       "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -2000,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1588,
       "user": "ShawnPana"
     },
     {
@@ -2015,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1554,
+      "stars": 1560,
       "user": "oil-oil"
     },
     {
@@ -2030,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 708,
       "user": "guillaumemeyer"
     },
     {
@@ -2045,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "NikoDemon80"
     },
     {
@@ -2060,14 +1997,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 408,
       "user": "Larryvrh"
     },
     {
-      "title": "Storing individual pieces of data in a shelve",
-      "url": "https://stackoverflow.com/questions/79993473/storing-individual-pieces-of-data-in-a-shelve",
+      "title": "Python NLP usage of .lower() function",
+      "url": "https://stackoverflow.com/questions/79993518/python-nlp-usage-of-lower-function",
+      "published_at": "2026-08-12T13:35:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "nlp",
+        "nltk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sinooshka"
+    },
+    {
+      "title": "Storing individual pieces of data in a shelf",
+      "url": "https://stackoverflow.com/questions/79993473/storing-individual-pieces-of-data-in-a-shelf",
       "published_at": "2026-08-12T11:06:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "shelve"
@@ -2186,19 +2137,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kamien Rider"
-    },
-    {
-      "title": "How to divide a Python script in a shorter script and a module?",
-      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
-      "published_at": "2026-08-10T08:56:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
-      "tags": [
-        "python",
-        "jupyter-notebook"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "janpeter"
     }
   ],
   "DevOps": [
@@ -2393,7 +2331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 159,
       "user": "surya-koritala"
     },
     {
@@ -2497,7 +2435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 708,
       "user": "guillaumemeyer"
     },
     {
@@ -2674,21 +2612,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Appllama"
-    },
-    {
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "published_at": "2026-08-11T07:22:26.913-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "mobile",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "patternist"
     },
     {
       "title": "How should I handle dependent API requests and stale state in React?",
@@ -2703,22 +2628,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vedant"
-    },
-    {
-      "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "published_at": "2026-08-11T17:46:14.000Z",
-      "description": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Bluesky",
-        "Open Web",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
@@ -2840,21 +2749,6 @@
         "gemini"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
-      "published_at": "2026-07-29T22:02:22Z",
-      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
-      "tags": [
-        "tpu",
-        "llm",
-        "jax",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2989,7 +2883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 76,
       "user": "forever94yu"
     },
     {
@@ -3041,7 +2935,7 @@
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
       "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
       "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -3277,22 +3171,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "FBI says cybercriminals are hacking into victims&#8217; online accounts to steal their intimate pictures",
-      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "published_at": "2026-08-11T19:38:23.000Z",
-      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "tags": [
-        "Security",
-        "cybercrime",
-        "cybersecurity",
-        "extortion",
-        "hacking"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3479,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1097,
       "user": "eternityspring"
     },
     {
@@ -3494,23 +3372,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "sv-number"
-    },
-    {
-      "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
-      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
-      "published_at": "2026-08-06T22:44:53Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
-      "source": "GitHub",
-      "stars": 375,
-      "user": "achrefelouafi"
     },
     {
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
@@ -3524,8 +3387,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 460,
       "user": "LaoFeng-mouse"
+    },
+    {
+      "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
+      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
+      "published_at": "2026-08-06T22:44:53Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "achrefelouafi"
     },
     {
       "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
@@ -3539,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3554,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1576,
+      "stars": 1588,
       "user": "ShawnPana"
     },
     {
@@ -3569,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1554,
+      "stars": 1560,
       "user": "oil-oil"
     },
     {
@@ -3584,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 708,
       "user": "guillaumemeyer"
     },
     {
@@ -3599,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 450,
       "user": "NikoDemon80"
     },
     {
@@ -3614,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 408,
       "user": "Larryvrh"
     },
     {
@@ -3629,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 195,
       "user": "MengMengCode"
     },
     {
@@ -3644,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 159,
       "user": "surya-koritala"
     },
     {
@@ -3659,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "jundizhou"
     },
     {
@@ -3674,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 72,
+      "stars": 76,
       "user": "forever94yu"
     },
     {
@@ -3689,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "Lynricsy"
     },
     {
@@ -3704,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1505,
+      "stars": 1507,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3719,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "sohaibdevv"
     },
     {
@@ -3734,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 701,
       "user": "SaladDay"
     },
     {
@@ -3749,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 534,
       "user": "shadcn-ui"
     },
     {
@@ -3764,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 457,
       "user": "Appllama"
     },
     {
@@ -3779,7 +3657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 858,
       "user": "Flaminis"
     },
     {
@@ -3798,21 +3676,6 @@
       "user": "EurekaZang"
     },
     {
-      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
-      "url": "https://github.com/JohnKinyanjui/sprite-maker",
-      "published_at": "2026-08-09T20:25:50Z",
-      "description": "An open source ai sprite maker",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
-      "source": "GitHub",
-      "stars": 117,
-      "user": "JohnKinyanjui"
-    },
-    {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
       "url": "https://github.com/lexmount/moli",
       "published_at": "2026-08-10T13:20:30Z",
@@ -3824,8 +3687,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 121,
       "user": "lexmount"
+    },
+    {
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
+      "source": "GitHub",
+      "stars": 118,
+      "user": "JohnKinyanjui"
     },
     {
       "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
@@ -3839,7 +3717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 111,
       "user": "tllovesxs"
     },
     {
