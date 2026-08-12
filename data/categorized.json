@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1150,
       "user": "eternityspring"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 586,
       "user": "sv-number"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1470,
       "user": "guillaumemeyer"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "NikoDemon80"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 214,
       "user": "MengMengCode"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "surya-koritala"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "jundizhou"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 564,
       "user": "shadcn-ui"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 142,
       "user": "lexmount"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "JohnKinyanjui"
     },
     {
@@ -896,20 +896,6 @@
       "user": "untrusem"
     },
     {
-      "title": "On AI Coding and Its Discontents",
-      "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-      "published_at": "2026-08-12T03:43:18.333-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "testing",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvmbdv"
-    },
-    {
       "title": "Maintaining a SOCKS connection over ssh in Python",
       "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
       "published_at": "2026-08-11T10:05:20.000Z",
@@ -924,6 +910,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "notanothercliche"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "published_at": "2026-08-12T17:51:00.000Z",
+      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "tags": [
+        "AI",
+        "andrew ng",
+        "Artificial Intelligence (AI)",
+        "China",
+        "Fei-Fei Li"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "published_at": "2026-08-12T17:41:29.000Z",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "Venture",
+        "Enterprise AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Uber Freight reportedly investigating after hacking group claims data breach",
@@ -981,6 +999,7 @@
       "tags": [
         "Climate",
         "Fundraising",
+        "Batteries",
         "energy storage",
         "Form Energy"
       ],
@@ -1004,13 +1023,14 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
       "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
       "published_at": "2026-08-12T15:56:13.000Z",
       "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
       "tags": [
         "Apps",
-        "Facebook"
+        "Facebook",
+        "creator studio"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1025,27 +1045,12 @@
         "AI",
         "Startups",
         "fraud",
+        "Mergers and Acquisitions",
         "video clips"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "published_at": "2026-08-12T15:18:55.000Z",
-      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "Microsoft",
-        "Windows",
-        "zero-day"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1427,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1150,
       "user": "eternityspring"
     },
     {
@@ -1442,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 843,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1457,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 586,
       "user": "sv-number"
     },
     {
@@ -1472,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 416,
       "user": "achrefelouafi"
     },
     {
@@ -1532,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 736,
       "user": "SaladDay"
     },
     {
@@ -1547,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 564,
       "user": "shadcn-ui"
     },
     {
@@ -1562,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 503,
       "user": "milind-soni"
     },
     {
@@ -1582,7 +1587,7 @@
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "iframe",
@@ -1621,6 +1626,19 @@
       "user": "Vatar"
     },
     {
+      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
+      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
+      "published_at": "2026-08-11T15:31:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bill42"
+    },
+    {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
       "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
       "published_at": "2026-08-11T18:31:47.000Z",
@@ -1635,19 +1653,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yash-Nohara"
-    },
-    {
-      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
-      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
-      "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bill42"
     },
     {
       "title": "How do I make it so that the script responds differently for each element?",
@@ -1931,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1622,
       "user": "ShawnPana"
     },
     {
@@ -1946,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1583,
+      "stars": 1590,
       "user": "oil-oil"
     },
     {
@@ -1961,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1470,
       "user": "guillaumemeyer"
     },
     {
@@ -1976,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "NikoDemon80"
     },
     {
@@ -1991,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "Larryvrh"
     },
     {
@@ -2012,7 +2017,7 @@
       "title": "Receiving an pydantic error within streamlit",
       "url": "https://stackoverflow.com/questions/79993560/receiving-an-pydantic-error-within-streamlit",
       "published_at": "2026-08-12T16:09:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "pydantic",
@@ -2348,8 +2353,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "surya-koritala"
+    },
+    {
+      "title": "My Homelab Got Hacked - A Postmortem",
+      "url": "https://phunky.cafe/my-homelab-got-hacked/",
+      "published_at": "2026-08-12T10:50:16.028-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "colindean"
     },
     {
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
@@ -2510,14 +2529,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1470,
       "user": "guillaumemeyer"
     },
     {
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "iframe",
@@ -3247,6 +3266,20 @@
       "user": "ewenjo"
     },
     {
+      "title": "My Homelab Got Hacked - A Postmortem",
+      "url": "https://phunky.cafe/my-homelab-got-hacked/",
+      "published_at": "2026-08-12T10:50:16.028-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "colindean"
+    },
+    {
       "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
       "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
       "published_at": "2026-08-12T14:40:17.000Z",
@@ -3272,22 +3305,6 @@
         "cybersecurity",
         "data breach",
         "uber freight"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "published_at": "2026-08-12T15:18:55.000Z",
-      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "Microsoft",
-        "Windows",
-        "zero-day"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3449,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1150,
       "user": "eternityspring"
     },
     {
@@ -3464,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 843,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3479,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 586,
       "user": "sv-number"
     },
     {
@@ -3494,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 416,
       "user": "achrefelouafi"
     },
     {
@@ -3524,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1622,
       "user": "ShawnPana"
     },
     {
@@ -3539,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1583,
+      "stars": 1590,
       "user": "oil-oil"
     },
     {
@@ -3554,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1470,
       "user": "guillaumemeyer"
     },
     {
@@ -3569,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 465,
       "user": "NikoDemon80"
     },
     {
@@ -3584,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 410,
       "user": "Larryvrh"
     },
     {
@@ -3599,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 214,
       "user": "MengMengCode"
     },
     {
@@ -3614,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "surya-koritala"
     },
     {
@@ -3629,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 121,
       "user": "jundizhou"
     },
     {
@@ -3704,7 +3721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 734,
+      "stars": 736,
       "user": "SaladDay"
     },
     {
@@ -3719,7 +3736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 564,
       "user": "shadcn-ui"
     },
     {
@@ -3734,7 +3751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 503,
       "user": "milind-soni"
     },
     {
@@ -3749,7 +3766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 879,
       "user": "Flaminis"
     },
     {
@@ -3764,7 +3781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 142,
       "user": "lexmount"
     },
     {
@@ -3794,7 +3811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "JohnKinyanjui"
     },
     {
@@ -3813,27 +3830,14 @@
       "user": "tllovesxs"
     },
     {
-      "title": "On AI Coding and Its Discontents",
-      "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-      "published_at": "2026-08-12T03:43:18.333-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "testing",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lvmbdv"
-    },
-    {
-      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
       "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
       "published_at": "2026-08-12T15:56:13.000Z",
       "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
       "tags": [
         "Apps",
-        "Facebook"
+        "Facebook",
+        "creator studio"
       ],
       "cover_image": null,
       "source": "TechCrunch",
