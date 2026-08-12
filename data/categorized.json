@@ -196,6 +196,21 @@
       "user": "xbill"
     },
     {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
       "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0",
       "published_at": "2026-07-31T17:43:12Z",
@@ -283,6 +298,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "Skills vs MCP: How AI tools have evolved",
@@ -401,21 +431,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
       "source": "Dev.to",
       "user": "Giulio D'Erme"
-    },
-    {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
     },
     {
       "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
@@ -646,10 +661,10 @@
       "user": "caseyf7"
     },
     {
-      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
-      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
       "tags": [
         "javascript",
         "github",
@@ -657,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1112,
       "user": "eternityspring"
     },
     {
@@ -672,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 578,
       "user": "sv-number"
     },
     {
@@ -687,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 966,
       "user": "guillaumemeyer"
     },
     {
@@ -702,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 455,
       "user": "NikoDemon80"
     },
     {
@@ -717,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 200,
       "user": "MengMengCode"
     },
     {
@@ -747,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "jundizhou"
     },
     {
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "forever94yu"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1510,
       "user": "SMNETSTUDIO"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "sohaibdevv"
     },
     {
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 543,
       "user": "shadcn-ui"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 127,
       "user": "lexmount"
     },
     {
@@ -852,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "JohnKinyanjui"
     },
     {
@@ -866,32 +881,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jackdoe"
-    },
-    {
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "published_at": "2026-08-11T14:35:12.200-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gmem"
-    },
-    {
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "published_at": "2026-08-12T00:20:40.296-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "plt",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yawaramin"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -924,18 +913,20 @@
       "user": "punsoca"
     },
     {
-      "title": "How can I improve a basic FAISS RAG pipeline",
-      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
-      "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Everything announced at Made by Google &#8217;26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "published_at": "2026-08-12T14:20:33.000Z",
+      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
       "tags": [
-        "advice",
-        "python",
-        "rag"
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "gemini",
+        "Google"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Google takes on AirTag with the new $29 Pixel Tag",
@@ -943,8 +934,8 @@
       "published_at": "2026-08-12T14:00:00.000Z",
       "description": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
       "tags": [
-        "Hardware",
         "Gadgets",
+        "Hardware",
         "Google",
         "PIXEL"
       ],
@@ -992,33 +983,6 @@
         "Transportation",
         "GEF Capital Partners",
         "yulu"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing&#8217; for months",
-      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "published_at": "2026-08-11T21:39:58.000Z",
-      "description": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-      "tags": [
-        "Startups",
-        "Phia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "published_at": "2026-08-11T21:39:11.000Z",
-      "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "tags": [
-        "AI",
-        "Venture",
-        "Accel"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1288,21 +1252,6 @@
       "user": "Mxhlix"
     },
     {
-      "title": "I built dev tools that literally cannot send your data anywhere",
-      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
-      "published_at": "2026-08-05T18:45:20Z",
-      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "security",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
-      "source": "Dev.to",
-      "user": "nullisland"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1423,10 +1372,10 @@
       "user": "velmu"
     },
     {
-      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
-      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
       "tags": [
         "javascript",
         "github",
@@ -1434,23 +1383,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1112,
       "user": "eternityspring"
-    },
-    {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "url": "https://github.com/sv-number/mcp-server",
-      "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "sv-number"
     },
     {
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
@@ -1464,8 +1398,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 608,
       "user": "LaoFeng-mouse"
+    },
+    {
+      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "url": "https://github.com/sv-number/mcp-server",
+      "published_at": "2026-08-07T11:13:26Z",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
+      "source": "GitHub",
+      "stars": 578,
+      "user": "sv-number"
     },
     {
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
@@ -1479,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 393,
       "user": "achrefelouafi"
     },
     {
@@ -1494,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1509,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1510,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1524,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "sohaibdevv"
     },
     {
@@ -1539,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 710,
       "user": "SaladDay"
     },
     {
@@ -1554,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 543,
       "user": "shadcn-ui"
     },
     {
@@ -1569,8 +1518,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "Appllama"
+    },
+    {
+      "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
+      "url": "https://stackoverflow.com/questions/79993535/how-to-interop-with-javascript-dom-and-handle-static-typing-in-virune",
+      "published_at": "2026-08-12T14:31:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "dom-events"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32881697"
+    },
+    {
+      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
+      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
+      "published_at": "2026-08-12T13:55:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "iframe",
+        "youtube-api",
+        "html5-video",
+        "youtube-iframe-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyPhoenix"
     },
     {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
@@ -1683,35 +1661,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "James Catrter"
-    },
-    {
-      "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
-      "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
-      "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "css",
-        "responsive-design",
-        "bootstrap-5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "omerix"
-    },
-    {
-      "title": "How do I export a JavaScript project from Dashtera platform?",
-      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
-      "published_at": "2026-08-10T19:04:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "javascript",
-        "dashboard",
-        "lightningchart"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarekD"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
@@ -1937,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1588,
+      "stars": 1601,
       "user": "ShawnPana"
     },
     {
@@ -1952,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1560,
+      "stars": 1569,
       "user": "oil-oil"
     },
     {
@@ -1967,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 966,
       "user": "guillaumemeyer"
     },
     {
@@ -1982,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 455,
       "user": "NikoDemon80"
     },
     {
@@ -1997,8 +1946,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "Larryvrh"
+    },
+    {
+      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
+      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
+      "published_at": "2026-08-12T15:05:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "python-sphinx",
+        "cicd",
+        "link-checking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jon_two"
+    },
+    {
+      "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
+      "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
+      "published_at": "2026-08-12T14:40:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tears"
     },
     {
       "title": "Python NLP usage of .lower() function",
@@ -2073,6 +2050,20 @@
       "user": "notanothercliche"
     },
     {
+      "title": "limitations of manually constructed RAG prompt",
+      "url": "https://stackoverflow.com/questions/79992139/limitations-of-manually-constructed-rag-prompt",
+      "published_at": "2026-08-11T06:28:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "large-language-model",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gypsy"
+    },
+    {
       "title": "pandas running notnull() sum() versus count() against the dataframe",
       "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
       "published_at": "2026-08-11T01:51:01.000Z",
@@ -2090,53 +2081,13 @@
       "title": "Running a Class.method() when that module is imported",
       "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
       "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "limitations of manually constructed RAG prompt",
-      "url": "https://stackoverflow.com/questions/79992139/limitations-of-manually-constructed-rag-prompt",
-      "published_at": "2026-08-11T06:28:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gypsy"
-    },
-    {
-      "title": "How to improve vectorStore and Search in RAG Pipeline",
-      "url": "https://stackoverflow.com/questions/79992136/how-to-improve-vectorstore-and-search-in-rag-pipeline",
-      "published_at": "2026-08-11T06:01:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
-    },
-    {
-      "title": "How can I improve a basic FAISS RAG pipeline",
-      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
-      "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
     }
   ],
   "DevOps": [
@@ -2335,6 +2286,21 @@
       "user": "surya-koritala"
     },
     {
+      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
+      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
+      "published_at": "2026-08-12T15:05:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "python-sphinx",
+        "cicd",
+        "link-checking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jon_two"
+    },
+    {
       "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
       "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
       "published_at": "2026-08-06T22:51:17.000Z",
@@ -2435,8 +2401,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 966,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
+      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
+      "published_at": "2026-08-12T13:55:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "iframe",
+        "youtube-api",
+        "html5-video",
+        "youtube-iframe-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyPhoenix"
     },
     {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
@@ -2476,21 +2458,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Xenon7N"
-    },
-    {
-      "title": "How can I automatically scale a web application for different screen resolutions and display scaling?",
-      "url": "https://stackoverflow.com/questions/79992032/how-can-i-automatically-scale-a-web-application-for-different-screen-resolutions",
-      "published_at": "2026-08-10T19:29:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "css",
-        "responsive-design",
-        "bootstrap-5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "omerix"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -2612,7 +2579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "Appllama"
     },
     {
@@ -2753,6 +2720,21 @@
       "user": "xbill"
     },
     {
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
+      "published_at": "2026-07-29T22:02:22Z",
+      "description": "Cloud TPU v6e-1 (ct6e-standard-1t, one v6e chip, 32 GB HBM), GCE flex-start, europe-west4-a. vLLM...",
+      "tags": [
+        "tpu",
+        "llm",
+        "jax",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Six Cross-Cloud A2A Paths, One Benchmark: How AWS, Azure, and GCP Agents Actually Work Together",
       "url": "https://dev.to/gde/six-cross-cloud-a2a-paths-one-benchmark-what-aws-azure-and-gcp-agents-actually-cost-each-other-13g0",
       "published_at": "2026-07-31T17:43:12Z",
@@ -2883,7 +2865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "forever94yu"
     },
     {
@@ -3026,21 +3008,6 @@
       "user": "Jitendra Gupta"
     },
     {
-      "title": "I built dev tools that literally cannot send your data anywhere",
-      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
-      "published_at": "2026-08-05T18:45:20Z",
-      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "security",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
-      "source": "Dev.to",
-      "user": "nullisland"
-    },
-    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -3171,6 +3138,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
+      "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
+      "published_at": "2026-08-12T14:40:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tears"
     }
   ],
   "Tools": [
@@ -3295,21 +3275,6 @@
       "user": "Mxhlix"
     },
     {
-      "title": "I built dev tools that literally cannot send your data anywhere",
-      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
-      "published_at": "2026-08-05T18:45:20Z",
-      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
-      "tags": [
-        "webdev",
-        "showdev",
-        "security",
-        "privacy"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
-      "source": "Dev.to",
-      "user": "nullisland"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3346,10 +3311,10 @@
       "user": "pabs3"
     },
     {
-      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "published_at": "2026-08-06T10:38:49Z",
-      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
       "tags": [
         "javascript",
         "github",
@@ -3357,23 +3322,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1112,
       "user": "eternityspring"
-    },
-    {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "url": "https://github.com/sv-number/mcp-server",
-      "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
-      "source": "GitHub",
-      "stars": 574,
-      "user": "sv-number"
     },
     {
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
@@ -3387,8 +3337,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 608,
       "user": "LaoFeng-mouse"
+    },
+    {
+      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "url": "https://github.com/sv-number/mcp-server",
+      "published_at": "2026-08-07T11:13:26Z",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
+      "source": "GitHub",
+      "stars": 578,
+      "user": "sv-number"
     },
     {
       "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
@@ -3402,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 393,
       "user": "achrefelouafi"
     },
     {
@@ -3417,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3432,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1588,
+      "stars": 1601,
       "user": "ShawnPana"
     },
     {
@@ -3447,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1560,
+      "stars": 1569,
       "user": "oil-oil"
     },
     {
@@ -3462,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 966,
       "user": "guillaumemeyer"
     },
     {
@@ -3477,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 455,
       "user": "NikoDemon80"
     },
     {
@@ -3492,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 409,
       "user": "Larryvrh"
     },
     {
@@ -3507,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 200,
       "user": "MengMengCode"
     },
     {
@@ -3537,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "jundizhou"
     },
     {
@@ -3552,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 77,
       "user": "forever94yu"
     },
     {
@@ -3582,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1510,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3597,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 843,
       "user": "sohaibdevv"
     },
     {
@@ -3612,7 +3577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 710,
       "user": "SaladDay"
     },
     {
@@ -3627,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 543,
       "user": "shadcn-ui"
     },
     {
@@ -3642,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 458,
       "user": "Appllama"
     },
     {
@@ -3657,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 868,
       "user": "Flaminis"
     },
     {
@@ -3687,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 127,
       "user": "lexmount"
     },
     {
@@ -3702,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 120,
       "user": "JohnKinyanjui"
     },
     {
