@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "eternityspring"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "sv-number"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2146,
+      "stars": 2227,
       "user": "guillaumemeyer"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "jundizhou"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 168,
       "user": "lexmount"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 130,
       "user": "JohnKinyanjui"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "eternityspring"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 911,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1471,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "sv-number"
     },
     {
@@ -1486,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "achrefelouafi"
     },
     {
@@ -1546,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 748,
       "user": "SaladDay"
     },
     {
@@ -1561,7 +1561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "shadcn-ui"
     },
     {
@@ -1576,22 +1576,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "milind-soni"
     },
     {
-      "title": "I'm trying to update a counter value in React using useState,",
-      "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
-      "published_at": "2026-08-12T21:21:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Custom reorder array of objects",
+      "url": "https://stackoverflow.com/questions/79993630/custom-reorder-array-of-objects",
+      "published_at": "2026-08-12T23:09:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "reactjs",
-        "react-state"
+        "arrays",
+        "sorting"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Aasim Ghaffar"
+      "user": "ace2case"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
@@ -1607,6 +1607,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33026773"
+    },
+    {
+      "title": "I'm trying to update a counter value in React using useState,",
+      "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
+      "published_at": "2026-08-12T21:21:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-state"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aasim Ghaffar"
     },
     {
       "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
@@ -1654,6 +1668,19 @@
       "user": "Wiz"
     },
     {
+      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
+      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
+      "published_at": "2026-08-11T15:31:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bill42"
+    },
+    {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
       "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
       "published_at": "2026-08-11T22:27:32.000Z",
@@ -1680,19 +1707,6 @@
       "user": "Vatar"
     },
     {
-      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
-      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
-      "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bill42"
-    },
-    {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
       "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
       "published_at": "2026-08-11T18:31:47.000Z",
@@ -1707,19 +1721,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yash-Nohara"
-    },
-    {
-      "title": "How do I make it so that the script responds differently for each element?",
-      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
-      "published_at": "2026-08-10T12:53:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xenon7N"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1946,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2146,
+      "stars": 2227,
       "user": "guillaumemeyer"
     },
     {
@@ -1961,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1634,
       "user": "ShawnPana"
     },
     {
@@ -2124,22 +2125,6 @@
       "user": "Daniela Gerner"
     },
     {
-      "title": "Scraping web with Cloudflare Turnstile (Token)",
-      "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
-      "published_at": "2026-08-12T01:13:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping",
-        "request",
-        "cloudflare",
-        "cloudflare-turnstile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NaejF"
-    },
-    {
       "title": "Maintaining a SOCKS connection over ssh in Python",
       "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
       "published_at": "2026-08-11T10:05:20.000Z",
@@ -2154,6 +2139,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "notanothercliche"
+    },
+    {
+      "title": "Scraping web with Cloudflare Turnstile (Token)",
+      "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
+      "published_at": "2026-08-12T01:13:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "web-scraping",
+        "request",
+        "cloudflare",
+        "cloudflare-turnstile"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NaejF"
     }
   ],
   "DevOps": [
@@ -2523,7 +2524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2146,
+      "stars": 2227,
       "user": "guillaumemeyer"
     },
     {
@@ -2582,19 +2583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vatar"
-    },
-    {
-      "title": "How do I make it so that the script responds differently for each element?",
-      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
-      "published_at": "2026-08-10T12:53:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xenon7N"
     },
     {
       "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
@@ -3504,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1164,
       "user": "eternityspring"
     },
     {
@@ -3519,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 911,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3534,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "sv-number"
     },
     {
@@ -3549,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 421,
+      "stars": 422,
       "user": "achrefelouafi"
     },
     {
@@ -3579,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2146,
+      "stars": 2227,
       "user": "guillaumemeyer"
     },
     {
@@ -3594,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1634,
       "user": "ShawnPana"
     },
     {
@@ -3684,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "jundizhou"
     },
     {
@@ -3759,7 +3747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 748,
       "user": "SaladDay"
     },
     {
@@ -3774,7 +3762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "shadcn-ui"
     },
     {
@@ -3789,7 +3777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 570,
       "user": "milind-soni"
     },
     {
@@ -3819,8 +3807,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 168,
       "user": "lexmount"
+    },
+    {
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "JohnKinyanjui"
     },
     {
       "title": "EurekaZang/CloudFolder - GitHub Repository",
@@ -3836,21 +3839,6 @@
       "source": "GitHub",
       "stars": 129,
       "user": "EurekaZang"
-    },
-    {
-      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
-      "url": "https://github.com/JohnKinyanjui/sprite-maker",
-      "published_at": "2026-08-09T20:25:50Z",
-      "description": "An open source ai sprite maker",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
-      "source": "GitHub",
-      "stars": 128,
-      "user": "JohnKinyanjui"
     },
     {
       "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
