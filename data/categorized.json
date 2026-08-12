@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 976,
       "user": "eternityspring"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 627,
       "user": "sv-number"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 424,
       "user": "NikoDemon80"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1470,
       "user": "SMNETSTUDIO"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 467,
       "user": "shadcn-ui"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "JohnKinyanjui"
     },
     {
@@ -841,6 +841,18 @@
       "user": "lexmount"
     },
     {
+      "title": "Text Watermarking for Non-Academics",
+      "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+      "published_at": "2026-08-11T19:29:31.616-05:00",
+      "description": "https://blog.gaborkoos.com/posts/2026-08-12-What-Does-a-Text-Watermark-Actually-Prove/",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gkoos"
+    },
+    {
       "title": "My Anti AI computer",
       "url": "https://punkx.org/jackdoe/home.html",
       "published_at": "2026-08-11T12:31:53.127-05:00",
@@ -851,19 +863,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jackdoe"
-    },
-    {
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "published_at": "2026-08-11T14:35:12.200-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gmem"
     },
     {
       "title": "Briar is in maintenance mode",
@@ -879,16 +878,17 @@
       "user": "patternist"
     },
     {
-      "title": "Text Watermarking for Non-Academics",
-      "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
-      "published_at": "2026-08-11T19:29:31.616-05:00",
-      "description": "https://blog.gaborkoos.com/posts/2026-08-12-What-Does-a-Text-Watermark-Actually-Prove/",
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "published_at": "2026-08-11T14:35:12.200-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "ai"
+        "ai",
+        "programming"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "gkoos"
+      "user": "gmem"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -946,6 +946,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eric Wohnlich"
+    },
+    {
+      "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "published_at": "2026-08-12T04:30:00.000Z",
+      "description": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "GEF Capital Partners",
+        "yulu"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was &#8216;cookie stuffing&#8217; for months",
@@ -1050,21 +1065,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "published_at": "2026-08-11T17:41:22.000Z",
-      "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "tags": [
-        "AI",
-        "Startups",
-        "TC",
-        "General Catalyst"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
@@ -1461,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 976,
       "user": "eternityspring"
     },
     {
@@ -1476,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 627,
       "user": "sv-number"
     },
     {
@@ -1491,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "achrefelouafi"
     },
     {
@@ -1506,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1536,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1470,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1566,8 +1566,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 600,
       "user": "SaladDay"
+    },
+    {
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 467,
+      "user": "shadcn-ui"
     },
     {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
@@ -1583,21 +1598,6 @@
       "source": "GitHub",
       "stars": 454,
       "user": "Appllama"
-    },
-    {
-      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "url": "https://github.com/shadcn-ui/chatbot-template",
-      "published_at": "2026-08-11T11:53:02Z",
-      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 449,
-      "user": "shadcn-ui"
     },
     {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
@@ -1727,20 +1727,18 @@
       "user": "omerix"
     },
     {
-      "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
-      "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
-      "published_at": "2026-08-10T06:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
+      "title": "How do I export a JavaScript project from Dashtera platform?",
+      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
+      "published_at": "2026-08-10T19:04:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
-        "advice",
         "javascript",
-        "node.js",
-        "passport.js",
-        "libraries"
+        "dashboard",
+        "lightningchart"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Shanto Sur"
+      "user": "JarekD"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
@@ -1966,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1534,
       "user": "ShawnPana"
     },
     {
@@ -1981,7 +1979,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1490,
+      "stars": 1493,
       "user": "oil-oil"
     },
     {
@@ -1996,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 424,
       "user": "NikoDemon80"
     },
     {
@@ -2011,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "Larryvrh"
     },
     {
@@ -2026,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "JayJokerr"
     },
     {
@@ -2074,20 +2072,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "punsoca"
-    },
-    {
-      "title": "Is there a better way to filter text?",
-      "url": "https://stackoverflow.com/questions/79992171/is-there-a-better-way-to-filter-text",
-      "published_at": "2026-08-11T08:30:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "substring",
-        "profanity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DBFI"
     },
     {
       "title": "limitations of manually constructed RAG prompt",
@@ -2166,6 +2150,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "Unable to chose a date from a “Date Picker” in selenium python",
+      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
+      "published_at": "2026-08-09T13:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Soroush Kalantari"
     }
   ],
   "DevOps": [
@@ -3401,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 976,
       "user": "eternityspring"
     },
     {
@@ -3416,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 627,
       "user": "sv-number"
     },
     {
@@ -3431,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 351,
       "user": "achrefelouafi"
     },
     {
@@ -3446,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 287,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3476,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1523,
+      "stars": 1534,
       "user": "ShawnPana"
     },
     {
@@ -3491,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1490,
+      "stars": 1493,
       "user": "oil-oil"
     },
     {
@@ -3506,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 424,
       "user": "NikoDemon80"
     },
     {
@@ -3521,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "Larryvrh"
     },
     {
@@ -3536,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 260,
       "user": "JayJokerr"
     },
     {
@@ -3626,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1454,
+      "stars": 1470,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3656,8 +3653,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 600,
       "user": "SaladDay"
+    },
+    {
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 467,
+      "user": "shadcn-ui"
     },
     {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
@@ -3675,21 +3687,6 @@
       "user": "Appllama"
     },
     {
-      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "url": "https://github.com/shadcn-ui/chatbot-template",
-      "published_at": "2026-08-11T11:53:02Z",
-      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 449,
-      "user": "shadcn-ui"
-    },
-    {
       "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
       "url": "https://github.com/Flaminis/Dalaran",
       "published_at": "2026-08-07T09:37:32Z",
@@ -3701,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 735,
       "user": "Flaminis"
     },
     {
@@ -3731,7 +3728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "JohnKinyanjui"
     },
     {
