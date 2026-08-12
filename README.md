@@ -5,10 +5,10 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-182-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
-![Last Update](https://img.shields.io/badge/Updated-2026--08--11-orange?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026--08--12-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-12 1:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-12 3:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -98,22 +98,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 4 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 | 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7) | Dev.to |
 | 6 | [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf) | Dev.to |
-| 7 | [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1) | Dev.to |
-| 8 | [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac) | Dev.to |
-| 9 | [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1) | Dev.to |
-| 10 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
-| 11 | [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) | Dev.to |
-| 12 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
-| 13 | [Meme Monday](https://dev.to/ben/meme-monday-3n1d) | Dev.to |
-| 14 | [From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale](https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi) | Dev.to |
-| 15 | [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n) | Dev.to |
-| 16 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
-| 17 | [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl) | Dev.to |
-| 18 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
-| 19 | [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if) | Dev.to |
-| 20 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
+| 7 | [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac) | Dev.to |
+| 8 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
+| 9 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
+| 10 | [Meme Monday](https://dev.to/ben/meme-monday-3n1d) | Dev.to |
+| 11 | [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n) | Dev.to |
+| 12 | [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8) | Dev.to |
+| 13 | [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1) | Dev.to |
+| 14 | [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk) | Dev.to |
+| 15 | [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0) | Dev.to |
+| 16 | [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if) | Dev.to |
+| 17 | [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3) | Dev.to |
+| 18 | [linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7) | Dev.to |
+| 19 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
+| 20 | [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1) | Dev.to |
 
-<sub>Last fetched: Wed, 12 Aug 2026 01:56:13 CAT</sub>
+<sub>Last fetched: Wed, 12 Aug 2026 03:27:08 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — Explain the Java memory model**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `DataStructures` — Implement a function to reverse a linked list**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 83 | 45.1% | `████████████████████` |
-| **JavaScript** | 42 | 22.8% | `██████████░░░░░░░░░░` |
-| **Tools** | 41 | 22.3% | `██████████░░░░░░░░░░` |
-| **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **AI** | 83 | 45.6% | `████████████████████` |
+| **JavaScript** | 41 | 22.5% | `██████████░░░░░░░░░░` |
+| **Tools** | 41 | 22.5% | `██████████░░░░░░░░░░` |
+| **Python** | 29 | 15.9% | `███████░░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 60 |
+| Dev.to | 58 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,31 +194,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.7%
-JavaScript      █████████████████████████████ 27.1%
-Java            ██████████████████████ 20.0%
-Python          ████████████████████ 18.7%
+Go              ██████████████████████████████ 27.6%
+JavaScript      █████████████████████████████ 27.0%
+Java            ██████████████████████ 20.4%
+Python          █████████████████████ 19.1%
 Rust            ████ 3.9%
-Swift           ██ 1.9%
-Kotlin          █ 0.6%
+Swift           ██ 2.0%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 43
-    "JavaScript" : 42
+    "Go" : 42
+    "JavaScript" : 41
     "Java" : 31
     "Python" : 29
     "Rust" : 6
     "Swift" : 3
-    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-16-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-12-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 11 Aug 2026 23:56:13 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 01:27:08 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
