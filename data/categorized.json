@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1161,
       "user": "eternityspring"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 2009,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "NikoDemon80"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "MengMengCode"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "jundizhou"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 848,
       "user": "sohaibdevv"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "lexmount"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "JohnKinyanjui"
     },
     {
@@ -1418,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1161,
       "user": "eternityspring"
     },
     {
@@ -1433,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 887,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1463,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "achrefelouafi"
     },
     {
@@ -1478,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1508,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 848,
       "user": "sohaibdevv"
     },
     {
@@ -1523,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 745,
       "user": "SaladDay"
     },
     {
@@ -1538,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "shadcn-ui"
     },
     {
@@ -1553,14 +1553,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 548,
       "user": "milind-soni"
+    },
+    {
+      "title": "I'm trying to update a counter value in React using useState,",
+      "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
+      "published_at": "2026-08-12T21:21:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-state"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aasim Ghaffar"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1681,22 +1695,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vedant"
-    },
-    {
-      "title": "Generating grouped PDF from paginated API data in React/jsPDF without loading all rows into memory",
-      "url": "https://stackoverflow.com/questions/79992207/generating-grouped-pdf-from-paginated-api-data-in-react-jspdf-without-loading-al",
-      "published_at": "2026-08-11T10:31:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "pagination",
-        "pdf-generation",
-        "jspdf",
-        "jspdf-autotable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wiz"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1923,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 2009,
       "user": "guillaumemeyer"
     },
     {
@@ -1938,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1629,
+      "stars": 1630,
       "user": "ShawnPana"
     },
     {
@@ -1953,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1606,
       "user": "oil-oil"
     },
     {
@@ -1968,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "NikoDemon80"
     },
     {
@@ -2087,22 +2085,6 @@
       "user": "Daniela Gerner"
     },
     {
-      "title": "Scraping web with Cloudflare Turnstile (Token)",
-      "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
-      "published_at": "2026-08-12T01:13:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping",
-        "request",
-        "cloudflare",
-        "cloudflare-turnstile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NaejF"
-    },
-    {
       "title": "Maintaining a SOCKS connection over ssh in Python",
       "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
       "published_at": "2026-08-11T10:05:20.000Z",
@@ -2117,6 +2099,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "notanothercliche"
+    },
+    {
+      "title": "Scraping web with Cloudflare Turnstile (Token)",
+      "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
+      "published_at": "2026-08-12T01:13:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "web-scraping",
+        "request",
+        "cloudflare",
+        "cloudflare-turnstile"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NaejF"
     },
     {
       "title": "limitations of manually constructed RAG prompt",
@@ -2350,8 +2348,7 @@
       "description": "Lobste.rs Discussion",
       "tags": [
         "devops",
-        "security",
-        "vibecoding"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -2501,14 +2498,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 2009,
       "user": "guillaumemeyer"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -3319,8 +3316,7 @@
       "description": "Lobste.rs Discussion",
       "tags": [
         "devops",
-        "security",
-        "vibecoding"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3513,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1161,
       "user": "eternityspring"
     },
     {
@@ -3528,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 887,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3558,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "achrefelouafi"
     },
     {
@@ -3573,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 302,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3588,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 2009,
       "user": "guillaumemeyer"
     },
     {
@@ -3603,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1629,
+      "stars": 1630,
       "user": "ShawnPana"
     },
     {
@@ -3618,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1602,
+      "stars": 1606,
       "user": "oil-oil"
     },
     {
@@ -3633,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "NikoDemon80"
     },
     {
@@ -3663,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "MengMengCode"
     },
     {
@@ -3693,7 +3689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 128,
       "user": "jundizhou"
     },
     {
@@ -3753,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 848,
       "user": "sohaibdevv"
     },
     {
@@ -3768,7 +3764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 745,
       "user": "SaladDay"
     },
     {
@@ -3783,7 +3779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "shadcn-ui"
     },
     {
@@ -3798,7 +3794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 548,
       "user": "milind-soni"
     },
     {
@@ -3813,7 +3809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 884,
       "user": "Flaminis"
     },
     {
@@ -3828,7 +3824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 159,
       "user": "lexmount"
     },
     {
@@ -3858,7 +3854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "JohnKinyanjui"
     },
     {
