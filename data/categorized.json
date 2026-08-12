@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "eternityspring"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2146,
       "user": "guillaumemeyer"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "surya-koritala"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "jundizhou"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 850,
       "user": "sohaibdevv"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 164,
       "user": "lexmount"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "JohnKinyanjui"
     },
     {
@@ -868,6 +868,20 @@
       "user": "untrusem"
     },
     {
+      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
+      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
+      "published_at": "2026-08-12T22:23:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pylance",
+        "static-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ryan Pierce Williams"
+    },
+    {
       "title": "Maintaining a SOCKS connection over ssh in Python",
       "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
       "published_at": "2026-08-11T10:05:20.000Z",
@@ -882,6 +896,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "notanothercliche"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "published_at": "2026-08-12T22:26:37.000Z",
+      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "published_at": "2026-08-12T22:24:00.000Z",
+      "description": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+      "tags": [
+        "Climate",
+        "fermi",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
@@ -993,20 +1035,17 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "published_at": "2026-08-12T16:46:02.000Z",
-      "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+      "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
+      "url": "https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/",
+      "published_at": "2026-08-12T21:35:20.000Z",
+      "description": "Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc",
       "tags": [
         "AI",
-        "Gadgets",
-        "Hardware",
-        "Startups",
-        "AI wearables"
+        "generative ai"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
+      "source": "freeCodeCamp",
+      "user": "Mohammed Fahd Abrah"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1102,22 +1141,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jesutoni Aderibigbe"
-    },
-    {
-      "title": "How to Test AI Features in Flutter [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
-      "published_at": "2026-08-07T16:05:31.000Z",
-      "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
-      "tags": [
-        "Flutter",
-        "gemini",
-        "flutter-aware",
-        "Dart",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
     }
   ],
   "JavaScript": [
@@ -1418,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "eternityspring"
     },
     {
@@ -1433,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 898,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1463,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "achrefelouafi"
     },
     {
@@ -1508,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 850,
       "user": "sohaibdevv"
     },
     {
@@ -1523,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 746,
       "user": "SaladDay"
     },
     {
@@ -1538,7 +1561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "shadcn-ui"
     },
     {
@@ -1553,7 +1576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 556,
       "user": "milind-soni"
     },
     {
@@ -1574,7 +1597,7 @@
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1613,6 +1636,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FlyPhoenix"
+    },
+    {
+      "title": "Generating grouped PDF from paginated API data in React/jsPDF without loading all rows into memory",
+      "url": "https://stackoverflow.com/questions/79992207/generating-grouped-pdf-from-paginated-api-data-in-react-jspdf-without-loading-al",
+      "published_at": "2026-08-11T10:31:51.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "pagination",
+        "pdf-generation",
+        "jspdf",
+        "jspdf-autotable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Wiz"
     },
     {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
@@ -1681,20 +1720,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Xenon7N"
-    },
-    {
-      "title": "How should I handle dependent API requests and stale state in React?",
-      "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
-      "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "axios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vedant"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1921,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2146,
       "user": "guillaumemeyer"
     },
     {
@@ -1936,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1630,
+      "stars": 1631,
       "user": "ShawnPana"
     },
     {
@@ -1951,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1606,
+      "stars": 1609,
       "user": "oil-oil"
     },
     {
@@ -1985,10 +2010,24 @@
       "user": "Larryvrh"
     },
     {
+      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
+      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
+      "published_at": "2026-08-12T22:23:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pylance",
+        "static-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ryan Pierce Williams"
+    },
+    {
       "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
       "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
       "published_at": "2026-08-12T16:24:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -2085,22 +2124,6 @@
       "user": "Daniela Gerner"
     },
     {
-      "title": "Maintaining a SOCKS connection over ssh in Python",
-      "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
-      "published_at": "2026-08-11T10:05:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "sockets",
-        "ssh",
-        "paramiko",
-        "socks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "notanothercliche"
-    },
-    {
       "title": "Scraping web with Cloudflare Turnstile (Token)",
       "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
       "published_at": "2026-08-12T01:13:37.000Z",
@@ -2117,18 +2140,20 @@
       "user": "NaejF"
     },
     {
-      "title": "limitations of manually constructed RAG prompt",
-      "url": "https://stackoverflow.com/questions/79992139/limitations-of-manually-constructed-rag-prompt",
-      "published_at": "2026-08-11T06:28:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Maintaining a SOCKS connection over ssh in Python",
+      "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
+      "published_at": "2026-08-11T10:05:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "large-language-model",
-        "rag"
+        "sockets",
+        "ssh",
+        "paramiko",
+        "socks"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "gypsy"
+      "user": "notanothercliche"
     }
   ],
   "DevOps": [
@@ -2338,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "surya-koritala"
     },
     {
@@ -2498,14 +2523,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2146,
       "user": "guillaumemeyer"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2680,20 +2705,6 @@
       "user": "Gamya "
     },
     {
-      "title": "How should I handle dependent API requests and stale state in React?",
-      "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
-      "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "axios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vedant"
-    },
-    {
       "title": "Mesh, Automattic&#8217;s CRM for everyone, comes to Android",
       "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "published_at": "2026-08-12T16:57:58.000Z",
@@ -2738,22 +2749,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jesutoni Aderibigbe"
-    },
-    {
-      "title": "How to Test AI Features in Flutter [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/",
-      "published_at": "2026-08-07T16:05:31.000Z",
-      "description": "You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse",
-      "tags": [
-        "Flutter",
-        "gemini",
-        "flutter-aware",
-        "Dart",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
     }
   ],
   "Cloud": [
@@ -3509,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1161,
+      "stars": 1162,
       "user": "eternityspring"
     },
     {
@@ -3524,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 898,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3554,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 421,
       "user": "achrefelouafi"
     },
     {
@@ -3584,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2146,
       "user": "guillaumemeyer"
     },
     {
@@ -3599,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1630,
+      "stars": 1631,
       "user": "ShawnPana"
     },
     {
@@ -3614,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1606,
+      "stars": 1609,
       "user": "oil-oil"
     },
     {
@@ -3674,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "surya-koritala"
     },
     {
@@ -3689,7 +3684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "jundizhou"
     },
     {
@@ -3749,7 +3744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 850,
       "user": "sohaibdevv"
     },
     {
@@ -3764,7 +3759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 746,
       "user": "SaladDay"
     },
     {
@@ -3779,7 +3774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "shadcn-ui"
     },
     {
@@ -3794,7 +3789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 556,
       "user": "milind-soni"
     },
     {
@@ -3809,7 +3804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 885,
       "user": "Flaminis"
     },
     {
@@ -3824,7 +3819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 164,
       "user": "lexmount"
     },
     {
@@ -3854,7 +3849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "JohnKinyanjui"
     },
     {

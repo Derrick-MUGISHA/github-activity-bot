@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [I Built a ₹15 Landing Page About Mumbai's Soul Food](https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78) | Dev.to |
 | 20 | [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk) | Dev.to |
 
-<sub>Last fetched: Thu, 13 Aug 2026 00:03:37 CAT</sub>
+<sub>Last fetched: Thu, 13 Aug 2026 00:57:32 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What are Java Streams and how do they work?**
+**1. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Heap, stack, garbage collection
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Python` — Explain decorators in Python with an example**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Function wrappers, @syntax, practical uses
 
 </details>
 
-**3. `NodeJS` — How do you handle errors in async/await?**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,7 +164,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 41.8% | `████████████████████` |
+| **AI** | 79 | 42.9% | `████████████████████` |
 | **JavaScript** | 44 | 23.9% | `███████████░░░░░░░░░` |
 | **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
 | **Python** | 28 | 15.2% | `███████░░░░░░░░░░░░░` |
@@ -172,7 +172,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,13 +194,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.2%
-Go              ██████████████████████████ 24.4%
-Java            ███████████████████████ 21.2%
-Python          ███████████████████ 17.9%
+JavaScript      ██████████████████████████████ 28.4%
+Go              ██████████████████████████ 24.5%
+Java            ███████████████████████ 21.3%
+Python          ███████████████████ 18.1%
 Rust            ██████ 5.8%
-Swift           █ 1.3%
 CSharp          █ 0.6%
+Swift           █ 0.6%
 Kotlin          █ 0.6%
 
 ```
@@ -212,8 +212,8 @@ pie title Programming Languages Distribution
     "Java" : 33
     "Python" : 28
     "Rust" : 9
-    "Swift" : 2
     "CSharp" : 1
+    "Swift" : 1
     "Kotlin" : 1
 ```
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 22:03:37 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 22:57:32 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
