@@ -16,6 +16,21 @@
       "user": "Asuran"
     },
     {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
       "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
       "published_at": "2026-08-12T03:32:11Z",
@@ -91,6 +106,21 @@
       "user": "xbill"
     },
     {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
+    },
+    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -164,36 +194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnefu6fvjpyyy9hjeagu8.png",
       "source": "Dev.to",
       "user": "Tanaike"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "published_at": "2026-08-01T16:03:02Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "catbot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
-    {
-      "title": "Unit Testing in BlocSignal: The Practical Handbook",
-      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
-      "published_at": "2026-08-09T15:31:53Z",
-      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
-      "tags": [
-        "flutter",
-        "dart",
-        "testing",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1140,
       "user": "eternityspring"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "sv-number"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1342,
       "user": "guillaumemeyer"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 464,
       "user": "NikoDemon80"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "MengMengCode"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "jundizhou"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1511,
+      "stars": 1519,
       "user": "SMNETSTUDIO"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 558,
       "user": "shadcn-ui"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 137,
       "user": "lexmount"
     },
     {
@@ -867,8 +867,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "JohnKinyanjui"
+    },
+    {
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published_at": "2026-08-12T10:01:27.580-05:00",
+      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "I'm done using AI",
@@ -884,16 +896,18 @@
       "user": "untrusem"
     },
     {
-      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "published_at": "2026-08-12T10:01:27.580-05:00",
-      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
+      "title": "On AI Coding and Its Discontents",
+      "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "published_at": "2026-08-12T03:43:18.333-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "databases"
+        "practices",
+        "testing",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "pushcx"
+      "user": "lvmbdv"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -912,18 +926,67 @@
       "user": "notanothercliche"
     },
     {
-      "title": "pandas running notnull() sum() versus count() against the dataframe",
-      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
-      "published_at": "2026-08-11T01:51:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "published_at": "2026-08-12T17:15:41.000Z",
+      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
       "tags": [
-        "python",
-        "pandas",
-        "notnull"
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "data breach",
+        "uber freight"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "punsoca"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Mesh, Automattic&#8217;s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "published_at": "2026-08-12T16:57:58.000Z",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "tags": [
+        "AI",
+        "Apps",
+        "android apps",
+        "Automattic",
+        "mesh"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "published_at": "2026-08-12T16:46:02.000Z",
+      "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Hardware",
+        "Startups",
+        "AI wearables"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "published_at": "2026-08-12T16:18:23.000Z",
+      "description": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "energy storage",
+        "Form Energy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
@@ -985,36 +1048,20 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "Everything announced at Made by Google &#8217;26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "published_at": "2026-08-12T14:20:33.000Z",
-      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+      "published_at": "2026-08-12T15:47:01.000Z",
+      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
       "tags": [
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "gemini",
-        "Google"
+        "ai agents",
+        "authentication",
+        "tool calling",
+        "oauth",
+        "Node.js"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Google takes on AirTag with the new $29 Pixel Tag",
-      "url": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
-      "published_at": "2026-08-12T14:00:00.000Z",
-      "description": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "Google",
-        "Made by Google",
-        "PIXEL"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Saif Ali Shaik"
     },
     {
       "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
@@ -1110,37 +1157,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Atuoha Anthony"
-    },
-    {
-      "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-      "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-      "published_at": "2026-08-06T22:51:17.000Z",
-      "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-      "tags": [
-        "DevSecOps",
-        "GitHub Actions",
-        "CI/CD",
-        "supply chain"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "JavaScript": [
@@ -1173,6 +1189,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
       "source": "Dev.to",
       "user": "Pooja Bhavani"
+    },
+    {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
@@ -1396,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1140,
       "user": "eternityspring"
     },
     {
@@ -1411,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 805,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1426,7 +1457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "sv-number"
     },
     {
@@ -1441,14 +1472,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 411,
       "user": "achrefelouafi"
     },
     {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
       "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
       "published_at": "2026-08-06T08:24:58Z",
-      "description": "Trending GitHub Repository",
+      "description": "polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
       "tags": [
         "javascript",
         "github",
@@ -1471,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1511,
+      "stars": 1519,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1501,7 +1532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 734,
       "user": "SaladDay"
     },
     {
@@ -1516,23 +1547,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 558,
       "user": "shadcn-ui"
     },
     {
-      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "url": "https://github.com/Appllama/top-welcome-screens",
-      "published_at": "2026-08-08T12:44:52Z",
-      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "title": "milind-soni/OpenMausBot - GitHub Repository",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "published_at": "2026-08-11T18:58:55Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 458,
-      "user": "Appllama"
+      "stars": 480,
+      "user": "milind-soni"
     },
     {
       "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
@@ -1551,7 +1582,7 @@
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "iframe",
@@ -1567,7 +1598,7 @@
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
       "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
       "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "html-object"
@@ -1676,6 +1707,38 @@
       "user": "James Catrter"
     },
     {
+      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+      "published_at": "2026-08-12T15:47:01.000Z",
+      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
+      "tags": [
+        "ai agents",
+        "authentication",
+        "tool calling",
+        "oauth",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Saif Ali Shaik"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
+      "published_at": "2026-08-12T15:43:14.000Z",
+      "description": "PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
       "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
       "published_at": "2026-08-10T14:13:37.000Z",
@@ -1688,22 +1751,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1884,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1612,
+      "stars": 1618,
       "user": "ShawnPana"
     },
     {
@@ -1899,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1583,
       "user": "oil-oil"
     },
     {
@@ -1914,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1342,
       "user": "guillaumemeyer"
     },
     {
@@ -1929,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 464,
       "user": "NikoDemon80"
     },
     {
@@ -1948,10 +1995,40 @@
       "user": "Larryvrh"
     },
     {
+      "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
+      "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
+      "published_at": "2026-08-12T16:24:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
+    },
+    {
+      "title": "Receiving an pydantic error within streamlit",
+      "url": "https://stackoverflow.com/questions/79993560/receiving-an-pydantic-error-within-streamlit",
+      "published_at": "2026-08-12T16:09:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "pydantic",
+        "streamlit",
+        "validationerror",
+        "groq"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "StayLoProfile"
+    },
+    {
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "python-sphinx",
@@ -1969,6 +2046,8 @@
       "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
+        "authentication",
+        "token",
         "fastapi"
       ],
       "cover_image": null,
@@ -1979,7 +2058,7 @@
       "title": "Python NLP usage of .lower() function",
       "url": "https://stackoverflow.com/questions/79993518/python-nlp-usage-of-lower-function",
       "published_at": "2026-08-12T13:35:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "nlp",
@@ -2060,32 +2139,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gypsy"
-    },
-    {
-      "title": "pandas running notnull() sum() versus count() against the dataframe",
-      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
-      "published_at": "2026-08-11T01:51:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "pandas",
-        "notnull"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "punsoca"
-    },
-    {
-      "title": "Running a Class.method() when that module is imported",
-      "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
-      "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     }
   ],
   "DevOps": [
@@ -2302,7 +2355,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "python-sphinx",
@@ -2312,21 +2365,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jon_two"
-    },
-    {
-      "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-      "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-      "published_at": "2026-08-06T22:51:17.000Z",
-      "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-      "tags": [
-        "DevSecOps",
-        "GitHub Actions",
-        "CI/CD",
-        "supply chain"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
     }
   ],
   "WebDev": [
@@ -2342,6 +2380,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
+    },
+    {
+      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
+      "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk",
+      "published_at": "2026-08-10T08:59:34Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+      "tags": [
+        "css",
+        "devchallenge",
+        "showdev",
+        "frontendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frda2trnbgnoy3aiypikh.png",
+      "source": "Dev.to",
+      "user": "Laura Norwood"
+    },
+    {
+      "title": "Kitty Cafe, a whole bakery drawn in CSS 🐱🍰",
+      "url": "https://dev.to/sizzlebop/kitty-cafe-a-whole-bakery-drawn-in-css-3fo4",
+      "published_at": "2026-08-10T04:28:36Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+      "tags": [
+        "frontendchallenge",
+        "devchallenge",
+        "css",
+        "codepen"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxz6b6jbbxetqmv0k6bx4.png",
+      "source": "Dev.to",
+      "user": "Jessica Doering"
     },
     {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
@@ -2427,14 +2510,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1342,
       "user": "guillaumemeyer"
     },
     {
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "iframe",
@@ -2450,7 +2533,7 @@
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
       "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
       "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "html-object"
@@ -2486,6 +2569,22 @@
       "user": "Xenon7N"
     },
     {
+      "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
+      "published_at": "2026-08-12T15:43:14.000Z",
+      "description": "PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
       "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
       "published_at": "2026-08-10T14:14:41.000Z",
@@ -2514,40 +2613,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
-    {
-      "title": "Unit Testing in BlocSignal: The Practical Handbook",
-      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
-      "published_at": "2026-08-09T15:31:53Z",
-      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
-      "tags": [
-        "flutter",
-        "dart",
-        "testing",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "Swift Protocols — The Art of Making Promises 🤝",
       "url": "https://dev.to/gamya_m/swift-protocols-the-art-of-making-promises-59mb",
@@ -2564,21 +2632,6 @@
       "user": "Gamya "
     },
     {
-      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "url": "https://github.com/Appllama/top-welcome-screens",
-      "published_at": "2026-08-08T12:44:52Z",
-      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
-      "source": "GitHub",
-      "stars": 458,
-      "user": "Appllama"
-    },
-    {
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
@@ -2591,6 +2644,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vedant"
+    },
+    {
+      "title": "Mesh, Automattic&#8217;s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "published_at": "2026-08-12T16:57:58.000Z",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "tags": [
+        "AI",
+        "Apps",
+        "android apps",
+        "Automattic",
+        "mesh"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
@@ -2640,6 +2709,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
     {
       "title": "Three Clouds, Three Native Agents",
       "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
@@ -2861,7 +2945,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "EurekaZang"
     },
     {
@@ -2955,6 +3039,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
     {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
@@ -3154,11 +3253,29 @@
       "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
+        "authentication",
+        "token",
         "fastapi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tears"
+    },
+    {
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "published_at": "2026-08-12T17:15:41.000Z",
+      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "data breach",
+        "uber freight"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
@@ -3175,6 +3292,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+      "published_at": "2026-08-12T15:47:01.000Z",
+      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
+      "tags": [
+        "ai agents",
+        "authentication",
+        "tool calling",
+        "oauth",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Saif Ali Shaik"
     }
   ],
   "Tools": [
@@ -3207,21 +3340,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Unit Testing in BlocSignal: The Practical Handbook",
-      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
-      "published_at": "2026-08-09T15:31:53Z",
-      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
-      "tags": [
-        "flutter",
-        "dart",
-        "testing",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -3331,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1125,
+      "stars": 1140,
       "user": "eternityspring"
     },
     {
@@ -3346,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 805,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3361,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 583,
       "user": "sv-number"
     },
     {
@@ -3376,14 +3494,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 411,
       "user": "achrefelouafi"
     },
     {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
       "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
       "published_at": "2026-08-06T08:24:58Z",
-      "description": "Trending GitHub Repository",
+      "description": "polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
       "tags": [
         "javascript",
         "github",
@@ -3406,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1612,
+      "stars": 1618,
       "user": "ShawnPana"
     },
     {
@@ -3421,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1575,
+      "stars": 1583,
       "user": "oil-oil"
     },
     {
@@ -3436,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1156,
+      "stars": 1342,
       "user": "guillaumemeyer"
     },
     {
@@ -3451,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 464,
       "user": "NikoDemon80"
     },
     {
@@ -3481,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 211,
       "user": "MengMengCode"
     },
     {
@@ -3511,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 119,
       "user": "jundizhou"
     },
     {
@@ -3556,7 +3674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1511,
+      "stars": 1519,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3586,7 +3704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 734,
       "user": "SaladDay"
     },
     {
@@ -3601,23 +3719,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 558,
       "user": "shadcn-ui"
     },
     {
-      "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-      "url": "https://github.com/Appllama/top-welcome-screens",
-      "published_at": "2026-08-08T12:44:52Z",
-      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "title": "milind-soni/OpenMausBot - GitHub Repository",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "published_at": "2026-08-11T18:58:55Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 458,
-      "user": "Appllama"
+      "stars": 480,
+      "user": "milind-soni"
     },
     {
       "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
@@ -3631,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 875,
       "user": "Flaminis"
     },
     {
@@ -3646,7 +3764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 137,
       "user": "lexmount"
     },
     {
@@ -3661,7 +3779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "EurekaZang"
     },
     {
@@ -3676,7 +3794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 123,
       "user": "JohnKinyanjui"
     },
     {
@@ -3695,6 +3813,20 @@
       "user": "tllovesxs"
     },
     {
+      "title": "On AI Coding and Its Discontents",
+      "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "published_at": "2026-08-12T03:43:18.333-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "testing",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lvmbdv"
+    },
+    {
       "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
       "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
       "published_at": "2026-08-12T15:56:13.000Z",
@@ -3706,6 +3838,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
+    },
+    {
+      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+      "published_at": "2026-08-12T15:47:01.000Z",
+      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
+      "tags": [
+        "ai agents",
+        "authentication",
+        "tool calling",
+        "oauth",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Saif Ali Shaik"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
@@ -3749,37 +3897,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "How to Harden GitHub Actions Permissions with Least Privilege by Default",
-      "url": "https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/",
-      "published_at": "2026-08-06T22:51:17.000Z",
-      "description": "When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis",
-      "tags": [
-        "DevSecOps",
-        "GitHub Actions",
-        "CI/CD",
-        "supply chain"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "ILYAS RUFAI"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/",
-      "published_at": "2026-08-06T22:17:36.000Z",
-      "description": "Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ]
 }
