@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1065,
       "user": "eternityspring"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 628,
       "user": "sv-number"
     },
     {
@@ -702,8 +702,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 444,
       "user": "NikoDemon80"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "guillaumemeyer"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -717,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "MengMengCode"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1497,
       "user": "SMNETSTUDIO"
     },
     {
@@ -822,8 +837,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 515,
       "user": "shadcn-ui"
+    },
+    {
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "JohnKinyanjui"
+    },
+    {
+      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "published_at": "2026-08-10T13:20:30Z",
+      "description": "Best browser for AI agents, built in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "lexmount"
     },
     {
       "title": "My Anti AI computer",
@@ -862,19 +907,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "patternist"
-    },
-    {
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "published_at": "2026-08-12T00:20:40.296-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "plt",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yawaramin"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -919,6 +951,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kamien Rider"
+    },
+    {
+      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "published_at": "2026-08-12T10:00:00.000Z",
+      "description": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+      "tags": [
+        "Climate",
+        "heat pumps",
+        "water heater"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -1024,20 +1070,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "published_at": "2026-08-11T17:41:34.000Z",
-      "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "tags": [
-        "AI",
-        "Brad Lightcap",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
@@ -1449,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1065,
       "user": "eternityspring"
     },
     {
@@ -1464,7 +1496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 628,
       "user": "sv-number"
     },
     {
@@ -1479,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "achrefelouafi"
     },
     {
@@ -1494,23 +1526,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "ruudkoeyvoets"
     },
     {
-      "title": "pingmike2/freebuff2api-wokers - GitHub Repository",
-      "url": "https://github.com/pingmike2/freebuff2api-wokers",
-      "published_at": "2026-08-06T14:25:37Z",
-      "description": "Trending GitHub Repository",
+      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "published_at": "2026-08-06T03:59:32Z",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 240,
-      "user": "pingmike2"
+      "stars": 248,
+      "user": "LaoFeng-mouse"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1524,7 +1556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1497,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1554,7 +1586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 674,
       "user": "SaladDay"
     },
     {
@@ -1569,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 515,
       "user": "shadcn-ui"
     },
     {
@@ -1591,7 +1623,7 @@
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
       "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
       "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "html-object"
@@ -1715,20 +1747,18 @@
       "user": "omerix"
     },
     {
-      "title": "Learning Passport.js has me completely lost & overwhelmed. How Much Do I Actually Need to Know?",
-      "url": "https://stackoverflow.com/questions/79991842/learning-passport-js-has-me-completely-lost-overwhelmed-how-much-do-i-actuall",
-      "published_at": "2026-08-10T06:45:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
+      "title": "How do I export a JavaScript project from Dashtera platform?",
+      "url": "https://stackoverflow.com/questions/79992026/how-do-i-export-a-javascript-project-from-dashtera-platform",
+      "published_at": "2026-08-10T19:04:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
-        "advice",
         "javascript",
-        "node.js",
-        "passport.js",
-        "libraries"
+        "dashboard",
+        "lightningchart"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Shanto Sur"
+      "user": "JarekD"
     },
     {
       "title": "How to Add Dynamic Features to a Static Site Without a Server",
@@ -1954,7 +1984,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1571,
       "user": "ShawnPana"
     },
     {
@@ -1969,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1537,
       "user": "oil-oil"
     },
     {
@@ -1984,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 444,
       "user": "NikoDemon80"
     },
     {
@@ -1999,23 +2029,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 403,
       "user": "Larryvrh"
     },
     {
-      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
-      "published_at": "2026-08-08T21:17:53Z",
-      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "JayJokerr"
+      "stars": 322,
+      "user": "guillaumemeyer"
     },
     {
       "title": "Python/OPEN CV Localisation variable Barcode",
@@ -2440,10 +2470,25 @@
       "user": "velmu"
     },
     {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 322,
+      "user": "guillaumemeyer"
+    },
+    {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
       "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
       "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "html-object"
@@ -2932,6 +2977,21 @@
       "user": "forever94yu"
     },
     {
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "EurekaZang"
+    },
+    {
       "title": "Scraping web with Cloudflare Turnstile (Token)",
       "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
       "published_at": "2026-08-12T01:13:37.000Z",
@@ -3403,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1065,
       "user": "eternityspring"
     },
     {
@@ -3418,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 628,
       "user": "sv-number"
     },
     {
@@ -3433,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 372,
       "user": "achrefelouafi"
     },
     {
@@ -3448,23 +3508,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "ruudkoeyvoets"
     },
     {
-      "title": "pingmike2/freebuff2api-wokers - GitHub Repository",
-      "url": "https://github.com/pingmike2/freebuff2api-wokers",
-      "published_at": "2026-08-06T14:25:37Z",
-      "description": "Trending GitHub Repository",
+      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
+      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "published_at": "2026-08-06T03:59:32Z",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 240,
-      "user": "pingmike2"
+      "stars": 248,
+      "user": "LaoFeng-mouse"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -3478,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1571,
       "user": "ShawnPana"
     },
     {
@@ -3493,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1522,
+      "stars": 1537,
       "user": "oil-oil"
     },
     {
@@ -3508,7 +3568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 444,
       "user": "NikoDemon80"
     },
     {
@@ -3523,23 +3583,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 403,
       "user": "Larryvrh"
     },
     {
-      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
-      "published_at": "2026-08-08T21:17:53Z",
-      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "JayJokerr"
+      "stars": 322,
+      "user": "guillaumemeyer"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3553,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 183,
       "user": "MengMengCode"
     },
     {
@@ -3628,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1492,
+      "stars": 1497,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3658,7 +3718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 674,
       "user": "SaladDay"
     },
     {
@@ -3673,7 +3733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 515,
       "user": "shadcn-ui"
     },
     {
@@ -3690,6 +3750,81 @@
       "source": "GitHub",
       "stars": 455,
       "user": "Appllama"
+    },
+    {
+      "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "url": "https://github.com/Flaminis/Dalaran",
+      "published_at": "2026-08-07T09:37:32Z",
+      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
+      "source": "GitHub",
+      "stars": 813,
+      "user": "Flaminis"
+    },
+    {
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "EurekaZang"
+    },
+    {
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
+      "source": "GitHub",
+      "stars": 117,
+      "user": "JohnKinyanjui"
+    },
+    {
+      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "published_at": "2026-08-10T13:20:30Z",
+      "description": "Best browser for AI agents, built in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
+      "source": "GitHub",
+      "stars": 116,
+      "user": "lexmount"
+    },
+    {
+      "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
+      "url": "https://github.com/tllovesxs/cc-switch-route",
+      "published_at": "2026-08-08T01:55:40Z",
+      "description": "CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
+      "source": "GitHub",
+      "stars": 110,
+      "user": "tllovesxs"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
