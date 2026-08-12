@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
       "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
       "published_at": "2026-08-12T15:45:27Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
       "source": "Dev.to",
       "user": "Caleb Duff"
+    },
+    {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
     },
     {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1157,
       "user": "eternityspring"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 591,
       "user": "sv-number"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1657,
       "user": "guillaumemeyer"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "NikoDemon80"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "MengMengCode"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "surya-koritala"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "jundizhou"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "forever94yu"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 846,
       "user": "sohaibdevv"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 569,
       "user": "shadcn-ui"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 149,
       "user": "lexmount"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "JohnKinyanjui"
     },
     {
@@ -912,6 +912,35 @@
       "user": "notanothercliche"
     },
     {
+      "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "published_at": "2026-08-12T18:34:21.000Z",
+      "description": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
+      "tags": [
+        "Apps",
+        "grubhub"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "published_at": "2026-08-12T18:19:12.000Z",
+      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "cognition"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "published_at": "2026-08-12T17:51:00.000Z",
@@ -931,7 +960,7 @@
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "published_at": "2026-08-12T17:41:29.000Z",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
       "tags": [
         "AI",
         "Enterprise",
@@ -963,7 +992,7 @@
       "title": "Mesh, Automattic&#8217;s CRM for everyone, comes to Android",
       "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "published_at": "2026-08-12T16:57:58.000Z",
-      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
       "tags": [
         "AI",
         "Apps",
@@ -1021,36 +1050,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
-      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-      "published_at": "2026-08-12T15:56:13.000Z",
-      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
-      "tags": [
-        "Apps",
-        "Facebook",
-        "creator studio"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "published_at": "2026-08-12T15:44:56.000Z",
-      "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "tags": [
-        "AI",
-        "Startups",
-        "fraud",
-        "Mergers and Acquisitions",
-        "video clips"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1432,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1157,
       "user": "eternityspring"
     },
     {
@@ -1447,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 858,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1462,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 591,
       "user": "sv-number"
     },
     {
@@ -1477,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "achrefelouafi"
     },
     {
@@ -1492,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1522,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 846,
       "user": "sohaibdevv"
     },
     {
@@ -1537,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 739,
       "user": "SaladDay"
     },
     {
@@ -1552,7 +1551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 569,
       "user": "shadcn-ui"
     },
     {
@@ -1567,8 +1566,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 523,
       "user": "milind-soni"
+    },
+    {
+      "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
+      "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
+      "published_at": "2026-08-12T19:13:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "image",
+        "canvas"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33026773"
     },
     {
       "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
@@ -1696,20 +1710,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wiz"
-    },
-    {
-      "title": "How can I prevent JavaScript from running before the DOM is fully loaded?",
-      "url": "https://stackoverflow.com/questions/79992162/how-can-i-prevent-javascript-from-running-before-the-dom-is-fully-loaded",
-      "published_at": "2026-08-11T08:00:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "advice",
-        "javascript",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "James Catrter"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1925,6 +1925,21 @@
       "user": "arathore"
     },
     {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 1657,
+      "user": "guillaumemeyer"
+    },
+    {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
       "published_at": "2026-08-07T22:28:53Z",
@@ -1936,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1622,
+      "stars": 1625,
       "user": "ShawnPana"
     },
     {
@@ -1951,23 +1966,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1590,
+      "stars": 1596,
       "user": "oil-oil"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 1470,
-      "user": "guillaumemeyer"
     },
     {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
@@ -1981,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "NikoDemon80"
     },
     {
@@ -1996,28 +1996,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "Larryvrh"
-    },
-    {
-      "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
-      "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
-      "published_at": "2026-08-12T16:24:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
     },
     {
       "title": "Receiving an pydantic error within streamlit",
       "url": "https://stackoverflow.com/questions/79993560/receiving-an-pydantic-error-within-streamlit",
       "published_at": "2026-08-12T16:09:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "pydantic",
@@ -2028,6 +2014,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "StayLoProfile"
+    },
+    {
+      "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
+      "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
+      "published_at": "2026-08-12T16:24:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
     },
     {
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
@@ -2077,7 +2077,7 @@
       "title": "Storing individual pieces of data in a shelf",
       "url": "https://stackoverflow.com/questions/79993473/storing-individual-pieces-of-data-in-a-shelf",
       "published_at": "2026-08-12T11:06:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "shelve"
@@ -2353,7 +2353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "surya-koritala"
     },
     {
@@ -2529,8 +2529,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1657,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
+      "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
+      "published_at": "2026-08-12T19:13:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "image",
+        "canvas"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33026773"
     },
     {
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
@@ -2668,7 +2683,7 @@
       "title": "Mesh, Automattic&#8217;s CRM for everyone, comes to Android",
       "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "published_at": "2026-08-12T16:57:58.000Z",
-      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
       "tags": [
         "AI",
         "Apps",
@@ -2949,7 +2964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "forever94yu"
     },
     {
@@ -3466,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1157,
       "user": "eternityspring"
     },
     {
@@ -3481,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 858,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3496,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 591,
       "user": "sv-number"
     },
     {
@@ -3511,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 417,
       "user": "achrefelouafi"
     },
     {
@@ -3526,8 +3541,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "ruudkoeyvoets"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 1657,
+      "user": "guillaumemeyer"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -3541,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1622,
+      "stars": 1625,
       "user": "ShawnPana"
     },
     {
@@ -3556,23 +3586,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1590,
+      "stars": 1596,
       "user": "oil-oil"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 1470,
-      "user": "guillaumemeyer"
     },
     {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
@@ -3586,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 468,
       "user": "NikoDemon80"
     },
     {
@@ -3601,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "Larryvrh"
     },
     {
@@ -3616,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 215,
       "user": "MengMengCode"
     },
     {
@@ -3631,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "surya-koritala"
     },
     {
@@ -3646,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "jundizhou"
     },
     {
@@ -3661,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 79,
       "user": "forever94yu"
     },
     {
@@ -3706,7 +3721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 846,
       "user": "sohaibdevv"
     },
     {
@@ -3721,7 +3736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 739,
       "user": "SaladDay"
     },
     {
@@ -3736,7 +3751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 569,
       "user": "shadcn-ui"
     },
     {
@@ -3751,7 +3766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 523,
       "user": "milind-soni"
     },
     {
@@ -3766,7 +3781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 882,
       "user": "Flaminis"
     },
     {
@@ -3781,7 +3796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 149,
       "user": "lexmount"
     },
     {
@@ -3811,7 +3826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "JohnKinyanjui"
     },
     {
@@ -3828,20 +3843,6 @@
       "source": "GitHub",
       "stars": 111,
       "user": "tllovesxs"
-    },
-    {
-      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
-      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-      "published_at": "2026-08-12T15:56:13.000Z",
-      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
-      "tags": [
-        "Apps",
-        "Facebook",
-        "creator studio"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
