@@ -1,6 +1,66 @@
 {
   "AI": [
     {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
+    },
+    {
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
+      "published_at": "2026-08-12T03:32:11Z",
+      "description": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
+      "tags": [
+        "gemma",
+        "genai",
+        "experiment",
+        "education"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqzzdiw88bpf4m1wlv4vh.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
+    },
+    {
+      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
+      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
+      "published_at": "2026-08-12T07:15:38Z",
+      "description": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Femgi0fe0vb7f0poez3xq.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
+      "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo",
+      "published_at": "2026-08-11T12:00:00Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.   🔨 #bugsmash,...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "dotnet",
+        "sentry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mec4r6dp4lvouejhzuu.png",
+      "source": "Dev.to",
+      "user": "Vasyl"
+    },
+    {
       "title": "Three Clouds, Three Native Agents",
       "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
       "published_at": "2026-08-10T15:04:09Z",
@@ -134,66 +194,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
-      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
-      "published_at": "2026-08-08T19:37:57Z",
-      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "published_at": "2026-08-08T10:09:17Z",
-      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
-      "tags": [
-        "angular",
-        "typescript",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
-    },
-    {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
-      "published_at": "2026-07-26T19:27:29Z",
-      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "tags": [
-        "python",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55",
-      "published_at": "2026-07-26T17:42:32Z",
-      "description": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
-      "tags": [
-        "go",
-        "adk",
-        "a2a",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fui3etm0mm66xuqgvz8qs.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1125,
       "user": "eternityspring"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "sv-number"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 1156,
       "user": "guillaumemeyer"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "NikoDemon80"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "MengMengCode"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "surya-koritala"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "jundizhou"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "forever94yu"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1510,
+      "stars": 1511,
       "user": "SMNETSTUDIO"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 845,
       "user": "sohaibdevv"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 552,
       "user": "shadcn-ui"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 130,
       "user": "lexmount"
     },
     {
@@ -867,20 +867,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "JohnKinyanjui"
     },
     {
-      "title": "My Anti AI computer",
-      "url": "https://punkx.org/jackdoe/home.html",
-      "published_at": "2026-08-11T12:31:53.127-05:00",
+      "title": "I'm done using AI",
+      "url": "https://brettcodes.com/im-done-using-ai/",
+      "published_at": "2026-08-12T08:09:40.082-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "rant",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "jackdoe"
+      "user": "untrusem"
+    },
+    {
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published_at": "2026-08-12T10:01:27.580-05:00",
+      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -913,6 +926,65 @@
       "user": "punsoca"
     },
     {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "published_at": "2026-08-12T16:04:27.000Z",
+      "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Lovable"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "published_at": "2026-08-12T15:56:13.000Z",
+      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+      "tags": [
+        "Apps",
+        "Facebook"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "published_at": "2026-08-12T15:44:56.000Z",
+      "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "tags": [
+        "AI",
+        "Startups",
+        "fraud",
+        "video clips"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "published_at": "2026-08-12T15:18:55.000Z",
+      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "Microsoft",
+        "Windows",
+        "zero-day"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Everything announced at Made by Google &#8217;26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
       "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
       "published_at": "2026-08-12T14:20:33.000Z",
@@ -937,56 +1009,12 @@
         "Gadgets",
         "Hardware",
         "Google",
+        "Made by Google",
         "PIXEL"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "published_at": "2026-08-12T11:00:00.000Z",
-      "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "AI",
-        "Y Combinator",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
-      "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
-      "published_at": "2026-08-12T10:00:00.000Z",
-      "description": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
-      "tags": [
-        "Climate",
-        "heat pumps",
-        "water heater"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-      "published_at": "2026-08-12T04:30:00.000Z",
-      "description": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
-      "tags": [
-        "Startups",
-        "Transportation",
-        "GEF Capital Partners",
-        "yulu"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
@@ -1117,6 +1145,36 @@
   ],
   "JavaScript": [
     {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
+    },
+    {
+      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
+      "published_at": "2026-08-11T14:40:56Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "react",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
+      "source": "Dev.to",
+      "user": "Pooja Bhavani"
+    },
+    {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
       "published_at": "2026-07-29T18:18:58Z",
@@ -1160,51 +1218,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png",
       "source": "Dev.to",
       "user": "Giorgio Galassi"
-    },
-    {
-      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
-      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
-      "published_at": "2026-08-08T19:37:57Z",
-      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "published_at": "2026-08-08T10:09:17Z",
-      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
-      "tags": [
-        "angular",
-        "typescript",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
     },
     {
       "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
@@ -1383,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1125,
       "user": "eternityspring"
     },
     {
@@ -1398,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 723,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1413,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "sv-number"
     },
     {
@@ -1428,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 406,
       "user": "achrefelouafi"
     },
     {
@@ -1458,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1510,
+      "stars": 1511,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1473,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 845,
       "user": "sohaibdevv"
     },
     {
@@ -1488,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 727,
       "user": "SaladDay"
     },
     {
@@ -1503,7 +1516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 552,
       "user": "shadcn-ui"
     },
     {
@@ -1525,7 +1538,7 @@
       "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
       "url": "https://stackoverflow.com/questions/79993535/how-to-interop-with-javascript-dom-and-handle-static-typing-in-virune",
       "published_at": "2026-08-12T14:31:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "dom-events"
@@ -1538,7 +1551,7 @@
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "iframe",
@@ -1564,6 +1577,19 @@
       "user": "Gary"
     },
     {
+      "title": "Avoid synthetic sounds overlapping",
+      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
+      "published_at": "2026-08-11T09:02:38.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vatar"
+    },
+    {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
       "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
       "published_at": "2026-08-11T18:31:47.000Z",
@@ -1578,19 +1604,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yash-Nohara"
-    },
-    {
-      "title": "Avoid synthetic sounds overlapping",
-      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
-      "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vatar"
     },
     {
       "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
@@ -1706,21 +1719,6 @@
         "gemma"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
-      "published_at": "2026-07-26T19:27:29Z",
-      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "tags": [
-        "python",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -1886,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1601,
+      "stars": 1612,
       "user": "ShawnPana"
     },
     {
@@ -1901,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1569,
+      "stars": 1575,
       "user": "oil-oil"
     },
     {
@@ -1916,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 1156,
       "user": "guillaumemeyer"
     },
     {
@@ -1931,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "NikoDemon80"
     },
     {
@@ -1953,7 +1951,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "python-sphinx",
@@ -1968,7 +1966,7 @@
       "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
       "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
       "published_at": "2026-08-12T14:40:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "fastapi"
@@ -1981,7 +1979,7 @@
       "title": "Python NLP usage of .lower() function",
       "url": "https://stackoverflow.com/questions/79993518/python-nlp-usage-of-lower-function",
       "published_at": "2026-08-12T13:35:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "nlp",
@@ -2091,6 +2089,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
+      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
+      "published_at": "2026-08-12T07:15:38Z",
+      "description": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Femgi0fe0vb7f0poez3xq.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
     {
       "title": "Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose",
       "url": "https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac",
@@ -2282,14 +2295,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "surya-koritala"
     },
     {
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "python-sphinx",
@@ -2317,6 +2330,19 @@
     }
   ],
   "WebDev": [
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
+      "published_at": "2026-08-09T19:42:53Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "tags": [
+        "devchallenge",
+        "bugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
+    },
     {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
       "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
@@ -2401,14 +2427,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 1156,
       "user": "guillaumemeyer"
     },
     {
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "iframe",
@@ -2519,36 +2545,6 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
-      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
-      "published_at": "2026-08-08T19:37:57Z",
-      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
-      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
-      "published_at": "2026-08-04T23:10:31Z",
-      "description": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals, compare 3 clean form architectural patterns, and pick the right one for your app.",
-      "tags": [
-        "flutter",
-        "dart",
-        "bloc",
-        "signals"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2705,21 +2701,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
-      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
-      "published_at": "2026-07-26T19:27:29Z",
-      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
-      "tags": [
-        "python",
-        "ai",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
       "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
       "published_at": "2026-07-29T22:02:22Z",
@@ -2865,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "forever94yu"
     },
     {
@@ -2880,7 +2861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "EurekaZang"
     },
     {
@@ -2902,6 +2883,21 @@
   ],
   "Database": [
     {
+      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
+      "published_at": "2026-08-11T14:40:56Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "react",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
+      "source": "Dev.to",
+      "user": "Pooja Bhavani"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2912,6 +2908,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published_at": "2026-08-12T10:01:27.580-05:00",
+      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
@@ -3143,7 +3151,7 @@
       "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
       "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
       "published_at": "2026-08-12T14:40:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "fastapi"
@@ -3151,6 +3159,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tears"
+    },
+    {
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "published_at": "2026-08-12T15:18:55.000Z",
+      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "Microsoft",
+        "Windows",
+        "zero-day"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3198,21 +3222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "published_at": "2026-08-08T10:09:17Z",
-      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
-      "tags": [
-        "angular",
-        "typescript",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
     },
     {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
@@ -3322,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1125,
       "user": "eternityspring"
     },
     {
@@ -3337,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 723,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3352,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "sv-number"
     },
     {
@@ -3367,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 406,
       "user": "achrefelouafi"
     },
     {
@@ -3397,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1601,
+      "stars": 1612,
       "user": "ShawnPana"
     },
     {
@@ -3412,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1569,
+      "stars": 1575,
       "user": "oil-oil"
     },
     {
@@ -3427,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 1156,
       "user": "guillaumemeyer"
     },
     {
@@ -3442,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "NikoDemon80"
     },
     {
@@ -3472,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 206,
       "user": "MengMengCode"
     },
     {
@@ -3487,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "surya-koritala"
     },
     {
@@ -3502,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "jundizhou"
     },
     {
@@ -3517,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "forever94yu"
     },
     {
@@ -3547,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1510,
+      "stars": 1511,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3562,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 843,
+      "stars": 845,
       "user": "sohaibdevv"
     },
     {
@@ -3577,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 727,
       "user": "SaladDay"
     },
     {
@@ -3592,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 552,
       "user": "shadcn-ui"
     },
     {
@@ -3622,23 +3631,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 873,
       "user": "Flaminis"
-    },
-    {
-      "title": "EurekaZang/CloudFolder - GitHub Repository",
-      "url": "https://github.com/EurekaZang/CloudFolder",
-      "published_at": "2026-08-09T21:30:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "EurekaZang"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3652,8 +3646,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 130,
       "user": "lexmount"
+    },
+    {
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "EurekaZang"
     },
     {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
@@ -3667,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 122,
       "user": "JohnKinyanjui"
     },
     {
@@ -3686,20 +3695,17 @@
       "user": "tllovesxs"
     },
     {
-      "title": "AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "published_at": "2026-08-12T11:00:00.000Z",
-      "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "published_at": "2026-08-12T15:56:13.000Z",
+      "description": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
       "tags": [
-        "Enterprise",
-        "Startups",
-        "AI",
-        "Y Combinator",
-        "Exclusive"
+        "Apps",
+        "Facebook"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Aisha Malik"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
