@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-182-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-6-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--12-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-12 7:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-12 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -57,19 +57,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg4sugwvppmektvn4dv8x.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/gde/three-clouds-three-native-agents-3egf">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg" width="200" alt="Three Clouds, Three Native Agents" />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>Three Clouds, Three Native Agents</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/three-clouds-three-native-agents-3egf">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg" width="200" alt="Three Clouds, Three Native Agents" />
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg4sugwvppmektvn4dv8x.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
       <br/>
-      <b>Three Clouds, Three Native Agents</b>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -95,8 +95,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 1 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
 | 2 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
 | 3 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
-| 4 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7) | Dev.to |
-| 5 | [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf) | Dev.to |
+| 4 | [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf) | Dev.to |
+| 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7) | Dev.to |
 | 6 | [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac) | Dev.to |
 | 7 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 | 8 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
 | 20 | [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1) | Dev.to |
 
-<sub>Last fetched: Wed, 12 Aug 2026 07:22:34 CAT</sub>
+<sub>Last fetched: Wed, 12 Aug 2026 08:53:20 CAT</sub>
 
 
 ---
@@ -122,29 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Fan-out, caching, ranking, real-time updates
-
-</details>
-
-**2. `Database` — What is the difference between SQL and NoSQL databases?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Schema, scalability, ACID vs BASE
-
-</details>
-
-**3. `Java` — What is the difference between abstract class and interface?**
+**1. `Java` — What is the difference between abstract class and interface?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
@@ -152,6 +130,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Multiple inheritance, method implementation, use cases
+
+</details>
+
+**2. `NodeJS` — How do you handle errors in async/await?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> try/catch, .catch(), error middleware
+
+</details>
+
+**3. `React` — What is the Virtual DOM and how does React use it?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 83 | 45.6% | `████████████████████` |
-| **JavaScript** | 41 | 22.5% | `██████████░░░░░░░░░░` |
-| **Tools** | 41 | 22.5% | `██████████░░░░░░░░░░` |
-| **Python** | 29 | 15.9% | `███████░░░░░░░░░░░░░` |
-| **Cloud** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **AI** | 84 | 45.7% | `████████████████████` |
+| **JavaScript** | 42 | 22.8% | `██████████░░░░░░░░░░` |
+| **Tools** | 42 | 22.8% | `██████████░░░░░░░░░░` |
+| **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
+| **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 58 |
+| Dev.to | 60 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,19 +194,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.2%
-JavaScript      ██████████████████████████████ 27.2%
-Java            ███████████████████████ 20.5%
-Python          █████████████████████ 19.2%
-Rust            ████ 4.0%
+Go              ██████████████████████████████ 27.5%
+JavaScript      ██████████████████████████████ 27.5%
+Java            ██████████████████████ 20.3%
+Python          █████████████████████ 19.0%
+Rust            ████ 3.9%
 Swift           ██ 2.0%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 41
-    "JavaScript" : 41
+    "Go" : 42
+    "JavaScript" : 42
     "Java" : 31
     "Python" : 29
     "Rust" : 6
@@ -216,7 +216,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![typescript](https://img.shields.io/badge/typescript-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-16-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-7-0969da?style=flat-square) 
 
 
 ---
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 05:22:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 06:53:20 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

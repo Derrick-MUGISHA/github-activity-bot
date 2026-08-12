@@ -448,6 +448,21 @@
       "user": "xbill"
     },
     {
+      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
+      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
+      "published_at": "2026-08-04T02:36:26Z",
+      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "tags": [
+        "ai",
+        "designsystems",
+        "frontend",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "source": "Dev.to",
+      "user": "Mxhlix"
+    },
+    {
       "title": "Your RAG copilot can't count — stop letting it try",
       "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
       "published_at": "2026-07-31T11:00:29Z",
@@ -463,19 +478,19 @@
       "user": "Rodrigo Diego"
     },
     {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
+      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
+      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
+      "published_at": "2026-07-25T07:43:00Z",
+      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
       "tags": [
         "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
+        "robotics",
+        "machinelearning",
+        "llm"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
       "source": "Dev.to",
-      "user": "Mxhlix"
+      "user": "Ankita Virani"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -657,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 996,
       "user": "eternityspring"
     },
     {
@@ -672,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 631,
       "user": "sv-number"
     },
     {
@@ -687,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "NikoDemon80"
     },
     {
@@ -702,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "MengMengCode"
     },
     {
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "Lynricsy"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1479,
       "user": "SMNETSTUDIO"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 482,
       "user": "shadcn-ui"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 107,
       "user": "lexmount"
     },
     {
@@ -865,19 +880,6 @@
       "user": "jackdoe"
     },
     {
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "published_at": "2026-08-11T07:22:26.913-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "mobile",
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "patternist"
-    },
-    {
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
       "published_at": "2026-08-11T14:35:12.200-05:00",
@@ -889,6 +891,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "gmem"
+    },
+    {
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "published_at": "2026-08-11T07:22:26.913-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "mobile",
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "patternist"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -1330,6 +1345,21 @@
       "user": "Mxhlix"
     },
     {
+      "title": "I built dev tools that literally cannot send your data anywhere",
+      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
+      "published_at": "2026-08-05T18:45:20Z",
+      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "security",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
+      "source": "Dev.to",
+      "user": "nullisland"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1461,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 996,
       "user": "eternityspring"
     },
     {
@@ -1476,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 631,
       "user": "sv-number"
     },
     {
@@ -1491,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 355,
       "user": "achrefelouafi"
     },
     {
@@ -1506,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1536,7 +1566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1479,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1566,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 628,
       "user": "SaladDay"
     },
     {
@@ -1581,7 +1611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 482,
       "user": "shadcn-ui"
     },
     {
@@ -1596,7 +1626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "Appllama"
     },
     {
@@ -1964,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1534,
+      "stars": 1549,
       "user": "ShawnPana"
     },
     {
@@ -1979,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1493,
+      "stars": 1499,
       "user": "oil-oil"
     },
     {
@@ -1994,7 +2024,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "NikoDemon80"
     },
     {
@@ -2009,7 +2039,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 396,
       "user": "Larryvrh"
     },
     {
@@ -2024,14 +2054,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "JayJokerr"
+    },
+    {
+      "title": "Python/OPEN CV Localisation variable Barcode",
+      "url": "https://stackoverflow.com/questions/79993391/python-open-cv-localisation-variable-barcode",
+      "published_at": "2026-08-12T05:54:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "opencv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniela Gerner"
     },
     {
       "title": "Scraping web with Cloudflare Turnstile (Token)",
       "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
       "published_at": "2026-08-12T01:13:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "web-scraping",
@@ -2150,19 +2193,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Unable to chose a date from a “Date Picker” in selenium python",
-      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-a-date-from-a-date-picker-in-selenium-python",
-      "published_at": "2026-08-09T13:35:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "selenium-webdriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Soroush Kalantari"
     }
   ],
   "DevOps": [
@@ -2623,7 +2653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "Appllama"
     },
     {
@@ -2960,7 +2990,7 @@
       "title": "Scraping web with Cloudflare Turnstile (Token)",
       "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
       "published_at": "2026-08-12T01:13:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "web-scraping",
@@ -3079,6 +3109,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
+    },
+    {
+      "title": "I built dev tools that literally cannot send your data anywhere",
+      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
+      "published_at": "2026-08-05T18:45:20Z",
+      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "security",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
+      "source": "Dev.to",
+      "user": "nullisland"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3351,6 +3396,21 @@
       "user": "Mxhlix"
     },
     {
+      "title": "I built dev tools that literally cannot send your data anywhere",
+      "url": "https://dev.to/nullisland/i-built-dev-tools-that-literally-cannot-send-your-data-anywhere-1a61",
+      "published_at": "2026-08-05T18:45:20Z",
+      "description": "I find myself Googling then subsequently pasting things into random online JSON formatters and JWT...",
+      "tags": [
+        "webdev",
+        "showdev",
+        "security",
+        "privacy"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv29sk9n1y4xohp2s6fv9.png",
+      "source": "Dev.to",
+      "user": "nullisland"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3398,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 996,
       "user": "eternityspring"
     },
     {
@@ -3413,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 631,
       "user": "sv-number"
     },
     {
@@ -3428,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 355,
       "user": "achrefelouafi"
     },
     {
@@ -3443,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 289,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3473,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1534,
+      "stars": 1549,
       "user": "ShawnPana"
     },
     {
@@ -3488,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1493,
+      "stars": 1499,
       "user": "oil-oil"
     },
     {
@@ -3503,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 429,
       "user": "NikoDemon80"
     },
     {
@@ -3518,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 396,
       "user": "Larryvrh"
     },
     {
@@ -3533,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "JayJokerr"
     },
     {
@@ -3548,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "MengMengCode"
     },
     {
@@ -3608,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "Lynricsy"
     },
     {
@@ -3623,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1470,
+      "stars": 1479,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3653,7 +3713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 628,
       "user": "SaladDay"
     },
     {
@@ -3668,7 +3728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 482,
       "user": "shadcn-ui"
     },
     {
@@ -3683,7 +3743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "Appllama"
     },
     {
@@ -3698,7 +3758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 735,
+      "stars": 773,
       "user": "Flaminis"
     },
     {
@@ -3732,6 +3792,21 @@
       "user": "JohnKinyanjui"
     },
     {
+      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "published_at": "2026-08-10T13:20:30Z",
+      "description": "Best browser for AI agents, built in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "lexmount"
+    },
+    {
       "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
       "url": "https://github.com/tllovesxs/cc-switch-route",
       "published_at": "2026-08-08T01:55:40Z",
@@ -3745,21 +3820,6 @@
       "source": "GitHub",
       "stars": 106,
       "user": "tllovesxs"
-    },
-    {
-      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
-      "url": "https://github.com/lexmount/moli",
-      "published_at": "2026-08-10T13:20:30Z",
-      "description": "Best browser for AI agents, built in Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
-      "source": "GitHub",
-      "stars": 106,
-      "user": "lexmount"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
