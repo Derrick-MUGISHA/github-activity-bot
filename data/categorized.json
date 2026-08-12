@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1078,
       "user": "eternityspring"
     },
     {
@@ -687,23 +687,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 571,
       "user": "sv-number"
-    },
-    {
-      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "published_at": "2026-08-07T01:18:37Z",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
-      "source": "GitHub",
-      "stars": 447,
-      "user": "NikoDemon80"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -717,8 +702,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 493,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "published_at": "2026-08-07T01:18:37Z",
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "NikoDemon80"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "MengMengCode"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1505,
       "user": "SMNETSTUDIO"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 528,
       "user": "shadcn-ui"
     },
     {
@@ -871,18 +871,6 @@
       "user": "lexmount"
     },
     {
-      "title": "My Anti AI computer",
-      "url": "https://punkx.org/jackdoe/home.html",
-      "published_at": "2026-08-11T12:31:53.127-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jackdoe"
-    },
-    {
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
       "published_at": "2026-08-11T14:35:12.200-05:00",
@@ -896,6 +884,18 @@
       "user": "gmem"
     },
     {
+      "title": "My Anti AI computer",
+      "url": "https://punkx.org/jackdoe/home.html",
+      "published_at": "2026-08-11T12:31:53.127-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jackdoe"
+    },
+    {
       "title": "Briar is in maintenance mode",
       "url": "https://briarproject.org/news/2026-maintenance-mode/",
       "published_at": "2026-08-11T07:22:26.913-05:00",
@@ -907,19 +907,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "patternist"
-    },
-    {
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "published_at": "2026-08-12T00:20:40.296-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "plt",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yawaramin"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -1510,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1078,
       "user": "eternityspring"
     },
     {
@@ -1525,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 571,
       "user": "sv-number"
     },
     {
@@ -1540,23 +1527,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "achrefelouafi"
-    },
-    {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "published_at": "2026-08-06T08:24:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
-      "source": "GitHub",
-      "stars": 297,
-      "user": "ruudkoeyvoets"
     },
     {
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
@@ -1570,8 +1542,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 311,
       "user": "LaoFeng-mouse"
+    },
+    {
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+      "published_at": "2026-08-06T08:24:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "source": "GitHub",
+      "stars": 298,
+      "user": "ruudkoeyvoets"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1585,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1505,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1615,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 687,
       "user": "SaladDay"
     },
     {
@@ -1630,7 +1617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 528,
       "user": "shadcn-ui"
     },
     {
@@ -1645,7 +1632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 456,
       "user": "Appllama"
     },
     {
@@ -1660,6 +1647,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
+      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
+      "published_at": "2026-08-11T18:31:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "database",
+        "google-chrome-extension",
+        "supabase-js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yash-Nohara"
     },
     {
       "title": "Avoid synthetic sounds overlapping",
@@ -1686,22 +1689,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bill42"
-    },
-    {
-      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
-      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
-      "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "google-chrome-extension",
-        "supabase-js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yash-Nohara"
     },
     {
       "title": "How do I make it so that the script responds differently for each element?",
@@ -2013,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1576,
       "user": "ShawnPana"
     },
     {
@@ -2028,23 +2015,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1554,
       "user": "oil-oil"
-    },
-    {
-      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "published_at": "2026-08-07T01:18:37Z",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
-      "source": "GitHub",
-      "stars": 447,
-      "user": "NikoDemon80"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -2058,8 +2030,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 493,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "published_at": "2026-08-07T01:18:37Z",
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "NikoDemon80"
     },
     {
       "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
@@ -2073,14 +2060,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Larryvrh"
     },
     {
-      "title": "Storing individual pieces od data in a shelve",
-      "url": "https://stackoverflow.com/questions/79993473/storing-individual-pieces-od-data-in-a-shelve",
+      "title": "Storing individual pieces of data in a shelve",
+      "url": "https://stackoverflow.com/questions/79993473/storing-individual-pieces-of-data-in-a-shelve",
       "published_at": "2026-08-12T11:06:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "shelve"
@@ -2093,7 +2080,7 @@
       "title": "Python/OPEN CV Localisation variable Barcode",
       "url": "https://stackoverflow.com/questions/79993391/python-open-cv-localisation-variable-barcode",
       "published_at": "2026-08-12T05:54:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "opencv"
@@ -2510,7 +2497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 493,
       "user": "guillaumemeyer"
     },
     {
@@ -2687,7 +2674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 456,
       "user": "Appllama"
     },
     {
@@ -3054,7 +3041,7 @@
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
       "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
       "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -3492,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1078,
       "user": "eternityspring"
     },
     {
@@ -3507,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 571,
       "user": "sv-number"
     },
     {
@@ -3522,23 +3509,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 375,
       "user": "achrefelouafi"
-    },
-    {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "published_at": "2026-08-06T08:24:58Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
-      "source": "GitHub",
-      "stars": 297,
-      "user": "ruudkoeyvoets"
     },
     {
       "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
@@ -3552,8 +3524,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 311,
       "user": "LaoFeng-mouse"
+    },
+    {
+      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - GitHub Repository",
+      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+      "published_at": "2026-08-06T08:24:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "source": "GitHub",
+      "stars": 298,
+      "user": "ruudkoeyvoets"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -3567,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1572,
+      "stars": 1576,
       "user": "ShawnPana"
     },
     {
@@ -3582,23 +3569,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1554,
       "user": "oil-oil"
-    },
-    {
-      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "published_at": "2026-08-07T01:18:37Z",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
-      "source": "GitHub",
-      "stars": 447,
-      "user": "NikoDemon80"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3612,8 +3584,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 493,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "published_at": "2026-08-07T01:18:37Z",
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
+      "source": "GitHub",
+      "stars": 448,
+      "user": "NikoDemon80"
     },
     {
       "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
@@ -3627,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 405,
       "user": "Larryvrh"
     },
     {
@@ -3642,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 188,
       "user": "MengMengCode"
     },
     {
@@ -3717,7 +3704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1505,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3747,7 +3734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 687,
       "user": "SaladDay"
     },
     {
@@ -3762,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 528,
       "user": "shadcn-ui"
     },
     {
@@ -3777,7 +3764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/313732614?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 456,
       "user": "Appllama"
     },
     {
@@ -3792,7 +3779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 820,
+      "stars": 838,
       "user": "Flaminis"
     },
     {
@@ -3852,7 +3839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "tllovesxs"
     },
     {

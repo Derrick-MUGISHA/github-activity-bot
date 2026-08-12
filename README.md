@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-12 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-12 14:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgnsa4pxfrc01tzclj5ta.png" width="200" alt="Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose" />
+    <a href="https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3jtnr9kobn2yfnsuwwgt.png" width="200" alt="Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!" />
       <br/>
-      <b>Gubernator v2.13.0: Google SRE SLOs, Native CoreDN...</b>
+      <b>Jem has quietly been working behind-the-scenes her...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -97,9 +97,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 3 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
 | 4 | [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf) | Dev.to |
 | 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1id7) | Dev.to |
-| 6 | [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac) | Dev.to |
-| 7 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
-| 8 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
+| 6 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
+| 7 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
+| 8 | [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac) | Dev.to |
 | 9 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
 | 10 | [Meme Monday](https://dev.to/ben/meme-monday-3n1d) | Dev.to |
 | 11 | [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5) | Dev.to |
 | 20 | [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1) | Dev.to |
 
-<sub>Last fetched: Wed, 12 Aug 2026 13:35:34 CAT</sub>
+<sub>Last fetched: Wed, 12 Aug 2026 14:31:59 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `Python` — Explain decorators in Python with an example**
+**2. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**3. `React` — Implement a custom hook for fetching data**
+**3. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> useState, useEffect, loading states, error handling
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -164,7 +164,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 85 | 46.2% | `████████████████████` |
+| **AI** | 84 | 45.7% | `████████████████████` |
 | **Tools** | 43 | 23.4% | `██████████░░░░░░░░░░` |
 | **JavaScript** | 42 | 22.8% | `██████████░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
@@ -194,19 +194,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.5%
-JavaScript      ██████████████████████████████ 27.5%
-Java            ██████████████████████ 20.3%
-Python          █████████████████████ 19.0%
-Rust            ████ 3.9%
+JavaScript      ██████████████████████████████ 27.8%
+Go              █████████████████████████████ 26.5%
+Java            ██████████████████████ 20.5%
+Python          █████████████████████ 19.2%
+Rust            ████ 4.0%
 Swift           ██ 2.0%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 42
     "JavaScript" : 42
+    "Go" : 40
     "Java" : 31
     "Python" : 29
     "Rust" : 6
@@ -268,6 +268,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 11:35:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 12 Aug 2026 12:31:59 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
