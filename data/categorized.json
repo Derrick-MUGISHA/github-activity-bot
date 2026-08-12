@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1025,
       "user": "eternityspring"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "sv-number"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 434,
       "user": "NikoDemon80"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "MengMengCode"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1488,
       "user": "SMNETSTUDIO"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 488,
       "user": "shadcn-ui"
     },
     {
@@ -852,26 +852,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "lexmount"
-    },
-    {
-      "title": "Text Watermarking for Non-Academics",
-      "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
-      "published_at": "2026-08-11T19:29:31.616-05:00",
-      "description": "https://blog.gaborkoos.com/posts/2026-08-12-What-Does-a-Text-Watermark-Actually-Prove/",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gkoos"
     },
     {
       "title": "My Anti AI computer",
       "url": "https://punkx.org/jackdoe/home.html",
       "published_at": "2026-08-11T12:31:53.127-05:00",
-      "description": "I made this computer to have a place where I can calm my mind, and to re-learn patience; the irony is that I used AI to write the OS and the drivers and everything, and now I do enjoy it, but surely not as much as if I would've written the code myself.",
+      "description": "Lobste.rs Discussion",
       "tags": [
         "vibecoding"
       ],
@@ -904,6 +892,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "patternist"
+    },
+    {
+      "title": "Who's Hiring? - Not-A-Coder Edition - Aug 2026",
+      "url": "https://lobste.rs/s/cnoaqr/who_s_hiring_not_coder_edition_aug_2026",
+      "published_at": "2026-08-11T18:46:21.989-05:00",
+      "description": "Welcome to the first official post of \"Who's Hiring? - Not-A-Coder Edition!\" \r\n\r\nThis is a version of the original \"Who's Hiring?\" posts that targets roles *other* than Software Engineer such as customer support, data entry, field technician, technical writer, marketer, purchasers, heck, even sales can join the fun. The list is long, so we're not going to be too pedantic about this, but if you're an employer with a role to fill that doesn't require coding experience or a developer background, post it here! The point is to start a conversation with a potential candidate. \r\n\r\nPlease use the template below for your listing.\r\n\r\n---\r\n**Company Name:** [ name and website ]\r\n\r\n**Available Position:** [ role or job title ]\r\n\r\n**Location:** [ company location ]\r\n\r\n**Job Type:** [ onsite | remote | hybrid ]\r\n\r\n**Job Level:** [ entry | junior | senior | etc ]\r\n\r\n**Description:** [ brief description of the role and expectations ]\r\n\r\n**Who Should Apply:** [ who are you looking for? ]\r\n\r\n**Compensation:** [ pay and benefits ]\r\n\r\n**Contact:** [ email ]\r\n\r\n---\r\n\r\nThis post will have a monthly cadence for now, usually hitting around the middle of the month. \r\n\r\nJust a few notes: \r\n\r\n1. If you want to make a suggestion about how to improve future posts like this, please do so on the [original proposal](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026) to the community so I can keep track of everything. Let's leave only job postings in the replies. \r\n\r\n2. Yes, if you have multiple positions you are hiring for, you can make multiple posts. \r\n\r\n3. If you have questions about whether or not a job listing belongs, you are welcome to pm me or ask on the [original proposal](https://lobste.rs/s/0zha79/who_s_hiring_support_edition_q3_2026). Just keep in mind my current job makes full-time hours sound like part-time, so it may take me a day or two to reply.",
+      "tags": [
+        "job"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tinsmith"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -948,19 +948,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kamien Rider"
-    },
-    {
-      "title": "How to convert constraints.txt to uv constraint-dependencies section",
-      "url": "https://stackoverflow.com/questions/79992054/how-to-convert-constraints-txt-to-uv-constraint-dependencies-section",
-      "published_at": "2026-08-10T20:44:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "uv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eric Wohnlich"
     },
     {
       "title": "India&#8217;s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -1491,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1025,
       "user": "eternityspring"
     },
     {
@@ -1506,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "sv-number"
     },
     {
@@ -1521,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 358,
       "user": "achrefelouafi"
     },
     {
@@ -1536,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "ruudkoeyvoets"
     },
     {
@@ -1551,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 238,
       "user": "pingmike2"
     },
     {
@@ -1566,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1488,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1596,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 638,
       "user": "SaladDay"
     },
     {
@@ -1611,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 488,
       "user": "shadcn-ui"
     },
     {
@@ -1643,6 +1630,19 @@
       "user": "Gary"
     },
     {
+      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
+      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
+      "published_at": "2026-08-11T15:31:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bill42"
+    },
+    {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
@@ -1654,19 +1654,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vatar"
-    },
-    {
-      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
-      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
-      "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bill42"
     },
     {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
@@ -1699,6 +1686,19 @@
       "user": "Vedant"
     },
     {
+      "title": "How do I make it so that the script responds differently for each element?",
+      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
+      "published_at": "2026-08-10T12:53:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Xenon7N"
+    },
+    {
       "title": "Generating grouped PDF from paginated API data in React/jsPDF without loading all rows into memory",
       "url": "https://stackoverflow.com/questions/79992207/generating-grouped-pdf-from-paginated-api-data-in-react-jspdf-without-loading-al",
       "published_at": "2026-08-11T10:31:51.000Z",
@@ -1713,19 +1713,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wiz"
-    },
-    {
-      "title": "How do I make it so that the script responds differently for each element?",
-      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
-      "published_at": "2026-08-10T12:53:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xenon7N"
     },
     {
       "title": "How can I prevent JavaScript from running before the DOM is fully loaded?",
@@ -1994,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1559,
       "user": "ShawnPana"
     },
     {
@@ -2009,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1505,
       "user": "oil-oil"
     },
     {
@@ -2024,7 +2011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 434,
       "user": "NikoDemon80"
     },
     {
@@ -2039,7 +2026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "Larryvrh"
     },
     {
@@ -2054,7 +2041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "JayJokerr"
     },
     {
@@ -2117,6 +2104,18 @@
       "user": "punsoca"
     },
     {
+      "title": "Running a Class.method() when that module is imported",
+      "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
+      "published_at": "2026-08-09T17:36:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "limitations of manually constructed RAG prompt",
       "url": "https://stackoverflow.com/questions/79992139/limitations-of-manually-constructed-rag-prompt",
       "published_at": "2026-08-11T06:28:16.000Z",
@@ -2170,29 +2169,17 @@
       "user": "janpeter"
     },
     {
-      "title": "How to convert constraints.txt to uv constraint-dependencies section",
-      "url": "https://stackoverflow.com/questions/79992054/how-to-convert-constraints-txt-to-uv-constraint-dependencies-section",
-      "published_at": "2026-08-10T20:44:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Unable to chose (click) a date from a “Date Picker” in selenium python",
+      "url": "https://stackoverflow.com/questions/79991669/unable-to-chose-click-a-date-from-a-date-picker-in-selenium-python",
+      "published_at": "2026-08-09T13:35:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "uv"
+        "selenium-webdriver"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eric Wohnlich"
-    },
-    {
-      "title": "Running a Class.method() when that module is imported",
-      "url": "https://stackoverflow.com/questions/79991731/running-a-class-method-when-that-module-is-imported",
-      "published_at": "2026-08-09T17:36:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
+      "user": "Soroush Kalantari"
     }
   ],
   "DevOps": [
@@ -3458,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1025,
       "user": "eternityspring"
     },
     {
@@ -3473,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 635,
       "user": "sv-number"
     },
     {
@@ -3488,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 358,
       "user": "achrefelouafi"
     },
     {
@@ -3503,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 290,
       "user": "ruudkoeyvoets"
     },
     {
@@ -3518,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 238,
       "user": "pingmike2"
     },
     {
@@ -3533,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1559,
       "user": "ShawnPana"
     },
     {
@@ -3548,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1505,
       "user": "oil-oil"
     },
     {
@@ -3563,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 434,
       "user": "NikoDemon80"
     },
     {
@@ -3578,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "Larryvrh"
     },
     {
@@ -3593,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 264,
       "user": "JayJokerr"
     },
     {
@@ -3608,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "MengMengCode"
     },
     {
@@ -3683,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1479,
+      "stars": 1488,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3713,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 638,
       "user": "SaladDay"
     },
     {
@@ -3728,7 +3715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 488,
       "user": "shadcn-ui"
     },
     {
@@ -3758,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 786,
       "user": "Flaminis"
     },
     {
@@ -3803,7 +3790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "lexmount"
     },
     {
