@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1785,
+      "stars": 1906,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "NikoDemon80"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "surya-koritala"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "jundizhou"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 847,
       "user": "sohaibdevv"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "lexmount"
     },
     {
@@ -889,6 +889,7 @@
       "published_at": "2026-08-12T20:10:40.000Z",
       "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
       "tags": [
+        "AI",
         "Social",
         "Amazon",
         "Twitch"
@@ -904,6 +905,7 @@
       "description": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
       "tags": [
         "Apps",
+        "FTC",
         "grubhub"
       ],
       "cover_image": null,
@@ -930,13 +932,13 @@
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "published_at": "2026-08-12T17:51:00.000Z",
-      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "tags": [
         "AI",
         "andrew ng",
         "Artificial Intelligence (AI)",
-        "China",
-        "Fei-Fei Li"
+        "Fei-Fei Li",
+        "Geoffrey Hinton"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1005,22 +1007,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-      "published_at": "2026-08-12T16:18:23.000Z",
-      "description": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
-      "tags": [
-        "Climate",
-        "Fundraising",
-        "Batteries",
-        "energy storage",
-        "Form Energy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1447,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 876,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1477,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "achrefelouafi"
     },
     {
@@ -1522,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 847,
       "user": "sohaibdevv"
     },
     {
@@ -1537,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 744,
       "user": "SaladDay"
     },
     {
@@ -1552,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "shadcn-ui"
     },
     {
@@ -1567,14 +1553,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 539,
       "user": "milind-soni"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1937,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1785,
+      "stars": 1906,
       "user": "guillaumemeyer"
     },
     {
@@ -1952,7 +1938,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1629,
       "user": "ShawnPana"
     },
     {
@@ -1967,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1599,
+      "stars": 1602,
       "user": "oil-oil"
     },
     {
@@ -1982,7 +1968,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "NikoDemon80"
     },
     {
@@ -2001,22 +1987,6 @@
       "user": "Larryvrh"
     },
     {
-      "title": "Receiving an pydantic error within streamlit",
-      "url": "https://stackoverflow.com/questions/79993560/receiving-an-pydantic-error-within-streamlit",
-      "published_at": "2026-08-12T16:09:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "pydantic",
-        "streamlit",
-        "validationerror",
-        "groq"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "StayLoProfile"
-    },
-    {
       "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
       "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
       "published_at": "2026-08-12T16:24:12.000Z",
@@ -2031,10 +2001,26 @@
       "user": "Kes Perron"
     },
     {
+      "title": "Receiving an pydantic error within streamlit",
+      "url": "https://stackoverflow.com/questions/79993560/receiving-an-pydantic-error-within-streamlit",
+      "published_at": "2026-08-12T16:09:38.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "pydantic",
+        "streamlit",
+        "validationerror",
+        "groq"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "StayLoProfile"
+    },
+    {
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-sphinx",
@@ -2049,7 +2035,7 @@
       "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
       "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
       "published_at": "2026-08-12T14:40:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "authentication",
@@ -2064,7 +2050,7 @@
       "title": "Python NLP usage of .lower() function",
       "url": "https://stackoverflow.com/questions/79993518/python-nlp-usage-of-lower-function",
       "published_at": "2026-08-12T13:35:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python",
         "nlp",
@@ -2354,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "surya-koritala"
     },
     {
@@ -2375,7 +2361,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-sphinx",
@@ -2515,14 +2501,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1785,
+      "stars": 1906,
       "user": "guillaumemeyer"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -3344,7 +3330,7 @@
       "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
       "url": "https://stackoverflow.com/questions/79993537/how-to-extend-fastapis-oauth2passwordbearer-logout-feature",
       "published_at": "2026-08-12T14:40:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "authentication",
@@ -3542,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 876,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3572,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "achrefelouafi"
     },
     {
@@ -3602,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1785,
+      "stars": 1906,
       "user": "guillaumemeyer"
     },
     {
@@ -3617,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1626,
+      "stars": 1629,
       "user": "ShawnPana"
     },
     {
@@ -3632,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1599,
+      "stars": 1602,
       "user": "oil-oil"
     },
     {
@@ -3647,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 473,
       "user": "NikoDemon80"
     },
     {
@@ -3692,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 164,
       "user": "surya-koritala"
     },
     {
@@ -3707,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "jundizhou"
     },
     {
@@ -3767,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 847,
       "user": "sohaibdevv"
     },
     {
@@ -3782,7 +3768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 741,
+      "stars": 744,
       "user": "SaladDay"
     },
     {
@@ -3797,7 +3783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 571,
       "user": "shadcn-ui"
     },
     {
@@ -3812,7 +3798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 539,
       "user": "milind-soni"
     },
     {
@@ -3842,7 +3828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "lexmount"
     },
     {
