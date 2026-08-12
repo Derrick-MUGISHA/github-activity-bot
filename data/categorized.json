@@ -16,51 +16,6 @@
       "user": "xbill"
     },
     {
-      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
-      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
-      "published_at": "2026-08-09T22:14:30Z",
-      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
-      "tags": [
-        "tpu",
-        "vllm",
-        "llm",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Unit Testing in BlocSignal: The Practical Handbook",
-      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
-      "published_at": "2026-08-09T15:31:53Z",
-      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
-      "tags": [
-        "flutter",
-        "dart",
-        "testing",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
-      "published_at": "2026-08-09T22:51:30Z",
-      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -74,21 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
-      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
-      "published_at": "2026-08-08T19:37:57Z",
-      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Build a Dart ADK Agent and MCP Server",
@@ -106,6 +46,36 @@
       "user": "xbill"
     },
     {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
+      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
+      "published_at": "2026-08-09T22:14:30Z",
+      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
+      "tags": [
+        "tpu",
+        "vllm",
+        "llm",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -119,21 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
-      "published_at": "2026-08-07T14:54:45Z",
-      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "tags": [
-        "angular",
-        "firebase",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
@@ -166,6 +121,36 @@
       "user": "Anna Villarreal"
     },
     {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
       "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
       "published_at": "2026-08-08T10:09:17Z",
@@ -179,20 +164,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
       "source": "Dev.to",
       "user": "Giorgio Galassi"
-    },
-    {
-      "title": "The AI That Broke Out of Its Box, and What Happens Next",
-      "url": "https://dev.to/auth0/the-ai-that-broke-out-of-its-box-and-what-happens-next-m3d",
-      "published_at": "2026-08-06T16:29:21Z",
-      "description": "Ever read a security disclosure and hit paragraph two going \"wait, WHAT?\" That's this one.  On July...",
-      "tags": [
-        "ai",
-        "security",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6pprvwn8qj6159yjw8a.png",
-      "source": "Dev.to",
-      "user": "layla "
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -686,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 911,
       "user": "eternityspring"
     },
     {
@@ -705,21 +676,6 @@
       "user": "sv-number"
     },
     {
-      "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "published_at": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 2406,
-      "user": "KKKKhazix"
-    },
-    {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
       "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
       "published_at": "2026-08-07T01:18:37Z",
@@ -731,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 416,
       "user": "NikoDemon80"
     },
     {
@@ -746,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "MengMengCode"
     },
     {
@@ -765,21 +721,6 @@
       "user": "surya-koritala"
     },
     {
-      "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
-      "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
-      "published_at": "2026-08-05T12:44:16Z",
-      "description": "WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "WhiteDNS"
-    },
-    {
       "title": "jundizhou/easy-stock - A 股行情分析与AI智能投研智能体--基于大模型",
       "url": "https://github.com/jundizhou/easy-stock",
       "published_at": "2026-08-07T16:25:36Z",
@@ -795,6 +736,36 @@
       "user": "jundizhou"
     },
     {
+      "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "url": "https://github.com/forever94yu/icloud-prime",
+      "published_at": "2026-08-08T14:35:00Z",
+      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "forever94yu"
+    },
+    {
+      "title": "Lynricsy/OneSSH - 面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
+      "url": "https://github.com/Lynricsy/OneSSH",
+      "published_at": "2026-08-08T04:33:17Z",
+      "description": "面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "Lynricsy"
+    },
+    {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
       "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "published_at": "2026-08-10T09:06:43Z",
@@ -806,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1428,
       "user": "SMNETSTUDIO"
     },
     {
@@ -836,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 417,
       "user": "shadcn-ui"
     },
     {
@@ -853,6 +824,21 @@
       "source": "GitHub",
       "stars": 112,
       "user": "JohnKinyanjui"
+    },
+    {
+      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "published_at": "2026-08-10T13:20:30Z",
+      "description": "Best browser for AI agents, built in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "lexmount"
     },
     {
       "title": "My Anti AI computer",
@@ -893,6 +879,18 @@
       "user": "gmem"
     },
     {
+      "title": "Text Watermarking for Non-Academics",
+      "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+      "published_at": "2026-08-11T19:29:31.616-05:00",
+      "description": "https://blog.gaborkoos.com/posts/2026-08-12-What-Does-a-Text-Watermark-Actually-Prove/",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gkoos"
+    },
+    {
       "title": "Maintaining a SOCKS connection over ssh in Python",
       "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
       "published_at": "2026-08-11T10:05:20.000Z",
@@ -909,20 +907,6 @@
       "user": "notanothercliche"
     },
     {
-      "title": "How can I improve a basic FAISS RAG pipeline",
-      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
-      "published_at": "2026-08-11T05:00:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "rag"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kamien Rider"
-    },
-    {
       "title": "pandas running notnull() sum() versus count() against the dataframe",
       "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
       "published_at": "2026-08-11T01:51:01.000Z",
@@ -935,6 +919,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "punsoca"
+    },
+    {
+      "title": "How can I improve a basic FAISS RAG pipeline",
+      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
+      "published_at": "2026-08-11T05:00:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "advice",
+        "python",
+        "rag"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kamien Rider"
     },
     {
       "title": "How to convert constraints.txt to uv constraint-dependencies section",
@@ -1197,36 +1195,6 @@
   ],
   "JavaScript": [
     {
-      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
-      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
-      "published_at": "2026-08-08T19:37:57Z",
-      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano [GDE]",
-      "url": "https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl",
-      "published_at": "2026-08-07T14:54:45Z",
-      "description": "This tutorial demonstrates how to build a hybrid image analysis application using Angular, Firebase...",
-      "tags": [
-        "angular",
-        "firebase",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyehxbwot4tcsoo0snt9j.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
       "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
       "published_at": "2026-07-29T18:18:58Z",
@@ -1270,6 +1238,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png",
       "source": "Dev.to",
       "user": "Giorgio Galassi"
+    },
+    {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
@@ -1478,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 911,
       "user": "eternityspring"
     },
     {
@@ -1508,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 332,
       "user": "achrefelouafi"
     },
     {
@@ -1523,23 +1506,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "ruudkoeyvoets"
     },
     {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "title": "pingmike2/freebuff2api-wokers - GitHub Repository",
+      "url": "https://github.com/pingmike2/freebuff2api-wokers",
+      "published_at": "2026-08-06T14:25:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 276,
-      "user": "nkxx188"
+      "stars": 238,
+      "user": "pingmike2"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1553,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1428,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1583,7 +1566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 535,
       "user": "SaladDay"
     },
     {
@@ -1613,7 +1596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 417,
       "user": "shadcn-ui"
     },
     {
@@ -1628,6 +1611,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
+      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
+      "published_at": "2026-08-11T15:31:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bill42"
     },
     {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
@@ -1646,19 +1642,6 @@
       "user": "Yash-Nohara"
     },
     {
-      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
-      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
-      "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bill42"
-    },
-    {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
@@ -1675,7 +1658,7 @@
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -1718,7 +1701,7 @@
       "title": "How can I prevent JavaScript from running before the DOM is fully loaded?",
       "url": "https://stackoverflow.com/questions/79992162/how-can-i-prevent-javascript-from-running-before-the-dom-is-fully-loaded",
       "published_at": "2026-08-11T08:00:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "javascript",
@@ -1972,21 +1955,6 @@
       "user": "arathore"
     },
     {
-      "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "published_at": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 2406,
-      "user": "KKKKhazix"
-    },
-    {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
       "published_at": "2026-08-07T22:28:53Z",
@@ -1998,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1502,
       "user": "ShawnPana"
     },
     {
@@ -2013,23 +1981,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1483,
       "user": "oil-oil"
-    },
-    {
-      "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
-      "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
-      "published_at": "2026-08-05T15:30:15Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
-      "source": "GitHub",
-      "stars": 617,
-      "user": "T8mars"
     },
     {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
@@ -2043,8 +1996,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 416,
       "user": "NikoDemon80"
+    },
+    {
+      "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
+      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "published_at": "2026-08-06T06:43:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
+      "source": "GitHub",
+      "stars": 392,
+      "user": "Larryvrh"
+    },
+    {
+      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "published_at": "2026-08-08T21:17:53Z",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "JayJokerr"
     },
     {
       "title": "Maintaining a SOCKS connection over ssh in Python",
@@ -2063,10 +2046,24 @@
       "user": "notanothercliche"
     },
     {
+      "title": "pandas running notnull() sum() versus count() against the dataframe",
+      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
+      "published_at": "2026-08-11T01:51:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "pandas",
+        "notnull"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "punsoca"
+    },
+    {
       "title": "Is there a better way to filter text?",
       "url": "https://stackoverflow.com/questions/79992171/is-there-a-better-way-to-filter-text",
       "published_at": "2026-08-11T08:30:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "substring",
@@ -2115,20 +2112,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kamien Rider"
-    },
-    {
-      "title": "pandas running notnull() sum() versus count() against the dataframe",
-      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
-      "published_at": "2026-08-11T01:51:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "pandas",
-        "notnull"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "punsoca"
     },
     {
       "title": "How to divide a Python script in a shorter script and a module?",
@@ -2629,21 +2612,6 @@
       "user": "Gamya "
     },
     {
-      "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
-      "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
-      "published_at": "2026-08-05T12:44:16Z",
-      "description": "WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "WhiteDNS"
-    },
-    {
       "title": "Appllama/top-welcome-screens - How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
       "url": "https://github.com/Appllama/top-welcome-screens",
       "published_at": "2026-08-08T12:44:52Z",
@@ -2675,7 +2643,7 @@
       "title": "How should I handle dependent API requests and stale state in React?",
       "url": "https://stackoverflow.com/questions/79992258/how-should-i-handle-dependent-api-requests-and-stale-state-in-react",
       "published_at": "2026-08-11T14:23:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -2765,21 +2733,6 @@
       "user": "xbill"
     },
     {
-      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
-      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
-      "published_at": "2026-08-09T22:14:30Z",
-      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
-      "tags": [
-        "tpu",
-        "vllm",
-        "llm",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -2806,6 +2759,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
+      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
+      "published_at": "2026-08-09T22:14:30Z",
+      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
+      "tags": [
+        "tpu",
+        "vllm",
+        "llm",
+        "gcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2959,6 +2927,21 @@
       "user": "xbill"
     },
     {
+      "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "url": "https://github.com/forever94yu/icloud-prime",
+      "published_at": "2026-08-08T14:35:00Z",
+      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
+      "source": "GitHub",
+      "stars": 71,
+      "user": "forever94yu"
+    },
+    {
       "title": "EurekaZang/CloudFolder - GitHub Repository",
       "url": "https://github.com/EurekaZang/CloudFolder",
       "published_at": "2026-08-09T21:30:32Z",
@@ -3050,20 +3033,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "The AI That Broke Out of Its Box, and What Happens Next",
-      "url": "https://dev.to/auth0/the-ai-that-broke-out-of-its-box-and-what-happens-next-m3d",
-      "published_at": "2026-08-06T16:29:21Z",
-      "description": "Ever read a security disclosure and hit paragraph two going \"wait, WHAT?\" That's this one.  On July...",
-      "tags": [
-        "ai",
-        "security",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6pprvwn8qj6159yjw8a.png",
-      "source": "Dev.to",
-      "user": "layla "
     },
     {
       "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
@@ -3246,21 +3215,6 @@
   ],
   "Tools": [
     {
-      "title": "Unit Testing in BlocSignal: The Practical Handbook",
-      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
-      "published_at": "2026-08-09T15:31:53Z",
-      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
-      "tags": [
-        "flutter",
-        "dart",
-        "testing",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
       "published_at": "2026-08-05T14:56:26Z",
@@ -3289,6 +3243,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
@@ -3413,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 867,
+      "stars": 911,
       "user": "eternityspring"
     },
     {
@@ -3443,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 332,
       "user": "achrefelouafi"
     },
     {
@@ -3458,38 +3427,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "ruudkoeyvoets"
     },
     {
-      "title": "nkxx188/ComfyUI-MiniMaxH3-Easy - The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
-      "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
-      "published_at": "2026-08-05T11:45:52Z",
-      "description": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control.",
+      "title": "pingmike2/freebuff2api-wokers - GitHub Repository",
+      "url": "https://github.com/pingmike2/freebuff2api-wokers",
+      "published_at": "2026-08-06T14:25:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231846446?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/166621491?v=4",
       "source": "GitHub",
-      "stars": 276,
-      "user": "nkxx188"
-    },
-    {
-      "title": "KKKKhazix/human-writing - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "url": "https://github.com/KKKKhazix/human-writing",
-      "published_at": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
-      "source": "GitHub",
-      "stars": 2406,
-      "user": "KKKKhazix"
+      "stars": 238,
+      "user": "pingmike2"
     },
     {
       "title": "ShawnPana/phone-harness - let your agent control your phone",
@@ -3503,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1495,
+      "stars": 1502,
       "user": "ShawnPana"
     },
     {
@@ -3518,23 +3472,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1480,
+      "stars": 1483,
       "user": "oil-oil"
-    },
-    {
-      "title": "T8mars/comfyui-minimax-h3-audio-T8 - GitHub Repository",
-      "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
-      "published_at": "2026-08-05T15:30:15Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/96167788?v=4",
-      "source": "GitHub",
-      "stars": 617,
-      "user": "T8mars"
     },
     {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
@@ -3548,8 +3487,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 416,
       "user": "NikoDemon80"
+    },
+    {
+      "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
+      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "published_at": "2026-08-06T06:43:28Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
+      "source": "GitHub",
+      "stars": 392,
+      "user": "Larryvrh"
+    },
+    {
+      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "published_at": "2026-08-08T21:17:53Z",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
+      "source": "GitHub",
+      "stars": 254,
+      "user": "JayJokerr"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3563,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 175,
       "user": "MengMengCode"
     },
     {
@@ -3582,21 +3551,6 @@
       "user": "surya-koritala"
     },
     {
-      "title": "WhiteDNS/WhiteVPN-Desktop - WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
-      "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop",
-      "published_at": "2026-08-05T12:44:16Z",
-      "description": "WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294980615?v=4",
-      "source": "GitHub",
-      "stars": 133,
-      "user": "WhiteDNS"
-    },
-    {
       "title": "jundizhou/easy-stock - A 股行情分析与AI智能投研智能体--基于大模型",
       "url": "https://github.com/jundizhou/easy-stock",
       "published_at": "2026-08-07T16:25:36Z",
@@ -3612,19 +3566,34 @@
       "user": "jundizhou"
     },
     {
-      "title": "XiaoRavpa/IP-STRESSER - Local-only IP stresser made by https://ipstresser.pro in Go, This IP booter was made for safely stress-testing your own servers. Supports UDP, TCP & Layer-7 (GET/POST) methods. ",
-      "url": "https://github.com/XiaoRavpa/IP-STRESSER",
-      "published_at": "2026-08-05T21:08:39Z",
-      "description": "Local-only IP stresser made by https://ipstresser.pro in Go, This IP booter was made for safely stress-testing your own servers. Supports UDP, TCP & Layer-7 (GET/POST) methods. ",
+      "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "url": "https://github.com/forever94yu/icloud-prime",
+      "published_at": "2026-08-08T14:35:00Z",
+      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/200734773?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 94,
-      "user": "XiaoRavpa"
+      "stars": 71,
+      "user": "forever94yu"
+    },
+    {
+      "title": "Lynricsy/OneSSH - 面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
+      "url": "https://github.com/Lynricsy/OneSSH",
+      "published_at": "2026-08-08T04:33:17Z",
+      "description": "面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "Lynricsy"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -3638,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1415,
+      "stars": 1428,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3668,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 535,
       "user": "SaladDay"
     },
     {
@@ -3698,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 417,
       "user": "shadcn-ui"
     },
     {
@@ -3713,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 672,
       "user": "Flaminis"
     },
     {
@@ -3762,19 +3731,19 @@
       "user": "tllovesxs"
     },
     {
-      "title": "gpwn-org/gpwn-toolkit - A collection of libraries and a TUI to test fiber GPON deployments.",
-      "url": "https://github.com/gpwn-org/gpwn-toolkit",
-      "published_at": "2026-08-08T19:34:23Z",
-      "description": "A collection of libraries and a TUI to test fiber GPON deployments.",
+      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "published_at": "2026-08-10T13:20:30Z",
+      "description": "Best browser for AI agents, built in Rust.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314757867?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 93,
-      "user": "gpwn-org"
+      "stars": 97,
+      "user": "lexmount"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
