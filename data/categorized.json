@@ -196,6 +196,96 @@
       "user": "Tanaike"
     },
     {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "published_at": "2026-08-01T16:03:02Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "published_at": "2026-08-08T10:09:17Z",
+      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
+      "tags": [
+        "angular",
+        "typescript",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
+    },
+    {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+      "published_at": "2026-07-26T19:27:29Z",
+      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "python",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building AI Agents with the GO Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55",
+      "published_at": "2026-07-26T17:42:32Z",
+      "description": "Summary of 2026 Updates (v2 — Go ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "go",
+        "adk",
+        "a2a",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fui3etm0mm66xuqgvz8qs.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
       "url": "https://dev.to/gde/one-tpu-chip-eight-agents-serving-small-agent-workloads-with-raw-jax-2cc4",
       "published_at": "2026-07-29T22:02:22Z",
@@ -373,124 +463,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
       "source": "Dev.to",
       "user": "Jitendra Gupta"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
-      "title": "Kiro Crew: The Next Frontier",
-      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
-      "published_at": "2026-08-04T20:26:01Z",
-      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
-      "source": "Dev.to",
-      "user": "Alvaro Llamojha"
-    },
-    {
-      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
-      "published_at": "2026-08-02T00:00:06Z",
-      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbwezdzfb2uqm5jryl9qq.png",
-      "source": "Dev.to",
-      "user": "John"
-    },
-    {
-      "title": "The memory layer that never calls an LLM: what that buys, and what it costs",
-      "url": "https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch",
-      "published_at": "2026-07-30T20:43:23Z",
-      "description": "Part 4 of **The Answerability Problem, and the one that isn't about abstention. Parts 1–3 argued that...",
-      "tags": [
-        "ai",
-        "rag",
-        "opensource",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi24f1uyat6h9bjaqn3yx.png",
-      "source": "Dev.to",
-      "user": "Giulio D'Erme"
-    },
-    {
-      "title": "Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP",
-      "url": "https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc",
-      "published_at": "2026-07-23T23:57:31Z",
-      "description": "How nb2lite-skill-codex packages Google's gemini-3.1-flash-lite-image as a Codex skill + MCP server — with Codex-native install paths, stateful edits, and a dogfooded cover.",
-      "tags": [
-        "ai",
-        "codex",
-        "gemini",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fnb2lite-skill-codex%2Fmain%2Fdevto-cover.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
-    },
-    {
-      "title": "Your RAG copilot can't count — stop letting it try",
-      "url": "https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3",
-      "published_at": "2026-07-31T11:00:29Z",
-      "description": "Your RAG copilot can't count — stop letting it try   A user asked our document-search...",
-      "tags": [
-        "rag",
-        "ai",
-        "llm",
-        "bedrock"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1mra9jqtap83daxu43x.png",
-      "source": "Dev.to",
-      "user": "Rodrigo Diego"
-    },
-    {
-      "title": "Vision-Language-Action Models: When LLMs Learn to Use Their Hands",
-      "url": "https://dev.to/codebyankita/vision-language-action-models-when-llms-learn-to-use-their-hands-38am",
-      "published_at": "2026-07-25T07:43:00Z",
-      "description": "A humanoid hand closing on a wine glass needs a new action estimate every 8 to 20 milliseconds, or it...",
-      "tags": [
-        "ai",
-        "robotics",
-        "machinelearning",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fafs54yy89y1kios9agok.png",
-      "source": "Dev.to",
-      "user": "Ankita Virani"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -672,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1158,
       "user": "eternityspring"
     },
     {
@@ -687,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "sv-number"
     },
     {
@@ -702,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1785,
       "user": "guillaumemeyer"
     },
     {
@@ -717,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 471,
       "user": "NikoDemon80"
     },
     {
@@ -732,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "MengMengCode"
     },
     {
@@ -762,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "jundizhou"
     },
     {
@@ -852,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "lexmount"
     },
     {
@@ -910,6 +882,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "notanothercliche"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published_at": "2026-08-12T20:10:40.000Z",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "tags": [
+        "Social",
+        "Amazon",
+        "Twitch"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
@@ -1035,21 +1021,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "published_at": "2026-08-12T16:04:27.000Z",
-      "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "Lovable"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1255,6 +1226,66 @@
       "user": "Giorgio Galassi"
     },
     {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "published_at": "2026-08-08T10:09:17Z",
+      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
+      "tags": [
+        "angular",
+        "typescript",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+      "published_at": "2026-07-28T10:50:54Z",
+      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "tags": [
+        "react",
+        "webdev",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
+      "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
+      "published_at": "2026-08-06T17:47:27Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8g2ou80or7pl9r07qktj.png",
+      "source": "Dev.to",
+      "user": "Mike"
+    },
+    {
       "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
       "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
       "published_at": "2026-08-07T11:30:53Z",
@@ -1268,36 +1299,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
       "source": "Dev.to",
       "user": "Muhammad Ammar"
-    },
-    {
-      "title": "[Dev Log][Node.js] Feedly Classic is gone, so I built my own FeedFlow (Part 1)",
-      "url": "https://dev.to/gde/dev-lognodejs-feedly-classic-is-gone-so-i-built-my-own-feedflow-part-1-55h4",
-      "published_at": "2026-07-28T05:12:29Z",
-      "description": "Introduction:   Since Feedly's redesign, I haven't been able to get used to the interface....",
-      "tags": [
-        "javascript",
-        "node",
-        "sideprojects",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F91tbd75jv54q8o107r1u.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1431,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1158,
       "user": "eternityspring"
     },
     {
@@ -1446,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 867,
       "user": "LaoFeng-mouse"
     },
     {
@@ -1461,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "sv-number"
     },
     {
@@ -1536,7 +1537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 741,
       "user": "SaladDay"
     },
     {
@@ -1566,7 +1567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 533,
       "user": "milind-soni"
     },
     {
@@ -1775,6 +1776,21 @@
       "user": "xbill"
     },
     {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+      "published_at": "2026-07-26T19:27:29Z",
+      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "python",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "TPU Deployments with Gemma 31B, v6e-8, and Antigravity CLI",
       "url": "https://dev.to/gde/tpu-deployments-with-gemma-31b-v6e-8-and-antigravity-cli-3e4n",
       "published_at": "2026-07-15T13:04:39Z",
@@ -1788,21 +1804,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc2031op6ffgpw859ed8p.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "How I Built a Retro Python Racer from Scratch (Screenshots Included)",
-      "url": "https://dev.to/daniel_possiblekwabi_b57/how-i-built-a-retro-python-racer-from-scratch-screenshots-included-43h5",
-      "published_at": "2026-08-06T16:44:10Z",
-      "description": "Lovely people, it's been a minute. I hope everyone has been good, alive, and well.  From my...",
-      "tags": [
-        "python",
-        "programming",
-        "gamedev",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ib8fc1xjfxlnnmbykm0.JPG",
-      "source": "Dev.to",
-      "user": "Daniel Possible Kwabi"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1936,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1785,
       "user": "guillaumemeyer"
     },
     {
@@ -1951,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1626,
       "user": "ShawnPana"
     },
     {
@@ -1966,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1599,
       "user": "oil-oil"
     },
     {
@@ -1981,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 471,
       "user": "NikoDemon80"
     },
     {
@@ -2476,34 +2477,19 @@
       "user": "Jess Lee"
     },
     {
-      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
-      "url": "https://dev.to/parsajiravand/your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that-3g7c",
-      "published_at": "2026-08-04T08:44:58Z",
-      "description": "When you open a long page — a news feed, an admin table, a documentation article — the browser lays...",
+      "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
+      "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
+      "published_at": "2026-08-06T17:47:27Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing           What I...",
       "tags": [
-        "css",
+        "devchallenge",
+        "frontendchallenge",
         "webdev",
-        "performance",
-        "frontend"
+        "javascript"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpntjz7ywpxbqr667ydk.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8g2ou80or7pl9r07qktj.png",
       "source": "Dev.to",
-      "user": "Parsa Jiravand"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
+      "user": "Mike"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2529,7 +2515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1785,
       "user": "guillaumemeyer"
     },
     {
@@ -2650,6 +2636,51 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "From Raw Signals to BlocSignal: Taming Reactivity for Enterprise Scale",
+      "url": "https://dev.to/gde/from-raw-signals-to-blocsignal-taming-reactivity-for-enterprise-scale-2cmi",
+      "published_at": "2026-08-08T19:37:57Z",
+      "description": "Learn how BlocSignal encapsulates raw signals inside BLoC & Cubit containers to bring dispatch rigor, event hierarchies, and 0ms synchronous speed to Flutter and Jaspr apps.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdzc8j8p62srfinyn8rp.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Exploring Form Management Patterns in Flutter with BlocSignal",
+      "url": "https://dev.to/gde/exploring-form-management-patterns-in-flutter-with-blocsignal-1c8j",
+      "published_at": "2026-08-04T23:10:31Z",
+      "description": "Master form handling in Flutter with BlocSignal. Learn how to separate Primary vs. Derived state using computed signals, compare 3 clean form architectural patterns, and pick the right one for your app.",
+      "tags": [
+        "flutter",
+        "dart",
+        "bloc",
+        "signals"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fye2y8igcp2iyegsrj5jx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "Swift Protocols — The Art of Making Promises 🤝",
       "url": "https://dev.to/gamya_m/swift-protocols-the-art-of-making-promises-59mb",
@@ -2815,6 +2846,21 @@
         "gcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
+      "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
+      "published_at": "2026-07-26T19:27:29Z",
+      "description": "Summary of 2026 Updates (v2 — Python ADK 2.0 Migration)   This updated edition incorporates...",
+      "tags": [
+        "python",
+        "ai",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F21p3xfh6nrufmi27sovn.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3374,6 +3420,36 @@
       "user": "xbill"
     },
     {
+      "title": "Unit Testing in BlocSignal: The Practical Handbook",
+      "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
+      "published_at": "2026-08-09T15:31:53Z",
+      "description": "A practical handbook for unit testing Flutter and Dart state machines with BlocSignal and bloc_signals_test. Learn why testing is faster and easier than classic BLoC, plus how to leverage AI agent testing skills.",
+      "tags": [
+        "flutter",
+        "dart",
+        "testing",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmeodykql2583k7v5k0dv.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
+      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
+      "published_at": "2026-08-08T10:09:17Z",
+      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
+      "tags": [
+        "angular",
+        "typescript",
+        "ai",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
+    },
+    {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
       "published_at": "2026-07-28T18:58:24Z",
@@ -3402,36 +3478,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Should I quit IT or just live through the burnout?",
-      "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-      "published_at": "2026-07-09T14:44:40Z",
-      "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
-      "tags": [
-        "mentalhealth",
-        "career",
-        "productivity",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbghpotfwvru3j6zi2a4w.png",
-      "source": "Dev.to",
-      "user": "Klaudia Grzondziel"
-    },
-    {
-      "title": "I locked my AI's design output with JSON. It worked perfectly — and everything looked like a spreadsheet",
-      "url": "https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd",
-      "published_at": "2026-08-04T02:36:26Z",
-      "description": "Mass-produce web tools with an AI agent and you will hit this wall: the design drifts on every...",
-      "tags": [
-        "ai",
-        "designsystems",
-        "frontend",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnk64u7fg0bz0vvdqpbs8.png",
-      "source": "Dev.to",
-      "user": "Mxhlix"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3481,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
       "source": "GitHub",
-      "stars": 1157,
+      "stars": 1158,
       "user": "eternityspring"
     },
     {
@@ -3496,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
       "source": "GitHub",
-      "stars": 858,
+      "stars": 867,
       "user": "LaoFeng-mouse"
     },
     {
@@ -3511,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "sv-number"
     },
     {
@@ -3556,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1785,
       "user": "guillaumemeyer"
     },
     {
@@ -3571,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1625,
+      "stars": 1626,
       "user": "ShawnPana"
     },
     {
@@ -3586,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1599,
       "user": "oil-oil"
     },
     {
@@ -3601,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 471,
       "user": "NikoDemon80"
     },
     {
@@ -3631,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "MengMengCode"
     },
     {
@@ -3661,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 125,
       "user": "jundizhou"
     },
     {
@@ -3736,7 +3782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 741,
       "user": "SaladDay"
     },
     {
@@ -3766,7 +3812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 533,
       "user": "milind-soni"
     },
     {
@@ -3781,7 +3827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 883,
       "user": "Flaminis"
     },
     {
@@ -3796,7 +3842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "lexmount"
     },
     {
