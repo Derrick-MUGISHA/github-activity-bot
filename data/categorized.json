@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 559,
       "user": "sv-number"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4788,
+      "stars": 4938,
       "user": "guillaumemeyer"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "NikoDemon80"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "MengMengCode"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 36255,
+      "stars": 37276,
       "user": "deepseek-ai"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1680,
+      "stars": 1682,
       "user": "SMNETSTUDIO"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "lexmount"
     },
     {
@@ -813,18 +813,6 @@
       "user": "JohnKinyanjui"
     },
     {
-      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "published_at": "2026-08-12T10:01:27.580-05:00",
-      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
-    },
-    {
       "title": "AI is removing the middle class of software engineering",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "published_at": "2026-08-13T09:03:13.761-05:00",
@@ -836,6 +824,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "facundoolano"
+    },
+    {
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published_at": "2026-08-12T10:01:27.580-05:00",
+      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
@@ -850,6 +850,53 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
+    },
+    {
+      "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "published_at": "2026-08-13T19:22:40.000Z",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "ChatGPT",
+        "Claude",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "published_at": "2026-08-13T19:19:49.000Z",
+      "description": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "IBM",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "published_at": "2026-08-13T18:28:14.000Z",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "tags": [
+        "AI",
+        "Security",
+        "AI agents",
+        "alignment",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
@@ -908,22 +955,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "published_at": "2026-08-13T14:34:43.000Z",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Apple",
-        "In Brief",
-        "siri"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
@@ -1300,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 559,
       "user": "sv-number"
     },
     {
@@ -1315,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "RadishXN"
     },
     {
@@ -1330,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "panel-zeus"
     },
     {
@@ -1345,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "aashaexo"
     },
     {
@@ -1375,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 36255,
+      "stars": 37276,
       "user": "deepseek-ai"
     },
     {
@@ -1390,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1680,
+      "stars": 1682,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1420,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 852,
       "user": "SaladDay"
     },
     {
@@ -1435,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 804,
       "user": "milind-soni"
     },
     {
@@ -1485,7 +1516,7 @@
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -1825,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4788,
+      "stars": 4938,
       "user": "guillaumemeyer"
     },
     {
@@ -1840,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1708,
       "user": "ShawnPana"
     },
     {
@@ -1855,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "oil-oil"
     },
     {
@@ -1870,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 882,
       "user": "Leutenegger"
     },
     {
@@ -1885,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "NikoDemon80"
     },
     {
@@ -1901,22 +1932,24 @@
       "user": "seb"
     },
     {
-      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
-      "url": "https://stackoverflow.com/questions/79993901/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
-      "published_at": "2026-08-13T17:50:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Apple change password pyton",
+      "url": "https://stackoverflow.com/questions/79993914/apple-change-password-pyton",
+      "published_at": "2026-08-13T18:58:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "python"
+        "python",
+        "python-3.x",
+        "icloud"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "IT 38 Deepanshu Tomar"
+      "user": "LeadShark"
     },
     {
       "title": "How can I make this Tkinter application work? I need to stop the threading when I push the stop button of the PyScripter IDE?",
       "url": "https://stackoverflow.com/questions/79993886/how-can-i-make-this-tkinter-application-work-i-need-to-stop-the-threading-when",
       "published_at": "2026-08-13T17:15:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "tkinter"
@@ -1981,18 +2014,20 @@
       "user": "Nathanael Tom Aterado"
     },
     {
-      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
-      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
-      "published_at": "2026-08-12T22:23:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Working with huge uint8 array without sufficient memory",
+      "url": "https://stackoverflow.com/questions/79993636/working-with-huge-uint8-array-without-sufficient-memory",
+      "published_at": "2026-08-13T00:15:25.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
-        "pylance",
-        "static-typing"
+        "numpy",
+        "out-of-memory",
+        "dask",
+        "numpy-memmap"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ryan Pierce Williams"
+      "user": "Loro"
     },
     {
       "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
@@ -2009,20 +2044,18 @@
       "user": "Goswin von Brederlow"
     },
     {
-      "title": "Working with huge uint8 array without sufficient memory",
-      "url": "https://stackoverflow.com/questions/79993636/working-with-huge-uint8-array-without-sufficient-memory",
-      "published_at": "2026-08-13T00:15:25.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
+      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
+      "published_at": "2026-08-12T22:23:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "numpy",
-        "out-of-memory",
-        "dask",
-        "numpy-memmap"
+        "pylance",
+        "static-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Loro"
+      "user": "Ryan Pierce Williams"
     },
     {
       "title": "How do I pass the value of a child class to its own child class?",
@@ -2247,19 +2280,6 @@
       "source": "GitHub",
       "stars": 212,
       "user": "surya-koritala"
-    },
-    {
-      "title": "My Homelab Got Hacked - A Postmortem",
-      "url": "https://phunky.cafe/my-homelab-got-hacked/",
-      "published_at": "2026-08-12T10:50:16.028-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "colindean"
     }
   ],
   "WebDev": [
@@ -2405,7 +2425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4788,
+      "stars": 4938,
       "user": "guillaumemeyer"
     },
     {
@@ -2428,7 +2448,7 @@
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "html",
@@ -2829,6 +2849,20 @@
       "user": "forever94yu"
     },
     {
+      "title": "Apple change password pyton",
+      "url": "https://stackoverflow.com/questions/79993914/apple-change-password-pyton",
+      "published_at": "2026-08-13T18:58:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "icloud"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "LeadShark"
+    },
+    {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
       "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
       "published_at": "2026-08-13T06:07:39.000Z",
@@ -3133,33 +3167,20 @@
       "user": "ewenjo"
     },
     {
-      "title": "My Homelab Got Hacked - A Postmortem",
-      "url": "https://phunky.cafe/my-homelab-got-hacked/",
-      "published_at": "2026-08-12T10:50:16.028-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "published_at": "2026-08-13T18:28:14.000Z",
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "tags": [
-        "devops",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "colindean"
-    },
-    {
-      "title": "In a first, US will allow some private firms to carry out cyberattacks",
-      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-      "published_at": "2026-08-13T14:09:05.000Z",
-      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-      "tags": [
-        "Government & Policy",
+        "AI",
         "Security",
-        "cyberattacks",
-        "cybersecurity",
-        "hack back"
+        "AI agents",
+        "alignment",
+        "Anthropic"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -3317,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 559,
       "user": "sv-number"
     },
     {
@@ -3332,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "RadishXN"
     },
     {
@@ -3347,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 246,
       "user": "panel-zeus"
     },
     {
@@ -3362,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 231,
       "user": "aashaexo"
     },
     {
@@ -3392,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4788,
+      "stars": 4938,
       "user": "guillaumemeyer"
     },
     {
@@ -3407,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1708,
       "user": "ShawnPana"
     },
     {
@@ -3422,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1677,
+      "stars": 1679,
       "user": "oil-oil"
     },
     {
@@ -3437,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 882,
       "user": "Leutenegger"
     },
     {
@@ -3452,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "NikoDemon80"
     },
     {
@@ -3467,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 317,
       "user": "MengMengCode"
     },
     {
@@ -3542,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 36255,
+      "stars": 37276,
       "user": "deepseek-ai"
     },
     {
@@ -3557,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1680,
+      "stars": 1682,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3587,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 852,
       "user": "SaladDay"
     },
     {
@@ -3602,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 804,
       "user": "milind-soni"
     },
     {
@@ -3617,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "Flaminis"
     },
     {
@@ -3632,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "lexmount"
     },
     {
@@ -3647,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 236,
       "user": "fzakaria"
     },
     {
@@ -3662,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 151,
       "user": "hsusul"
     },
     {
