@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-13 10:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-13 11:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -46,17 +46,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png" width="200" alt="Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK" />
-      <br/>
-      <b>Bug Smash: restoring dropped Gemini chat config in...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png" width="200" alt="Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run" />
       <br/>
@@ -65,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmf15kr8vg3cy8y4e2b4w.png" width="200" alt="How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search" />
@@ -83,6 +74,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg" width="200" alt="Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor" />
+      <br/>
+      <b>Backend Engineer (Me) Ships a Browser Game With On...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -94,13 +94,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |---|----------|--------|
 | 1 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
 | 2 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
-| 3 | [Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a) | Dev.to |
-| 4 | [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j) | Dev.to |
-| 5 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
-| 6 | [Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) | Dev.to |
-| 7 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
-| 8 | [Welcome Thread - v388](https://dev.to/devteam/welcome-thread-v388-29kd) | Dev.to |
-| 9 | [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd) | Dev.to |
+| 3 | [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j) | Dev.to |
+| 4 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
+| 5 | [Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) | Dev.to |
+| 6 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
+| 7 | [Welcome Thread - v388](https://dev.to/devteam/welcome-thread-v388-29kd) | Dev.to |
+| 8 | [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd) | Dev.to |
+| 9 | [Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a) | Dev.to |
 | 10 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 11 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 | 12 | [Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline](https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Exploring Sentry: Reducing Load Time 🐢](https://dev.to/annavi11arrea1/exploring-sentry-reducing-load-time-52gf) | Dev.to |
 | 20 | [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk) | Dev.to |
 
-<sub>Last fetched: Thu, 13 Aug 2026 10:15:43 CAT</sub>
+<sub>Last fetched: Thu, 13 Aug 2026 11:38:40 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a distributed cache system**
+**1. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Ownership, mutability, data flow direction
 
 </details>
 
-**2. `DataStructures` — Find the longest substring without repeating characters**
+**2. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
-**3. `Python` — What are generators and when would you use them?**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -168,7 +168,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 44 | 23.9% | `███████████░░░░░░░░░` |
 | **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `███████░░░░░░░░░░░░░` |
-| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.2%
-Go              ██████████████████████████ 24.4%
-Java            ███████████████████████ 21.2%
-Python          ████████████████████ 18.6%
-Rust            ██████ 5.8%
+JavaScript      ██████████████████████████████ 28.6%
+Go              █████████████████████████ 24.0%
+Java            ██████████████████████ 21.4%
+Python          ████████████████████ 18.8%
+Rust            █████ 5.2%
 CSharp          █ 0.6%
 Swift           █ 0.6%
 Kotlin          █ 0.6%
@@ -208,10 +208,10 @@ Kotlin          █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 44
-    "Go" : 38
+    "Go" : 37
     "Java" : 33
     "Python" : 29
-    "Rust" : 9
+    "Rust" : 8
     "CSharp" : 1
     "Swift" : 1
     "Kotlin" : 1
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 13 Aug 2026 08:15:43 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 13 Aug 2026 09:38:40 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
