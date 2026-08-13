@@ -16,21 +16,6 @@
       "user": "Caleb Duff"
     },
     {
-      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
-      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
-      "published_at": "2026-08-12T07:15:38Z",
-      "description": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Femgi0fe0vb7f0poez3xq.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -76,21 +61,6 @@
       "user": "Vasyl"
     },
     {
-      "title": "Three Clouds, Three Native Agents",
-      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
-      "published_at": "2026-08-10T15:04:09Z",
-      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -121,6 +91,21 @@
       "user": "Sarvar Nadaf"
     },
     {
+      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
+      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
+      "published_at": "2026-08-12T07:15:38Z",
+      "description": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
+      "tags": [
+        "ai",
+        "gemini",
+        "antigravity",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Femgi0fe0vb7f0poez3xq.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Three Clouds, Three Native Agents",
+      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
+      "published_at": "2026-08-10T15:04:09Z",
+      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 612,
       "user": "sv-number"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3706,
+      "stars": 3816,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "NikoDemon80"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 293,
       "user": "MengMengCode"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 211,
       "user": "surya-koritala"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "jundizhou"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1660,
       "user": "SMNETSTUDIO"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 229,
       "user": "lexmount"
     },
     {
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 612,
       "user": "sv-number"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "RadishXN"
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "aashaexo"
     },
     {
@@ -1471,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "panel-zeus"
     },
     {
@@ -1501,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1660,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1531,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "SaladDay"
     },
     {
@@ -1546,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 722,
       "user": "milind-soni"
     },
     {
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3706,
+      "stars": 3816,
       "user": "guillaumemeyer"
     },
     {
@@ -1946,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1696,
       "user": "ShawnPana"
     },
     {
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1660,
       "user": "oil-oil"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "NikoDemon80"
     },
     {
@@ -2010,7 +2010,7 @@
       "title": "Python dictionary with threads",
       "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
       "published_at": "2026-08-13T10:03:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "multithreading"
@@ -2356,7 +2356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 211,
       "user": "surya-koritala"
     },
     {
@@ -2531,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3706,
+      "stars": 3816,
       "user": "guillaumemeyer"
     },
     {
@@ -2781,21 +2781,6 @@
       "user": "Caleb Duff"
     },
     {
-      "title": "Three Clouds, Three Native Agents",
-      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
-      "published_at": "2026-08-10T15:04:09Z",
-      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -2822,6 +2807,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Three Clouds, Three Native Agents",
+      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
+      "published_at": "2026-08-10T15:04:09Z",
+      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "cloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3497,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 612,
       "user": "sv-number"
     },
     {
@@ -3512,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 285,
       "user": "RadishXN"
     },
     {
@@ -3527,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 228,
       "user": "aashaexo"
     },
     {
@@ -3542,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 222,
       "user": "panel-zeus"
     },
     {
@@ -3572,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3706,
+      "stars": 3816,
       "user": "guillaumemeyer"
     },
     {
@@ -3587,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1692,
+      "stars": 1696,
       "user": "ShawnPana"
     },
     {
@@ -3602,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1660,
       "user": "oil-oil"
     },
     {
@@ -3617,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 503,
       "user": "NikoDemon80"
     },
     {
@@ -3647,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 293,
       "user": "MengMengCode"
     },
     {
@@ -3662,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 211,
       "user": "surya-koritala"
     },
     {
@@ -3677,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 155,
       "user": "jundizhou"
     },
     {
@@ -3722,7 +3722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1659,
+      "stars": 1660,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3752,7 +3752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 834,
+      "stars": 835,
       "user": "SaladDay"
     },
     {
@@ -3767,7 +3767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 722,
       "user": "milind-soni"
     },
     {
@@ -3801,6 +3801,21 @@
       "user": "Flaminis"
     },
     {
+      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "published_at": "2026-08-10T13:20:30Z",
+      "description": "Best browser for AI agents, built in Rust.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
+      "source": "GitHub",
+      "stars": 229,
+      "user": "lexmount"
+    },
+    {
       "title": "fzakaria/nixpkgs-multiverse - Any version of any nixpkgs package, from one flake input",
       "url": "https://github.com/fzakaria/nixpkgs-multiverse",
       "published_at": "2026-08-08T21:56:37Z",
@@ -3816,21 +3831,6 @@
       "user": "fzakaria"
     },
     {
-      "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
-      "url": "https://github.com/lexmount/moli",
-      "published_at": "2026-08-10T13:20:30Z",
-      "description": "Best browser for AI agents, built in Rust.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
-      "source": "GitHub",
-      "stars": 226,
-      "user": "lexmount"
-    },
-    {
       "title": "hsusul/lore - GitHub Repository",
       "url": "https://github.com/hsusul/lore",
       "published_at": "2026-08-10T22:07:29Z",
@@ -3842,7 +3842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 177,
       "user": "hsusul"
     },
     {
