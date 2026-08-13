@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -120,21 +135,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Build a Dart ADK Agent and MCP Server",
-      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
-      "published_at": "2026-08-09T17:03:45Z",
-      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
-      "tags": [
-        "dart",
-        "ai",
-        "mcp",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
       "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo",
       "published_at": "2026-08-11T12:00:00Z",
@@ -208,21 +208,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "published_at": "2026-08-01T16:03:02Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "catbot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
     },
     {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "sv-number"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4938,
+      "stars": 4997,
       "user": "guillaumemeyer"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "NikoDemon80"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "MengMengCode"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 37276,
+      "stars": 37672,
       "user": "deepseek-ai"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "JohnKinyanjui"
     },
     {
@@ -852,7 +837,7 @@
       "user": "Ryan Pierce Williams"
     },
     {
-      "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "published_at": "2026-08-13T19:22:40.000Z",
       "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
@@ -861,7 +846,7 @@
         "Anthropic",
         "ChatGPT",
         "Claude",
-        "OpenAI"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -871,7 +856,7 @@
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "published_at": "2026-08-13T19:19:49.000Z",
-      "description": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
       "tags": [
         "AI",
         "Enterprise",
@@ -1331,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "sv-number"
     },
     {
@@ -1346,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "RadishXN"
     },
     {
@@ -1361,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "panel-zeus"
     },
     {
@@ -1406,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 37276,
+      "stars": 37672,
       "user": "deepseek-ai"
     },
     {
@@ -1425,6 +1410,21 @@
       "user": "SMNETSTUDIO"
     },
     {
+      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "published_at": "2026-08-09T12:15:30Z",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
+      "source": "GitHub",
+      "stars": 860,
+      "user": "SaladDay"
+    },
+    {
       "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
       "url": "https://github.com/sohaibdevv/youtube-music",
       "published_at": "2026-08-11T18:17:18Z",
@@ -1440,21 +1440,6 @@
       "user": "sohaibdevv"
     },
     {
-      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "published_at": "2026-08-09T12:15:30Z",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "SaladDay"
-    },
-    {
       "title": "milind-soni/OpenMausBot - GitHub Repository",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "published_at": "2026-08-11T18:58:55Z",
@@ -1466,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 806,
       "user": "milind-soni"
     },
     {
@@ -1856,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4938,
+      "stars": 4997,
       "user": "guillaumemeyer"
     },
     {
@@ -1871,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1708,
+      "stars": 1709,
       "user": "ShawnPana"
     },
     {
@@ -1886,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1682,
       "user": "oil-oil"
     },
     {
@@ -1901,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 981,
       "user": "Leutenegger"
     },
     {
@@ -1916,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "NikoDemon80"
     },
     {
@@ -1932,13 +1917,12 @@
       "user": "seb"
     },
     {
-      "title": "Apple change password pyton",
-      "url": "https://stackoverflow.com/questions/79993914/apple-change-password-pyton",
+      "title": "API for iCloud password change",
+      "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "python-3.x",
         "icloud"
       ],
       "cover_image": null,
@@ -2425,7 +2409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4938,
+      "stars": 4997,
       "user": "guillaumemeyer"
     },
     {
@@ -2624,6 +2608,21 @@
   ],
   "Cloud": [
     {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
       "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
       "published_at": "2026-08-12T15:45:27Z",
@@ -2650,21 +2649,6 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Dart ADK Agent and MCP Server",
-      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
-      "published_at": "2026-08-09T17:03:45Z",
-      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
-      "tags": [
-        "dart",
-        "ai",
-        "mcp",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2849,13 +2833,12 @@
       "user": "forever94yu"
     },
     {
-      "title": "Apple change password pyton",
-      "url": "https://stackoverflow.com/questions/79993914/apple-change-password-pyton",
+      "title": "API for iCloud password change",
+      "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "python-3.x",
         "icloud"
       ],
       "cover_image": null,
@@ -2928,19 +2911,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pushcx"
-    },
-    {
-      "title": "SQLite: How it works, by Richard Hipp (2024)",
-      "url": "https://www.youtube.com/watch?v=ZSKLA81tBis",
-      "published_at": "2026-08-13T06:56:09.467-05:00",
-      "description": "https://sqlite.org/talks/howitworks-20240624.pdf",
-      "tags": [
-        "databases",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "przemoc"
     },
     {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
@@ -3167,6 +3137,18 @@
       "user": "ewenjo"
     },
     {
+      "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "published_at": "2026-08-13T11:06:04.992-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "radex"
+    },
+    {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "published_at": "2026-08-13T18:28:14.000Z",
@@ -3212,21 +3194,6 @@
         "gemma"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Build a Dart ADK Agent and MCP Server",
-      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
-      "published_at": "2026-08-09T17:03:45Z",
-      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
-      "tags": [
-        "dart",
-        "ai",
-        "mcp",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3338,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "sv-number"
     },
     {
@@ -3353,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "RadishXN"
     },
     {
@@ -3368,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 247,
       "user": "panel-zeus"
     },
     {
@@ -3413,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4938,
+      "stars": 4997,
       "user": "guillaumemeyer"
     },
     {
@@ -3428,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1708,
+      "stars": 1709,
       "user": "ShawnPana"
     },
     {
@@ -3443,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1682,
       "user": "oil-oil"
     },
     {
@@ -3458,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 981,
       "user": "Leutenegger"
     },
     {
@@ -3473,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "NikoDemon80"
     },
     {
@@ -3488,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "MengMengCode"
     },
     {
@@ -3563,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 37276,
+      "stars": 37672,
       "user": "deepseek-ai"
     },
     {
@@ -3582,6 +3549,21 @@
       "user": "SMNETSTUDIO"
     },
     {
+      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "published_at": "2026-08-09T12:15:30Z",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
+      "source": "GitHub",
+      "stars": 860,
+      "user": "SaladDay"
+    },
+    {
       "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
       "url": "https://github.com/sohaibdevv/youtube-music",
       "published_at": "2026-08-11T18:17:18Z",
@@ -3597,21 +3579,6 @@
       "user": "sohaibdevv"
     },
     {
-      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "published_at": "2026-08-09T12:15:30Z",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "SaladDay"
-    },
-    {
       "title": "milind-soni/OpenMausBot - GitHub Repository",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "published_at": "2026-08-11T18:58:55Z",
@@ -3623,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 804,
+      "stars": 806,
       "user": "milind-soni"
     },
     {
@@ -3698,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "JohnKinyanjui"
     },
     {
