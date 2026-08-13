@@ -75,21 +75,6 @@
       "user": "leslysandra"
     },
     {
-      "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
-      "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo",
-      "published_at": "2026-08-11T12:00:00Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.   🔨 #bugsmash,...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "dotnet",
-        "sentry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mec4r6dp4lvouejhzuu.png",
-      "source": "Dev.to",
-      "user": "Vasyl"
-    },
-    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -150,6 +135,21 @@
       "user": "xbill"
     },
     {
+      "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
+      "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo",
+      "published_at": "2026-08-11T12:00:00Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.   🔨 #bugsmash,...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "dotnet",
+        "sentry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mec4r6dp4lvouejhzuu.png",
+      "source": "Dev.to",
+      "user": "Vasyl"
+    },
+    {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
       "published_at": "2026-08-09T22:51:30Z",
@@ -208,6 +208,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
+    },
+    {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "published_at": "2026-08-01T16:03:02Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
     },
     {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
@@ -420,64 +435,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
-      "title": "Kiro Crew: The Next Frontier",
-      "url": "https://dev.to/kirodotdev/kiro-crew-the-next-frontier-52h",
-      "published_at": "2026-08-04T20:26:01Z",
-      "description": "I enter the bridge of my ship, the Kiro Enterprise. I see my crew ready for my command.  The agent...",
-      "tags": [
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbimgehe0j4r930sd299.png",
-      "source": "Dev.to",
-      "user": "Alvaro Llamojha"
-    },
-    {
-      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
-      "published_at": "2026-08-02T00:00:06Z",
-      "description": "In my agent fleet, role moves the metrics more than the model does — and the role mix differs per model, so pooled comparisons measure the dispatcher.",
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbwezdzfb2uqm5jryl9qq.png",
-      "source": "Dev.to",
-      "user": "John"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -657,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 600,
       "user": "sv-number"
     },
     {
@@ -687,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4501,
+      "stars": 4657,
       "user": "guillaumemeyer"
     },
     {
@@ -702,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 509,
       "user": "NikoDemon80"
     },
     {
@@ -717,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "MengMengCode"
     },
     {
@@ -792,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 32133,
+      "stars": 34905,
       "user": "deepseek-ai"
     },
     {
@@ -837,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "lexmount"
     },
     {
@@ -868,6 +825,19 @@
       "user": "pushcx"
     },
     {
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "published_at": "2026-08-13T09:03:13.761-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "facundoolano"
+    },
+    {
       "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
       "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
       "published_at": "2026-08-12T22:23:41.000Z",
@@ -880,6 +850,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "published_at": "2026-08-13T17:07:13.000Z",
+      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -941,35 +923,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "published_at": "2026-08-12T22:26:37.000Z",
-      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "watermarks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "AI nuclear power firm Fermi finally has a new CEO",
-      "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-      "published_at": "2026-08-12T22:24:00.000Z",
-      "description": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-      "tags": [
-        "Climate",
-        "fermi",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
@@ -1046,38 +999,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "George Field"
-    },
-    {
-      "title": "AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/",
-      "published_at": "2026-08-10T20:42:28.000Z",
-      "description": "The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app",
-      "tags": [
-        "AI",
-        "ai agents",
-        "evaluation metrics",
-        "llm",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
-    },
-    {
-      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
-      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
-      "published_at": "2026-08-10T14:14:41.000Z",
-      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
-      "tags": [
-        "Flutter",
-        "System Design",
-        "mobile app development",
-        "Dart",
-        "software architecture"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jesutoni Aderibigbe"
     }
   ],
   "JavaScript": [
@@ -1155,6 +1076,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
+      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
+      "published_at": "2026-07-30T08:02:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "angular",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
+      "source": "Dev.to",
+      "user": "Sylwia Laskowska"
+    },
+    {
+      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
+      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7",
+      "published_at": "2026-08-07T08:43:39Z",
+      "description": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
+      "tags": [
+        "angular",
+        "typescript",
+        "angularsignals",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png",
+      "source": "Dev.to",
+      "user": "Giorgio Galassi"
     },
     {
       "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
@@ -1348,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 600,
       "user": "sv-number"
     },
     {
@@ -1363,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "RadishXN"
     },
     {
@@ -1378,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "panel-zeus"
     },
     {
@@ -1423,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 32133,
+      "stars": 34905,
       "user": "deepseek-ai"
     },
     {
@@ -1468,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 847,
       "user": "SaladDay"
     },
     {
@@ -1483,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 784,
       "user": "milind-soni"
     },
     {
@@ -1574,19 +1525,6 @@
       "user": "FlyPhoenix"
     },
     {
-      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
-      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
-      "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bill42"
-    },
-    {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
@@ -1627,6 +1565,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wiz"
+    },
+    {
+      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
+      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
+      "published_at": "2026-08-11T18:31:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "database",
+        "google-chrome-extension",
+        "supabase-js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yash-Nohara"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
@@ -1870,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4501,
+      "stars": 4657,
       "user": "guillaumemeyer"
     },
     {
@@ -1900,8 +1854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1672,
+      "stars": 1675,
       "user": "oil-oil"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 539,
+      "user": "Leutenegger"
     },
     {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
@@ -1915,23 +1884,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 509,
       "user": "NikoDemon80"
-    },
-    {
-      "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "url": "https://github.com/i3T4AN/KADATH",
-      "published_at": "2026-08-08T15:49:55Z",
-      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
-      "source": "GitHub",
-      "stars": 362,
-      "user": "i3T4AN"
     },
     {
       "title": "python's pre-declared constants are kinda weird",
@@ -1944,6 +1898,33 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seb"
+    },
+    {
+      "title": "Reproduce n-ary `vmap` from unary",
+      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
+      "published_at": "2026-08-13T16:37:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "jax"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "joel"
+    },
+    {
+      "title": "Python dictionary with threads",
+      "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
+      "published_at": "2026-08-13T10:03:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "multithreading",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Agent"
     },
     {
       "title": "Why can adding logging make a Python race condition disappear?",
@@ -1960,19 +1941,6 @@
       "user": "Edmon Dantes"
     },
     {
-      "title": "Python dictionary with threads",
-      "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
-      "published_at": "2026-08-13T10:03:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "multithreading"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Agent"
-    },
-    {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
       "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
       "published_at": "2026-08-13T06:07:39.000Z",
@@ -1985,6 +1953,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nathanael Tom Aterado"
+    },
+    {
+      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
+      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
+      "published_at": "2026-08-12T22:23:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pylance",
+        "static-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ryan Pierce Williams"
     },
     {
       "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
@@ -2031,19 +2013,6 @@
       "user": "Krishna Kabir"
     },
     {
-      "title": "Parsing Binance API kline timestamps — off by 7 hours in my local time?",
-      "url": "https://stackoverflow.com/questions/79993637/parsing-binance-api-kline-timestamps-off-by-7-hours-in-my-local-time",
-      "published_at": "2026-08-13T00:26:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "binance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "riptide99614"
-    },
-    {
       "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
       "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
       "published_at": "2026-08-12T16:24:12.000Z",
@@ -2058,33 +2027,30 @@
       "user": "Kes Perron"
     },
     {
-      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
-      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
-      "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "Parsing Binance API kline timestamps — off by 7 hours in my local time?",
+      "url": "https://stackoverflow.com/questions/79993637/parsing-binance-api-kline-timestamps-off-by-7-hours-in-my-local-time",
+      "published_at": "2026-08-13T00:26:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
-        "python-sphinx",
-        "cicd",
-        "link-checking"
+        "binance"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "jon_two"
+      "user": "riptide99614"
     },
     {
-      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
-      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
-      "published_at": "2026-08-12T22:23:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Python for Mechanical Engineering",
+      "url": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
+      "published_at": "2026-08-13T13:50:26.000Z",
+      "description": "Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical",
       "tags": [
-        "python",
-        "pylance",
-        "static-typing"
+        "Python",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ryan Pierce Williams"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     }
   ],
   "DevOps": [
@@ -2295,21 +2261,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "colindean"
-    },
-    {
-      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
-      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
-      "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "python-sphinx",
-        "cicd",
-        "link-checking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jon_two"
     }
   ],
   "WebDev": [
@@ -2455,7 +2406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4501,
+      "stars": 4657,
       "user": "guillaumemeyer"
     },
     {
@@ -2562,22 +2513,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
-      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
-      "published_at": "2026-08-10T14:14:41.000Z",
-      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
-      "tags": [
-        "Flutter",
-        "System Design",
-        "mobile app development",
-        "Dart",
-        "software architecture"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jesutoni Aderibigbe"
     }
   ],
   "Mobile": [
@@ -2666,22 +2601,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Atuoha Anthony"
-    },
-    {
-      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
-      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
-      "published_at": "2026-08-10T14:14:41.000Z",
-      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
-      "tags": [
-        "Flutter",
-        "System Design",
-        "mobile app development",
-        "Dart",
-        "software architecture"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jesutoni Aderibigbe"
     }
   ],
   "Cloud": [
@@ -2991,6 +2910,22 @@
       "user": "przemoc"
     },
     {
+      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
+      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
+      "published_at": "2026-08-11T18:31:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "database",
+        "google-chrome-extension",
+        "supabase-js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yash-Nohara"
+    },
+    {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
       "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
       "published_at": "2026-08-13T06:07:39.000Z",
@@ -3003,22 +2938,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nathanael Tom Aterado"
-    },
-    {
-      "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
-      "url": "https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/",
-      "published_at": "2026-08-10T14:14:41.000Z",
-      "description": "Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr",
-      "tags": [
-        "Flutter",
-        "System Design",
-        "mobile app development",
-        "Dart",
-        "software architecture"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jesutoni Aderibigbe"
     }
   ],
   "Security": [
@@ -3081,21 +3000,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
-    },
-    {
-      "title": "Data, Context & RAG Lineage Governance for Enterprise AI Agents",
-      "url": "https://dev.to/gde/data-context-rag-lineage-governance-for-enterprise-ai-agents-4bdj",
-      "published_at": "2026-07-30T06:19:47Z",
-      "description": "A deep-dive architectural guide to query-time ABAC, cryptographic lineage, and outbound payload sanitization in agentic RAG systems.",
-      "tags": [
-        "ai",
-        "security",
-        "architecture",
-        "rag"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4xvw538aavgb4rl2j8tz.png",
-      "source": "Dev.to",
-      "user": "Jitendra Gupta"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3414,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 600,
       "user": "sv-number"
     },
     {
@@ -3429,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "RadishXN"
     },
     {
@@ -3444,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "panel-zeus"
     },
     {
@@ -3489,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4501,
+      "stars": 4657,
       "user": "guillaumemeyer"
     },
     {
@@ -3519,8 +3423,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1672,
+      "stars": 1675,
       "user": "oil-oil"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 539,
+      "user": "Leutenegger"
     },
     {
       "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
@@ -3534,23 +3453,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 509,
       "user": "NikoDemon80"
-    },
-    {
-      "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "url": "https://github.com/i3T4AN/KADATH",
-      "published_at": "2026-08-08T15:49:55Z",
-      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
-      "source": "GitHub",
-      "stars": 362,
-      "user": "i3T4AN"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3564,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 314,
       "user": "MengMengCode"
     },
     {
@@ -3639,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 32133,
+      "stars": 34905,
       "user": "deepseek-ai"
     },
     {
@@ -3684,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 847,
       "user": "SaladDay"
     },
     {
@@ -3699,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 784,
       "user": "milind-soni"
     },
     {
@@ -3714,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 929,
+      "stars": 932,
       "user": "Flaminis"
     },
     {
@@ -3729,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "lexmount"
     },
     {
@@ -3759,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 171,
       "user": "hsusul"
     },
     {
