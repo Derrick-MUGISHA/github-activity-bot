@@ -181,21 +181,6 @@
       "user": "Thomas Bonnet"
     },
     {
-      "title": "Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes",
-      "url": "https://dev.to/gde/before-the-quake-how-antigravity-clis-ai-agents-iot-data-predict-earthquakes-34if",
-      "published_at": "2026-08-07T02:55:21Z",
-      "description": "Published Paper: Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "datascience"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnefu6fvjpyyy9hjeagu8.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Catbot: Custom Grammar Problem Fixed",
       "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
       "published_at": "2026-08-01T16:03:02Z",
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "sv-number"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 172,
       "user": "50kg"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2334,
+      "stars": 2652,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "NikoDemon80"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 226,
       "user": "MengMengCode"
     },
     {
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 139,
       "user": "jundizhou"
     },
     {
@@ -779,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1519,
+      "stars": 1570,
       "user": "SMNETSTUDIO"
     },
     {
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 851,
       "user": "sohaibdevv"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 596,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 187,
       "user": "lexmount"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "JohnKinyanjui"
     },
     {
@@ -880,22 +865,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
-    },
-    {
-      "title": "Maintaining a SOCKS connection over ssh in Python",
-      "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
-      "published_at": "2026-08-11T10:05:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "sockets",
-        "ssh",
-        "paramiko",
-        "socks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "notanothercliche"
     },
     {
       "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
@@ -1442,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "sv-number"
     },
     {
@@ -1457,8 +1426,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "aashaexo"
+    },
+    {
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "url": "https://github.com/RadishXN/run-abroad",
+      "published_at": "2026-08-12T02:54:15Z",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
+      "source": "GitHub",
+      "stars": 220,
+      "user": "RadishXN"
     },
     {
       "title": "panel-zeus/Z-E-U-S - GitHub Repository",
@@ -1472,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 194,
       "user": "panel-zeus"
     },
     {
@@ -1487,23 +1471,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 172,
       "user": "50kg"
-    },
-    {
-      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "url": "https://github.com/RadishXN/run-abroad",
-      "published_at": "2026-08-12T02:54:15Z",
-      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
-      "source": "GitHub",
-      "stars": 166,
-      "user": "RadishXN"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1517,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1519,
+      "stars": 1570,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1532,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 851,
       "user": "sohaibdevv"
     },
     {
@@ -1547,23 +1516,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 799,
       "user": "SaladDay"
-    },
-    {
-      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "url": "https://github.com/shadcn-ui/chatbot-template",
-      "published_at": "2026-08-11T11:53:02Z",
-      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "shadcn-ui"
     },
     {
       "title": "milind-soni/OpenMausBot - GitHub Repository",
@@ -1577,8 +1531,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 614,
       "user": "milind-soni"
+    },
+    {
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 596,
+      "user": "shadcn-ui"
     },
     {
       "title": "Custom reorder array of objects",
@@ -1598,7 +1567,7 @@
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1613,7 +1582,7 @@
       "title": "I'm trying to update a counter value in React using useState,",
       "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
       "published_at": "2026-08-12T21:21:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -1666,6 +1635,19 @@
       "user": "bill42"
     },
     {
+      "title": "Avoid synthetic sounds overlapping",
+      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
+      "published_at": "2026-08-11T09:02:38.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vatar"
+    },
+    {
       "title": "Generating grouped PDF from paginated API data in React/jsPDF without loading all rows into memory",
       "url": "https://stackoverflow.com/questions/79992207/generating-grouped-pdf-from-paginated-api-data-in-react-jspdf-without-loading-al",
       "published_at": "2026-08-11T10:31:51.000Z",
@@ -1693,19 +1675,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Avoid synthetic sounds overlapping",
-      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
-      "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vatar"
     },
     {
       "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
@@ -1948,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2334,
+      "stars": 2652,
       "user": "guillaumemeyer"
     },
     {
@@ -1963,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1636,
+      "stars": 1652,
       "user": "ShawnPana"
     },
     {
@@ -1978,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1627,
       "user": "oil-oil"
     },
     {
@@ -1993,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "NikoDemon80"
     },
     {
@@ -2008,14 +1977,42 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "JayJokerr"
+    },
+    {
+      "title": "How do I pass the value of a child class to it's own child class in python?",
+      "url": "https://stackoverflow.com/questions/79993661/how-do-i-pass-the-value-of-a-child-class-to-its-own-child-class-in-python",
+      "published_at": "2026-08-13T02:47:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "oop",
+        "inheritance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Krishna Kabir"
+    },
+    {
+      "title": "Parsing Binance API kline timestamps — off by 7 hours in my local time?",
+      "url": "https://stackoverflow.com/questions/79993637/parsing-binance-api-kline-timestamps-off-by-7-hours-in-my-local-time",
+      "published_at": "2026-08-13T00:26:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "binance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "riptide99614"
     },
     {
       "title": "Unable to allocate TiB for an array with shape data type uint8",
       "url": "https://stackoverflow.com/questions/79993636/unable-to-allocate-tib-for-an-array-with-shape-data-type-uint8",
       "published_at": "2026-08-13T00:15:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "numpy",
@@ -2127,35 +2124,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Python/OPEN CV Localisation variable Barcode",
-      "url": "https://stackoverflow.com/questions/79993391/python-open-cv-localisation-variable-barcode",
-      "published_at": "2026-08-12T05:54:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "opencv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniela Gerner"
-    },
-    {
-      "title": "Maintaining a SOCKS connection over ssh in Python",
-      "url": "https://stackoverflow.com/questions/79992195/maintaining-a-socks-connection-over-ssh-in-python",
-      "published_at": "2026-08-11T10:05:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "sockets",
-        "ssh",
-        "paramiko",
-        "socks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "notanothercliche"
     }
   ],
   "DevOps": [
@@ -2525,7 +2493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 172,
       "user": "50kg"
     },
     {
@@ -2540,14 +2508,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2334,
+      "stars": 2652,
       "user": "guillaumemeyer"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2575,19 +2543,6 @@
       "user": "FlyPhoenix"
     },
     {
-      "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
-      "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
-      "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "javascript",
-        "html-object"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "Avoid synthetic sounds overlapping",
       "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
       "published_at": "2026-08-11T09:02:38.000Z",
@@ -2599,6 +2554,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vatar"
+    },
+    {
+      "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
+      "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
+      "published_at": "2026-08-11T22:27:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "javascript",
+        "html-object"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
@@ -3492,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "sv-number"
     },
     {
@@ -3507,8 +3475,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "aashaexo"
+    },
+    {
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "url": "https://github.com/RadishXN/run-abroad",
+      "published_at": "2026-08-12T02:54:15Z",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
+      "source": "GitHub",
+      "stars": 220,
+      "user": "RadishXN"
     },
     {
       "title": "panel-zeus/Z-E-U-S - GitHub Repository",
@@ -3522,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 194,
       "user": "panel-zeus"
     },
     {
@@ -3537,23 +3520,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 172,
       "user": "50kg"
-    },
-    {
-      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "url": "https://github.com/RadishXN/run-abroad",
-      "published_at": "2026-08-12T02:54:15Z",
-      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
-      "source": "GitHub",
-      "stars": 166,
-      "user": "RadishXN"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3567,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2334,
+      "stars": 2652,
       "user": "guillaumemeyer"
     },
     {
@@ -3582,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1636,
+      "stars": 1652,
       "user": "ShawnPana"
     },
     {
@@ -3597,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1627,
       "user": "oil-oil"
     },
     {
@@ -3612,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "NikoDemon80"
     },
     {
@@ -3627,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "JayJokerr"
     },
     {
@@ -3642,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 226,
       "user": "MengMengCode"
     },
     {
@@ -3672,7 +3640,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 139,
       "user": "jundizhou"
     },
     {
@@ -3717,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1519,
+      "stars": 1570,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3732,7 +3700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 851,
       "user": "sohaibdevv"
     },
     {
@@ -3747,23 +3715,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 799,
       "user": "SaladDay"
-    },
-    {
-      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "url": "https://github.com/shadcn-ui/chatbot-template",
-      "published_at": "2026-08-11T11:53:02Z",
-      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "shadcn-ui"
     },
     {
       "title": "milind-soni/OpenMausBot - GitHub Repository",
@@ -3777,8 +3730,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 614,
       "user": "milind-soni"
+    },
+    {
+      "title": "shadcn-ui/chatbot-template - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "published_at": "2026-08-11T11:53:02Z",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
+      "source": "GitHub",
+      "stars": 596,
+      "user": "shadcn-ui"
     },
     {
       "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
@@ -3792,8 +3760,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 890,
       "user": "Flaminis"
+    },
+    {
+      "title": "fzakaria/nixpkgs-multiverse - Any version of any nixpkgs package, from one flake input",
+      "url": "https://github.com/fzakaria/nixpkgs-multiverse",
+      "published_at": "2026-08-08T21:56:37Z",
+      "description": "Any version of any nixpkgs package, from one flake input",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
+      "source": "GitHub",
+      "stars": 222,
+      "user": "fzakaria"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3807,7 +3790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 187,
       "user": "lexmount"
     },
     {
@@ -3822,7 +3805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "JohnKinyanjui"
     },
     {
@@ -3841,19 +3824,16 @@
       "user": "EurekaZang"
     },
     {
-      "title": "tllovesxs/cc-switch-route - CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
-      "url": "https://github.com/tllovesxs/cc-switch-route",
-      "published_at": "2026-08-08T01:55:40Z",
-      "description": "CC Switch 本地智能路由控制面：健康检测、倍率与延迟排序、恢复调序，无侵入、打开即用",
+      "title": "GitHub Stacks in Jujutsu",
+      "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+      "published_at": "2026-08-12T19:55:03.261-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "vcs"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188217009?v=4",
-      "source": "GitHub",
-      "stars": 111,
-      "user": "tllovesxs"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "altano"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
