@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-14 0:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-14 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [I Built a ₹15 Landing Page About Mumbai's Soul Food](https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78) | Dev.to |
 | 20 | [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd) | Dev.to |
 
-<sub>Last fetched: Fri, 14 Aug 2026 00:57:08 CAT</sub>
+<sub>Last fetched: Fri, 14 Aug 2026 01:44:07 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
+**1. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> B-tree, trade-offs, query performance
 
 </details>
 
-**2. `Python` — What are generators and when would you use them?**
+**2. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-**3. `React` — Explain the difference between state and props**
+**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -170,9 +170,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **Python** | 31 | 16.8% | `█████████░░░░░░░░░░░` |
 | **WebDev** | 21 | 11.4% | `██████░░░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
-| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 13 Aug 2026 22:57:08 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 13 Aug 2026 23:44:07 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
