@@ -210,6 +210,21 @@
       "user": "Thomas Bonnet"
     },
     {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "published_at": "2026-08-01T16:03:02Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
       "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
       "published_at": "2026-08-09T15:31:53Z",
@@ -315,6 +330,21 @@
       "user": "xbill"
     },
     {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
       "url": "https://dev.to/aws-builders/foundry-as-master-bedrock-as-remote-the-smoke-test-finally-passed-680",
       "published_at": "2026-07-31T17:44:17Z",
@@ -388,36 +418,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
       "source": "Dev.to",
       "user": "Roberto B."
-    },
-    {
-      "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
-      "url": "https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph",
-      "published_at": "2026-08-07T17:35:35Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.           🎨...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "webdev",
-        "googleai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fctuw7eboonh0t2hnzn06.png",
-      "source": "Dev.to",
-      "user": "Omar Afifi"
-    },
-    {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
-      "published_at": "2026-07-30T06:55:16Z",
-      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "tags": [
-        "buildwithai",
-        "antigravity",
-        "docker",
-        "orquestator"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "sv-number"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4997,
+      "stars": 5084,
       "user": "guillaumemeyer"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "MengMengCode"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 37672,
+      "stars": 38110,
       "user": "deepseek-ai"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "lexmount"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "JohnKinyanjui"
     },
     {
@@ -835,6 +835,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "published_at": "2026-08-13T20:14:39.000Z",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "TC",
+        "Databricks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -926,20 +942,20 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Who really needs a cocktail robot?",
-      "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-      "published_at": "2026-08-13T15:00:00.000Z",
-      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
+      "published_at": "2026-08-13T17:38:27.000Z",
+      "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
       "tags": [
-        "Gadgets",
-        "Hardware",
-        "bartesian",
-        "cocktails",
-        "robots"
+        "AI",
+        "PHP",
+        "cpanel",
+        "Gemini integration",
+        "SQL"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     },
     {
       "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
@@ -985,37 +1001,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Rudrendu Paul"
-    },
-    {
-      "title": "Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications",
-      "url": "https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/",
-      "published_at": "2026-08-11T00:00:45.000Z",
-      "description": "Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com",
-      "tags": [
-        "experimentation",
-        "product experimentation",
-        "causal inference",
-        "AI",
-        "llm"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
-    },
-    {
-      "title": "How to Get Your Side Project Seen and Gain Paying Users",
-      "url": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
-      "published_at": "2026-08-10T20:47:17.000Z",
-      "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
-      "tags": [
-        "sidehustle",
-        "marketing",
-        "Entrepreneurship",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "George Field"
     }
   ],
   "JavaScript": [
@@ -1316,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "sv-number"
     },
     {
@@ -1331,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "RadishXN"
     },
     {
@@ -1346,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "panel-zeus"
     },
     {
@@ -1391,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 37672,
+      "stars": 38110,
       "user": "deepseek-ai"
     },
     {
@@ -1421,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 872,
       "user": "SaladDay"
     },
     {
@@ -1451,7 +1436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 813,
       "user": "milind-soni"
     },
     {
@@ -1598,6 +1583,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yash-Nohara"
+    },
+    {
+      "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
+      "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
+      "published_at": "2026-08-13T18:10:52.000Z",
+      "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
+      "tags": [
+        "shadcn",
+        "React",
+        "Web Development",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
+    },
+    {
+      "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
+      "url": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
+      "published_at": "2026-08-13T17:44:25.000Z",
+      "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
+      "tags": [
+        "JavaScript",
+        "Game Development",
+        "Web Development",
+        "Open Source",
+        "Google Chrome"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Alex Oliinyk"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
@@ -1841,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4997,
+      "stars": 5084,
       "user": "guillaumemeyer"
     },
     {
@@ -1856,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1709,
+      "stars": 1710,
       "user": "ShawnPana"
     },
     {
@@ -1871,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1683,
       "user": "oil-oil"
     },
     {
@@ -1886,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1017,
       "user": "Leutenegger"
     },
     {
@@ -1920,7 +1936,7 @@
       "title": "API for iCloud password change",
       "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "icloud"
@@ -1943,23 +1959,10 @@
       "user": "Juan Castro"
     },
     {
-      "title": "Reproduce n-ary `vmap` from unary",
-      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
-      "published_at": "2026-08-13T16:37:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "jax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "joel"
-    },
-    {
       "title": "Python dictionary with threads",
       "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
       "published_at": "2026-08-13T10:03:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "multithreading",
@@ -1968,6 +1971,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Agent"
+    },
+    {
+      "title": "Reproduce n-ary `vmap` from unary",
+      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
+      "published_at": "2026-08-13T16:37:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "jax"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "joel"
     },
     {
       "title": "Why can adding logging make a Python race condition disappear?",
@@ -2045,7 +2061,7 @@
       "title": "How do I pass the value of a child class to its own child class?",
       "url": "https://stackoverflow.com/questions/79993661/how-do-i-pass-the-value-of-a-child-class-to-its-own-child-class",
       "published_at": "2026-08-13T02:47:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "oop",
@@ -2114,21 +2130,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
       "source": "Dev.to",
       "user": "Çalgan Aygün"
-    },
-    {
-      "title": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology & Cluster Auto-Updates!i",
-      "url": "https://dev.to/gde/gubernator-weekly-update-coredns-aqueducts-sre-stack-network-topology-cluster-auto-updates-e1c",
-      "published_at": "2026-07-30T06:55:16Z",
-      "description": "Gubernator Weekly Update: CoreDNS Aqueducts, SRE Stack, Network Topology &amp; Cluster...",
-      "tags": [
-        "buildwithai",
-        "antigravity",
-        "docker",
-        "orquestator"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F87yjolwfoy4v1hfgf6s4.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2409,7 +2410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4997,
+      "stars": 5084,
       "user": "guillaumemeyer"
     },
     {
@@ -2484,6 +2485,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
+      "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
+      "published_at": "2026-08-13T18:10:52.000Z",
+      "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
+      "tags": [
+        "shadcn",
+        "React",
+        "Web Development",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vaibhav Gupta"
+    },
+    {
+      "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
+      "url": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
+      "published_at": "2026-08-13T17:44:25.000Z",
+      "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
+      "tags": [
+        "JavaScript",
+        "Game Development",
+        "Web Development",
+        "Open Source",
+        "Google Chrome"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Alex Oliinyk"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
@@ -2590,20 +2622,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "heavyrain266"
-    },
-    {
-      "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
-      "url": "https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/",
-      "published_at": "2026-08-11T16:47:02.000Z",
-      "description": "Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "flutter-aware"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
     }
   ],
   "Cloud": [
@@ -2743,6 +2761,21 @@
       "user": "xbill"
     },
     {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Google ADK as the Master Agent, Calling Amazon Bedrock over A2A",
       "url": "https://dev.to/gde/google-adk-as-the-master-agent-calling-amazon-bedrock-over-a2a-4ahc",
       "published_at": "2026-07-31T17:42:40Z",
@@ -2836,7 +2869,7 @@
       "title": "API for iCloud password change",
       "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "icloud"
@@ -2941,6 +2974,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nathanael Tom Aterado"
+    },
+    {
+      "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
+      "published_at": "2026-08-13T17:38:27.000Z",
+      "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
+      "tags": [
+        "AI",
+        "PHP",
+        "cpanel",
+        "Gemini integration",
+        "SQL"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     }
   ],
   "Security": [
@@ -3228,6 +3277,21 @@
       "user": "Giorgio Galassi"
     },
     {
+      "title": "Build a Dart ADK Agent and MCP Server",
+      "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
+      "published_at": "2026-08-09T17:03:45Z",
+      "description": "Build and deploy a small Dart service that combines an ADK agent, an MCP greeting tool, Shelf, SSE, and Cloud Run.",
+      "tags": [
+        "dart",
+        "ai",
+        "mcp",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
       "published_at": "2026-07-28T18:58:24Z",
@@ -3305,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 561,
       "user": "sv-number"
     },
     {
@@ -3320,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "RadishXN"
     },
     {
@@ -3335,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 248,
       "user": "panel-zeus"
     },
     {
@@ -3380,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4997,
+      "stars": 5084,
       "user": "guillaumemeyer"
     },
     {
@@ -3395,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1709,
+      "stars": 1710,
       "user": "ShawnPana"
     },
     {
@@ -3410,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1683,
       "user": "oil-oil"
     },
     {
@@ -3425,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 1017,
       "user": "Leutenegger"
     },
     {
@@ -3455,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "MengMengCode"
     },
     {
@@ -3530,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 37672,
+      "stars": 38110,
       "user": "deepseek-ai"
     },
     {
@@ -3560,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 872,
       "user": "SaladDay"
     },
     {
@@ -3590,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 813,
       "user": "milind-soni"
     },
     {
@@ -3620,7 +3684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 251,
       "user": "lexmount"
     },
     {
@@ -3635,7 +3699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "fzakaria"
     },
     {
@@ -3665,7 +3729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 144,
       "user": "JohnKinyanjui"
     },
     {
@@ -3695,6 +3759,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
+      "published_at": "2026-08-13T17:38:27.000Z",
+      "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
+      "tags": [
+        "AI",
+        "PHP",
+        "cpanel",
+        "Gemini integration",
+        "SQL"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
@@ -3727,35 +3807,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Saif Ali Shaik"
-    },
-    {
-      "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
-      "url": "https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/",
-      "published_at": "2026-08-11T16:47:02.000Z",
-      "description": "Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "flutter-aware"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
-    },
-    {
-      "title": "How to Get Your Side Project Seen and Gain Paying Users",
-      "url": "https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/",
-      "published_at": "2026-08-10T20:47:17.000Z",
-      "description": "In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d",
-      "tags": [
-        "sidehustle",
-        "marketing",
-        "Entrepreneurship",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "George Field"
     }
   ]
 }
