@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
-      "published_at": "2026-08-12T15:45:27Z",
-      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
-      "tags": [
-        "cloudrun",
-        "geminienterpriseagentplatform",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
     },
     {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 602,
       "user": "sv-number"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "50kg"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2886,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 237,
       "user": "MengMengCode"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "surya-koritala"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "jundizhou"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1596,
       "user": "SMNETSTUDIO"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 601,
       "user": "shadcn-ui"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 201,
       "user": "lexmount"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "JohnKinyanjui"
     },
     {
@@ -1411,8 +1411,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 602,
       "user": "sv-number"
+    },
+    {
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "url": "https://github.com/RadishXN/run-abroad",
+      "published_at": "2026-08-12T02:54:15Z",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
+      "source": "GitHub",
+      "stars": 237,
+      "user": "RadishXN"
     },
     {
       "title": "aashaexo/soundshuman - GitHub Repository",
@@ -1430,21 +1445,6 @@
       "user": "aashaexo"
     },
     {
-      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "url": "https://github.com/RadishXN/run-abroad",
-      "published_at": "2026-08-12T02:54:15Z",
-      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
-      "source": "GitHub",
-      "stars": 220,
-      "user": "RadishXN"
-    },
-    {
       "title": "panel-zeus/Z-E-U-S - GitHub Repository",
       "url": "https://github.com/panel-zeus/Z-E-U-S",
       "published_at": "2026-08-09T02:53:39Z",
@@ -1456,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "panel-zeus"
     },
     {
@@ -1471,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "50kg"
     },
     {
@@ -1486,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1596,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1516,7 +1516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 806,
       "user": "SaladDay"
     },
     {
@@ -1531,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 647,
       "user": "milind-soni"
     },
     {
@@ -1546,8 +1546,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 601,
       "user": "shadcn-ui"
+    },
+    {
+      "title": "Just started HTML/CSS/JS, I've got an error with my upgrade buttons",
+      "url": "https://stackoverflow.com/questions/79993669/just-started-html-css-js-ive-got-an-error-with-my-upgrade-buttons",
+      "published_at": "2026-08-13T03:17:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "function",
+        "variables",
+        "button"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027501"
+    },
+    {
+      "title": "Are object URLs now cached on disk instead of memory only?",
+      "url": "https://stackoverflow.com/questions/79993675/are-object-urls-now-cached-on-disk-instead-of-memory-only",
+      "published_at": "2026-08-13T03:38:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "revokeobjecturl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "Custom reorder array of objects",
@@ -1648,22 +1677,6 @@
       "user": "Vatar"
     },
     {
-      "title": "Generating grouped PDF from paginated API data in React/jsPDF without loading all rows into memory",
-      "url": "https://stackoverflow.com/questions/79992207/generating-grouped-pdf-from-paginated-api-data-in-react-jspdf-without-loading-al",
-      "published_at": "2026-08-11T10:31:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "pagination",
-        "pdf-generation",
-        "jspdf",
-        "jspdf-autotable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wiz"
-    },
-    {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
       "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
       "published_at": "2026-08-11T22:27:32.000Z",
@@ -1677,20 +1690,20 @@
       "user": "Gary"
     },
     {
-      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
-      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
-      "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
+      "published_at": "2026-08-13T00:09:57.000Z",
+      "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
       "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "google-chrome-extension",
-        "supabase-js"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yash-Nohara"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -1723,20 +1736,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Add Dynamic Features to a Static Site Without a Server",
-      "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
-      "published_at": "2026-08-10T14:13:37.000Z",
-      "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
-      "tags": [
-        "Static Website",
-        "JavaScript",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Python": [
@@ -1917,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2886,
       "user": "guillaumemeyer"
     },
     {
@@ -1932,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1662,
       "user": "ShawnPana"
     },
     {
@@ -1947,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1627,
+      "stars": 1636,
       "user": "oil-oil"
     },
     {
@@ -1977,14 +1976,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "JayJokerr"
     },
     {
       "title": "How do I pass the value of a child class to it's own child class in python?",
       "url": "https://stackoverflow.com/questions/79993661/how-do-i-pass-the-value-of-a-child-class-to-its-own-child-class-in-python",
       "published_at": "2026-08-13T02:47:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x",
@@ -2333,7 +2332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "surya-koritala"
     },
     {
@@ -2493,7 +2492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "50kg"
     },
     {
@@ -2508,8 +2507,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2886,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "Just started HTML/CSS/JS, I've got an error with my upgrade buttons",
+      "url": "https://stackoverflow.com/questions/79993669/just-started-html-css-js-ive-got-an-error-with-my-upgrade-buttons",
+      "published_at": "2026-08-13T03:17:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "function",
+        "variables",
+        "button"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027501"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
@@ -2569,6 +2584,22 @@
       "user": "Gary"
     },
     {
+      "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
+      "published_at": "2026-08-13T00:09:57.000Z",
+      "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
       "published_at": "2026-08-12T15:43:14.000Z",
@@ -2599,20 +2630,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jesutoni Aderibigbe"
-    },
-    {
-      "title": "How to Add Dynamic Features to a Static Site Without a Server",
-      "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
-      "published_at": "2026-08-10T14:13:37.000Z",
-      "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
-      "tags": [
-        "Static Website",
-        "JavaScript",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Mobile": [
@@ -3018,22 +3035,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pushcx"
-    },
-    {
-      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
-      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
-      "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "google-chrome-extension",
-        "supabase-js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yash-Nohara"
     },
     {
       "title": "Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age",
@@ -3460,8 +3461,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 602,
       "user": "sv-number"
+    },
+    {
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "url": "https://github.com/RadishXN/run-abroad",
+      "published_at": "2026-08-12T02:54:15Z",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
+      "source": "GitHub",
+      "stars": 237,
+      "user": "RadishXN"
     },
     {
       "title": "aashaexo/soundshuman - GitHub Repository",
@@ -3479,21 +3495,6 @@
       "user": "aashaexo"
     },
     {
-      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "url": "https://github.com/RadishXN/run-abroad",
-      "published_at": "2026-08-12T02:54:15Z",
-      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
-      "source": "GitHub",
-      "stars": 220,
-      "user": "RadishXN"
-    },
-    {
       "title": "panel-zeus/Z-E-U-S - GitHub Repository",
       "url": "https://github.com/panel-zeus/Z-E-U-S",
       "published_at": "2026-08-09T02:53:39Z",
@@ -3505,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 196,
       "user": "panel-zeus"
     },
     {
@@ -3520,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "50kg"
     },
     {
@@ -3535,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2652,
+      "stars": 2886,
       "user": "guillaumemeyer"
     },
     {
@@ -3550,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1652,
+      "stars": 1662,
       "user": "ShawnPana"
     },
     {
@@ -3565,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1627,
+      "stars": 1636,
       "user": "oil-oil"
     },
     {
@@ -3595,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 284,
       "user": "JayJokerr"
     },
     {
@@ -3610,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 237,
       "user": "MengMengCode"
     },
     {
@@ -3625,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "surya-koritala"
     },
     {
@@ -3640,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "jundizhou"
     },
     {
@@ -3685,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1596,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3715,7 +3716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 799,
+      "stars": 806,
       "user": "SaladDay"
     },
     {
@@ -3730,7 +3731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 647,
       "user": "milind-soni"
     },
     {
@@ -3745,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 601,
       "user": "shadcn-ui"
     },
     {
@@ -3760,7 +3761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 900,
       "user": "Flaminis"
     },
     {
@@ -3790,7 +3791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 187,
+      "stars": 201,
       "user": "lexmount"
     },
     {
@@ -3805,7 +3806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "JohnKinyanjui"
     },
     {
@@ -3834,6 +3835,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "altano"
+    },
+    {
+      "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
+      "published_at": "2026-08-13T00:09:57.000Z",
+      "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
@@ -3879,20 +3896,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "George Field"
-    },
-    {
-      "title": "How to Add Dynamic Features to a Static Site Without a Server",
-      "url": "https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/",
-      "published_at": "2026-08-10T14:13:37.000Z",
-      "description": "Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha",
-      "tags": [
-        "Static Website",
-        "JavaScript",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ]
 }
