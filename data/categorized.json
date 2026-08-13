@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
+      "published_at": "2026-08-12T23:05:09Z",
+      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
       "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
       "published_at": "2026-08-12T15:45:27Z",
@@ -14,6 +29,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
       "source": "Dev.to",
       "user": "Caleb Duff"
+    },
+    {
+      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
+      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7",
+      "published_at": "2026-08-13T04:18:51Z",
+      "description": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
+      "tags": [
+        "gemini",
+        "vibecoding",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fugmplgpci0ba4zzv4fg4.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
     },
     {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
@@ -179,21 +208,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "published_at": "2026-08-01T16:03:02Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "catbot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
     },
     {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
@@ -658,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "50kg"
     },
     {
@@ -673,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4399,
+      "stars": 4501,
       "user": "guillaumemeyer"
     },
     {
@@ -688,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "NikoDemon80"
     },
     {
@@ -703,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "MengMengCode"
     },
     {
@@ -733,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "jundizhou"
     },
     {
@@ -748,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "forever94yu"
     },
     {
@@ -778,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 27320,
+      "stars": 32133,
       "user": "deepseek-ai"
     },
     {
@@ -793,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1671,
       "user": "SMNETSTUDIO"
     },
     {
@@ -808,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 855,
       "user": "sohaibdevv"
     },
     {
@@ -823,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "lexmount"
     },
     {
@@ -868,13 +882,28 @@
       "user": "Ryan Pierce Williams"
     },
     {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "published_at": "2026-08-13T15:30:52.000Z",
+      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Copilot",
+        "Microsoft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Nvidia&#8217;s new $500B plan is risky but brilliant, especially for aging GPUs",
       "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
       "published_at": "2026-08-13T15:08:00.000Z",
       "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
       "tags": [
-        "TC",
         "AI",
+        "TC",
         "nvidia"
       ],
       "cover_image": null,
@@ -887,8 +916,10 @@
       "published_at": "2026-08-13T15:00:00.000Z",
       "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
       "tags": [
-        "Hardware",
         "Gadgets",
+        "Hardware",
+        "bartesian",
+        "cocktails",
         "robots"
       ],
       "cover_image": null,
@@ -904,6 +935,7 @@
         "AI",
         "Apps",
         "Apple",
+        "In Brief",
         "siri"
       ],
       "cover_image": null,
@@ -938,35 +970,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "published_at": "2026-08-12T20:10:40.000Z",
-      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "tags": [
-        "AI",
-        "Social",
-        "Amazon",
-        "Twitch"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Grubhub&#8217;s $24M FTC settlement is finally reaching diners and drivers",
-      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-      "published_at": "2026-08-12T18:34:21.000Z",
-      "description": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
-      "tags": [
-        "Apps",
-        "FTC",
-        "grubhub"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
@@ -1079,6 +1082,21 @@
   ],
   "JavaScript": [
     {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
+      "published_at": "2026-08-12T23:05:09Z",
+      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -1137,36 +1155,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
-      "published_at": "2026-07-30T08:02:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "angular",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7",
-      "published_at": "2026-08-07T08:43:39Z",
-      "description": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
-      "tags": [
-        "angular",
-        "typescript",
-        "angularsignals",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
     },
     {
       "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
@@ -1364,10 +1352,10 @@
       "user": "sv-number"
     },
     {
-      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
       "url": "https://github.com/RadishXN/run-abroad",
       "published_at": "2026-08-12T02:54:15Z",
-      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
       "tags": [
         "javascript",
         "github",
@@ -1375,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 303,
       "user": "RadishXN"
     },
     {
@@ -1390,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "panel-zeus"
     },
     {
@@ -1405,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "aashaexo"
     },
     {
@@ -1420,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "50kg"
     },
     {
@@ -1435,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 27320,
+      "stars": 32133,
       "user": "deepseek-ai"
     },
     {
@@ -1450,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1671,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1465,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 855,
       "user": "sohaibdevv"
     },
     {
@@ -1480,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 846,
       "user": "SaladDay"
     },
     {
@@ -1495,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 777,
       "user": "milind-soni"
     },
     {
@@ -1691,6 +1679,21 @@
   ],
   "Python": [
     {
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e",
+      "published_at": "2026-08-13T01:41:40Z",
+      "description": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
+      "tags": [
+        "python",
+        "googleadk",
+        "gemini",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fway-back-home%2Fmain%2Flevel_3_new%2Fdocs%2Fimages%2Fcover-adk2-second-pass-devto.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
       "published_at": "2026-08-05T14:56:26Z",
@@ -1867,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4399,
+      "stars": 4501,
       "user": "guillaumemeyer"
     },
     {
@@ -1882,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1705,
+      "stars": 1706,
       "user": "ShawnPana"
     },
     {
@@ -1897,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1669,
+      "stars": 1672,
       "user": "oil-oil"
     },
     {
@@ -1912,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "NikoDemon80"
     },
     {
@@ -2055,6 +2058,21 @@
       "user": "Kes Perron"
     },
     {
+      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
+      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
+      "published_at": "2026-08-12T15:05:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "python-sphinx",
+        "cicd",
+        "link-checking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jon_two"
+    },
+    {
       "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
       "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
       "published_at": "2026-08-12T22:23:41.000Z",
@@ -2067,21 +2085,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
-    },
-    {
-      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
-      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
-      "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "python-sphinx",
-        "cicd",
-        "link-checking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jon_two"
     }
   ],
   "DevOps": [
@@ -2297,7 +2300,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "python-sphinx",
@@ -2437,7 +2440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "50kg"
     },
     {
@@ -2452,7 +2455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4399,
+      "stars": 4501,
       "user": "guillaumemeyer"
     },
     {
@@ -2578,6 +2581,21 @@
     }
   ],
   "Mobile": [
+    {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
+      "published_at": "2026-08-12T23:05:09Z",
+      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
       "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
@@ -2889,7 +2907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "forever94yu"
     },
     {
@@ -2936,18 +2954,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "published_at": "2026-08-12T10:01:27.580-05:00",
-      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
-    },
-    {
       "title": "Does anyone run Postgres without PgBouncer?",
       "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
       "published_at": "2026-08-12T22:08:30.574-05:00",
@@ -2958,6 +2964,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
+    },
+    {
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published_at": "2026-08-12T10:01:27.580-05:00",
+      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "SQLite: How it works, by Richard Hipp (2024)",
@@ -3400,10 +3418,10 @@
       "user": "sv-number"
     },
     {
-      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
       "url": "https://github.com/RadishXN/run-abroad",
       "published_at": "2026-08-12T02:54:15Z",
-      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
       "tags": [
         "javascript",
         "github",
@@ -3411,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 303,
       "user": "RadishXN"
     },
     {
@@ -3426,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 237,
       "user": "panel-zeus"
     },
     {
@@ -3441,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "aashaexo"
     },
     {
@@ -3456,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 190,
       "user": "50kg"
     },
     {
@@ -3471,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4399,
+      "stars": 4501,
       "user": "guillaumemeyer"
     },
     {
@@ -3486,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1705,
+      "stars": 1706,
       "user": "ShawnPana"
     },
     {
@@ -3501,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1669,
+      "stars": 1672,
       "user": "oil-oil"
     },
     {
@@ -3516,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 507,
       "user": "NikoDemon80"
     },
     {
@@ -3546,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "MengMengCode"
     },
     {
@@ -3576,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "jundizhou"
     },
     {
@@ -3591,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "forever94yu"
     },
     {
@@ -3621,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 27320,
+      "stars": 32133,
       "user": "deepseek-ai"
     },
     {
@@ -3636,7 +3654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1671,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3651,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 855,
       "user": "sohaibdevv"
     },
     {
@@ -3666,7 +3684,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 842,
+      "stars": 846,
       "user": "SaladDay"
     },
     {
@@ -3681,7 +3699,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 777,
       "user": "milind-soni"
     },
     {
@@ -3696,7 +3714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 929,
       "user": "Flaminis"
     },
     {
@@ -3711,7 +3729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 244,
       "user": "lexmount"
     },
     {
@@ -3770,6 +3788,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "altano"
+    },
+    {
+      "title": "X open sources its ranking algorithm, letting users see if they&#8217;ve been &#8216;shadowbanned&#8217;",
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "published_at": "2026-08-13T16:00:00.000Z",
+      "description": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "tags": [
+        "Apps",
+        "Social",
+        "open source",
+        "social media",
+        "X"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
