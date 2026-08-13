@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 601,
       "user": "sv-number"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4234,
+      "stars": 4399,
       "user": "guillaumemeyer"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "NikoDemon80"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "MengMengCode"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "jundizhou"
     },
     {
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18541,
+      "stars": 27320,
       "user": "deepseek-ai"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1670,
       "user": "SMNETSTUDIO"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "lexmount"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "JohnKinyanjui"
     },
     {
@@ -854,19 +854,6 @@
       "user": "pushcx"
     },
     {
-      "title": "I'm done using AI",
-      "url": "https://brettcodes.com/im-done-using-ai/",
-      "published_at": "2026-08-12T08:09:40.082-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rant",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "untrusem"
-    },
-    {
       "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
       "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
       "published_at": "2026-08-12T22:23:41.000Z",
@@ -879,6 +866,49 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ryan Pierce Williams"
+    },
+    {
+      "title": "Nvidia&#8217;s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "published_at": "2026-08-13T15:08:00.000Z",
+      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "tags": [
+        "TC",
+        "AI",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Who really needs a cocktail robot?",
+      "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "published_at": "2026-08-13T15:00:00.000Z",
+      "description": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "robots"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "published_at": "2026-08-13T14:34:43.000Z",
+      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Apple",
+        "siri"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
@@ -937,70 +967,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "published_at": "2026-08-12T18:19:12.000Z",
-      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "TC",
-        "cognition"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "published_at": "2026-08-12T17:51:00.000Z",
-      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "tags": [
-        "AI",
-        "andrew ng",
-        "Artificial Intelligence (AI)",
-        "Fei-Fei Li",
-        "Geoffrey Hinton"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "published_at": "2026-08-12T17:41:29.000Z",
-      "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "Venture",
-        "Enterprise AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-      "published_at": "2026-08-12T17:15:41.000Z",
-      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "tags": [
-        "Security",
-        "Transportation",
-        "cybersecurity",
-        "data breach",
-        "uber freight"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
@@ -1394,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 601,
       "user": "sv-number"
     },
     {
@@ -1409,8 +1375,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 294,
       "user": "RadishXN"
+    },
+    {
+      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
+      "url": "https://github.com/panel-zeus/Z-E-U-S",
+      "published_at": "2026-08-09T02:53:39Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
+      "source": "GitHub",
+      "stars": 234,
+      "user": "panel-zeus"
     },
     {
       "title": "aashaexo/soundshuman - GitHub Repository",
@@ -1426,21 +1407,6 @@
       "source": "GitHub",
       "stars": 229,
       "user": "aashaexo"
-    },
-    {
-      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
-      "url": "https://github.com/panel-zeus/Z-E-U-S",
-      "published_at": "2026-08-09T02:53:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
-      "source": "GitHub",
-      "stars": 226,
-      "user": "panel-zeus"
     },
     {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
@@ -1469,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18541,
+      "stars": 27320,
       "user": "deepseek-ai"
     },
     {
@@ -1484,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1670,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1514,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "SaladDay"
     },
     {
@@ -1529,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 765,
       "user": "milind-soni"
     },
     {
@@ -1901,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4234,
+      "stars": 4399,
       "user": "guillaumemeyer"
     },
     {
@@ -1916,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1705,
       "user": "ShawnPana"
     },
     {
@@ -1931,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1669,
       "user": "oil-oil"
     },
     {
@@ -1946,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "NikoDemon80"
     },
     {
@@ -1977,6 +1943,20 @@
       "user": "seb"
     },
     {
+      "title": "Why can adding logging make a Python race condition disappear?",
+      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
+      "published_at": "2026-08-13T08:32:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "race-condition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Edmon Dantes"
+    },
+    {
       "title": "Python dictionary with threads",
       "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
       "published_at": "2026-08-13T10:03:02.000Z",
@@ -2002,20 +1982,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nathanael Tom Aterado"
-    },
-    {
-      "title": "Why can adding logging make a Python race condition disappear?",
-      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
-      "published_at": "2026-08-13T08:32:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "multithreading",
-        "race-condition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Edmon Dantes"
     },
     {
       "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
@@ -2486,7 +2452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4234,
+      "stars": 4399,
       "user": "guillaumemeyer"
     },
     {
@@ -2656,6 +2622,18 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzdwiamf2zbcizwme0vm.png",
       "source": "Dev.to",
       "user": "Gamya "
+    },
+    {
+      "title": "What’s new in Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "published_at": "2026-08-13T05:46:34.658-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "heavyrain266"
     },
     {
       "title": "How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect",
@@ -3247,16 +3225,16 @@
       "user": "colindean"
     },
     {
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-      "published_at": "2026-08-12T17:15:41.000Z",
-      "description": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "published_at": "2026-08-13T14:09:05.000Z",
+      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
       "tags": [
+        "Government & Policy",
         "Security",
-        "Transportation",
+        "cyberattacks",
         "cybersecurity",
-        "data breach",
-        "uber freight"
+        "hack back"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3418,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 601,
       "user": "sv-number"
     },
     {
@@ -3433,8 +3411,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 294,
       "user": "RadishXN"
+    },
+    {
+      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
+      "url": "https://github.com/panel-zeus/Z-E-U-S",
+      "published_at": "2026-08-09T02:53:39Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
+      "source": "GitHub",
+      "stars": 234,
+      "user": "panel-zeus"
     },
     {
       "title": "aashaexo/soundshuman - GitHub Repository",
@@ -3450,21 +3443,6 @@
       "source": "GitHub",
       "stars": 229,
       "user": "aashaexo"
-    },
-    {
-      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
-      "url": "https://github.com/panel-zeus/Z-E-U-S",
-      "published_at": "2026-08-09T02:53:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
-      "source": "GitHub",
-      "stars": 226,
-      "user": "panel-zeus"
     },
     {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
@@ -3493,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4234,
+      "stars": 4399,
       "user": "guillaumemeyer"
     },
     {
@@ -3508,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1705,
       "user": "ShawnPana"
     },
     {
@@ -3523,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1669,
       "user": "oil-oil"
     },
     {
@@ -3538,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 506,
       "user": "NikoDemon80"
     },
     {
@@ -3568,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 312,
       "user": "MengMengCode"
     },
     {
@@ -3598,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 161,
       "user": "jundizhou"
     },
     {
@@ -3643,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18541,
+      "stars": 27320,
       "user": "deepseek-ai"
     },
     {
@@ -3658,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1670,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3688,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 842,
       "user": "SaladDay"
     },
     {
@@ -3703,7 +3681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 765,
       "user": "milind-soni"
     },
     {
@@ -3733,7 +3711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "lexmount"
     },
     {
@@ -3763,7 +3741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "hsusul"
     },
     {
@@ -3778,7 +3756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "JohnKinyanjui"
     },
     {
