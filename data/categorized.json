@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5084,
+      "stars": 5170,
       "user": "guillaumemeyer"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "MengMengCode"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 38110,
+      "stars": 38600,
       "user": "deepseek-ai"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1683,
       "user": "SMNETSTUDIO"
     },
     {
@@ -823,18 +823,31 @@
       "user": "pushcx"
     },
     {
-      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
-      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
-      "published_at": "2026-08-12T22:23:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
+      "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
+      "published_at": "2026-08-13T21:32:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "pylance",
-        "static-typing"
+        "machine-learning"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ryan Pierce Williams"
+      "user": "Alexander Bendall"
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "published_at": "2026-08-13T21:13:24.000Z",
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "tags": [
+        "AI",
+        "writer",
+        "Z.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
@@ -903,7 +916,7 @@
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "published_at": "2026-08-13T17:07:13.000Z",
-      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
       "tags": [
         "AI",
         "OpenAI"
@@ -911,35 +924,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "published_at": "2026-08-13T15:30:52.000Z",
-      "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Copilot",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Nvidia&#8217;s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "published_at": "2026-08-13T15:08:00.000Z",
-      "description": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "tags": [
-        "AI",
-        "TC",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
@@ -1331,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "panel-zeus"
     },
     {
@@ -1376,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 38110,
+      "stars": 38600,
       "user": "deepseek-ai"
     },
     {
@@ -1391,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1683,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1406,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 879,
       "user": "SaladDay"
     },
     {
@@ -1436,8 +1420,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "milind-soni"
+    },
+    {
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "Are object URLs now cached on disk instead of memory only?",
@@ -1567,22 +1565,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wiz"
-    },
-    {
-      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
-      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
-      "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "google-chrome-extension",
-        "supabase-js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yash-Nohara"
     },
     {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
@@ -1857,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5084,
+      "stars": 5170,
       "user": "guillaumemeyer"
     },
     {
@@ -1872,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1712,
       "user": "ShawnPana"
     },
     {
@@ -1887,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1684,
       "user": "oil-oil"
     },
     {
@@ -1902,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1020,
       "user": "Leutenegger"
     },
     {
@@ -1931,6 +1913,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seb"
+    },
+    {
+      "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
+      "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
+      "published_at": "2026-08-13T21:32:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "machine-learning"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alexander Bendall"
     },
     {
       "title": "API for iCloud password change",
@@ -2042,20 +2037,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Goswin von Brederlow"
-    },
-    {
-      "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
-      "url": "https://stackoverflow.com/questions/79993622/how-to-get-pylance-static-type-checking-to-work-with-partially-constrained-gener",
-      "published_at": "2026-08-12T22:23:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pylance",
-        "static-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ryan Pierce Williams"
     },
     {
       "title": "How do I pass the value of a child class to its own child class?",
@@ -2410,8 +2391,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5084,
+      "stars": 5170,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "I've got an error with my upgrade buttons",
@@ -2946,22 +2941,6 @@
       "user": "pushcx"
     },
     {
-      "title": "How can a Chrome extension automatically initialize a Supabase database schema for users without requiring them to run SQL manually?",
-      "url": "https://stackoverflow.com/questions/79992308/how-can-a-chrome-extension-automatically-initialize-a-supabase-database-schema-f",
-      "published_at": "2026-08-11T18:31:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "google-chrome-extension",
-        "supabase-js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yash-Nohara"
-    },
-    {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
       "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
       "published_at": "2026-08-13T06:07:39.000Z",
@@ -3198,6 +3177,21 @@
       "user": "radex"
     },
     {
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "published_at": "2026-08-13T21:50:11.000Z",
+      "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "iPhone",
+        "Spyware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "published_at": "2026-08-13T18:28:14.000Z",
@@ -3399,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 249,
       "user": "panel-zeus"
     },
     {
@@ -3444,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5084,
+      "stars": 5170,
       "user": "guillaumemeyer"
     },
     {
@@ -3459,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1712,
       "user": "ShawnPana"
     },
     {
@@ -3474,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1684,
       "user": "oil-oil"
     },
     {
@@ -3489,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1020,
       "user": "Leutenegger"
     },
     {
@@ -3519,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "MengMengCode"
     },
     {
@@ -3594,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 38110,
+      "stars": 38600,
       "user": "deepseek-ai"
     },
     {
@@ -3609,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1683,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3624,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 879,
       "user": "SaladDay"
     },
     {
@@ -3654,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "milind-soni"
     },
     {
