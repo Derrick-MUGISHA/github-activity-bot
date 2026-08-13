@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4788,
       "user": "guillaumemeyer"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "NikoDemon80"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "MengMengCode"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 34905,
+      "stars": 36255,
       "user": "deepseek-ai"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1680,
       "user": "SMNETSTUDIO"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "lexmount"
     },
     {
@@ -857,7 +857,8 @@
       "published_at": "2026-08-13T17:07:13.000Z",
       "description": "Dali Rajic will take over as OpenAI's top salesperson.",
       "tags": [
-        "AI"
+        "AI",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1314,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "RadishXN"
     },
     {
@@ -1329,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 243,
       "user": "panel-zeus"
     },
     {
@@ -1374,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 34905,
+      "stars": 36255,
       "user": "deepseek-ai"
     },
     {
@@ -1389,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1680,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1419,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 849,
       "user": "SaladDay"
     },
     {
@@ -1434,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 789,
       "user": "milind-soni"
     },
     {
@@ -1824,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4788,
       "user": "guillaumemeyer"
     },
     {
@@ -1839,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1707,
       "user": "ShawnPana"
     },
     {
@@ -1854,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1675,
+      "stars": 1677,
       "user": "oil-oil"
     },
     {
@@ -1869,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 686,
       "user": "Leutenegger"
     },
     {
@@ -1884,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "NikoDemon80"
     },
     {
@@ -1898,6 +1899,31 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seb"
+    },
+    {
+      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
+      "url": "https://stackoverflow.com/questions/79993901/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
+      "published_at": "2026-08-13T17:50:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IT 38 Deepanshu Tomar"
+    },
+    {
+      "title": "How can I make this Tkinter application work? I need to stop the threading when I push the stop button of the PyScripter IDE?",
+      "url": "https://stackoverflow.com/questions/79993886/how-can-i-make-this-tkinter-application-work-i-need-to-stop-the-threading-when",
+      "published_at": "2026-08-13T17:15:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Juan Castro"
     },
     {
       "title": "Reproduce n-ary `vmap` from unary",
@@ -2011,33 +2037,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Krishna Kabir"
-    },
-    {
-      "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
-      "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
-      "published_at": "2026-08-12T16:24:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
-    },
-    {
-      "title": "Parsing Binance API kline timestamps — off by 7 hours in my local time?",
-      "url": "https://stackoverflow.com/questions/79993637/parsing-binance-api-kline-timestamps-off-by-7-hours-in-my-local-time",
-      "published_at": "2026-08-13T00:26:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "binance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "riptide99614"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2406,7 +2405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4788,
       "user": "guillaumemeyer"
     },
     {
@@ -3333,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "RadishXN"
     },
     {
@@ -3348,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 243,
       "user": "panel-zeus"
     },
     {
@@ -3393,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 4657,
+      "stars": 4788,
       "user": "guillaumemeyer"
     },
     {
@@ -3408,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1707,
       "user": "ShawnPana"
     },
     {
@@ -3423,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1675,
+      "stars": 1677,
       "user": "oil-oil"
     },
     {
@@ -3438,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 686,
       "user": "Leutenegger"
     },
     {
@@ -3453,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "NikoDemon80"
     },
     {
@@ -3468,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 315,
       "user": "MengMengCode"
     },
     {
@@ -3543,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 34905,
+      "stars": 36255,
       "user": "deepseek-ai"
     },
     {
@@ -3558,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1680,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3588,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 849,
       "user": "SaladDay"
     },
     {
@@ -3603,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 789,
       "user": "milind-soni"
     },
     {
@@ -3633,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 246,
+      "stars": 249,
       "user": "lexmount"
     },
     {
@@ -3648,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 233,
       "user": "fzakaria"
     },
     {
