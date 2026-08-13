@@ -16,21 +16,6 @@
       "user": "Caleb Duff"
     },
     {
-      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
-      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
-      "published_at": "2026-08-12T03:32:11Z",
-      "description": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
-      "tags": [
-        "gemma",
-        "genai",
-        "experiment",
-        "education"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqzzdiw88bpf4m1wlv4vh.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
-    },
-    {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
       "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
       "published_at": "2026-08-12T07:15:38Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
+      "published_at": "2026-08-12T03:32:11Z",
+      "description": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
+      "tags": [
+        "gemma",
+        "genai",
+        "experiment",
+        "education"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqzzdiw88bpf4m1wlv4vh.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
@@ -375,21 +375,6 @@
       "user": "Çalgan Aygün"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "Skills vs MCP: How AI tools have evolved",
       "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
       "published_at": "2026-07-30T17:50:23Z",
@@ -403,6 +388,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Does it still make sense to learn how to code?",
+      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
+      "published_at": "2026-07-30T11:27:07Z",
+      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
+      "tags": [
+        "ai",
+        "learning",
+        "mentorship",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
+      "source": "Dev.to",
+      "user": "Roberto B."
     },
     {
       "title": "The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "sv-number"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "50kg"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3525,
+      "stars": 3706,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 501,
       "user": "NikoDemon80"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "MengMengCode"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 205,
       "user": "surya-koritala"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "jundizhou"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "forever94yu"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1659,
       "user": "SMNETSTUDIO"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 854,
       "user": "sohaibdevv"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 618,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "lexmount"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "JohnKinyanjui"
     },
     {
@@ -1426,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "sv-number"
     },
     {
@@ -1441,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 281,
       "user": "RadishXN"
     },
     {
@@ -1471,7 +1471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 218,
       "user": "panel-zeus"
     },
     {
@@ -1486,7 +1486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "50kg"
     },
     {
@@ -1501,7 +1501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1659,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1516,7 +1516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 854,
       "user": "sohaibdevv"
     },
     {
@@ -1531,7 +1531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "SaladDay"
     },
     {
@@ -1546,7 +1546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 716,
       "user": "milind-soni"
     },
     {
@@ -1561,7 +1561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 618,
       "user": "shadcn-ui"
     },
     {
@@ -1597,7 +1597,7 @@
       "title": "Reorder the properties in each object in an array",
       "url": "https://stackoverflow.com/questions/79993630/reorder-the-properties-in-each-object-in-an-array",
       "published_at": "2026-08-12T23:09:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "arrays",
@@ -1623,20 +1623,6 @@
       "user": "user33026773"
     },
     {
-      "title": "I'm trying to update a counter value in React using useState,",
-      "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
-      "published_at": "2026-08-12T21:21:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-state"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aasim Ghaffar"
-    },
-    {
       "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
       "url": "https://stackoverflow.com/questions/79993535/how-to-interop-with-javascript-dom-and-handle-static-typing-in-virune",
       "published_at": "2026-08-12T14:31:09.000Z",
@@ -1650,10 +1636,24 @@
       "user": "user32881697"
     },
     {
+      "title": "I'm trying to update a counter value in React using useState,",
+      "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
+      "published_at": "2026-08-12T21:21:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-state"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aasim Ghaffar"
+    },
+    {
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "iframe",
@@ -1931,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3525,
+      "stars": 3706,
       "user": "guillaumemeyer"
     },
     {
@@ -1946,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1692,
       "user": "ShawnPana"
     },
     {
@@ -1961,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1659,
       "user": "oil-oil"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 501,
       "user": "NikoDemon80"
     },
     {
@@ -1991,7 +1991,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 367,
       "user": "i3T4AN"
     },
     {
@@ -2005,6 +2005,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seb"
+    },
+    {
+      "title": "Python dictionary with threads",
+      "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
+      "published_at": "2026-08-13T10:03:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "multithreading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Agent"
     },
     {
       "title": "Why can adding logging make a Python race condition disappear?",
@@ -2050,6 +2063,22 @@
       "user": "Nathanael Tom Aterado"
     },
     {
+      "title": "Unable to allocate TiB for an array with shape data type uint8",
+      "url": "https://stackoverflow.com/questions/79993636/unable-to-allocate-tib-for-an-array-with-shape-data-type-uint8",
+      "published_at": "2026-08-13T00:15:25.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "numpy",
+        "out-of-memory",
+        "dask",
+        "numpy-memmap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loro"
+    },
+    {
       "title": "How do I pass the value of a child class to its own child class?",
       "url": "https://stackoverflow.com/questions/79993661/how-do-i-pass-the-value-of-a-child-class-to-its-own-child-class",
       "published_at": "2026-08-13T02:47:15.000Z",
@@ -2077,26 +2106,10 @@
       "user": "riptide99614"
     },
     {
-      "title": "Unable to allocate TiB for an array with shape data type uint8",
-      "url": "https://stackoverflow.com/questions/79993636/unable-to-allocate-tib-for-an-array-with-shape-data-type-uint8",
-      "published_at": "2026-08-13T00:15:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "numpy",
-        "out-of-memory",
-        "dask",
-        "numpy-memmap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Loro"
-    },
-    {
       "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
       "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
       "published_at": "2026-08-12T16:24:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "pandas",
@@ -2124,7 +2137,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "python-sphinx",
@@ -2134,22 +2147,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jon_two"
-    },
-    {
-      "title": "Receiving an pydantic error within streamlit",
-      "url": "https://stackoverflow.com/questions/79993560/receiving-an-pydantic-error-within-streamlit",
-      "published_at": "2026-08-12T16:09:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "pydantic",
-        "streamlit",
-        "validationerror",
-        "groq"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "StayLoProfile"
     }
   ],
   "DevOps": [
@@ -2359,7 +2356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 205,
       "user": "surya-koritala"
     },
     {
@@ -2379,7 +2376,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "python-sphinx",
@@ -2519,7 +2516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "50kg"
     },
     {
@@ -2534,7 +2531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3525,
+      "stars": 3706,
       "user": "guillaumemeyer"
     },
     {
@@ -2572,7 +2569,7 @@
       "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
       "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
       "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "iframe",
@@ -3004,7 +3001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "forever94yu"
     },
     {
@@ -3500,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "sv-number"
     },
     {
@@ -3515,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 281,
       "user": "RadishXN"
     },
     {
@@ -3545,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 218,
       "user": "panel-zeus"
     },
     {
@@ -3560,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 186,
       "user": "50kg"
     },
     {
@@ -3575,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 3525,
+      "stars": 3706,
       "user": "guillaumemeyer"
     },
     {
@@ -3590,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1692,
       "user": "ShawnPana"
     },
     {
@@ -3605,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1657,
+      "stars": 1659,
       "user": "oil-oil"
     },
     {
@@ -3620,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 501,
       "user": "NikoDemon80"
     },
     {
@@ -3635,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 367,
       "user": "i3T4AN"
     },
     {
@@ -3650,7 +3647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 289,
       "user": "MengMengCode"
     },
     {
@@ -3665,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 205,
       "user": "surya-koritala"
     },
     {
@@ -3680,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "jundizhou"
     },
     {
@@ -3695,7 +3692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 82,
       "user": "forever94yu"
     },
     {
@@ -3725,7 +3722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1659,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3740,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 854,
       "user": "sohaibdevv"
     },
     {
@@ -3755,7 +3752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "SaladDay"
     },
     {
@@ -3770,7 +3767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 716,
       "user": "milind-soni"
     },
     {
@@ -3785,7 +3782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 618,
       "user": "shadcn-ui"
     },
     {
@@ -3800,7 +3797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 925,
       "user": "Flaminis"
     },
     {
@@ -3815,7 +3812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 228,
       "user": "fzakaria"
     },
     {
@@ -3830,7 +3827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 226,
       "user": "lexmount"
     },
     {
@@ -3845,7 +3842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 178,
       "user": "hsusul"
     },
     {
@@ -3860,7 +3857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "JohnKinyanjui"
     },
     {
