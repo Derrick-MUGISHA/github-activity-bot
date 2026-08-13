@@ -633,21 +633,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "published_at": "2026-08-06T10:38:49Z",
-      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
-      "source": "GitHub",
-      "stars": 1164,
-      "user": "eternityspring"
-    },
-    {
       "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "url": "https://github.com/sv-number/mcp-server",
       "published_at": "2026-08-07T11:13:26Z",
@@ -659,8 +644,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "sv-number"
+    },
+    {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "50kg"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2334,
       "user": "guillaumemeyer"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "NikoDemon80"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 220,
       "user": "MengMengCode"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "jundizhou"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "forever94yu"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 585,
       "user": "shadcn-ui"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "lexmount"
     },
     {
@@ -905,7 +905,8 @@
       "tags": [
         "AI",
         "Anthropic",
-        "Claude"
+        "Claude",
+        "watermarks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1430,36 +1431,6 @@
       "user": "velmu"
     },
     {
-      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "published_at": "2026-08-06T10:38:49Z",
-      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
-      "source": "GitHub",
-      "stars": 1164,
-      "user": "eternityspring"
-    },
-    {
-      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "published_at": "2026-08-06T03:59:32Z",
-      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
-      "source": "GitHub",
-      "stars": 911,
-      "user": "LaoFeng-mouse"
-    },
-    {
       "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "url": "https://github.com/sv-number/mcp-server",
       "published_at": "2026-08-07T11:13:26Z",
@@ -1471,38 +1442,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "sv-number"
     },
     {
-      "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
-      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
-      "published_at": "2026-08-06T22:44:53Z",
+      "title": "aashaexo/soundshuman - GitHub Repository",
+      "url": "https://github.com/aashaexo/soundshuman",
+      "published_at": "2026-08-07T19:11:26Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 422,
-      "user": "achrefelouafi"
+      "stars": 223,
+      "user": "aashaexo"
     },
     {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "published_at": "2026-08-06T08:24:58Z",
-      "description": "polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
+      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
+      "url": "https://github.com/panel-zeus/Z-E-U-S",
+      "published_at": "2026-08-09T02:53:39Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "ruudkoeyvoets"
+      "stars": 192,
+      "user": "panel-zeus"
+    },
+    {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "50kg"
+    },
+    {
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "url": "https://github.com/RadishXN/run-abroad",
+      "published_at": "2026-08-12T02:54:15Z",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "RadishXN"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1546,7 +1547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 758,
       "user": "SaladDay"
     },
     {
@@ -1561,7 +1562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 585,
       "user": "shadcn-ui"
     },
     {
@@ -1576,7 +1577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 581,
       "user": "milind-soni"
     },
     {
@@ -1597,7 +1598,7 @@
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1612,7 +1613,7 @@
       "title": "I'm trying to update a counter value in React using useState,",
       "url": "https://stackoverflow.com/questions/79993613/im-trying-to-update-a-counter-value-in-react-using-usestate",
       "published_at": "2026-08-12T21:21:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "reactjs",
@@ -1652,6 +1653,19 @@
       "user": "FlyPhoenix"
     },
     {
+      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
+      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
+      "published_at": "2026-08-11T15:31:28.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bill42"
+    },
+    {
       "title": "Generating grouped PDF from paginated API data in React/jsPDF without loading all rows into memory",
       "url": "https://stackoverflow.com/questions/79992207/generating-grouped-pdf-from-paginated-api-data-in-react-jspdf-without-loading-al",
       "published_at": "2026-08-11T10:31:51.000Z",
@@ -1666,19 +1680,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Wiz"
-    },
-    {
-      "title": "Is /[\\s\\S]/ the same as saying /.|\\n/ in regex",
-      "url": "https://stackoverflow.com/questions/79992273/is-s-s-the-same-as-saying-n-in-regex",
-      "published_at": "2026-08-11T15:31:28.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bill42"
     },
     {
       "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
@@ -1947,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2334,
       "user": "guillaumemeyer"
     },
     {
@@ -1962,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1636,
       "user": "ShawnPana"
     },
     {
@@ -1977,7 +1978,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1613,
       "user": "oil-oil"
     },
     {
@@ -1992,23 +1993,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "NikoDemon80"
     },
     {
-      "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
-      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-      "published_at": "2026-08-06T06:43:28Z",
-      "description": "Trending GitHub Repository",
+      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "published_at": "2026-08-08T21:17:53Z",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "Larryvrh"
+      "stars": 281,
+      "user": "JayJokerr"
+    },
+    {
+      "title": "Unable to allocate TiB for an array with shape data type uint8",
+      "url": "https://stackoverflow.com/questions/79993636/unable-to-allocate-tib-for-an-array-with-shape-data-type-uint8",
+      "published_at": "2026-08-13T00:15:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "numpy",
+        "out-of-memory",
+        "dask",
+        "numpy-memmap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loro"
     },
     {
       "title": "How to get Pylance Static Type Checking to work with partially constrained Generic Type Arguments without warnings?",
@@ -2028,7 +2045,7 @@
       "title": "Filter out rows from a DataFrame if value in columns X and Y match MultiIndex A and B",
       "url": "https://stackoverflow.com/questions/79993566/filter-out-rows-from-a-dataframe-if-value-in-columns-x-and-y-match-multiindex-a",
       "published_at": "2026-08-12T16:24:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -2037,6 +2054,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kes Perron"
+    },
+    {
+      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
+      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
+      "published_at": "2026-08-12T15:05:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "python-sphinx",
+        "cicd",
+        "link-checking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jon_two"
     },
     {
       "title": "Receiving an pydantic error within streamlit",
@@ -2053,21 +2085,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "StayLoProfile"
-    },
-    {
-      "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
-      "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
-      "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-sphinx",
-        "cicd",
-        "link-checking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jon_two"
     },
     {
       "title": "How to extend FastAPI's OAuth2PasswordBearer logout feature?",
@@ -2139,22 +2156,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "notanothercliche"
-    },
-    {
-      "title": "Scraping web with Cloudflare Turnstile (Token)",
-      "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
-      "published_at": "2026-08-12T01:13:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping",
-        "request",
-        "cloudflare",
-        "cloudflare-turnstile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NaejF"
     }
   ],
   "DevOps": [
@@ -2384,7 +2385,7 @@
       "title": "How to reference Stack Overflow answers in CI/CD without getting flagged as a bot",
       "url": "https://stackoverflow.com/questions/79993546/how-to-reference-stack-overflow-answers-in-ci-cd-without-getting-flagged-as-a-bo",
       "published_at": "2026-08-12T15:05:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "python-sphinx",
@@ -2513,6 +2514,21 @@
       "user": "velmu"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "50kg"
+    },
+    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -2524,14 +2540,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2334,
       "user": "guillaumemeyer"
     },
     {
       "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
       "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
       "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2976,7 +2992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "forever94yu"
     },
     {
@@ -2993,22 +3009,6 @@
       "source": "GitHub",
       "stars": 129,
       "user": "EurekaZang"
-    },
-    {
-      "title": "Scraping web with Cloudflare Turnstile (Token)",
-      "url": "https://stackoverflow.com/questions/79992367/scraping-web-with-cloudflare-turnstile-token",
-      "published_at": "2026-08-12T01:13:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "web-scraping",
-        "request",
-        "cloudflare",
-        "cloudflare-turnstile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NaejF"
     }
   ],
   "Database": [
@@ -3481,36 +3481,6 @@
       "user": "pabs3"
     },
     {
-      "title": "eternityspring/shuohao-skills - AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
-      "published_at": "2026-08-06T10:38:49Z",
-      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5795147?v=4",
-      "source": "GitHub",
-      "stars": 1164,
-      "user": "eternityspring"
-    },
-    {
-      "title": "LaoFeng-mouse/flyingmouse-format - 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "published_at": "2026-08-06T03:59:32Z",
-      "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273417284?v=4",
-      "source": "GitHub",
-      "stars": 911,
-      "user": "LaoFeng-mouse"
-    },
-    {
       "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
       "url": "https://github.com/sv-number/mcp-server",
       "published_at": "2026-08-07T11:13:26Z",
@@ -3522,38 +3492,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "sv-number"
     },
     {
-      "title": "achrefelouafi/LinearAbiltyCastingThreeJS - GitHub Repository",
-      "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
-      "published_at": "2026-08-06T22:44:53Z",
+      "title": "aashaexo/soundshuman - GitHub Repository",
+      "url": "https://github.com/aashaexo/soundshuman",
+      "published_at": "2026-08-07T19:11:26Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
       "source": "GitHub",
-      "stars": 422,
-      "user": "achrefelouafi"
+      "stars": 223,
+      "user": "aashaexo"
     },
     {
-      "title": "ruudkoeyvoets/polymarket-trading-bot-twap - polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
-      "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
-      "published_at": "2026-08-06T08:24:58Z",
-      "description": "polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket trading bot twap | polymarket bot twap",
+      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
+      "url": "https://github.com/panel-zeus/Z-E-U-S",
+      "published_at": "2026-08-09T02:53:39Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8394672?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 302,
-      "user": "ruudkoeyvoets"
+      "stars": 192,
+      "user": "panel-zeus"
+    },
+    {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 167,
+      "user": "50kg"
+    },
+    {
+      "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "url": "https://github.com/RadishXN/run-abroad",
+      "published_at": "2026-08-12T02:54:15Z",
+      "description": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "RadishXN"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3567,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2334,
       "user": "guillaumemeyer"
     },
     {
@@ -3582,7 +3582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1636,
       "user": "ShawnPana"
     },
     {
@@ -3597,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1613,
       "user": "oil-oil"
     },
     {
@@ -3612,23 +3612,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 477,
       "user": "NikoDemon80"
     },
     {
-      "title": "Larryvrh/ComfyUI-MiniMax-H3-Turbo - GitHub Repository",
-      "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-      "published_at": "2026-08-06T06:43:28Z",
-      "description": "Trending GitHub Repository",
+      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "published_at": "2026-08-08T21:17:53Z",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/15991834?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 411,
-      "user": "Larryvrh"
+      "stars": 281,
+      "user": "JayJokerr"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3642,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 220,
       "user": "MengMengCode"
     },
     {
@@ -3672,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "jundizhou"
     },
     {
@@ -3687,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 80,
       "user": "forever94yu"
     },
     {
@@ -3747,7 +3747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 758,
       "user": "SaladDay"
     },
     {
@@ -3762,7 +3762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139895814?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 585,
       "user": "shadcn-ui"
     },
     {
@@ -3777,7 +3777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 581,
       "user": "milind-soni"
     },
     {
@@ -3792,7 +3792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 887,
       "user": "Flaminis"
     },
     {
@@ -3807,7 +3807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 172,
       "user": "lexmount"
     },
     {
