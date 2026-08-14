@@ -31,21 +31,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
       "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
       "published_at": "2026-08-12T03:32:11Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
     },
     {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6826,
+      "stars": 7005,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 354,
       "user": "MengMengCode"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "surya-koritala"
     },
     {
@@ -648,6 +648,21 @@
       "user": "forever94yu"
     },
     {
+      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
+      "url": "https://github.com/pgrundev/pgbot",
+      "published_at": "2026-08-11T23:41:52Z",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 75,
+      "user": "pgrundev"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 89097,
+      "stars": 90606,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1703,
+      "stars": 1706,
       "user": "SMNETSTUDIO"
     },
     {
@@ -708,6 +723,19 @@
       "user": "JohnKinyanjui"
     },
     {
+      "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+      "published_at": "2026-08-14T04:43:51.937-05:00",
+      "description": "Uses https://slopscan.ava.pet internally (previously discussed at: https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm)",
+      "tags": [
+        "browsers",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aka_dude"
+    },
+    {
       "title": "AI is removing the middle class of software engineering",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "published_at": "2026-08-13T09:03:13.761-05:00",
@@ -721,17 +749,46 @@
       "user": "facundoolano"
     },
     {
-      "title": "How to cull a pair based of relative distance between the centre of two objects?",
-      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
-      "published_at": "2026-08-14T13:18:45.000Z",
+      "title": "Socket Emit fail to delivery in multi-worker",
+      "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
+      "published_at": "2026-08-14T14:11:06.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "python-3.x"
+        "flask",
+        "flask-socketio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harry"
+    },
+    {
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Krishna Kabir"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "published_at": "2026-08-14T14:05:00.000Z",
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "tags": [
+        "Climate",
+        "AI",
+        "Amazon",
+        "Google",
+        "Microsoft"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
@@ -839,22 +896,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "published_at": "2026-08-13T18:28:14.000Z",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "tags": [
-        "AI",
-        "Security",
-        "AI agents",
-        "alignment",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1229,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "RadishXN"
     },
     {
@@ -1244,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 297,
       "user": "NousResearch"
     },
     {
@@ -1259,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "panel-zeus"
     },
     {
@@ -1289,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 156,
       "user": "turtle2209"
     },
     {
@@ -1304,23 +1345,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 89097,
+      "stars": 90606,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "published_at": "2026-08-10T09:06:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
-      "source": "GitHub",
-      "stars": 1703,
-      "user": "SMNETSTUDIO"
     },
     {
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
@@ -1334,8 +1360,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1738,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "published_at": "2026-08-10T09:06:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
+      "source": "GitHub",
+      "stars": 1706,
+      "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "published_at": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "source": "GitHub",
+      "stars": 1107,
+      "user": "anywhere-labs"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -1349,23 +1405,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 961,
       "user": "SaladDay"
-    },
-    {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "published_at": "2026-08-13T16:30:50Z",
-      "description": "为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
-      "source": "GitHub",
-      "stars": 946,
-      "user": "anywhere-labs"
     },
     {
       "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
@@ -1399,7 +1440,7 @@
       "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
       "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
       "published_at": "2026-08-14T06:33:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "dom",
@@ -1408,6 +1449,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Robin Jhon"
+    },
+    {
+      "title": "How to make an animated menu icon show/hide menu",
+      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
+      "published_at": "2026-08-13T21:45:04.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "V. M. Ent"
     },
     {
       "title": "How to query a custom element's internal elements while in the document from a DOMParser()?",
@@ -1422,20 +1477,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "How to make an animated menu icon show/hide menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
-      "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "V. M. Ent"
     },
     {
       "title": "Null is not an object for DOM",
@@ -1782,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6826,
+      "stars": 7005,
       "user": "guillaumemeyer"
     },
     {
@@ -1801,6 +1842,21 @@
       "user": "Leutenegger"
     },
     {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "published_at": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
+      "source": "GitHub",
+      "stars": 817,
+      "user": "awesome-dsh-plugin"
+    },
+    {
       "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "url": "https://github.com/0xsline/awesome-deepseek-harness",
       "published_at": "2026-08-11T13:14:49Z",
@@ -1812,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 369,
       "user": "0xsline"
     },
     {
@@ -1831,21 +1887,6 @@
       "user": "i3T4AN"
     },
     {
-      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
-      "url": "https://github.com/gfodor/legal-skills",
-      "published_at": "2026-08-12T21:14:16Z",
-      "description": "Replacing lawyers with markdown files",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
-      "source": "GitHub",
-      "stars": 328,
-      "user": "gfodor"
-    },
-    {
       "title": "python's pre-declared constants are kinda weird",
       "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
       "published_at": "2026-08-13T00:28:40.501-05:00",
@@ -1858,36 +1899,36 @@
       "user": "seb"
     },
     {
-      "title": "How to cull a pair based of relative distance between the centre of two objects?",
-      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
-      "published_at": "2026-08-14T13:18:45.000Z",
+      "title": "Socket Emit fail to delivery in multi-worker",
+      "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
+      "published_at": "2026-08-14T14:11:06.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "python-3.x"
+        "flask",
+        "flask-socketio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harry"
+    },
+    {
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Krishna Kabir"
     },
     {
-      "title": "How do you ensure in Python that you can open files with the program you created?",
-      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
-      "published_at": "2026-08-14T12:44:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "open-with"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
       "title": "Consumer also listens to other channels in the same exchange",
       "url": "https://stackoverflow.com/questions/79995064/consumer-also-listens-to-other-channels-in-the-same-exchange",
       "published_at": "2026-08-14T11:23:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "rabbitmq"
@@ -1897,10 +1938,23 @@
       "user": "BertC"
     },
     {
+      "title": "How do you ensure in Python that you can open files with the program you created?",
+      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
+      "published_at": "2026-08-14T12:44:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "open-with"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "How to create spectrogram a really image data from a WAV file?",
       "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
       "published_at": "2026-08-14T12:57:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "scipy",
@@ -1956,7 +2010,7 @@
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
       "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
       "published_at": "2026-08-14T02:43:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -1965,32 +2019,17 @@
       "user": "tayni khatri"
     },
     {
-      "title": "Why can adding logging make a Python race condition disappear?",
-      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
-      "published_at": "2026-08-13T08:32:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "title": "Reproduce n-ary `vmap` from unary",
+      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
+      "published_at": "2026-08-13T16:37:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "multithreading",
-        "race-condition"
+        "jax"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Edmon Dantes"
-    },
-    {
-      "title": "Python dictionary with threads",
-      "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
-      "published_at": "2026-08-13T10:03:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Agent"
+      "user": "joel"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2184,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "surya-koritala"
     }
   ],
@@ -2301,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6826,
+      "stars": 7005,
       "user": "guillaumemeyer"
     },
     {
@@ -2323,7 +2362,7 @@
       "title": "How to make an animated menu icon show/hide menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "html",
@@ -2499,7 +2538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1738,
       "user": "zhu1090093659"
     }
   ],
@@ -3075,22 +3114,6 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "published_at": "2026-08-13T18:28:14.000Z",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "tags": [
-        "AI",
-        "Security",
-        "AI agents",
-        "alignment",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
       "published_at": "2026-08-12T15:47:01.000Z",
@@ -3246,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "RadishXN"
     },
     {
@@ -3261,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 297,
       "user": "NousResearch"
     },
     {
@@ -3276,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "panel-zeus"
     },
     {
@@ -3306,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 156,
       "user": "turtle2209"
     },
     {
@@ -3321,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6826,
+      "stars": 7005,
       "user": "guillaumemeyer"
     },
     {
@@ -3340,6 +3363,21 @@
       "user": "Leutenegger"
     },
     {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "published_at": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
+      "source": "GitHub",
+      "stars": 817,
+      "user": "awesome-dsh-plugin"
+    },
+    {
       "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
       "url": "https://github.com/0xsline/awesome-deepseek-harness",
       "published_at": "2026-08-11T13:14:49Z",
@@ -3351,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 369,
       "user": "0xsline"
     },
     {
@@ -3370,21 +3408,6 @@
       "user": "i3T4AN"
     },
     {
-      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
-      "url": "https://github.com/gfodor/legal-skills",
-      "published_at": "2026-08-12T21:14:16Z",
-      "description": "Replacing lawyers with markdown files",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
-      "source": "GitHub",
-      "stars": 328,
-      "user": "gfodor"
-    },
-    {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
       "url": "https://github.com/MengMengCode/VoCat",
       "published_at": "2026-08-09T06:43:49Z",
@@ -3396,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 354,
       "user": "MengMengCode"
     },
     {
@@ -3411,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 212,
+      "stars": 213,
       "user": "surya-koritala"
     },
     {
@@ -3426,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "WongLoki"
     },
     {
@@ -3445,19 +3468,19 @@
       "user": "forever94yu"
     },
     {
-      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
-      "url": "https://github.com/zepto-labs/scherry",
-      "published_at": "2026-08-11T08:59:18Z",
-      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
+      "url": "https://github.com/pgrundev/pgbot",
+      "published_at": "2026-08-11T23:41:52Z",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 71,
-      "user": "zepto-labs"
+      "stars": 75,
+      "user": "pgrundev"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3471,23 +3494,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 89097,
+      "stars": 90606,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "published_at": "2026-08-10T09:06:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
-      "source": "GitHub",
-      "stars": 1703,
-      "user": "SMNETSTUDIO"
     },
     {
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
@@ -3501,8 +3509,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1738,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "published_at": "2026-08-10T09:06:43Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
+      "source": "GitHub",
+      "stars": 1706,
+      "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "published_at": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "source": "GitHub",
+      "stars": 1107,
+      "user": "anywhere-labs"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -3516,23 +3554,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 961,
       "user": "SaladDay"
-    },
-    {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "published_at": "2026-08-13T16:30:50Z",
-      "description": "为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
-      "source": "GitHub",
-      "stars": 946,
-      "user": "anywhere-labs"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3561,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "fzakaria"
     },
     {
@@ -3608,6 +3631,19 @@
       "source": "GitHub",
       "stars": 130,
       "user": "EurekaZang"
+    },
+    {
+      "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+      "published_at": "2026-08-14T04:43:51.937-05:00",
+      "description": "Uses https://slopscan.ava.pet internally (previously discussed at: https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm)",
+      "tags": [
+        "browsers",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aka_dude"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
