@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "50kg"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7943,
+      "stars": 7972,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "xinxinshuhao-create"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "pgrundev"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94739,
+      "stars": 94797,
       "user": "deepseek-ai"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "lexmount"
     },
     {
@@ -802,97 +802,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harry"
-    },
-    {
-      "title": "Self-driving trucks are officially testing on California highways",
-      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "published_at": "2026-08-14T20:37:49.000Z",
-      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "tags": [
-        "Transportation",
-        "aurora",
-        "kodiak ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "published_at": "2026-08-14T19:33:00.000Z",
-      "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-      "tags": [
-        "TC",
-        "Venture",
-        "Jared Kushner",
-        "Thrive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "published_at": "2026-08-14T16:13:40.000Z",
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "published_at": "2026-08-14T15:43:28.000Z",
-      "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
-      "tags": [
-        "AI",
-        "Amazon",
-        "Anthropic",
-        "data centers",
-        "Joby Aviation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "published_at": "2026-08-14T14:50:11.000Z",
-      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI inference"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "published_at": "2026-08-14T14:05:00.000Z",
-      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Amazon",
-        "Exclusive",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1255,7 +1164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "NousResearch"
     },
     {
@@ -1300,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "xiaobright"
     },
     {
@@ -1315,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "50kg"
     },
     {
@@ -1330,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94739,
+      "stars": 94797,
       "user": "deepseek-ai"
     },
     {
@@ -1345,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1920,
       "user": "zhu1090093659"
     },
     {
@@ -1360,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1749,
       "user": "anywhere-labs"
     },
     {
@@ -1806,23 +1715,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7943,
+      "stars": 7972,
       "user": "guillaumemeyer"
-    },
-    {
-      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "published_at": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
-      "source": "GitHub",
-      "stars": 1062,
-      "user": "Leutenegger"
     },
     {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
@@ -1836,8 +1730,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "awesome-dsh-plugin"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 1063,
+      "user": "Leutenegger"
     },
     {
       "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
@@ -1866,21 +1775,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "xinxinshuhao-create"
-    },
-    {
-      "title": "Write multiple values to file in mounted local folder",
-      "url": "https://stackoverflow.com/questions/79995205/write-multiple-values-to-file-in-mounted-local-folder",
-      "published_at": "2026-08-14T20:35:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
     },
     {
       "title": "Yocto recipe that depends on a local file",
@@ -1895,6 +1791,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David C."
+    },
+    {
+      "title": "Write multiple values to file in mounted local folder",
+      "url": "https://stackoverflow.com/questions/79995205/write-multiple-values-to-file-in-mounted-local-folder",
+      "published_at": "2026-08-14T20:35:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
     },
     {
       "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
@@ -2360,7 +2269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "50kg"
     },
     {
@@ -2375,7 +2284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7943,
+      "stars": 7972,
       "user": "guillaumemeyer"
     },
     {
@@ -2558,37 +2467,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1920,
       "user": "zhu1090093659"
-    },
-    {
-      "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
-      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "published_at": "2026-08-14T16:21:04.000Z",
-      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-      "tags": [
-        "Apps",
-        "iOS apps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "published_at": "2026-08-14T14:54:48.000Z",
-      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple",
-        "Epic Games",
-        "lawsuit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2816,22 +2696,6 @@
       "source": "GitHub",
       "stars": 87,
       "user": "forever94yu"
-    },
-    {
-      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "published_at": "2026-08-14T14:54:48.000Z",
-      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple",
-        "Epic Games",
-        "lawsuit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -3084,24 +2948,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "xinxinshuhao-create"
-    },
-    {
-      "title": "What we know about the alleged Iranian hacks on US water utilities",
-      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-      "published_at": "2026-08-14T19:04:32.000Z",
-      "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
-      "tags": [
-        "Security",
-        "critical infrastructure",
-        "cyberattacks",
-        "cybersecurity",
-        "Georgia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3228,7 +3076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "NousResearch"
     },
     {
@@ -3273,7 +3121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "xiaobright"
     },
     {
@@ -3288,7 +3136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "50kg"
     },
     {
@@ -3303,23 +3151,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7943,
+      "stars": 7972,
       "user": "guillaumemeyer"
-    },
-    {
-      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "published_at": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
-      "source": "GitHub",
-      "stars": 1062,
-      "user": "Leutenegger"
     },
     {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
@@ -3333,8 +3166,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1062,
+      "stars": 1064,
       "user": "awesome-dsh-plugin"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 1063,
+      "user": "Leutenegger"
     },
     {
       "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
@@ -3363,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3408,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "pgrundev"
     },
     {
@@ -3453,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94739,
+      "stars": 94797,
       "user": "deepseek-ai"
     },
     {
@@ -3468,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1918,
+      "stars": 1920,
       "user": "zhu1090093659"
     },
     {
@@ -3483,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1743,
+      "stars": 1749,
       "user": "anywhere-labs"
     },
     {
@@ -3528,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "lexmount"
     },
     {
@@ -3634,20 +3482,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Berry Delight"
-    },
-    {
-      "title": "Self-driving trucks are officially testing on California highways",
-      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "published_at": "2026-08-14T20:37:49.000Z",
-      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "tags": [
-        "Transportation",
-        "aurora",
-        "kodiak ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
