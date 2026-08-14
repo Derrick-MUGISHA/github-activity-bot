@@ -1,6 +1,35 @@
 {
   "AI": [
     {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "tags": [
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Looker's Native MCP Server with Claude Code",
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
       "published_at": "2026-08-14T14:00:55Z",
@@ -91,6 +120,20 @@
       "user": "xbill"
     },
     {
+      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
+      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7",
+      "published_at": "2026-08-13T04:18:51Z",
+      "description": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
+      "tags": [
+        "gemini",
+        "vibecoding",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fugmplgpci0ba4zzv4fg4.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
+    },
+    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -119,20 +162,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
       "source": "Dev.to",
       "user": "Sarvar Nadaf"
-    },
-    {
-      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
-      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7",
-      "published_at": "2026-08-13T04:18:51Z",
-      "description": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
-      "tags": [
-        "gemini",
-        "vibecoding",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fugmplgpci0ba4zzv4fg4.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
     },
     {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
@@ -375,21 +404,6 @@
       "user": "Çalgan Aygün"
     },
     {
-      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
-      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
-      "published_at": "2026-08-07T11:30:53Z",
-      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "animation",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
-      "source": "Dev.to",
-      "user": "Muhammad Ammar"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -569,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "50kg"
     },
     {
@@ -584,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7467,
       "user": "guillaumemeyer"
     },
     {
@@ -599,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "MengMengCode"
     },
     {
@@ -618,6 +632,21 @@
       "user": "surya-koritala"
     },
     {
+      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
+      "url": "https://github.com/pgrundev/pgbot",
+      "published_at": "2026-08-11T23:41:52Z",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "pgrundev"
+    },
+    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -633,21 +662,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
-      "url": "https://github.com/pgrundev/pgbot",
-      "published_at": "2026-08-11T23:41:52Z",
-      "description": "pgbot - Postgres intelligence for AI agents & apps",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 86,
-      "user": "pgrundev"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -659,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 92695,
+      "stars": 93478,
       "user": "deepseek-ai"
     },
     {
@@ -719,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 148,
       "user": "Awaker-OTE"
     },
     {
@@ -765,12 +779,13 @@
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "published_at": "2026-08-14T16:13:40.000Z",
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
       "tags": [
         "AI",
         "Apps",
         "gemini",
-        "Google"
+        "Google",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -870,6 +885,22 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
+      "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
+      "published_at": "2026-08-14T15:57:42.000Z",
+      "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
+    },
+    {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
       "url": "https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/",
       "published_at": "2026-08-13T22:50:32.000Z",
@@ -926,40 +957,9 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Mohammed Fahd Abrah"
-    },
-    {
-      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
-      "published_at": "2026-08-12T15:47:01.000Z",
-      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
-      "tags": [
-        "ai agents",
-        "authentication",
-        "tool calling",
-        "oauth",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Saif Ali Shaik"
     }
   ],
   "JavaScript": [
-    {
-      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
-      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
-      "published_at": "2026-08-12T23:05:09Z",
-      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
       "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
@@ -972,6 +972,21 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
+      "published_at": "2026-08-12T23:05:09Z",
+      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -1094,21 +1109,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8g2ou80or7pl9r07qktj.png",
       "source": "Dev.to",
       "user": "Mike"
-    },
-    {
-      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
-      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
-      "published_at": "2026-08-07T11:30:53Z",
-      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "animation",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
-      "source": "Dev.to",
-      "user": "Muhammad Ammar"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "RadishXN"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 325,
       "user": "NousResearch"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "panel-zeus"
     },
     {
@@ -1287,23 +1287,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "50kg"
     },
     {
-      "title": "turtle2209/Bigfish - Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
-      "url": "https://github.com/turtle2209/Bigfish",
-      "published_at": "2026-08-14T00:55:01Z",
-      "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
+      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "published_at": "2026-08-14T14:06:39Z",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 165,
-      "user": "turtle2209"
+      "stars": 173,
+      "user": "xiaobright"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 92695,
+      "stars": 93478,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1871,
       "user": "zhu1090093659"
     },
     {
@@ -1351,10 +1351,10 @@
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
       "tags": [
         "typescript",
         "github",
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1463,
+      "stars": 1563,
       "user": "anywhere-labs"
     },
     {
@@ -1377,8 +1377,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 970,
       "user": "SaladDay"
+    },
+    {
+      "title": "How can I convert a date between IANA time zones in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79995156/how-can-i-convert-a-date-between-iana-time-zones-in-javascript",
+      "published_at": "2026-08-14T16:59:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "time",
+        "zone",
+        "utilities"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Waqas Solangi"
+    },
+    {
+      "title": "How to handle invalid date in Flatpickr",
+      "url": "https://stackoverflow.com/questions/79995134/how-to-handle-invalid-date-in-flatpickr",
+      "published_at": "2026-08-14T15:55:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "flatpickr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NormB"
     },
     {
       "title": "How can I prevent duplicate API requests in JavaScript?",
@@ -1495,33 +1523,20 @@
       "user": "FlyPhoenix"
     },
     {
-      "title": "Are object URLs now cached on disk instead of memory only?",
-      "url": "https://stackoverflow.com/questions/79993675/are-object-urls-now-cached-on-disk-instead-of-memory-only",
-      "published_at": "2026-08-13T03:38:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
+      "published_at": "2026-08-14T15:57:42.000Z",
+      "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
       "tags": [
-        "javascript",
-        "revokeobjecturl"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
-      "title": "I've got an error with my upgrade buttons",
-      "url": "https://stackoverflow.com/questions/79993669/ive-got-an-error-with-my-upgrade-buttons",
-      "published_at": "2026-08-13T03:17:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "function",
-        "variables",
-        "button"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027501"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1585,25 +1600,23 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
-      "published_at": "2026-08-12T15:47:01.000Z",
-      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
-      "tags": [
-        "ai agents",
-        "authentication",
-        "tool calling",
-        "oauth",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Saif Ali Shaik"
     }
   ],
   "Python": [
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
     {
       "title": "Do I Still Need a Monkey Patch for Gemini Live?",
       "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e",
@@ -1796,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7467,
       "user": "guillaumemeyer"
     },
     {
@@ -1811,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1058,
       "user": "Leutenegger"
     },
     {
@@ -1826,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 982,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1841,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 395,
       "user": "0xsline"
     },
     {
@@ -1875,7 +1888,7 @@
       "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
       "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
       "published_at": "2026-08-14T15:32:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "tkinter"
@@ -1911,6 +1924,22 @@
       "user": "Krishna Kabir"
     },
     {
+      "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
+      "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
+      "published_at": "2026-08-14T08:36:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "unit-testing",
+        "asynchronous",
+        "discord.py",
+        "mocking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Berry Delight"
+    },
+    {
       "title": "How to create spectrogram a really image data from a WAV file?",
       "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
       "published_at": "2026-08-14T12:57:23.000Z",
@@ -1928,7 +1957,7 @@
       "title": "How do you ensure in Python that you can open files with the program you created?",
       "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
       "published_at": "2026-08-14T12:44:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "open-with"
@@ -1962,22 +1991,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user23487612"
-    },
-    {
-      "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
-      "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
-      "published_at": "2026-08-14T08:36:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "unit-testing",
-        "asynchronous",
-        "discord.py",
-        "mocking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Berry Delight"
     },
     {
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
@@ -2019,6 +2032,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "tags": [
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
       "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
@@ -2328,7 +2356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "50kg"
     },
     {
@@ -2343,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7467,
       "user": "guillaumemeyer"
     },
     {
@@ -2406,20 +2434,20 @@
       "user": "FlyPhoenix"
     },
     {
-      "title": "I've got an error with my upgrade buttons",
-      "url": "https://stackoverflow.com/questions/79993669/ive-got-an-error-with-my-upgrade-buttons",
-      "published_at": "2026-08-13T03:17:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
+      "published_at": "2026-08-14T15:57:42.000Z",
+      "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
       "tags": [
-        "javascript",
-        "html",
-        "function",
-        "variables",
-        "button"
+        "JavaScript",
+        "Web Development",
+        "pdf",
+        "pdfjs",
+        "Tutorial"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027501"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
@@ -2471,21 +2499,6 @@
   ],
   "Mobile": [
     {
-      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
-      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
-      "published_at": "2026-08-12T23:05:09Z",
-      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
       "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
       "published_at": "2026-08-14T02:57:56Z",
@@ -2497,6 +2510,21 @@
         "programming"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
+      "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
+      "published_at": "2026-08-12T23:05:09Z",
+      "description": "Learn how to trial or incrementally migrate from Riverpod to BlocSignal with zero code generation, fine-grained signal graph reactivity, and bidirectional interop.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2531,21 +2559,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Swift Protocols — The Art of Making Promises 🤝",
-      "url": "https://dev.to/gamya_m/swift-protocols-the-art-of-making-promises-59mb",
-      "published_at": "2026-08-05T08:58:40Z",
-      "description": "Protocols let you define what a type can do without caring about what it actually is. Once...",
-      "tags": [
-        "swift",
-        "ios",
-        "programming",
-        "developer"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzdwiamf2zbcizwme0vm.png",
-      "source": "Dev.to",
-      "user": "Gamya "
-    },
-    {
       "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "url": "https://github.com/zhu1090093659/dsh-web-ui",
       "published_at": "2026-08-12T05:15:20Z",
@@ -2557,7 +2570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1871,
       "user": "zhu1090093659"
     },
     {
@@ -2798,21 +2811,6 @@
         "gemma4"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3145,25 +3143,24 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
-      "published_at": "2026-08-12T15:47:01.000Z",
-      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
-      "tags": [
-        "ai agents",
-        "authentication",
-        "tool calling",
-        "oauth",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Saif Ali Shaik"
     }
   ],
   "Tools": [
+    {
+      "title": "My (not so pretty) journey in tech",
+      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
+      "published_at": "2026-08-13T13:10:09Z",
+      "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
+      "tags": [
+        "discuss",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frggwt4sjrqxz7hb44jo7.jpg",
+      "source": "Dev.to",
+      "user": "isha singh"
+    },
     {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
@@ -3206,21 +3203,6 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "url": "https://dev.to/gde/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-162l",
-      "published_at": "2026-07-28T18:58:24Z",
-      "description": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3272,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "RadishXN"
     },
     {
@@ -3287,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 325,
       "user": "NousResearch"
     },
     {
@@ -3302,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "panel-zeus"
     },
     {
@@ -3317,23 +3299,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "50kg"
     },
     {
-      "title": "turtle2209/Bigfish - Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
-      "url": "https://github.com/turtle2209/Bigfish",
-      "published_at": "2026-08-14T00:55:01Z",
-      "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
+      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "published_at": "2026-08-14T14:06:39Z",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 165,
-      "user": "turtle2209"
+      "stars": 173,
+      "user": "xiaobright"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3347,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7306,
+      "stars": 7467,
       "user": "guillaumemeyer"
     },
     {
@@ -3362,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1055,
+      "stars": 1058,
       "user": "Leutenegger"
     },
     {
@@ -3377,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 982,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3392,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 395,
       "user": "0xsline"
     },
     {
@@ -3422,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "MengMengCode"
     },
     {
@@ -3452,8 +3434,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "WongLoki"
+    },
+    {
+      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
+      "url": "https://github.com/pgrundev/pgbot",
+      "published_at": "2026-08-11T23:41:52Z",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 91,
+      "user": "pgrundev"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -3471,21 +3468,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
-      "url": "https://github.com/pgrundev/pgbot",
-      "published_at": "2026-08-11T23:41:52Z",
-      "description": "pgbot - Postgres intelligence for AI agents & apps",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 86,
-      "user": "pgrundev"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -3497,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 92695,
+      "stars": 93478,
       "user": "deepseek-ai"
     },
     {
@@ -3512,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1837,
+      "stars": 1871,
       "user": "zhu1090093659"
     },
     {
@@ -3531,10 +3513,10 @@
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
       "tags": [
         "typescript",
         "github",
@@ -3542,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1463,
+      "stars": 1563,
       "user": "anywhere-labs"
     },
     {
@@ -3557,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 969,
+      "stars": 970,
       "user": "SaladDay"
     },
     {
@@ -3632,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 148,
       "user": "Awaker-OTE"
     },
     {
@@ -3725,22 +3707,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
-      "published_at": "2026-08-12T15:47:01.000Z",
-      "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
-      "tags": [
-        "ai agents",
-        "authentication",
-        "tool calling",
-        "oauth",
-        "Node.js"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Saif Ali Shaik"
     }
   ]
 }
