@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7790,
+      "stars": 7851,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "xinxinshuhao-create"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "pgrundev"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94407,
+      "stars": 94542,
       "user": "deepseek-ai"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "lexmount"
     },
     {
@@ -789,6 +789,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harry"
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "published_at": "2026-08-14T20:37:49.000Z",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "tags": [
+        "Transportation",
+        "aurora",
+        "kodiak ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
@@ -1242,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 348,
       "user": "NousResearch"
     },
     {
@@ -1257,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "panel-zeus"
     },
     {
@@ -1272,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 272,
       "user": "xiaobright"
     },
     {
@@ -1302,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94407,
+      "stars": 94542,
       "user": "deepseek-ai"
     },
     {
@@ -1317,8 +1331,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1909,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "published_at": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "source": "GitHub",
+      "stars": 1721,
+      "user": "anywhere-labs"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1336,21 +1365,6 @@
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
-      "source": "GitHub",
-      "stars": 1703,
-      "user": "anywhere-labs"
-    },
-    {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
       "url": "https://github.com/SaladDay/pi-from-scratch",
       "published_at": "2026-08-09T12:15:30Z",
@@ -1364,20 +1378,6 @@
       "source": "GitHub",
       "stars": 976,
       "user": "SaladDay"
-    },
-    {
-      "title": "How do you approach the decorative elements of a website?",
-      "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
-      "published_at": "2026-08-14T19:02:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "advice",
-        "javascript",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zahid Tejeda Amaro"
     },
     {
       "title": "How to handle invalid date in Flatpickr",
@@ -1504,6 +1504,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027124"
+    },
+    {
+      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
+      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
+      "published_at": "2026-08-12T13:55:26.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "iframe",
+        "youtube-api",
+        "html5-video",
+        "youtube-iframe-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyPhoenix"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1776,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7790,
+      "stars": 7851,
       "user": "guillaumemeyer"
     },
     {
@@ -1806,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1049,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1836,20 +1852,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "xinxinshuhao-create"
-    },
-    {
-      "title": "python's pre-declared constants are kinda weird",
-      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "published_at": "2026-08-13T00:28:40.501-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seb"
     },
     {
       "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
@@ -2357,22 +2361,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7790,
+      "stars": 7851,
       "user": "guillaumemeyer"
-    },
-    {
-      "title": "How do you approach the decorative elements of a website?",
-      "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
-      "published_at": "2026-08-14T19:02:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "advice",
-        "javascript",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zahid Tejeda Amaro"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
@@ -2416,6 +2406,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027124"
+    },
+    {
+      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
+      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
+      "published_at": "2026-08-12T13:55:26.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "iframe",
+        "youtube-api",
+        "html5-video",
+        "youtube-iframe-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyPhoenix"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2538,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1909,
       "user": "zhu1090093659"
     },
     {
@@ -3064,7 +3070,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3078,22 +3084,6 @@
         "cyberattacks",
         "cybersecurity",
         "Georgia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "US courts will start publishing how often the government uses spyware",
-      "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-      "published_at": "2026-08-14T13:29:04.000Z",
-      "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
-      "tags": [
-        "Security",
-        "Exclusive",
-        "FBI",
-        "privacy",
-        "Ron Wyden"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3239,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 348,
       "user": "NousResearch"
     },
     {
@@ -3254,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 295,
+      "stars": 297,
       "user": "panel-zeus"
     },
     {
@@ -3269,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 272,
       "user": "xiaobright"
     },
     {
@@ -3299,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7790,
+      "stars": 7851,
       "user": "guillaumemeyer"
     },
     {
@@ -3329,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1049,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3359,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 367,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3404,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "pgrundev"
     },
     {
@@ -3419,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "WongLoki"
     },
     {
@@ -3449,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94407,
+      "stars": 94542,
       "user": "deepseek-ai"
     },
     {
@@ -3464,8 +3454,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1909,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "published_at": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "source": "GitHub",
+      "stars": 1721,
+      "user": "anywhere-labs"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -3481,21 +3486,6 @@
       "source": "GitHub",
       "stars": 1709,
       "user": "SMNETSTUDIO"
-    },
-    {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
-      "source": "GitHub",
-      "stars": 1703,
-      "user": "anywhere-labs"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -3524,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "lexmount"
     },
     {
@@ -3630,6 +3620,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Berry Delight"
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "published_at": "2026-08-14T20:37:49.000Z",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "tags": [
+        "Transportation",
+        "aurora",
+        "kodiak ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
