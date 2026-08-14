@@ -210,6 +210,21 @@
       "user": "Thomas Bonnet"
     },
     {
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "published_at": "2026-08-01T16:03:02Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "catbot",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
       "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
       "published_at": "2026-08-09T15:31:53Z",
@@ -388,21 +403,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
       "source": "Dev.to",
       "user": "Tilde A. Thurium"
-    },
-    {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -584,8 +584,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 196,
       "user": "50kg"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 5785,
+      "user": "guillaumemeyer"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 332,
       "user": "MengMengCode"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 63465,
+      "stars": 69289,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1693,
       "user": "SMNETSTUDIO"
     },
     {
@@ -704,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "lexmount"
     },
     {
@@ -719,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "JohnKinyanjui"
     },
     {
@@ -870,6 +885,35 @@
       "user": "Tim Fernholz"
     },
     {
+      "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
+      "url": "https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/",
+      "published_at": "2026-08-13T22:50:32.000Z",
+      "description": "I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus",
+      "tags": [
+        "software architecture",
+        "Artificial Intelligence",
+        "refactoring",
+        "TypeScript",
+        "Software Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
+      "title": "How to Build Production-Grade Agents with Pydantic AI",
+      "url": "https://www.freecodecamp.org/news/building-agents-with-pydantic-ai/",
+      "published_at": "2026-08-13T21:30:00.000Z",
+      "description": "Building AI agents with raw LLM SDKs works fine for prototypes until you need structured outputs, testable code, and production reliability. The gap shows up in a predictable way. Your notebook code w",
+      "tags": [
+        "pydantic",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Jay Mehta"
+    },
+    {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
       "published_at": "2026-08-13T17:38:27.000Z",
@@ -913,22 +957,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Saif Ali Shaik"
-    },
-    {
-      "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
-      "url": "https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/",
-      "published_at": "2026-08-11T16:47:38.000Z",
-      "description": "Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac",
-      "tags": [
-        "product experimentation",
-        "experimentation",
-        "causal inference",
-        "AI",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Rudrendu Paul"
     }
   ],
   "JavaScript": [
@@ -1229,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "RadishXN"
     },
     {
@@ -1259,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 196,
       "user": "50kg"
     },
     {
@@ -1274,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 175,
       "user": "NousResearch"
     },
     {
@@ -1304,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 63465,
+      "stars": 69289,
       "user": "deepseek-ai"
     },
     {
@@ -1319,8 +1347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1693,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
+      "source": "GitHub",
+      "stars": 974,
+      "user": "zhu1090093659"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -1334,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 911,
       "user": "SaladDay"
     },
     {
@@ -1353,19 +1396,18 @@
       "user": "sohaibdevv"
     },
     {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "html",
+        "css"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "zhu1090093659"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
@@ -1380,20 +1422,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
-    },
-    {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027124"
     },
     {
       "title": "Are object URLs now cached on disk instead of memory only?",
@@ -1509,6 +1537,22 @@
       "user": "Gary"
     },
     {
+      "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
+      "url": "https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/",
+      "published_at": "2026-08-13T22:50:32.000Z",
+      "description": "I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus",
+      "tags": [
+        "software architecture",
+        "Artificial Intelligence",
+        "refactoring",
+        "TypeScript",
+        "Software Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
       "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
       "published_at": "2026-08-13T18:10:52.000Z",
@@ -1570,22 +1614,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Saif Ali Shaik"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
-      "published_at": "2026-08-12T15:43:14.000Z",
-      "description": "PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1770,6 +1798,81 @@
       "user": "arathore"
     },
     {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 5785,
+      "user": "guillaumemeyer"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 1040,
+      "user": "Leutenegger"
+    },
+    {
+      "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "published_at": "2026-08-08T15:49:55Z",
+      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "i3T4AN"
+    },
+    {
+      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
+      "url": "https://github.com/gfodor/legal-skills",
+      "published_at": "2026-08-12T21:14:16Z",
+      "description": "Replacing lawyers with markdown files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "gfodor"
+    },
+    {
+      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "published_at": "2026-08-08T21:17:53Z",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "JayJokerr"
+    },
+    {
       "title": "python's pre-declared constants are kinda weird",
       "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
       "published_at": "2026-08-13T00:28:40.501-05:00",
@@ -1785,13 +1888,27 @@
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker? tayni1237",
       "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
       "published_at": "2026-08-14T02:43:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tayni khatri"
+    },
+    {
+      "title": "Why can adding logging make a Python race condition disappear?",
+      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
+      "published_at": "2026-08-13T08:32:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "race-condition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Edmon Dantes"
     },
     {
       "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
@@ -1805,19 +1922,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alexander Bendall"
-    },
-    {
-      "title": "Reproduce n-ary `vmap` from unary",
-      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
-      "published_at": "2026-08-13T16:37:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "jax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "joel"
     },
     {
       "title": "Python dictionary with threads",
@@ -1834,6 +1938,19 @@
       "user": "Agent"
     },
     {
+      "title": "Reproduce n-ary `vmap` from unary",
+      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
+      "published_at": "2026-08-13T16:37:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "jax"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "joel"
+    },
+    {
       "title": "API for iCloud password change",
       "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
@@ -1847,6 +1964,20 @@
       "user": "LeadShark"
     },
     {
+      "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
+      "url": "https://stackoverflow.com/questions/79993703/python-code-dies-with-qsocketnotifier-socket-notifiers-cannot-be-enabled-or-dis",
+      "published_at": "2026-08-13T06:16:57.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "qt5",
+        "pyside2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Goswin von Brederlow"
+    },
+    {
       "title": "How can I make this Tkinter application work? I need to stop the threading when I push the stop button of the PyScripter IDE?",
       "url": "https://stackoverflow.com/questions/79993886/how-can-i-make-this-tkinter-application-work-i-need-to-stop-the-threading-when",
       "published_at": "2026-08-13T17:15:15.000Z",
@@ -1858,20 +1989,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Juan Castro"
-    },
-    {
-      "title": "Why can adding logging make a Python race condition disappear?",
-      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
-      "published_at": "2026-08-13T08:32:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "race-condition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Edmon Dantes"
     },
     {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
@@ -1902,20 +2019,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loro"
-    },
-    {
-      "title": "How do I pass the value of a child class to its own child class?",
-      "url": "https://stackoverflow.com/questions/79993661/how-do-i-pass-the-value-of-a-child-class-to-its-own-child-class",
-      "published_at": "2026-08-13T02:47:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "oop",
-        "inheritance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Krishna Kabir"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2241,22 +2344,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 196,
       "user": "50kg"
     },
     {
-      "title": "How To Make An Animate Menu Icon Show/Hide Menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
-      "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "python",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "V. M. Ent"
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 5785,
+      "user": "guillaumemeyer"
     },
     {
       "title": "Null is not an object for DOM",
@@ -2271,6 +2375,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027124"
+    },
+    {
+      "title": "How To Make An Animate Menu Icon Show/Hide Menu",
+      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
+      "published_at": "2026-08-13T21:45:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "V. M. Ent"
     },
     {
       "title": "I've got an error with my upgrade buttons",
@@ -2391,22 +2509,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
-      "published_at": "2026-08-12T15:43:14.000Z",
-      "description": "PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2482,20 +2584,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 974,
       "user": "zhu1090093659"
-    },
-    {
-      "title": "What’s new in Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "published_at": "2026-08-13T05:46:34.658-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "heavyrain266"
     }
   ],
   "Cloud": [
@@ -3277,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 329,
       "user": "RadishXN"
     },
     {
@@ -3307,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 193,
+      "stars": 196,
       "user": "50kg"
     },
     {
@@ -3322,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 175,
       "user": "NousResearch"
     },
     {
@@ -3341,6 +3431,81 @@
       "user": "dengzi008"
     },
     {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 5785,
+      "user": "guillaumemeyer"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 1040,
+      "user": "Leutenegger"
+    },
+    {
+      "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "published_at": "2026-08-08T15:49:55Z",
+      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
+      "source": "GitHub",
+      "stars": 349,
+      "user": "i3T4AN"
+    },
+    {
+      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
+      "url": "https://github.com/gfodor/legal-skills",
+      "published_at": "2026-08-12T21:14:16Z",
+      "description": "Replacing lawyers with markdown files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "gfodor"
+    },
+    {
+      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
+      "published_at": "2026-08-08T21:17:53Z",
+      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "JayJokerr"
+    },
+    {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
       "url": "https://github.com/MengMengCode/VoCat",
       "published_at": "2026-08-09T06:43:49Z",
@@ -3352,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 332,
       "user": "MengMengCode"
     },
     {
@@ -3397,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 69,
       "user": "WongLoki"
     },
     {
@@ -3427,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 63465,
+      "stars": 69289,
       "user": "deepseek-ai"
     },
     {
@@ -3442,8 +3607,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1689,
+      "stars": 1693,
       "user": "SMNETSTUDIO"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
+      "source": "GitHub",
+      "stars": 974,
+      "user": "zhu1090093659"
     },
     {
       "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
@@ -3457,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 911,
       "user": "SaladDay"
     },
     {
@@ -3476,21 +3656,6 @@
       "user": "sohaibdevv"
     },
     {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 852,
-      "user": "zhu1090093659"
-    },
-    {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
       "url": "https://github.com/lexmount/moli",
       "published_at": "2026-08-10T13:20:30Z",
@@ -3502,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 264,
       "user": "lexmount"
     },
     {
@@ -3517,7 +3682,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "fzakaria"
     },
     {
@@ -3532,7 +3697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "JohnKinyanjui"
     },
     {

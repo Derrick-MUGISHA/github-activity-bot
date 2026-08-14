@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-179-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--14-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-14 5:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-14 7:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd) | Dev.to |
 | 20 | [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk) | Dev.to |
 
-<sub>Last fetched: Fri, 14 Aug 2026 05:19:03 CAT</sub>
+<sub>Last fetched: Fri, 14 Aug 2026 07:13:19 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
+**1. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> with statement, setup/teardown, exception handling
 
 </details>
 
-**2. `NodeJS` — Explain middleware in Express.js**
+**2. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> with statement, setup/teardown, exception handling
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 65 | 36.3% | `████████████████████` |
-| **JavaScript** | 46 | 25.7% | `██████████████░░░░░░` |
-| **Tools** | 34 | 19.0% | `██████████░░░░░░░░░░` |
-| **Python** | 26 | 14.5% | `████████░░░░░░░░░░░░` |
-| **WebDev** | 20 | 11.2% | `██████░░░░░░░░░░░░░░` |
-| **Cloud** | 20 | 11.2% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 20 | 11.2% | `██████░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **AI** | 67 | 36.4% | `████████████████████` |
+| **JavaScript** | 46 | 25.0% | `██████████████░░░░░░` |
+| **Tools** | 39 | 21.2% | `████████████░░░░░░░░` |
+| **Python** | 31 | 16.8% | `█████████░░░░░░░░░░░` |
+| **WebDev** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
+| **Cloud** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -184,7 +184,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |--------|---------:|
 | Dev.to | 60 |
 | HackerNews | 49 |
-| GitHub | 20 |
+| GitHub | 25 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -194,23 +194,23 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.9%
-Java            ███████████████████████ 23.5%
-Go              █████████████████████ 22.1%
-Python          █████████████████ 17.4%
-Rust            ████ 4.0%
-CSharp          █ 0.7%
-Swift           █ 0.7%
-PHP             █ 0.7%
+JavaScript      ██████████████████████████████ 29.9%
+Go              ██████████████████████ 22.1%
+Java            ██████████████████████ 22.1%
+Python          ████████████████████ 20.1%
+Rust            ████ 3.9%
+CSharp          █ 0.6%
+Swift           █ 0.6%
+PHP             █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 46
-    "Java" : 35
-    "Go" : 33
-    "Python" : 26
+    "Go" : 34
+    "Java" : 34
+    "Python" : 31
     "Rust" : 6
     "CSharp" : 1
     "Swift" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-35-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-30-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-20-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-20-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-9-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 14 Aug 2026 03:19:03 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 14 Aug 2026 05:13:19 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
