@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8023,
+      "stars": 8045,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "xinxinshuhao-create"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94906,
+      "stars": 94991,
       "user": "deepseek-ai"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "Awaker-OTE"
     },
     {
@@ -879,22 +879,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anna Heim"
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "published_at": "2026-08-14T14:05:00.000Z",
-      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Amazon",
-        "Exclusive",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1257,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 373,
       "user": "NousResearch"
     },
     {
@@ -1287,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 312,
       "user": "xiaobright"
     },
     {
@@ -1332,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94906,
+      "stars": 94991,
       "user": "deepseek-ai"
     },
     {
@@ -1347,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1926,
       "user": "zhu1090093659"
     },
     {
@@ -1362,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1765,
+      "stars": 1778,
       "user": "anywhere-labs"
     },
     {
@@ -1392,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 977,
       "user": "SaladDay"
     },
     {
@@ -1808,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8023,
+      "stars": 8045,
       "user": "guillaumemeyer"
     },
     {
@@ -1823,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1075,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1868,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1954,20 +1938,6 @@
       "user": "Harry"
     },
     {
-      "title": "How to create spectrogram a really image data from a WAV file?",
-      "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
-      "published_at": "2026-08-14T12:57:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "scipy",
-        "soundfile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mathrm alpha"
-    },
-    {
       "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
       "url": "https://stackoverflow.com/questions/79995069/why-does-a-python-subprocess-hang-only-when-stdout-is-redirected-to-pipe",
       "published_at": "2026-08-14T11:45:57.000Z",
@@ -1980,6 +1950,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mia Smith"
+    },
+    {
+      "title": "How to create spectrogram a really image data from a WAV file?",
+      "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
+      "published_at": "2026-08-14T12:57:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "scipy",
+        "soundfile"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mathrm alpha"
     },
     {
       "title": "How do you ensure in Python that you can open files with the program you created?",
@@ -2392,7 +2376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8023,
+      "stars": 8045,
       "user": "guillaumemeyer"
     },
     {
@@ -2560,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1926,
       "user": "zhu1090093659"
     },
     {
@@ -3101,7 +3085,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3230,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 373,
       "user": "NousResearch"
     },
     {
@@ -3260,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 312,
       "user": "xiaobright"
     },
     {
@@ -3305,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8023,
+      "stars": 8045,
       "user": "guillaumemeyer"
     },
     {
@@ -3320,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1071,
+      "stars": 1075,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3365,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 378,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3455,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94906,
+      "stars": 94991,
       "user": "deepseek-ai"
     },
     {
@@ -3470,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1925,
+      "stars": 1926,
       "user": "zhu1090093659"
     },
     {
@@ -3485,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1765,
+      "stars": 1778,
       "user": "anywhere-labs"
     },
     {
@@ -3515,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 977,
       "user": "SaladDay"
     },
     {
@@ -3575,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 158,
       "user": "Awaker-OTE"
     },
     {
