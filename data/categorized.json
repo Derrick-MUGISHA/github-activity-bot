@@ -31,35 +31,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
-      "published_at": "2026-08-12T15:45:27Z",
-      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
-      "tags": [
-        "cloudrun",
-        "geminienterpriseagentplatform",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
-    },
-    {
-      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
-      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7",
-      "published_at": "2026-08-13T04:18:51Z",
-      "description": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
-      "tags": [
-        "gemini",
-        "vibecoding",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fugmplgpci0ba4zzv4fg4.png",
-      "source": "Dev.to",
-      "user": "Sireesha Pulipati"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -90,6 +61,21 @@
       "user": "leslysandra"
     },
     {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
       "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
       "published_at": "2026-07-29T19:14:47Z",
@@ -118,6 +104,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
       "source": "Dev.to",
       "user": "Sarvar Nadaf"
+    },
+    {
+      "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
+      "url": "https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7",
+      "published_at": "2026-08-13T04:18:51Z",
+      "description": "Every week I get invited to more AI events than I can attend. Bond AI, Founders Bay, AI Collective,...",
+      "tags": [
+        "gemini",
+        "vibecoding",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fugmplgpci0ba4zzv4fg4.png",
+      "source": "Dev.to",
+      "user": "Sireesha Pulipati"
     },
     {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "50kg"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6553,
+      "stars": 6826,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "MengMengCode"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 86819,
+      "stars": 89097,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1703,
       "user": "SMNETSTUDIO"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 279,
       "user": "lexmount"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "JohnKinyanjui"
     },
     {
@@ -721,17 +721,17 @@
       "user": "facundoolano"
     },
     {
-      "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
-      "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
-      "published_at": "2026-08-13T21:32:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "machine-learning"
+        "python-3.x"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alexander Bendall"
+      "user": "Krishna Kabir"
     },
     {
       "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
@@ -855,19 +855,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "published_at": "2026-08-13T17:07:13.000Z",
-      "description": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1242,23 +1229,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "RadishXN"
-    },
-    {
-      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
-      "url": "https://github.com/panel-zeus/Z-E-U-S",
-      "published_at": "2026-08-09T02:53:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "panel-zeus"
     },
     {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
@@ -1272,8 +1244,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 285,
       "user": "NousResearch"
+    },
+    {
+      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
+      "url": "https://github.com/panel-zeus/Z-E-U-S",
+      "published_at": "2026-08-09T02:53:39Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "panel-zeus"
     },
     {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
@@ -1287,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "50kg"
     },
     {
@@ -1302,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 145,
       "user": "turtle2209"
     },
     {
@@ -1317,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 86819,
+      "stars": 89097,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1703,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1347,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1689,
       "user": "zhu1090093659"
     },
     {
@@ -1362,23 +1349,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 959,
       "user": "SaladDay"
     },
     {
-      "title": "milind-soni/OpenMausBot - GitHub Repository",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "published_at": "2026-08-11T18:58:55Z",
-      "description": "Trending GitHub Repository",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "published_at": "2026-08-13T16:30:50Z",
+      "description": "为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 887,
-      "user": "milind-soni"
+      "stars": 946,
+      "user": "anywhere-labs"
     },
     {
       "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
@@ -1387,8 +1374,7 @@
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "reactjs",
-        "typescript"
+        "reactjs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1796,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6553,
+      "stars": 6826,
       "user": "guillaumemeyer"
     },
     {
@@ -1811,8 +1797,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1054,
       "user": "Leutenegger"
+    },
+    {
+      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "published_at": "2026-08-11T13:14:49Z",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
+      "source": "GitHub",
+      "stars": 357,
+      "user": "0xsline"
     },
     {
       "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
@@ -1830,21 +1831,6 @@
       "user": "i3T4AN"
     },
     {
-      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "published_at": "2026-08-11T13:14:49Z",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "0xsline"
-    },
-    {
       "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
       "url": "https://github.com/gfodor/legal-skills",
       "published_at": "2026-08-12T21:14:16Z",
@@ -1856,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "gfodor"
     },
     {
@@ -1872,10 +1858,36 @@
       "user": "seb"
     },
     {
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Krishna Kabir"
+    },
+    {
+      "title": "How do you ensure in Python that you can open files with the program you created?",
+      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
+      "published_at": "2026-08-14T12:44:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "open-with"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "Consumer also listens to other channels in the same exchange",
       "url": "https://stackoverflow.com/questions/79995064/consumer-also-listens-to-other-channels-in-the-same-exchange",
       "published_at": "2026-08-14T11:23:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "rabbitmq"
@@ -1885,10 +1897,24 @@
       "user": "BertC"
     },
     {
+      "title": "How to create spectrogram a really image data from a WAV file?",
+      "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
+      "published_at": "2026-08-14T12:57:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "scipy",
+        "soundfile"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mathrm alpha"
+    },
+    {
       "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
       "url": "https://stackoverflow.com/questions/79995069/why-does-a-python-subprocess-hang-only-when-stdout-is-redirected-to-pipe",
       "published_at": "2026-08-14T11:45:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "subprocess",
@@ -1897,6 +1923,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mia Smith"
+    },
+    {
+      "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
+      "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
+      "published_at": "2026-08-14T06:36:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user23487612"
     },
     {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
@@ -1913,18 +1951,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Berry Delight"
-    },
-    {
-      "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
-      "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
-      "published_at": "2026-08-14T06:36:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user23487612"
     },
     {
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
@@ -1965,46 +1991,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Agent"
-    },
-    {
-      "title": "Reproduce n-ary `vmap` from unary",
-      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
-      "published_at": "2026-08-13T16:37:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "jax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "joel"
-    },
-    {
-      "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
-      "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
-      "published_at": "2026-08-13T21:32:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "machine-learning"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alexander Bendall"
-    },
-    {
-      "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
-      "url": "https://stackoverflow.com/questions/79993703/python-code-dies-with-qsocketnotifier-socket-notifiers-cannot-be-enabled-or-dis",
-      "published_at": "2026-08-13T06:16:57.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "qt5",
-        "pyside2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Goswin von Brederlow"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2232,36 +2218,6 @@
       "user": "Sarvar Nadaf"
     },
     {
-      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
-      "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk",
-      "published_at": "2026-08-10T08:59:34Z",
-      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-      "tags": [
-        "css",
-        "devchallenge",
-        "showdev",
-        "frontendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frda2trnbgnoy3aiypikh.png",
-      "source": "Dev.to",
-      "user": "Laura Norwood"
-    },
-    {
-      "title": "Kitty Cafe, a whole bakery drawn in CSS 🐱🍰",
-      "url": "https://dev.to/sizzlebop/kitty-cafe-a-whole-bakery-drawn-in-css-3fo4",
-      "published_at": "2026-08-10T04:28:36Z",
-      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-      "tags": [
-        "frontendchallenge",
-        "devchallenge",
-        "css",
-        "codepen"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxz6b6jbbxetqmv0k6bx4.png",
-      "source": "Dev.to",
-      "user": "Jessica Doering"
-    },
-    {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
       "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
       "published_at": "2026-08-09T22:14:30Z",
@@ -2330,7 +2286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "50kg"
     },
     {
@@ -2345,7 +2301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6553,
+      "stars": 6826,
       "user": "guillaumemeyer"
     },
     {
@@ -2543,7 +2499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1689,
       "user": "zhu1090093659"
     }
   ],
@@ -3072,6 +3028,22 @@
       "user": "radex"
     },
     {
+      "title": "US courts will start publishing how often the government uses spyware",
+      "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "published_at": "2026-08-14T13:29:04.000Z",
+      "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+      "tags": [
+        "Security",
+        "Exclusive",
+        "FBI",
+        "privacy",
+        "Ron Wyden"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
       "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
       "published_at": "2026-08-13T22:02:04.000Z",
@@ -3274,23 +3246,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "RadishXN"
-    },
-    {
-      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
-      "url": "https://github.com/panel-zeus/Z-E-U-S",
-      "published_at": "2026-08-09T02:53:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
-      "source": "GitHub",
-      "stars": 280,
-      "user": "panel-zeus"
     },
     {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
@@ -3304,8 +3261,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 285,
       "user": "NousResearch"
+    },
+    {
+      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
+      "url": "https://github.com/panel-zeus/Z-E-U-S",
+      "published_at": "2026-08-09T02:53:39Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "panel-zeus"
     },
     {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
@@ -3319,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "50kg"
     },
     {
@@ -3334,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 145,
       "user": "turtle2209"
     },
     {
@@ -3349,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6553,
+      "stars": 6826,
       "user": "guillaumemeyer"
     },
     {
@@ -3364,8 +3336,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1050,
+      "stars": 1054,
       "user": "Leutenegger"
+    },
+    {
+      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "published_at": "2026-08-11T13:14:49Z",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
+      "source": "GitHub",
+      "stars": 357,
+      "user": "0xsline"
     },
     {
       "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
@@ -3383,21 +3370,6 @@
       "user": "i3T4AN"
     },
     {
-      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "published_at": "2026-08-11T13:14:49Z",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 336,
-      "user": "0xsline"
-    },
-    {
       "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
       "url": "https://github.com/gfodor/legal-skills",
       "published_at": "2026-08-12T21:14:16Z",
@@ -3409,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "gfodor"
     },
     {
@@ -3424,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 349,
       "user": "MengMengCode"
     },
     {
@@ -3443,6 +3415,21 @@
       "user": "surya-koritala"
     },
     {
+      "title": "WongLoki/4G-Connect - Open-source macOS one-click connector for the first-generation DJI 4G module.",
+      "url": "https://github.com/WongLoki/4G-Connect",
+      "published_at": "2026-08-13T10:54:52Z",
+      "description": "Open-source macOS one-click connector for the first-generation DJI 4G module.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
+      "source": "GitHub",
+      "stars": 86,
+      "user": "WongLoki"
+    },
+    {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
       "url": "https://github.com/forever94yu/icloud-prime",
       "published_at": "2026-08-08T14:35:00Z",
@@ -3458,21 +3445,6 @@
       "user": "forever94yu"
     },
     {
-      "title": "WongLoki/4G-Connect - Open-source macOS one-click connector for the first-generation DJI 4G module.",
-      "url": "https://github.com/WongLoki/4G-Connect",
-      "published_at": "2026-08-13T10:54:52Z",
-      "description": "Open-source macOS one-click connector for the first-generation DJI 4G module.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
-      "source": "GitHub",
-      "stars": 84,
-      "user": "WongLoki"
-    },
-    {
       "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
       "url": "https://github.com/zepto-labs/scherry",
       "published_at": "2026-08-11T08:59:18Z",
@@ -3484,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 71,
       "user": "zepto-labs"
     },
     {
@@ -3499,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 86819,
+      "stars": 89097,
       "user": "deepseek-ai"
     },
     {
@@ -3514,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1702,
+      "stars": 1703,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3529,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1689,
       "user": "zhu1090093659"
     },
     {
@@ -3544,23 +3516,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 959,
       "user": "SaladDay"
     },
     {
-      "title": "milind-soni/OpenMausBot - GitHub Repository",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "published_at": "2026-08-11T18:58:55Z",
-      "description": "Trending GitHub Repository",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "published_at": "2026-08-13T16:30:50Z",
+      "description": "为DeepSeek Harness生态打造的现代化桌面端体验（插件）",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 887,
-      "user": "milind-soni"
+      "stars": 946,
+      "user": "anywhere-labs"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3574,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 279,
       "user": "lexmount"
     },
     {
@@ -3589,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 252,
       "user": "fzakaria"
     },
     {
@@ -3604,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "JohnKinyanjui"
     },
     {
