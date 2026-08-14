@@ -16,20 +16,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Looker's Native MCP Server with Claude Code",
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
       "published_at": "2026-08-14T14:00:55Z",
@@ -45,6 +31,20 @@
       "user": "xbill"
     },
     {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
       "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
       "published_at": "2026-08-13T18:42:09Z",
@@ -58,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
@@ -389,21 +404,6 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -598,8 +598,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7467,
+      "stars": 7591,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "xinxinshuhao-create"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -613,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "MengMengCode"
     },
     {
@@ -643,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "pgrundev"
     },
     {
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 93478,
+      "stars": 93944,
       "user": "deepseek-ai"
     },
     {
@@ -703,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 278,
       "user": "lexmount"
     },
     {
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "Awaker-OTE"
     },
     {
@@ -750,6 +765,18 @@
       "user": "aka_dude"
     },
     {
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Krishna Kabir"
+    },
+    {
       "title": "Socket Emit fail to delivery in multi-worker",
       "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
       "published_at": "2026-08-14T14:11:06.000Z",
@@ -762,18 +789,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harry"
-    },
-    {
-      "title": "How to cull a pair based of relative distance between the centre of two objects?",
-      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
-      "published_at": "2026-08-14T13:18:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Krishna Kabir"
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -1257,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 331,
       "user": "NousResearch"
     },
     {
@@ -1272,8 +1287,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "panel-zeus"
+    },
+    {
+      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "published_at": "2026-08-14T14:06:39Z",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
+      "source": "GitHub",
+      "stars": 220,
+      "user": "xiaobright"
     },
     {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
@@ -1291,21 +1321,6 @@
       "user": "50kg"
     },
     {
-      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "published_at": "2026-08-14T14:06:39Z",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
-      "source": "GitHub",
-      "stars": 173,
-      "user": "xiaobright"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -1317,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 93478,
+      "stars": 93944,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1871,
+      "stars": 1893,
       "user": "zhu1090093659"
     },
     {
@@ -1362,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1633,
       "user": "anywhere-labs"
     },
     {
@@ -1377,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 973,
       "user": "SaladDay"
     },
     {
@@ -1809,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7467,
+      "stars": 7591,
       "user": "guillaumemeyer"
     },
     {
@@ -1839,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1014,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1854,23 +1869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "0xsline"
     },
     {
-      "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "url": "https://github.com/i3T4AN/KADATH",
-      "published_at": "2026-08-08T15:49:55Z",
-      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 351,
-      "user": "i3T4AN"
+      "stars": 354,
+      "user": "xinxinshuhao-create"
     },
     {
       "title": "python's pre-declared constants are kinda weird",
@@ -1898,6 +1913,18 @@
       "user": "Juan Castro"
     },
     {
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Krishna Kabir"
+    },
+    {
       "title": "Socket Emit fail to delivery in multi-worker",
       "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
       "published_at": "2026-08-14T14:11:06.000Z",
@@ -1910,18 +1937,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harry"
-    },
-    {
-      "title": "How to cull a pair based of relative distance between the centre of two objects?",
-      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
-      "published_at": "2026-08-14T13:18:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Krishna Kabir"
     },
     {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
@@ -1993,18 +2008,6 @@
       "user": "user23487612"
     },
     {
-      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
-      "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
-      "published_at": "2026-08-14T02:43:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tayni khatri"
-    },
-    {
       "title": "Reproduce n-ary `vmap` from unary",
       "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
       "published_at": "2026-08-13T16:37:21.000Z",
@@ -2016,6 +2019,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "joel"
+    },
+    {
+      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
+      "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
+      "published_at": "2026-08-14T02:43:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tayni khatri"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2076,21 +2091,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgnsa4pxfrc01tzclj5ta.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2371,7 +2371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7467,
+      "stars": 7591,
       "user": "guillaumemeyer"
     },
     {
@@ -2570,7 +2570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1871,
+      "stars": 1893,
       "user": "zhu1090093659"
     },
     {
@@ -2909,6 +2909,21 @@
   ],
   "Security": [
     {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
+    },
+    {
       "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
       "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
       "published_at": "2026-08-12T15:45:27Z",
@@ -2952,21 +2967,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3101,6 +3101,21 @@
       "user": "ewenjo"
     },
     {
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "xinxinshuhao-create"
+    },
+    {
       "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "published_at": "2026-08-13T11:06:04.992-05:00",
@@ -3146,6 +3161,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
+    },
     {
       "title": "My (not so pretty) journey in tech",
       "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
@@ -3269,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 331,
       "user": "NousResearch"
     },
     {
@@ -3284,8 +3314,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 294,
       "user": "panel-zeus"
+    },
+    {
+      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "published_at": "2026-08-14T14:06:39Z",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
+      "source": "GitHub",
+      "stars": 220,
+      "user": "xiaobright"
     },
     {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
@@ -3303,21 +3348,6 @@
       "user": "50kg"
     },
     {
-      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "published_at": "2026-08-14T14:06:39Z",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
-      "source": "GitHub",
-      "stars": 173,
-      "user": "xiaobright"
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -3329,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7467,
+      "stars": 7591,
       "user": "guillaumemeyer"
     },
     {
@@ -3359,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1014,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3374,23 +3404,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "0xsline"
     },
     {
-      "title": "i3T4AN/KADATH - Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
-      "url": "https://github.com/i3T4AN/KADATH",
-      "published_at": "2026-08-08T15:49:55Z",
-      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 351,
-      "user": "i3T4AN"
+      "stars": 354,
+      "user": "xinxinshuhao-create"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3404,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 363,
       "user": "MengMengCode"
     },
     {
@@ -3449,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 93,
       "user": "pgrundev"
     },
     {
@@ -3479,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 93478,
+      "stars": 93944,
       "user": "deepseek-ai"
     },
     {
@@ -3494,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1871,
+      "stars": 1893,
       "user": "zhu1090093659"
     },
     {
@@ -3524,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1633,
       "user": "anywhere-labs"
     },
     {
@@ -3539,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 970,
+      "stars": 973,
       "user": "SaladDay"
     },
     {
@@ -3554,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 278,
       "user": "lexmount"
     },
     {
@@ -3588,6 +3618,21 @@
       "user": "JohnKinyanjui"
     },
     {
+      "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
+      "published_at": "2026-08-13T10:02:33Z",
+      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
+      "source": "GitHub",
+      "stars": 151,
+      "user": "Awaker-OTE"
+    },
+    {
       "title": "hsusul/lore - GitHub Repository",
       "url": "https://github.com/hsusul/lore",
       "published_at": "2026-08-10T22:07:29Z",
@@ -3601,21 +3646,6 @@
       "source": "GitHub",
       "stars": 150,
       "user": "hsusul"
-    },
-    {
-      "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
-      "url": "https://github.com/Awaker-OTE/WakeGPT",
-      "published_at": "2026-08-13T10:02:33Z",
-      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
-      "source": "GitHub",
-      "stars": 148,
-      "user": "Awaker-OTE"
     },
     {
       "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
