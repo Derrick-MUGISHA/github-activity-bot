@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6433,
+      "stars": 6553,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 347,
       "user": "MengMengCode"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 85818,
+      "stars": 86819,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1701,
+      "stars": 1702,
       "user": "SMNETSTUDIO"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 275,
       "user": "lexmount"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "RadishXN"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 280,
       "user": "panel-zeus"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 268,
       "user": "NousResearch"
     },
     {
@@ -1291,19 +1291,19 @@
       "user": "50kg"
     },
     {
-      "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "url": "https://github.com/dengzi008/DramaLens",
-      "published_at": "2026-08-11T03:58:26Z",
-      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "title": "turtle2209/Bigfish - Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
+      "url": "https://github.com/turtle2209/Bigfish",
+      "published_at": "2026-08-14T00:55:01Z",
+      "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171480915?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 122,
-      "user": "dengzi008"
+      "stars": 130,
+      "user": "turtle2209"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 85818,
+      "stars": 86819,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1701,
+      "stars": 1702,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1611,
       "user": "zhu1090093659"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 957,
       "user": "SaladDay"
     },
     {
@@ -1377,14 +1377,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 887,
       "user": "milind-soni"
+    },
+    {
+      "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
+      "url": "https://stackoverflow.com/questions/79995072/why-does-my-vanilla-javascript-debounce-create-multiple-timers-when-used-inside",
+      "published_at": "2026-08-14T11:55:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Avinash Kumar Developer"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1508,19 +1522,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33026773"
-    },
-    {
-      "title": "How to interop with JavaScript DOM and handle static typing in Virune?",
-      "url": "https://stackoverflow.com/questions/79993535/how-to-interop-with-javascript-dom-and-handle-static-typing-in-virune",
-      "published_at": "2026-08-12T14:31:09.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "dom-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user32881697"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1795,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6433,
+      "stars": 6553,
       "user": "guillaumemeyer"
     },
     {
@@ -1840,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 336,
       "user": "0xsline"
     },
     {
@@ -1855,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 325,
       "user": "gfodor"
     },
     {
@@ -1869,6 +1870,33 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seb"
+    },
+    {
+      "title": "Consumer also listens to other channels in the same exchange",
+      "url": "https://stackoverflow.com/questions/79995064/consumer-also-listens-to-other-channels-in-the-same-exchange",
+      "published_at": "2026-08-14T11:23:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "rabbitmq"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BertC"
+    },
+    {
+      "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
+      "url": "https://stackoverflow.com/questions/79995069/why-does-a-python-subprocess-hang-only-when-stdout-is-redirected-to-pipe",
+      "published_at": "2026-08-14T11:45:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "subprocess",
+        "pipe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mia Smith"
     },
     {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
@@ -1914,7 +1942,7 @@
       "title": "Why can adding logging make a Python race condition disappear?",
       "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
       "published_at": "2026-08-13T08:32:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "python",
         "multithreading",
@@ -1977,33 +2005,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Goswin von Brederlow"
-    },
-    {
-      "title": "How can I make this Tkinter application work? I need to stop the threading when I push the stop button of the PyScripter IDE?",
-      "url": "https://stackoverflow.com/questions/79993886/how-can-i-make-this-tkinter-application-work-i-need-to-stop-the-threading-when",
-      "published_at": "2026-08-13T17:15:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Juan Castro"
-    },
-    {
-      "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
-      "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
-      "published_at": "2026-08-13T06:07:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sql-server",
-        "databricks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nathanael Tom Aterado"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2344,14 +2345,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6433,
+      "stars": 6553,
       "user": "guillaumemeyer"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -2542,7 +2543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1611,
       "user": "zhu1090093659"
     }
   ],
@@ -2803,20 +2804,6 @@
       "user": "EurekaZang"
     },
     {
-      "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
-      "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
-      "published_at": "2026-08-13T06:07:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sql-server",
-        "databricks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nathanael Tom Aterado"
-    },
-    {
       "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
       "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
       "published_at": "2026-08-13T22:12:40.000Z",
@@ -2860,20 +2847,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
-      "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
-      "published_at": "2026-08-13T06:07:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sql-server",
-        "databricks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nathanael Tom Aterado"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
@@ -3301,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 345,
       "user": "RadishXN"
     },
     {
@@ -3316,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 280,
       "user": "panel-zeus"
     },
     {
@@ -3331,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 268,
       "user": "NousResearch"
     },
     {
@@ -3350,19 +3323,19 @@
       "user": "50kg"
     },
     {
-      "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
-      "url": "https://github.com/dengzi008/DramaLens",
-      "published_at": "2026-08-11T03:58:26Z",
-      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "title": "turtle2209/Bigfish - Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
+      "url": "https://github.com/turtle2209/Bigfish",
+      "published_at": "2026-08-14T00:55:01Z",
+      "description": "Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/171480915?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 122,
-      "user": "dengzi008"
+      "stars": 130,
+      "user": "turtle2209"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3376,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6433,
+      "stars": 6553,
       "user": "guillaumemeyer"
     },
     {
@@ -3421,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 336,
       "user": "0xsline"
     },
     {
@@ -3436,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 325,
       "user": "gfodor"
     },
     {
@@ -3451,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 347,
       "user": "MengMengCode"
     },
     {
@@ -3511,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 70,
       "user": "zepto-labs"
     },
     {
@@ -3526,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 85818,
+      "stars": 86819,
       "user": "deepseek-ai"
     },
     {
@@ -3541,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1701,
+      "stars": 1702,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3556,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1611,
       "user": "zhu1090093659"
     },
     {
@@ -3571,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 957,
       "user": "SaladDay"
     },
     {
@@ -3586,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 887,
       "user": "milind-soni"
     },
     {
@@ -3601,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 275,
       "user": "lexmount"
     },
     {
@@ -3616,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 250,
       "user": "fzakaria"
     },
     {
@@ -3668,7 +3641,7 @@
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "tooling-recommendation",
         "javascript",
