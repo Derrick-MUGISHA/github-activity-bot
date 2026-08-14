@@ -210,21 +210,6 @@
       "user": "Thomas Bonnet"
     },
     {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "published_at": "2026-08-01T16:03:02Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "catbot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
-    {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
       "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
       "published_at": "2026-08-09T15:31:53Z",
@@ -599,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 193,
       "user": "50kg"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 328,
       "user": "MengMengCode"
     },
     {
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 43858,
+      "stars": 63465,
       "user": "deepseek-ai"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1689,
       "user": "SMNETSTUDIO"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 259,
       "user": "lexmount"
     },
     {
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 153,
       "user": "JohnKinyanjui"
     },
     {
@@ -978,21 +963,6 @@
       "user": "Asuran"
     },
     {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-      "published_at": "2026-08-11T14:40:56Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "react",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
-    },
-    {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
       "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
       "published_at": "2026-08-10T14:50:38Z",
@@ -1006,6 +976,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
       "source": "Dev.to",
       "user": "Sarvar Nadaf"
+    },
+    {
+      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
+      "published_at": "2026-08-11T14:40:56Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "react",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
+      "source": "Dev.to",
+      "user": "Pooja Bhavani"
     },
     {
       "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
@@ -1244,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 324,
       "user": "RadishXN"
     },
     {
@@ -1259,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 258,
       "user": "panel-zeus"
     },
     {
@@ -1274,8 +1259,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 193,
       "user": "50kg"
+    },
+    {
+      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "published_at": "2026-08-13T16:40:20Z",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "NousResearch"
     },
     {
       "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
@@ -1293,21 +1293,6 @@
       "user": "dengzi008"
     },
     {
-      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "published_at": "2026-08-13T16:40:20Z",
-      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
-      "source": "GitHub",
-      "stars": 115,
-      "user": "NousResearch"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -1319,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 43858,
+      "stars": 63465,
       "user": "deepseek-ai"
     },
     {
@@ -1334,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1689,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1349,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 901,
       "user": "SaladDay"
     },
     {
@@ -1368,33 +1353,19 @@
       "user": "sohaibdevv"
     },
     {
-      "title": "milind-soni/OpenMausBot - GitHub Repository",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "published_at": "2026-08-11T18:58:55Z",
-      "description": "Trending GitHub Repository",
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 830,
-      "user": "milind-soni"
-    },
-    {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027124"
+      "stars": 852,
+      "user": "zhu1090093659"
     },
     {
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
@@ -1409,6 +1380,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
+    },
+    {
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "Are object URLs now cached on disk instead of memory only?",
@@ -1797,6 +1782,18 @@
       "user": "seb"
     },
     {
+      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker? tayni1237",
+      "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
+      "published_at": "2026-08-14T02:43:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tayni khatri"
+    },
+    {
       "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
       "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
       "published_at": "2026-08-13T21:32:16.000Z",
@@ -1823,19 +1820,6 @@
       "user": "joel"
     },
     {
-      "title": "API for iCloud password change",
-      "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
-      "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "icloud"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "LeadShark"
-    },
-    {
       "title": "Python dictionary with threads",
       "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
       "published_at": "2026-08-13T10:03:02.000Z",
@@ -1848,6 +1832,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Agent"
+    },
+    {
+      "title": "API for iCloud password change",
+      "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
+      "published_at": "2026-08-13T18:58:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "icloud"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "LeadShark"
     },
     {
       "title": "How can I make this Tkinter application work? I need to stop the threading when I push the stop button of the PyScripter IDE?",
@@ -1905,20 +1902,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loro"
-    },
-    {
-      "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
-      "url": "https://stackoverflow.com/questions/79993703/python-code-dies-with-qsocketnotifier-socket-notifiers-cannot-be-enabled-or-dis",
-      "published_at": "2026-08-13T06:16:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "qt5",
-        "pyside2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Goswin von Brederlow"
     },
     {
       "title": "How do I pass the value of a child class to its own child class?",
@@ -2258,22 +2241,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 193,
       "user": "50kg"
-    },
-    {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027124"
     },
     {
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
@@ -2288,6 +2257,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
+    },
+    {
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "I've got an error with my upgrade buttons",
@@ -2486,6 +2469,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzdwiamf2zbcizwme0vm.png",
       "source": "Dev.to",
       "user": "Gamya "
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
+      "source": "GitHub",
+      "stars": 852,
+      "user": "zhu1090093659"
     },
     {
       "title": "What’s new in Flutter 3.47",
@@ -2839,19 +2837,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
-    },
-    {
-      "title": "SQLite: How it works, by Richard Hipp (2024)",
-      "url": "https://www.youtube.com/watch?v=ZSKLA81tBis",
-      "published_at": "2026-08-13T06:56:09.467-05:00",
-      "description": "https://sqlite.org/talks/howitworks-20240624.pdf",
-      "tags": [
-        "databases",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "przemoc"
     },
     {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
@@ -3292,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 324,
       "user": "RadishXN"
     },
     {
@@ -3307,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 258,
       "user": "panel-zeus"
     },
     {
@@ -3322,8 +3307,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 193,
       "user": "50kg"
+    },
+    {
+      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "published_at": "2026-08-13T16:40:20Z",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "source": "GitHub",
+      "stars": 144,
+      "user": "NousResearch"
     },
     {
       "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
@@ -3341,21 +3341,6 @@
       "user": "dengzi008"
     },
     {
-      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "published_at": "2026-08-13T16:40:20Z",
-      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
-      "source": "GitHub",
-      "stars": 115,
-      "user": "NousResearch"
-    },
-    {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
       "url": "https://github.com/MengMengCode/VoCat",
       "published_at": "2026-08-09T06:43:49Z",
@@ -3367,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 328,
       "user": "MengMengCode"
     },
     {
@@ -3401,6 +3386,21 @@
       "user": "forever94yu"
     },
     {
+      "title": "WongLoki/4G-Connect - Open-source macOS one-click connector for the first-generation DJI 4G module.",
+      "url": "https://github.com/WongLoki/4G-Connect",
+      "published_at": "2026-08-13T10:54:52Z",
+      "description": "Open-source macOS one-click connector for the first-generation DJI 4G module.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "WongLoki"
+    },
+    {
       "title": "Lynricsy/OneSSH - 面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
       "url": "https://github.com/Lynricsy/OneSSH",
       "published_at": "2026-08-08T04:33:17Z",
@@ -3416,21 +3416,6 @@
       "user": "Lynricsy"
     },
     {
-      "title": "WongLoki/4G-Connect - Open-source macOS one-click connector for the first-generation DJI 4G module.",
-      "url": "https://github.com/WongLoki/4G-Connect",
-      "published_at": "2026-08-13T10:54:52Z",
-      "description": "Open-source macOS one-click connector for the first-generation DJI 4G module.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
-      "source": "GitHub",
-      "stars": 52,
-      "user": "WongLoki"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -3442,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 43858,
+      "stars": 63465,
       "user": "deepseek-ai"
     },
     {
@@ -3457,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1689,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3472,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 901,
       "user": "SaladDay"
     },
     {
@@ -3491,19 +3476,19 @@
       "user": "sohaibdevv"
     },
     {
-      "title": "milind-soni/OpenMausBot - GitHub Repository",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "published_at": "2026-08-11T18:58:55Z",
-      "description": "Trending GitHub Repository",
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 830,
-      "user": "milind-soni"
+      "stars": 852,
+      "user": "zhu1090093659"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3517,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 259,
       "user": "lexmount"
     },
     {
@@ -3536,6 +3521,21 @@
       "user": "fzakaria"
     },
     {
+      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "published_at": "2026-08-09T20:25:50Z",
+      "description": "An open source ai sprite maker",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
+      "source": "GitHub",
+      "stars": 153,
+      "user": "JohnKinyanjui"
+    },
+    {
       "title": "hsusul/lore - GitHub Repository",
       "url": "https://github.com/hsusul/lore",
       "published_at": "2026-08-10T22:07:29Z",
@@ -3549,21 +3549,6 @@
       "source": "GitHub",
       "stars": 151,
       "user": "hsusul"
-    },
-    {
-      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
-      "url": "https://github.com/JohnKinyanjui/sprite-maker",
-      "published_at": "2026-08-09T20:25:50Z",
-      "description": "An open source ai sprite maker",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "JohnKinyanjui"
     },
     {
       "title": "EurekaZang/CloudFolder - GitHub Repository",
