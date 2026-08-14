@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6086,
+      "stars": 6201,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 345,
       "user": "MengMengCode"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "forever94yu"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 78859,
+      "stars": 82213,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1700,
       "user": "SMNETSTUDIO"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "lexmount"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "JohnKinyanjui"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "RadishXN"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "panel-zeus"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 231,
       "user": "NousResearch"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 78859,
+      "stars": 82213,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1700,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1416,
       "user": "zhu1090093659"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 942,
       "user": "SaladDay"
     },
     {
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 875,
       "user": "milind-soni"
     },
     {
@@ -1796,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6086,
+      "stars": 6201,
       "user": "guillaumemeyer"
     },
     {
@@ -1811,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1050,
       "user": "Leutenegger"
     },
     {
@@ -1872,16 +1872,20 @@
       "user": "seb"
     },
     {
-      "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
-      "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
-      "published_at": "2026-08-14T06:36:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
+      "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
+      "published_at": "2026-08-14T08:36:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python"
+        "python",
+        "unit-testing",
+        "asynchronous",
+        "discord.py",
+        "mocking"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user23487612"
+      "user": "Berry Delight"
     },
     {
       "title": "How to scrape accurate daily view counts for 500–1000 Facebook videos/reels on own public page without Graph API?",
@@ -1897,6 +1901,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Freddy Samson"
+    },
+    {
+      "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
+      "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
+      "published_at": "2026-08-14T06:36:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user23487612"
     },
     {
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
@@ -1990,20 +2006,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Juan Castro"
-    },
-    {
-      "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
-      "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
-      "published_at": "2026-08-13T06:07:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sql-server",
-        "databricks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nathanael Tom Aterado"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2344,7 +2346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6086,
+      "stars": 6201,
       "user": "guillaumemeyer"
     },
     {
@@ -2543,7 +2545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1416,
       "user": "zhu1090093659"
     }
   ],
@@ -2785,7 +2787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "forever94yu"
     },
     {
@@ -2802,20 +2804,6 @@
       "source": "GitHub",
       "stars": 130,
       "user": "EurekaZang"
-    },
-    {
-      "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
-      "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
-      "published_at": "2026-08-13T06:07:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sql-server",
-        "databricks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nathanael Tom Aterado"
     },
     {
       "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
@@ -2861,20 +2849,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
-      "url": "https://stackoverflow.com/questions/79993700/how-to-call-a-sql-server-stored-procedure-using-pymssql-from-databricks-serverle",
-      "published_at": "2026-08-13T06:07:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "sql-server",
-        "databricks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nathanael Tom Aterado"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
@@ -3302,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "RadishXN"
     },
     {
@@ -3317,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 269,
       "user": "panel-zeus"
     },
     {
@@ -3332,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 231,
       "user": "NousResearch"
     },
     {
@@ -3377,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6086,
+      "stars": 6201,
       "user": "guillaumemeyer"
     },
     {
@@ -3392,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1048,
+      "stars": 1050,
       "user": "Leutenegger"
     },
     {
@@ -3452,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 345,
       "user": "MengMengCode"
     },
     {
@@ -3482,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 86,
       "user": "forever94yu"
     },
     {
@@ -3527,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 78859,
+      "stars": 82213,
       "user": "deepseek-ai"
     },
     {
@@ -3542,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1699,
+      "stars": 1700,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3557,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1299,
+      "stars": 1416,
       "user": "zhu1090093659"
     },
     {
@@ -3572,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 942,
       "user": "SaladDay"
     },
     {
@@ -3587,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 875,
       "user": "milind-soni"
     },
     {
@@ -3602,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "lexmount"
     },
     {
@@ -3617,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "fzakaria"
     },
     {
@@ -3632,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 163,
       "user": "JohnKinyanjui"
     },
     {
@@ -3676,6 +3650,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "altano"
+    },
+    {
+      "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
+      "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
+      "published_at": "2026-08-14T08:36:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "unit-testing",
+        "asynchronous",
+        "discord.py",
+        "mocking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Berry Delight"
     },
     {
       "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
