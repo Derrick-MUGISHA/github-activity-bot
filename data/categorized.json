@@ -164,21 +164,6 @@
       "user": "Asuran"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
       "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
       "published_at": "2026-08-12T07:15:38Z",
@@ -598,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7591,
+      "stars": 7719,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 360,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "MengMengCode"
     },
     {
@@ -658,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 97,
       "user": "pgrundev"
     },
     {
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 93944,
+      "stars": 94245,
       "user": "deepseek-ai"
     },
     {
@@ -718,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 270,
       "user": "lexmount"
     },
     {
@@ -733,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "JohnKinyanjui"
     },
     {
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 155,
       "user": "Awaker-OTE"
     },
     {
@@ -789,6 +774,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harry"
+    },
+    {
+      "title": "Thrive&#8217;s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "published_at": "2026-08-14T19:33:00.000Z",
+      "description": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "tags": [
+        "TC",
+        "Venture",
+        "Thrive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -851,53 +850,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-      "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-      "published_at": "2026-08-14T10:44:30.000Z",
-      "description": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
-      "tags": [
-        "Transportation",
-        "In Brief",
-        "Pony.ai",
-        "robotaxis",
-        "Uber"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "published_at": "2026-08-13T22:12:40.000Z",
-      "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "tags": [
-        "Biotech & Health",
-        "Startups",
-        "fraud",
-        "In Brief",
-        "lawsuit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "published_at": "2026-08-13T22:02:04.000Z",
-      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-      "tags": [
-        "Security",
-        "Flock",
-        "privacy",
-        "surveillance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1019,21 +971,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
-    },
-    {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
     },
     {
       "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
@@ -1272,7 +1209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 337,
       "user": "NousResearch"
     },
     {
@@ -1302,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 252,
       "user": "xiaobright"
     },
     {
@@ -1332,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 93944,
+      "stars": 94245,
       "user": "deepseek-ai"
     },
     {
@@ -1347,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1893,
+      "stars": 1904,
       "user": "zhu1090093659"
     },
     {
@@ -1377,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1681,
       "user": "anywhere-labs"
     },
     {
@@ -1392,8 +1329,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "SaladDay"
+    },
+    {
+      "title": "How do you approach the decorative elements of a website?",
+      "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
+      "published_at": "2026-08-14T19:02:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zahid Tejeda Amaro"
     },
     {
       "title": "How can I convert a date between IANA time zones in JavaScript?",
@@ -1520,22 +1471,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027124"
-    },
-    {
-      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
-      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
-      "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-api",
-        "html5-video",
-        "youtube-iframe-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FlyPhoenix"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1824,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7591,
+      "stars": 7719,
       "user": "guillaumemeyer"
     },
     {
@@ -1839,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1059,
       "user": "Leutenegger"
     },
     {
@@ -1854,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1039,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1869,7 +1804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "0xsline"
     },
     {
@@ -1884,7 +1819,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 360,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1925,20 +1860,6 @@
       "user": "Krishna Kabir"
     },
     {
-      "title": "Socket Emit fail to delivery in multi-worker",
-      "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
-      "published_at": "2026-08-14T14:11:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "flask",
-        "flask-socketio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harry"
-    },
-    {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
       "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
       "published_at": "2026-08-14T08:36:46.000Z",
@@ -1953,6 +1874,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Berry Delight"
+    },
+    {
+      "title": "Socket Emit fail to delivery in multi-worker",
+      "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
+      "published_at": "2026-08-14T14:11:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "flask",
+        "flask-socketio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harry"
     },
     {
       "title": "How to create spectrogram a really image data from a WAV file?",
@@ -2243,21 +2178,6 @@
       "user": "Giorgi Kobaidze"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
       "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
       "published_at": "2026-08-09T22:14:30Z",
@@ -2371,8 +2291,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7591,
+      "stars": 7719,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "How do you approach the decorative elements of a website?",
+      "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
+      "published_at": "2026-08-14T19:02:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zahid Tejeda Amaro"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
@@ -2416,22 +2350,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027124"
-    },
-    {
-      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
-      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
-      "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-api",
-        "html5-video",
-        "youtube-iframe-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FlyPhoenix"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2570,7 +2488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1893,
+      "stars": 1904,
       "user": "zhu1090093659"
     },
     {
@@ -2844,22 +2762,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "published_at": "2026-08-13T22:12:40.000Z",
-      "description": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "tags": [
-        "Biotech & Health",
-        "Startups",
-        "fraud",
-        "In Brief",
-        "lawsuit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     }
   ],
   "Database": [
@@ -3112,21 +3014,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 360,
       "user": "xinxinshuhao-create"
     },
     {
-      "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "published_at": "2026-08-13T11:06:04.992-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "published_at": "2026-08-14T19:04:32.000Z",
+      "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
       "tags": [
-        "security",
-        "vibecoding"
+        "Security",
+        "critical infrastructure",
+        "cyberattacks",
+        "cybersecurity",
+        "Georgia"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "radex"
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "US courts will start publishing how often the government uses spyware",
@@ -3139,21 +3044,6 @@
         "FBI",
         "privacy",
         "Ron Wyden"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "published_at": "2026-08-13T22:02:04.000Z",
-      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-      "tags": [
-        "Security",
-        "Flock",
-        "privacy",
-        "surveillance"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3299,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 337,
       "user": "NousResearch"
     },
     {
@@ -3329,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 252,
       "user": "xiaobright"
     },
     {
@@ -3359,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7591,
+      "stars": 7719,
       "user": "guillaumemeyer"
     },
     {
@@ -3374,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1059,
       "user": "Leutenegger"
     },
     {
@@ -3389,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1014,
+      "stars": 1039,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3404,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "0xsline"
     },
     {
@@ -3419,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 360,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3434,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "MengMengCode"
     },
     {
@@ -3453,6 +3343,21 @@
       "user": "surya-koritala"
     },
     {
+      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
+      "url": "https://github.com/pgrundev/pgbot",
+      "published_at": "2026-08-11T23:41:52Z",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
+      "source": "GitHub",
+      "stars": 97,
+      "user": "pgrundev"
+    },
+    {
       "title": "WongLoki/4G-Connect - Open-source macOS one-click connector for the first-generation DJI 4G module.",
       "url": "https://github.com/WongLoki/4G-Connect",
       "published_at": "2026-08-13T10:54:52Z",
@@ -3466,21 +3371,6 @@
       "source": "GitHub",
       "stars": 93,
       "user": "WongLoki"
-    },
-    {
-      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
-      "url": "https://github.com/pgrundev/pgbot",
-      "published_at": "2026-08-11T23:41:52Z",
-      "description": "pgbot - Postgres intelligence for AI agents & apps",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 93,
-      "user": "pgrundev"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -3509,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 93944,
+      "stars": 94245,
       "user": "deepseek-ai"
     },
     {
@@ -3524,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1893,
+      "stars": 1904,
       "user": "zhu1090093659"
     },
     {
@@ -3554,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1633,
+      "stars": 1681,
       "user": "anywhere-labs"
     },
     {
@@ -3569,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 975,
       "user": "SaladDay"
     },
     {
@@ -3584,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 270,
       "user": "lexmount"
     },
     {
@@ -3614,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "JohnKinyanjui"
     },
     {
@@ -3629,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 155,
       "user": "Awaker-OTE"
     },
     {
@@ -3690,21 +3580,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Berry Delight"
-    },
-    {
-      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "published_at": "2026-08-13T22:02:04.000Z",
-      "description": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-      "tags": [
-        "Security",
-        "Flock",
-        "privacy",
-        "surveillance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
