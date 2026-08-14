@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "50kg"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5785,
+      "stars": 5935,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 335,
       "user": "MengMengCode"
     },
     {
@@ -644,23 +644,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 85,
       "user": "forever94yu"
-    },
-    {
-      "title": "Lynricsy/OneSSH - 面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
-      "url": "https://github.com/Lynricsy/OneSSH",
-      "published_at": "2026-08-08T04:33:17Z",
-      "description": "面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "Lynricsy"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -674,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 69289,
+      "stars": 74632,
       "user": "deepseek-ai"
     },
     {
@@ -689,23 +674,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1695,
       "user": "SMNETSTUDIO"
-    },
-    {
-      "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "url": "https://github.com/sohaibdevv/youtube-music",
-      "published_at": "2026-08-11T18:17:18Z",
-      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
-      "source": "GitHub",
-      "stars": 855,
-      "user": "sohaibdevv"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -719,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 269,
       "user": "lexmount"
     },
     {
@@ -734,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 157,
       "user": "JohnKinyanjui"
     },
     {
@@ -1257,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 334,
       "user": "RadishXN"
     },
     {
@@ -1272,23 +1242,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "panel-zeus"
-    },
-    {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
-      "source": "GitHub",
-      "stars": 196,
-      "user": "50kg"
     },
     {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
@@ -1302,8 +1257,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 201,
       "user": "NousResearch"
+    },
+    {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 197,
+      "user": "50kg"
     },
     {
       "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
@@ -1332,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 69289,
+      "stars": 74632,
       "user": "deepseek-ai"
     },
     {
@@ -1347,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1695,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1362,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 1126,
       "user": "zhu1090093659"
     },
     {
@@ -1377,43 +1347,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 925,
       "user": "SaladDay"
     },
     {
-      "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "url": "https://github.com/sohaibdevv/youtube-music",
-      "published_at": "2026-08-11T18:17:18Z",
-      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "title": "milind-soni/OpenMausBot - GitHub Repository",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "published_at": "2026-08-11T18:58:55Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 855,
-      "user": "sohaibdevv"
+      "stars": 859,
+      "user": "milind-soni"
     },
     {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "How to query a custom element's internal elements while in the document from a DOMParser()?",
+      "url": "https://stackoverflow.com/questions/79994986/how-to-query-a-custom-elements-internal-elements-while-in-the-document-from-a-d",
+      "published_at": "2026-08-14T04:47:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "html",
-        "css"
+        "custom-element",
+        "domparser"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33027124"
+      "user": "Gary"
     },
     {
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1422,6 +1392,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
+    },
+    {
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "Are object URLs now cached on disk instead of memory only?",
@@ -1522,19 +1506,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vatar"
-    },
-    {
-      "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
-      "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
-      "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "javascript",
-        "html-object"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1809,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5785,
+      "stars": 5935,
       "user": "guillaumemeyer"
     },
     {
@@ -1824,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1043,
       "user": "Leutenegger"
     },
     {
@@ -1854,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 311,
       "user": "gfodor"
     },
     {
@@ -1869,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "JayJokerr"
     },
     {
@@ -1885,30 +1856,16 @@
       "user": "seb"
     },
     {
-      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker? tayni1237",
+      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
       "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
       "published_at": "2026-08-14T02:43:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tayni khatri"
-    },
-    {
-      "title": "Why can adding logging make a Python race condition disappear?",
-      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
-      "published_at": "2026-08-13T08:32:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "race-condition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Edmon Dantes"
     },
     {
       "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
@@ -1936,6 +1893,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Agent"
+    },
+    {
+      "title": "Why can adding logging make a Python race condition disappear?",
+      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
+      "published_at": "2026-08-13T08:32:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "race-condition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Edmon Dantes"
     },
     {
       "title": "Reproduce n-ary `vmap` from unary",
@@ -2344,7 +2315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "50kg"
     },
     {
@@ -2359,28 +2330,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5785,
+      "stars": 5935,
       "user": "guillaumemeyer"
-    },
-    {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027124"
     },
     {
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2389,6 +2346,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
+    },
+    {
+      "title": "Null is not an object for DOM",
+      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
+      "published_at": "2026-08-13T21:03:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33027124"
     },
     {
       "title": "I've got an error with my upgrade buttons",
@@ -2449,19 +2420,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vatar"
-    },
-    {
-      "title": "How to ensure that PDF is restored to same scroll position when navigating within same web page?",
-      "url": "https://stackoverflow.com/questions/79992354/how-to-ensure-that-pdf-is-restored-to-same-scroll-position-when-navigating-withi",
-      "published_at": "2026-08-11T22:27:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "javascript",
-        "html-object"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
@@ -2584,7 +2542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 1126,
       "user": "zhu1090093659"
     }
   ],
@@ -2826,7 +2784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 85,
       "user": "forever94yu"
     },
     {
@@ -2915,18 +2873,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Does anyone run Postgres without PgBouncer?",
-      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-      "published_at": "2026-08-12T22:08:30.574-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "carlana"
     },
     {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
@@ -3158,7 +3104,8 @@
       "published_at": "2026-08-13T11:06:04.992-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3367,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 334,
       "user": "RadishXN"
     },
     {
@@ -3382,23 +3329,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 260,
       "user": "panel-zeus"
-    },
-    {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
-      "source": "GitHub",
-      "stars": 196,
-      "user": "50kg"
     },
     {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
@@ -3412,8 +3344,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 201,
       "user": "NousResearch"
+    },
+    {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 197,
+      "user": "50kg"
     },
     {
       "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
@@ -3442,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5785,
+      "stars": 5935,
       "user": "guillaumemeyer"
     },
     {
@@ -3457,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1040,
+      "stars": 1043,
       "user": "Leutenegger"
     },
     {
@@ -3487,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 311,
       "user": "gfodor"
     },
     {
@@ -3502,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 303,
       "user": "JayJokerr"
     },
     {
@@ -3517,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 335,
       "user": "MengMengCode"
     },
     {
@@ -3547,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 85,
       "user": "forever94yu"
     },
     {
@@ -3562,23 +3509,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 76,
       "user": "WongLoki"
     },
     {
-      "title": "Lynricsy/OneSSH - 面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
-      "url": "https://github.com/Lynricsy/OneSSH",
-      "published_at": "2026-08-08T04:33:17Z",
-      "description": "面向 AI Agent 的集中式 SSH 网关，提供 MCP 接入、凭据托管、细粒度授权与全程审计。",
+      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "url": "https://github.com/zepto-labs/scherry",
+      "published_at": "2026-08-11T08:59:18Z",
+      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62173814?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 57,
-      "user": "Lynricsy"
+      "stars": 61,
+      "user": "zepto-labs"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3592,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 69289,
+      "stars": 74632,
       "user": "deepseek-ai"
     },
     {
@@ -3607,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1693,
+      "stars": 1695,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3622,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 1126,
       "user": "zhu1090093659"
     },
     {
@@ -3637,23 +3584,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 911,
+      "stars": 925,
       "user": "SaladDay"
     },
     {
-      "title": "sohaibdevv/youtube-music - A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-      "url": "https://github.com/sohaibdevv/youtube-music",
-      "published_at": "2026-08-11T18:17:18Z",
-      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "title": "milind-soni/OpenMausBot - GitHub Repository",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "published_at": "2026-08-11T18:58:55Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/185227829?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 855,
-      "user": "sohaibdevv"
+      "stars": 859,
+      "user": "milind-soni"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3667,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 269,
       "user": "lexmount"
     },
     {
@@ -3697,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 157,
       "user": "JohnKinyanjui"
     },
     {
