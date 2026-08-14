@@ -284,6 +284,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
+    },
+    {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
       "published_at": "2026-07-26T19:27:29Z",
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "50kg"
     },
     {
@@ -583,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7719,
+      "stars": 7790,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "xinxinshuhao-create"
     },
     {
@@ -613,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "MengMengCode"
     },
     {
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94245,
+      "stars": 94407,
       "user": "deepseek-ai"
     },
     {
@@ -703,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "lexmount"
     },
     {
@@ -718,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "JohnKinyanjui"
     },
     {
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "Awaker-OTE"
     },
     {
@@ -852,6 +867,22 @@
       "user": "Tim De Chant"
     },
     {
+      "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
+      "published_at": "2026-08-14T16:34:24.000Z",
+      "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
+      "tags": [
+        "langchain",
+        "ai agents",
+        "AI",
+        "Python",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Nikhil Adithyan"
+    },
+    {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
       "published_at": "2026-08-14T15:57:42.000Z",
@@ -911,19 +942,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chidozie Managwu"
-    },
-    {
-      "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
-      "url": "https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/",
-      "published_at": "2026-08-12T21:35:20.000Z",
-      "description": "Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc",
-      "tags": [
-        "AI",
-        "generative ai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mohammed Fahd Abrah"
     }
   ],
   "JavaScript": [
@@ -1046,6 +1064,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
     },
     {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
@@ -1209,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 344,
       "user": "NousResearch"
     },
     {
@@ -1224,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "panel-zeus"
     },
     {
@@ -1239,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 260,
       "user": "xiaobright"
     },
     {
@@ -1254,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "50kg"
     },
     {
@@ -1269,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94245,
+      "stars": 94407,
       "user": "deepseek-ai"
     },
     {
@@ -1284,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1904,
+      "stars": 1906,
       "user": "zhu1090093659"
     },
     {
@@ -1314,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1681,
+      "stars": 1703,
       "user": "anywhere-labs"
     },
     {
@@ -1329,14 +1362,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 976,
       "user": "SaladDay"
     },
     {
       "title": "How do you approach the decorative elements of a website?",
       "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
       "published_at": "2026-08-14T19:02:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "advice",
         "javascript",
@@ -1345,6 +1378,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zahid Tejeda Amaro"
+    },
+    {
+      "title": "How to handle invalid date in Flatpickr",
+      "url": "https://stackoverflow.com/questions/79995134/how-to-handle-invalid-date-in-flatpickr",
+      "published_at": "2026-08-14T15:55:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "flatpickr"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NormB"
     },
     {
       "title": "How can I convert a date between IANA time zones in JavaScript?",
@@ -1360,19 +1406,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Waqas Solangi"
-    },
-    {
-      "title": "How to handle invalid date in Flatpickr",
-      "url": "https://stackoverflow.com/questions/79995134/how-to-handle-invalid-date-in-flatpickr",
-      "published_at": "2026-08-14T15:55:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "flatpickr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NormB"
     },
     {
       "title": "How can I prevent duplicate API requests in JavaScript?",
@@ -1534,22 +1567,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Alex Oliinyk"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
-      "published_at": "2026-08-13T00:09:57.000Z",
-      "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1759,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7719,
+      "stars": 7790,
       "user": "guillaumemeyer"
     },
     {
@@ -1774,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1060,
       "user": "Leutenegger"
     },
     {
@@ -1789,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1043,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1819,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1904,19 +1921,6 @@
       "user": "mathrm alpha"
     },
     {
-      "title": "How do you ensure in Python that you can open files with the program you created?",
-      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
-      "published_at": "2026-08-14T12:44:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "open-with"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
       "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
       "url": "https://stackoverflow.com/questions/79995069/why-does-a-python-subprocess-hang-only-when-stdout-is-redirected-to-pipe",
       "published_at": "2026-08-14T11:45:57.000Z",
@@ -1929,6 +1933,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mia Smith"
+    },
+    {
+      "title": "How do you ensure in Python that you can open files with the program you created?",
+      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
+      "published_at": "2026-08-14T12:44:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "python",
+        "open-with"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
     },
     {
       "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
@@ -1956,16 +1973,50 @@
       "user": "joel"
     },
     {
-      "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
-      "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
-      "published_at": "2026-08-14T02:43:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "title": "Why can adding logging make a Python race condition disappear?",
+      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
+      "published_at": "2026-08-13T08:32:27.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "multithreading",
+        "race-condition"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "tayni khatri"
+      "user": "Edmon Dantes"
+    },
+    {
+      "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/",
+      "published_at": "2026-08-14T16:40:28.000Z",
+      "description": "Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first",
+      "tags": [
+        "software development",
+        "bot",
+        "Python 3",
+        "Beginner Developers",
+        "techblog"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
+    },
+    {
+      "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
+      "published_at": "2026-08-14T16:34:24.000Z",
+      "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
+      "tags": [
+        "langchain",
+        "ai agents",
+        "AI",
+        "Python",
+        "handbook"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Nikhil Adithyan"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2208,6 +2259,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
+    },
+    {
       "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
       "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk",
       "published_at": "2026-08-10T08:59:34Z",
@@ -2276,7 +2342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "50kg"
     },
     {
@@ -2291,14 +2357,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7719,
+      "stars": 7790,
       "user": "guillaumemeyer"
     },
     {
       "title": "How do you approach the decorative elements of a website?",
       "url": "https://stackoverflow.com/questions/79995185/how-do-you-approach-the-decorative-elements-of-a-website",
       "published_at": "2026-08-14T19:02:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "advice",
         "javascript",
@@ -2397,22 +2463,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Alex Oliinyk"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
-      "published_at": "2026-08-13T00:09:57.000Z",
-      "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2488,7 +2538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1904,
+      "stars": 1906,
       "user": "zhu1090093659"
     },
     {
@@ -3014,11 +3064,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "xinxinshuhao-create"
     },
     {
-      "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
       "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
       "published_at": "2026-08-14T19:04:32.000Z",
       "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
@@ -3189,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 344,
       "user": "NousResearch"
     },
     {
@@ -3204,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 295,
       "user": "panel-zeus"
     },
     {
@@ -3219,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 260,
       "user": "xiaobright"
     },
     {
@@ -3234,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "50kg"
     },
     {
@@ -3249,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7719,
+      "stars": 7790,
       "user": "guillaumemeyer"
     },
     {
@@ -3264,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1060,
       "user": "Leutenegger"
     },
     {
@@ -3279,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1043,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3309,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 363,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3324,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 365,
       "user": "MengMengCode"
     },
     {
@@ -3399,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 94245,
+      "stars": 94407,
       "user": "deepseek-ai"
     },
     {
@@ -3414,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1904,
+      "stars": 1906,
       "user": "zhu1090093659"
     },
     {
@@ -3444,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1681,
+      "stars": 1703,
       "user": "anywhere-labs"
     },
     {
@@ -3459,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 975,
+      "stars": 976,
       "user": "SaladDay"
     },
     {
@@ -3474,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "lexmount"
     },
     {
@@ -3489,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "fzakaria"
     },
     {
@@ -3504,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "JohnKinyanjui"
     },
     {
@@ -3519,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "Awaker-OTE"
     },
     {
@@ -3596,22 +3646,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chidozie Managwu"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
-      "published_at": "2026-08-13T00:09:57.000Z",
-      "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ]
 }
