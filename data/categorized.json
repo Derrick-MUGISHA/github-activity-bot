@@ -588,21 +588,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "url": "https://github.com/sv-number/mcp-server",
-      "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
-      "source": "GitHub",
-      "stars": 564,
-      "user": "sv-number"
-    },
-    {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
       "url": "https://github.com/50kg/image-to-slice",
       "published_at": "2026-08-10T15:29:27Z",
@@ -618,36 +603,6 @@
       "user": "50kg"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 5321,
-      "user": "guillaumemeyer"
-    },
-    {
-      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "published_at": "2026-08-07T01:18:37Z",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
-      "source": "GitHub",
-      "stars": 517,
-      "user": "NikoDemon80"
-    },
-    {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
       "url": "https://github.com/MengMengCode/VoCat",
       "published_at": "2026-08-09T06:43:49Z",
@@ -659,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "MengMengCode"
     },
     {
@@ -676,21 +631,6 @@
       "source": "GitHub",
       "stars": 212,
       "user": "surya-koritala"
-    },
-    {
-      "title": "jundizhou/easy-stock - A 股行情分析与AI智能投研智能体--基于大模型",
-      "url": "https://github.com/jundizhou/easy-stock",
-      "published_at": "2026-08-07T16:25:36Z",
-      "description": "A 股行情分析与AI智能投研智能体--基于大模型",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "jundizhou"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -734,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 40097,
+      "stars": 43858,
       "user": "deepseek-ai"
     },
     {
@@ -779,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "lexmount"
     },
     {
@@ -809,18 +749,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "facundoolano"
-    },
-    {
-      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "published_at": "2026-08-12T10:01:27.580-05:00",
-      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
@@ -1305,21 +1233,6 @@
       "user": "velmu"
     },
     {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "url": "https://github.com/sv-number/mcp-server",
-      "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
-      "source": "GitHub",
-      "stars": 564,
-      "user": "sv-number"
-    },
-    {
       "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
       "url": "https://github.com/RadishXN/run-abroad",
       "published_at": "2026-08-12T02:54:15Z",
@@ -1331,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "RadishXN"
     },
     {
@@ -1350,21 +1263,6 @@
       "user": "panel-zeus"
     },
     {
-      "title": "aashaexo/soundshuman - GitHub Repository",
-      "url": "https://github.com/aashaexo/soundshuman",
-      "published_at": "2026-08-07T19:11:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "aashaexo"
-    },
-    {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
       "url": "https://github.com/50kg/image-to-slice",
       "published_at": "2026-08-10T15:29:27Z",
@@ -1380,6 +1278,36 @@
       "user": "50kg"
     },
     {
+      "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "url": "https://github.com/dengzi008/DramaLens",
+      "published_at": "2026-08-11T03:58:26Z",
+      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/171480915?v=4",
+      "source": "GitHub",
+      "stars": 122,
+      "user": "dengzi008"
+    },
+    {
+      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "published_at": "2026-08-13T16:40:20Z",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "source": "GitHub",
+      "stars": 115,
+      "user": "NousResearch"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -1391,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 40097,
+      "stars": 43858,
       "user": "deepseek-ai"
     },
     {
@@ -1421,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 887,
       "user": "SaladDay"
     },
     {
@@ -1451,14 +1379,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 830,
       "user": "milind-soni"
     },
     {
       "title": "Null is not an object for DOM",
       "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
       "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1472,7 +1400,7 @@
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1857,81 +1785,6 @@
       "user": "arathore"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 5321,
-      "user": "guillaumemeyer"
-    },
-    {
-      "title": "ShawnPana/phone-harness - let your agent control your phone",
-      "url": "https://github.com/ShawnPana/phone-harness",
-      "published_at": "2026-08-07T22:28:53Z",
-      "description": "let your agent control your phone",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
-      "source": "GitHub",
-      "stars": 1712,
-      "user": "ShawnPana"
-    },
-    {
-      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
-      "url": "https://github.com/oil-oil/oil-motion",
-      "published_at": "2026-08-07T12:36:33Z",
-      "description": "Create smooth, responsive interactive web animations.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 1685,
-      "user": "oil-oil"
-    },
-    {
-      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "published_at": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
-      "source": "GitHub",
-      "stars": 1022,
-      "user": "Leutenegger"
-    },
-    {
-      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "published_at": "2026-08-07T01:18:37Z",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
-      "source": "GitHub",
-      "stars": 517,
-      "user": "NikoDemon80"
-    },
-    {
       "title": "python's pre-declared constants are kinda weird",
       "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
       "published_at": "2026-08-13T00:28:40.501-05:00",
@@ -1973,7 +1826,7 @@
       "title": "API for iCloud password change",
       "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "icloud"
@@ -2409,25 +2262,10 @@
       "user": "50kg"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 5321,
-      "user": "guillaumemeyer"
-    },
-    {
       "title": "Null is not an object for DOM",
       "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
       "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2441,7 +2279,7 @@
       "title": "How To Make An Animate Menu Icon Show/Hide Menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2904,10 +2742,25 @@
       "user": "forever94yu"
     },
     {
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "EurekaZang"
+    },
+    {
       "title": "API for iCloud password change",
       "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
       "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "icloud"
@@ -2999,18 +2852,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "przemoc"
-    },
-    {
-      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "published_at": "2026-08-12T10:01:27.580-05:00",
-      "description": "Previously, the [SQLite release fixing this bug](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug).",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
@@ -3440,21 +3281,6 @@
       "user": "pabs3"
     },
     {
-      "title": "sv-number/mcp-server - MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "url": "https://github.com/sv-number/mcp-server",
-      "published_at": "2026-08-07T11:13:26Z",
-      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299902966?v=4",
-      "source": "GitHub",
-      "stars": 564,
-      "user": "sv-number"
-    },
-    {
       "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
       "url": "https://github.com/RadishXN/run-abroad",
       "published_at": "2026-08-12T02:54:15Z",
@@ -3466,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 314,
+      "stars": 316,
       "user": "RadishXN"
     },
     {
@@ -3485,21 +3311,6 @@
       "user": "panel-zeus"
     },
     {
-      "title": "aashaexo/soundshuman - GitHub Repository",
-      "url": "https://github.com/aashaexo/soundshuman",
-      "published_at": "2026-08-07T19:11:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/206336059?v=4",
-      "source": "GitHub",
-      "stars": 231,
-      "user": "aashaexo"
-    },
-    {
       "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
       "url": "https://github.com/50kg/image-to-slice",
       "published_at": "2026-08-10T15:29:27Z",
@@ -3515,79 +3326,34 @@
       "user": "50kg"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "title": "dengzi008/DramaLens - Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "url": "https://github.com/dengzi008/DramaLens",
+      "published_at": "2026-08-11T03:58:26Z",
+      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/171480915?v=4",
       "source": "GitHub",
-      "stars": 5321,
-      "user": "guillaumemeyer"
+      "stars": 122,
+      "user": "dengzi008"
     },
     {
-      "title": "ShawnPana/phone-harness - let your agent control your phone",
-      "url": "https://github.com/ShawnPana/phone-harness",
-      "published_at": "2026-08-07T22:28:53Z",
-      "description": "let your agent control your phone",
+      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "published_at": "2026-08-13T16:40:20Z",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/129362299?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 1712,
-      "user": "ShawnPana"
-    },
-    {
-      "title": "oil-oil/oil-motion - Create smooth, responsive interactive web animations.",
-      "url": "https://github.com/oil-oil/oil-motion",
-      "published_at": "2026-08-07T12:36:33Z",
-      "description": "Create smooth, responsive interactive web animations.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57465570?v=4",
-      "source": "GitHub",
-      "stars": 1685,
-      "user": "oil-oil"
-    },
-    {
-      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "published_at": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
-      "source": "GitHub",
-      "stars": 1022,
-      "user": "Leutenegger"
-    },
-    {
-      "title": "NikoDemon80/ComfyUI-H3-Motion-Context - Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
-      "published_at": "2026-08-07T01:18:37Z",
-      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/262659861?v=4",
-      "source": "GitHub",
-      "stars": 517,
-      "user": "NikoDemon80"
+      "stars": 115,
+      "user": "NousResearch"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3601,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 322,
+      "stars": 324,
       "user": "MengMengCode"
     },
     {
@@ -3618,21 +3384,6 @@
       "source": "GitHub",
       "stars": 212,
       "user": "surya-koritala"
-    },
-    {
-      "title": "jundizhou/easy-stock - A 股行情分析与AI智能投研智能体--基于大模型",
-      "url": "https://github.com/jundizhou/easy-stock",
-      "published_at": "2026-08-07T16:25:36Z",
-      "description": "A 股行情分析与AI智能投研智能体--基于大模型",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92794317?v=4",
-      "source": "GitHub",
-      "stars": 162,
-      "user": "jundizhou"
     },
     {
       "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
@@ -3665,6 +3416,21 @@
       "user": "Lynricsy"
     },
     {
+      "title": "WongLoki/4G-Connect - Open-source macOS one-click connector for the first-generation DJI 4G module.",
+      "url": "https://github.com/WongLoki/4G-Connect",
+      "published_at": "2026-08-13T10:54:52Z",
+      "description": "Open-source macOS one-click connector for the first-generation DJI 4G module.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
+      "source": "GitHub",
+      "stars": 52,
+      "user": "WongLoki"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -3676,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 40097,
+      "stars": 43858,
       "user": "deepseek-ai"
     },
     {
@@ -3706,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 884,
+      "stars": 887,
       "user": "SaladDay"
     },
     {
@@ -3736,23 +3502,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 830,
       "user": "milind-soni"
-    },
-    {
-      "title": "Flaminis/Dalaran - Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "url": "https://github.com/Flaminis/Dalaran",
-      "published_at": "2026-08-07T09:37:32Z",
-      "description": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20280711?v=4",
-      "source": "GitHub",
-      "stars": 935,
-      "user": "Flaminis"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3766,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "lexmount"
     },
     {
@@ -3813,6 +3564,21 @@
       "source": "GitHub",
       "stars": 145,
       "user": "JohnKinyanjui"
+    },
+    {
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "EurekaZang"
     },
     {
       "title": "GitHub Stacks in Jujutsu",
