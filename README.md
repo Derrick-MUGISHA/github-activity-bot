@@ -21,21 +21,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-14 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-14 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7k01rhem8csp3id2h5qa.png" width="200" alt="Hey all! I’m Jem, the DEV Community Program Coordinator" />
-      <br/>
-      <b>Hey all! I’m Jem, the DEV Community Program Coordi...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/devteam/what-was-your-win-this-week-23ob">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2opg07psqe8nnzs5kk1l.jpg" width="200" alt="What was your win this week??" />
@@ -54,6 +45,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg" width="200" alt="Looker's Native MCP Server with Claude Code" />
+      <br/>
+      <b>Looker's Native MCP Server with Claude Code</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 <tr>
   <td align="center" width="33%">
@@ -61,15 +61,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png" width="200" alt="[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft" />
       <br/>
       <b>[Dev Log][Python] Create short videos from photos ...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg" width="200" alt="Looker's Native MCP Server with Claude Code" />
-      <br/>
-      <b>Looker's Native MCP Server with Claude Code</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -83,6 +74,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpkholdt4jp2vza6zzqvu.png" width="200" alt="It's always Doom https://ood.dev/posts/doom/" />
+      <br/>
+      <b>It's always Doom https://ood.dev/posts/doom/</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
-| 2 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
-| 3 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
+| 1 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
+| 2 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
+| 3 | [Looker's Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8) | Dev.to |
 | 4 | [[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | Dev.to |
-| 5 | [Looker's Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8) | Dev.to |
-| 6 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
-| 7 | [It's always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi) | Dev.to |
-| 8 | [Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll) | Dev.to |
+| 5 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
+| 6 | [It's always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi) | Dev.to |
+| 7 | [Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll) | Dev.to |
+| 8 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
 | 9 | [Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter](https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp) | Dev.to |
-| 10 | [Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i) | Dev.to |
-| 11 | [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63) | Dev.to |
-| 12 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
-| 13 | [Do I Still Need a Monkey Patch for Gemini Live?](https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e) | Dev.to |
-| 14 | [Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) | Dev.to |
-| 15 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
-| 16 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
-| 17 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
-| 18 | [MCP Configuration for Looker with Codex](https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1) | Dev.to |
-| 19 | [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j) | Dev.to |
-| 20 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
+| 10 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
+| 11 | [Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i) | Dev.to |
+| 12 | [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63) | Dev.to |
+| 13 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
+| 14 | [Do I Still Need a Monkey Patch for Gemini Live?](https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e) | Dev.to |
+| 15 | [Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) | Dev.to |
+| 16 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
+| 17 | [Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI](https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8) | Dev.to |
+| 18 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
+| 19 | [MCP Configuration for Looker with Codex](https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1) | Dev.to |
+| 20 | [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j) | Dev.to |
 
-<sub>Last fetched: Fri, 14 Aug 2026 19:37:18 CAT</sub>
+<sub>Last fetched: Fri, 14 Aug 2026 20:33:30 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — Explain the Java memory model**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**3. `SystemDesign` — How would you design a rate limiter?**
+**3. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 67 | 36.4% | `████████████████████` |
+| **AI** | 68 | 37.0% | `████████████████████` |
 | **JavaScript** | 45 | 24.5% | `█████████████░░░░░░░` |
-| **Tools** | 38 | 20.7% | `███████████░░░░░░░░░` |
-| **Python** | 32 | 17.4% | `██████████░░░░░░░░░░` |
+| **Tools** | 39 | 21.2% | `███████████░░░░░░░░░` |
+| **Python** | 32 | 17.4% | `█████████░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `██████░░░░░░░░░░░░░░` |
 | **WebDev** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -196,9 +196,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 ```
 JavaScript      ██████████████████████████████ 28.7%
 Java            ███████████████████████ 22.3%
-Go              ███████████████████████ 21.7%
+Go              ██████████████████████ 21.0%
 Python          █████████████████████ 20.4%
-Rust            █████ 4.5%
+Rust            █████ 5.1%
 Swift           █ 1.3%
 CSharp          █ 0.6%
 PHP             █ 0.6%
@@ -209,9 +209,9 @@ PHP             █ 0.6%
 pie title Programming Languages Distribution
     "JavaScript" : 45
     "Java" : 35
-    "Go" : 34
+    "Go" : 33
     "Python" : 32
-    "Rust" : 7
+    "Rust" : 8
     "Swift" : 2
     "CSharp" : 1
     "PHP" : 1
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 14 Aug 2026 17:37:18 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 14 Aug 2026 18:33:30 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
