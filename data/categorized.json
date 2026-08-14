@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "50kg"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5935,
+      "stars": 6086,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 342,
       "user": "MengMengCode"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 74632,
+      "stars": 78859,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1699,
       "user": "SMNETSTUDIO"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "JohnKinyanjui"
     },
     {
@@ -719,6 +719,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "facundoolano"
+    },
+    {
+      "title": "How to scrape accurate daily view counts for 500–1000 Facebook videos/reels on own public page without Graph API?",
+      "url": "https://stackoverflow.com/questions/79995011/how-to-scrape-accurate-daily-view-counts-for-500-1000-facebook-videos-reels-on-o",
+      "published_at": "2026-08-14T06:44:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "facebook",
+        "web-scraping",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Freddy Samson"
     },
     {
       "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
@@ -1227,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "RadishXN"
     },
     {
@@ -1242,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 266,
       "user": "panel-zeus"
     },
     {
@@ -1257,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 217,
       "user": "NousResearch"
     },
     {
@@ -1272,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "50kg"
     },
     {
@@ -1302,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 74632,
+      "stars": 78859,
       "user": "deepseek-ai"
     },
     {
@@ -1317,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1699,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1332,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1299,
       "user": "zhu1090093659"
     },
     {
@@ -1347,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 932,
       "user": "SaladDay"
     },
     {
@@ -1362,14 +1377,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 868,
       "user": "milind-soni"
+    },
+    {
+      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
+      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
+      "published_at": "2026-08-14T06:33:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "dom",
+        "conditional-statements"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Robin Jhon"
     },
     {
       "title": "How to query a custom element's internal elements while in the document from a DOMParser()?",
       "url": "https://stackoverflow.com/questions/79994986/how-to-query-a-custom-elements-internal-elements-while-in-the-document-from-a-d",
       "published_at": "2026-08-14T04:47:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "custom-element",
@@ -1380,8 +1409,8 @@
       "user": "Gary"
     },
     {
-      "title": "How To Make An Animate Menu Icon Show/Hide Menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
+      "title": "How to make an animated menu icon show/hide menu",
+      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
       "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
@@ -1493,19 +1522,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FlyPhoenix"
-    },
-    {
-      "title": "Avoid synthetic sounds overlapping",
-      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
-      "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vatar"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1780,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5935,
+      "stars": 6086,
       "user": "guillaumemeyer"
     },
     {
@@ -1795,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1048,
       "user": "Leutenegger"
     },
     {
@@ -1810,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "i3T4AN"
     },
     {
@@ -1825,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "gfodor"
     },
     {
@@ -1840,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "JayJokerr"
     },
     {
@@ -1856,6 +1872,33 @@
       "user": "seb"
     },
     {
+      "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
+      "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
+      "published_at": "2026-08-14T06:36:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user23487612"
+    },
+    {
+      "title": "How to scrape accurate daily view counts for 500–1000 Facebook videos/reels on own public page without Graph API?",
+      "url": "https://stackoverflow.com/questions/79995011/how-to-scrape-accurate-daily-view-counts-for-500-1000-facebook-videos-reels-on-o",
+      "published_at": "2026-08-14T06:44:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "facebook",
+        "web-scraping",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Freddy Samson"
+    },
+    {
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
       "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
       "published_at": "2026-08-14T02:43:00.000Z",
@@ -1866,33 +1909,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tayni khatri"
-    },
-    {
-      "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
-      "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
-      "published_at": "2026-08-13T21:32:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "machine-learning"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alexander Bendall"
-    },
-    {
-      "title": "Python dictionary with threads",
-      "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
-      "published_at": "2026-08-13T10:03:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Agent"
     },
     {
       "title": "Why can adding logging make a Python race condition disappear?",
@@ -1909,6 +1925,20 @@
       "user": "Edmon Dantes"
     },
     {
+      "title": "Python dictionary with threads",
+      "url": "https://stackoverflow.com/questions/79993767/python-dictionary-with-threads",
+      "published_at": "2026-08-13T10:03:02.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Agent"
+    },
+    {
       "title": "Reproduce n-ary `vmap` from unary",
       "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
       "published_at": "2026-08-13T16:37:21.000Z",
@@ -1922,17 +1952,17 @@
       "user": "joel"
     },
     {
-      "title": "API for iCloud password change",
-      "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
-      "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Lack of/Unbalance of Training Data in a High-Accuracy-Required AI Model",
+      "url": "https://stackoverflow.com/questions/79993940/lack-of-unbalance-of-training-data-in-a-high-accuracy-required-ai-model",
+      "published_at": "2026-08-13T21:32:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
-        "icloud"
+        "machine-learning"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "LeadShark"
+      "user": "Alexander Bendall"
     },
     {
       "title": "Python code dies with QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread",
@@ -1974,22 +2004,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nathanael Tom Aterado"
-    },
-    {
-      "title": "Working with huge uint8 array without sufficient memory",
-      "url": "https://stackoverflow.com/questions/79993636/working-with-huge-uint8-array-without-sufficient-memory",
-      "published_at": "2026-08-13T00:15:25.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "numpy",
-        "out-of-memory",
-        "dask",
-        "numpy-memmap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Loro"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2315,7 +2329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "50kg"
     },
     {
@@ -2330,12 +2344,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5935,
+      "stars": 6086,
       "user": "guillaumemeyer"
     },
     {
-      "title": "How To Make An Animate Menu Icon Show/Hide Menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animate-menu-icon-show-hide-menu",
+      "title": "How to make an animated menu icon show/hide menu",
+      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
       "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
@@ -2407,19 +2421,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FlyPhoenix"
-    },
-    {
-      "title": "Avoid synthetic sounds overlapping",
-      "url": "https://stackoverflow.com/questions/79992180/avoid-synthetic-sounds-overlapping",
-      "published_at": "2026-08-11T09:02:38.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vatar"
     },
     {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
@@ -2542,7 +2543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1299,
       "user": "zhu1090093659"
     }
   ],
@@ -2801,19 +2802,6 @@
       "source": "GitHub",
       "stars": 130,
       "user": "EurekaZang"
-    },
-    {
-      "title": "API for iCloud password change",
-      "url": "https://stackoverflow.com/questions/79993914/api-for-icloud-password-change",
-      "published_at": "2026-08-13T18:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "icloud"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "LeadShark"
     },
     {
       "title": "How to call a SQL Server stored procedure using pymssql from Databricks Serverless Compute?",
@@ -3314,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 335,
       "user": "RadishXN"
     },
     {
@@ -3329,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 266,
       "user": "panel-zeus"
     },
     {
@@ -3344,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 217,
       "user": "NousResearch"
     },
     {
@@ -3359,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 200,
       "user": "50kg"
     },
     {
@@ -3389,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 5935,
+      "stars": 6086,
       "user": "guillaumemeyer"
     },
     {
@@ -3404,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1048,
       "user": "Leutenegger"
     },
     {
@@ -3419,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/67167910?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "i3T4AN"
     },
     {
@@ -3434,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "gfodor"
     },
     {
@@ -3449,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 305,
       "user": "JayJokerr"
     },
     {
@@ -3464,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 342,
       "user": "MengMengCode"
     },
     {
@@ -3509,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 78,
       "user": "WongLoki"
     },
     {
@@ -3524,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 65,
       "user": "zepto-labs"
     },
     {
@@ -3539,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 74632,
+      "stars": 78859,
       "user": "deepseek-ai"
     },
     {
@@ -3554,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1695,
+      "stars": 1699,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3569,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1299,
       "user": "zhu1090093659"
     },
     {
@@ -3584,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 925,
+      "stars": 932,
       "user": "SaladDay"
     },
     {
@@ -3599,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 868,
       "user": "milind-soni"
     },
     {
@@ -3629,7 +3617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 245,
       "user": "fzakaria"
     },
     {
@@ -3644,7 +3632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 161,
       "user": "JohnKinyanjui"
     },
     {
