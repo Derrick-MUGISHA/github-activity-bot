@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Looker's Native MCP Server with Claude Code",
+      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
+      "published_at": "2026-08-14T14:00:55Z",
+      "description": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
+      "tags": [
+        "mcp",
+        "looker",
+        "claudecode",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
       "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
       "published_at": "2026-08-13T18:42:09Z",
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7005,
+      "stars": 7170,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "MengMengCode"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 81,
       "user": "pgrundev"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 90606,
+      "stars": 91792,
       "user": "deepseek-ai"
     },
     {
@@ -704,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "lexmount"
     },
     {
@@ -719,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "JohnKinyanjui"
     },
     {
@@ -734,19 +749,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aka_dude"
-    },
-    {
-      "title": "AI is removing the middle class of software engineering",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "published_at": "2026-08-13T09:03:13.761-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "facundoolano"
     },
     {
       "title": "Socket Emit fail to delivery in multi-worker",
@@ -766,7 +768,7 @@
       "title": "How to cull a pair based of relative distance between the centre of two objects?",
       "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
       "published_at": "2026-08-14T13:18:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python"
       ],
@@ -775,16 +777,30 @@
       "user": "Krishna Kabir"
     },
     {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "published_at": "2026-08-14T14:50:11.000Z",
+      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "tags": [
+        "AI",
+        "Startups",
+        "AI inference"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "published_at": "2026-08-14T14:05:00.000Z",
       "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
       "tags": [
-        "Climate",
         "AI",
+        "Climate",
         "Amazon",
-        "Google",
-        "Microsoft"
+        "Exclusive",
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -797,6 +813,7 @@
       "description": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
       "tags": [
         "Transportation",
+        "In Brief",
         "Pony.ai",
         "robotaxis",
         "Uber"
@@ -865,37 +882,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "published_at": "2026-08-13T19:22:40.000Z",
-      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "ChatGPT",
-        "Claude",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "published_at": "2026-08-13T19:19:49.000Z",
-      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "IBM",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -985,6 +971,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -1285,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 308,
       "user": "NousResearch"
     },
     {
@@ -1300,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "panel-zeus"
     },
     {
@@ -1330,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 161,
       "user": "turtle2209"
     },
     {
@@ -1345,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 90606,
+      "stars": 91792,
       "user": "deepseek-ai"
     },
     {
@@ -1360,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1738,
+      "stars": 1798,
       "user": "zhu1090093659"
     },
     {
@@ -1379,10 +1380,10 @@
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验",
       "tags": [
         "typescript",
         "github",
@@ -1390,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1303,
       "user": "anywhere-labs"
     },
     {
@@ -1405,8 +1406,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 967,
       "user": "SaladDay"
+    },
+    {
+      "title": "How can I prevent duplicate API requests in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79995118/how-can-i-prevent-duplicate-api-requests-in-javascript",
+      "published_at": "2026-08-14T14:56:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "asynchronous",
+        "fetch-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Build With Hassan"
     },
     {
       "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
@@ -1493,6 +1508,22 @@
       "user": "user33027124"
     },
     {
+      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
+      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
+      "published_at": "2026-08-12T13:55:26.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "iframe",
+        "youtube-api",
+        "html5-video",
+        "youtube-iframe-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyPhoenix"
+    },
+    {
       "title": "Are object URLs now cached on disk instead of memory only?",
       "url": "https://stackoverflow.com/questions/79993675/are-object-urls-now-cached-on-disk-instead-of-memory-only",
       "published_at": "2026-08-13T03:38:05.000Z",
@@ -1520,35 +1551,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027501"
-    },
-    {
-      "title": "Reorder the properties in each object in an array",
-      "url": "https://stackoverflow.com/questions/79993630/reorder-the-properties-in-each-object-in-an-array",
-      "published_at": "2026-08-12T23:09:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "arrays",
-        "sorting"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ace2case"
-    },
-    {
-      "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
-      "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
-      "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "image",
-        "canvas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33026773"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1823,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7005,
+      "stars": 7170,
       "user": "guillaumemeyer"
     },
     {
@@ -1853,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 879,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1868,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 376,
       "user": "0xsline"
     },
     {
@@ -1916,7 +1918,7 @@
       "title": "How to cull a pair based of relative distance between the centre of two objects?",
       "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
       "published_at": "2026-08-14T13:18:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python"
       ],
@@ -1925,36 +1927,10 @@
       "user": "Krishna Kabir"
     },
     {
-      "title": "Consumer also listens to other channels in the same exchange",
-      "url": "https://stackoverflow.com/questions/79995064/consumer-also-listens-to-other-channels-in-the-same-exchange",
-      "published_at": "2026-08-14T11:23:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "rabbitmq"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BertC"
-    },
-    {
-      "title": "How do you ensure in Python that you can open files with the program you created?",
-      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
-      "published_at": "2026-08-14T12:44:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "open-with"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
       "title": "How to create spectrogram a really image data from a WAV file?",
       "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
       "published_at": "2026-08-14T12:57:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "scipy",
@@ -1963,6 +1939,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mathrm alpha"
+    },
+    {
+      "title": "How do you ensure in Python that you can open files with the program you created?",
+      "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
+      "published_at": "2026-08-14T12:44:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "open-with"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
     },
     {
       "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
@@ -2030,6 +2019,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "joel"
+    },
+    {
+      "title": "Why can adding logging make a Python race condition disappear?",
+      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
+      "published_at": "2026-08-13T08:32:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "python",
+        "multithreading",
+        "race-condition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Edmon Dantes"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2340,7 +2343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7005,
+      "stars": 7170,
       "user": "guillaumemeyer"
     },
     {
@@ -2387,6 +2390,22 @@
       "user": "user33027124"
     },
     {
+      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
+      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
+      "published_at": "2026-08-12T13:55:26.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "iframe",
+        "youtube-api",
+        "html5-video",
+        "youtube-iframe-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FlyPhoenix"
+    },
+    {
       "title": "I've got an error with my upgrade buttons",
       "url": "https://stackoverflow.com/questions/79993669/ive-got-an-error-with-my-upgrade-buttons",
       "published_at": "2026-08-13T03:17:12.000Z",
@@ -2401,21 +2420,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33027501"
-    },
-    {
-      "title": "How do i put a image (that isn't in the project page) on a canvas in Js?",
-      "url": "https://stackoverflow.com/questions/79993596/how-do-i-put-a-image-that-isnt-in-the-project-page-on-a-canvas-in-js",
-      "published_at": "2026-08-12T19:13:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "image",
-        "canvas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33026773"
     },
     {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
@@ -2482,6 +2486,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Unit Testing in BlocSignal: The Practical Handbook",
       "url": "https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1",
       "published_at": "2026-08-09T15:31:53Z",
@@ -2538,8 +2557,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1738,
+      "stars": 1798,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "published_at": "2026-08-14T14:54:48.000Z",
+      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+      "tags": [
+        "Apps",
+        "app store",
+        "Apple",
+        "Epic Games",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2797,6 +2832,22 @@
       "source": "GitHub",
       "stars": 130,
       "user": "EurekaZang"
+    },
+    {
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "published_at": "2026-08-14T14:54:48.000Z",
+      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+      "tags": [
+        "Apps",
+        "app store",
+        "Apple",
+        "Epic Games",
+        "lawsuit"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
@@ -3284,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 308,
       "user": "NousResearch"
     },
     {
@@ -3299,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "panel-zeus"
     },
     {
@@ -3329,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 161,
       "user": "turtle2209"
     },
     {
@@ -3344,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7005,
+      "stars": 7170,
       "user": "guillaumemeyer"
     },
     {
@@ -3374,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 879,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3389,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 376,
       "user": "0xsline"
     },
     {
@@ -3419,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 356,
       "user": "MengMengCode"
     },
     {
@@ -3449,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "WongLoki"
     },
     {
@@ -3479,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 81,
       "user": "pgrundev"
     },
     {
@@ -3494,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 90606,
+      "stars": 91792,
       "user": "deepseek-ai"
     },
     {
@@ -3509,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1738,
+      "stars": 1798,
       "user": "zhu1090093659"
     },
     {
@@ -3528,10 +3579,10 @@
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness 生态打造的现代化桌面端体验",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验（插件）",
+      "description": "为 DeepSeek Harness 生态打造的现代化桌面端体验",
       "tags": [
         "typescript",
         "github",
@@ -3539,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1303,
       "user": "anywhere-labs"
     },
     {
@@ -3554,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 961,
+      "stars": 967,
       "user": "SaladDay"
     },
     {
@@ -3569,7 +3620,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 281,
       "user": "lexmount"
     },
     {
@@ -3584,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "fzakaria"
     },
     {
@@ -3599,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "JohnKinyanjui"
     },
     {
