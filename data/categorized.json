@@ -255,21 +255,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "published_at": "2026-08-08T10:09:17Z",
-      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
-      "tags": [
-        "angular",
-        "typescript",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
-    },
-    {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
       "published_at": "2026-07-26T19:27:29Z",
@@ -403,21 +388,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
       "source": "Dev.to",
       "user": "Muhammad Ammar"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -599,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 211,
       "user": "50kg"
     },
     {
@@ -614,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7170,
+      "stars": 7306,
       "user": "guillaumemeyer"
     },
     {
@@ -629,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 359,
       "user": "MengMengCode"
     },
     {
@@ -674,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 86,
       "user": "pgrundev"
     },
     {
@@ -689,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 91792,
+      "stars": 92695,
       "user": "deepseek-ai"
     },
     {
@@ -704,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1709,
       "user": "SMNETSTUDIO"
     },
     {
@@ -719,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "lexmount"
     },
     {
@@ -734,8 +704,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "JohnKinyanjui"
+    },
+    {
+      "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
+      "published_at": "2026-08-13T10:02:33Z",
+      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
+      "source": "GitHub",
+      "stars": 136,
+      "user": "Awaker-OTE"
     },
     {
       "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
@@ -775,6 +760,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Krishna Kabir"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "published_at": "2026-08-14T16:13:40.000Z",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+      "tags": [
+        "AI",
+        "Apps",
+        "gemini",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "published_at": "2026-08-14T15:43:28.000Z",
+      "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+      "tags": [
+        "AI",
+        "Amazon",
+        "Anthropic",
+        "data centers",
+        "Joby Aviation"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
     },
     {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
@@ -852,36 +868,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "published_at": "2026-08-13T21:13:24.000Z",
-      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "tags": [
-        "AI",
-        "writer",
-        "Z.ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "published_at": "2026-08-13T20:14:39.000Z",
-      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "TC",
-        "Databricks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1080,21 +1066,6 @@
       "user": "Giorgio Galassi"
     },
     {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "published_at": "2026-08-08T10:09:17Z",
-      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
-      "tags": [
-        "angular",
-        "typescript",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
-    },
-    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
       "published_at": "2026-07-28T10:50:54Z",
@@ -1271,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "RadishXN"
     },
     {
@@ -1286,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 316,
       "user": "NousResearch"
     },
     {
@@ -1301,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "panel-zeus"
     },
     {
@@ -1316,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 211,
       "user": "50kg"
     },
     {
@@ -1331,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 165,
       "user": "turtle2209"
     },
     {
@@ -1346,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 91792,
+      "stars": 92695,
       "user": "deepseek-ai"
     },
     {
@@ -1361,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1798,
+      "stars": 1837,
       "user": "zhu1090093659"
     },
     {
@@ -1376,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1709,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1391,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1463,
       "user": "anywhere-labs"
     },
     {
@@ -1406,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 969,
       "user": "SaladDay"
     },
     {
@@ -1825,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7170,
+      "stars": 7306,
       "user": "guillaumemeyer"
     },
     {
@@ -1840,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Leutenegger"
     },
     {
@@ -1855,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 939,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1870,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 386,
       "user": "0xsline"
     },
     {
@@ -1899,6 +1870,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "seb"
+    },
+    {
+      "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
+      "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
+      "published_at": "2026-08-14T15:32:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Juan Castro"
     },
     {
       "title": "Socket Emit fail to delivery in multi-worker",
@@ -2019,20 +2003,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "joel"
-    },
-    {
-      "title": "Why can adding logging make a Python race condition disappear?",
-      "url": "https://stackoverflow.com/questions/79993742/why-can-adding-logging-make-a-python-race-condition-disappear",
-      "published_at": "2026-08-13T08:32:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "python",
-        "multithreading",
-        "race-condition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Edmon Dantes"
     },
     {
       "title": "Python for Mechanical Engineering",
@@ -2290,6 +2260,21 @@
       "user": "Jess Lee"
     },
     {
+      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
+      "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk",
+      "published_at": "2026-08-10T08:59:34Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+      "tags": [
+        "css",
+        "devchallenge",
+        "showdev",
+        "frontendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frda2trnbgnoy3aiypikh.png",
+      "source": "Dev.to",
+      "user": "Laura Norwood"
+    },
+    {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
       "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
       "published_at": "2026-08-06T17:47:27Z",
@@ -2303,6 +2288,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8g2ou80or7pl9r07qktj.png",
       "source": "Dev.to",
       "user": "Mike"
+    },
+    {
+      "title": "Kitty Cafe, a whole bakery drawn in CSS 🐱🍰",
+      "url": "https://dev.to/sizzlebop/kitty-cafe-a-whole-bakery-drawn-in-css-3fo4",
+      "published_at": "2026-08-10T04:28:36Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+      "tags": [
+        "frontendchallenge",
+        "devchallenge",
+        "css",
+        "codepen"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxz6b6jbbxetqmv0k6bx4.png",
+      "source": "Dev.to",
+      "user": "Jessica Doering"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2328,7 +2328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 211,
       "user": "50kg"
     },
     {
@@ -2343,7 +2343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7170,
+      "stars": 7306,
       "user": "guillaumemeyer"
     },
     {
@@ -2557,8 +2557,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1798,
+      "stars": 1837,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
+      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "published_at": "2026-08-14T16:21:04.000Z",
+      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "tags": [
+        "Apps",
+        "iOS apps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
@@ -2817,21 +2830,6 @@
       "source": "GitHub",
       "stars": 86,
       "user": "forever94yu"
-    },
-    {
-      "title": "EurekaZang/CloudFolder - GitHub Repository",
-      "url": "https://github.com/EurekaZang/CloudFolder",
-      "published_at": "2026-08-09T21:30:32Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
-      "source": "GitHub",
-      "stars": 130,
-      "user": "EurekaZang"
     },
     {
       "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
@@ -3149,22 +3147,6 @@
       "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
-      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "published_at": "2026-08-13T21:50:11.000Z",
-      "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-      "tags": [
-        "Security",
-        "Apple",
-        "cybersecurity",
-        "iPhone",
-        "Spyware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
       "published_at": "2026-08-12T15:47:01.000Z",
@@ -3213,21 +3195,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Angular WebMCP — Your App is Now an AI Tool 🔥🚀",
-      "url": "https://dev.to/gdg/angular-webmcp-your-app-is-now-an-ai-tool-3bp4",
-      "published_at": "2026-08-08T10:09:17Z",
-      "description": "There's a pattern in Angular releases that I've come to appreciate: every major version picks one bet...",
-      "tags": [
-        "angular",
-        "typescript",
-        "ai",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhn7pei88rc84z497neoa.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
-    },
-    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -3256,21 +3223,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3320,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "RadishXN"
     },
     {
@@ -3335,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 316,
       "user": "NousResearch"
     },
     {
@@ -3350,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 289,
       "user": "panel-zeus"
     },
     {
@@ -3365,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 211,
       "user": "50kg"
     },
     {
@@ -3380,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264740861?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 165,
       "user": "turtle2209"
     },
     {
@@ -3395,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 7170,
+      "stars": 7306,
       "user": "guillaumemeyer"
     },
     {
@@ -3410,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1054,
+      "stars": 1055,
       "user": "Leutenegger"
     },
     {
@@ -3425,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 939,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3440,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 386,
       "user": "0xsline"
     },
     {
@@ -3470,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 359,
       "user": "MengMengCode"
     },
     {
@@ -3500,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "WongLoki"
     },
     {
@@ -3530,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 86,
       "user": "pgrundev"
     },
     {
@@ -3545,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 91792,
+      "stars": 92695,
       "user": "deepseek-ai"
     },
     {
@@ -3560,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1798,
+      "stars": 1837,
       "user": "zhu1090093659"
     },
     {
@@ -3575,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1706,
+      "stars": 1709,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3590,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1303,
+      "stars": 1463,
       "user": "anywhere-labs"
     },
     {
@@ -3605,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 969,
       "user": "SaladDay"
     },
     {
@@ -3620,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "lexmount"
     },
     {
@@ -3635,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 256,
       "user": "fzakaria"
     },
     {
@@ -3650,7 +3602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 171,
       "user": "JohnKinyanjui"
     },
     {
@@ -3665,23 +3617,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 150,
       "user": "hsusul"
     },
     {
-      "title": "EurekaZang/CloudFolder - GitHub Repository",
-      "url": "https://github.com/EurekaZang/CloudFolder",
-      "published_at": "2026-08-09T21:30:32Z",
-      "description": "Trending GitHub Repository",
+      "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
+      "published_at": "2026-08-13T10:02:33Z",
+      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 130,
-      "user": "EurekaZang"
+      "stars": 136,
+      "user": "Awaker-OTE"
     },
     {
       "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
