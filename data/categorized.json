@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "50kg"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6201,
+      "stars": 6330,
       "user": "guillaumemeyer"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "MengMengCode"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 82213,
+      "stars": 84625,
       "user": "deepseek-ai"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1701,
       "user": "SMNETSTUDIO"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "lexmount"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 165,
       "user": "JohnKinyanjui"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 340,
       "user": "RadishXN"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 276,
       "user": "panel-zeus"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 249,
       "user": "NousResearch"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "50kg"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 82213,
+      "stars": 84625,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1701,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1506,
       "user": "zhu1090093659"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 949,
       "user": "SaladDay"
     },
     {
@@ -1377,8 +1377,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 880,
       "user": "milind-soni"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     },
     {
       "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
@@ -1506,22 +1521,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user32881697"
-    },
-    {
-      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
-      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
-      "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-api",
-        "html5-video",
-        "youtube-iframe-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FlyPhoenix"
     },
     {
       "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
@@ -1796,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6201,
+      "stars": 6330,
       "user": "guillaumemeyer"
     },
     {
@@ -1830,6 +1829,21 @@
       "user": "i3T4AN"
     },
     {
+      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "published_at": "2026-08-11T13:14:49Z",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "0xsline"
+    },
+    {
       "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
       "url": "https://github.com/gfodor/legal-skills",
       "published_at": "2026-08-12T21:14:16Z",
@@ -1841,23 +1855,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "gfodor"
-    },
-    {
-      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
-      "published_at": "2026-08-08T21:17:53Z",
-      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "JayJokerr"
     },
     {
       "title": "python's pre-declared constants are kinda weird",
@@ -1875,7 +1874,7 @@
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
       "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
       "published_at": "2026-08-14T08:36:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "unit-testing",
@@ -1906,7 +1905,7 @@
       "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
       "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
       "published_at": "2026-08-14T06:36:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python"
       ],
@@ -1918,7 +1917,7 @@
       "title": "How to properly validate age/salary input and handle duplicate IDs in a Python OOP employee tracker?",
       "url": "https://stackoverflow.com/questions/79993972/how-to-properly-validate-age-salary-input-and-handle-duplicate-ids-in-a-python-o",
       "published_at": "2026-08-14T02:43:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python"
       ],
@@ -2331,7 +2330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "50kg"
     },
     {
@@ -2346,8 +2345,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6201,
+      "stars": 6330,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     },
     {
       "title": "How to make an animated menu icon show/hide menu",
@@ -2407,22 +2421,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33026773"
-    },
-    {
-      "title": "YouTube iframe always overlays the video for ~3 seconds before disappearing",
-      "url": "https://stackoverflow.com/questions/79993522/youtube-iframe-always-overlays-the-video-for-3-seconds-before-disappearing",
-      "published_at": "2026-08-12T13:55:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-api",
-        "html5-video",
-        "youtube-iframe-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FlyPhoenix"
     },
     {
       "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
@@ -2545,7 +2543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1506,
       "user": "zhu1090093659"
     }
   ],
@@ -3276,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 340,
       "user": "RadishXN"
     },
     {
@@ -3291,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 276,
       "user": "panel-zeus"
     },
     {
@@ -3306,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 249,
       "user": "NousResearch"
     },
     {
@@ -3321,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 200,
+      "stars": 202,
       "user": "50kg"
     },
     {
@@ -3351,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 6201,
+      "stars": 6330,
       "user": "guillaumemeyer"
     },
     {
@@ -3385,6 +3383,21 @@
       "user": "i3T4AN"
     },
     {
+      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "published_at": "2026-08-11T13:14:49Z",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "0xsline"
+    },
+    {
       "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
       "url": "https://github.com/gfodor/legal-skills",
       "published_at": "2026-08-12T21:14:16Z",
@@ -3396,23 +3409,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "gfodor"
-    },
-    {
-      "title": "JayJokerr/arknights-pixel-autofill - 明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "url": "https://github.com/JayJokerr/arknights-pixel-autofill",
-      "published_at": "2026-08-08T21:17:53Z",
-      "description": "明日方舟 24×24 像素画转换、手动编辑与自动填色工具",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120120626?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "JayJokerr"
     },
     {
       "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
@@ -3426,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "MengMengCode"
     },
     {
@@ -3471,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 78,
+      "stars": 82,
       "user": "WongLoki"
     },
     {
@@ -3486,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 65,
+      "stars": 67,
       "user": "zepto-labs"
     },
     {
@@ -3501,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 82213,
+      "stars": 84625,
       "user": "deepseek-ai"
     },
     {
@@ -3516,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1700,
+      "stars": 1701,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3531,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1506,
       "user": "zhu1090093659"
     },
     {
@@ -3546,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 949,
       "user": "SaladDay"
     },
     {
@@ -3561,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46266943?v=4",
       "source": "GitHub",
-      "stars": 875,
+      "stars": 880,
       "user": "milind-soni"
     },
     {
@@ -3576,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 271,
       "user": "lexmount"
     },
     {
@@ -3606,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 165,
       "user": "JohnKinyanjui"
     },
     {
@@ -3652,10 +3650,25 @@
       "user": "altano"
     },
     {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
+    },
+    {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
       "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
       "published_at": "2026-08-14T08:36:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "unit-testing",
