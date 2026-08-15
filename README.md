@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-15 5:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-15 6:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -46,6 +46,17 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
+    <a href="https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png" width="200" alt="I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper." />
+      <br/>
+      <b>I Stopped Trusting AI Agents With Tools. So I Buil...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
     <a href="https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png" width="200" alt="[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft" />
       <br/>
@@ -54,8 +65,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-</tr>
-<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg" width="200" alt="Looker's Native MCP Server with Claude Code" />
@@ -74,15 +83,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpkholdt4jp2vza6zzqvu.png" width="200" alt="It's always Doom https://ood.dev/posts/doom/" />
-      <br/>
-      <b>It's always Doom https://ood.dev/posts/doom/</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
 </tr>
 </table>
 
@@ -94,12 +94,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |---|----------|--------|
 | 1 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
 | 2 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
-| 3 | [[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | Dev.to |
-| 4 | [Looker's Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8) | Dev.to |
-| 5 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
-| 6 | [It's always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi) | Dev.to |
-| 7 | [Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll) | Dev.to |
-| 8 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
+| 3 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
+| 4 | [[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6) | Dev.to |
+| 5 | [Looker's Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8) | Dev.to |
+| 6 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
+| 7 | [It's always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi) | Dev.to |
+| 8 | [Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll) | Dev.to |
 | 9 | [Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter](https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp) | Dev.to |
 | 10 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
 | 11 | [Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [MCP Configuration for Looker with Codex](https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1) | Dev.to |
 | 20 | [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j) | Dev.to |
 
-<sub>Last fetched: Sat, 15 Aug 2026 05:23:36 CAT</sub>
+<sub>Last fetched: Sat, 15 Aug 2026 06:03:27 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**1. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**2. `JavaScript` — Explain event delegation and why it's useful**
+**2. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-**3. `SystemDesign` — Design a URL shortening service like bit.ly**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 66 | 35.9% | `████████████████████` |
+| **AI** | 67 | 36.4% | `████████████████████` |
 | **JavaScript** | 44 | 23.9% | `█████████████░░░░░░░` |
 | **Tools** | 37 | 20.1% | `███████████░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `██████████░░░░░░░░░░` |
 | **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.2% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 15 Aug 2026 03:23:36 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 15 Aug 2026 04:03:27 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
