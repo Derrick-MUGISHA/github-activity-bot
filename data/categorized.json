@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9621,
+      "stars": 9642,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "pgrundev"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114348,
+      "stars": 114453,
       "user": "deepseek-ai"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 337,
       "user": "lexmount"
     },
     {
@@ -771,6 +771,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Krishna Kabir"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published_at": "2026-08-15T21:29:19.000Z",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Grok",
+        "SpaceX",
+        "x.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -1226,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2151,
+      "stars": 2154,
       "user": "xiaobright"
     },
     {
@@ -1241,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 490,
       "user": "NousResearch"
     },
     {
@@ -1256,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "RadishXN"
     },
     {
@@ -1271,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "panel-zeus"
     },
     {
@@ -1301,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114348,
+      "stars": 114453,
       "user": "deepseek-ai"
     },
     {
@@ -1316,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5735,
+      "stars": 5749,
       "user": "anywhere-labs"
     },
     {
@@ -1331,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2689,
+      "stars": 2690,
       "user": "zhu1090093659"
     },
     {
@@ -1363,6 +1379,20 @@
       "source": "GitHub",
       "stars": 1253,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
+      "published_at": "2026-08-15T20:56:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vscode-extensions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
     },
     {
       "title": "GSAP ScrollTrigger pinned section causes scroll position jump when opening Base UI modal dialog with Lenis smooth scrolling",
@@ -1496,19 +1526,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Build With Hassan"
-    },
-    {
-      "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
-      "url": "https://stackoverflow.com/questions/79995072/why-does-my-vanilla-javascript-debounce-create-multiple-timers-when-used-inside",
-      "published_at": "2026-08-14T11:55:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Avinash Kumar Developer"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1781,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9621,
+      "stars": 9642,
       "user": "guillaumemeyer"
     },
     {
@@ -1796,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2964,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1848,7 +1865,33 @@
       "title": "What regular expression do you recommend for words that can be pronounced like \"ate\" or \"eight\"?",
       "url": "https://stackoverflow.com/questions/79995427/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
       "published_at": "2026-08-15T20:31:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
+    },
+    {
+      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
+      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
+      "published_at": "2026-08-15T20:41:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toothpick Anemone"
+    },
+    {
+      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
+      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
+      "published_at": "2026-08-15T20:48:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "regex"
@@ -1951,35 +1994,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Krishna Kabir"
-    },
-    {
-      "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
-      "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
-      "published_at": "2026-08-14T08:36:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "unit-testing",
-        "asynchronous",
-        "discord.py",
-        "mocking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Berry Delight"
-    },
-    {
-      "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
-      "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
-      "published_at": "2026-08-14T15:32:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Juan Castro"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2352,7 +2366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9621,
+      "stars": 9642,
       "user": "guillaumemeyer"
     },
     {
@@ -2534,21 +2548,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2689,
+      "stars": 2690,
       "user": "zhu1090093659"
-    },
-    {
-      "title": "Unforgetful is a new reminders app for people who can&#8217;t stop hitting snooze",
-      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "published_at": "2026-08-14T16:21:04.000Z",
-      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-      "tags": [
-        "Apps",
-        "iOS apps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -3156,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2151,
+      "stars": 2154,
       "user": "xiaobright"
     },
     {
@@ -3171,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 490,
       "user": "NousResearch"
     },
     {
@@ -3186,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "RadishXN"
     },
     {
@@ -3201,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 351,
       "user": "panel-zeus"
     },
     {
@@ -3231,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9621,
+      "stars": 9642,
       "user": "guillaumemeyer"
     },
     {
@@ -3246,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2961,
+      "stars": 2964,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3336,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 146,
+      "stars": 148,
       "user": "pgrundev"
     },
     {
@@ -3381,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114348,
+      "stars": 114453,
       "user": "deepseek-ai"
     },
     {
@@ -3396,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5735,
+      "stars": 5749,
       "user": "anywhere-labs"
     },
     {
@@ -3411,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2689,
+      "stars": 2690,
       "user": "zhu1090093659"
     },
     {
@@ -3456,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 337,
       "user": "lexmount"
     },
     {
@@ -3532,6 +3533,20 @@
       "user": "senekor"
     },
     {
+      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
+      "published_at": "2026-08-15T20:56:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vscode-extensions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
@@ -3547,20 +3562,20 @@
       "user": "leo"
     },
     {
-      "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
-      "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
-      "published_at": "2026-08-14T08:36:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published_at": "2026-08-15T21:29:19.000Z",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       "tags": [
-        "python",
-        "unit-testing",
-        "asynchronous",
-        "discord.py",
-        "mocking"
+        "AI",
+        "Government & Policy",
+        "Grok",
+        "SpaceX",
+        "x.ai"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Berry Delight"
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Self-driving trucks are officially testing on California highways",
