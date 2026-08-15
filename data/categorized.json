@@ -75,21 +75,6 @@
       "user": "xbill"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
       "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
       "published_at": "2026-08-12T03:32:11Z",
@@ -164,6 +149,21 @@
       "user": "Asuran"
     },
     {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
       "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
       "published_at": "2026-08-12T07:15:38Z",
@@ -192,21 +192,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mec4r6dp4lvouejhzuu.png",
       "source": "Dev.to",
       "user": "Vasyl"
-    },
-    {
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
-      "published_at": "2026-08-09T22:51:30Z",
-      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
     },
     {
       "title": "Three Clouds, Three Native Agents",
@@ -372,6 +357,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Azure Foundry as Master, Bedrock as Remote: Cross Cloud A2A",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9523,
+      "stars": 9536,
       "user": "guillaumemeyer"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 136,
       "user": "pgrundev"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 113616,
+      "stars": 113747,
       "user": "deepseek-ai"
     },
     {
@@ -788,6 +788,20 @@
       "user": "Krishna Kabir"
     },
     {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published_at": "2026-08-15T18:58:39.000Z",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "SpaceX officially closes its Cursor acquisition",
       "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "published_at": "2026-08-15T16:30:00.000Z",
@@ -865,22 +879,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "published_at": "2026-08-14T16:13:40.000Z",
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "tags": [
-        "AI",
-        "Apps",
-        "gemini",
-        "Google",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1243,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2123,
       "user": "xiaobright"
     },
     {
@@ -1258,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 479,
       "user": "NousResearch"
     },
     {
@@ -1273,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "RadishXN"
     },
     {
@@ -1303,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "myYangyunfan"
     },
     {
@@ -1318,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 113616,
+      "stars": 113747,
       "user": "deepseek-ai"
     },
     {
@@ -1333,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5637,
+      "stars": 5655,
       "user": "anywhere-labs"
     },
     {
@@ -1348,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2664,
+      "stars": 2667,
       "user": "zhu1090093659"
     },
     {
@@ -1416,7 +1414,7 @@
       "title": "Content block builder",
       "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
       "published_at": "2026-08-15T03:44:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "javascript",
@@ -1798,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9523,
+      "stars": 9536,
       "user": "guillaumemeyer"
     },
     {
@@ -1813,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2901,
+      "stars": 2917,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -2370,7 +2368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9523,
+      "stars": 9536,
       "user": "guillaumemeyer"
     },
     {
@@ -2401,7 +2399,7 @@
       "title": "Content block builder",
       "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
       "published_at": "2026-08-15T03:44:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "javascript",
@@ -2564,7 +2562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2664,
+      "stars": 2667,
       "user": "zhu1090093659"
     },
     {
@@ -2582,21 +2580,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
       "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
@@ -2624,6 +2607,21 @@
         "aws"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2870,21 +2868,6 @@
       "user": "Caleb Duff"
     },
     {
-      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
-      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
-      "published_at": "2026-08-09T22:51:30Z",
-      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
-      "tags": [
-        "discuss",
-        "ai",
-        "security",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -2898,6 +2881,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
+    },
+    {
+      "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
+      "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
+      "published_at": "2026-08-09T22:51:30Z",
+      "description": "A couple of weeks ago I wrote about the risk hiding inside AI Agent Skills, the small instruction...",
+      "tags": [
+        "discuss",
+        "ai",
+        "security",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
@@ -3124,21 +3122,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "My (not so pretty) journey in tech",
-      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
-      "published_at": "2026-08-13T13:10:09Z",
-      "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-      "tags": [
-        "discuss",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frggwt4sjrqxz7hb44jo7.jpg",
-      "source": "Dev.to",
-      "user": "isha singh"
-    },
-    {
       "title": "Serving Gemma 4 2B on a Single TPU v5e Chip with MCP and Antigravity CLI",
       "url": "https://dev.to/gde/serving-gemma-4-2b-on-a-single-tpu-v5e-chip-with-mcp-and-antigravity-cli-33l8",
       "published_at": "2026-08-05T14:56:26Z",
@@ -3152,6 +3135,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99lo2q940plzc77tabct.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "My (not so pretty) journey in tech",
+      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
+      "published_at": "2026-08-13T13:10:09Z",
+      "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
+      "tags": [
+        "discuss",
+        "programming",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frggwt4sjrqxz7hb44jo7.jpg",
+      "source": "Dev.to",
+      "user": "isha singh"
     },
     {
       "title": "Build a Dart ADK Agent and MCP Server",
@@ -3216,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2123,
       "user": "xiaobright"
     },
     {
@@ -3231,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 479,
       "user": "NousResearch"
     },
     {
@@ -3246,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "RadishXN"
     },
     {
@@ -3276,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 277,
       "user": "myYangyunfan"
     },
     {
@@ -3291,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9523,
+      "stars": 9536,
       "user": "guillaumemeyer"
     },
     {
@@ -3306,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2901,
+      "stars": 2917,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3396,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 136,
       "user": "pgrundev"
     },
     {
@@ -3441,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 113616,
+      "stars": 113747,
       "user": "deepseek-ai"
     },
     {
@@ -3456,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5637,
+      "stars": 5655,
       "user": "anywhere-labs"
     },
     {
@@ -3471,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2664,
+      "stars": 2667,
       "user": "zhu1090093659"
     },
     {
