@@ -16,6 +16,20 @@
       "user": "Debashish Ghosal"
     },
     {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
       "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
       "published_at": "2026-08-14T16:36:10Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Looker's Native MCP Server with Claude Code",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "50kg"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8595,
+      "stars": 8678,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "MengMengCode"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "pgrundev"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 101323,
+      "stars": 102350,
       "user": "deepseek-ai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1714,
+      "stars": 1719,
       "user": "SMNETSTUDIO"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 297,
       "user": "lexmount"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 142,
       "user": "smthdagg"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1132,
       "user": "xiaobright"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 424,
       "user": "NousResearch"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "panel-zeus"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "50kg"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 101323,
+      "stars": 102350,
       "user": "deepseek-ai"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2966,
+      "stars": 3155,
       "user": "anywhere-labs"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2130,
+      "stars": 2167,
       "user": "zhu1090093659"
     },
     {
@@ -1361,23 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1714,
+      "stars": 1719,
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "published_at": "2026-08-09T12:15:30Z",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "title": "ccch1mneyyy/dsh-TUI - 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "published_at": "2026-08-13T12:49:31Z",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 986,
-      "user": "SaladDay"
+      "stars": 1001,
+      "user": "ccch1mneyyy"
     },
     {
       "title": "Content block builder",
@@ -1794,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8595,
+      "stars": 8678,
       "user": "guillaumemeyer"
     },
     {
@@ -1809,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1736,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1080,
       "user": "Leutenegger"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 432,
       "user": "0xsline"
     },
     {
@@ -1854,14 +1854,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "xinxinshuhao-create"
     },
     {
       "title": "In python under Unix, ask for interactive terminal input but avoid stdout",
       "url": "https://stackoverflow.com/questions/79995261/in-python-under-unix-ask-for-interactive-terminal-input-but-avoid-stdout",
       "published_at": "2026-08-15T03:01:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "terminal",
@@ -2365,7 +2365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "50kg"
     },
     {
@@ -2380,7 +2380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8595,
+      "stars": 8678,
       "user": "guillaumemeyer"
     },
     {
@@ -2561,7 +2561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2130,
+      "stars": 2167,
       "user": "zhu1090093659"
     },
     {
@@ -3087,7 +3087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3216,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1011,
+      "stars": 1132,
       "user": "xiaobright"
     },
     {
@@ -3231,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 424,
       "user": "NousResearch"
     },
     {
@@ -3261,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "panel-zeus"
     },
     {
@@ -3276,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "50kg"
     },
     {
@@ -3291,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8595,
+      "stars": 8678,
       "user": "guillaumemeyer"
     },
     {
@@ -3306,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1736,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3321,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1079,
+      "stars": 1080,
       "user": "Leutenegger"
     },
     {
@@ -3336,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 432,
       "user": "0xsline"
     },
     {
@@ -3351,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 411,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3366,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 378,
       "user": "MengMengCode"
     },
     {
@@ -3396,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 110,
       "user": "pgrundev"
     },
     {
@@ -3441,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 101323,
+      "stars": 102350,
       "user": "deepseek-ai"
     },
     {
@@ -3456,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2966,
+      "stars": 3155,
       "user": "anywhere-labs"
     },
     {
@@ -3471,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2130,
+      "stars": 2167,
       "user": "zhu1090093659"
     },
     {
@@ -3486,23 +3486,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1714,
+      "stars": 1719,
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "SaladDay/pi-from-scratch - 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "url": "https://github.com/SaladDay/pi-from-scratch",
-      "published_at": "2026-08-09T12:15:30Z",
-      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "title": "ccch1mneyyy/dsh-TUI - 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "published_at": "2026-08-13T12:49:31Z",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 986,
-      "user": "SaladDay"
+      "stars": 1001,
+      "user": "ccch1mneyyy"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3516,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 297,
       "user": "lexmount"
     },
     {
@@ -3576,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 142,
       "user": "smthdagg"
     },
     {
