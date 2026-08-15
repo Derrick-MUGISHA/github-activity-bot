@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "tags": [
-        "opensource",
-        "devops",
-        "docker",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "tags": [
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "50kg"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8560,
+      "stars": 8595,
       "user": "guillaumemeyer"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 100940,
+      "stars": 101323,
       "user": "deepseek-ai"
     },
     {
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "smthdagg"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 1011,
       "user": "xiaobright"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "50kg"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 100940,
+      "stars": 101323,
       "user": "deepseek-ai"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2893,
+      "stars": 2966,
       "user": "anywhere-labs"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2113,
+      "stars": 2130,
       "user": "zhu1090093659"
     },
     {
@@ -1794,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8560,
+      "stars": 8595,
       "user": "guillaumemeyer"
     },
     {
@@ -1809,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1585,
+      "stars": 1618,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "Leutenegger"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "0xsline"
     },
     {
@@ -2365,7 +2365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "50kg"
     },
     {
@@ -2380,7 +2380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8560,
+      "stars": 8595,
       "user": "guillaumemeyer"
     },
     {
@@ -2561,7 +2561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2113,
+      "stars": 2130,
       "user": "zhu1090093659"
     },
     {
@@ -3216,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 946,
+      "stars": 1011,
       "user": "xiaobright"
     },
     {
@@ -3276,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "50kg"
     },
     {
@@ -3291,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8560,
+      "stars": 8595,
       "user": "guillaumemeyer"
     },
     {
@@ -3306,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1585,
+      "stars": 1618,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3321,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1079,
       "user": "Leutenegger"
     },
     {
@@ -3336,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "0xsline"
     },
     {
@@ -3415,19 +3415,19 @@
       "user": "WongLoki"
     },
     {
-      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
-      "url": "https://github.com/zepto-labs/scherry",
-      "published_at": "2026-08-11T08:59:18Z",
-      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "title": "WongLoki/DJ4Hub - Local-first macOS console for the first-generation DJI 4G module",
+      "url": "https://github.com/WongLoki/DJ4Hub",
+      "published_at": "2026-08-13T15:22:50Z",
+      "description": "Local-first macOS console for the first-generation DJI 4G module",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 76,
-      "user": "zepto-labs"
+      "stars": 78,
+      "user": "WongLoki"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3441,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 100940,
+      "stars": 101323,
       "user": "deepseek-ai"
     },
     {
@@ -3456,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2893,
+      "stars": 2966,
       "user": "anywhere-labs"
     },
     {
@@ -3471,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2113,
+      "stars": 2130,
       "user": "zhu1090093659"
     },
     {
@@ -3561,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 151,
       "user": "hsusul"
     },
     {
@@ -3576,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "smthdagg"
     },
     {
