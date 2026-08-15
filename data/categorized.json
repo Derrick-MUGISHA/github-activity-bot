@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 224,
       "user": "50kg"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8305,
+      "stars": 8358,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 401,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 374,
       "user": "MengMengCode"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 97597,
+      "stars": 98704,
       "user": "deepseek-ai"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "lexmount"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "JohnKinyanjui"
     },
     {
@@ -733,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "Awaker-OTE"
     },
     {
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 676,
       "user": "xiaobright"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "NousResearch"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "panel-zeus"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 224,
       "user": "50kg"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 97597,
+      "stars": 98704,
       "user": "deepseek-ai"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2228,
+      "stars": 2430,
       "user": "anywhere-labs"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1999,
+      "stars": 2037,
       "user": "zhu1090093659"
     },
     {
@@ -1412,7 +1412,7 @@
       "title": "How can I convert a date between IANA time zones in JavaScript?",
       "url": "https://stackoverflow.com/questions/79995156/how-can-i-convert-a-date-between-iana-time-zones-in-javascript",
       "published_at": "2026-08-14T16:59:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "time",
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8305,
+      "stars": 8358,
       "user": "guillaumemeyer"
     },
     {
@@ -1793,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1359,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1808,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1074,
       "user": "Leutenegger"
     },
     {
@@ -1823,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "0xsline"
     },
     {
@@ -1838,8 +1838,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 401,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "Create a new column in pandas conditionally based on two other columns that may have overlapping values",
+      "url": "https://stackoverflow.com/questions/79995253/create-a-new-column-in-pandas-conditionally-based-on-two-other-columns-that-may",
+      "published_at": "2026-08-15T02:11:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DrakeMurdoch"
     },
     {
       "title": "Write multiple values to file in mounted local folder",
@@ -1961,19 +1975,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user23487612"
-    },
-    {
-      "title": "Reproduce n-ary `vmap` from unary",
-      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
-      "published_at": "2026-08-13T16:37:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "jax"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "joel"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2346,7 +2347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 224,
       "user": "50kg"
     },
     {
@@ -2361,8 +2362,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8305,
+      "stars": 8358,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "My comment section is static HTML",
+      "url": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+      "published_at": "2026-08-14T18:58:27.686-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jvalol"
     },
     {
       "title": "Full Calendar JS does not detect styles",
@@ -2515,7 +2528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1999,
+      "stars": 2037,
       "user": "zhu1090093659"
     },
     {
@@ -3056,7 +3069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 401,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3185,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 676,
       "user": "xiaobright"
     },
     {
@@ -3200,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 398,
       "user": "NousResearch"
     },
     {
@@ -3230,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 308,
+      "stars": 309,
       "user": "panel-zeus"
     },
     {
@@ -3245,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 224,
       "user": "50kg"
     },
     {
@@ -3260,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8305,
+      "stars": 8358,
       "user": "guillaumemeyer"
     },
     {
@@ -3275,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1359,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3290,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1073,
+      "stars": 1074,
       "user": "Leutenegger"
     },
     {
@@ -3305,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 409,
       "user": "0xsline"
     },
     {
@@ -3320,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 401,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3335,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 374,
       "user": "MengMengCode"
     },
     {
@@ -3410,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 97597,
+      "stars": 98704,
       "user": "deepseek-ai"
     },
     {
@@ -3425,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2228,
+      "stars": 2430,
       "user": "anywhere-labs"
     },
     {
@@ -3440,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1999,
+      "stars": 2037,
       "user": "zhu1090093659"
     },
     {
@@ -3485,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 290,
       "user": "lexmount"
     },
     {
@@ -3500,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 179,
       "user": "JohnKinyanjui"
     },
     {
@@ -3515,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "Awaker-OTE"
     },
     {
