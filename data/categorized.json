@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9422,
+      "stars": 9454,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "MengMengCode"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "pgrundev"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 112639,
+      "stars": 112963,
       "user": "deepseek-ai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "JohnKinyanjui"
     },
     {
@@ -722,18 +722,6 @@
       "user": "smthdagg"
     },
     {
-      "title": "Flirt: GitHub and Mailing List backends",
-      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-      "published_at": "2026-08-15T07:37:40.011-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "senekor"
-    },
-    {
       "title": "Why I remain a skeptic",
       "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
       "published_at": "2026-08-15T08:29:59.029-05:00",
@@ -744,6 +732,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jbauer"
+    },
+    {
+      "title": "Flirt: GitHub and Mailing List backends",
+      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "published_at": "2026-08-15T07:37:40.011-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "senekor"
     },
     {
       "title": "How to cull a pair based of relative distance between the centre of two objects?",
@@ -761,7 +761,7 @@
       "title": "Socket Emit fail to delivery in multi-worker",
       "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
       "published_at": "2026-08-14T14:11:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "flask",
@@ -812,7 +812,7 @@
         "Climate",
         "Fundraising",
         "Startups",
-        "nuclear fusion",
+        "evergreens",
         "fusion power"
       ],
       "cover_image": null,
@@ -1227,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2048,
+      "stars": 2076,
       "user": "xiaobright"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 471,
       "user": "NousResearch"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "RadishXN"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "panel-zeus"
     },
     {
@@ -1287,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 267,
       "user": "myYangyunfan"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 112639,
+      "stars": 112963,
       "user": "deepseek-ai"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5422,
+      "stars": 5503,
       "user": "anywhere-labs"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2637,
       "user": "zhu1090093659"
     },
     {
@@ -1362,14 +1362,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1236,
       "user": "ccch1mneyyy"
     },
     {
       "title": "GSAP ScrollTrigger pinned section causes scroll position jump when opening Base UI modal dialog with Lenis smooth scrolling",
       "url": "https://stackoverflow.com/questions/79995376/gsap-scrolltrigger-pinned-section-causes-scroll-position-jump-when-opening-base",
       "published_at": "2026-08-15T14:58:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1502,7 +1502,7 @@
       "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
       "url": "https://stackoverflow.com/questions/79995072/why-does-my-vanilla-javascript-debounce-create-multiple-timers-when-used-inside",
       "published_at": "2026-08-14T11:55:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "reactjs"
@@ -1782,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9422,
+      "stars": 9454,
       "user": "guillaumemeyer"
     },
     {
@@ -1797,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2817,
+      "stars": 2843,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1812,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1116,
       "user": "Leutenegger"
     },
     {
@@ -1827,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "0xsline"
     },
     {
@@ -1974,7 +1974,7 @@
       "title": "Socket Emit fail to delivery in multi-worker",
       "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
       "published_at": "2026-08-14T14:11:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "flask",
@@ -2340,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9422,
+      "stars": 9454,
       "user": "guillaumemeyer"
     },
     {
@@ -2534,7 +2534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2637,
       "user": "zhu1090093659"
     },
     {
@@ -3171,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2048,
+      "stars": 2076,
       "user": "xiaobright"
     },
     {
@@ -3186,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 471,
       "user": "NousResearch"
     },
     {
@@ -3201,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 364,
       "user": "RadishXN"
     },
     {
@@ -3216,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 344,
       "user": "panel-zeus"
     },
     {
@@ -3231,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 267,
       "user": "myYangyunfan"
     },
     {
@@ -3246,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9422,
+      "stars": 9454,
       "user": "guillaumemeyer"
     },
     {
@@ -3261,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2817,
+      "stars": 2843,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3276,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1116,
       "user": "Leutenegger"
     },
     {
@@ -3291,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "0xsline"
     },
     {
@@ -3321,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 385,
       "user": "MengMengCode"
     },
     {
@@ -3351,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 128,
       "user": "pgrundev"
     },
     {
@@ -3366,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "WongLoki"
     },
     {
@@ -3396,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 112639,
+      "stars": 112963,
       "user": "deepseek-ai"
     },
     {
@@ -3411,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5422,
+      "stars": 5503,
       "user": "anywhere-labs"
     },
     {
@@ -3426,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2625,
+      "stars": 2637,
       "user": "zhu1090093659"
     },
     {
@@ -3456,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1236,
       "user": "ccch1mneyyy"
     },
     {
@@ -3486,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 184,
+      "stars": 185,
       "user": "JohnKinyanjui"
     },
     {
