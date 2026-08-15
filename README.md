@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [MCP Configuration for Looker with Codex](https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1) | Dev.to |
 | 20 | [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j) | Dev.to |
 
-<sub>Last fetched: Sat, 15 Aug 2026 18:01:03 CAT</sub>
+<sub>Last fetched: Sat, 15 Aug 2026 18:37:15 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain decorators in Python with an example**
+**1. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function wrappers, @syntax, practical uses
+> useState, useEffect, loading states, error handling
 
 </details>
 
-**2. `JavaScript` — Explain event delegation and why it's useful**
+**2. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**3. `SystemDesign` — Design Twitter's timeline feature**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -168,11 +168,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 44 | 23.9% | `█████████████░░░░░░░` |
 | **Tools** | 37 | 20.1% | `███████████░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `██████████░░░░░░░░░░` |
-| **WebDev** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 15 | 8.2% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `██████░░░░░░░░░░░░░░` |
+| **WebDev** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,12 +194,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.4%
-Java            ███████████████████████ 21.9%
-Python          ███████████████████████ 21.3%
-Go              ███████████████████████ 21.3%
+JavaScript      ██████████████████████████████ 28.6%
+Java            ███████████████████████ 22.1%
+Python          ██████████████████████ 21.4%
+Go              ██████████████████████ 21.4%
 Rust            ████ 3.9%
-Swift           ██ 1.9%
+Swift           █ 1.3%
 CSharp          █ 0.6%
 PHP             █ 0.6%
 
@@ -212,7 +212,7 @@ pie title Programming Languages Distribution
     "Python" : 33
     "Go" : 33
     "Rust" : 6
-    "Swift" : 3
+    "Swift" : 2
     "CSharp" : 1
     "PHP" : 1
 ```
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-7-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 15 Aug 2026 16:01:03 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 15 Aug 2026 16:37:15 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
