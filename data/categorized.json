@@ -557,21 +557,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "50kg"
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -583,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9372,
+      "stars": 9400,
       "user": "guillaumemeyer"
     },
     {
@@ -643,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "pgrundev"
     },
     {
@@ -658,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 111833,
+      "stars": 112333,
       "user": "deepseek-ai"
     },
     {
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "lexmount"
     },
     {
@@ -787,6 +772,38 @@
       "user": "Harry"
     },
     {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "published_at": "2026-08-15T16:30:00.000Z",
+      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Elon Musk",
+        "SpaceX",
+        "cursor"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "published_at": "2026-08-15T16:10:00.000Z",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "OpenAI",
+        "Anthropic",
+        "ChatGPT"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "Every fusion startup that has raised over $100M",
       "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
       "published_at": "2026-08-15T13:15:20.000Z",
@@ -848,22 +865,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "published_at": "2026-08-14T15:43:28.000Z",
-      "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
-      "tags": [
-        "AI",
-        "Amazon",
-        "Anthropic",
-        "data centers",
-        "Joby Aviation"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1226,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1988,
+      "stars": 2027,
       "user": "xiaobright"
     },
     {
@@ -1241,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 467,
       "user": "NousResearch"
     },
     {
@@ -1271,23 +1272,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "panel-zeus"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "url": "https://github.com/myYangyunfan/dsh_desktop",
+      "published_at": "2026-08-13T16:00:16Z",
+      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 255,
-      "user": "50kg"
+      "stars": 261,
+      "user": "myYangyunfan"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1301,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 111833,
+      "stars": 112333,
       "user": "deepseek-ai"
     },
     {
@@ -1316,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5237,
+      "stars": 5368,
       "user": "anywhere-labs"
     },
     {
@@ -1331,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2587,
+      "stars": 2612,
       "user": "zhu1090093659"
     },
     {
@@ -1361,14 +1362,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1212,
+      "stars": 1224,
       "user": "ccch1mneyyy"
     },
     {
       "title": "How should I handle overnight shifts and break deductions when calculating worked hours in JavaScript?",
       "url": "https://stackoverflow.com/questions/79995380/how-should-i-handle-overnight-shifts-and-break-deductions-when-calculating-worke",
       "published_at": "2026-08-15T15:35:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "datetime",
@@ -1378,6 +1379,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alexandra Kirk"
+    },
+    {
+      "title": "GSAP ScrollTrigger pinned section causes scroll position jump when opening Base UI modal dialog with Lenis smooth scrolling",
+      "url": "https://stackoverflow.com/questions/79995376/gsap-scrolltrigger-pinned-section-causes-scroll-position-jump-when-opening-base",
+      "published_at": "2026-08-15T14:58:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "gsap",
+        "scrolltrigger",
+        "lenis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Little Thinker"
     },
     {
       "title": "How to fix image importation problem in PhaserJs",
@@ -1495,19 +1512,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Build With Hassan"
-    },
-    {
-      "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
-      "url": "https://stackoverflow.com/questions/79995072/why-does-my-vanilla-javascript-debounce-create-multiple-timers-when-used-inside",
-      "published_at": "2026-08-14T11:55:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Avinash Kumar Developer"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1780,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9372,
+      "stars": 9400,
       "user": "guillaumemeyer"
     },
     {
@@ -1795,7 +1799,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2741,
+      "stars": 2791,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1810,7 +1814,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1108,
+      "stars": 1109,
       "user": "Leutenegger"
     },
     {
@@ -1859,20 +1863,6 @@
       "user": "zyy"
     },
     {
-      "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
-      "url": "https://stackoverflow.com/questions/79995261/in-python-under-unix-ask-for-interactive-terminal-input-but-avoid-stdout",
-      "published_at": "2026-08-15T03:01:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "terminal",
-        "prompt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "q.undertow"
-    },
-    {
       "title": "Create a new column in pandas conditionally based on two other columns that may have overlapping values",
       "url": "https://stackoverflow.com/questions/79995253/create-a-new-column-in-pandas-conditionally-based-on-two-other-columns-that-may",
       "published_at": "2026-08-15T02:11:56.000Z",
@@ -1885,6 +1875,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DrakeMurdoch"
+    },
+    {
+      "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
+      "url": "https://stackoverflow.com/questions/79995261/in-python-under-unix-ask-for-interactive-terminal-input-but-avoid-stdout",
+      "published_at": "2026-08-15T03:01:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "terminal",
+        "prompt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "q.undertow"
     },
     {
       "title": "Write multiple values to file in mounted local folder",
@@ -1955,20 +1959,6 @@
       "user": "Juan Castro"
     },
     {
-      "title": "Socket Emit fail to delivery in multi-worker",
-      "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
-      "published_at": "2026-08-14T14:11:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "flask",
-        "flask-socketio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Harry"
-    },
-    {
       "title": "Why does a Python subprocess hang only when stdout is redirected to PIPE?",
       "url": "https://stackoverflow.com/questions/79995069/why-does-a-python-subprocess-hang-only-when-stdout-is-redirected-to-pipe",
       "published_at": "2026-08-14T11:45:57.000Z",
@@ -1981,6 +1971,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mia Smith"
+    },
+    {
+      "title": "Socket Emit fail to delivery in multi-worker",
+      "url": "https://stackoverflow.com/questions/79995102/socket-emit-fail-to-delivery-in-multi-worker",
+      "published_at": "2026-08-14T14:11:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "flask",
+        "flask-socketio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Harry"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2327,21 +2331,6 @@
       "user": "velmu"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "50kg"
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -2353,7 +2342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9372,
+      "stars": 9400,
       "user": "guillaumemeyer"
     },
     {
@@ -2547,7 +2536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2587,
+      "stars": 2612,
       "user": "zhu1090093659"
     },
     {
@@ -2558,22 +2547,6 @@
       "tags": [
         "Apps",
         "iOS apps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "published_at": "2026-08-14T14:54:48.000Z",
-      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple",
-        "Epic Games",
-        "lawsuit"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2790,22 +2763,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "published_at": "2026-08-14T14:54:48.000Z",
-      "description": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
-      "tags": [
-        "Apps",
-        "app store",
-        "Apple",
-        "Epic Games",
-        "lawsuit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Database": [
@@ -3067,11 +3024,28 @@
       "published_at": "2026-08-15T07:50:05.356-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security"
+        "security",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "untitaker"
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "published_at": "2026-08-15T16:10:00.000Z",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "OpenAI",
+        "Anthropic",
+        "ChatGPT"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "What we know about the alleged Iranian hacks on US water utilities",
@@ -3199,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1988,
+      "stars": 2027,
       "user": "xiaobright"
     },
     {
@@ -3214,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 467,
       "user": "NousResearch"
     },
     {
@@ -3244,23 +3218,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 341,
       "user": "panel-zeus"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "url": "https://github.com/myYangyunfan/dsh_desktop",
+      "published_at": "2026-08-13T16:00:16Z",
+      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 255,
-      "user": "50kg"
+      "stars": 261,
+      "user": "myYangyunfan"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3274,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9372,
+      "stars": 9400,
       "user": "guillaumemeyer"
     },
     {
@@ -3289,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2741,
+      "stars": 2791,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3304,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1108,
+      "stars": 1109,
       "user": "Leutenegger"
     },
     {
@@ -3379,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "pgrundev"
     },
     {
@@ -3394,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 110,
       "user": "WongLoki"
     },
     {
@@ -3424,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 111833,
+      "stars": 112333,
       "user": "deepseek-ai"
     },
     {
@@ -3439,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5237,
+      "stars": 5368,
       "user": "anywhere-labs"
     },
     {
@@ -3454,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2587,
+      "stars": 2612,
       "user": "zhu1090093659"
     },
     {
@@ -3484,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1212,
+      "stars": 1224,
       "user": "ccch1mneyyy"
     },
     {
@@ -3499,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 323,
       "user": "lexmount"
     },
     {
