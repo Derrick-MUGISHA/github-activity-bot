@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9133,
+      "stars": 9148,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "xinxinshuhao-create"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 107116,
+      "stars": 107408,
       "user": "deepseek-ai"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "Awaker-OTE"
     },
     {
@@ -1225,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1629,
+      "stars": 1655,
       "user": "xiaobright"
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 447,
       "user": "NousResearch"
     },
     {
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "panel-zeus"
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 107116,
+      "stars": 107408,
       "user": "deepseek-ai"
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 4207,
+      "stars": 4262,
       "user": "anywhere-labs"
     },
     {
@@ -1330,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2379,
+      "stars": 2390,
       "user": "zhu1090093659"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1117,
       "user": "ccch1mneyyy"
     },
     {
@@ -1410,20 +1410,6 @@
       "user": "CGalindoFlex"
     },
     {
-      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
-      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
-      "published_at": "2026-08-14T06:33:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "dom",
-        "conditional-statements"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Robin Jhon"
-    },
-    {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
@@ -1437,6 +1423,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
+      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
+      "published_at": "2026-08-14T06:33:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "dom",
+        "conditional-statements"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Robin Jhon"
     },
     {
       "title": "How to handle invalid date in Flatpickr",
@@ -1778,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9133,
+      "stars": 9148,
       "user": "guillaumemeyer"
     },
     {
@@ -1793,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2309,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1838,22 +1838,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "xinxinshuhao-create"
-    },
-    {
-      "title": "Create a new column in pandas conditionally based on two other columns that may have overlapping values",
-      "url": "https://stackoverflow.com/questions/79995253/create-a-new-column-in-pandas-conditionally-based-on-two-other-columns-that-may",
-      "published_at": "2026-08-15T02:11:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "pandas",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DrakeMurdoch"
     },
     {
       "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
@@ -1868,6 +1854,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "q.undertow"
+    },
+    {
+      "title": "Create a new column in pandas conditionally based on two other columns that may have overlapping values",
+      "url": "https://stackoverflow.com/questions/79995253/create-a-new-column-in-pandas-conditionally-based-on-two-other-columns-that-may",
+      "published_at": "2026-08-15T02:11:56.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DrakeMurdoch"
     },
     {
       "title": "Write multiple values to file in mounted local folder",
@@ -2348,7 +2348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9133,
+      "stars": 9148,
       "user": "guillaumemeyer"
     },
     {
@@ -2544,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2379,
+      "stars": 2390,
       "user": "zhu1090093659"
     },
     {
@@ -3055,7 +3055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3184,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1629,
+      "stars": 1655,
       "user": "xiaobright"
     },
     {
@@ -3199,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 447,
       "user": "NousResearch"
     },
     {
@@ -3229,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "panel-zeus"
     },
     {
@@ -3259,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9133,
+      "stars": 9148,
       "user": "guillaumemeyer"
     },
     {
@@ -3274,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2282,
+      "stars": 2309,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3319,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3409,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 107116,
+      "stars": 107408,
       "user": "deepseek-ai"
     },
     {
@@ -3424,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 4207,
+      "stars": 4262,
       "user": "anywhere-labs"
     },
     {
@@ -3439,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2379,
+      "stars": 2390,
       "user": "zhu1090093659"
     },
     {
@@ -3469,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1117,
       "user": "ccch1mneyyy"
     },
     {
@@ -3514,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "Awaker-OTE"
     },
     {
