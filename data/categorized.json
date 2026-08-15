@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
       "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
       "source": "Dev.to",
-      "user": "Debashish Ghosal"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
@@ -28,21 +28,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "tags": [
-        "opensource",
-        "devops",
-        "docker",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Looker's Native MCP Server with Claude Code",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
@@ -557,6 +557,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 243,
+      "user": "50kg"
+    },
+    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9086,
+      "stars": 9110,
       "user": "guillaumemeyer"
     },
     {
@@ -583,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "pgrundev"
     },
     {
@@ -643,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 106323,
+      "stars": 106770,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1728,
+      "stars": 1729,
       "user": "SMNETSTUDIO"
     },
     {
@@ -673,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 309,
       "user": "lexmount"
     },
     {
@@ -718,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "smthdagg"
     },
     {
@@ -1210,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1592,
       "user": "xiaobright"
     },
     {
@@ -1240,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "RadishXN"
     },
     {
@@ -1255,23 +1270,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "panel-zeus"
     },
     {
-      "title": "NanmiCoder/dsh-agent-teams - AgentTeams plugin for DeepSeek Harness",
-      "url": "https://github.com/NanmiCoder/dsh-agent-teams",
-      "published_at": "2026-08-12T13:41:50Z",
-      "description": "AgentTeams plugin for DeepSeek Harness",
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47178017?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 296,
-      "user": "NanmiCoder"
+      "stars": 243,
+      "user": "50kg"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1285,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 106323,
+      "stars": 106770,
       "user": "deepseek-ai"
     },
     {
@@ -1300,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 4045,
+      "stars": 4139,
       "user": "anywhere-labs"
     },
     {
@@ -1315,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2340,
+      "stars": 2365,
       "user": "zhu1090093659"
     },
     {
@@ -1330,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1728,
+      "stars": 1729,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1345,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1099,
       "user": "ccch1mneyyy"
     },
     {
@@ -1395,20 +1410,6 @@
       "user": "CGalindoFlex"
     },
     {
-      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
-      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
-      "published_at": "2026-08-14T06:33:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "dom",
-        "conditional-statements"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Robin Jhon"
-    },
-    {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
@@ -1422,6 +1423,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
+      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
+      "published_at": "2026-08-14T06:33:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "dom",
+        "conditional-statements"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Robin Jhon"
     },
     {
       "title": "How to handle invalid date in Flatpickr",
@@ -1763,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9086,
+      "stars": 9110,
       "user": "guillaumemeyer"
     },
     {
@@ -1778,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2219,
+      "stars": 2259,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1793,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1094,
       "user": "Leutenegger"
     },
     {
@@ -1823,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "xinxinshuhao-create"
     },
     {
@@ -2307,6 +2322,21 @@
       "user": "velmu"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 243,
+      "user": "50kg"
+    },
+    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -2318,7 +2348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9086,
+      "stars": 9110,
       "user": "guillaumemeyer"
     },
     {
@@ -2514,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2340,
+      "stars": 2365,
       "user": "zhu1090093659"
     },
     {
@@ -2825,7 +2855,7 @@
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
-      "description": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
       "tags": [
         "ai",
         "agents",
@@ -3025,7 +3055,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3050,7 +3080,7 @@
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
-      "description": "github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust · field test report · design...",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
       "tags": [
         "ai",
         "agents",
@@ -3154,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1592,
       "user": "xiaobright"
     },
     {
@@ -3184,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "RadishXN"
     },
     {
@@ -3199,23 +3229,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 321,
       "user": "panel-zeus"
     },
     {
-      "title": "NanmiCoder/dsh-agent-teams - AgentTeams plugin for DeepSeek Harness",
-      "url": "https://github.com/NanmiCoder/dsh-agent-teams",
-      "published_at": "2026-08-12T13:41:50Z",
-      "description": "AgentTeams plugin for DeepSeek Harness",
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/47178017?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 296,
-      "user": "NanmiCoder"
+      "stars": 243,
+      "user": "50kg"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3229,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9086,
+      "stars": 9110,
       "user": "guillaumemeyer"
     },
     {
@@ -3244,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2219,
+      "stars": 2259,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3259,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1093,
+      "stars": 1094,
       "user": "Leutenegger"
     },
     {
@@ -3289,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3334,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "pgrundev"
     },
     {
@@ -3364,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 92,
       "user": "WongLoki"
     },
     {
@@ -3379,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 106323,
+      "stars": 106770,
       "user": "deepseek-ai"
     },
     {
@@ -3394,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 4045,
+      "stars": 4139,
       "user": "anywhere-labs"
     },
     {
@@ -3409,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2340,
+      "stars": 2365,
       "user": "zhu1090093659"
     },
     {
@@ -3424,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1728,
+      "stars": 1729,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3439,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1087,
+      "stars": 1099,
       "user": "ccch1mneyyy"
     },
     {
@@ -3454,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 309,
       "user": "lexmount"
     },
     {
@@ -3514,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 147,
+      "stars": 148,
       "user": "smthdagg"
     },
     {
