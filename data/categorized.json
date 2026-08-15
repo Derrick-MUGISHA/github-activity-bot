@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9205,
+      "stars": 9239,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "xinxinshuhao-create"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 108334,
+      "stars": 109014,
       "user": "deepseek-ai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "lexmount"
     },
     {
@@ -737,6 +737,18 @@
       "user": "smthdagg"
     },
     {
+      "title": "Flirt: GitHub and Mailing List backends",
+      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "published_at": "2026-08-15T07:37:40.011-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "senekor"
+    },
+    {
       "title": "Thunderbird’s Desktop Calendar Visual Redesign",
       "url": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
       "published_at": "2026-08-14T12:03:04.416-05:00",
@@ -748,30 +760,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "wonk"
-    },
-    {
-      "title": "What You Gain by Building Your Own Game Engine",
-      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-      "published_at": "2026-08-14T17:04:19.983-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "games"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "bmo"
-    },
-    {
-      "title": "Flirt: GitHub and Mailing List backends",
-      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-      "published_at": "2026-08-15T07:37:40.011-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "senekor"
     },
     {
       "title": "How to cull a pair based of relative distance between the centre of two objects?",
@@ -798,6 +786,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Harry"
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "published_at": "2026-08-15T13:15:20.000Z",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "Startups",
+        "nuclear fusion",
+        "fusion power"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "Self-driving trucks are officially testing on California highways",
@@ -861,20 +865,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "published_at": "2026-08-14T14:50:11.000Z",
-      "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI inference"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1237,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1734,
+      "stars": 1802,
       "user": "xiaobright"
     },
     {
@@ -1252,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "NousResearch"
     },
     {
@@ -1267,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "RadishXN"
     },
     {
@@ -1312,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 108334,
+      "stars": 109014,
       "user": "deepseek-ai"
     },
     {
@@ -1327,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 4452,
+      "stars": 4586,
       "user": "anywhere-labs"
     },
     {
@@ -1342,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2465,
       "user": "zhu1090093659"
     },
     {
@@ -1372,23 +1362,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1151,
       "user": "ccch1mneyyy"
-    },
-    {
-      "title": "Content block builder",
-      "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
-      "published_at": "2026-08-15T03:44:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "html",
-        "templates"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "segorev"
     },
     {
       "title": "How to fix image importation problem in PhaserJs",
@@ -1404,6 +1379,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33029732"
+    },
+    {
+      "title": "Content block builder",
+      "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
+      "published_at": "2026-08-15T03:44:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "templates"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "segorev"
     },
     {
       "title": "Full Calendar JS does not detect styles",
@@ -1790,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9205,
+      "stars": 9239,
       "user": "guillaumemeyer"
     },
     {
@@ -1805,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2403,
+      "stars": 2474,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1820,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1098,
       "user": "Leutenegger"
     },
     {
@@ -1835,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 460,
       "user": "0xsline"
     },
     {
@@ -1850,8 +1840,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "How to draw a radial axis in polar coordinate with matplotlib?",
+      "url": "https://stackoverflow.com/questions/79995352/how-to-draw-a-radial-axis-in-polar-coordinate-with-matplotlib",
+      "published_at": "2026-08-15T12:50:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "matplotlib",
+        "axis",
+        "polar-coordinates"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "zyy"
     },
     {
       "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
@@ -1976,18 +1981,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mia Smith"
-    },
-    {
-      "title": "Python Label Stack of Stack Bar Chart with the percent of that Bar",
-      "url": "https://stackoverflow.com/questions/79995009/python-label-stack-of-stack-bar-chart-with-the-percent-of-that-bar",
-      "published_at": "2026-08-14T06:36:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user23487612"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2360,7 +2353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9205,
+      "stars": 9239,
       "user": "guillaumemeyer"
     },
     {
@@ -2568,7 +2561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2465,
       "user": "zhu1090093659"
     },
     {
@@ -3079,8 +3072,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "Everything is about to “go dark”",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "published_at": "2026-08-15T07:50:05.356-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "untitaker"
     },
     {
       "title": "What we know about the alleged Iranian hacks on US water utilities",
@@ -3208,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1734,
+      "stars": 1802,
       "user": "xiaobright"
     },
     {
@@ -3223,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "NousResearch"
     },
     {
@@ -3238,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "RadishXN"
     },
     {
@@ -3283,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9205,
+      "stars": 9239,
       "user": "guillaumemeyer"
     },
     {
@@ -3298,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2403,
+      "stars": 2474,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3313,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1098,
       "user": "Leutenegger"
     },
     {
@@ -3328,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 460,
       "user": "0xsline"
     },
     {
@@ -3343,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3418,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 99,
       "user": "WongLoki"
     },
     {
@@ -3433,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 108334,
+      "stars": 109014,
       "user": "deepseek-ai"
     },
     {
@@ -3448,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 4452,
+      "stars": 4586,
       "user": "anywhere-labs"
     },
     {
@@ -3463,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2444,
+      "stars": 2465,
       "user": "zhu1090093659"
     },
     {
@@ -3493,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1151,
       "user": "ccch1mneyyy"
     },
     {
@@ -3508,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 314,
       "user": "lexmount"
     },
     {
