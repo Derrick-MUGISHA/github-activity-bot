@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "tags": [
-        "opensource",
-        "devops",
-        "docker",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
       "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
       "published_at": "2026-08-14T16:55:48Z",
@@ -60,6 +45,21 @@
       "user": "Debashish Ghosal"
     },
     {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "tags": [
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "Looker's Native MCP Server with Claude Code",
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
       "published_at": "2026-08-14T14:00:55Z",
@@ -73,21 +73,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
-      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
-      "published_at": "2026-08-12T03:32:11Z",
-      "description": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
-      "tags": [
-        "gemma",
-        "genai",
-        "experiment",
-        "education"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqzzdiw88bpf4m1wlv4vh.png",
-      "source": "Dev.to",
-      "user": "leslysandra"
     },
     {
       "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
@@ -147,6 +132,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
+      "published_at": "2026-08-12T03:32:11Z",
+      "description": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
+      "tags": [
+        "gemma",
+        "genai",
+        "experiment",
+        "education"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqzzdiw88bpf4m1wlv4vh.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9642,
+      "stars": 9650,
       "user": "guillaumemeyer"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114453,
+      "stars": 114527,
       "user": "deepseek-ai"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "lexmount"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2154,
+      "stars": 2156,
       "user": "xiaobright"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "NousResearch"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114453,
+      "stars": 114527,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5749,
+      "stars": 5754,
       "user": "anywhere-labs"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2690,
+      "stars": 2691,
       "user": "zhu1090093659"
     },
     {
@@ -1798,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9642,
+      "stars": 9650,
       "user": "guillaumemeyer"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2964,
+      "stars": 2967,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -2366,7 +2366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9642,
+      "stars": 9650,
       "user": "guillaumemeyer"
     },
     {
@@ -2548,7 +2548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2690,
+      "stars": 2691,
       "user": "zhu1090093659"
     }
   ],
@@ -3157,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2154,
+      "stars": 2156,
       "user": "xiaobright"
     },
     {
@@ -3172,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "NousResearch"
     },
     {
@@ -3232,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9642,
+      "stars": 9650,
       "user": "guillaumemeyer"
     },
     {
@@ -3247,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2964,
+      "stars": 2967,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3382,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114453,
+      "stars": 114527,
       "user": "deepseek-ai"
     },
     {
@@ -3397,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5749,
+      "stars": 5754,
       "user": "anywhere-labs"
     },
     {
@@ -3412,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2690,
+      "stars": 2691,
       "user": "zhu1090093659"
     },
     {
@@ -3457,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "lexmount"
     },
     {
