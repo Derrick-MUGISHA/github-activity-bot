@@ -16,6 +16,20 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Looker's Native MCP Server with Claude Code",
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
       "published_at": "2026-08-14T14:00:55Z",
@@ -29,20 +43,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8108,
+      "stars": 8214,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 368,
       "user": "MengMengCode"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "surya-koritala"
     },
     {
@@ -658,23 +658,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 107,
       "user": "pgrundev"
-    },
-    {
-      "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
-      "url": "https://github.com/forever94yu/icloud-prime",
-      "published_at": "2026-08-08T14:35:00Z",
-      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
-      "source": "GitHub",
-      "stars": 87,
-      "user": "forever94yu"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 95280,
+      "stars": 96204,
       "user": "deepseek-ai"
     },
     {
@@ -703,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1709,
+      "stars": 1710,
       "user": "SMNETSTUDIO"
     },
     {
@@ -718,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "lexmount"
     },
     {
@@ -733,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "JohnKinyanjui"
     },
     {
@@ -752,19 +737,6 @@
       "user": "Awaker-OTE"
     },
     {
-      "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-      "published_at": "2026-08-14T04:43:51.937-05:00",
-      "description": "Uses https://slopscan.ava.pet internally (previously discussed at: https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm)",
-      "tags": [
-        "browsers",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aka_dude"
-    },
-    {
       "title": "Thunderbird’s Desktop Calendar Visual Redesign",
       "url": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
       "published_at": "2026-08-14T12:03:04.416-05:00",
@@ -776,6 +748,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "wonk"
+    },
+    {
+      "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
+      "published_at": "2026-08-14T04:43:51.937-05:00",
+      "description": "Uses https://slopscan.ava.pet internally (previously discussed at: https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm)",
+      "tags": [
+        "browsers",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "aka_dude"
     },
     {
       "title": "How to cull a pair based of relative distance between the centre of two objects?",
@@ -1230,6 +1215,21 @@
       "user": "velmu"
     },
     {
+      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "published_at": "2026-08-14T14:06:39Z",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
+      "source": "GitHub",
+      "stars": 427,
+      "user": "xiaobright"
+    },
+    {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
       "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
       "published_at": "2026-08-13T16:40:20Z",
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 391,
       "user": "NousResearch"
     },
     {
@@ -1260,21 +1260,6 @@
       "user": "RadishXN"
     },
     {
-      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "published_at": "2026-08-14T14:06:39Z",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "xiaobright"
-    },
-    {
       "title": "panel-zeus/Z-E-U-S - GitHub Repository",
       "url": "https://github.com/panel-zeus/Z-E-U-S",
       "published_at": "2026-08-09T02:53:39Z",
@@ -1286,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "panel-zeus"
     },
     {
@@ -1316,23 +1301,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 95280,
+      "stars": 96204,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 1933,
-      "user": "zhu1090093659"
     },
     {
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
@@ -1346,8 +1316,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1981,
       "user": "anywhere-labs"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
+      "source": "GitHub",
+      "stars": 1960,
+      "user": "zhu1090093659"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -1361,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1709,
+      "stars": 1710,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1378,6 +1363,21 @@
       "source": "GitHub",
       "stars": 979,
       "user": "SaladDay"
+    },
+    {
+      "title": "How to fix image importation problem in PhaserJs",
+      "url": "https://stackoverflow.com/questions/79995236/how-to-fix-image-importation-problem-in-phaserjs",
+      "published_at": "2026-08-14T23:38:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "import",
+        "game-development",
+        "phaser-framework"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33029732"
     },
     {
       "title": "Full Calendar JS does not detect styles",
@@ -1466,20 +1466,6 @@
       "user": "leo"
     },
     {
-      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
-      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
-      "published_at": "2026-08-14T06:33:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "dom",
-        "conditional-statements"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Robin Jhon"
-    },
-    {
       "title": "How to make an animated menu icon show/hide menu",
       "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
       "published_at": "2026-08-13T21:45:04.000Z",
@@ -1494,6 +1480,20 @@
       "user": "V. M. Ent"
     },
     {
+      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
+      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
+      "published_at": "2026-08-14T06:33:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "dom",
+        "conditional-statements"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Robin Jhon"
+    },
+    {
       "title": "How to query a custom element's internal elements while in the document from a DOMParser()?",
       "url": "https://stackoverflow.com/questions/79994986/how-to-query-a-custom-elements-internal-elements-while-in-the-document-from-a-d",
       "published_at": "2026-08-14T04:47:08.000Z",
@@ -1506,20 +1506,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027124"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1792,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8108,
+      "stars": 8214,
       "user": "guillaumemeyer"
     },
     {
@@ -1807,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1155,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1822,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1072,
       "user": "Leutenegger"
     },
     {
@@ -1837,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "0xsline"
     },
     {
@@ -1852,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1883,6 +1869,18 @@
       "user": "David C."
     },
     {
+      "title": "How to cull a pair based of relative distance between the centre of two objects?",
+      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
+      "published_at": "2026-08-14T13:18:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Krishna Kabir"
+    },
+    {
       "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
       "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
       "published_at": "2026-08-14T15:32:19.000Z",
@@ -1894,18 +1892,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Juan Castro"
-    },
-    {
-      "title": "How to cull a pair based of relative distance between the centre of two objects?",
-      "url": "https://stackoverflow.com/questions/79995093/how-to-cull-a-pair-based-of-relative-distance-between-the-centre-of-two-objects",
-      "published_at": "2026-08-14T13:18:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Krishna Kabir"
     },
     {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
@@ -1952,20 +1938,6 @@
       "user": "Mia Smith"
     },
     {
-      "title": "How to create spectrogram a really image data from a WAV file?",
-      "url": "https://stackoverflow.com/questions/79995088/how-to-create-spectrogram-a-really-image-data-from-a-wav-file",
-      "published_at": "2026-08-14T12:57:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "scipy",
-        "soundfile"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mathrm alpha"
-    },
-    {
       "title": "How do you ensure in Python that you can open files with the program you created?",
       "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
       "published_at": "2026-08-14T12:44:01.000Z",
@@ -1989,6 +1961,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user23487612"
+    },
+    {
+      "title": "Reproduce n-ary `vmap` from unary",
+      "url": "https://stackoverflow.com/questions/79993877/reproduce-n-ary-vmap-from-unary",
+      "published_at": "2026-08-13T16:37:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "jax"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "joel"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2229,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "surya-koritala"
     }
   ],
@@ -2376,7 +2361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8108,
+      "stars": 8214,
       "user": "guillaumemeyer"
     },
     {
@@ -2423,20 +2408,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "V. M. Ent"
-    },
-    {
-      "title": "Null is not an object for DOM",
-      "url": "https://stackoverflow.com/questions/79993937/null-is-not-an-object-for-dom",
-      "published_at": "2026-08-13T21:03:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027124"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2544,7 +2515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 1933,
+      "stars": 1960,
       "user": "zhu1090093659"
     },
     {
@@ -2789,19 +2760,19 @@
       "user": "xbill"
     },
     {
-      "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
-      "url": "https://github.com/forever94yu/icloud-prime",
-      "published_at": "2026-08-08T14:35:00Z",
-      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "go",
+        "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
       "source": "GitHub",
-      "stars": 87,
-      "user": "forever94yu"
+      "stars": 130,
+      "user": "EurekaZang"
     },
     {
       "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
@@ -3085,7 +3056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3203,6 +3174,21 @@
       "user": "pabs3"
     },
     {
+      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "published_at": "2026-08-14T14:06:39Z",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
+      "source": "GitHub",
+      "stars": 427,
+      "user": "xiaobright"
+    },
+    {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
       "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
       "published_at": "2026-08-13T16:40:20Z",
@@ -3214,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 391,
       "user": "NousResearch"
     },
     {
@@ -3233,21 +3219,6 @@
       "user": "RadishXN"
     },
     {
-      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "published_at": "2026-08-14T14:06:39Z",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
-      "source": "GitHub",
-      "stars": 344,
-      "user": "xiaobright"
-    },
-    {
       "title": "panel-zeus/Z-E-U-S - GitHub Repository",
       "url": "https://github.com/panel-zeus/Z-E-U-S",
       "published_at": "2026-08-09T02:53:39Z",
@@ -3259,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 308,
       "user": "panel-zeus"
     },
     {
@@ -3289,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8108,
+      "stars": 8214,
       "user": "guillaumemeyer"
     },
     {
@@ -3304,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1091,
+      "stars": 1155,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3319,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1069,
+      "stars": 1072,
       "user": "Leutenegger"
     },
     {
@@ -3334,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "0xsline"
     },
     {
@@ -3349,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 392,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3364,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 368,
       "user": "MengMengCode"
     },
     {
@@ -3379,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "surya-koritala"
     },
     {
@@ -3394,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 107,
       "user": "pgrundev"
     },
     {
@@ -3409,23 +3380,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 98,
       "user": "WongLoki"
     },
     {
-      "title": "forever94yu/icloud-prime - Self-hosted iCloud Hide My Email management console with Windows portable releases",
-      "url": "https://github.com/forever94yu/icloud-prime",
-      "published_at": "2026-08-08T14:35:00Z",
-      "description": "Self-hosted iCloud Hide My Email management console with Windows portable releases",
+      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "url": "https://github.com/zepto-labs/scherry",
+      "published_at": "2026-08-11T08:59:18Z",
+      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/27388133?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 87,
-      "user": "forever94yu"
+      "stars": 74,
+      "user": "zepto-labs"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3439,23 +3410,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 95280,
+      "stars": 96204,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 1933,
-      "user": "zhu1090093659"
     },
     {
       "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
@@ -3469,8 +3425,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1981,
       "user": "anywhere-labs"
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "published_at": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
+      "source": "GitHub",
+      "stars": 1960,
+      "user": "zhu1090093659"
     },
     {
       "title": "SMNETSTUDIO/WeChat-AI - GitHub Repository",
@@ -3484,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1709,
+      "stars": 1710,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3514,23 +3485,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 283,
       "user": "lexmount"
-    },
-    {
-      "title": "fzakaria/nixpkgs-multiverse - Any version of any nixpkgs package, from one flake input",
-      "url": "https://github.com/fzakaria/nixpkgs-multiverse",
-      "published_at": "2026-08-08T21:56:37Z",
-      "description": "Any version of any nixpkgs package, from one flake input",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "fzakaria"
     },
     {
       "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
@@ -3544,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "JohnKinyanjui"
     },
     {
@@ -3576,6 +3532,21 @@
       "source": "GitHub",
       "stars": 150,
       "user": "hsusul"
+    },
+    {
+      "title": "EurekaZang/CloudFolder - GitHub Repository",
+      "url": "https://github.com/EurekaZang/CloudFolder",
+      "published_at": "2026-08-09T21:30:32Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/180540244?v=4",
+      "source": "GitHub",
+      "stars": 130,
+      "user": "EurekaZang"
     },
     {
       "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
