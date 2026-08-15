@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9361,
+      "stars": 9372,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "xinxinshuhao-create"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 111496,
+      "stars": 111833,
       "user": "deepseek-ai"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "lexmount"
     },
     {
@@ -737,18 +737,6 @@
       "user": "smthdagg"
     },
     {
-      "title": "Why I remain a skeptic",
-      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-      "published_at": "2026-08-15T08:29:59.029-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jbauer"
-    },
-    {
       "title": "Flirt: GitHub and Mailing List backends",
       "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
       "published_at": "2026-08-15T07:37:40.011-05:00",
@@ -759,6 +747,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "senekor"
+    },
+    {
+      "title": "Why I remain a skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "published_at": "2026-08-15T08:29:59.029-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jbauer"
     },
     {
       "title": "How to cull a pair based of relative distance between the centre of two objects?",
@@ -1226,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1968,
+      "stars": 1988,
       "user": "xiaobright"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "NousResearch"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "panel-zeus"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 111496,
+      "stars": 111833,
       "user": "deepseek-ai"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5162,
+      "stars": 5237,
       "user": "anywhere-labs"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2570,
+      "stars": 2587,
       "user": "zhu1090093659"
     },
     {
@@ -1361,8 +1361,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1212,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "How should I handle overnight shifts and break deductions when calculating worked hours in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79995380/how-should-i-handle-overnight-shifts-and-break-deductions-when-calculating-worke",
+      "published_at": "2026-08-15T15:35:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "datetime",
+        "time",
+        "date-arithmetic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alexandra Kirk"
     },
     {
       "title": "How to fix image importation problem in PhaserJs",
@@ -1493,20 +1508,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Avinash Kumar Developer"
-    },
-    {
-      "title": "How to make an animated menu icon show/hide menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
-      "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "V. M. Ent"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1779,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9361,
+      "stars": 9372,
       "user": "guillaumemeyer"
     },
     {
@@ -1794,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2711,
+      "stars": 2741,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1809,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1108,
       "user": "Leutenegger"
     },
     {
@@ -1824,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "0xsline"
     },
     {
@@ -1839,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "xinxinshuhao-create"
     },
     {
@@ -2352,7 +2353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9361,
+      "stars": 9372,
       "user": "guillaumemeyer"
     },
     {
@@ -2424,20 +2425,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
-    },
-    {
-      "title": "How to make an animated menu icon show/hide menu",
-      "url": "https://stackoverflow.com/questions/79993945/how-to-make-an-animated-menu-icon-show-hide-menu",
-      "published_at": "2026-08-13T21:45:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "V. M. Ent"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2560,7 +2547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2570,
+      "stars": 2587,
       "user": "zhu1090093659"
     },
     {
@@ -3071,7 +3058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3212,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 1968,
+      "stars": 1988,
       "user": "xiaobright"
     },
     {
@@ -3227,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 465,
       "user": "NousResearch"
     },
     {
@@ -3257,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "panel-zeus"
     },
     {
@@ -3287,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9361,
+      "stars": 9372,
       "user": "guillaumemeyer"
     },
     {
@@ -3302,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2711,
+      "stars": 2741,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3317,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1108,
       "user": "Leutenegger"
     },
     {
@@ -3332,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 477,
       "user": "0xsline"
     },
     {
@@ -3347,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3407,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 106,
       "user": "WongLoki"
     },
     {
@@ -3437,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 111496,
+      "stars": 111833,
       "user": "deepseek-ai"
     },
     {
@@ -3452,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5162,
+      "stars": 5237,
       "user": "anywhere-labs"
     },
     {
@@ -3467,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2570,
+      "stars": 2587,
       "user": "zhu1090093659"
     },
     {
@@ -3497,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1212,
       "user": "ccch1mneyyy"
     },
     {
@@ -3512,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "lexmount"
     },
     {
