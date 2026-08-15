@@ -30,36 +30,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Looker's Native MCP Server with Claude Code",
-      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
-      "published_at": "2026-08-14T14:00:55Z",
-      "description": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
-      "tags": [
-        "mcp",
-        "looker",
-        "claudecode",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -88,6 +58,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "Looker's Native MCP Server with Claude Code",
+      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
+      "published_at": "2026-08-14T14:00:55Z",
+      "description": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
+      "tags": [
+        "mcp",
+        "looker",
+        "claudecode",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9454,
+      "stars": 9473,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "pgrundev"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 112963,
+      "stars": 113190,
       "user": "deepseek-ai"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "lexmount"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "Awaker-OTE"
     },
     {
@@ -720,6 +720,21 @@
       "source": "GitHub",
       "stars": 154,
       "user": "smthdagg"
+    },
+    {
+      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "published_at": "2026-08-14T02:36:29Z",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "source": "GitHub",
+      "stars": 154,
+      "user": "hairyf"
     },
     {
       "title": "Why I remain a skeptic",
@@ -946,21 +961,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -972,6 +972,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -1227,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2086,
       "user": "xiaobright"
     },
     {
@@ -1242,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "NousResearch"
     },
     {
@@ -1287,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 273,
       "user": "myYangyunfan"
     },
     {
@@ -1302,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 112963,
+      "stars": 113190,
       "user": "deepseek-ai"
     },
     {
@@ -1317,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5503,
+      "stars": 5548,
       "user": "anywhere-labs"
     },
     {
@@ -1332,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2637,
+      "stars": 2645,
       "user": "zhu1090093659"
     },
     {
@@ -1362,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1237,
       "user": "ccch1mneyyy"
     },
     {
@@ -1782,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9454,
+      "stars": 9473,
       "user": "guillaumemeyer"
     },
     {
@@ -1797,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2843,
+      "stars": 2863,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1827,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "0xsline"
     },
     {
@@ -2340,7 +2355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9454,
+      "stars": 9473,
       "user": "guillaumemeyer"
     },
     {
@@ -2463,21 +2478,6 @@
   ],
   "Mobile": [
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -2489,6 +2489,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkt5w2iqq7jkmdifgcej2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2534,7 +2549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2637,
+      "stars": 2645,
       "user": "zhu1090093659"
     },
     {
@@ -3171,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2086,
       "user": "xiaobright"
     },
     {
@@ -3186,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 472,
       "user": "NousResearch"
     },
     {
@@ -3231,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 273,
       "user": "myYangyunfan"
     },
     {
@@ -3246,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9454,
+      "stars": 9473,
       "user": "guillaumemeyer"
     },
     {
@@ -3261,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2843,
+      "stars": 2863,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3291,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 483,
       "user": "0xsline"
     },
     {
@@ -3351,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "pgrundev"
     },
     {
@@ -3396,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 112963,
+      "stars": 113190,
       "user": "deepseek-ai"
     },
     {
@@ -3411,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5503,
+      "stars": 5548,
       "user": "anywhere-labs"
     },
     {
@@ -3426,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2637,
+      "stars": 2645,
       "user": "zhu1090093659"
     },
     {
@@ -3456,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1236,
+      "stars": 1237,
       "user": "ccch1mneyyy"
     },
     {
@@ -3471,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "lexmount"
     },
     {
@@ -3501,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 168,
       "user": "Awaker-OTE"
     },
     {
@@ -3520,19 +3535,19 @@
       "user": "smthdagg"
     },
     {
-      "title": "hsusul/lore - GitHub Repository",
-      "url": "https://github.com/hsusul/lore",
-      "published_at": "2026-08-10T22:07:29Z",
-      "description": "Trending GitHub Repository",
+      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "published_at": "2026-08-14T02:36:29Z",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 153,
-      "user": "hsusul"
+      "stars": 154,
+      "user": "hairyf"
     },
     {
       "title": "Flirt: GitHub and Mailing List backends",
