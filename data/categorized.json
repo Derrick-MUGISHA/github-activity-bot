@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "50kg"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8417,
+      "stars": 8476,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "MengMengCode"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "pgrundev"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 99454,
+      "stars": 100066,
       "user": "deepseek-ai"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 833,
       "user": "xiaobright"
     },
     {
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 410,
       "user": "NousResearch"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "panel-zeus"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "50kg"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 99454,
+      "stars": 100066,
       "user": "deepseek-ai"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2608,
+      "stars": 2725,
       "user": "anywhere-labs"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2081,
       "user": "zhu1090093659"
     },
     {
@@ -1376,8 +1376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 985,
       "user": "SaladDay"
+    },
+    {
+      "title": "Content block builder",
+      "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
+      "published_at": "2026-08-15T03:44:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "templates"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "segorev"
     },
     {
       "title": "How to fix image importation problem in PhaserJs",
@@ -1457,7 +1472,7 @@
       "title": "How can I prevent duplicate API requests in JavaScript?",
       "url": "https://stackoverflow.com/questions/79995118/how-can-i-prevent-duplicate-api-requests-in-javascript",
       "published_at": "2026-08-14T14:56:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "asynchronous",
@@ -1471,7 +1486,7 @@
       "title": "Why does my vanilla JavaScript debounce create multiple timers when used inside a React component?",
       "url": "https://stackoverflow.com/questions/79995072/why-does-my-vanilla-javascript-debounce-create-multiple-timers-when-used-inside",
       "published_at": "2026-08-14T11:55:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "reactjs"
@@ -1507,20 +1522,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Robin Jhon"
-    },
-    {
-      "title": "How to query a custom element's internal elements while in the document from a DOMParser()?",
-      "url": "https://stackoverflow.com/questions/79994986/how-to-query-a-custom-elements-internal-elements-while-in-the-document-from-a-d",
-      "published_at": "2026-08-14T04:47:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "custom-element",
-        "domparser"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1793,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8417,
+      "stars": 8476,
       "user": "guillaumemeyer"
     },
     {
@@ -1808,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1426,
+      "stars": 1488,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1823,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1076,
       "user": "Leutenegger"
     },
     {
@@ -1853,7 +1854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1924,19 +1925,6 @@
       "user": "Krishna Kabir"
     },
     {
-      "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
-      "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
-      "published_at": "2026-08-14T15:32:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Juan Castro"
-    },
-    {
       "title": "How to mock a method that returns an asynchronous iterator in a test using pytest-mock?",
       "url": "https://stackoverflow.com/questions/79995036/how-to-mock-a-method-that-returns-an-asynchronous-iterator-in-a-test-using-pytes",
       "published_at": "2026-08-14T08:36:46.000Z",
@@ -1951,6 +1939,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Berry Delight"
+    },
+    {
+      "title": "What is wrong in this Tkinter application?. The threading does not finish when I press the the stop button of the PyScripter IDE",
+      "url": "https://stackoverflow.com/questions/79995125/what-is-wrong-in-this-tkinter-application-the-threading-does-not-finish-when-i",
+      "published_at": "2026-08-14T15:32:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Juan Castro"
     },
     {
       "title": "Socket Emit fail to delivery in multi-worker",
@@ -1984,7 +1985,7 @@
       "title": "How do you ensure in Python that you can open files with the program you created?",
       "url": "https://stackoverflow.com/questions/79995084/how-do-you-ensure-in-python-that-you-can-open-files-with-the-program-you-created",
       "published_at": "2026-08-14T12:44:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python",
         "open-with"
@@ -2364,7 +2365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "50kg"
     },
     {
@@ -2379,7 +2380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8417,
+      "stars": 8476,
       "user": "guillaumemeyer"
     },
     {
@@ -2393,6 +2394,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jvalol"
+    },
+    {
+      "title": "Content block builder",
+      "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
+      "published_at": "2026-08-15T03:44:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "templates"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "segorev"
     },
     {
       "title": "Full Calendar JS does not detect styles",
@@ -2545,7 +2561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2081,
       "user": "zhu1090093659"
     },
     {
@@ -3071,7 +3087,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3200,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 833,
       "user": "xiaobright"
     },
     {
@@ -3215,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 410,
       "user": "NousResearch"
     },
     {
@@ -3245,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 311,
       "user": "panel-zeus"
     },
     {
@@ -3260,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 230,
       "user": "50kg"
     },
     {
@@ -3275,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 8417,
+      "stars": 8476,
       "user": "guillaumemeyer"
     },
     {
@@ -3290,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 1426,
+      "stars": 1488,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3305,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1076,
       "user": "Leutenegger"
     },
     {
@@ -3335,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3350,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "MengMengCode"
     },
     {
@@ -3380,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "pgrundev"
     },
     {
@@ -3425,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 99454,
+      "stars": 100066,
       "user": "deepseek-ai"
     },
     {
@@ -3440,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 2608,
+      "stars": 2725,
       "user": "anywhere-labs"
     },
     {
@@ -3455,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2081,
       "user": "zhu1090093659"
     },
     {
@@ -3485,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92240037?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 985,
       "user": "SaladDay"
     },
     {
