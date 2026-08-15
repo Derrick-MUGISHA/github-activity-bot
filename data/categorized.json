@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9685,
+      "stars": 9700,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "MengMengCode"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114775,
+      "stars": 114905,
       "user": "deepseek-ai"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "lexmount"
     },
     {
@@ -764,7 +764,7 @@
       "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
       "url": "https://stackoverflow.com/questions/79995432/xarray-change-subset-of-values-of-dataset-variable-obtained-from-pandas-datafram",
       "published_at": "2026-08-15T21:19:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -1244,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2166,
+      "stars": 2170,
       "user": "xiaobright"
     },
     {
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114775,
+      "stars": 114905,
       "user": "deepseek-ai"
     },
     {
@@ -1334,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5781,
+      "stars": 5804,
       "user": "anywhere-labs"
     },
     {
@@ -1349,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2695,
+      "stars": 2699,
       "user": "zhu1090093659"
     },
     {
@@ -1379,12 +1379,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1258,
       "user": "ccch1mneyyy"
     },
     {
-      "title": "How to repeat-print a string with a decreasing number in it with each repeat-print",
-      "url": "https://stackoverflow.com/questions/79995446/how-to-repeat-print-a-string-with-a-decreasing-number-in-it-with-each-repeat-pri",
+      "title": "How to repeat-print a string with a number in it that increases with each repeat-print",
+      "url": "https://stackoverflow.com/questions/79995446/how-to-repeat-print-a-string-with-a-number-in-it-that-increases-with-each-repeat",
       "published_at": "2026-08-15T22:20:26.000Z",
       "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
@@ -1514,19 +1514,18 @@
       "user": "NormB"
     },
     {
-      "title": "How can I convert a date between IANA time zones in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79995156/how-can-i-convert-a-date-between-iana-time-zones-in-javascript",
-      "published_at": "2026-08-14T16:59:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How can I prevent duplicate API requests in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79995118/how-can-i-prevent-duplicate-api-requests-in-javascript",
+      "published_at": "2026-08-14T14:56:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
-        "time",
-        "zone",
-        "utilities"
+        "asynchronous",
+        "fetch-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Waqas Solangi"
+      "user": "Build With Hassan"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1799,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9685,
+      "stars": 9700,
       "user": "guillaumemeyer"
     },
     {
@@ -1814,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2975,
+      "stars": 2976,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1829,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1122,
       "user": "Leutenegger"
     },
     {
@@ -1866,7 +1865,7 @@
       "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
       "url": "https://stackoverflow.com/questions/79995432/xarray-change-subset-of-values-of-dataset-variable-obtained-from-pandas-datafram",
       "published_at": "2026-08-15T21:19:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -1890,9 +1889,9 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
-      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
-      "published_at": "2026-08-15T20:41:45.000Z",
+      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
+      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
+      "published_at": "2026-08-15T20:48:56.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
@@ -1903,9 +1902,9 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
-      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
-      "published_at": "2026-08-15T20:48:56.000Z",
+      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
+      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
+      "published_at": "2026-08-15T20:41:45.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
@@ -2369,7 +2368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9685,
+      "stars": 9700,
       "user": "guillaumemeyer"
     },
     {
@@ -2551,7 +2550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2695,
+      "stars": 2699,
       "user": "zhu1090093659"
     }
   ],
@@ -3160,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2166,
+      "stars": 2170,
       "user": "xiaobright"
     },
     {
@@ -3235,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9685,
+      "stars": 9700,
       "user": "guillaumemeyer"
     },
     {
@@ -3250,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2975,
+      "stars": 2976,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3265,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1122,
       "user": "Leutenegger"
     },
     {
@@ -3310,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "MengMengCode"
     },
     {
@@ -3385,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 114775,
+      "stars": 114905,
       "user": "deepseek-ai"
     },
     {
@@ -3400,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5781,
+      "stars": 5804,
       "user": "anywhere-labs"
     },
     {
@@ -3415,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2695,
+      "stars": 2699,
       "user": "zhu1090093659"
     },
     {
@@ -3445,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1258,
       "user": "ccch1mneyyy"
     },
     {
@@ -3460,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "lexmount"
     },
     {
