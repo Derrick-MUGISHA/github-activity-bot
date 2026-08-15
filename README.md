@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a) | Dev.to |
 | 20 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 01:23:57 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 01:45:38 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — How would you optimize a React app's performance?**
+**1. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-**2. `DataStructures` — Find the longest substring without repeating characters**
+**2. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**3. `React` — What are hooks and why were they introduced?**
+**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 15 Aug 2026 23:23:57 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 15 Aug 2026 23:45:38 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
