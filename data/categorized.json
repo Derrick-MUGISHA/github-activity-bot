@@ -494,18 +494,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
-      "url": "https://www.armaansahni.com/game/",
-      "published_at": "2024-12-03T22:08:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "veesahni"
-    },
-    {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "published_at": "2026-05-11T20:45:55Z",
@@ -553,7 +541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "ysr666"
     },
     {
@@ -568,7 +556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11311,
+      "stars": 11354,
       "user": "guillaumemeyer"
     },
     {
@@ -583,7 +571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "xinxinshuhao-create"
     },
     {
@@ -628,7 +616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130982,
+      "stars": 131067,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "lexmount"
     },
     {
@@ -1111,126 +1099,6 @@
       "user": "Muhammad Ammar"
     },
     {
-      "title": "Yarn – A new package manager for JavaScript",
-      "url": "https://code.facebook.com/posts/1840075619545360",
-      "published_at": "2016-10-11T15:00:38Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "cpojer"
-    },
-    {
-      "title": "A spreadsheet in fewer than 30 lines of JavaScript, no library used",
-      "url": "http://jsfiddle.net/ondras/hYfN3/",
-      "published_at": "2013-11-13T14:38:18Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ondras"
-    },
-    {
-      "title": "Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig",
-      "url": "https://bun.sh/?launch",
-      "published_at": "2022-07-05T20:41:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "firloop"
-    },
-    {
-      "title": "JavaScript Temporal is coming",
-      "url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
-      "published_at": "2025-01-30T11:28:31Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "SigmundurM"
-    },
-    {
-      "title": "Show HN: Meteor, a realtime JavaScript framework",
-      "url": "http://www.meteor.com",
-      "published_at": "2012-04-10T22:55:40Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "geoffschmidt"
-    },
-    {
-      "title": "Eloquent JavaScript 4th edition (2024)",
-      "url": "https://eloquentjavascript.net/",
-      "published_at": "2024-03-07T13:52:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "vajdagabor"
-    },
-    {
-      "title": "Modern Javascript: Everything you missed over the last 10 years (2020)",
-      "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
-      "published_at": "2021-05-15T15:15:57Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "EntICOnc"
-    },
-    {
-      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
-      "url": "https://www.armaansahni.com/game/",
-      "published_at": "2024-12-03T22:08:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "veesahni"
-    },
-    {
-      "title": "Draw SVG rope using JavaScript",
-      "url": "https://muffinman.io/blog/draw-svg-rope-using-javascript/",
-      "published_at": "2022-12-31T15:43:54Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "stanko"
-    },
-    {
-      "title": "How to manage HTML DOM with vanilla JavaScript only?",
-      "url": "https://htmldom.dev/",
-      "published_at": "2020-04-02T12:29:04Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "velmu"
-    },
-    {
       "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "url": "https://github.com/xiaobright/dsh-anchored-standard",
       "published_at": "2026-08-14T14:06:39Z",
@@ -1242,7 +1110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3013,
+      "stars": 3014,
       "user": "xiaobright"
     },
     {
@@ -1257,7 +1125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "NousResearch"
     },
     {
@@ -1302,7 +1170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "ysr666"
     },
     {
@@ -1317,7 +1185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130982,
+      "stars": 131067,
       "user": "deepseek-ai"
     },
     {
@@ -1332,7 +1200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8852,
+      "stars": 8861,
       "user": "anywhere-labs"
     },
     {
@@ -1347,7 +1215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3418,
+      "stars": 3419,
       "user": "zhu1090093659"
     },
     {
@@ -1377,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1653,
       "user": "dmmulroy"
     },
     {
@@ -1796,7 +1664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "ysr666"
     },
     {
@@ -1811,7 +1679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11311,
+      "stars": 11354,
       "user": "guillaumemeyer"
     },
     {
@@ -1826,7 +1694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5072,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1871,14 +1739,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "xinxinshuhao-create"
     },
     {
       "title": "Looking for a Data Science Study Partner (Beginner)",
       "url": "https://stackoverflow.com/questions/79995651/looking-for-a-data-science-study-partner-beginner",
       "published_at": "2026-08-16T22:26:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "advice",
         "python",
@@ -2325,18 +2193,6 @@
       "user": "Jessica Doering"
     },
     {
-      "title": "How to manage HTML DOM with vanilla JavaScript only?",
-      "url": "https://htmldom.dev/",
-      "published_at": "2020-04-02T12:29:04Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "velmu"
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -2348,7 +2204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11311,
+      "stars": 11354,
       "user": "guillaumemeyer"
     },
     {
@@ -2487,7 +2343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3418,
+      "stars": 3419,
       "user": "zhu1090093659"
     }
   ],
@@ -2996,7 +2852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3140,7 +2996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3013,
+      "stars": 3014,
       "user": "xiaobright"
     },
     {
@@ -3155,7 +3011,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 584,
       "user": "NousResearch"
     },
     {
@@ -3200,7 +3056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 430,
       "user": "ysr666"
     },
     {
@@ -3215,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11311,
+      "stars": 11354,
       "user": "guillaumemeyer"
     },
     {
@@ -3230,7 +3086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5059,
+      "stars": 5072,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3275,7 +3131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3365,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130982,
+      "stars": 131067,
       "user": "deepseek-ai"
     },
     {
@@ -3380,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8852,
+      "stars": 8861,
       "user": "anywhere-labs"
     },
     {
@@ -3395,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3418,
+      "stars": 3419,
       "user": "zhu1090093659"
     },
     {
@@ -3425,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1653,
       "user": "dmmulroy"
     },
     {
@@ -3440,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 404,
       "user": "lexmount"
     },
     {
