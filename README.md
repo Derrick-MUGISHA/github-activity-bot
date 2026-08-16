@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
 | 20 | [Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 08:06:58 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 08:59:43 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the longest substring without repeating characters**
+**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
-**2. `DataStructures` — Find the median of two sorted arrays**
+**2. `DataStructures` — Implement a function to reverse a linked list**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Iterative or recursive, three pointers
 
 </details>
 
-**3. `SystemDesign` — Design Twitter's timeline feature**
+**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Execution timing, event loop phases
 
 </details>
 
@@ -165,14 +165,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 68 | 37.0% | `████████████████████` |
-| **JavaScript** | 44 | 23.9% | `█████████████░░░░░░░` |
-| **Tools** | 38 | 20.7% | `███████████░░░░░░░░░` |
-| **Python** | 33 | 17.9% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 45 | 24.5% | `█████████████░░░░░░░` |
+| **Tools** | 37 | 20.1% | `███████████░░░░░░░░░` |
+| **Python** | 34 | 18.5% | `██████████░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
-| **WebDev** | 16 | 8.7% | `█████░░░░░░░░░░░░░░░` |
+| **WebDev** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.0%
-Go              ████████████████████████ 22.3%
-Java            ████████████████████████ 22.3%
-Python          ███████████████████████ 21.0%
+JavaScript      ██████████████████████████████ 28.3%
+Go              ███████████████████████ 22.0%
+Java            ███████████████████████ 22.0%
+Python          ███████████████████████ 21.4%
 Rust            ████ 3.8%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -208,10 +208,10 @@ PHP             █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 44
+    "JavaScript" : 45
     "Go" : 35
     "Java" : 35
-    "Python" : 33
+    "Python" : 34
     "Rust" : 6
     "CSharp" : 1
     "Swift" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 06:06:58 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 06:59:43 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
