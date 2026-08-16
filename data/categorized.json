@@ -239,6 +239,21 @@
       "user": "Anna Villarreal"
     },
     {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
+    },
+    {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
       "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
       "published_at": "2026-08-10T14:50:38Z",
@@ -557,21 +572,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "50kg"
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9717,
+      "stars": 9783,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 434,
       "user": "xinxinshuhao-create"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "pgrundev"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "trefeon"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 115104,
+      "stars": 116202,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1742,
       "user": "SMNETSTUDIO"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 344,
       "user": "lexmount"
     },
     {
@@ -703,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 164,
       "user": "hairyf"
     },
     {
@@ -744,6 +744,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "senekor"
+    },
+    {
+      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
+      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
+      "published_at": "2026-08-16T00:35:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "ruby-on-rails"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scott"
     },
     {
       "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
@@ -1229,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2179,
+      "stars": 2227,
       "user": "xiaobright"
     },
     {
@@ -1244,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 505,
       "user": "NousResearch"
     },
     {
@@ -1274,23 +1288,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 288,
       "user": "myYangyunfan"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "published_at": "2026-08-15T06:10:13Z",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 259,
-      "user": "50kg"
+      "stars": 275,
+      "user": "SheberDavid"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1304,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 115104,
+      "stars": 116202,
       "user": "deepseek-ai"
     },
     {
@@ -1319,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5842,
+      "stars": 6041,
       "user": "anywhere-labs"
     },
     {
@@ -1334,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2705,
+      "stars": 2747,
       "user": "zhu1090093659"
     },
     {
@@ -1349,23 +1363,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1742,
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "ccch1mneyyy/dsh-TUI - 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "published_at": "2026-08-13T12:49:31Z",
-      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "title": "dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "published_at": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1261,
-      "user": "ccch1mneyyy"
+      "stars": 1290,
+      "user": "dmmulroy"
+    },
+    {
+      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
+      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
+      "published_at": "2026-08-16T00:35:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "ruby-on-rails"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scott"
     },
     {
       "title": "How to repeat-print a string with a number in it that increases with each repeat-print",
@@ -1497,20 +1525,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NormB"
-    },
-    {
-      "title": "How can I prevent duplicate API requests in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79995118/how-can-i-prevent-duplicate-api-requests-in-javascript",
-      "published_at": "2026-08-14T14:56:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "asynchronous",
-        "fetch-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Build With Hassan"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1783,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9717,
+      "stars": 9783,
       "user": "guillaumemeyer"
     },
     {
@@ -1798,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2985,
+      "stars": 3051,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1813,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1127,
       "user": "Leutenegger"
     },
     {
@@ -1828,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 497,
       "user": "0xsline"
     },
     {
@@ -1843,8 +1857,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 434,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "Python/SQLAlchemy TypeError: Incompatible collection type: str is not list-like",
+      "url": "https://stackoverflow.com/questions/79995463/python-sqlalchemy-typeerror-incompatible-collection-type-str-is-not-list-like",
+      "published_at": "2026-08-16T00:20:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dr_colossus"
     },
     {
       "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
@@ -1874,9 +1901,9 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
-      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
-      "published_at": "2026-08-15T20:48:56.000Z",
+      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
+      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
+      "published_at": "2026-08-15T20:41:45.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
@@ -1887,9 +1914,9 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
-      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
-      "published_at": "2026-08-15T20:41:45.000Z",
+      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
+      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
+      "published_at": "2026-08-15T20:48:56.000Z",
       "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
@@ -1916,7 +1943,7 @@
       "title": "How to draw a radial axis in polar coordinate with matplotlib?",
       "url": "https://stackoverflow.com/questions/79995352/how-to-draw-a-radial-axis-in-polar-coordinate-with-matplotlib",
       "published_at": "2026-08-15T12:50:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "matplotlib",
@@ -1967,20 +1994,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pfalbaum"
-    },
-    {
-      "title": "Yocto recipe that depends on a local file",
-      "url": "https://stackoverflow.com/questions/79995206/yocto-recipe-that-depends-on-a-local-file",
-      "published_at": "2026-08-14T20:41:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "dependencies",
-        "yocto-recipe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David C."
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2327,21 +2340,6 @@
       "user": "velmu"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
-      "source": "GitHub",
-      "stars": 259,
-      "user": "50kg"
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -2353,7 +2351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9717,
+      "stars": 9783,
       "user": "guillaumemeyer"
     },
     {
@@ -2535,7 +2533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2705,
+      "stars": 2747,
       "user": "zhu1090093659"
     }
   ],
@@ -2599,6 +2597,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -2765,6 +2778,19 @@
       "user": "iancarroll"
     },
     {
+      "title": "Python/SQLAlchemy TypeError: Incompatible collection type: str is not list-like",
+      "url": "https://stackoverflow.com/questions/79995463/python-sqlalchemy-typeerror-incompatible-collection-type-str-is-not-list-like",
+      "published_at": "2026-08-16T00:20:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dr_colossus"
+    },
+    {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
       "published_at": "2026-08-13T17:38:27.000Z",
@@ -2811,6 +2837,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
+    },
+    {
+      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
+      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
+      "published_at": "2026-08-12T15:45:27Z",
+      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "tags": [
+        "cloudrun",
+        "geminienterpriseagentplatform",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "source": "Dev.to",
+      "user": "Caleb Duff"
     },
     {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
@@ -2986,7 +3027,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 434,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3144,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2179,
+      "stars": 2227,
       "user": "xiaobright"
     },
     {
@@ -3159,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 505,
       "user": "NousResearch"
     },
     {
@@ -3189,23 +3230,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 288,
       "user": "myYangyunfan"
     },
     {
-      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
-      "url": "https://github.com/50kg/image-to-slice",
-      "published_at": "2026-08-10T15:29:27Z",
-      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "published_at": "2026-08-15T06:10:13Z",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 259,
-      "user": "50kg"
+      "stars": 275,
+      "user": "SheberDavid"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3219,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9717,
+      "stars": 9783,
       "user": "guillaumemeyer"
     },
     {
@@ -3234,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2985,
+      "stars": 3051,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3249,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1127,
       "user": "Leutenegger"
     },
     {
@@ -3264,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 497,
       "user": "0xsline"
     },
     {
@@ -3279,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 434,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3294,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 156,
       "user": "pgrundev"
     },
     {
@@ -3309,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 116,
+      "stars": 117,
       "user": "WongLoki"
     },
     {
@@ -3324,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "WongLoki"
     },
     {
@@ -3339,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "trefeon"
     },
     {
@@ -3354,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 83,
       "user": "zepto-labs"
     },
     {
@@ -3369,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 115104,
+      "stars": 116202,
       "user": "deepseek-ai"
     },
     {
@@ -3384,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5842,
+      "stars": 6041,
       "user": "anywhere-labs"
     },
     {
@@ -3399,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2705,
+      "stars": 2747,
       "user": "zhu1090093659"
     },
     {
@@ -3414,23 +3455,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1733,
+      "stars": 1742,
       "user": "SMNETSTUDIO"
     },
     {
-      "title": "ccch1mneyyy/dsh-TUI - 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "published_at": "2026-08-13T12:49:31Z",
-      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "title": "dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "published_at": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1261,
-      "user": "ccch1mneyyy"
+      "stars": 1290,
+      "user": "dmmulroy"
     },
     {
       "title": "lexmount/moli - Best browser for AI agents, built in Rust.",
@@ -3444,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 344,
       "user": "lexmount"
     },
     {
@@ -3474,8 +3515,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 164,
       "user": "hairyf"
+    },
+    {
+      "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "url": "https://github.com/hsusul/lore",
+      "published_at": "2026-08-10T22:07:29Z",
+      "description": "git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
+      "source": "GitHub",
+      "stars": 155,
+      "user": "hsusul"
     },
     {
       "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
@@ -3491,21 +3547,6 @@
       "source": "GitHub",
       "stars": 155,
       "user": "smthdagg"
-    },
-    {
-      "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
-      "url": "https://github.com/hsusul/lore",
-      "published_at": "2026-08-10T22:07:29Z",
-      "description": "git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
-      "source": "GitHub",
-      "stars": 154,
-      "user": "hsusul"
     },
     {
       "title": "Flirt: GitHub and Mailing List backends",
