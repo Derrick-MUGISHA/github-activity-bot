@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 20 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 17:32:12 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 17:54:42 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `NodeJS` — Implement rate limiting for an API**
+**2. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Ownership, mutability, data flow direction
 
 </details>
 
-**3. `Python` — What is the difference between list and tuple in Python?**
+**3. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -164,13 +164,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 66 | 36.5% | `████████████████████` |
+| **AI** | 67 | 37.0% | `████████████████████` |
 | **JavaScript** | 44 | 24.3% | `█████████████░░░░░░░` |
 | **Tools** | 39 | 21.5% | `████████████░░░░░░░░` |
-| **Python** | 34 | 18.8% | `██████████░░░░░░░░░░` |
+| **Python** | 35 | 19.3% | `██████████░░░░░░░░░░` |
 | **Security** | 20 | 11.0% | `██████░░░░░░░░░░░░░░` |
-| **WebDev** | 15 | 8.3% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 15 | 8.3% | `█████░░░░░░░░░░░░░░░` |
+| **WebDev** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.7%
-Go              ████████████████████████ 22.6%
-Python          ███████████████████████ 21.4%
-Java            ███████████████████████ 21.4%
+JavaScript      ██████████████████████████████ 27.5%
+Go              █████████████████████████ 22.5%
+Python          ████████████████████████ 21.9%
+Java            ███████████████████████ 21.3%
 Rust            █████ 4.4%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -210,7 +210,7 @@ PHP             █ 0.6%
 pie title Programming Languages Distribution
     "JavaScript" : 44
     "Go" : 36
-    "Python" : 34
+    "Python" : 35
     "Java" : 34
     "Rust" : 7
     "CSharp" : 1
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 15:32:12 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 15:54:42 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
