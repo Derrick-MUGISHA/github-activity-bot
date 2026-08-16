@@ -45,21 +45,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "tags": [
-        "opensource",
-        "devops",
-        "docker",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Looker's Native MCP Server with Claude Code",
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
       "published_at": "2026-08-14T14:00:55Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "tags": [
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "ysr666"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10847,
+      "stars": 10907,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 129584,
+      "stars": 129763,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "lexmount"
     },
     {
@@ -722,7 +722,7 @@
       "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
       "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
       "published_at": "2026-08-16T12:13:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2970,
+      "stars": 2974,
       "user": "xiaobright"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "NousResearch"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 532,
       "user": "zouyuxuan122"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 481,
       "user": "SheberDavid"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "ysr666"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 129584,
+      "stars": 129763,
       "user": "deepseek-ai"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8735,
+      "stars": 8750,
       "user": "anywhere-labs"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3371,
+      "stars": 3380,
       "user": "zhu1090093659"
     },
     {
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1571,
       "user": "dmmulroy"
     },
     {
@@ -1429,7 +1429,7 @@
       "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
       "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
       "published_at": "2026-08-16T12:13:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -1826,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "ysr666"
     },
     {
@@ -1841,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10847,
+      "stars": 10907,
       "user": "guillaumemeyer"
     },
     {
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4871,
+      "stars": 4904,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1871,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1147,
       "user": "Leutenegger"
     },
     {
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "0xsline"
     },
     {
@@ -2391,14 +2391,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10847,
+      "stars": 10907,
       "user": "guillaumemeyer"
     },
     {
       "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
       "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
       "published_at": "2026-08-16T12:13:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -2545,14 +2545,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3371,
+      "stars": 3380,
       "user": "zhu1090093659"
     },
     {
       "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
       "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
       "published_at": "2026-08-16T12:13:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -3225,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2970,
+      "stars": 2974,
       "user": "xiaobright"
     },
     {
@@ -3240,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 562,
       "user": "NousResearch"
     },
     {
@@ -3255,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 532,
       "user": "zouyuxuan122"
     },
     {
@@ -3270,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 481,
       "user": "SheberDavid"
     },
     {
@@ -3285,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 419,
       "user": "ysr666"
     },
     {
@@ -3300,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10847,
+      "stars": 10907,
       "user": "guillaumemeyer"
     },
     {
@@ -3315,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4871,
+      "stars": 4904,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3330,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1147,
       "user": "Leutenegger"
     },
     {
@@ -3345,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 592,
       "user": "0xsline"
     },
     {
@@ -3450,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 129584,
+      "stars": 129763,
       "user": "deepseek-ai"
     },
     {
@@ -3465,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8735,
+      "stars": 8750,
       "user": "anywhere-labs"
     },
     {
@@ -3480,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3371,
+      "stars": 3380,
       "user": "zhu1090093659"
     },
     {
@@ -3510,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1563,
+      "stars": 1571,
       "user": "dmmulroy"
     },
     {
@@ -3525,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 403,
       "user": "lexmount"
     },
     {
