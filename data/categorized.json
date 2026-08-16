@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11221,
+      "stars": 11261,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130706,
+      "stars": 130808,
       "user": "deepseek-ai"
     },
     {
@@ -705,18 +705,6 @@
       "source": "GitHub",
       "stars": 160,
       "user": "smthdagg"
-    },
-    {
-      "title": "Why I remain a skeptic",
-      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-      "published_at": "2026-08-15T08:29:59.029-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jbauer"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -1254,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3007,
+      "stars": 3009,
       "user": "xiaobright"
     },
     {
@@ -1269,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "NousResearch"
     },
     {
@@ -1284,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "zouyuxuan122"
     },
     {
@@ -1299,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "SheberDavid"
     },
     {
@@ -1329,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130706,
+      "stars": 130808,
       "user": "deepseek-ai"
     },
     {
@@ -1344,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8822,
+      "stars": 8832,
       "user": "anywhere-labs"
     },
     {
@@ -1359,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3414,
+      "stars": 3416,
       "user": "zhu1090093659"
     },
     {
@@ -1389,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1627,
+      "stars": 1638,
       "user": "dmmulroy"
     },
     {
@@ -1509,22 +1497,6 @@
       "user": "Robin Jhon"
     },
     {
-      "title": "Full Calendar JS does not detect styles",
-      "url": "https://stackoverflow.com/questions/79995220/full-calendar-js-does-not-detect-styles",
-      "published_at": "2026-08-14T22:02:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "blazor",
-        "fullcalendar",
-        "fullcalendar-7"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CGalindoFlex"
-    },
-    {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
@@ -1538,6 +1510,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
+    },
+    {
+      "title": "Playwright tests are no longer detected after updating VS Code / Playwright",
+      "url": "https://stackoverflow.com/questions/79993707/playwright-tests-are-no-longer-detected-after-updating-vs-code-playwright",
+      "published_at": "2026-08-13T06:40:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "visual-studio-code",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hila Ben Simon"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1825,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11221,
+      "stars": 11261,
       "user": "guillaumemeyer"
     },
     {
@@ -1840,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5017,
+      "stars": 5036,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1892,7 +1878,7 @@
       "title": "Create a board on the console for the game tic tac toe",
       "url": "https://stackoverflow.com/questions/79995636/create-a-board-on-the-console-for-the-game-tic-tac-toe",
       "published_at": "2026-08-16T20:56:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -2",
       "tags": [
         "python"
       ],
@@ -2363,7 +2349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11221,
+      "stars": 11261,
       "user": "guillaumemeyer"
     },
     {
@@ -2380,22 +2366,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "segorev"
-    },
-    {
-      "title": "Full Calendar JS does not detect styles",
-      "url": "https://stackoverflow.com/questions/79995220/full-calendar-js-does-not-detect-styles",
-      "published_at": "2026-08-14T22:02:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "blazor",
-        "fullcalendar",
-        "fullcalendar-7"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "CGalindoFlex"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
@@ -2518,7 +2488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3414,
+      "stars": 3416,
       "user": "zhu1090093659"
     }
   ],
@@ -3171,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3007,
+      "stars": 3009,
       "user": "xiaobright"
     },
     {
@@ -3186,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "NousResearch"
     },
     {
@@ -3201,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "zouyuxuan122"
     },
     {
@@ -3216,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 490,
       "user": "SheberDavid"
     },
     {
@@ -3246,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11221,
+      "stars": 11261,
       "user": "guillaumemeyer"
     },
     {
@@ -3261,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5017,
+      "stars": 5036,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3396,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130706,
+      "stars": 130808,
       "user": "deepseek-ai"
     },
     {
@@ -3411,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8822,
+      "stars": 8832,
       "user": "anywhere-labs"
     },
     {
@@ -3426,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3414,
+      "stars": 3416,
       "user": "zhu1090093659"
     },
     {
@@ -3456,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1627,
+      "stars": 1638,
       "user": "dmmulroy"
     },
     {
