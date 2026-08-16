@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10792,
+      "stars": 10847,
       "user": "guillaumemeyer"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "xinxinshuhao-create"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "pgrundev"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 129438,
+      "stars": 129584,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "lexmount"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "hairyf"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2960,
+      "stars": 2970,
       "user": "xiaobright"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "NousResearch"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "zouyuxuan122"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 479,
       "user": "SheberDavid"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 129438,
+      "stars": 129584,
       "user": "deepseek-ai"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8725,
+      "stars": 8735,
       "user": "anywhere-labs"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3364,
+      "stars": 3371,
       "user": "zhu1090093659"
     },
     {
@@ -1406,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1563,
       "user": "dmmulroy"
     },
     {
@@ -1841,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10792,
+      "stars": 10847,
       "user": "guillaumemeyer"
     },
     {
@@ -1856,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4840,
+      "stars": 4871,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "0xsline"
     },
     {
@@ -1901,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1915,6 +1915,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ubernostrum"
+    },
+    {
+      "title": "KafkaAdminClient and threads in kafka-python",
+      "url": "https://stackoverflow.com/questions/79995601/kafkaadminclient-and-threads-in-kafka-python",
+      "published_at": "2026-08-16T17:22:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "multithreading",
+        "kafka-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Agent"
     },
     {
       "title": "Scan directories and copy those that have more than n files",
@@ -2027,19 +2041,6 @@
       "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
       "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
       "published_at": "2026-08-15T20:48:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
-    },
-    {
-      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
-      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
-      "published_at": "2026-08-15T20:41:45.000Z",
       "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
@@ -2390,7 +2391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10792,
+      "stars": 10847,
       "user": "guillaumemeyer"
     },
     {
@@ -2544,7 +2545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3364,
+      "stars": 3371,
       "user": "zhu1090093659"
     },
     {
@@ -3067,7 +3068,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3224,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2960,
+      "stars": 2970,
       "user": "xiaobright"
     },
     {
@@ -3239,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 560,
       "user": "NousResearch"
     },
     {
@@ -3254,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "zouyuxuan122"
     },
     {
@@ -3269,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 479,
       "user": "SheberDavid"
     },
     {
@@ -3299,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10792,
+      "stars": 10847,
       "user": "guillaumemeyer"
     },
     {
@@ -3314,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4840,
+      "stars": 4871,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3344,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 591,
       "user": "0xsline"
     },
     {
@@ -3359,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 442,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3374,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "pgrundev"
     },
     {
@@ -3449,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 129438,
+      "stars": 129584,
       "user": "deepseek-ai"
     },
     {
@@ -3464,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8725,
+      "stars": 8735,
       "user": "anywhere-labs"
     },
     {
@@ -3479,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3364,
+      "stars": 3371,
       "user": "zhu1090093659"
     },
     {
@@ -3509,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1556,
+      "stars": 1563,
       "user": "dmmulroy"
     },
     {
@@ -3524,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "lexmount"
     },
     {
@@ -3539,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 280,
       "user": "hairyf"
     },
     {
@@ -3584,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "hsusul"
     },
     {
