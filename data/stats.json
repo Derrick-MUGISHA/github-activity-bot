@@ -1,40 +1,40 @@
 {
-  "total": 176,
+  "total": 181,
   "by_source": {
     "Dev.to": 57,
     "HackerNews": 49,
-    "GitHub": 20,
+    "GitHub": 25,
     "Lobste.rs": 10,
     "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 68,
-    "JavaScript": 39,
-    "Python": 34,
+    "AI": 69,
+    "JavaScript": 44,
+    "Python": 35,
     "DevOps": 13,
     "WebDev": 15,
     "Mobile": 5,
     "Cloud": 15,
     "Database": 4,
     "Security": 19,
-    "Tools": 34
+    "Tools": 39
   },
   "by_language": {
-    "Python": 34,
-    "JavaScript": 39,
+    "Python": 35,
+    "JavaScript": 44,
     "Rust": 8,
-    "Go": 34,
+    "Go": 36,
     "CSharp": 1,
-    "Java": 29,
+    "Java": 34,
     "Swift": 1,
     "Ruby": 1,
     "PHP": 1
   },
   "by_date": {
-    "2026-08-14": 17,
-    "2026-08-13": 19,
+    "2026-08-14": 19,
+    "2026-08-13": 21,
     "2026-08-12": 6,
     "2026-08-10": 10,
     "2026-08-05": 3,
@@ -101,15 +101,15 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-16": 13,
-    "2026-08-15": 21
+    "2026-08-15": 22,
+    "2026-08-16": 13
   },
   "top_tags": {
+    "github": 25,
+    "open-source": 25,
     "python": 21,
-    "github": 20,
-    "open-source": 20,
+    "javascript": 20,
     "AI": 16,
-    "javascript": 15,
     "devchallenge": 13,
     "JavaScript": 13,
     "Python": 12,
@@ -119,8 +119,8 @@
     "discuss": 9,
     "programming": 8,
     "webdev": 8,
+    "go": 8,
     "agents": 7,
-    "go": 7,
     "typescript": 7,
     "bugsmash": 6,
     "aws": 6,
@@ -128,14 +128,14 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "23.0",
-    "JavaScript": "26.4",
-    "Rust": "5.4",
-    "Go": "23.0",
-    "CSharp": "0.7",
-    "Java": "19.6",
-    "Swift": "0.7",
-    "Ruby": "0.7",
-    "PHP": "0.7"
+    "Python": "21.7",
+    "JavaScript": "27.3",
+    "Rust": "5.0",
+    "Go": "22.4",
+    "CSharp": "0.6",
+    "Java": "21.1",
+    "Swift": "0.6",
+    "Ruby": "0.6",
+    "PHP": "0.6"
   }
 }
