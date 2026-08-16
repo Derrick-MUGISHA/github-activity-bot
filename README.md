@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 20 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 15:06:06 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 15:44:22 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is the difference between SQL and NoSQL databases?**
+**1. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-**2. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
+**2. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Scope, hoisting, and reassignment capabilities
+> B-tree, trade-offs, query performance
 
 </details>
 
-**3. `Database` — Design a database schema for a social media platform**
+**3. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -165,8 +165,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 66 | 36.3% | `████████████████████` |
-| **JavaScript** | 45 | 24.7% | `██████████████░░░░░░` |
-| **Tools** | 38 | 20.9% | `████████████░░░░░░░░` |
+| **JavaScript** | 44 | 24.2% | `█████████████░░░░░░░` |
+| **Tools** | 39 | 21.4% | `████████████░░░░░░░░` |
 | **Python** | 34 | 18.7% | `██████████░░░░░░░░░░` |
 | **Security** | 20 | 11.0% | `██████░░░░░░░░░░░░░░` |
 | **WebDev** | 15 | 8.2% | `█████░░░░░░░░░░░░░░░` |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1%
-Go              ████████████████████████ 22.5%
-Java            ███████████████████████ 21.9%
-Python          ███████████████████████ 21.3%
+JavaScript      ██████████████████████████████ 27.8%
+Go              █████████████████████████ 22.8%
+Python          ███████████████████████ 21.5%
+Java            ███████████████████████ 21.5%
 Rust            ████ 3.8%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -208,10 +208,10 @@ PHP             █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 45
+    "JavaScript" : 44
     "Go" : 36
-    "Java" : 35
     "Python" : 34
+    "Java" : 34
     "Rust" : 6
     "CSharp" : 1
     "Swift" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-34-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
+![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-33-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 13:06:06 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 13:44:22 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
