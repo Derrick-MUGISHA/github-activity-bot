@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10484,
+      "stars": 10510,
       "user": "guillaumemeyer"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "xinxinshuhao-create"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "pgrundev"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 126843,
+      "stars": 127357,
       "user": "deepseek-ai"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1763,
       "user": "SMNETSTUDIO"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "lexmount"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "hairyf"
     },
     {
@@ -721,7 +721,7 @@
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
       "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
       "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "ruby-on-rails"
@@ -1227,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2816,
+      "stars": 2840,
       "user": "xiaobright"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "NousResearch"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 488,
       "user": "zouyuxuan122"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "SheberDavid"
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 126843,
+      "stars": 127357,
       "user": "deepseek-ai"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8271,
+      "stars": 8384,
       "user": "anywhere-labs"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3244,
+      "stars": 3271,
       "user": "zhu1090093659"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1763,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1362,14 +1362,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1505,
       "user": "dmmulroy"
+    },
+    {
+      "title": "How to reliably parse Excel files when the sheet structure keeps changing?",
+      "url": "https://stackoverflow.com/questions/79995574/how-to-reliably-parse-excel-files-when-the-sheet-structure-keeps-changing",
+      "published_at": "2026-08-16T14:09:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "excel",
+        "xlsx",
+        "sheetjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milan"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
       "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
       "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "ruby-on-rails"
@@ -1495,19 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "leo"
-    },
-    {
-      "title": "How to handle invalid date in Flatpickr",
-      "url": "https://stackoverflow.com/questions/79995134/how-to-handle-invalid-date-in-flatpickr",
-      "published_at": "2026-08-14T15:55:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "flatpickr"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NormB"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1780,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10484,
+      "stars": 10510,
       "user": "guillaumemeyer"
     },
     {
@@ -1795,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4368,
+      "stars": 4453,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1825,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 582,
       "user": "0xsline"
     },
     {
@@ -1840,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "xinxinshuhao-create"
     },
     {
@@ -2329,7 +2332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10484,
+      "stars": 10510,
       "user": "guillaumemeyer"
     },
     {
@@ -2484,7 +2487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3244,
+      "stars": 3271,
       "user": "zhu1090093659"
     }
   ],
@@ -2993,7 +2996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3166,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2816,
+      "stars": 2840,
       "user": "xiaobright"
     },
     {
@@ -3181,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 549,
       "user": "NousResearch"
     },
     {
@@ -3196,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 488,
       "user": "zouyuxuan122"
     },
     {
@@ -3211,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "SheberDavid"
     },
     {
@@ -3241,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10484,
+      "stars": 10510,
       "user": "guillaumemeyer"
     },
     {
@@ -3256,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4368,
+      "stars": 4453,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3286,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 582,
       "user": "0xsline"
     },
     {
@@ -3301,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3316,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 170,
       "user": "pgrundev"
     },
     {
@@ -3391,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 126843,
+      "stars": 127357,
       "user": "deepseek-ai"
     },
     {
@@ -3406,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8271,
+      "stars": 8384,
       "user": "anywhere-labs"
     },
     {
@@ -3421,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3244,
+      "stars": 3271,
       "user": "zhu1090093659"
     },
     {
@@ -3436,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1762,
+      "stars": 1763,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3451,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1499,
+      "stars": 1505,
       "user": "dmmulroy"
     },
     {
@@ -3466,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "lexmount"
     },
     {
@@ -3481,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "hairyf"
     },
     {
@@ -3528,19 +3531,6 @@
       "source": "GitHub",
       "stars": 156,
       "user": "hsusul"
-    },
-    {
-      "title": "A Tour of Magit's Status Interface",
-      "url": "https://heiwiper.com/posts/magit-status-tour/",
-      "published_at": "2026-08-16T05:30:43.018-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "emacs",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tusharhero"
     },
     {
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
