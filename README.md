@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 20 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 18:19:37 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 18:49:15 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Implement rate limiting for an API**
+**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Execution timing, event loop phases
 
 </details>
 
-**2. `JavaScript` — What are closures and provide a practical example?**
+**2. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Event bubbling, single listener for multiple elements
 
 </details>
 
-**3. `SystemDesign` — Design a distributed cache system**
+**3. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Sliding window, hash map, two pointers
 
 </details>
 
@@ -166,13 +166,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 68 | 37.6% | `████████████████████` |
 | **JavaScript** | 44 | 24.3% | `█████████████░░░░░░░` |
-| **Tools** | 39 | 21.5% | `███████████░░░░░░░░░` |
+| **Tools** | 38 | 21.0% | `███████████░░░░░░░░░` |
 | **Python** | 35 | 19.3% | `██████████░░░░░░░░░░` |
 | **Security** | 20 | 11.0% | `██████░░░░░░░░░░░░░░` |
 | **WebDev** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.2% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.8% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5%
-Go              █████████████████████████ 22.5%
-Python          ████████████████████████ 21.9%
-Java            ███████████████████████ 21.3%
+JavaScript      ██████████████████████████████ 27.7%
+Python          ████████████████████████ 22.0%
+Go              ████████████████████████ 22.0%
+Java            ███████████████████████ 21.4%
 Rust            █████ 4.4%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -209,8 +209,8 @@ PHP             █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 44
-    "Go" : 36
     "Python" : 35
+    "Go" : 35
     "Java" : 34
     "Rust" : 7
     "CSharp" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-33-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
+![python](https://img.shields.io/badge/python-33-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-33-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-7-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 16:19:37 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 16:49:15 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

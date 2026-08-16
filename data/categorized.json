@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 407,
       "user": "ysr666"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10627,
+      "stars": 10689,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 128763,
+      "stars": 129060,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "lexmount"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "Awaker-OTE"
     },
     {
@@ -719,18 +719,18 @@
       "user": "jbauer"
     },
     {
-      "title": "Aiki reaches recursive self-interpretation",
-      "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-      "published_at": "2026-08-15T22:13:12.079-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
+      "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
+      "published_at": "2026-08-16T12:13:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "go",
-        "plt",
-        "release"
+        "javascript",
+        "reactjs",
+        "tailwind-css"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "decuser"
+      "source": "StackOverflow",
+      "user": "Slow"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -1256,7 +1256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2930,
+      "stars": 2945,
       "user": "xiaobright"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 555,
       "user": "NousResearch"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 525,
       "user": "zouyuxuan122"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 474,
       "user": "SheberDavid"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 407,
       "user": "ysr666"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 128763,
+      "stars": 129060,
       "user": "deepseek-ai"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8631,
+      "stars": 8670,
       "user": "anywhere-labs"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3337,
+      "stars": 3347,
       "user": "zhu1090093659"
     },
     {
@@ -1391,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1529,
+      "stars": 1541,
       "user": "dmmulroy"
     },
     {
@@ -1409,6 +1409,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milan"
+    },
+    {
+      "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
+      "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
+      "published_at": "2026-08-16T12:13:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "tailwind-css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Slow"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -1525,21 +1539,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Robin Jhon"
-    },
-    {
-      "title": "How can I customize keyboard behaviour in HTML select menus?",
-      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
-      "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "html",
-        "drop-down-menu"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "leo"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1812,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 407,
       "user": "ysr666"
     },
     {
@@ -1827,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10627,
+      "stars": 10689,
       "user": "guillaumemeyer"
     },
     {
@@ -1842,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4722,
+      "stars": 4772,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1903,6 +1902,18 @@
       "user": "ubernostrum"
     },
     {
+      "title": "Scan directories and copy those that have more than n files",
+      "url": "https://stackoverflow.com/questions/79995508/scan-directories-and-copy-those-that-have-more-than-n-files",
+      "published_at": "2026-08-16T07:38:19.000Z",
+      "description": "Stack Overflow question · 4 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gauffke"
+    },
+    {
       "title": "Python/SQLAlchemy TypeError: Incompatible collection type: str is not list-like",
       "url": "https://stackoverflow.com/questions/79995463/python-sqlalchemy-typeerror-incompatible-collection-type-str-is-not-list-like",
       "published_at": "2026-08-16T00:20:38.000Z",
@@ -1914,18 +1925,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dr_colossus"
-    },
-    {
-      "title": "Scan directories and copy those that have more than n files",
-      "url": "https://stackoverflow.com/questions/79995508/scan-directories-and-copy-those-that-have-more-than-n-files",
-      "published_at": "2026-08-16T07:38:19.000Z",
-      "description": "Stack Overflow question · 4 answers · score -2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gauffke"
     },
     {
       "title": "Tkinter custom selectable/deselectable object using ttk.Label",
@@ -2376,8 +2375,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10627,
+      "stars": 10689,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
+      "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
+      "published_at": "2026-08-16T12:13:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "tailwind-css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Slow"
     },
     {
       "title": "Content block builder",
@@ -2409,21 +2422,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CGalindoFlex"
-    },
-    {
-      "title": "How can I customize keyboard behaviour in HTML select menus?",
-      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
-      "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "html",
-        "drop-down-menu"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "leo"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2531,8 +2529,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3337,
+      "stars": 3347,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "Why does my button work perfectly fine on desktop but not at all on my mobile browser?",
+      "url": "https://stackoverflow.com/questions/79995562/why-does-my-button-work-perfectly-fine-on-desktop-but-not-at-all-on-my-mobile-br",
+      "published_at": "2026-08-16T12:13:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "tailwind-css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Slow"
     }
   ],
   "Cloud": [
@@ -3213,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2930,
+      "stars": 2945,
       "user": "xiaobright"
     },
     {
@@ -3228,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 555,
       "user": "NousResearch"
     },
     {
@@ -3243,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 525,
       "user": "zouyuxuan122"
     },
     {
@@ -3258,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 474,
       "user": "SheberDavid"
     },
     {
@@ -3273,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 407,
       "user": "ysr666"
     },
     {
@@ -3288,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10627,
+      "stars": 10689,
       "user": "guillaumemeyer"
     },
     {
@@ -3303,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4722,
+      "stars": 4772,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3438,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 128763,
+      "stars": 129060,
       "user": "deepseek-ai"
     },
     {
@@ -3453,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8631,
+      "stars": 8670,
       "user": "anywhere-labs"
     },
     {
@@ -3468,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3337,
+      "stars": 3347,
       "user": "zhu1090093659"
     },
     {
@@ -3498,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1529,
+      "stars": 1541,
       "user": "dmmulroy"
     },
     {
@@ -3513,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "lexmount"
     },
     {
@@ -3543,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
       "source": "GitHub",
-      "stars": 168,
+      "stars": 169,
       "user": "Awaker-OTE"
     },
     {
@@ -3602,21 +3614,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
-    },
-    {
-      "title": "How can I customize keyboard behaviour in HTML select menus?",
-      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
-      "published_at": "2026-08-14T09:19:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "html",
-        "drop-down-menu"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "leo"
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
