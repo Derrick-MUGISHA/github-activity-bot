@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "ysr666"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11143,
+      "stars": 11166,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130481,
+      "stars": 130586,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "lexmount"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "hairyf"
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3003,
+      "stars": 3004,
       "user": "xiaobright"
     },
     {
@@ -1269,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 578,
       "user": "NousResearch"
     },
     {
@@ -1284,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "zouyuxuan122"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "ysr666"
     },
     {
@@ -1329,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130481,
+      "stars": 130586,
       "user": "deepseek-ai"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8801,
+      "stars": 8813,
       "user": "anywhere-labs"
     },
     {
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3406,
+      "stars": 3408,
       "user": "zhu1090093659"
     },
     {
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1621,
       "user": "dmmulroy"
     },
     {
@@ -1810,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "ysr666"
     },
     {
@@ -1825,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11143,
+      "stars": 11166,
       "user": "guillaumemeyer"
     },
     {
@@ -1840,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5006,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1152,
       "user": "Leutenegger"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "0xsline"
     },
     {
@@ -1889,6 +1889,32 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "Create a board on the console for the game tic tac toe",
+      "url": "https://stackoverflow.com/questions/79995636/create-a-board-on-the-console-for-the-game-tic-tac-toe",
+      "published_at": "2026-08-16T20:56:42.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sumo"
+    },
+    {
+      "title": "How to make a Select All function for tkinter ScrolledText",
+      "url": "https://stackoverflow.com/questions/79995614/how-to-make-a-select-all-function-for-tkinter-scrolledtext",
+      "published_at": "2026-08-16T18:37:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "selectall",
+        "tkinter-scrolledtext"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "Can Python's argparse handle multiple distinct usages?",
       "url": "https://stackoverflow.com/questions/79995617/can-pythons-argparse-handle-multiple-distinct-usages",
       "published_at": "2026-08-16T18:54:00.000Z",
@@ -1900,20 +1926,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "PaulTanenbaum"
-    },
-    {
-      "title": "How to make a Select All function for tkinter ScrolledText",
-      "url": "https://stackoverflow.com/questions/79995614/how-to-make-a-select-all-function-for-tkinter-scrolledtext",
-      "published_at": "2026-08-16T18:37:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "selectall",
-        "tkinter-scrolledtext"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
     },
     {
       "title": "KafkaAdminClient and threads in kafka-python",
@@ -2009,19 +2021,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zyy"
-    },
-    {
-      "title": "What regular expression do you recommend for words that can be pronounced like \"ate\" or \"eight\"?",
-      "url": "https://stackoverflow.com/questions/79995427/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
-      "published_at": "2026-08-15T20:31:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toothpick Anemone"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2364,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11143,
+      "stars": 11166,
       "user": "guillaumemeyer"
     },
     {
@@ -2519,7 +2518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3406,
+      "stars": 3408,
       "user": "zhu1090093659"
     }
   ],
@@ -3172,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3003,
+      "stars": 3004,
       "user": "xiaobright"
     },
     {
@@ -3187,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 578,
       "user": "NousResearch"
     },
     {
@@ -3202,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 537,
       "user": "zouyuxuan122"
     },
     {
@@ -3232,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 429,
       "user": "ysr666"
     },
     {
@@ -3247,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11143,
+      "stars": 11166,
       "user": "guillaumemeyer"
     },
     {
@@ -3262,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4999,
+      "stars": 5006,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3277,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1151,
+      "stars": 1152,
       "user": "Leutenegger"
     },
     {
@@ -3292,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "0xsline"
     },
     {
@@ -3397,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130481,
+      "stars": 130586,
       "user": "deepseek-ai"
     },
     {
@@ -3412,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8801,
+      "stars": 8813,
       "user": "anywhere-labs"
     },
     {
@@ -3427,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3406,
+      "stars": 3408,
       "user": "zhu1090093659"
     },
     {
@@ -3457,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1618,
+      "stars": 1621,
       "user": "dmmulroy"
     },
     {
@@ -3472,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "lexmount"
     },
     {
@@ -3487,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "hairyf"
     },
     {
