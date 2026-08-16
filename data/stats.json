@@ -11,7 +11,7 @@
   },
   "by_category": {
     "AI": 66,
-    "JavaScript": 45,
+    "JavaScript": 44,
     "Python": 34,
     "DevOps": 13,
     "WebDev": 15,
@@ -19,15 +19,15 @@
     "Cloud": 15,
     "Database": 4,
     "Security": 20,
-    "Tools": 38
+    "Tools": 39
   },
   "by_language": {
     "Python": 34,
-    "JavaScript": 45,
+    "JavaScript": 44,
     "Rust": 6,
     "Go": 36,
     "CSharp": 1,
-    "Java": 35,
+    "Java": 34,
     "Swift": 1,
     "Ruby": 1,
     "PHP": 1
@@ -101,14 +101,14 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-15": 25,
-    "2026-08-16": 6
+    "2026-08-15": 24,
+    "2026-08-16": 7
   },
   "top_tags": {
     "github": 25,
     "open-source": 25,
     "python": 21,
-    "javascript": 21,
+    "javascript": 20,
     "AI": 15,
     "devchallenge": 13,
     "JavaScript": 13,
@@ -128,12 +128,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "21.3",
-    "JavaScript": "28.1",
+    "Python": "21.5",
+    "JavaScript": "27.8",
     "Rust": "3.8",
-    "Go": "22.5",
+    "Go": "22.8",
     "CSharp": "0.6",
-    "Java": "21.9",
+    "Java": "21.5",
     "Swift": "0.6",
     "Ruby": "0.6",
     "PHP": "0.6"
