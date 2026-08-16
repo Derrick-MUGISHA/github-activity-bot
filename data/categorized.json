@@ -149,21 +149,6 @@
       "user": "leslysandra"
     },
     {
-      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
-      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
-      "published_at": "2026-08-12T07:15:38Z",
-      "description": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Femgi0fe0vb7f0poez3xq.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
       "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo",
       "published_at": "2026-08-11T12:00:00Z",
@@ -598,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10144,
+      "stars": 10184,
       "user": "guillaumemeyer"
     },
     {
@@ -658,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 121631,
+      "stars": 122283,
       "user": "deepseek-ai"
     },
     {
@@ -688,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 373,
       "user": "lexmount"
     },
     {
@@ -703,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 214,
       "user": "hairyf"
     },
     {
@@ -749,27 +734,24 @@
       "user": "jbauer"
     },
     {
-      "title": "Aiki reaches recursive self-interpretation",
-      "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-      "published_at": "2026-08-15T22:13:12.079-05:00",
+      "title": "Flirt: GitHub and Mailing List backends",
+      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "published_at": "2026-08-15T07:37:40.011-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "go",
-        "plt",
-        "release"
+        "vcs"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "decuser"
+      "user": "senekor"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
       "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
       "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
-        "reactjs",
         "ruby-on-rails"
       ],
       "cover_image": null,
@@ -1288,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2541,
+      "stars": 2573,
       "user": "xiaobright"
     },
     {
@@ -1303,8 +1285,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 536,
       "user": "NousResearch"
+    },
+    {
+      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "published_at": "2026-08-14T16:29:54Z",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "source": "GitHub",
+      "stars": 393,
+      "user": "zouyuxuan122"
     },
     {
       "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
@@ -1322,21 +1319,6 @@
       "user": "RadishXN"
     },
     {
-      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "published_at": "2026-08-14T16:29:54Z",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "zouyuxuan122"
-    },
-    {
       "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
       "published_at": "2026-08-15T06:10:13Z",
@@ -1348,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "SheberDavid"
     },
     {
@@ -1363,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 121631,
+      "stars": 122283,
       "user": "deepseek-ai"
     },
     {
@@ -1378,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 7259,
+      "stars": 7387,
       "user": "anywhere-labs"
     },
     {
@@ -1393,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2977,
+      "stars": 3014,
       "user": "zhu1090093659"
     },
     {
@@ -1423,17 +1405,16 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1423,
       "user": "dmmulroy"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
       "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
       "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score -1",
       "tags": [
         "javascript",
-        "reactjs",
         "ruby-on-rails"
       ],
       "cover_image": null,
@@ -1842,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10144,
+      "stars": 10184,
       "user": "guillaumemeyer"
     },
     {
@@ -1857,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 3599,
+      "stars": 3672,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1872,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1138,
       "user": "Leutenegger"
     },
     {
@@ -1887,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 537,
       "user": "0xsline"
     },
     {
@@ -1921,7 +1902,7 @@
       "title": "Scan directories and delete those that have less than n files",
       "url": "https://stackoverflow.com/questions/79995508/scan-directories-and-delete-those-that-have-less-than-n-files",
       "published_at": "2026-08-16T07:38:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "bash",
@@ -2113,21 +2094,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Preventing Quota Crashes via Antigravity CLI Agent Hooks",
-      "url": "https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd",
-      "published_at": "2026-08-12T07:15:38Z",
-      "description": "Solving the LLM quota monitoring paradox with zero-overhead local Connect RPC agent...",
-      "tags": [
-        "ai",
-        "gemini",
-        "antigravity",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Femgi0fe0vb7f0poez3xq.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose",
@@ -2408,8 +2374,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10144,
+      "stars": 10184,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "Flirt: GitHub and Mailing List backends",
+      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "published_at": "2026-08-15T07:37:40.011-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "senekor"
     },
     {
       "title": "Content block builder",
@@ -2563,7 +2541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2977,
+      "stars": 3014,
       "user": "zhu1090093659"
     }
   ],
@@ -3215,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2541,
+      "stars": 2573,
       "user": "xiaobright"
     },
     {
@@ -3230,8 +3208,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 536,
       "user": "NousResearch"
+    },
+    {
+      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "published_at": "2026-08-14T16:29:54Z",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "source": "GitHub",
+      "stars": 393,
+      "user": "zouyuxuan122"
     },
     {
       "title": "RadishXN/run-abroad - 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么",
@@ -3249,21 +3242,6 @@
       "user": "RadishXN"
     },
     {
-      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "published_at": "2026-08-14T16:29:54Z",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
-      "source": "GitHub",
-      "stars": 381,
-      "user": "zouyuxuan122"
-    },
-    {
       "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
       "published_at": "2026-08-15T06:10:13Z",
@@ -3275,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "SheberDavid"
     },
     {
@@ -3290,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 10144,
+      "stars": 10184,
       "user": "guillaumemeyer"
     },
     {
@@ -3305,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 3599,
+      "stars": 3672,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3320,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1137,
+      "stars": 1138,
       "user": "Leutenegger"
     },
     {
@@ -3335,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 537,
       "user": "0xsline"
     },
     {
@@ -3440,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 121631,
+      "stars": 122283,
       "user": "deepseek-ai"
     },
     {
@@ -3455,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 7259,
+      "stars": 7387,
       "user": "anywhere-labs"
     },
     {
@@ -3470,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2977,
+      "stars": 3014,
       "user": "zhu1090093659"
     },
     {
@@ -3500,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1410,
+      "stars": 1423,
       "user": "dmmulroy"
     },
     {
@@ -3515,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 373,
       "user": "lexmount"
     },
     {
@@ -3530,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 214,
       "user": "hairyf"
     },
     {
@@ -3549,6 +3527,21 @@
       "user": "Awaker-OTE"
     },
     {
+      "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "url": "https://github.com/hsusul/lore",
+      "published_at": "2026-08-10T22:07:29Z",
+      "description": "git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "hsusul"
+    },
+    {
       "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
       "url": "https://github.com/smthdagg/wificalling-location-gateway",
       "published_at": "2026-08-11T05:28:18Z",
@@ -3564,19 +3557,16 @@
       "user": "smthdagg"
     },
     {
-      "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
-      "url": "https://github.com/hsusul/lore",
-      "published_at": "2026-08-10T22:07:29Z",
-      "description": "git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "title": "Flirt: GitHub and Mailing List backends",
+      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "published_at": "2026-08-15T07:37:40.011-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "vcs"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "hsusul"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "senekor"
     },
     {
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
