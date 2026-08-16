@@ -25,7 +25,7 @@
     "Python": 35,
     "JavaScript": 44,
     "Rust": 8,
-    "Go": 36,
+    "Go": 37,
     "CSharp": 1,
     "Java": 34,
     "Swift": 1,
@@ -101,8 +101,8 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-15": 22,
-    "2026-08-16": 13
+    "2026-08-15": 20,
+    "2026-08-16": 15
   },
   "top_tags": {
     "github": 25,
@@ -116,8 +116,8 @@
     "ai": 11,
     "Security": 11,
     "DevOps": 10,
+    "programming": 9,
     "discuss": 9,
-    "programming": 8,
     "webdev": 8,
     "go": 8,
     "agents": 7,
@@ -128,12 +128,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "21.7",
-    "JavaScript": "27.3",
-    "Rust": "5.0",
-    "Go": "22.4",
+    "Python": "21.6",
+    "JavaScript": "27.2",
+    "Rust": "4.9",
+    "Go": "22.8",
     "CSharp": "0.6",
-    "Java": "21.1",
+    "Java": "21.0",
     "Swift": "0.6",
     "Ruby": "0.6",
     "PHP": "0.6"
