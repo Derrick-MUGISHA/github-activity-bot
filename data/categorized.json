@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9783,
+      "stars": 9823,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "xinxinshuhao-create"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "pgrundev"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "trefeon"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 116202,
+      "stars": 117180,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1742,
+      "stars": 1744,
       "user": "SMNETSTUDIO"
     },
     {
@@ -673,8 +673,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "lexmount"
+    },
+    {
+      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "published_at": "2026-08-14T02:36:29Z",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "source": "GitHub",
+      "stars": 196,
+      "user": "hairyf"
     },
     {
       "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
@@ -690,21 +705,6 @@
       "source": "GitHub",
       "stars": 168,
       "user": "Awaker-OTE"
-    },
-    {
-      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
-      "url": "https://github.com/hairyf/deepseek-harness-desktop",
-      "published_at": "2026-08-14T02:36:29Z",
-      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "hairyf"
     },
     {
       "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
@@ -763,7 +763,7 @@
       "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
       "url": "https://stackoverflow.com/questions/79995432/xarray-change-subset-of-values-of-dataset-variable-obtained-from-pandas-datafram",
       "published_at": "2026-08-15T21:19:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -1243,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2276,
       "user": "xiaobright"
     },
     {
@@ -1258,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "NousResearch"
     },
     {
@@ -1273,8 +1273,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "RadishXN"
+    },
+    {
+      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "published_at": "2026-08-14T16:29:54Z",
+      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "zouyuxuan122"
     },
     {
       "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
@@ -1288,23 +1303,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 294,
       "user": "myYangyunfan"
-    },
-    {
-      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "published_at": "2026-08-15T06:10:13Z",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "SheberDavid"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1318,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 116202,
+      "stars": 117180,
       "user": "deepseek-ai"
     },
     {
@@ -1333,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 6041,
+      "stars": 6290,
       "user": "anywhere-labs"
     },
     {
@@ -1348,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2747,
+      "stars": 2786,
       "user": "zhu1090093659"
     },
     {
@@ -1363,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1742,
+      "stars": 1744,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1378,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1290,
+      "stars": 1314,
       "user": "dmmulroy"
     },
     {
@@ -1797,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9783,
+      "stars": 9823,
       "user": "guillaumemeyer"
     },
     {
@@ -1812,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 3051,
+      "stars": 3141,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1827,7 +1827,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1128,
       "user": "Leutenegger"
     },
     {
@@ -1842,7 +1842,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 504,
       "user": "0xsline"
     },
     {
@@ -1857,7 +1857,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1877,7 +1877,7 @@
       "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
       "url": "https://stackoverflow.com/questions/79995432/xarray-change-subset-of-values-of-dataset-variable-obtained-from-pandas-datafram",
       "published_at": "2026-08-15T21:19:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "pandas",
@@ -1886,6 +1886,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "climatestudent"
+    },
+    {
+      "title": "Rush Hour Breadth-First Search Solver - Python implementation performance issues",
+      "url": "https://stackoverflow.com/questions/79995459/rush-hour-breadth-first-search-solver-python-implementation-performance-issues",
+      "published_at": "2026-08-15T23:44:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33036361"
     },
     {
       "title": "What regular expression do you recommend for words that can be pronounced like \"ate\" or \"eight\"?",
@@ -1901,10 +1913,10 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
-      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
-      "published_at": "2026-08-15T20:41:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
+      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
+      "published_at": "2026-08-15T20:48:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "regex"
@@ -1914,10 +1926,10 @@
       "user": "Toothpick Anemone"
     },
     {
-      "title": "What regular expression captures most homophones related to the English words \"two\", \"too\" and \"to\"?",
-      "url": "https://stackoverflow.com/questions/79995429/what-regular-expression-captures-most-homophones-related-to-the-english-words-t",
-      "published_at": "2026-08-15T20:48:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "What regular expression do you recommend for words that can be pronounced like \"won\", \"one\" and \"wun\"?",
+      "url": "https://stackoverflow.com/questions/79995428/what-regular-expression-do-you-recommend-for-words-that-can-be-pronounced-like",
+      "published_at": "2026-08-15T20:41:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "regex"
@@ -1981,19 +1993,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "q.undertow"
-    },
-    {
-      "title": "Write multiple values to file in mounted local folder",
-      "url": "https://stackoverflow.com/questions/79995205/write-multiple-values-to-file-in-mounted-local-folder",
-      "published_at": "2026-08-14T20:35:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2351,7 +2350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9783,
+      "stars": 9823,
       "user": "guillaumemeyer"
     },
     {
@@ -2533,7 +2532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2747,
+      "stars": 2786,
       "user": "zhu1090093659"
     }
   ],
@@ -3027,7 +3026,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3185,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2227,
+      "stars": 2276,
       "user": "xiaobright"
     },
     {
@@ -3200,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "NousResearch"
     },
     {
@@ -3215,8 +3214,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "RadishXN"
+    },
+    {
+      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "published_at": "2026-08-14T16:29:54Z",
+      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "source": "GitHub",
+      "stars": 294,
+      "user": "zouyuxuan122"
     },
     {
       "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
@@ -3230,23 +3244,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 294,
       "user": "myYangyunfan"
-    },
-    {
-      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "published_at": "2026-08-15T06:10:13Z",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "SheberDavid"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3260,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9783,
+      "stars": 9823,
       "user": "guillaumemeyer"
     },
     {
@@ -3275,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 3051,
+      "stars": 3141,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3290,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1128,
       "user": "Leutenegger"
     },
     {
@@ -3305,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 504,
       "user": "0xsline"
     },
     {
@@ -3320,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 435,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3335,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "pgrundev"
     },
     {
@@ -3350,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 119,
       "user": "WongLoki"
     },
     {
@@ -3380,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 85,
       "user": "trefeon"
     },
     {
@@ -3410,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 116202,
+      "stars": 117180,
       "user": "deepseek-ai"
     },
     {
@@ -3425,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 6041,
+      "stars": 6290,
       "user": "anywhere-labs"
     },
     {
@@ -3440,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2747,
+      "stars": 2786,
       "user": "zhu1090093659"
     },
     {
@@ -3455,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1742,
+      "stars": 1744,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3470,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1290,
+      "stars": 1314,
       "user": "dmmulroy"
     },
     {
@@ -3485,8 +3484,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 347,
       "user": "lexmount"
+    },
+    {
+      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "published_at": "2026-08-14T02:36:29Z",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "source": "GitHub",
+      "stars": 196,
+      "user": "hairyf"
     },
     {
       "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
@@ -3502,21 +3516,6 @@
       "source": "GitHub",
       "stars": 168,
       "user": "Awaker-OTE"
-    },
-    {
-      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
-      "url": "https://github.com/hairyf/deepseek-harness-desktop",
-      "published_at": "2026-08-14T02:36:29Z",
-      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb, zero environment setup. Windows / macOS / Linux.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
-      "source": "GitHub",
-      "stars": 164,
-      "user": "hairyf"
     },
     {
       "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
