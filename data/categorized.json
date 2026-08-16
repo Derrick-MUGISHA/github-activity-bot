@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9823,
+      "stars": 9870,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "pgrundev"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 117180,
+      "stars": 118064,
       "user": "deepseek-ai"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "lexmount"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 201,
       "user": "hairyf"
     },
     {
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "smthdagg"
     },
     {
@@ -744,6 +744,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "senekor"
+    },
+    {
+      "title": "Aiki: Alpha Milestone 26 Update",
+      "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+      "published_at": "2026-08-15T22:13:12.079-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "go",
+        "plt",
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "decuser"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -977,21 +991,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -1005,6 +1004,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
@@ -1243,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2351,
       "user": "xiaobright"
     },
     {
@@ -1258,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 512,
       "user": "NousResearch"
     },
     {
@@ -1273,8 +1287,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "RadishXN"
+    },
+    {
+      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "published_at": "2026-08-15T06:10:13Z",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "SheberDavid"
     },
     {
       "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
@@ -1288,23 +1317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 308,
       "user": "zouyuxuan122"
-    },
-    {
-      "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "url": "https://github.com/myYangyunfan/dsh_desktop",
-      "published_at": "2026-08-13T16:00:16Z",
-      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "myYangyunfan"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1318,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 117180,
+      "stars": 118064,
       "user": "deepseek-ai"
     },
     {
@@ -1333,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 6290,
+      "stars": 6507,
       "user": "anywhere-labs"
     },
     {
@@ -1348,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2786,
+      "stars": 2832,
       "user": "zhu1090093659"
     },
     {
@@ -1378,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1341,
       "user": "dmmulroy"
     },
     {
@@ -1396,6 +1410,20 @@
       "user": "Scott"
     },
     {
+      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
+      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
+      "published_at": "2026-08-15T20:56:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vscode-extensions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad"
+    },
+    {
       "title": "How to repeat-print a string with a number in it that increases with each repeat-print",
       "url": "https://stackoverflow.com/questions/79995446/how-to-repeat-print-a-string-with-a-number-in-it-that-increases-with-each-repeat",
       "published_at": "2026-08-15T22:20:26.000Z",
@@ -1407,20 +1435,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
-    },
-    {
-      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
-      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
-      "published_at": "2026-08-15T20:56:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "vscode-extensions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
     },
     {
       "title": "GSAP ScrollTrigger pinned section causes scroll position jump when opening Base UI modal dialog with Lenis smooth scrolling",
@@ -1797,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9823,
+      "stars": 9870,
       "user": "guillaumemeyer"
     },
     {
@@ -1812,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 3141,
+      "stars": 3227,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1827,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1130,
       "user": "Leutenegger"
     },
     {
@@ -1842,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 512,
       "user": "0xsline"
     },
     {
@@ -1898,6 +1912,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33036361"
+    },
+    {
+      "title": "Tkinter custom selectable/deselectable object using ttk.Label",
+      "url": "https://stackoverflow.com/questions/79995456/tkinter-custom-selectable-deselectable-object-using-ttk-label",
+      "published_at": "2026-08-15T23:17:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter",
+        "python-class",
+        "tkinter-label"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sophie"
     },
     {
       "title": "What regular expression do you recommend for words that can be pronounced like \"ate\" or \"eight\"?",
@@ -1979,20 +2008,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DrakeMurdoch"
-    },
-    {
-      "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
-      "url": "https://stackoverflow.com/questions/79995261/in-python-under-unix-ask-for-interactive-terminal-input-but-avoid-stdout",
-      "published_at": "2026-08-15T03:01:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "terminal",
-        "prompt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "q.undertow"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2350,7 +2365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9823,
+      "stars": 9870,
       "user": "guillaumemeyer"
     },
     {
@@ -2532,7 +2547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2786,
+      "stars": 2832,
       "user": "zhu1090093659"
     }
   ],
@@ -3184,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2276,
+      "stars": 2351,
       "user": "xiaobright"
     },
     {
@@ -3199,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 512,
       "user": "NousResearch"
     },
     {
@@ -3214,8 +3229,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45912686?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "RadishXN"
+    },
+    {
+      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "published_at": "2026-08-15T06:10:13Z",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "SheberDavid"
     },
     {
       "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
@@ -3229,23 +3259,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 308,
       "user": "zouyuxuan122"
-    },
-    {
-      "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "url": "https://github.com/myYangyunfan/dsh_desktop",
-      "published_at": "2026-08-13T16:00:16Z",
-      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285261534?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "myYangyunfan"
     },
     {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
@@ -3259,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9823,
+      "stars": 9870,
       "user": "guillaumemeyer"
     },
     {
@@ -3274,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 3141,
+      "stars": 3227,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3289,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1128,
+      "stars": 1130,
       "user": "Leutenegger"
     },
     {
@@ -3304,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 512,
       "user": "0xsline"
     },
     {
@@ -3334,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "pgrundev"
     },
     {
@@ -3409,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 117180,
+      "stars": 118064,
       "user": "deepseek-ai"
     },
     {
@@ -3424,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 6290,
+      "stars": 6507,
       "user": "anywhere-labs"
     },
     {
@@ -3439,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2786,
+      "stars": 2832,
       "user": "zhu1090093659"
     },
     {
@@ -3469,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1341,
       "user": "dmmulroy"
     },
     {
@@ -3484,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 347,
+      "stars": 352,
       "user": "lexmount"
     },
     {
@@ -3499,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 201,
       "user": "hairyf"
     },
     {
@@ -3518,6 +3533,21 @@
       "user": "Awaker-OTE"
     },
     {
+      "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "url": "https://github.com/smthdagg/wificalling-location-gateway",
+      "published_at": "2026-08-11T05:28:18Z",
+      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
+      "source": "GitHub",
+      "stars": 156,
+      "user": "smthdagg"
+    },
+    {
       "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
       "url": "https://github.com/hsusul/lore",
       "published_at": "2026-08-10T22:07:29Z",
@@ -3531,21 +3561,6 @@
       "source": "GitHub",
       "stars": 155,
       "user": "hsusul"
-    },
-    {
-      "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
-      "url": "https://github.com/smthdagg/wificalling-location-gateway",
-      "published_at": "2026-08-11T05:28:18Z",
-      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
-      "source": "GitHub",
-      "stars": 155,
-      "user": "smthdagg"
     },
     {
       "title": "Flirt: GitHub and Mailing List backends",
@@ -3563,7 +3578,7 @@
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
       "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
       "published_at": "2026-08-15T20:56:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "typescript",
