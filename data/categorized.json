@@ -557,6 +557,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "50kg"
+    },
+    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9713,
+      "stars": 9717,
       "user": "guillaumemeyer"
     },
     {
@@ -587,36 +602,6 @@
       "user": "xinxinshuhao-create"
     },
     {
-      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "url": "https://github.com/MengMengCode/VoCat",
-      "published_at": "2026-08-09T06:43:49Z",
-      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
-      "source": "GitHub",
-      "stars": 388,
-      "user": "MengMengCode"
-    },
-    {
-      "title": "surya-koritala/loomfeed - The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "url": "https://github.com/surya-koritala/loomfeed",
-      "published_at": "2026-08-09T19:28:09Z",
-      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "surya-koritala"
-    },
-    {
       "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
       "url": "https://github.com/pgrundev/pgbot",
       "published_at": "2026-08-11T23:41:52Z",
@@ -632,6 +617,21 @@
       "user": "pgrundev"
     },
     {
+      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "url": "https://github.com/trefeon/freebuff-proxy",
+      "published_at": "2026-08-11T07:06:43Z",
+      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "trefeon"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 115005,
+      "stars": 115104,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1730,
+      "stars": 1733,
       "user": "SMNETSTUDIO"
     },
     {
@@ -673,23 +673,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 340,
       "user": "lexmount"
-    },
-    {
-      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
-      "url": "https://github.com/JohnKinyanjui/sprite-maker",
-      "published_at": "2026-08-09T20:25:50Z",
-      "description": "An open source ai sprite maker",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
-      "source": "GitHub",
-      "stars": 186,
-      "user": "JohnKinyanjui"
     },
     {
       "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
@@ -718,7 +703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 161,
       "user": "hairyf"
     },
     {
@@ -1244,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2174,
+      "stars": 2179,
       "user": "xiaobright"
     },
     {
@@ -1259,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 497,
       "user": "NousResearch"
     },
     {
@@ -1278,21 +1263,6 @@
       "user": "RadishXN"
     },
     {
-      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
-      "url": "https://github.com/panel-zeus/Z-E-U-S",
-      "published_at": "2026-08-09T02:53:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "panel-zeus"
-    },
-    {
       "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
       "url": "https://github.com/myYangyunfan/dsh_desktop",
       "published_at": "2026-08-13T16:00:16Z",
@@ -1308,6 +1278,21 @@
       "user": "myYangyunfan"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "50kg"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -1319,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 115005,
+      "stars": 115104,
       "user": "deepseek-ai"
     },
     {
@@ -1334,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5822,
+      "stars": 5842,
       "user": "anywhere-labs"
     },
     {
@@ -1349,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2703,
+      "stars": 2705,
       "user": "zhu1090093659"
     },
     {
@@ -1364,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1730,
+      "stars": 1733,
       "user": "SMNETSTUDIO"
     },
     {
@@ -1379,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1261,
       "user": "ccch1mneyyy"
     },
     {
@@ -1798,7 +1783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9713,
+      "stars": 9717,
       "user": "guillaumemeyer"
     },
     {
@@ -1813,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2982,
+      "stars": 2985,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1828,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1126,
       "user": "Leutenegger"
     },
     {
@@ -1843,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "0xsline"
     },
     {
@@ -2223,21 +2208,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "surya-koritala/loomfeed - The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "url": "https://github.com/surya-koritala/loomfeed",
-      "published_at": "2026-08-09T19:28:09Z",
-      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "surya-koritala"
     }
   ],
   "WebDev": [
@@ -2357,6 +2327,21 @@
       "user": "velmu"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "50kg"
+    },
+    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -2368,7 +2353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9713,
+      "stars": 9717,
       "user": "guillaumemeyer"
     },
     {
@@ -2550,7 +2535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2703,
+      "stars": 2705,
       "user": "zhu1090093659"
     }
   ],
@@ -3159,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2174,
+      "stars": 2179,
       "user": "xiaobright"
     },
     {
@@ -3174,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 497,
       "user": "NousResearch"
     },
     {
@@ -3193,21 +3178,6 @@
       "user": "RadishXN"
     },
     {
-      "title": "panel-zeus/Z-E-U-S - GitHub Repository",
-      "url": "https://github.com/panel-zeus/Z-E-U-S",
-      "published_at": "2026-08-09T02:53:39Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/314847891?v=4",
-      "source": "GitHub",
-      "stars": 358,
-      "user": "panel-zeus"
-    },
-    {
       "title": "myYangyunfan/dsh_desktop - DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
       "url": "https://github.com/myYangyunfan/dsh_desktop",
       "published_at": "2026-08-13T16:00:16Z",
@@ -3223,6 +3193,21 @@
       "user": "myYangyunfan"
     },
     {
+      "title": "50kg/image-to-slice - AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "published_at": "2026-08-10T15:29:27Z",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25328815?v=4",
+      "source": "GitHub",
+      "stars": 259,
+      "user": "50kg"
+    },
+    {
       "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "published_at": "2026-08-11T16:32:38Z",
@@ -3234,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 9713,
+      "stars": 9717,
       "user": "guillaumemeyer"
     },
     {
@@ -3249,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 2982,
+      "stars": 2985,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3264,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1126,
       "user": "Leutenegger"
     },
     {
@@ -3279,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 492,
       "user": "0xsline"
     },
     {
@@ -3296,36 +3281,6 @@
       "source": "GitHub",
       "stars": 433,
       "user": "xinxinshuhao-create"
-    },
-    {
-      "title": "MengMengCode/VoCat - Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "url": "https://github.com/MengMengCode/VoCat",
-      "published_at": "2026-08-09T06:43:49Z",
-      "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/227010654?v=4",
-      "source": "GitHub",
-      "stars": 388,
-      "user": "MengMengCode"
-    },
-    {
-      "title": "surya-koritala/loomfeed - The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "url": "https://github.com/surya-koritala/loomfeed",
-      "published_at": "2026-08-09T19:28:09Z",
-      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188490054?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "surya-koritala"
     },
     {
       "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
@@ -3354,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "WongLoki"
     },
     {
@@ -3373,6 +3328,36 @@
       "user": "WongLoki"
     },
     {
+      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "url": "https://github.com/trefeon/freebuff-proxy",
+      "published_at": "2026-08-11T07:06:43Z",
+      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "trefeon"
+    },
+    {
+      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "url": "https://github.com/zepto-labs/scherry",
+      "published_at": "2026-08-11T08:59:18Z",
+      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "zepto-labs"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -3384,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 115005,
+      "stars": 115104,
       "user": "deepseek-ai"
     },
     {
@@ -3399,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 5822,
+      "stars": 5842,
       "user": "anywhere-labs"
     },
     {
@@ -3414,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 2703,
+      "stars": 2705,
       "user": "zhu1090093659"
     },
     {
@@ -3429,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/162035225?v=4",
       "source": "GitHub",
-      "stars": 1730,
+      "stars": 1733,
       "user": "SMNETSTUDIO"
     },
     {
@@ -3444,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1261,
       "user": "ccch1mneyyy"
     },
     {
@@ -3459,23 +3444,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 340,
       "user": "lexmount"
-    },
-    {
-      "title": "JohnKinyanjui/sprite-maker - An open source ai sprite maker",
-      "url": "https://github.com/JohnKinyanjui/sprite-maker",
-      "published_at": "2026-08-09T20:25:50Z",
-      "description": "An open source ai sprite maker",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52638680?v=4",
-      "source": "GitHub",
-      "stars": 186,
-      "user": "JohnKinyanjui"
     },
     {
       "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
@@ -3504,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 161,
       "user": "hairyf"
     },
     {
@@ -3521,6 +3491,21 @@
       "source": "GitHub",
       "stars": 155,
       "user": "smthdagg"
+    },
+    {
+      "title": "hsusul/lore - git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "url": "https://github.com/hsusul/lore",
+      "published_at": "2026-08-10T22:07:29Z",
+      "description": "git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/231806842?v=4",
+      "source": "GitHub",
+      "stars": 154,
+      "user": "hsusul"
     },
     {
       "title": "Flirt: GitHub and Mailing List backends",
