@@ -105,15 +105,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 11 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
 | 12 | [MCP Configuration for Looker with Codex](https://dev.to/gde/mcp-configuration-for-looker-with-codex-30e1) | Dev.to |
 | 13 | [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63) | Dev.to |
-| 14 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
-| 15 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
+| 14 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
+| 15 | [Amazon Bedrock Agents Orchestrating Google ADK over A2A](https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b) | Dev.to |
 | 16 | [Vibecoding EventMatch, built with Antigravity, ADK, and Gemini](https://dev.to/gde/vibecoding-eventmatch-built-with-antigravity-adk-and-gemini-2gc7) | Dev.to |
 | 17 | [Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll) | Dev.to |
 | 18 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
 | 19 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 20 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 21:29:49 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 21:50:17 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
+**1. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> B-tree, trade-offs, query performance
 
 </details>
 
-**2. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
+**2. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Scope, hoisting, and reassignment capabilities
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**3. `Database` — Design a database schema for a social media platform**
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -168,7 +168,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 44 | 24.3% | `█████████████░░░░░░░` |
 | **Tools** | 40 | 22.1% | `████████████░░░░░░░░` |
 | **Python** | 34 | 18.8% | `██████████░░░░░░░░░░` |
-| **Security** | 19 | 10.5% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.9% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.3% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.2% | `████░░░░░░░░░░░░░░░░` |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5%
-Go              █████████████████████████ 22.5%
-Python          ███████████████████████ 21.3%
-Java            ███████████████████████ 21.3%
+JavaScript      ██████████████████████████████ 27.7%
+Go              ████████████████████████ 22.0%
+Python          ███████████████████████ 21.4%
+Java            ███████████████████████ 21.4%
 Rust            █████ 5.0%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -209,7 +209,7 @@ PHP             █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 44
-    "Go" : 36
+    "Go" : 35
     "Python" : 34
     "Java" : 34
     "Rust" : 8
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 19:29:49 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 19:50:17 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

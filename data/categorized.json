@@ -60,21 +60,6 @@
       "user": "xbill"
     },
     {
-      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
-      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
-      "published_at": "2026-07-29T19:14:47Z",
-      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
-      "tags": [
-        "agents",
-        "googleadk",
-        "a2aprotocol",
-        "aws"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
       "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
       "published_at": "2026-08-14T16:36:10Z",
@@ -88,6 +73,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Amazon Bedrock Agents Orchestrating Google ADK over A2A",
+      "url": "https://dev.to/gde/amazon-bedrock-agents-orchestrating-google-adk-over-a2a-5c2b",
+      "published_at": "2026-07-29T19:14:47Z",
+      "description": "This article explains how to build and test a cross-cloud currency agent. An Amazon Bedrock master...",
+      "tags": [
+        "agents",
+        "googleadk",
+        "a2aprotocol",
+        "aws"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fbedrock-adk-a2a-currency%2Fmain%2Fdevto-cover-bedrock-master.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Vibecoding EventMatch, built with Antigravity, ADK, and Gemini",
@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "ysr666"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11017,
+      "stars": 11052,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130084,
+      "stars": 130173,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "lexmount"
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2991,
+      "stars": 2996,
       "user": "xiaobright"
     },
     {
@@ -1272,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 567,
       "user": "NousResearch"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "ysr666"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130084,
+      "stars": 130173,
       "user": "deepseek-ai"
     },
     {
@@ -1347,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8778,
+      "stars": 8785,
       "user": "anywhere-labs"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3395,
+      "stars": 3399,
       "user": "zhu1090093659"
     },
     {
@@ -1392,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1593,
+      "stars": 1597,
       "user": "dmmulroy"
     },
     {
@@ -1813,7 +1813,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "ysr666"
     },
     {
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11017,
+      "stars": 11052,
       "user": "guillaumemeyer"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4960,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1150,
       "user": "Leutenegger"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "0xsline"
     },
     {
@@ -2366,7 +2366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11017,
+      "stars": 11052,
       "user": "guillaumemeyer"
     },
     {
@@ -2521,7 +2521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3395,
+      "stars": 3399,
       "user": "zhu1090093659"
     }
   ],
@@ -3034,19 +3034,6 @@
       "user": "xinxinshuhao-create"
     },
     {
-      "title": "Everything is about to “go dark”",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "published_at": "2026-08-15T07:50:05.356-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "untitaker"
-    },
-    {
       "title": "How to tell if your AI platforms’ accounts have been hacked",
       "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
       "published_at": "2026-08-15T16:10:00.000Z",
@@ -3187,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 2991,
+      "stars": 2996,
       "user": "xiaobright"
     },
     {
@@ -3202,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 567,
       "user": "NousResearch"
     },
     {
@@ -3247,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 425,
       "user": "ysr666"
     },
     {
@@ -3262,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11017,
+      "stars": 11052,
       "user": "guillaumemeyer"
     },
     {
@@ -3277,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 4945,
+      "stars": 4960,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3292,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1149,
+      "stars": 1150,
       "user": "Leutenegger"
     },
     {
@@ -3307,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 594,
       "user": "0xsline"
     },
     {
@@ -3412,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 130084,
+      "stars": 130173,
       "user": "deepseek-ai"
     },
     {
@@ -3427,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 8778,
+      "stars": 8785,
       "user": "anywhere-labs"
     },
     {
@@ -3442,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3395,
+      "stars": 3399,
       "user": "zhu1090093659"
     },
     {
@@ -3472,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1593,
+      "stars": 1597,
       "user": "dmmulroy"
     },
     {
@@ -3487,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/231927209?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "lexmount"
     },
     {
