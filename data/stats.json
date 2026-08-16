@@ -18,14 +18,14 @@
     "Mobile": 4,
     "Cloud": 15,
     "Database": 4,
-    "Security": 19,
+    "Security": 18,
     "Tools": 40
   },
   "by_language": {
     "Python": 34,
     "JavaScript": 44,
     "Rust": 8,
-    "Go": 36,
+    "Go": 35,
     "CSharp": 1,
     "Java": 34,
     "Swift": 1,
@@ -101,8 +101,8 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-15": 19,
-    "2026-08-16": 15
+    "2026-08-15": 18,
+    "2026-08-16": 16
   },
   "top_tags": {
     "github": 25,
@@ -128,12 +128,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Python": "21.3",
-    "JavaScript": "27.5",
+    "Python": "21.4",
+    "JavaScript": "27.7",
     "Rust": "5.0",
-    "Go": "22.5",
+    "Go": "22.0",
     "CSharp": "0.6",
-    "Java": "21.3",
+    "Java": "21.4",
     "Swift": "0.6",
     "Ruby": "0.6",
     "PHP": "0.6"
