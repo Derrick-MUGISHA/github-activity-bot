@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-16 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-16 14:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci) | Dev.to |
 | 20 | [Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)](https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g) | Dev.to |
 
-<sub>Last fetched: Sun, 16 Aug 2026 13:51:34 CAT</sub>
+<sub>Last fetched: Sun, 16 Aug 2026 14:14:28 CAT</sub>
 
 
 ---
@@ -122,14 +122,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — How would you optimize a React app's performance?**
+**1. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -144,14 +144,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**3. `Database` — Design a database schema for a social media platform**
+**3. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 11:51:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 16 Aug 2026 12:14:28 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
