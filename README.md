@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-17 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-17 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 | 20 | [Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline](https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo) | Dev.to |
 
-<sub>Last fetched: Mon, 17 Aug 2026 19:49:25 CAT</sub>
+<sub>Last fetched: Mon, 17 Aug 2026 20:20:19 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is database normalization and denormalization?**
+**1. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
-**2. `SystemDesign` — How would you design a rate limiter?**
+**2. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
-**3. `NodeJS` — Implement rate limiting for an API**
+**3. `JavaScript` — What are closures and provide a practical example?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Function + lexical environment, data privacy, callbacks
 
 </details>
 
@@ -166,7 +166,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 69 | 37.5% | `████████████████████` |
 | **JavaScript** | 46 | 25.0% | `█████████████░░░░░░░` |
-| **Tools** | 38 | 20.7% | `███████████░░░░░░░░░` |
+| **Tools** | 39 | 21.2% | `███████████░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `██████████░░░░░░░░░░` |
 | **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
@@ -197,8 +197,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 JavaScript      ██████████████████████████████ 28.9%
 Java            ███████████████████████ 22.6%
 Python          ██████████████████████ 20.8%
-Go              ████████████████████ 19.5%
-Rust            █████ 5.0%
+Go              █████████████████████ 20.1%
+Rust            █████ 4.4%
 Ruby            █ 1.3%
 CSharp          █ 0.6%
 Swift           █ 0.6%
@@ -211,8 +211,8 @@ pie title Programming Languages Distribution
     "JavaScript" : 46
     "Java" : 36
     "Python" : 33
-    "Go" : 31
-    "Rust" : 8
+    "Go" : 32
+    "Rust" : 7
     "Ruby" : 2
     "CSharp" : 1
     "Swift" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-16-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 17 Aug 2026 17:49:25 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 17 Aug 2026 18:20:19 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
