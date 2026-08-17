@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13096,
+      "stars": 13123,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "pgrundev"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 148168,
+      "stars": 148323,
       "user": "deepseek-ai"
     },
     {
@@ -774,7 +774,21 @@
       "user": "Ali"
     },
     {
-      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "published_at": "2026-08-17T17:10:59.000Z",
+      "description": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+      "tags": [
+        "Apps",
+        "TC",
+        "RSS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "published_at": "2026-08-17T16:38:44.000Z",
       "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
@@ -897,20 +911,18 @@
       "user": "Anthony Ha"
     },
     {
-      "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "published_at": "2026-08-16T20:32:01.000Z",
-      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
+      "published_at": "2026-08-17T14:10:43.000Z",
+      "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
       "tags": [
+        "ai agents",
         "AI",
-        "Social",
-        "Mark Zuckerberg",
-        "Meta",
-        "Equity podcast"
+        "JavaScript"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "source": "freeCodeCamp",
+      "user": "Kayode Adeniyi"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1288,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3405,
+      "stars": 3407,
       "user": "xiaobright"
     },
     {
@@ -1303,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 724,
       "user": "zouyuxuan122"
     },
     {
@@ -1318,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "ysr666"
     },
     {
@@ -1333,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 597,
       "user": "NousResearch"
     },
     {
@@ -1363,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 148168,
+      "stars": 148323,
       "user": "deepseek-ai"
     },
     {
@@ -1378,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11479,
+      "stars": 11511,
       "user": "anywhere-labs"
     },
     {
@@ -1393,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4060,
+      "stars": 4067,
       "user": "zhu1090093659"
     },
     {
@@ -1408,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2217,
+      "stars": 2233,
       "user": "dmmulroy"
     },
     {
@@ -1423,14 +1435,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1797,
+      "stars": 1800,
       "user": "ccch1mneyyy"
     },
     {
       "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
       "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
       "published_at": "2026-08-17T16:24:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -1565,6 +1577,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
+    },
+    {
+      "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
+      "url": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
+      "published_at": "2026-08-17T14:10:43.000Z",
+      "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
+      "tags": [
+        "ai agents",
+        "AI",
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kayode Adeniyi"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1837,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "ysr666"
     },
     {
@@ -1852,7 +1878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13096,
+      "stars": 13123,
       "user": "guillaumemeyer"
     },
     {
@@ -1867,7 +1893,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7486,
+      "stars": 7494,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1897,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "0xsline"
     },
     {
@@ -2088,19 +2114,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Nikhil Adithyan"
-    },
-    {
-      "title": "Python for Mechanical Engineering",
-      "url": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
-      "published_at": "2026-08-13T13:50:26.000Z",
-      "description": "Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical",
-      "tags": [
-        "Python",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "DevOps": [
@@ -2412,7 +2425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13096,
+      "stars": 13123,
       "user": "guillaumemeyer"
     },
     {
@@ -2550,8 +2563,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4060,
+      "stars": 4067,
       "user": "zhu1090093659"
+    },
+    {
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "url": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "published_at": "2026-08-17T17:10:59.000Z",
+      "description": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
+      "tags": [
+        "Apps",
+        "TC",
+        "RSS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Cloud": [
@@ -2809,6 +2836,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+      "published_at": "2026-08-17T11:13:25.964-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mpweiher"
     },
     {
       "title": "Reading from Postgres DB using Polars and filter on list of strings",
@@ -3203,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3405,
+      "stars": 3407,
       "user": "xiaobright"
     },
     {
@@ -3218,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 724,
       "user": "zouyuxuan122"
     },
     {
@@ -3233,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "ysr666"
     },
     {
@@ -3248,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 597,
       "user": "NousResearch"
     },
     {
@@ -3278,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13096,
+      "stars": 13123,
       "user": "guillaumemeyer"
     },
     {
@@ -3293,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7486,
+      "stars": 7494,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3323,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "0xsline"
     },
     {
@@ -3353,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 237,
       "user": "b-nnett"
     },
     {
@@ -3368,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 182,
       "user": "pgrundev"
     },
     {
@@ -3428,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 148168,
+      "stars": 148323,
       "user": "deepseek-ai"
     },
     {
@@ -3443,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11479,
+      "stars": 11511,
       "user": "anywhere-labs"
     },
     {
@@ -3458,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4060,
+      "stars": 4067,
       "user": "zhu1090093659"
     },
     {
@@ -3473,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2217,
+      "stars": 2233,
       "user": "dmmulroy"
     },
     {
@@ -3488,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1797,
+      "stars": 1800,
       "user": "ccch1mneyyy"
     },
     {
@@ -3548,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 158,
       "user": "zunmax"
     },
     {
