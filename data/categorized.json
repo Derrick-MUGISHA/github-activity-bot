@@ -194,21 +194,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
       "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
       "published_at": "2026-08-10T14:50:38Z",
@@ -222,6 +207,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
       "source": "Dev.to",
       "user": "Sarvar Nadaf"
+    },
+    {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -568,38 +568,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 593,
       "user": "ysr666"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 12807,
-      "user": "guillaumemeyer"
-    },
-    {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 446,
-      "user": "xinxinshuhao-create"
     },
     {
       "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
@@ -643,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 146035,
+      "stars": 146510,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 415,
       "user": "hairyf"
     },
     {
@@ -707,16 +677,17 @@
       "user": "dungoutlook1"
     },
     {
-      "title": "AI Software Development – What Does The Data Say?",
-      "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-      "published_at": "2026-08-16T19:08:04.567-05:00",
+      "title": "Vetted AI code is hard to justify",
+      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "published_at": "2026-08-17T06:11:39.353-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "ai",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ebababi"
+      "user": "amoffat"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -787,6 +758,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ali"
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "published_at": "2026-08-17T13:10:05.000Z",
+      "description": "Wispr’s total funding is now over $361 million.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Funding",
+        "Wispr"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
@@ -905,38 +891,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "published_at": "2026-08-15T16:10:00.000Z",
-      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "OpenAI",
-        "Anthropic",
-        "ChatGPT"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Every fusion startup that has raised over $100M",
-      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "published_at": "2026-08-15T13:15:20.000Z",
-      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "tags": [
-        "Climate",
-        "Fundraising",
-        "Startups",
-        "evergreens",
-        "fusion power"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1123,21 +1077,6 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
       "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
       "published_at": "2026-08-10T14:50:38Z",
@@ -1151,6 +1090,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
       "source": "Dev.to",
       "user": "Sarvar Nadaf"
+    },
+    {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
     },
     {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
@@ -1314,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3381,
+      "stars": 3386,
       "user": "xiaobright"
     },
     {
@@ -1329,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 690,
       "user": "zouyuxuan122"
     },
     {
@@ -1344,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "NousResearch"
     },
     {
@@ -1359,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 593,
       "user": "ysr666"
     },
     {
@@ -1389,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 146035,
+      "stars": 146510,
       "user": "deepseek-ai"
     },
     {
@@ -1404,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11209,
+      "stars": 11278,
       "user": "anywhere-labs"
     },
     {
@@ -1419,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4003,
+      "stars": 4020,
       "user": "zhu1090093659"
     },
     {
@@ -1434,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2106,
       "user": "dmmulroy"
     },
     {
@@ -1449,14 +1403,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1778,
+      "stars": 1782,
       "user": "ccch1mneyyy"
     },
     {
       "title": "How to populate an HTML input value from a text file using JavaScript",
       "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
       "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1583,19 +1537,20 @@
       "user": "Little Thinker"
     },
     {
-      "title": "How to fix image importation problem in PhaserJs",
-      "url": "https://stackoverflow.com/questions/79995236/how-to-fix-image-importation-problem-in-phaserjs",
-      "published_at": "2026-08-14T23:38:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How to build a `RW-group mutual exclusion lock` using Atomics",
+      "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-rw-group-mutual-exclusion-lock-using-atomics",
+      "published_at": "2026-08-05T14:28:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
+        "best-practices",
         "javascript",
-        "import",
-        "game-development",
-        "phaser-framework"
+        "multithreading",
+        "atomic",
+        "sharedarraybuffer"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33029732"
+      "user": "Bledder"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1868,83 +1823,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 593,
       "user": "ysr666"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "title": "How to implement CEGIS with Python, Z3, and Knuth-Bendix completion?",
+      "url": "https://stackoverflow.com/questions/79995839/how-to-implement-cegis-with-python-z3-and-knuth-bendix-completion",
+      "published_at": "2026-08-17T13:21:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "z3"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 12807,
-      "user": "guillaumemeyer"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "el pollitto cientifico"
     },
     {
-      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "published_at": "2026-08-13T13:55:31Z",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "title": "How can I retry a Python API request when it times out?",
+      "url": "https://stackoverflow.com/questions/79995828/how-can-i-retry-a-python-api-request-when-it-times-out",
+      "published_at": "2026-08-17T12:51:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
-        "python",
-        "github",
-        "open-source"
+        "best-practices",
+        "python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
-      "source": "GitHub",
-      "stars": 7318,
-      "user": "awesome-dsh-plugin"
-    },
-    {
-      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "published_at": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
-      "source": "GitHub",
-      "stars": 1168,
-      "user": "Leutenegger"
-    },
-    {
-      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "published_at": "2026-08-11T13:14:49Z",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 678,
-      "user": "0xsline"
-    },
-    {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 446,
-      "user": "xinxinshuhao-create"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rowan maththias"
     },
     {
       "title": "Reading from Postgres DB using Polars and filter on list of strings",
@@ -2060,34 +1966,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ali"
-    },
-    {
-      "title": "Scan directories and copy those that have more than n files",
-      "url": "https://stackoverflow.com/questions/79995508/scan-directories-and-copy-those-that-have-more-than-n-files",
-      "published_at": "2026-08-16T07:38:19.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "python",
-        "bash",
-        "shell"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gauffke"
-    },
-    {
-      "title": "How to make a Select All function for tkinter ScrolledText",
-      "url": "https://stackoverflow.com/questions/79995614/how-to-make-a-select-all-function-for-tkinter-scrolledtext",
-      "published_at": "2026-08-16T18:37:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "selectall",
-        "tkinter-scrolledtext"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2433,25 +2311,10 @@
       "user": "velmu"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 12807,
-      "user": "guillaumemeyer"
-    },
-    {
       "title": "How to populate an HTML input value from a text file using JavaScript",
       "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
       "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2598,7 +2461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4003,
+      "stars": 4020,
       "user": "zhu1090093659"
     }
   ],
@@ -3067,29 +2930,14 @@
       "user": "ewenjo"
     },
     {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 446,
-      "user": "xinxinshuhao-create"
-    },
-    {
       "title": "Passphrase-less reboots using kexec under NixOS",
       "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
       "published_at": "2026-08-17T04:53:54.741-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "linux",
         "nix",
-        "security",
-        "unix"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3109,22 +2957,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "published_at": "2026-08-15T16:10:00.000Z",
-      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "OpenAI",
-        "Anthropic",
-        "ChatGPT"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3251,7 +3083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3381,
+      "stars": 3386,
       "user": "xiaobright"
     },
     {
@@ -3266,7 +3098,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 690,
       "user": "zouyuxuan122"
     },
     {
@@ -3281,7 +3113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 595,
       "user": "NousResearch"
     },
     {
@@ -3296,7 +3128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 593,
       "user": "ysr666"
     },
     {
@@ -3315,81 +3147,6 @@
       "user": "SheberDavid"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 12807,
-      "user": "guillaumemeyer"
-    },
-    {
-      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "published_at": "2026-08-13T13:55:31Z",
-      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
-      "source": "GitHub",
-      "stars": 7318,
-      "user": "awesome-dsh-plugin"
-    },
-    {
-      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "published_at": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
-      "source": "GitHub",
-      "stars": 1168,
-      "user": "Leutenegger"
-    },
-    {
-      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "published_at": "2026-08-11T13:14:49Z",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 678,
-      "user": "0xsline"
-    },
-    {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 446,
-      "user": "xinxinshuhao-create"
-    },
-    {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
       "url": "https://github.com/b-nnett/codex-subscription-router",
       "published_at": "2026-08-16T09:35:21Z",
@@ -3401,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 216,
       "user": "b-nnett"
     },
     {
@@ -3476,7 +3233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 146035,
+      "stars": 146510,
       "user": "deepseek-ai"
     },
     {
@@ -3491,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11209,
+      "stars": 11278,
       "user": "anywhere-labs"
     },
     {
@@ -3506,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4003,
+      "stars": 4020,
       "user": "zhu1090093659"
     },
     {
@@ -3521,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2059,
+      "stars": 2106,
       "user": "dmmulroy"
     },
     {
@@ -3536,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1778,
+      "stars": 1782,
       "user": "ccch1mneyyy"
     },
     {
@@ -3551,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 415,
       "user": "hairyf"
     },
     {
