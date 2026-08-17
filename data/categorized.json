@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 624,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13123,
+      "stars": 13152,
       "user": "guillaumemeyer"
     },
     {
@@ -613,23 +613,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "pgrundev"
-    },
-    {
-      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "published_at": "2026-08-11T07:06:43Z",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
-      "source": "GitHub",
-      "stars": 97,
-      "user": "trefeon"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -643,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 148323,
+      "stars": 148519,
       "user": "deepseek-ai"
     },
     {
@@ -852,13 +837,13 @@
       "title": "WordPress.com targets the next generation of web creators with a free student plan",
       "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
       "published_at": "2026-08-17T14:56:00.000Z",
-      "description": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+      "description": "WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.",
       "tags": [
         "Apps",
         "Commerce",
+        "Automattic",
         "students",
-        "WordPress",
-        "wordpress.com"
+        "WordPress"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1300,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3407,
+      "stars": 3411,
       "user": "xiaobright"
     },
     {
@@ -1315,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 730,
       "user": "zouyuxuan122"
     },
     {
@@ -1330,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 624,
       "user": "ysr666"
     },
     {
@@ -1345,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "NousResearch"
     },
     {
@@ -1375,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 148323,
+      "stars": 148519,
       "user": "deepseek-ai"
     },
     {
@@ -1390,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11511,
+      "stars": 11523,
       "user": "anywhere-labs"
     },
     {
@@ -1405,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4067,
+      "stars": 4073,
       "user": "zhu1090093659"
     },
     {
@@ -1420,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2233,
+      "stars": 2247,
       "user": "dmmulroy"
     },
     {
@@ -1435,8 +1420,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1802,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "What should I do to become a good at Javascript",
+      "url": "https://stackoverflow.com/questions/79995905/what-should-i-do-to-become-a-good-at-javascript",
+      "published_at": "2026-08-17T17:14:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "advice",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tanish Bhoir"
+    },
+    {
+      "title": "Is playwright being used efficiently for test automation?",
+      "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
+      "published_at": "2026-08-17T17:12:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "testing",
+        "automated-tests",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sri Ramya"
     },
     {
       "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
@@ -1549,34 +1563,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
-    },
-    {
-      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
-      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
-      "published_at": "2026-08-14T06:33:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "dom",
-        "conditional-statements"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Robin Jhon"
-    },
-    {
-      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
-      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
-      "published_at": "2026-08-15T20:56:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "typescript",
-        "vscode-extensions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
     },
     {
       "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
@@ -1863,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 624,
       "user": "ysr666"
     },
     {
@@ -1878,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13123,
+      "stars": 13152,
       "user": "guillaumemeyer"
     },
     {
@@ -1893,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7494,
+      "stars": 7501,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1908,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1171,
       "user": "Leutenegger"
     },
     {
@@ -1923,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "0xsline"
     },
     {
@@ -2425,7 +2411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13123,
+      "stars": 13152,
       "user": "guillaumemeyer"
     },
     {
@@ -2563,7 +2549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4067,
+      "stars": 4073,
       "user": "zhu1090093659"
     },
     {
@@ -3242,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3407,
+      "stars": 3411,
       "user": "xiaobright"
     },
     {
@@ -3257,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 730,
       "user": "zouyuxuan122"
     },
     {
@@ -3272,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 624,
       "user": "ysr666"
     },
     {
@@ -3287,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "NousResearch"
     },
     {
@@ -3317,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13123,
+      "stars": 13152,
       "user": "guillaumemeyer"
     },
     {
@@ -3332,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7494,
+      "stars": 7501,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3347,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1170,
+      "stars": 1171,
       "user": "Leutenegger"
     },
     {
@@ -3362,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 683,
+      "stars": 684,
       "user": "0xsline"
     },
     {
@@ -3392,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 240,
       "user": "b-nnett"
     },
     {
@@ -3407,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 184,
       "user": "pgrundev"
     },
     {
@@ -3441,19 +3427,19 @@
       "user": "WongLoki"
     },
     {
-      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "published_at": "2026-08-11T07:06:43Z",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "title": "yutat23/lsoff - CLI / TUI that lists listening TCP/UDP ports",
+      "url": "https://github.com/yutat23/lsoff",
+      "published_at": "2026-08-14T14:27:33Z",
+      "description": "CLI / TUI that lists listening TCP/UDP ports",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
       "stars": 97,
-      "user": "trefeon"
+      "user": "yutat23"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3467,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 148323,
+      "stars": 148519,
       "user": "deepseek-ai"
     },
     {
@@ -3482,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11511,
+      "stars": 11523,
       "user": "anywhere-labs"
     },
     {
@@ -3497,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4067,
+      "stars": 4073,
       "user": "zhu1090093659"
     },
     {
@@ -3512,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2233,
+      "stars": 2247,
       "user": "dmmulroy"
     },
     {
@@ -3527,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1802,
       "user": "ccch1mneyyy"
     },
     {
@@ -3619,6 +3605,22 @@
       "user": "dhruvp"
     },
     {
+      "title": "Is playwright being used efficiently for test automation?",
+      "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
+      "published_at": "2026-08-17T17:12:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "testing",
+        "automated-tests",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sri Ramya"
+    },
+    {
       "title": "How to reliably parse Excel files when the sheet structure keeps changing?",
       "url": "https://stackoverflow.com/questions/79995574/how-to-reliably-parse-excel-files-when-the-sheet-structure-keeps-changing",
       "published_at": "2026-08-16T14:09:33.000Z",
@@ -3635,30 +3637,16 @@
       "user": "Milan"
     },
     {
-      "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
-      "url": "https://stackoverflow.com/questions/79995431/how-to-programmatically-create-a-file-and-write-content-using-vs-code-extension",
-      "published_at": "2026-08-15T20:56:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "typescript",
-        "vscode-extensions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad"
-    },
-    {
       "title": "WordPress.com targets the next generation of web creators with a free student plan",
       "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
       "published_at": "2026-08-17T14:56:00.000Z",
-      "description": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+      "description": "WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.",
       "tags": [
         "Apps",
         "Commerce",
+        "Automattic",
         "students",
-        "WordPress",
-        "wordpress.com"
+        "WordPress"
       ],
       "cover_image": null,
       "source": "TechCrunch",
