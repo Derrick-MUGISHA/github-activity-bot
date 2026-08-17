@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13403,
+      "stars": 13425,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "pgrundev"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 149624,
+      "stars": 149715,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "hairyf"
     },
     {
@@ -740,6 +740,22 @@
       "user": "bobby324"
     },
     {
+      "title": "Certain card classes (e.g., specific suit) missed or misclassified during object detection in live screen capture",
+      "url": "https://stackoverflow.com/questions/79995967/certain-card-classes-e-g-specific-suit-missed-or-misclassified-during-object",
+      "published_at": "2026-08-17T23:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "opencv",
+        "computer-vision",
+        "object-detection",
+        "roboflow"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Heimo Gutmann"
+    },
+    {
       "title": "BACnet/IP device discovery fails inside Kubernetes pod",
       "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
       "published_at": "2026-08-17T05:38:01.000Z",
@@ -766,22 +782,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tweaks.data"
-    },
-    {
-      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
-      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
-      "published_at": "2026-08-17T01:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "windows",
-        "stdout",
-        "background-process",
-        "io-redirection"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali"
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
@@ -908,6 +908,37 @@
       "user": "Amanda Silberling"
     },
     {
+      "title": "How to Work with Subqueries in SQL",
+      "url": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
+      "published_at": "2026-08-17T21:31:33.000Z",
+      "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
+      "tags": [
+        "SQL",
+        "subquery",
+        "correlated subquery",
+        "non-correlated subquery"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abdullah Rufai"
+    },
+    {
+      "title": "How to Scale LLM Inference for AI Agents Using vLLM",
+      "url": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/",
+      "published_at": "2026-08-17T20:49:36.000Z",
+      "description": "In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and",
+      "tags": [
+        "AI",
+        "agentic AI",
+        "vLLM",
+        "ai agents",
+        "openai"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Darsh Shah"
+    },
+    {
       "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
       "url": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
       "published_at": "2026-08-17T14:10:43.000Z",
@@ -981,22 +1012,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Jay Mehta"
-    },
-    {
-      "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
-      "published_at": "2026-08-13T17:38:27.000Z",
-      "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
-      "tags": [
-        "AI",
-        "PHP",
-        "cpanel",
-        "Gemini integration",
-        "SQL"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidozie Managwu"
     }
   ],
   "JavaScript": [
@@ -1312,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 738,
       "user": "zouyuxuan122"
     },
     {
@@ -1372,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 149624,
+      "stars": 149715,
       "user": "deepseek-ai"
     },
     {
@@ -1387,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11596,
+      "stars": 11607,
       "user": "anywhere-labs"
     },
     {
@@ -1402,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4093,
+      "stars": 4095,
       "user": "zhu1090093659"
     },
     {
@@ -1417,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2333,
+      "stars": 2348,
       "user": "dmmulroy"
     },
     {
@@ -1432,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1809,
+      "stars": 1811,
       "user": "ccch1mneyyy"
     },
     {
@@ -1636,22 +1651,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
-      "url": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
-      "published_at": "2026-08-13T17:44:25.000Z",
-      "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
-      "tags": [
-        "JavaScript",
-        "Game Development",
-        "Web Development",
-        "Open Source",
-        "Google Chrome"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
     }
   ],
   "Python": [
@@ -1876,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13403,
+      "stars": 13425,
       "user": "guillaumemeyer"
     },
     {
@@ -1891,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7557,
+      "stars": 7558,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1906,7 +1905,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1176,
       "user": "Leutenegger"
     },
     {
@@ -1938,6 +1937,22 @@
       "source": "GitHub",
       "stars": 449,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "Certain card classes (e.g., specific suit) missed or misclassified during object detection in live screen capture",
+      "url": "https://stackoverflow.com/questions/79995967/certain-card-classes-e-g-specific-suit-missed-or-misclassified-during-object",
+      "published_at": "2026-08-17T23:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "opencv",
+        "computer-vision",
+        "object-detection",
+        "roboflow"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Heimo Gutmann"
     },
     {
       "title": "Terminating Flask app by Ctrl+C does not trigger KeyboardInterrupt",
@@ -2064,22 +2079,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gauffke"
-    },
-    {
-      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
-      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
-      "published_at": "2026-08-17T01:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "windows",
-        "stdout",
-        "background-process",
-        "io-redirection"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2423,7 +2422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13403,
+      "stars": 13425,
       "user": "guillaumemeyer"
     },
     {
@@ -2485,22 +2484,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
-      "url": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
-      "published_at": "2026-08-13T17:44:25.000Z",
-      "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
-      "tags": [
-        "JavaScript",
-        "Game Development",
-        "Web Development",
-        "Open Source",
-        "Google Chrome"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Alex Oliinyk"
     }
   ],
   "Mobile": [
@@ -2561,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4093,
+      "stars": 4095,
       "user": "zhu1090093659"
     },
     {
@@ -2856,20 +2839,19 @@
       "user": "Melchior Reihlen-B&#246;rgers"
     },
     {
-      "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
-      "published_at": "2026-08-13T17:38:27.000Z",
-      "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
+      "title": "How to Work with Subqueries in SQL",
+      "url": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
+      "published_at": "2026-08-17T21:31:33.000Z",
+      "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
       "tags": [
-        "AI",
-        "PHP",
-        "cpanel",
-        "Gemini integration",
-        "SQL"
+        "SQL",
+        "subquery",
+        "correlated subquery",
+        "non-correlated subquery"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Chidozie Managwu"
+      "user": "Abdullah Rufai"
     }
   ],
   "Security": [
@@ -3235,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 738,
       "user": "zouyuxuan122"
     },
     {
@@ -3295,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13403,
+      "stars": 13425,
       "user": "guillaumemeyer"
     },
     {
@@ -3310,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7557,
+      "stars": 7558,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3325,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1176,
       "user": "Leutenegger"
     },
     {
@@ -3385,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "pgrundev"
     },
     {
@@ -3445,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 149624,
+      "stars": 149715,
       "user": "deepseek-ai"
     },
     {
@@ -3460,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11596,
+      "stars": 11607,
       "user": "anywhere-labs"
     },
     {
@@ -3475,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4093,
+      "stars": 4095,
       "user": "zhu1090093659"
     },
     {
@@ -3490,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2333,
+      "stars": 2348,
       "user": "dmmulroy"
     },
     {
@@ -3505,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1809,
+      "stars": 1811,
       "user": "ccch1mneyyy"
     },
     {
@@ -3520,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 422,
+      "stars": 423,
       "user": "hairyf"
     },
     {
@@ -3655,22 +3637,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
-      "published_at": "2026-08-13T17:38:27.000Z",
-      "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
-      "tags": [
-        "AI",
-        "PHP",
-        "cpanel",
-        "Gemini integration",
-        "SQL"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chidozie Managwu"
     }
   ]
 }
