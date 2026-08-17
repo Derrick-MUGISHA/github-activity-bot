@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 498,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12070,
+      "stars": 12138,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "trefeon"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 138386,
+      "stars": 139058,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 351,
       "user": "hairyf"
     },
     {
@@ -1274,23 +1274,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3211,
+      "stars": 3228,
       "user": "xiaobright"
-    },
-    {
-      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "published_at": "2026-08-13T16:40:20Z",
-      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
-      "source": "GitHub",
-      "stars": 589,
-      "user": "NousResearch"
     },
     {
       "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
@@ -1304,8 +1289,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "zouyuxuan122"
+    },
+    {
+      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "published_at": "2026-08-13T16:40:20Z",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "source": "GitHub",
+      "stars": 588,
+      "user": "NousResearch"
     },
     {
       "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
@@ -1319,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 514,
       "user": "SheberDavid"
     },
     {
@@ -1334,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 498,
       "user": "ysr666"
     },
     {
@@ -1349,14 +1349,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 138386,
+      "stars": 139058,
       "user": "deepseek-ai"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "tags": [
         "typescript",
         "github",
@@ -1364,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 9980,
+      "stars": 10099,
       "user": "anywhere-labs"
     },
     {
@@ -1379,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3670,
+      "stars": 3690,
       "user": "zhu1090093659"
     },
     {
@@ -1394,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1712,
+      "stars": 1722,
       "user": "dmmulroy"
     },
     {
@@ -1409,8 +1409,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1662,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "The event loop, call stack, and setTimeout of 0 or some small value",
+      "url": "https://stackoverflow.com/questions/79995700/the-event-loop-call-stack-and-settimeout-of-0-or-some-small-value",
+      "published_at": "2026-08-17T05:03:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "settimeout"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "How to reliably parse Excel files when the sheet structure keeps changing?",
@@ -1543,19 +1556,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bledder"
-    },
-    {
-      "title": "how to reset <input type = \"file\"> in Angular",
-      "url": "https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file-in-angular",
-      "published_at": "2013-12-12T16:46:23.000Z",
-      "description": "Stack Overflow question · 29 answers · score 561",
-      "tags": [
-        "javascript",
-        "angular"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jesus"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1828,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 498,
       "user": "ysr666"
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12070,
+      "stars": 12138,
       "user": "guillaumemeyer"
     },
     {
@@ -1858,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 6066,
+      "stars": 6187,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1873,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1159,
       "user": "Leutenegger"
     },
     {
@@ -1888,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 643,
       "user": "0xsline"
     },
     {
@@ -1910,7 +1910,7 @@
       "title": "How to implement the deterministic version of Algorithm 1 from my 3-SAT paper in Python?",
       "url": "https://stackoverflow.com/questions/79995696/how-to-implement-the-deterministic-version-of-algorithm-1-from-my-3-sat-paper-in",
       "published_at": "2026-08-17T04:11:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "algorithm",
@@ -2385,7 +2385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12070,
+      "stars": 12138,
       "user": "guillaumemeyer"
     },
     {
@@ -2509,7 +2509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3670,
+      "stars": 3690,
       "user": "zhu1090093659"
     }
   ],
@@ -3147,23 +3147,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3211,
+      "stars": 3228,
       "user": "xiaobright"
-    },
-    {
-      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "published_at": "2026-08-13T16:40:20Z",
-      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
-      "source": "GitHub",
-      "stars": 589,
-      "user": "NousResearch"
     },
     {
       "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
@@ -3177,8 +3162,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 594,
       "user": "zouyuxuan122"
+    },
+    {
+      "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "published_at": "2026-08-13T16:40:20Z",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "source": "GitHub",
+      "stars": 588,
+      "user": "NousResearch"
     },
     {
       "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
@@ -3192,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 514,
       "user": "SheberDavid"
     },
     {
@@ -3207,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 498,
       "user": "ysr666"
     },
     {
@@ -3222,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12070,
+      "stars": 12138,
       "user": "guillaumemeyer"
     },
     {
@@ -3237,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 6066,
+      "stars": 6187,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3252,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1158,
+      "stars": 1159,
       "user": "Leutenegger"
     },
     {
@@ -3267,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 643,
       "user": "0xsline"
     },
     {
@@ -3312,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 136,
       "user": "b-nnett"
     },
     {
@@ -3357,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "trefeon"
     },
     {
@@ -3372,14 +3372,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 138386,
+      "stars": 139058,
       "user": "deepseek-ai"
     },
     {
-      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "title": "anywhere-labs/deepseek-harness-desktop - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "published_at": "2026-08-13T16:30:50Z",
-      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "tags": [
         "typescript",
         "github",
@@ -3387,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 9980,
+      "stars": 10099,
       "user": "anywhere-labs"
     },
     {
@@ -3402,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3670,
+      "stars": 3690,
       "user": "zhu1090093659"
     },
     {
@@ -3417,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1712,
+      "stars": 1722,
       "user": "dmmulroy"
     },
     {
@@ -3432,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1662,
       "user": "ccch1mneyyy"
     },
     {
@@ -3447,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 351,
       "user": "hairyf"
     },
     {
@@ -3492,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 143,
       "user": "zunmax"
     },
     {
