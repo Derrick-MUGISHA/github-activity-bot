@@ -359,21 +359,6 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
       "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
       "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
       "published_at": "2026-08-07T11:30:53Z",
@@ -387,6 +372,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
       "source": "Dev.to",
       "user": "Muhammad Ammar"
+    },
+    {
+      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
+      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
+      "published_at": "2026-08-07T09:38:40Z",
+      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "devops",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12562,
+      "stars": 12634,
       "user": "guillaumemeyer"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "trefeon"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 144142,
+      "stars": 144620,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "hairyf"
     },
     {
@@ -751,9 +751,7 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "docker",
         "kubernetes",
-        "docker-network",
         "bacnet"
       ],
       "cover_image": null,
@@ -1301,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3330,
+      "stars": 3347,
       "user": "xiaobright"
     },
     {
@@ -1316,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 655,
       "user": "zouyuxuan122"
     },
     {
@@ -1346,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "ysr666"
     },
     {
@@ -1361,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 510,
       "user": "SheberDavid"
     },
     {
@@ -1376,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 144142,
+      "stars": 144620,
       "user": "deepseek-ai"
     },
     {
@@ -1391,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 10941,
+      "stars": 11007,
       "user": "anywhere-labs"
     },
     {
@@ -1406,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3913,
+      "stars": 3930,
       "user": "zhu1090093659"
     },
     {
@@ -1421,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1903,
+      "stars": 1932,
       "user": "dmmulroy"
     },
     {
@@ -1436,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1752,
+      "stars": 1760,
       "user": "ccch1mneyyy"
     },
     {
@@ -1855,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "ysr666"
     },
     {
@@ -1870,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12562,
+      "stars": 12634,
       "user": "guillaumemeyer"
     },
     {
@@ -1885,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7068,
+      "stars": 7166,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1915,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "0xsline"
     },
     {
@@ -1934,6 +1932,20 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "Terminating Flask app by Ctrl+C does not trigger KeyboardInterrupt",
+      "url": "https://stackoverflow.com/questions/79995799/terminating-flask-app-by-ctrlc-does-not-trigger-keyboardinterrupt",
+      "published_at": "2026-08-17T10:29:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "flask",
+        "keyboardinterrupt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "vassiliev"
+    },
+    {
       "title": "Logic shared between instances and class methods",
       "url": "https://stackoverflow.com/questions/79995750/logic-shared-between-instances-and-class-methods",
       "published_at": "2026-08-17T08:05:43.000Z",
@@ -1950,7 +1962,7 @@
       "title": "How to parse and decode the undocumented 37-character transaction reference string from Revolut's UK Faster Payments?",
       "url": "https://stackoverflow.com/questions/79995767/how-to-parse-and-decode-the-undocumented-37-character-transaction-reference-stri",
       "published_at": "2026-08-17T08:57:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "substring",
@@ -1983,9 +1995,7 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "docker",
         "kubernetes",
-        "docker-network",
         "bacnet"
       ],
       "cover_image": null,
@@ -2050,30 +2060,18 @@
       "user": "Ali"
     },
     {
-      "title": "Create a board on the console for the game tic tac toe",
-      "url": "https://stackoverflow.com/questions/79995636/create-a-board-on-the-console-for-the-game-tic-tac-toe",
-      "published_at": "2026-08-16T20:56:42.000Z",
-      "description": "Stack Overflow question · 3 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sumo"
-    },
-    {
-      "title": "How to make a Select All function for tkinter ScrolledText",
-      "url": "https://stackoverflow.com/questions/79995614/how-to-make-a-select-all-function-for-tkinter-scrolledtext",
-      "published_at": "2026-08-16T18:37:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Scan directories and copy those that have more than n files",
+      "url": "https://stackoverflow.com/questions/79995508/scan-directories-and-copy-those-that-have-more-than-n-files",
+      "published_at": "2026-08-16T07:38:19.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "python",
-        "selectall",
-        "tkinter-scrolledtext"
+        "bash",
+        "shell"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
+      "user": "Gauffke"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2294,9 +2292,7 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "docker",
         "kubernetes",
-        "docker-network",
         "bacnet"
       ],
       "cover_image": null,
@@ -2432,7 +2428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12562,
+      "stars": 12634,
       "user": "guillaumemeyer"
     },
     {
@@ -2586,7 +2582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3913,
+      "stars": 3930,
       "user": "zhu1090093659"
     }
   ],
@@ -3056,6 +3052,20 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "Passphrase-less reboots using kexec under NixOS",
+      "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+      "published_at": "2026-08-17T04:53:54.741-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "nix",
+        "security",
+        "unix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "sjamaan"
+    },
+    {
       "title": "How to tell if your AI platforms’ accounts have been hacked",
       "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
       "published_at": "2026-08-15T16:10:00.000Z",
@@ -3196,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3330,
+      "stars": 3347,
       "user": "xiaobright"
     },
     {
@@ -3211,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 655,
       "user": "zouyuxuan122"
     },
     {
@@ -3241,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 562,
       "user": "ysr666"
     },
     {
@@ -3256,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 510,
       "user": "SheberDavid"
     },
     {
@@ -3271,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12562,
+      "stars": 12634,
       "user": "guillaumemeyer"
     },
     {
@@ -3286,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7068,
+      "stars": 7166,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3316,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 670,
       "user": "0xsline"
     },
     {
@@ -3346,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 188,
       "user": "b-nnett"
     },
     {
@@ -3406,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "trefeon"
     },
     {
@@ -3421,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 144142,
+      "stars": 144620,
       "user": "deepseek-ai"
     },
     {
@@ -3436,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 10941,
+      "stars": 11007,
       "user": "anywhere-labs"
     },
     {
@@ -3451,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3913,
+      "stars": 3930,
       "user": "zhu1090093659"
     },
     {
@@ -3466,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1903,
+      "stars": 1932,
       "user": "dmmulroy"
     },
     {
@@ -3481,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1752,
+      "stars": 1760,
       "user": "ccch1mneyyy"
     },
     {
@@ -3496,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 406,
       "user": "hairyf"
     },
     {
@@ -3541,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 153,
       "user": "zunmax"
     },
     {
