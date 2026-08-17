@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 522,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12230,
+      "stars": 12341,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 441,
       "user": "xinxinshuhao-create"
     },
     {
@@ -617,21 +617,6 @@
       "user": "pgrundev"
     },
     {
-      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "published_at": "2026-08-11T07:06:43Z",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
-      "source": "GitHub",
-      "stars": 94,
-      "user": "trefeon"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -643,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 140351,
+      "stars": 141604,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 399,
       "user": "hairyf"
     },
     {
@@ -705,6 +690,18 @@
       "source": "GitHub",
       "stars": 85,
       "user": "dungoutlook1"
+    },
+    {
+      "title": "AI Software Development – What Does The Data Say?",
+      "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "published_at": "2026-08-16T19:08:04.567-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ebababi"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -1304,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3245,
+      "stars": 3272,
       "user": "xiaobright"
     },
     {
@@ -1319,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 615,
       "user": "zouyuxuan122"
     },
     {
@@ -1349,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 522,
       "user": "ysr666"
     },
     {
@@ -1364,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 511,
       "user": "SheberDavid"
     },
     {
@@ -1379,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 140351,
+      "stars": 141604,
       "user": "deepseek-ai"
     },
     {
@@ -1394,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 10300,
+      "stars": 10485,
       "user": "anywhere-labs"
     },
     {
@@ -1409,7 +1406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3743,
+      "stars": 3796,
       "user": "zhu1090093659"
     },
     {
@@ -1424,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1775,
       "user": "dmmulroy"
     },
     {
@@ -1439,14 +1436,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1707,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "Which programming language and framework are suitable for building an astrology-based website?",
+      "url": "https://stackoverflow.com/questions/79995732/which-programming-language-and-framework-are-suitable-for-building-an-astrology",
+      "published_at": "2026-08-17T07:03:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "advice",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Diya kannan"
     },
     {
       "title": "The event loop, call stack, and setTimeout of 0 or some small value",
       "url": "https://stackoverflow.com/questions/79995700/the-event-loop-call-stack-and-settimeout-of-0-or-some-small-value",
       "published_at": "2026-08-17T05:03:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "settimeout"
@@ -1571,19 +1583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bledder"
-    },
-    {
-      "title": "how to reset <input type = \"file\"> in Angular",
-      "url": "https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file-in-angular",
-      "published_at": "2013-12-12T16:46:23.000Z",
-      "description": "Stack Overflow question · 29 answers · score 561",
-      "tags": [
-        "javascript",
-        "angular"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jesus"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1856,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 522,
       "user": "ysr666"
     },
     {
@@ -1871,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12230,
+      "stars": 12341,
       "user": "guillaumemeyer"
     },
     {
@@ -1886,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 6401,
+      "stars": 6604,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1901,7 +1900,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1162,
       "user": "Leutenegger"
     },
     {
@@ -1916,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 653,
       "user": "0xsline"
     },
     {
@@ -1931,14 +1930,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 441,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "Circle cropping for multiple images: overlapping images, dark images, high-saturation images",
+      "url": "https://stackoverflow.com/questions/79995738/circle-cropping-for-multiple-images-overlapping-images-dark-images-high-satur",
+      "published_at": "2026-08-17T07:16:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "opencv",
+        "image-processing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "William"
     },
     {
       "title": "How to implement the deterministic version of Algorithm 1 from my 3-SAT paper in Python?",
       "url": "https://stackoverflow.com/questions/79995696/how-to-implement-the-deterministic-version-of-algorithm-1-from-my-3-sat-paper-in",
       "published_at": "2026-08-17T04:11:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "algorithm",
@@ -1966,18 +1979,6 @@
       "user": "Meet Bedmutha"
     },
     {
-      "title": "How to use unpacking & string formatting",
-      "url": "https://stackoverflow.com/questions/79995671/how-to-use-unpacking-string-formatting",
-      "published_at": "2026-08-17T02:04:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nguyễn Thuần"
-    },
-    {
       "title": "PyCharm type hinting constraining improperly?",
       "url": "https://stackoverflow.com/questions/79995653/pycharm-type-hinting-constraining-improperly",
       "published_at": "2026-08-16T22:46:25.000Z",
@@ -1990,6 +1991,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tweaks.data"
+    },
+    {
+      "title": "How to use unpacking & string formatting",
+      "url": "https://stackoverflow.com/questions/79995671/how-to-use-unpacking-string-formatting",
+      "published_at": "2026-08-17T02:04:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nguyễn Thuần"
     },
     {
       "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
@@ -2011,7 +2024,7 @@
       "title": "Create a board on the console for the game tic tac toe",
       "url": "https://stackoverflow.com/questions/79995636/create-a-board-on-the-console-for-the-game-tic-tac-toe",
       "published_at": "2026-08-16T20:56:42.000Z",
-      "description": "Stack Overflow question · 3 answers · score -2",
+      "description": "Stack Overflow question · 3 answers · score -3",
       "tags": [
         "python"
       ],
@@ -2059,20 +2072,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gauffke"
-    },
-    {
-      "title": "KafkaAdminClient and threads in kafka-python",
-      "url": "https://stackoverflow.com/questions/79995601/kafkaadminclient-and-threads-in-kafka-python",
-      "published_at": "2026-08-16T17:22:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "multithreading",
-        "kafka-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Agent"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2431,8 +2430,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12230,
+      "stars": 12341,
       "user": "guillaumemeyer"
+    },
+    {
+      "title": "Which programming language and framework are suitable for building an astrology-based website?",
+      "url": "https://stackoverflow.com/questions/79995732/which-programming-language-and-framework-are-suitable-for-building-an-astrology",
+      "published_at": "2026-08-17T07:03:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "advice",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Diya kannan"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2540,7 +2554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3743,
+      "stars": 3796,
       "user": "zhu1090093659"
     }
   ],
@@ -3006,7 +3020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 441,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3165,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3245,
+      "stars": 3272,
       "user": "xiaobright"
     },
     {
@@ -3180,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 615,
       "user": "zouyuxuan122"
     },
     {
@@ -3210,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 522,
       "user": "ysr666"
     },
     {
@@ -3225,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 511,
       "user": "SheberDavid"
     },
     {
@@ -3240,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12230,
+      "stars": 12341,
       "user": "guillaumemeyer"
     },
     {
@@ -3255,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 6401,
+      "stars": 6604,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3270,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1162,
       "user": "Leutenegger"
     },
     {
@@ -3285,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 653,
       "user": "0xsline"
     },
     {
@@ -3300,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 441,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3330,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 159,
       "user": "b-nnett"
     },
     {
@@ -3364,19 +3378,19 @@
       "user": "WongLoki"
     },
     {
-      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "published_at": "2026-08-11T07:06:43Z",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "title": "yutat23/lsoff - CLI / TUI that lists listening TCP/UDP ports",
+      "url": "https://github.com/yutat23/lsoff",
+      "published_at": "2026-08-14T14:27:33Z",
+      "description": "CLI / TUI that lists listening TCP/UDP ports",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
       "stars": 94,
-      "user": "trefeon"
+      "user": "yutat23"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3390,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 140351,
+      "stars": 141604,
       "user": "deepseek-ai"
     },
     {
@@ -3405,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 10300,
+      "stars": 10485,
       "user": "anywhere-labs"
     },
     {
@@ -3420,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3743,
+      "stars": 3796,
       "user": "zhu1090093659"
     },
     {
@@ -3435,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1775,
       "user": "dmmulroy"
     },
     {
@@ -3450,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1683,
+      "stars": 1707,
       "user": "ccch1mneyyy"
     },
     {
@@ -3465,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 399,
       "user": "hairyf"
     },
     {
