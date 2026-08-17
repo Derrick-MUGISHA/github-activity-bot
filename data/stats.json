@@ -23,13 +23,13 @@
   },
   "by_language": {
     "JavaScript": 45,
-    "Go": 37,
+    "Go": 36,
     "Python": 34,
     "Rust": 8,
     "CSharp": 1,
     "Java": 35,
     "Swift": 1,
-    "Ruby": 1,
+    "Ruby": 2,
     "PHP": 1
   },
   "by_date": {
@@ -102,8 +102,8 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2026-08-15": 9,
-    "2026-08-16": 16,
-    "2026-08-17": 14
+    "2026-08-16": 15,
+    "2026-08-17": 15
   },
   "top_tags": {
     "github": 25,
@@ -120,9 +120,9 @@
     "DevOps": 10,
     "programming": 9,
     "webdev": 8,
-    "go": 8,
     "bugsmash": 7,
     "agents": 7,
+    "go": 7,
     "typescript": 7,
     "aws": 6,
     "rust": 6
@@ -130,13 +130,13 @@
   "trending_topics": [],
   "language_percentages": {
     "JavaScript": "27.6",
-    "Go": "22.7",
+    "Go": "22.1",
     "Python": "20.9",
     "Rust": "4.9",
     "CSharp": "0.6",
     "Java": "21.5",
     "Swift": "0.6",
-    "Ruby": "0.6",
+    "Ruby": "1.2",
     "PHP": "0.6"
   }
 }
