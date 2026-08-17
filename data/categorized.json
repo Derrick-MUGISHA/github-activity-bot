@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13029,
+      "stars": 13050,
       "user": "guillaumemeyer"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "xinxinshuhao-create"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147681,
+      "stars": 147848,
       "user": "deepseek-ai"
     },
     {
@@ -758,6 +758,22 @@
       "user": "tweaks.data"
     },
     {
+      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
+      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
+      "published_at": "2026-08-17T01:27:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "windows",
+        "stdout",
+        "background-process",
+        "io-redirection"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali"
+    },
+    {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
       "published_at": "2026-08-17T15:16:24.000Z",
@@ -859,7 +875,8 @@
         "AI",
         "Social",
         "Mark Zuckerberg",
-        "Meta"
+        "Meta",
+        "Equity podcast"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1270,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3394,
+      "stars": 3397,
       "user": "xiaobright"
     },
     {
@@ -1285,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 714,
       "user": "zouyuxuan122"
     },
     {
@@ -1345,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147681,
+      "stars": 147848,
       "user": "deepseek-ai"
     },
     {
@@ -1360,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11420,
+      "stars": 11439,
       "user": "anywhere-labs"
     },
     {
@@ -1375,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4050,
+      "stars": 4052,
       "user": "zhu1090093659"
     },
     {
@@ -1390,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2203,
       "user": "dmmulroy"
     },
     {
@@ -1405,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1791,
+      "stars": 1792,
       "user": "ccch1mneyyy"
     },
     {
@@ -1440,7 +1457,7 @@
       "title": "Which programming language and framework are suitable for building an astrology-based website?",
       "url": "https://stackoverflow.com/questions/79995732/which-programming-language-and-framework-are-suitable-for-building-an-astrology",
       "published_at": "2026-08-17T07:03:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -12",
+      "description": "Stack Overflow question · 0 answers · score -13",
       "tags": [
         "advice",
         "javascript",
@@ -1468,7 +1485,7 @@
       "title": "How to reliably parse Excel files when the sheet structure keeps changing?",
       "url": "https://stackoverflow.com/questions/79995574/how-to-reliably-parse-excel-files-when-the-sheet-structure-keeps-changing",
       "published_at": "2026-08-16T14:09:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1836,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13029,
+      "stars": 13050,
       "user": "guillaumemeyer"
     },
     {
@@ -1851,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7451,
+      "stars": 7463,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1896,21 +1913,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "xinxinshuhao-create"
-    },
-    {
-      "title": "How to implement CEGIS with Python, Z3, and Knuth-Bendix completion?",
-      "url": "https://stackoverflow.com/questions/79995839/how-to-implement-cegis-with-python-z3-and-knuth-bendix-completion",
-      "published_at": "2026-08-17T13:21:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "z3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "el pollitto cientifico"
     },
     {
       "title": "How can I retry a Python API request when it times out?",
@@ -2037,6 +2041,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gauffke"
+    },
+    {
+      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
+      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
+      "published_at": "2026-08-17T01:27:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "windows",
+        "stdout",
+        "background-process",
+        "io-redirection"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2393,7 +2413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13029,
+      "stars": 13050,
       "user": "guillaumemeyer"
     },
     {
@@ -2414,7 +2434,7 @@
       "title": "Which programming language and framework are suitable for building an astrology-based website?",
       "url": "https://stackoverflow.com/questions/79995732/which-programming-language-and-framework-are-suitable-for-building-an-astrology",
       "published_at": "2026-08-17T07:03:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -12",
+      "description": "Stack Overflow question · 0 answers · score -13",
       "tags": [
         "advice",
         "javascript",
@@ -2547,7 +2567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4050,
+      "stars": 4052,
       "user": "zhu1090093659"
     }
   ],
@@ -3027,7 +3047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3184,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3394,
+      "stars": 3397,
       "user": "xiaobright"
     },
     {
@@ -3199,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 714,
       "user": "zouyuxuan122"
     },
     {
@@ -3259,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13029,
+      "stars": 13050,
       "user": "guillaumemeyer"
     },
     {
@@ -3274,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7451,
+      "stars": 7463,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3319,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 449,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3334,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 230,
       "user": "b-nnett"
     },
     {
@@ -3409,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147681,
+      "stars": 147848,
       "user": "deepseek-ai"
     },
     {
@@ -3424,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11420,
+      "stars": 11439,
       "user": "anywhere-labs"
     },
     {
@@ -3439,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4050,
+      "stars": 4052,
       "user": "zhu1090093659"
     },
     {
@@ -3454,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2203,
       "user": "dmmulroy"
     },
     {
@@ -3469,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1791,
+      "stars": 1792,
       "user": "ccch1mneyyy"
     },
     {
@@ -3564,7 +3584,7 @@
       "title": "How to reliably parse Excel files when the sheet structure keeps changing?",
       "url": "https://stackoverflow.com/questions/79995574/how-to-reliably-parse-excel-files-when-the-sheet-structure-keeps-changing",
       "published_at": "2026-08-16T14:09:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "tooling-recommendation",
         "javascript",
