@@ -194,21 +194,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -222,6 +207,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12964,
+      "stars": 12996,
       "user": "guillaumemeyer"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147159,
+      "stars": 147391,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "hairyf"
     },
     {
@@ -697,7 +697,6 @@
       "published_at": "2026-08-17T06:11:39.353-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
         "vibecoding"
       ],
       "cover_image": null,
@@ -759,20 +758,51 @@
       "user": "tweaks.data"
     },
     {
-      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
-      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
-      "published_at": "2026-08-17T01:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "published_at": "2026-08-17T15:16:24.000Z",
+      "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
       "tags": [
-        "python",
-        "windows",
-        "stdout",
-        "background-process",
-        "io-redirection"
+        "AI",
+        "data centers",
+        "nvidia",
+        "OpenAI",
+        "Softbank"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali"
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+      "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+      "published_at": "2026-08-17T15:06:07.000Z",
+      "description": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Africa",
+        "defense tech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "WordPress.com targets the next generation of web creators with a free student plan",
+      "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
+      "published_at": "2026-08-17T14:56:00.000Z",
+      "description": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+      "tags": [
+        "Apps",
+        "Commerce",
+        "students",
+        "WordPress",
+        "wordpress.com"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
@@ -860,52 +890,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "published_at": "2026-08-15T21:29:19.000Z",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Grok",
-        "SpaceX",
-        "x.ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "published_at": "2026-08-15T18:58:39.000Z",
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "published_at": "2026-08-15T16:30:00.000Z",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "tags": [
-        "Startups",
-        "AI",
-        "Elon Musk",
-        "SpaceX",
-        "cursor"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1092,21 +1076,6 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -1120,6 +1089,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
     },
     {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
@@ -1283,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3390,
+      "stars": 3391,
       "user": "xiaobright"
     },
     {
@@ -1298,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 703,
       "user": "zouyuxuan122"
     },
     {
@@ -1313,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "ysr666"
     },
     {
@@ -1358,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147159,
+      "stars": 147391,
       "user": "deepseek-ai"
     },
     {
@@ -1373,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11339,
+      "stars": 11373,
       "user": "anywhere-labs"
     },
     {
@@ -1388,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4033,
+      "stars": 4039,
       "user": "zhu1090093659"
     },
     {
@@ -1403,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2156,
+      "stars": 2173,
       "user": "dmmulroy"
     },
     {
@@ -1418,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1791,
       "user": "ccch1mneyyy"
     },
     {
@@ -1834,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "ysr666"
     },
     {
@@ -1849,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12964,
+      "stars": 12996,
       "user": "guillaumemeyer"
     },
     {
@@ -1864,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7412,
+      "stars": 7433,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1879,7 +1863,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1169,
       "user": "Leutenegger"
     },
     {
@@ -2038,20 +2022,18 @@
       "user": "tweaks.data"
     },
     {
-      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
-      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
-      "published_at": "2026-08-17T01:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Scan directories and copy those that have more than n files",
+      "url": "https://stackoverflow.com/questions/79995508/scan-directories-and-copy-those-that-have-more-than-n-files",
+      "published_at": "2026-08-16T07:38:19.000Z",
+      "description": "Stack Overflow question · 6 answers · score 0",
       "tags": [
         "python",
-        "windows",
-        "stdout",
-        "background-process",
-        "io-redirection"
+        "bash",
+        "shell"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ali"
+      "user": "Gauffke"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2408,7 +2390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12964,
+      "stars": 12996,
       "user": "guillaumemeyer"
     },
     {
@@ -2562,7 +2544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4033,
+      "stars": 4039,
       "user": "zhu1090093659"
     }
   ],
@@ -3199,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3390,
+      "stars": 3391,
       "user": "xiaobright"
     },
     {
@@ -3214,7 +3196,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 698,
+      "stars": 703,
       "user": "zouyuxuan122"
     },
     {
@@ -3229,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 610,
       "user": "ysr666"
     },
     {
@@ -3274,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12964,
+      "stars": 12996,
       "user": "guillaumemeyer"
     },
     {
@@ -3289,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7412,
+      "stars": 7433,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3304,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1168,
+      "stars": 1169,
       "user": "Leutenegger"
     },
     {
@@ -3349,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 226,
+      "stars": 227,
       "user": "b-nnett"
     },
     {
@@ -3424,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147159,
+      "stars": 147391,
       "user": "deepseek-ai"
     },
     {
@@ -3439,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11339,
+      "stars": 11373,
       "user": "anywhere-labs"
     },
     {
@@ -3454,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4033,
+      "stars": 4039,
       "user": "zhu1090093659"
     },
     {
@@ -3469,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2156,
+      "stars": 2173,
       "user": "dmmulroy"
     },
     {
@@ -3484,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1791,
       "user": "ccch1mneyyy"
     },
     {
@@ -3499,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "hairyf"
     },
     {
@@ -3544,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "zunmax"
     },
     {
@@ -3606,20 +3588,20 @@
       "user": "Muhammad"
     },
     {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "published_at": "2026-08-15T21:29:19.000Z",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "title": "WordPress.com targets the next generation of web creators with a free student plan",
+      "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
+      "published_at": "2026-08-17T14:56:00.000Z",
+      "description": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
       "tags": [
-        "AI",
-        "Government & Policy",
-        "Grok",
-        "SpaceX",
-        "x.ai"
+        "Apps",
+        "Commerce",
+        "students",
+        "WordPress",
+        "wordpress.com"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
