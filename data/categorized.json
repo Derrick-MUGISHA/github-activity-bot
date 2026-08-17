@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 620,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13050,
+      "stars": 13096,
       "user": "guillaumemeyer"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147848,
+      "stars": 148168,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "hairyf"
     },
     {
@@ -774,6 +774,36 @@
       "user": "Ali"
     },
     {
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "published_at": "2026-08-17T16:38:44.000Z",
+      "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "tags": [
+        "AI",
+        "AI training",
+        "Amazon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "published_at": "2026-08-17T16:15:12.000Z",
+      "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "data centers",
+        "groq",
+        "neocloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
       "published_at": "2026-08-17T15:16:24.000Z",
@@ -881,35 +911,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "published_at": "2026-08-16T16:53:51.000Z",
-      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dario amodei"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-      "published_at": "2026-08-16T16:04:00.000Z",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "tags": [
-        "Transportation",
-        "air taxis",
-        "techcrunch mobility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
@@ -1287,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3397,
+      "stars": 3405,
       "user": "xiaobright"
     },
     {
@@ -1302,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 719,
       "user": "zouyuxuan122"
     },
     {
@@ -1317,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 620,
       "user": "ysr666"
     },
     {
@@ -1347,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 508,
       "user": "SheberDavid"
     },
     {
@@ -1362,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147848,
+      "stars": 148168,
       "user": "deepseek-ai"
     },
     {
@@ -1377,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11439,
+      "stars": 11479,
       "user": "anywhere-labs"
     },
     {
@@ -1392,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4052,
+      "stars": 4060,
       "user": "zhu1090093659"
     },
     {
@@ -1407,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2203,
+      "stars": 2217,
       "user": "dmmulroy"
     },
     {
@@ -1422,8 +1423,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1792,
+      "stars": 1797,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
+      "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
+      "published_at": "2026-08-17T16:24:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jamshed khan"
     },
     {
       "title": "Can an objectURL point to an on-disk cache file rather than loading the file into memory?",
@@ -1550,22 +1565,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad"
-    },
-    {
-      "title": "I've got an error with my upgrade buttons",
-      "url": "https://stackoverflow.com/questions/79993669/ive-got-an-error-with-my-upgrade-buttons",
-      "published_at": "2026-08-13T03:17:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "function",
-        "variables",
-        "button"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027501"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1838,7 +1837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 620,
       "user": "ysr666"
     },
     {
@@ -1853,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13050,
+      "stars": 13096,
       "user": "guillaumemeyer"
     },
     {
@@ -1868,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7463,
+      "stars": 7486,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1898,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "0xsline"
     },
     {
@@ -2413,7 +2412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13050,
+      "stars": 13096,
       "user": "guillaumemeyer"
     },
     {
@@ -2444,22 +2443,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Diya kannan"
-    },
-    {
-      "title": "I've got an error with my upgrade buttons",
-      "url": "https://stackoverflow.com/questions/79993669/ive-got-an-error-with-my-upgrade-buttons",
-      "published_at": "2026-08-13T03:17:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "function",
-        "variables",
-        "button"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33027501"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -2567,7 +2550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4052,
+      "stars": 4060,
       "user": "zhu1090093659"
     }
   ],
@@ -2781,6 +2764,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zm522ijh68wb83qljx7.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "published_at": "2026-08-17T16:15:12.000Z",
+      "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "data centers",
+        "groq",
+        "neocloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     }
   ],
   "Database": [
@@ -3204,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3397,
+      "stars": 3405,
       "user": "xiaobright"
     },
     {
@@ -3219,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 719,
       "user": "zouyuxuan122"
     },
     {
@@ -3234,7 +3233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 620,
       "user": "ysr666"
     },
     {
@@ -3264,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 508,
       "user": "SheberDavid"
     },
     {
@@ -3279,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 13050,
+      "stars": 13096,
       "user": "guillaumemeyer"
     },
     {
@@ -3294,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7463,
+      "stars": 7486,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3324,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 682,
       "user": "0xsline"
     },
     {
@@ -3354,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "b-nnett"
     },
     {
@@ -3429,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 147848,
+      "stars": 148168,
       "user": "deepseek-ai"
     },
     {
@@ -3444,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11439,
+      "stars": 11479,
       "user": "anywhere-labs"
     },
     {
@@ -3459,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4052,
+      "stars": 4060,
       "user": "zhu1090093659"
     },
     {
@@ -3474,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2203,
+      "stars": 2217,
       "user": "dmmulroy"
     },
     {
@@ -3489,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1792,
+      "stars": 1797,
       "user": "ccch1mneyyy"
     },
     {
@@ -3504,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "hairyf"
     },
     {
@@ -3549,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "zunmax"
     },
     {
