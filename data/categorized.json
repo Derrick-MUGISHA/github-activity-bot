@@ -194,19 +194,19 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
-      "published_at": "2026-08-12T15:45:27Z",
-      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
       "tags": [
-        "cloudrun",
-        "geminienterpriseagentplatform",
-        "googlecloud",
+        "devchallenge",
+        "bugsmash",
+        "javascript",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
-      "user": "Caleb Duff"
+      "user": "Asuran"
     },
     {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
@@ -252,6 +252,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fui3etm0mm66xuqgvz8qs.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Latency vs. Tokens: What I Learned Optimizing an Agent with Gemma (and What Didn't Work)",
+      "url": "https://dev.to/gde/latency-vs-tokens-what-i-learned-optimizing-an-agent-with-gemma-and-what-didnt-work-445g",
+      "published_at": "2026-08-12T03:32:11Z",
+      "description": "I'd been waiting for more than 30 minutes. The terminal just sat there, blinking, without returning a...",
+      "tags": [
+        "gemma",
+        "genai",
+        "experiment",
+        "education"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqzzdiw88bpf4m1wlv4vh.png",
+      "source": "Dev.to",
+      "user": "leslysandra"
     },
     {
       "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
@@ -553,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 491,
       "user": "ysr666"
     },
     {
@@ -568,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11998,
+      "stars": 12070,
       "user": "guillaumemeyer"
     },
     {
@@ -602,6 +617,21 @@
       "user": "pgrundev"
     },
     {
+      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "url": "https://github.com/trefeon/freebuff-proxy",
+      "published_at": "2026-08-11T07:06:43Z",
+      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "trefeon"
+    },
+    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -613,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 137867,
+      "stars": 138386,
       "user": "deepseek-ai"
     },
     {
@@ -628,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 325,
       "user": "hairyf"
     },
     {
@@ -1038,6 +1068,21 @@
       "user": "Shubhra Pokhariya"
     },
     {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
+    },
+    {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
       "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
       "published_at": "2026-08-10T14:50:38Z",
@@ -1081,6 +1126,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
       "source": "Dev.to",
       "user": "Muhammad Ammar"
+    },
+    {
+      "title": "What 5 years of teaching gave me that no coding course could",
+      "url": "https://dev.to/shannonianthe/what-5-years-of-teaching-gave-me-that-no-coding-course-could-4i8a",
+      "published_at": "2026-08-09T17:35:14Z",
+      "description": "I didn't come to tech through a bootcamp or a CS degree. I came through a classroom.   For...",
+      "tags": [
+        "javascript",
+        "career",
+        "beginners",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwc580gstpo8x10bw5sk1.png",
+      "source": "Dev.to",
+      "user": "Shannon Mettry"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1214,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3197,
+      "stars": 3211,
       "user": "xiaobright"
     },
     {
@@ -1244,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 589,
       "user": "zouyuxuan122"
     },
     {
@@ -1259,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "SheberDavid"
     },
     {
@@ -1274,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 491,
       "user": "ysr666"
     },
     {
@@ -1289,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 137867,
+      "stars": 138386,
       "user": "deepseek-ai"
     },
     {
@@ -1304,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 9904,
+      "stars": 9980,
       "user": "anywhere-labs"
     },
     {
@@ -1319,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3646,
+      "stars": 3670,
       "user": "zhu1090093659"
     },
     {
@@ -1334,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1704,
+      "stars": 1712,
       "user": "dmmulroy"
     },
     {
@@ -1349,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1655,
       "user": "ccch1mneyyy"
     },
     {
@@ -1592,6 +1652,21 @@
       "user": "xbill"
     },
     {
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e",
+      "published_at": "2026-08-13T01:41:40Z",
+      "description": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
+      "tags": [
+        "python",
+        "googleadk",
+        "gemini",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fway-back-home%2Fmain%2Flevel_3_new%2Fdocs%2Fimages%2Fcover-adk2-second-pass-devto.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
       "published_at": "2026-07-26T19:27:29Z",
@@ -1753,7 +1828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 491,
       "user": "ysr666"
     },
     {
@@ -1768,7 +1843,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11998,
+      "stars": 12070,
       "user": "guillaumemeyer"
     },
     {
@@ -1783,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5988,
+      "stars": 6066,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1813,7 +1888,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 641,
       "user": "0xsline"
     },
     {
@@ -1830,6 +1905,21 @@
       "source": "GitHub",
       "stars": 443,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "How to implement the deterministic version of Algorithm 1 from my 3-SAT paper in Python?",
+      "url": "https://stackoverflow.com/questions/79995696/how-to-implement-the-deterministic-version-of-algorithm-1-from-my-3-sat-paper-in",
+      "published_at": "2026-08-17T04:11:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "algorithm",
+        "optimization",
+        "sat"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "el pollitto cientifico"
     },
     {
       "title": "How to use unpacking & string formatting",
@@ -1953,18 +2043,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sophie"
-    },
-    {
-      "title": "Rush Hour Breadth-First Search Solver - Python implementation performance issues",
-      "url": "https://stackoverflow.com/questions/79995459/rush-hour-breadth-first-search-solver-python-implementation-performance-issues",
-      "published_at": "2026-08-15T23:44:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33036361"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2307,7 +2385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11998,
+      "stars": 12070,
       "user": "guillaumemeyer"
     },
     {
@@ -2431,7 +2509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3646,
+      "stars": 3670,
       "user": "zhu1090093659"
     }
   ],
@@ -2495,21 +2573,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
-      "published_at": "2026-08-12T15:45:27Z",
-      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
-      "tags": [
-        "cloudrun",
-        "geminienterpriseagentplatform",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -2750,21 +2813,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run",
-      "url": "https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j",
-      "published_at": "2026-08-12T15:45:27Z",
-      "description": "Learn how to run managed AI inference on Google Cloud by pairing the Gemini Enterprise Agent Platform with Cloud Run — with architecture, code, deployment, and security explained step by step.",
-      "tags": [
-        "cloudrun",
-        "geminienterpriseagentplatform",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1tkcrz5pktjhm49vbsx.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
     },
     {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
@@ -3037,6 +3085,21 @@
       "user": "xbill"
     },
     {
+      "title": "What 5 years of teaching gave me that no coding course could",
+      "url": "https://dev.to/shannonianthe/what-5-years-of-teaching-gave-me-that-no-coding-course-could-4i8a",
+      "published_at": "2026-08-09T17:35:14Z",
+      "description": "I didn't come to tech through a bootcamp or a CS degree. I came through a classroom.   For...",
+      "tags": [
+        "javascript",
+        "career",
+        "beginners",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwc580gstpo8x10bw5sk1.png",
+      "source": "Dev.to",
+      "user": "Shannon Mettry"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3084,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3197,
+      "stars": 3211,
       "user": "xiaobright"
     },
     {
@@ -3114,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 589,
       "user": "zouyuxuan122"
     },
     {
@@ -3129,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "SheberDavid"
     },
     {
@@ -3144,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 491,
       "user": "ysr666"
     },
     {
@@ -3159,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11998,
+      "stars": 12070,
       "user": "guillaumemeyer"
     },
     {
@@ -3174,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5988,
+      "stars": 6066,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3204,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 641,
       "user": "0xsline"
     },
     {
@@ -3249,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 131,
       "user": "b-nnett"
     },
     {
@@ -3283,19 +3346,19 @@
       "user": "WongLoki"
     },
     {
-      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
-      "url": "https://github.com/zepto-labs/scherry",
-      "published_at": "2026-08-11T08:59:18Z",
-      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "url": "https://github.com/trefeon/freebuff-proxy",
+      "published_at": "2026-08-11T07:06:43Z",
+      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
       "source": "GitHub",
       "stars": 93,
-      "user": "zepto-labs"
+      "user": "trefeon"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3309,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 137867,
+      "stars": 138386,
       "user": "deepseek-ai"
     },
     {
@@ -3324,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 9904,
+      "stars": 9980,
       "user": "anywhere-labs"
     },
     {
@@ -3339,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3646,
+      "stars": 3670,
       "user": "zhu1090093659"
     },
     {
@@ -3354,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1704,
+      "stars": 1712,
       "user": "dmmulroy"
     },
     {
@@ -3369,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1646,
+      "stars": 1655,
       "user": "ccch1mneyyy"
     },
     {
@@ -3384,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 313,
+      "stars": 325,
       "user": "hairyf"
     },
     {
