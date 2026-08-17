@@ -568,8 +568,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 598,
       "user": "ysr666"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 12921,
+      "user": "guillaumemeyer"
+    },
+    {
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
+      "source": "GitHub",
+      "stars": 447,
+      "user": "xinxinshuhao-create"
     },
     {
       "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
@@ -613,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 146510,
+      "stars": 146753,
       "user": "deepseek-ai"
     },
     {
@@ -628,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "hairyf"
     },
     {
@@ -693,7 +723,7 @@
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
       "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
       "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "ruby-on-rails"
@@ -1268,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3386,
+      "stars": 3389,
       "user": "xiaobright"
     },
     {
@@ -1283,8 +1313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 694,
       "user": "zouyuxuan122"
+    },
+    {
+      "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "url": "https://github.com/ysr666/dsh-vision-router",
+      "published_at": "2026-08-13T18:57:47Z",
+      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
+      "source": "GitHub",
+      "stars": 598,
+      "user": "ysr666"
     },
     {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
@@ -1300,21 +1345,6 @@
       "source": "GitHub",
       "stars": 595,
       "user": "NousResearch"
-    },
-    {
-      "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "url": "https://github.com/ysr666/dsh-vision-router",
-      "published_at": "2026-08-13T18:57:47Z",
-      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "ysr666"
     },
     {
       "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
@@ -1343,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 146510,
+      "stars": 146753,
       "user": "deepseek-ai"
     },
     {
@@ -1358,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11278,
+      "stars": 11304,
       "user": "anywhere-labs"
     },
     {
@@ -1373,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4020,
+      "stars": 4025,
       "user": "zhu1090093659"
     },
     {
@@ -1388,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2106,
+      "stars": 2129,
       "user": "dmmulroy"
     },
     {
@@ -1403,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1786,
       "user": "ccch1mneyyy"
     },
     {
@@ -1468,7 +1498,7 @@
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
       "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
       "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "ruby-on-rails"
@@ -1489,6 +1519,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
+    },
+    {
+      "title": "How can I validate a multi-step Passport form with different required fields based on the application type?",
+      "url": "https://stackoverflow.com/questions/79995007/how-can-i-validate-a-multi-step-passport-form-with-different-required-fields-bas",
+      "published_at": "2026-08-14T06:33:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "dom",
+        "conditional-statements"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Robin Jhon"
     },
     {
       "title": "How to programmatically create a file and write content using VS Code Extension API in TypeScript?",
@@ -1535,22 +1579,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Little Thinker"
-    },
-    {
-      "title": "How to build a `RW-group mutual exclusion lock` using Atomics",
-      "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-rw-group-mutual-exclusion-lock-using-atomics",
-      "published_at": "2026-08-05T14:28:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "multithreading",
-        "atomic",
-        "sharedarraybuffer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bledder"
     },
     {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
@@ -1823,8 +1851,83 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 598,
       "user": "ysr666"
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 12921,
+      "user": "guillaumemeyer"
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "published_at": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
+      "source": "GitHub",
+      "stars": 7385,
+      "user": "awesome-dsh-plugin"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 1168,
+      "user": "Leutenegger"
+    },
+    {
+      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "published_at": "2026-08-11T13:14:49Z",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
+      "source": "GitHub",
+      "stars": 680,
+      "user": "0xsline"
+    },
+    {
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
+      "source": "GitHub",
+      "stars": 447,
+      "user": "xinxinshuhao-create"
     },
     {
       "title": "How to implement CEGIS with Python, Z3, and Knuth-Bendix completion?",
@@ -1843,7 +1946,7 @@
       "title": "How can I retry a Python API request when it times out?",
       "url": "https://stackoverflow.com/questions/79995828/how-can-i-retry-a-python-api-request-when-it-times-out",
       "published_at": "2026-08-17T12:51:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "best-practices",
         "python"
@@ -1856,7 +1959,7 @@
       "title": "Reading from Postgres DB using Polars and filter on list of strings",
       "url": "https://stackoverflow.com/questions/79995777/reading-from-postgres-db-using-polars-and-filter-on-list-of-strings",
       "published_at": "2026-08-17T09:29:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -2311,6 +2414,21 @@
       "user": "velmu"
     },
     {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 12921,
+      "user": "guillaumemeyer"
+    },
+    {
       "title": "How to populate an HTML input value from a text file using JavaScript",
       "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
       "published_at": "2026-08-17T08:38:45.000Z",
@@ -2461,7 +2579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4020,
+      "stars": 4025,
       "user": "zhu1090093659"
     }
   ],
@@ -2709,7 +2827,7 @@
       "title": "Reading from Postgres DB using Polars and filter on list of strings",
       "url": "https://stackoverflow.com/questions/79995777/reading-from-postgres-db-using-polars-and-filter-on-list-of-strings",
       "published_at": "2026-08-17T09:29:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -2930,6 +3048,21 @@
       "user": "ewenjo"
     },
     {
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
+      "source": "GitHub",
+      "stars": 447,
+      "user": "xinxinshuhao-create"
+    },
+    {
       "title": "Passphrase-less reboots using kexec under NixOS",
       "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
       "published_at": "2026-08-17T04:53:54.741-05:00",
@@ -3083,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3386,
+      "stars": 3389,
       "user": "xiaobright"
     },
     {
@@ -3098,8 +3231,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 690,
+      "stars": 694,
       "user": "zouyuxuan122"
+    },
+    {
+      "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "url": "https://github.com/ysr666/dsh-vision-router",
+      "published_at": "2026-08-13T18:57:47Z",
+      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
+      "source": "GitHub",
+      "stars": 598,
+      "user": "ysr666"
     },
     {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
@@ -3117,21 +3265,6 @@
       "user": "NousResearch"
     },
     {
-      "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "url": "https://github.com/ysr666/dsh-vision-router",
-      "published_at": "2026-08-13T18:57:47Z",
-      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "ysr666"
-    },
-    {
       "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
       "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
       "published_at": "2026-08-15T06:10:13Z",
@@ -3147,6 +3280,81 @@
       "user": "SheberDavid"
     },
     {
+      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "published_at": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
+      "source": "GitHub",
+      "stars": 12921,
+      "user": "guillaumemeyer"
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "published_at": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
+      "source": "GitHub",
+      "stars": 7385,
+      "user": "awesome-dsh-plugin"
+    },
+    {
+      "title": "Leutenegger/book-to-skill - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "published_at": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 1168,
+      "user": "Leutenegger"
+    },
+    {
+      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "published_at": "2026-08-11T13:14:49Z",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
+      "source": "GitHub",
+      "stars": 680,
+      "user": "0xsline"
+    },
+    {
+      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "published_at": "2026-08-12T11:56:57Z",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
+      "source": "GitHub",
+      "stars": 447,
+      "user": "xinxinshuhao-create"
+    },
+    {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
       "url": "https://github.com/b-nnett/codex-subscription-router",
       "published_at": "2026-08-16T09:35:21Z",
@@ -3158,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "b-nnett"
     },
     {
@@ -3233,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 146510,
+      "stars": 146753,
       "user": "deepseek-ai"
     },
     {
@@ -3248,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11278,
+      "stars": 11304,
       "user": "anywhere-labs"
     },
     {
@@ -3263,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4020,
+      "stars": 4025,
       "user": "zhu1090093659"
     },
     {
@@ -3278,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2106,
+      "stars": 2129,
       "user": "dmmulroy"
     },
     {
@@ -3293,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1782,
+      "stars": 1786,
       "user": "ccch1mneyyy"
     },
     {
@@ -3308,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "hairyf"
     },
     {
