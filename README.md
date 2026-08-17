@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-181-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-176-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--17-orange?style=flat-square)
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-17 2:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-17 3:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 20 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 
-<sub>Last fetched: Mon, 17 Aug 2026 02:02:10 CAT</sub>
+<sub>Last fetched: Mon, 17 Aug 2026 03:53:09 CAT</sub>
 
 
 ---
@@ -122,7 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `React` — What is the Virtual DOM and how does React use it?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Diffing algorithm, reconciliation, efficiency
+
+</details>
+
+**2. `Database` — Design a database schema for a social media platform**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
@@ -133,25 +144,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**2. `DataStructures` — Find the longest substring without repeating characters**
+**3. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Sliding window, hash map, two pointers
-
-</details>
-
-**3. `Java` — What are Java Streams and how do they work?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 66 | 36.5% | `████████████████████` |
-| **JavaScript** | 44 | 24.3% | `█████████████░░░░░░░` |
-| **Tools** | 39 | 21.5% | `████████████░░░░░░░░` |
-| **Python** | 34 | 18.8% | `██████████░░░░░░░░░░` |
-| **Security** | 18 | 9.9% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 15 | 8.3% | `█████░░░░░░░░░░░░░░░` |
-| **WebDev** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 13 | 7.2% | `████░░░░░░░░░░░░░░░░` |
-| **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 62 | 35.2% | `████████████████████` |
+| **JavaScript** | 44 | 25.0% | `██████████████░░░░░░` |
+| **Python** | 34 | 19.3% | `███████████░░░░░░░░░` |
+| **Tools** | 34 | 19.3% | `███████████░░░░░░░░░` |
+| **Security** | 18 | 10.2% | `██████░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.5% | `█████░░░░░░░░░░░░░░░` |
+| **WebDev** | 14 | 8.0% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 13 | 7.4% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 4 | 2.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.3% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -184,7 +184,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |--------|---------:|
 | Dev.to | 57 |
 | HackerNews | 49 |
-| GitHub | 25 |
+| GitHub | 20 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.5%
-Go              █████████████████████████ 22.5%
-Python          ███████████████████████ 21.3%
-Java            ███████████████████████ 21.3%
-Rust            █████ 5.0%
+JavaScript      ██████████████████████████████ 28.6%
+Go              ████████████████████████ 22.7%
+Python          ███████████████████████ 22.1%
+Java            ███████████████████████ 22.1%
+Rust            ██ 1.9%
 CSharp          █ 0.6%
 Swift           █ 0.6%
 Ruby            █ 0.6%
@@ -209,10 +209,10 @@ PHP             █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 44
-    "Go" : 36
+    "Go" : 35
     "Python" : 34
     "Java" : 34
-    "Rust" : 8
+    "Rust" : 3
     "CSharp" : 1
     "Swift" : 1
     "Ruby" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-33-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-33-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![AI](https://img.shields.io/badge/AI-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-20-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-20-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-8-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 17 Aug 2026 00:02:10 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 17 Aug 2026 01:53:09 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
