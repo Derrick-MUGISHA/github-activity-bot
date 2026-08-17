@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "ysr666"
     },
     {
@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12702,
+      "stars": 12732,
       "user": "guillaumemeyer"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "pgrundev"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 145174,
+      "stars": 145400,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "hairyf"
     },
     {
@@ -762,7 +762,7 @@
       "title": "PyCharm type hinting constraining improperly?",
       "url": "https://stackoverflow.com/questions/79995653/pycharm-type-hinting-constraining-improperly",
       "published_at": "2026-08-16T22:46:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pycharm",
@@ -1299,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3364,
+      "stars": 3366,
       "user": "xiaobright"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 671,
       "user": "zouyuxuan122"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "ysr666"
     },
     {
@@ -1374,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 145174,
+      "stars": 145400,
       "user": "deepseek-ai"
     },
     {
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11088,
+      "stars": 11119,
       "user": "anywhere-labs"
     },
     {
@@ -1404,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3966,
+      "stars": 3975,
       "user": "zhu1090093659"
     },
     {
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1986,
       "user": "dmmulroy"
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1765,
+      "stars": 1769,
       "user": "ccch1mneyyy"
     },
     {
@@ -1853,7 +1853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "ysr666"
     },
     {
@@ -1868,7 +1868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12702,
+      "stars": 12732,
       "user": "guillaumemeyer"
     },
     {
@@ -1883,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7225,
+      "stars": 7248,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1946,19 +1946,6 @@
       "user": "vassiliev"
     },
     {
-      "title": "Logic shared between instances and class methods",
-      "url": "https://stackoverflow.com/questions/79995750/logic-shared-between-instances-and-class-methods",
-      "published_at": "2026-08-17T08:05:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "oop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nikita Serba"
-    },
-    {
       "title": "How to parse and decode the undocumented 37-character transaction reference string from Revolut's UK Faster Payments?",
       "url": "https://stackoverflow.com/questions/79995767/how-to-parse-and-decode-the-undocumented-37-character-transaction-reference-stri",
       "published_at": "2026-08-17T08:57:29.000Z",
@@ -1973,6 +1960,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ni d0"
+    },
+    {
+      "title": "Logic shared between instances and class methods",
+      "url": "https://stackoverflow.com/questions/79995750/logic-shared-between-instances-and-class-methods",
+      "published_at": "2026-08-17T08:05:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "oop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nikita Serba"
     },
     {
       "title": "Circle cropping for multiple images: overlapping images, dark images, high-saturation images",
@@ -2021,7 +2021,7 @@
       "title": "PyCharm type hinting constraining improperly?",
       "url": "https://stackoverflow.com/questions/79995653/pycharm-type-hinting-constraining-improperly",
       "published_at": "2026-08-16T22:46:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pycharm",
@@ -2428,7 +2428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12702,
+      "stars": 12732,
       "user": "guillaumemeyer"
     },
     {
@@ -2582,7 +2582,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3966,
+      "stars": 3975,
       "user": "zhu1090093659"
     }
   ],
@@ -3206,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3364,
+      "stars": 3366,
       "user": "xiaobright"
     },
     {
@@ -3221,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 667,
+      "stars": 671,
       "user": "zouyuxuan122"
     },
     {
@@ -3251,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 574,
       "user": "ysr666"
     },
     {
@@ -3281,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 12702,
+      "stars": 12732,
       "user": "guillaumemeyer"
     },
     {
@@ -3296,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7225,
+      "stars": 7248,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3356,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 202,
       "user": "b-nnett"
     },
     {
@@ -3371,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 180,
       "user": "pgrundev"
     },
     {
@@ -3431,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 145174,
+      "stars": 145400,
       "user": "deepseek-ai"
     },
     {
@@ -3446,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11088,
+      "stars": 11119,
       "user": "anywhere-labs"
     },
     {
@@ -3461,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3966,
+      "stars": 3975,
       "user": "zhu1090093659"
     },
     {
@@ -3476,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1969,
+      "stars": 1986,
       "user": "dmmulroy"
     },
     {
@@ -3491,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1765,
+      "stars": 1769,
       "user": "ccch1mneyyy"
     },
     {
@@ -3506,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 411,
       "user": "hairyf"
     },
     {
