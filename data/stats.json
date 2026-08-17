@@ -1,39 +1,38 @@
 {
-  "total": 184,
+  "total": 174,
   "by_source": {
     "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
-    "Lobste.rs": 10,
     "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 69,
+    "AI": 67,
     "JavaScript": 46,
     "Python": 33,
     "DevOps": 14,
     "WebDev": 14,
     "Mobile": 5,
-    "Cloud": 15,
-    "Database": 5,
-    "Security": 18,
-    "Tools": 39
+    "Cloud": 14,
+    "Database": 4,
+    "Security": 17,
+    "Tools": 37
   },
   "by_language": {
     "JavaScript": 46,
-    "Go": 32,
+    "Go": 33,
     "Python": 33,
     "Rust": 7,
     "CSharp": 1,
     "Java": 36,
     "Swift": 1,
-    "Ruby": 2,
+    "Ruby": 1,
     "PHP": 1
   },
   "by_date": {
-    "2026-08-17": 34,
+    "2026-08-17": 27,
     "2026-08-13": 21,
     "2026-08-12": 8,
     "2026-08-14": 16,
@@ -103,7 +102,7 @@
     "2017-11-08": 1,
     "2024-10-09": 1,
     "2026-08-15": 2,
-    "2026-08-16": 8
+    "2026-08-16": 5
   },
   "top_tags": {
     "github": 25,
@@ -118,25 +117,25 @@
     "Python": 11,
     "discuss": 10,
     "DevOps": 10,
-    "programming": 9,
     "webdev": 8,
+    "programming": 7,
     "bugsmash": 7,
     "agents": 7,
     "go": 7,
     "aws": 6,
     "typescript": 6,
-    "security": 5
+    "googleadk": 5
   },
   "trending_topics": [],
   "language_percentages": {
     "JavaScript": "28.9",
-    "Go": "20.1",
+    "Go": "20.8",
     "Python": "20.8",
     "Rust": "4.4",
     "CSharp": "0.6",
     "Java": "22.6",
     "Swift": "0.6",
-    "Ruby": "1.3",
+    "Ruby": "0.6",
     "PHP": "0.6"
   }
 }
