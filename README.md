@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-17 4:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-17 5:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 20 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 
-<sub>Last fetched: Mon, 17 Aug 2026 04:54:14 CAT</sub>
+<sub>Last fetched: Mon, 17 Aug 2026 05:46:00 CAT</sub>
 
 
 ---
@@ -122,29 +122,18 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
+**1. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Scope, hoisting, and reassignment capabilities
-
-</details>
-
-**2. `NodeJS` — Explain middleware in Express.js**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Request/response cycle, next(), chain of functions
+> try/catch, .catch(), error middleware
 
 </details>
 
-**3. `SystemDesign` — Design a distributed cache system**
+**2. `SystemDesign` — Design a distributed cache system**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
@@ -152,6 +141,17 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Consistency, partitioning, replication, eviction policies
+
+</details>
+
+**3. `Java` — Explain the Java memory model**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Heap, stack, garbage collection
 
 </details>
 
@@ -166,12 +166,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 65 | 35.9% | `████████████████████` |
 | **JavaScript** | 44 | 24.3% | `██████████████░░░░░░` |
-| **Tools** | 39 | 21.5% | `████████████░░░░░░░░` |
+| **Tools** | 38 | 21.0% | `████████████░░░░░░░░` |
 | **Python** | 34 | 18.8% | `██████████░░░░░░░░░░` |
 | **Security** | 18 | 9.9% | `██████░░░░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.3% | `█████░░░░░░░░░░░░░░░` |
-| **WebDev** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.2% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 13 | 7.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 17 Aug 2026 02:54:14 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 17 Aug 2026 03:46:00 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
