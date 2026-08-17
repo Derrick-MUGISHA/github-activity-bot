@@ -553,7 +553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 461,
       "user": "ysr666"
     },
     {
@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11665,
+      "stars": 11798,
       "user": "guillaumemeyer"
     },
     {
@@ -602,21 +602,6 @@
       "user": "pgrundev"
     },
     {
-      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "published_at": "2026-08-11T07:06:43Z",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "trefeon"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -628,8 +613,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 133758,
+      "stars": 135742,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "published_at": "2026-08-14T02:36:29Z",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "hairyf"
+    },
+    {
+      "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
+      "published_at": "2026-08-13T10:02:33Z",
+      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "Awaker-OTE"
+    },
+    {
+      "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "url": "https://github.com/smthdagg/wificalling-location-gateway",
+      "published_at": "2026-08-11T05:28:18Z",
+      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "smthdagg"
+    },
+    {
+      "title": "dungoutlook1/ai-super-model - GitHub Repository",
+      "url": "https://github.com/dungoutlook1/ai-super-model",
+      "published_at": "2026-08-14T09:11:52Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316897483?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "dungoutlook1"
     },
     {
       "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
@@ -658,18 +703,20 @@
       "user": "bobby324"
     },
     {
-      "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
-      "url": "https://stackoverflow.com/questions/79995432/xarray-change-subset-of-values-of-dataset-variable-obtained-from-pandas-datafram",
-      "published_at": "2026-08-15T21:19:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
+      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
+      "published_at": "2026-08-17T01:27:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "pandas",
-        "python-xarray"
+        "windows",
+        "stdout",
+        "background-process",
+        "io-redirection"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "climatestudent"
+      "user": "Ali"
     },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -1167,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3081,
+      "stars": 3134,
       "user": "xiaobright"
     },
     {
@@ -1197,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 563,
       "user": "zouyuxuan122"
     },
     {
@@ -1212,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 505,
       "user": "SheberDavid"
     },
     {
@@ -1227,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 461,
       "user": "ysr666"
     },
     {
@@ -1242,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 133758,
+      "stars": 135742,
       "user": "deepseek-ai"
     },
     {
@@ -1257,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 9247,
+      "stars": 9547,
       "user": "anywhere-labs"
     },
     {
@@ -1272,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3498,
+      "stars": 3567,
       "user": "zhu1090093659"
     },
     {
@@ -1287,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1687,
       "user": "dmmulroy"
     },
     {
@@ -1302,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1607,
       "user": "ccch1mneyyy"
     },
     {
@@ -1723,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 461,
       "user": "ysr666"
     },
     {
@@ -1738,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11665,
+      "stars": 11798,
       "user": "guillaumemeyer"
     },
     {
@@ -1753,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5405,
+      "stars": 5660,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1768,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1157,
       "user": "Leutenegger"
     },
     {
@@ -1783,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 627,
       "user": "0xsline"
     },
     {
@@ -1800,6 +1847,34 @@
       "source": "GitHub",
       "stars": 443,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "How to use unpacking & string formatting",
+      "url": "https://stackoverflow.com/questions/79995671/how-to-use-unpacking-string-formatting",
+      "published_at": "2026-08-17T02:04:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nguyễn Thuần"
+    },
+    {
+      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
+      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
+      "published_at": "2026-08-17T01:27:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "windows",
+        "stdout",
+        "background-process",
+        "io-redirection"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali"
     },
     {
       "title": "Create a board on the console for the game tic tac toe",
@@ -1907,35 +1982,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33036361"
-    },
-    {
-      "title": "xarray change subset of values of Dataset variable obtained from pandas DataFrame inconsistent with pandas v3",
-      "url": "https://stackoverflow.com/questions/79995432/xarray-change-subset-of-values-of-dataset-variable-obtained-from-pandas-datafram",
-      "published_at": "2026-08-15T21:19:22.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "pandas",
-        "python-xarray"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "climatestudent"
-    },
-    {
-      "title": "How to draw a radial axis in polar coordinate with matplotlib?",
-      "url": "https://stackoverflow.com/questions/79995352/how-to-draw-a-radial-axis-in-polar-coordinate-with-matplotlib",
-      "published_at": "2026-08-15T12:50:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "matplotlib",
-        "axis",
-        "polar-coordinates"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "zyy"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2278,7 +2324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11665,
+      "stars": 11798,
       "user": "guillaumemeyer"
     },
     {
@@ -2417,7 +2463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3498,
+      "stars": 3567,
       "user": "zhu1090093659"
     }
   ],
@@ -3070,7 +3116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3081,
+      "stars": 3134,
       "user": "xiaobright"
     },
     {
@@ -3100,7 +3146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 563,
       "user": "zouyuxuan122"
     },
     {
@@ -3115,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 505,
       "user": "SheberDavid"
     },
     {
@@ -3130,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 461,
       "user": "ysr666"
     },
     {
@@ -3145,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
       "source": "GitHub",
-      "stars": 11665,
+      "stars": 11798,
       "user": "guillaumemeyer"
     },
     {
@@ -3160,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 5405,
+      "stars": 5660,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3175,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1157,
       "user": "Leutenegger"
     },
     {
@@ -3190,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 627,
       "user": "0xsline"
     },
     {
@@ -3235,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "WongLoki"
     },
     {
@@ -3250,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 117,
       "user": "b-nnett"
     },
     {
@@ -3269,19 +3315,19 @@
       "user": "WongLoki"
     },
     {
-      "title": "trefeon/freebuff-proxy - OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
-      "url": "https://github.com/trefeon/freebuff-proxy",
-      "published_at": "2026-08-11T07:06:43Z",
-      "description": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+      "title": "zepto-labs/scherry - Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
+      "url": "https://github.com/zepto-labs/scherry",
+      "published_at": "2026-08-11T08:59:18Z",
+      "description": "Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries:",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/95156714?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/213445769?v=4",
       "source": "GitHub",
-      "stars": 92,
-      "user": "trefeon"
+      "stars": 93,
+      "user": "zepto-labs"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3295,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 133758,
+      "stars": 135742,
       "user": "deepseek-ai"
     },
     {
@@ -3310,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 9247,
+      "stars": 9547,
       "user": "anywhere-labs"
     },
     {
@@ -3325,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 3498,
+      "stars": 3567,
       "user": "zhu1090093659"
     },
     {
@@ -3340,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 1682,
+      "stars": 1687,
       "user": "dmmulroy"
     },
     {
@@ -3355,8 +3401,83 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1607,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop",
+      "published_at": "2026-08-14T02:36:29Z",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "source": "GitHub",
+      "stars": 305,
+      "user": "hairyf"
+    },
+    {
+      "title": "Awaker-OTE/WakeGPT - A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
+      "published_at": "2026-08-13T10:02:33Z",
+      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263262888?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "Awaker-OTE"
+    },
+    {
+      "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "url": "https://github.com/smthdagg/wificalling-location-gateway",
+      "published_at": "2026-08-11T05:28:18Z",
+      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
+      "source": "GitHub",
+      "stars": 160,
+      "user": "smthdagg"
+    },
+    {
+      "title": "zunmax/osnm-z - OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea",
+      "url": "https://github.com/zunmax/osnm-z",
+      "published_at": "2026-08-14T18:18:56Z",
+      "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
+      "source": "GitHub",
+      "stars": 135,
+      "user": "zunmax"
+    },
+    {
+      "title": "dungoutlook1/ai-super-model - GitHub Repository",
+      "url": "https://github.com/dungoutlook1/ai-super-model",
+      "published_at": "2026-08-14T09:11:52Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316897483?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "dungoutlook1"
     },
     {
       "title": "A Tour of Magit's Status Interface",
