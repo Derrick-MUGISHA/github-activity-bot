@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Wed, 19 Aug 2026 00:28:34 CAT</sub>
+<sub>Last fetched: Wed, 19 Aug 2026 00:55:44 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What are Java Streams and how do they work?**
+**1. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**3. `React` — What is the Virtual DOM and how does React use it?**
+**3. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Token bucket, sliding window, Redis
 
 </details>
 
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 22:28:34 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 22:55:44 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
