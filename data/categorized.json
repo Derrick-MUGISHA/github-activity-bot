@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 878,
       "user": "jdshfhds"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 382,
       "user": "browser-use"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 160001,
+      "stars": 160056,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2336,
+      "stars": 2340,
       "user": "yetone"
     },
     {
@@ -1244,6 +1244,21 @@
       "user": "xiaobright"
     },
     {
+      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "published_at": "2026-08-17T11:42:31Z",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
+      "source": "GitHub",
+      "stars": 878,
+      "user": "jdshfhds"
+    },
+    {
       "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
       "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
       "published_at": "2026-08-14T16:29:54Z",
@@ -1257,21 +1272,6 @@
       "source": "GitHub",
       "stars": 856,
       "user": "zouyuxuan122"
-    },
-    {
-      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/jdshfhds/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 818,
-      "user": "jdshfhds"
     },
     {
       "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
@@ -1300,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 613,
       "user": "NousResearch"
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 160001,
+      "stars": 160056,
       "user": "deepseek-ai"
     },
     {
@@ -1330,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13544,
+      "stars": 13547,
       "user": "anywhere-labs"
     },
     {
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4562,
+      "stars": 4563,
       "user": "zhu1090093659"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2611,
+      "stars": 2614,
       "user": "dmmulroy"
     },
     {
@@ -1375,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2336,
+      "stars": 2340,
       "user": "yetone"
     },
     {
@@ -1786,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8816,
+      "stars": 8826,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1831,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 382,
       "user": "browser-use"
     },
     {
@@ -1853,7 +1853,7 @@
       "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
       "url": "https://stackoverflow.com/questions/79996295/importerror-cannot-import-name-tfautomodelforseq2seqlm-from-transformers",
       "published_at": "2026-08-18T20:22:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "google-colaboratory"
@@ -2434,7 +2434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4562,
+      "stars": 4563,
       "user": "zhu1090093659"
     },
     {
@@ -2597,7 +2597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2336,
+      "stars": 2340,
       "user": "yetone"
     },
     {
@@ -3095,6 +3095,21 @@
       "user": "xiaobright"
     },
     {
+      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "published_at": "2026-08-17T11:42:31Z",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
+      "source": "GitHub",
+      "stars": 878,
+      "user": "jdshfhds"
+    },
+    {
       "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
       "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
       "published_at": "2026-08-14T16:29:54Z",
@@ -3108,21 +3123,6 @@
       "source": "GitHub",
       "stars": 856,
       "user": "zouyuxuan122"
-    },
-    {
-      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/jdshfhds/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 818,
-      "user": "jdshfhds"
     },
     {
       "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
@@ -3151,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 613,
       "user": "NousResearch"
     },
     {
@@ -3166,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8816,
+      "stars": 8826,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3211,7 +3211,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 382,
       "user": "browser-use"
     },
     {
@@ -3241,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "b-nnett"
     },
     {
@@ -3271,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "yutat23"
     },
     {
@@ -3316,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 160001,
+      "stars": 160056,
       "user": "deepseek-ai"
     },
     {
@@ -3331,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13544,
+      "stars": 13547,
       "user": "anywhere-labs"
     },
     {
@@ -3346,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4562,
+      "stars": 4563,
       "user": "zhu1090093659"
     },
     {
@@ -3361,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2611,
+      "stars": 2614,
       "user": "dmmulroy"
     },
     {
@@ -3376,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2336,
+      "stars": 2340,
       "user": "yetone"
     },
     {
