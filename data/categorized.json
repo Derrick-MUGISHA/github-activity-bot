@@ -557,6 +557,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "published_at": "2026-08-17T11:42:31Z",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
+      "source": "GitHub",
+      "stars": 778,
+      "user": "jdshfhds"
+    },
+    {
       "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
       "url": "https://github.com/ysr666/dsh-vision-router",
       "published_at": "2026-08-13T18:57:47Z",
@@ -570,21 +585,6 @@
       "source": "GitHub",
       "stars": 753,
       "user": "ysr666"
-    },
-    {
-      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/jdshfhds/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 689,
-      "user": "jdshfhds"
     },
     {
       "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 373,
       "user": "browser-use"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159894,
+      "stars": 159956,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2331,
+      "stars": 2336,
       "user": "yetone"
     },
     {
@@ -774,28 +774,15 @@
       "user": "Yoinkyest Sploinkiest"
     },
     {
-      "title": "Certain card classes (e.g., specific suit) missed or misclassified during object detection in live screen capture",
-      "url": "https://stackoverflow.com/questions/79995967/certain-card-classes-e-g-specific-suit-missed-or-misclassified-during-object",
-      "published_at": "2026-08-17T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "opencv",
-        "computer-vision",
-        "object-detection",
-        "roboflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Heimo Gutmann"
-    },
-    {
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
       "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
       "published_at": "2026-08-18T20:03:56.000Z",
       "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
       "tags": [
         "Apps",
+        "Social",
+        "In Brief",
+        "payments",
         "TikTok"
       ],
       "cover_image": null,
@@ -860,6 +847,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
+    },
+    {
+      "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
+      "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
+      "published_at": "2026-08-18T16:52:51.000Z",
+      "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
+      "tags": [
+        "Next.js",
+        "Vercel",
+        "image optimization",
+        "CDN",
+        "cloudflare"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Md. Fahim Bin Amin"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -937,35 +940,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
-      "url": "https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/",
-      "published_at": "2026-08-13T22:50:32.000Z",
-      "description": "I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus",
-      "tags": [
-        "software architecture",
-        "Artificial Intelligence",
-        "refactoring",
-        "TypeScript",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build Production-Grade Agents with Pydantic AI",
-      "url": "https://www.freecodecamp.org/news/building-agents-with-pydantic-ai/",
-      "published_at": "2026-08-13T21:30:00.000Z",
-      "description": "Building AI agents with raw LLM SDKs works fine for prototypes until you need structured outputs, testable code, and production reliability. The gap shows up in a predictable way. Your notebook code w",
-      "tags": [
-        "pydantic",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Jay Mehta"
     }
   ],
   "JavaScript": [
@@ -1266,7 +1240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3553,
+      "stars": 3554,
       "user": "xiaobright"
     },
     {
@@ -1285,6 +1259,21 @@
       "user": "zouyuxuan122"
     },
     {
+      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "published_at": "2026-08-17T11:42:31Z",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
+      "source": "GitHub",
+      "stars": 778,
+      "user": "jdshfhds"
+    },
+    {
       "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
       "url": "https://github.com/ysr666/dsh-vision-router",
       "published_at": "2026-08-13T18:57:47Z",
@@ -1300,21 +1289,6 @@
       "user": "ysr666"
     },
     {
-      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/jdshfhds/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 689,
-      "user": "jdshfhds"
-    },
-    {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
       "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
       "published_at": "2026-08-13T16:40:20Z",
@@ -1326,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "NousResearch"
     },
     {
@@ -1341,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159894,
+      "stars": 159956,
       "user": "deepseek-ai"
     },
     {
@@ -1356,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13537,
+      "stars": 13541,
       "user": "anywhere-labs"
     },
     {
@@ -1371,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4557,
+      "stars": 4561,
       "user": "zhu1090093659"
     },
     {
@@ -1386,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2607,
+      "stars": 2609,
       "user": "dmmulroy"
     },
     {
@@ -1401,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2331,
+      "stars": 2336,
       "user": "yetone"
     },
     {
@@ -1460,19 +1434,6 @@
       "user": "user22414499"
     },
     {
-      "title": "How to get audio.src to use a cached response instead of making a new network request?",
-      "url": "https://stackoverflow.com/questions/79996046/how-to-get-audio-src-to-use-a-cached-response-instead-of-making-a-new-network-re",
-      "published_at": "2026-08-18T06:43:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "browser-cache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
       "title": "How are Playwright features being used in test automation?",
       "url": "https://stackoverflow.com/questions/79995902/how-are-playwright-features-being-used-in-test-automation",
       "published_at": "2026-08-17T17:12:18.000Z",
@@ -1487,19 +1448,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
-    },
-    {
-      "title": "Trouble getting service worker to do something after registration",
-      "url": "https://stackoverflow.com/questions/79996009/trouble-getting-service-worker-to-do-something-after-registration",
-      "published_at": "2026-08-18T03:39:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "service-worker"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
     },
     {
       "title": "How to populate an HTML input value from a text file using JavaScript",
@@ -1544,6 +1492,33 @@
       "user": "Gary"
     },
     {
+      "title": "The event loop, call stack, and setTimeout of 0 or some small value",
+      "url": "https://stackoverflow.com/questions/79995700/the-event-loop-call-stack-and-settimeout-of-0-or-some-small-value",
+      "published_at": "2026-08-17T05:03:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "settimeout"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
+      "title": "How to query a custom element's internal elements while in the document from a DOMParser()?",
+      "url": "https://stackoverflow.com/questions/79994986/how-to-query-a-custom-elements-internal-elements-while-in-the-document-from-a-d",
+      "published_at": "2026-08-14T04:47:08.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "custom-element",
+        "domparser"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
+    },
+    {
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
       "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
       "published_at": "2026-08-17T23:23:34.000Z",
@@ -1556,6 +1531,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yoinkyest Sploinkiest"
+    },
+    {
+      "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
+      "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
+      "published_at": "2026-08-18T16:52:51.000Z",
+      "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
+      "tags": [
+        "Next.js",
+        "Vercel",
+        "image optimization",
+        "CDN",
+        "cloudflare"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Md. Fahim Bin Amin"
     },
     {
       "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
@@ -1586,37 +1577,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite",
-      "url": "https://www.freecodecamp.org/news/modernize-legacy-applications-with-ai/",
-      "published_at": "2026-08-13T22:50:32.000Z",
-      "description": "I have seen legacy migrations considered successful because the old framework disappeared from the repository. Six months later, the team was still dealing with the same coupling, the same unclear bus",
-      "tags": [
-        "software architecture",
-        "Artificial Intelligence",
-        "refactoring",
-        "TypeScript",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
-      "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
-      "published_at": "2026-08-13T18:10:52.000Z",
-      "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
-      "tags": [
-        "shadcn",
-        "React",
-        "Web Development",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
     }
   ],
   "Python": [
@@ -1826,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8802,
+      "stars": 8811,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1860,6 +1820,21 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 373,
+      "user": "browser-use"
+    },
+    {
       "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
       "url": "https://github.com/gfodor/legal-skills",
       "published_at": "2026-08-12T21:14:16Z",
@@ -1875,19 +1850,17 @@
       "user": "gfodor"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
+      "url": "https://stackoverflow.com/questions/79996295/importerror-cannot-import-name-tfautomodelforseq2seqlm-from-transformers",
+      "published_at": "2026-08-18T20:22:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "google-colaboratory"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 369,
-      "user": "browser-use"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeff Ohana"
     },
     {
       "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
@@ -1903,6 +1876,19 @@
       "user": "Pfalbaum"
     },
     {
+      "title": "Python subclass dircmp",
+      "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
+      "published_at": "2026-08-18T14:20:43.000Z",
+      "description": "Stack Overflow question · 4 answers · score 0",
+      "tags": [
+        "python",
+        "subclass"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Damien"
+    },
+    {
       "title": "How to create an AND expression with SqlAlchemy ORM select?",
       "url": "https://stackoverflow.com/questions/79996251/how-to-create-an-and-expression-with-sqlalchemy-orm-select",
       "published_at": "2026-08-18T17:31:32.000Z",
@@ -1914,19 +1900,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Helping1908"
-    },
-    {
-      "title": "Python subclass dircmp",
-      "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
-      "published_at": "2026-08-18T14:20:43.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "subclass"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Damien"
     },
     {
       "title": "a possible solution if 'hermes update' command fails",
@@ -2014,22 +1987,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yoinkyest Sploinkiest"
-    },
-    {
-      "title": "Certain card classes (e.g., specific suit) missed or misclassified during object detection in live screen capture",
-      "url": "https://stackoverflow.com/questions/79995967/certain-card-classes-e-g-specific-suit-missed-or-misclassified-during-object",
-      "published_at": "2026-08-17T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "opencv",
-        "computer-vision",
-        "object-detection",
-        "roboflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Heimo Gutmann"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2388,6 +2345,21 @@
       "user": "Ian Webb"
     },
     {
+      "title": "How to Build More Accessible Websites with WCAG 2.2",
+      "url": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
+      "published_at": "2026-08-18T16:33:33.000Z",
+      "description": "A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might",
+      "tags": [
+        "Accessibility",
+        "#WCAG",
+        "wcag compliance",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Aiyedogbon Abraham"
+    },
+    {
       "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
       "published_at": "2026-08-14T15:57:42.000Z",
@@ -2402,21 +2374,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Bhavin Sheth"
-    },
-    {
-      "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
-      "url": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
-      "published_at": "2026-08-13T18:10:52.000Z",
-      "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
-      "tags": [
-        "shadcn",
-        "React",
-        "Web Development",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vaibhav Gupta"
     }
   ],
   "Mobile": [
@@ -2477,7 +2434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4557,
+      "stars": 4561,
       "user": "zhu1090093659"
     },
     {
@@ -2491,6 +2448,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mt"
+    },
+    {
+      "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
+      "published_at": "2026-08-18T16:05:44.000Z",
+      "description": "Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "flutter-aware"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Atuoha Anthony"
     }
   ],
   "Cloud": [
@@ -2626,7 +2597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2331,
+      "stars": 2336,
       "user": "yetone"
     },
     {
@@ -2640,6 +2611,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mt"
+    },
+    {
+      "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
+      "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
+      "published_at": "2026-08-18T16:52:51.000Z",
+      "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
+      "tags": [
+        "Next.js",
+        "Vercel",
+        "image optimization",
+        "CDN",
+        "cloudflare"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Md. Fahim Bin Amin"
     }
   ],
   "Database": [
@@ -2951,7 +2938,7 @@
       "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
       "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
       "published_at": "2026-08-18T16:39:05.000Z",
-      "description": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+      "description": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
       "tags": [
         "Security",
         "Comcast",
@@ -3104,7 +3091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3553,
+      "stars": 3554,
       "user": "xiaobright"
     },
     {
@@ -3123,6 +3110,21 @@
       "user": "zouyuxuan122"
     },
     {
+      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/jdshfhds/northcinder",
+      "published_at": "2026-08-17T11:42:31Z",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
+      "source": "GitHub",
+      "stars": 778,
+      "user": "jdshfhds"
+    },
+    {
       "title": "ysr666/dsh-vision-router - Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
       "url": "https://github.com/ysr666/dsh-vision-router",
       "published_at": "2026-08-13T18:57:47Z",
@@ -3138,21 +3140,6 @@
       "user": "ysr666"
     },
     {
-      "title": "jdshfhds/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/jdshfhds/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 689,
-      "user": "jdshfhds"
-    },
-    {
       "title": "NousResearch/Hermes-Bot-Mode - Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
       "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
       "published_at": "2026-08-13T16:40:20Z",
@@ -3164,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 614,
       "user": "NousResearch"
     },
     {
@@ -3179,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8802,
+      "stars": 8811,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3213,6 +3200,21 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 373,
+      "user": "browser-use"
+    },
+    {
       "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
       "url": "https://github.com/gfodor/legal-skills",
       "published_at": "2026-08-12T21:14:16Z",
@@ -3228,21 +3230,6 @@
       "user": "gfodor"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 369,
-      "user": "browser-use"
-    },
-    {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
       "url": "https://github.com/b-nnett/codex-subscription-router",
       "published_at": "2026-08-16T09:35:21Z",
@@ -3254,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 325,
       "user": "b-nnett"
     },
     {
@@ -3329,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159894,
+      "stars": 159956,
       "user": "deepseek-ai"
     },
     {
@@ -3344,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13537,
+      "stars": 13541,
       "user": "anywhere-labs"
     },
     {
@@ -3359,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4557,
+      "stars": 4561,
       "user": "zhu1090093659"
     },
     {
@@ -3374,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2607,
+      "stars": 2609,
       "user": "dmmulroy"
     },
     {
@@ -3389,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2331,
+      "stars": 2336,
       "user": "yetone"
     },
     {
