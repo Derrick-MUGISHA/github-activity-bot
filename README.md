@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-18 7:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-18 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 | 20 | [Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline](https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo) | Dev.to |
 
-<sub>Last fetched: Tue, 18 Aug 2026 07:52:47 CAT</sub>
+<sub>Last fetched: Tue, 18 Aug 2026 08:29:12 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Mutability, performance, use cases
 
 </details>
 
-**2. `React` — What are hooks and why were they introduced?**
+**2. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
-**3. `Database` — What is database normalization and denormalization?**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 05:52:47 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 06:29:12 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
