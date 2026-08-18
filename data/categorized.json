@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "browser-use"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159564,
+      "stars": 159689,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "yetone"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 526,
       "user": "hairyf"
     },
     {
@@ -720,7 +720,7 @@
       "title": "a possible solution if 'hermes update' command fails",
       "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
       "published_at": "2026-08-18T16:19:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "uv",
@@ -791,20 +791,19 @@
       "user": "Meet Bedmutha"
     },
     {
-      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
-      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
-      "published_at": "2026-08-17T01:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "published_at": "2026-08-18T18:00:00.000Z",
+      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
       "tags": [
-        "python",
-        "windows",
-        "stdout",
-        "background-process",
-        "io-redirection"
+        "AI",
+        "alignment",
+        "OpenAI",
+        "security"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali"
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Etched&#8217;s valuation doubles to $21B in a month",
@@ -864,20 +863,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "published_at": "2026-08-18T13:50:30.000Z",
-      "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Teens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -1003,21 +988,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
       "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
       "published_at": "2026-08-11T14:40:56Z",
@@ -1076,6 +1046,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
@@ -1269,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3548,
+      "stars": 3549,
       "user": "xiaobright"
     },
     {
@@ -1329,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "SheberDavid"
     },
     {
@@ -1344,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159564,
+      "stars": 159689,
       "user": "deepseek-ai"
     },
     {
@@ -1359,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13508,
+      "stars": 13519,
       "user": "anywhere-labs"
     },
     {
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4545,
+      "stars": 4551,
       "user": "zhu1090093659"
     },
     {
@@ -1389,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2587,
+      "stars": 2593,
       "user": "dmmulroy"
     },
     {
@@ -1404,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "yetone"
     },
     {
@@ -1423,7 +1408,7 @@
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
       "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
       "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1432,6 +1417,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe J"
+    },
+    {
+      "title": "can I make choosing a file count as a user gesture?",
+      "url": "https://stackoverflow.com/questions/79995993/can-i-make-choosing-a-file-count-as-a-user-gesture",
+      "published_at": "2026-08-18T02:06:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "input",
+        "fullscreen",
+        "gesture",
+        "drop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Geoff Nunes"
     },
     {
       "title": "How to delete an item from array only on the second click on the same element in React?",
@@ -1458,6 +1459,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
+    },
+    {
+      "title": "How are Playwright features being used in test automation?",
+      "url": "https://stackoverflow.com/questions/79995902/how-are-playwright-features-being-used-in-test-automation",
+      "published_at": "2026-08-17T17:12:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "testing",
+        "automated-tests",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sri Ramya"
     },
     {
       "title": "Trouble getting service worker to do something after registration",
@@ -1501,22 +1518,6 @@
       "user": "jamshed khan"
     },
     {
-      "title": "Is playwright being used efficiently for test automation?",
-      "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
-      "published_at": "2026-08-17T17:12:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "testing",
-        "automated-tests",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sri Ramya"
-    },
-    {
       "title": "Can an objectURL point to an on-disk cache file rather than loading the file into memory?",
       "url": "https://stackoverflow.com/questions/79995717/can-an-objecturl-point-to-an-on-disk-cache-file-rather-than-loading-the-file-int",
       "published_at": "2026-08-17T06:27:03.000Z",
@@ -1525,19 +1526,6 @@
         "javascript",
         "browser-cache",
         "createobjecturl"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gary"
-    },
-    {
-      "title": "The event loop, call stack, and setTimeout of 0 or some small value",
-      "url": "https://stackoverflow.com/questions/79995700/the-event-loop-call-stack-and-settimeout-of-0-or-some-small-value",
-      "published_at": "2026-08-17T05:03:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "settimeout"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1841,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8745,
+      "stars": 8757,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1856,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1188,
       "user": "Leutenegger"
     },
     {
@@ -1901,14 +1889,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "browser-use"
+    },
+    {
+      "title": "How to create an AND expression with SqlAlchemy ORM select?",
+      "url": "https://stackoverflow.com/questions/79996251/how-to-create-an-and-expression-with-sqlalchemy-orm-select",
+      "published_at": "2026-08-18T17:31:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Helping1908"
     },
     {
       "title": "a possible solution if 'hermes update' command fails",
       "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
       "published_at": "2026-08-18T16:19:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "uv",
@@ -2033,22 +2034,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Meet Bedmutha"
-    },
-    {
-      "title": "Python print fails with OSError: [Errno 22] Invalid argument minutes into a detached Windows background process",
-      "url": "https://stackoverflow.com/questions/79995666/python-print-fails-with-oserror-errno-22-invalid-argument-minutes-into-a-deta",
-      "published_at": "2026-08-17T01:27:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "windows",
-        "stdout",
-        "background-process",
-        "io-redirection"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2396,7 +2381,7 @@
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
       "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
       "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2510,7 +2495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4545,
+      "stars": 4551,
       "user": "zhu1090093659"
     },
     {
@@ -2734,7 +2719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "yetone"
     },
     {
@@ -2791,6 +2776,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "janiczek"
+    },
+    {
+      "title": "How to create an AND expression with SqlAlchemy ORM select?",
+      "url": "https://stackoverflow.com/questions/79996251/how-to-create-an-and-expression-with-sqlalchemy-orm-select",
+      "published_at": "2026-08-18T17:31:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Helping1908"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -3029,6 +3027,21 @@
       "user": "refp"
     },
     {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "published_at": "2026-08-18T18:00:00.000Z",
+      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "tags": [
+        "AI",
+        "alignment",
+        "OpenAI",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
       "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
       "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
       "published_at": "2026-08-18T16:39:05.000Z",
@@ -3170,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3548,
+      "stars": 3549,
       "user": "xiaobright"
     },
     {
@@ -3230,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 501,
       "user": "SheberDavid"
     },
     {
@@ -3245,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8745,
+      "stars": 8757,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3260,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1188,
       "user": "Leutenegger"
     },
     {
@@ -3305,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "browser-use"
     },
     {
@@ -3320,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 322,
       "user": "b-nnett"
     },
     {
@@ -3395,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159564,
+      "stars": 159689,
       "user": "deepseek-ai"
     },
     {
@@ -3410,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13508,
+      "stars": 13519,
       "user": "anywhere-labs"
     },
     {
@@ -3425,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4545,
+      "stars": 4551,
       "user": "zhu1090093659"
     },
     {
@@ -3440,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2587,
+      "stars": 2593,
       "user": "dmmulroy"
     },
     {
@@ -3455,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2312,
+      "stars": 2315,
       "user": "yetone"
     },
     {
@@ -3470,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 526,
       "user": "hairyf"
     },
     {
@@ -3571,10 +3584,10 @@
       "user": "LolPython"
     },
     {
-      "title": "Is playwright being used efficiently for test automation?",
-      "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
+      "title": "How are Playwright features being used in test automation?",
+      "url": "https://stackoverflow.com/questions/79995902/how-are-playwright-features-being-used-in-test-automation",
       "published_at": "2026-08-17T17:12:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "best-practices",
         "javascript",
@@ -3599,20 +3612,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "published_at": "2026-08-18T13:50:30.000Z",
-      "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Teens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ]
 }

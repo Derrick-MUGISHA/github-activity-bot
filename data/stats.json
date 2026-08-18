@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 69,
+    "AI": 68,
     "JavaScript": 45,
     "Python": 33,
     "DevOps": 14,
     "WebDev": 13,
     "Mobile": 5,
     "Cloud": 15,
-    "Database": 4,
-    "Security": 19,
-    "Tools": 38
+    "Database": 5,
+    "Security": 20,
+    "Tools": 37
   },
   "by_language": {
     "Go": 33,
@@ -31,14 +31,14 @@
     "CSharp": 1
   },
   "by_date": {
-    "2026-08-18": 29,
+    "2026-08-18": 31,
     "2026-08-13": 19,
-    "2026-08-17": 19,
+    "2026-08-17": 17,
     "2026-08-12": 9,
     "2026-08-10": 7,
+    "2026-08-14": 17,
     "2026-08-05": 3,
     "2026-08-09": 5,
-    "2026-08-14": 17,
     "2026-07-29": 3,
     "2026-08-11": 4,
     "2026-07-27": 1,
@@ -122,8 +122,8 @@
     "bugsmash": 7,
     "webdev": 7,
     "go": 7,
+    "security": 6,
     "opensource": 5,
-    "security": 5,
     "aws": 5
   },
   "trending_topics": [],
