@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "ysr666"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157374,
+      "stars": 157550,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2115,
       "user": "yetone"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 515,
       "user": "hairyf"
     },
     {
@@ -717,18 +717,6 @@
       "user": "dhruvp"
     },
     {
-      "title": "Vetted AI code is hard to justify",
-      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-      "published_at": "2026-08-17T06:11:39.353-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "amoffat"
-    },
-    {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
       "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
       "published_at": "2026-08-17T12:54:19.965-05:00",
@@ -740,6 +728,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "alcides"
+    },
+    {
+      "title": "Vetted AI code is hard to justify",
+      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "published_at": "2026-08-17T06:11:39.353-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "amoffat"
     },
     {
       "title": "Chrome extension cannot extract Kuaishou video URL",
@@ -1342,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3519,
+      "stars": 3521,
       "user": "xiaobright"
     },
     {
@@ -1357,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "zouyuxuan122"
     },
     {
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "ysr666"
     },
     {
@@ -1432,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157374,
+      "stars": 157550,
       "user": "deepseek-ai"
     },
     {
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13082,
+      "stars": 13121,
       "user": "anywhere-labs"
     },
     {
@@ -1462,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4446,
+      "stars": 4457,
       "user": "zhu1090093659"
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2508,
+      "stars": 2515,
       "user": "dmmulroy"
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2115,
       "user": "yetone"
     },
     {
@@ -1549,20 +1549,6 @@
       "user": "Gary"
     },
     {
-      "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
-      "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
-      "published_at": "2026-08-17T16:24:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jamshed khan"
-    },
-    {
       "title": "How to populate an HTML input value from a text file using JavaScript",
       "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
       "published_at": "2026-08-17T08:38:45.000Z",
@@ -1575,6 +1561,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ian Webb"
+    },
+    {
+      "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
+      "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
+      "published_at": "2026-08-17T16:24:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jamshed khan"
     },
     {
       "title": "What should I do to become a good at Javascript",
@@ -1915,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "ysr666"
     },
     {
@@ -1930,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8316,
+      "stars": 8341,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -2579,7 +2579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4446,
+      "stars": 4457,
       "user": "zhu1090093659"
     },
     {
@@ -2803,7 +2803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2115,
       "user": "yetone"
     },
     {
@@ -3237,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3519,
+      "stars": 3521,
       "user": "xiaobright"
     },
     {
@@ -3252,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "zouyuxuan122"
     },
     {
@@ -3267,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 718,
+      "stars": 719,
       "user": "ysr666"
     },
     {
@@ -3312,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8316,
+      "stars": 8341,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3462,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157374,
+      "stars": 157550,
       "user": "deepseek-ai"
     },
     {
@@ -3477,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13082,
+      "stars": 13121,
       "user": "anywhere-labs"
     },
     {
@@ -3492,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4446,
+      "stars": 4457,
       "user": "zhu1090093659"
     },
     {
@@ -3507,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2508,
+      "stars": 2515,
       "user": "dmmulroy"
     },
     {
@@ -3522,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2094,
+      "stars": 2115,
       "user": "yetone"
     },
     {
@@ -3537,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 515,
       "user": "hairyf"
     },
     {
