@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "ysr666"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 330,
       "user": "browser-use"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159080,
+      "stars": 159205,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2278,
       "user": "yetone"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 525,
       "user": "hairyf"
     },
     {
@@ -705,6 +705,18 @@
       "user": "r1w1s1"
     },
     {
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "published_at": "2026-08-18T06:42:04.403-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "art"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "polywolf"
+    },
+    {
       "title": "Does it make sense to switch to a Github Alternative ?",
       "url": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
       "published_at": "2026-08-17T09:03:05.555-05:00",
@@ -716,18 +728,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "dhruvp"
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "published_at": "2026-08-18T06:42:04.403-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "art"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "polywolf"
     },
     {
       "title": "AI;DR (AI; Didn’t Read)",
@@ -1324,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3539,
+      "stars": 3540,
       "user": "xiaobright"
     },
     {
@@ -1339,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 852,
       "user": "zouyuxuan122"
     },
     {
@@ -1354,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "ysr666"
     },
     {
@@ -1399,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159080,
+      "stars": 159205,
       "user": "deepseek-ai"
     },
     {
@@ -1414,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13414,
+      "stars": 13443,
       "user": "anywhere-labs"
     },
     {
@@ -1429,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4525,
+      "stars": 4531,
       "user": "zhu1090093659"
     },
     {
@@ -1444,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2560,
+      "stars": 2563,
       "user": "dmmulroy"
     },
     {
@@ -1459,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2278,
       "user": "yetone"
     },
     {
@@ -1503,6 +1503,19 @@
       "user": "user107968"
     },
     {
+      "title": "How to delete an item from array only on the second click on the same element in React?",
+      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
+      "published_at": "2026-08-18T07:21:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22414499"
+    },
+    {
       "title": "How to get audio.src to use a cached response instead of making a new network request?",
       "url": "https://stackoverflow.com/questions/79996046/how-to-get-audio-src-to-use-a-cached-response-instead-of-making-a-new-network-re",
       "published_at": "2026-08-18T06:43:02.000Z",
@@ -1514,19 +1527,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "How to delete an item from array only on the second click on the same element in React?",
-      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
-      "published_at": "2026-08-18T07:21:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user22414499"
     },
     {
       "title": "Trouble getting service worker to do something after registration",
@@ -1570,19 +1570,6 @@
       "user": "jamshed khan"
     },
     {
-      "title": "What should I do to become a good at Javascript",
-      "url": "https://stackoverflow.com/questions/79995905/what-should-i-do-to-become-a-good-at-javascript",
-      "published_at": "2026-08-17T17:14:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "advice",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tanish Bhoir"
-    },
-    {
       "title": "Is playwright being used efficiently for test automation?",
       "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
       "published_at": "2026-08-17T17:12:18.000Z",
@@ -1597,6 +1584,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
+    },
+    {
+      "title": "Can an objectURL point to an on-disk cache file rather than loading the file into memory?",
+      "url": "https://stackoverflow.com/questions/79995717/can-an-objecturl-point-to-an-on-disk-cache-file-rather-than-loading-the-file-int",
+      "published_at": "2026-08-17T06:27:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "browser-cache",
+        "createobjecturl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gary"
     },
     {
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
@@ -1881,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "ysr666"
     },
     {
@@ -1896,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8650,
+      "stars": 8686,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1941,7 +1942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "gfodor"
     },
     {
@@ -1956,14 +1957,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 330,
       "user": "browser-use"
     },
     {
       "title": "Python subclass dircmp",
       "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
       "published_at": "2026-08-18T14:20:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "subclass"
@@ -2567,7 +2568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4525,
+      "stars": 4531,
       "user": "zhu1090093659"
     },
     {
@@ -2791,7 +2792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2278,
       "user": "yetone"
     },
     {
@@ -3084,6 +3085,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "refp"
+    },
+    {
+      "title": "Bluesky says its recent outage was caused by another DDoS attack",
+      "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+      "published_at": "2026-08-18T15:59:48.000Z",
+      "description": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
+      "tags": [
+        "Security",
+        "social media",
+        "ddos",
+        "cybersecurity",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3195,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3539,
+      "stars": 3540,
       "user": "xiaobright"
     },
     {
@@ -3210,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 852,
       "user": "zouyuxuan122"
     },
     {
@@ -3225,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 743,
       "user": "ysr666"
     },
     {
@@ -3270,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8650,
+      "stars": 8686,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3315,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 370,
       "user": "gfodor"
     },
     {
@@ -3330,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 330,
       "user": "browser-use"
     },
     {
@@ -3345,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "b-nnett"
     },
     {
@@ -3420,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159080,
+      "stars": 159205,
       "user": "deepseek-ai"
     },
     {
@@ -3435,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13414,
+      "stars": 13443,
       "user": "anywhere-labs"
     },
     {
@@ -3450,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4525,
+      "stars": 4531,
       "user": "zhu1090093659"
     },
     {
@@ -3465,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2560,
+      "stars": 2563,
       "user": "dmmulroy"
     },
     {
@@ -3480,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2262,
+      "stars": 2278,
       "user": "yetone"
     },
     {
@@ -3495,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 525,
       "user": "hairyf"
     },
     {
