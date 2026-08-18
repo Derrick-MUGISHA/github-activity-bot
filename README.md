@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-18 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-18 12:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are finally introducing themselves to everyone!!](https://dev.to/jess/jem-has-quietly-been-working-behind-the-scenes-here-at-dev-for-years-and-im-so-happy-that-they-129e) | Dev.to |
 | 20 | [Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline](https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo) | Dev.to |
 
-<sub>Last fetched: Tue, 18 Aug 2026 11:26:53 CAT</sub>
+<sub>Last fetched: Tue, 18 Aug 2026 12:01:36 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement LRU Cache**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `Python` — What is the difference between list and tuple in Python?**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Execution timing, event loop phases
 
 </details>
 
-**3. `NodeJS` — Implement rate limiting for an API**
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 72 | 39.1% | `████████████████████` |
+| **AI** | 73 | 39.7% | `████████████████████` |
 | **JavaScript** | 47 | 25.5% | `█████████████░░░░░░░` |
-| **Tools** | 37 | 20.1% | `██████████░░░░░░░░░░` |
+| **Tools** | 36 | 19.6% | `██████████░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
 | **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -195,10 +195,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ```
 JavaScript      ██████████████████████████████ 29.4%
-Go              ██████████████████████ 21.9%
+Go              ███████████████████████ 22.5%
 Java            ██████████████████████ 21.9%
 Python          █████████████████████ 20.6%
-Rust            ████ 4.4%
+Rust            ████ 3.8%
 Swift           █ 1.3%
 CSharp          █ 0.6%
 
@@ -207,10 +207,10 @@ CSharp          █ 0.6%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 47
-    "Go" : 35
+    "Go" : 36
     "Java" : 35
     "Python" : 33
-    "Rust" : 7
+    "Rust" : 6
     "Swift" : 2
     "CSharp" : 1
 ```
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 09:26:53 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 10:01:36 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
