@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 740,
       "user": "ysr666"
     },
     {
@@ -598,23 +598,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "xinxinshuhao-create"
     },
     {
-      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-      "url": "https://github.com/Nervercc/gpt_nerver",
-      "published_at": "2026-08-15T18:51:26Z",
-      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 312,
-      "user": "Nervercc"
+      "stars": 320,
+      "user": "browser-use"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 158814,
+      "stars": 159080,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2247,
+      "stars": 2262,
       "user": "yetone"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "hairyf"
     },
     {
@@ -692,16 +692,17 @@
       "user": "dungoutlook1"
     },
     {
-      "title": "CSS: the bomb inside your inbox",
-      "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "published_at": "2026-08-18T08:30:46.091-05:00",
-      "description": "> It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this paper [Gareth Heyes] going to show you how to break out of trust boundaries, exfiltrate tokens, compromise 3rd party websites and even steal passwords.",
+      "title": "What software do you use daily in 2026?",
+      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+      "published_at": "2026-08-18T09:31:11.824-05:00",
+      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
       "tags": [
-        "security"
+        "ask",
+        "practices"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "refp"
+      "user": "r1w1s1"
     },
     {
       "title": "Does it make sense to switch to a Github Alternative ?",
@@ -831,10 +832,24 @@
       "user": "Ali"
     },
     {
+      "title": "Peacock is raising prices across all of its streaming plans",
+      "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+      "published_at": "2026-08-18T15:26:31.000Z",
+      "description": "The cheapest ad-supported “Select” plan is increasing from $7.99 to $8.99 per month.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "peacock"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
       "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
       "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
       "published_at": "2026-08-18T14:00:00.000Z",
-      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
       "tags": [
         "AI",
         "AI coding tools",
@@ -918,22 +933,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-      "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-      "published_at": "2026-08-18T10:00:00.000Z",
-      "description": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
-      "tags": [
-        "Startups",
-        "Transportation",
-        "Fundraising",
-        "electric vehicles",
-        "EVs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -1325,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3533,
+      "stars": 3539,
       "user": "xiaobright"
     },
     {
@@ -1340,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 851,
       "user": "zouyuxuan122"
     },
     {
@@ -1355,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 740,
       "user": "ysr666"
     },
     {
@@ -1385,23 +1384,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 500,
       "user": "SheberDavid"
-    },
-    {
-      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-      "url": "https://github.com/Nervercc/gpt_nerver",
-      "published_at": "2026-08-15T18:51:26Z",
-      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
-      "source": "GitHub",
-      "stars": 312,
-      "user": "Nervercc"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1415,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 158814,
+      "stars": 159080,
       "user": "deepseek-ai"
     },
     {
@@ -1430,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13367,
+      "stars": 13414,
       "user": "anywhere-labs"
     },
     {
@@ -1445,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4512,
+      "stars": 4525,
       "user": "zhu1090093659"
     },
     {
@@ -1460,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2555,
+      "stars": 2560,
       "user": "dmmulroy"
     },
     {
@@ -1475,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2247,
+      "stars": 2262,
       "user": "yetone"
     },
     {
@@ -1897,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 740,
       "user": "ysr666"
     },
     {
@@ -1912,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8602,
+      "stars": 8650,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1942,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1961,19 +1945,19 @@
       "user": "gfodor"
     },
     {
-      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-      "url": "https://github.com/Nervercc/gpt_nerver",
-      "published_at": "2026-08-15T18:51:26Z",
-      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 312,
-      "user": "Nervercc"
+      "stars": 320,
+      "user": "browser-use"
     },
     {
       "title": "Python subclass dircmp",
@@ -2457,7 +2441,7 @@
       "title": "CSS: the bomb inside your inbox",
       "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
       "published_at": "2026-08-18T08:30:46.091-05:00",
-      "description": "> It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this paper [Gareth Heyes] going to show you how to break out of trust boundaries, exfiltrate tokens, compromise 3rd party websites and even steal passwords.",
+      "description": "Lobste.rs Discussion",
       "tags": [
         "security"
       ],
@@ -2583,7 +2567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4512,
+      "stars": 4525,
       "user": "zhu1090093659"
     },
     {
@@ -2807,7 +2791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2247,
+      "stars": 2262,
       "user": "yetone"
     },
     {
@@ -3086,14 +3070,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "xinxinshuhao-create"
     },
     {
       "title": "CSS: the bomb inside your inbox",
       "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
       "published_at": "2026-08-18T08:30:46.091-05:00",
-      "description": "> It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this paper [Gareth Heyes] going to show you how to break out of trust boundaries, exfiltrate tokens, compromise 3rd party websites and even steal passwords.",
+      "description": "Lobste.rs Discussion",
       "tags": [
         "security"
       ],
@@ -3211,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3533,
+      "stars": 3539,
       "user": "xiaobright"
     },
     {
@@ -3226,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 851,
       "user": "zouyuxuan122"
     },
     {
@@ -3241,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 740,
       "user": "ysr666"
     },
     {
@@ -3271,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 500,
       "user": "SheberDavid"
     },
     {
@@ -3286,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8602,
+      "stars": 8650,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3316,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 455,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3335,19 +3319,19 @@
       "user": "gfodor"
     },
     {
-      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
-      "url": "https://github.com/Nervercc/gpt_nerver",
-      "published_at": "2026-08-15T18:51:26Z",
-      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 312,
-      "user": "Nervercc"
+      "stars": 320,
+      "user": "browser-use"
     },
     {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
@@ -3391,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "yutat23"
     },
     {
@@ -3436,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 158814,
+      "stars": 159080,
       "user": "deepseek-ai"
     },
     {
@@ -3451,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13367,
+      "stars": 13414,
       "user": "anywhere-labs"
     },
     {
@@ -3466,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4512,
+      "stars": 4525,
       "user": "zhu1090093659"
     },
     {
@@ -3481,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2555,
+      "stars": 2560,
       "user": "dmmulroy"
     },
     {
@@ -3496,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2247,
+      "stars": 2262,
       "user": "yetone"
     },
     {
@@ -3511,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 523,
       "user": "hairyf"
     },
     {
@@ -3587,6 +3571,19 @@
       "user": "lalitm"
     },
     {
+      "title": "What software do you use daily in 2026?",
+      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+      "published_at": "2026-08-18T09:31:11.824-05:00",
+      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
+      "tags": [
+        "ask",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "r1w1s1"
+    },
+    {
       "title": "Does it make sense to switch to a Github Alternative ?",
       "url": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
       "published_at": "2026-08-17T09:03:05.555-05:00",
@@ -3619,7 +3616,7 @@
       "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
       "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
       "published_at": "2026-08-18T14:00:00.000Z",
-      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
       "tags": [
         "AI",
         "AI coding tools",
