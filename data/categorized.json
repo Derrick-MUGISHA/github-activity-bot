@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 682,
       "user": "ysr666"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 453,
       "user": "xinxinshuhao-create"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Nervercc"
     },
     {
@@ -628,8 +628,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 154123,
+      "stars": 154857,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "published_at": "2026-08-17T09:13:52Z",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 1905,
+      "user": "yetone"
     },
     {
       "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
@@ -730,7 +745,7 @@
       "title": "How to expose a multi-model, case-scoped \"detail\" read in DRF without adding a new endpoint?",
       "url": "https://stackoverflow.com/questions/79995992/how-to-expose-a-multi-model-case-scoped-detail-read-in-drf-without-adding-a-n",
       "published_at": "2026-08-18T02:01:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "django",
@@ -746,7 +761,7 @@
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
       "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
       "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "node.js",
@@ -776,7 +791,7 @@
       "title": "BACnet/IP device discovery fails inside Kubernetes pod",
       "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
       "published_at": "2026-08-17T05:38:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "kubernetes",
@@ -1314,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3471,
+      "stars": 3479,
       "user": "xiaobright"
     },
     {
@@ -1329,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 797,
       "user": "zouyuxuan122"
     },
     {
@@ -1344,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 682,
       "user": "ysr666"
     },
     {
@@ -1359,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "NousResearch"
     },
     {
@@ -1389,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Nervercc"
     },
     {
@@ -1404,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 154123,
+      "stars": 154857,
       "user": "deepseek-ai"
     },
     {
@@ -1419,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 12446,
+      "stars": 12589,
       "user": "anywhere-labs"
     },
     {
@@ -1434,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4289,
+      "stars": 4318,
       "user": "zhu1090093659"
     },
     {
@@ -1449,23 +1464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2437,
+      "stars": 2447,
       "user": "dmmulroy"
     },
     {
-      "title": "ccch1mneyyy/dsh-TUI - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "published_at": "2026-08-13T12:49:31Z",
-      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "published_at": "2026-08-17T09:13:52Z",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1880,
-      "user": "ccch1mneyyy"
+      "stars": 1905,
+      "user": "yetone"
     },
     {
       "title": "Trouble getting service worker to do something after registration",
@@ -1498,7 +1513,7 @@
       "title": "How to populate an HTML input value from a text file using JavaScript",
       "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
       "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1525,7 +1540,7 @@
       "title": "Is playwright being used efficiently for test automation?",
       "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
       "published_at": "2026-08-17T17:12:18.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "best-practices",
         "javascript",
@@ -1541,7 +1556,7 @@
       "title": "Can an objectURL point to an on-disk cache file rather than loading the file into memory?",
       "url": "https://stackoverflow.com/questions/79995717/can-an-objecturl-point-to-an-on-disk-cache-file-rather-than-loading-the-file-int",
       "published_at": "2026-08-17T06:27:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "browser-cache",
@@ -1612,7 +1627,7 @@
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
       "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
       "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "node.js",
@@ -1891,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 682,
       "user": "ysr666"
     },
     {
@@ -1906,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7949,
+      "stars": 8016,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1936,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 453,
       "user": "xinxinshuhao-create"
     },
     {
@@ -1966,14 +1981,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Nervercc"
     },
     {
       "title": "How to expose a multi-model, case-scoped \"detail\" read in DRF without adding a new endpoint?",
       "url": "https://stackoverflow.com/questions/79995992/how-to-expose-a-multi-model-case-scoped-detail-read-in-drf-without-adding-a-n",
       "published_at": "2026-08-18T02:01:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "django",
@@ -1989,7 +2004,7 @@
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
       "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
       "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "node.js",
@@ -2033,7 +2048,7 @@
       "title": "BACnet/IP device discovery fails inside Kubernetes pod",
       "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
       "published_at": "2026-08-17T05:38:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "kubernetes",
@@ -2047,7 +2062,7 @@
       "title": "Problem with removing background to keep circle cropping for particular images: overlapping images, dark images, high-saturation images",
       "url": "https://stackoverflow.com/questions/79995738/problem-with-removing-background-to-keep-circle-cropping-for-particular-images",
       "published_at": "2026-08-17T07:16:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "opencv",
@@ -2318,7 +2333,7 @@
       "title": "BACnet/IP device discovery fails inside Kubernetes pod",
       "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
       "published_at": "2026-08-17T05:38:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "kubernetes",
@@ -2449,7 +2464,7 @@
       "title": "How to populate an HTML input value from a text file using JavaScript",
       "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
       "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2564,7 +2579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4289,
+      "stars": 4318,
       "user": "zhu1090093659"
     },
     {
@@ -2790,6 +2805,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhudjezmnc3ptdijb6cq.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "published_at": "2026-08-17T09:13:52Z",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 1905,
+      "user": "yetone"
     },
     {
       "title": "How Bluesky draws its logo on screenshots",
@@ -3079,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 453,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3208,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3471,
+      "stars": 3479,
       "user": "xiaobright"
     },
     {
@@ -3223,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 797,
       "user": "zouyuxuan122"
     },
     {
@@ -3238,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 682,
       "user": "ysr666"
     },
     {
@@ -3253,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "NousResearch"
     },
     {
@@ -3283,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7949,
+      "stars": 8016,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3313,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 453,
       "user": "xinxinshuhao-create"
     },
     {
@@ -3343,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Nervercc"
     },
     {
@@ -3358,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 292,
+      "stars": 294,
       "user": "b-nnett"
     },
     {
@@ -3388,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 115,
       "user": "yutat23"
     },
     {
@@ -3433,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 154123,
+      "stars": 154857,
       "user": "deepseek-ai"
     },
     {
@@ -3448,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 12446,
+      "stars": 12589,
       "user": "anywhere-labs"
     },
     {
@@ -3463,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4289,
+      "stars": 4318,
       "user": "zhu1090093659"
     },
     {
@@ -3478,23 +3508,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2437,
+      "stars": 2447,
       "user": "dmmulroy"
     },
     {
-      "title": "ccch1mneyyy/dsh-TUI - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-      "published_at": "2026-08-13T12:49:31Z",
-      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "published_at": "2026-08-17T09:13:52Z",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 1880,
-      "user": "ccch1mneyyy"
+      "stars": 1905,
+      "user": "yetone"
     },
     {
       "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup. Windows / macOS / Linux.",
@@ -3600,7 +3630,7 @@
       "title": "Is playwright being used efficiently for test automation?",
       "url": "https://stackoverflow.com/questions/79995902/is-playwright-being-used-efficiently-for-test-automation",
       "published_at": "2026-08-17T17:12:18.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "best-practices",
         "javascript",
