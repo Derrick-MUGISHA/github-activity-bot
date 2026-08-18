@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "ysr666"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157147,
+      "stars": 157374,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2070,
+      "stars": 2094,
       "user": "yetone"
     },
     {
@@ -727,6 +727,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "amoffat"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "published_at": "2026-08-17T12:54:19.965-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "art"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "alcides"
     },
     {
       "title": "Chrome extension cannot extract Kuaishou video URL",
@@ -1329,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3518,
+      "stars": 3519,
       "user": "xiaobright"
     },
     {
@@ -1344,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 829,
       "user": "zouyuxuan122"
     },
     {
@@ -1359,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "ysr666"
     },
     {
@@ -1374,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "NousResearch"
     },
     {
@@ -1419,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157147,
+      "stars": 157374,
       "user": "deepseek-ai"
     },
     {
@@ -1434,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13043,
+      "stars": 13082,
       "user": "anywhere-labs"
     },
     {
@@ -1449,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4436,
+      "stars": 4446,
       "user": "zhu1090093659"
     },
     {
@@ -1464,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2499,
+      "stars": 2508,
       "user": "dmmulroy"
     },
     {
@@ -1479,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2070,
+      "stars": 2094,
       "user": "yetone"
     },
     {
@@ -1536,20 +1549,6 @@
       "user": "Gary"
     },
     {
-      "title": "How to populate an HTML input value from a text file using JavaScript",
-      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
-      "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "input"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ian Webb"
-    },
-    {
       "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
       "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
       "published_at": "2026-08-17T16:24:28.000Z",
@@ -1562,6 +1561,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jamshed khan"
+    },
+    {
+      "title": "How to populate an HTML input value from a text file using JavaScript",
+      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
+      "published_at": "2026-08-17T08:38:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "input"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ian Webb"
     },
     {
       "title": "What should I do to become a good at Javascript",
@@ -1902,7 +1915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "ysr666"
     },
     {
@@ -1917,7 +1930,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8267,
+      "stars": 8316,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1979,6 +1992,22 @@
       "source": "GitHub",
       "stars": 311,
       "user": "Nervercc"
+    },
+    {
+      "title": "Rotating image or not?",
+      "url": "https://stackoverflow.com/questions/79996126/rotating-image-or-not",
+      "published_at": "2026-08-18T11:00:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "rotation",
+        "ocr",
+        "kie",
+        "text-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "An Đo&#224;n Nguyễn Bảo"
     },
     {
       "title": "How to expose a multi-model, case-scoped \"detail\" read in DRF without adding a new endpoint?",
@@ -2115,19 +2144,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ni d0"
-    },
-    {
-      "title": "How can I retry a Python API request when it times out?",
-      "url": "https://stackoverflow.com/questions/79995828/how-can-i-retry-a-python-api-request-when-it-times-out",
-      "published_at": "2026-08-17T12:51:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rowan maththias"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2563,7 +2579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4436,
+      "stars": 4446,
       "user": "zhu1090093659"
     },
     {
@@ -2787,7 +2803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2070,
+      "stars": 2094,
       "user": "yetone"
     },
     {
@@ -3221,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3518,
+      "stars": 3519,
       "user": "xiaobright"
     },
     {
@@ -3236,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 829,
       "user": "zouyuxuan122"
     },
     {
@@ -3251,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 718,
       "user": "ysr666"
     },
     {
@@ -3266,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "NousResearch"
     },
     {
@@ -3296,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8267,
+      "stars": 8316,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3371,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 303,
       "user": "b-nnett"
     },
     {
@@ -3401,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 119,
       "user": "yutat23"
     },
     {
@@ -3446,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157147,
+      "stars": 157374,
       "user": "deepseek-ai"
     },
     {
@@ -3461,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13043,
+      "stars": 13082,
       "user": "anywhere-labs"
     },
     {
@@ -3476,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4436,
+      "stars": 4446,
       "user": "zhu1090093659"
     },
     {
@@ -3491,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2499,
+      "stars": 2508,
       "user": "dmmulroy"
     },
     {
@@ -3506,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2070,
+      "stars": 2094,
       "user": "yetone"
     },
     {
