@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "ysr666"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Nervercc"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157550,
+      "stars": 157978,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2156,
       "user": "yetone"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 519,
       "user": "hairyf"
     },
     {
@@ -730,22 +730,10 @@
       "user": "alcides"
     },
     {
-      "title": "Vetted AI code is hard to justify",
-      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-      "published_at": "2026-08-17T06:11:39.353-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "amoffat"
-    },
-    {
       "title": "Chrome extension cannot extract Kuaishou video URL",
       "url": "https://stackoverflow.com/questions/79996103/chrome-extension-cannot-extract-kuaishou-video-url",
       "published_at": "2026-08-18T09:33:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "google-chrome",
@@ -846,6 +834,22 @@
       "user": "Dominic-Madori Davis"
     },
     {
+      "title": "Fairphone is launching its latest repairable phone in the US too",
+      "url": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+      "published_at": "2026-08-18T11:00:00.000Z",
+      "description": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "Fairphone",
+        "repairable smartphone",
+        "smartphones"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
       "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
       "published_at": "2026-08-18T10:00:00.000Z",
@@ -904,38 +908,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-      "published_at": "2026-08-17T19:04:27.000Z",
-      "description": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
-      "tags": [
-        "Fundraising",
-        "Media & Entertainment",
-        "Startups",
-        "ai video",
-        "Higgsfield AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
-      "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
-      "published_at": "2026-08-17T18:42:30.000Z",
-      "description": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "TC",
-        "Reddit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -1119,21 +1091,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
       "source": "Dev.to",
       "user": "Sylwia Laskowska"
-    },
-    {
-      "title": "linkedSignal() Writes Back: A Trace Through the Reactive Graph 🔍🚀",
-      "url": "https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7",
-      "published_at": "2026-08-07T08:43:39Z",
-      "description": "Let's be honest: linkedSignal() always had a bit of a split personality. It read beautifully from...",
-      "tags": [
-        "angular",
-        "typescript",
-        "angularsignals",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg0eqmwcdo3rxov585n99.png",
-      "source": "Dev.to",
-      "user": "Giorgio Galassi"
     },
     {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
@@ -1342,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3521,
+      "stars": 3523,
       "user": "xiaobright"
     },
     {
@@ -1357,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 836,
       "user": "zouyuxuan122"
     },
     {
@@ -1372,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "ysr666"
     },
     {
@@ -1387,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 612,
       "user": "NousResearch"
     },
     {
@@ -1402,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 500,
       "user": "SheberDavid"
     },
     {
@@ -1417,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Nervercc"
     },
     {
@@ -1432,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157550,
+      "stars": 157978,
       "user": "deepseek-ai"
     },
     {
@@ -1447,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13121,
+      "stars": 13188,
       "user": "anywhere-labs"
     },
     {
@@ -1462,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4457,
+      "stars": 4481,
       "user": "zhu1090093659"
     },
     {
@@ -1477,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2521,
       "user": "dmmulroy"
     },
     {
@@ -1492,14 +1449,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2156,
       "user": "yetone"
     },
     {
       "title": "Chrome extension cannot extract Kuaishou video URL",
       "url": "https://stackoverflow.com/questions/79996103/chrome-extension-cannot-extract-kuaishou-video-url",
       "published_at": "2026-08-18T09:33:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "google-chrome",
@@ -1566,7 +1523,7 @@
       "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
       "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
       "published_at": "2026-08-17T16:24:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "reactjs",
@@ -1915,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "ysr666"
     },
     {
@@ -1930,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8341,
+      "stars": 8423,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1990,14 +1947,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Nervercc"
     },
     {
       "title": "Rotating image or not?",
       "url": "https://stackoverflow.com/questions/79996126/rotating-image-or-not",
       "published_at": "2026-08-18T11:00:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "rotation",
@@ -2130,20 +2087,17 @@
       "user": "Melchior Reihlen-B&#246;rgers"
     },
     {
-      "title": "How to parse and decode the undocumented 37-character transaction reference string from Revolut's UK Faster Payments?",
-      "url": "https://stackoverflow.com/questions/79995767/how-to-parse-and-decode-the-undocumented-37-character-transaction-reference-stri",
-      "published_at": "2026-08-17T08:57:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "How can I retry a Python API request when it times out?",
+      "url": "https://stackoverflow.com/questions/79995828/how-can-i-retry-a-python-api-request-when-it-times-out",
+      "published_at": "2026-08-17T12:51:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "python",
-        "substring",
-        "payment-gateway",
-        "string-parsing",
-        "banking"
+        "best-practices",
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "ni d0"
+      "user": "Rowan maththias"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2579,7 +2533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4457,
+      "stars": 4481,
       "user": "zhu1090093659"
     },
     {
@@ -2803,7 +2757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2156,
       "user": "yetone"
     },
     {
@@ -2860,18 +2814,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "janiczek"
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-      "published_at": "2026-08-17T11:13:25.964-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mpweiher"
     },
     {
       "title": "Reading from Postgres DB using Polars and filter on list of strings",
@@ -3237,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3521,
+      "stars": 3523,
       "user": "xiaobright"
     },
     {
@@ -3252,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 836,
       "user": "zouyuxuan122"
     },
     {
@@ -3267,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 727,
       "user": "ysr666"
     },
     {
@@ -3282,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 612,
       "user": "NousResearch"
     },
     {
@@ -3297,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 500,
       "user": "SheberDavid"
     },
     {
@@ -3312,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8341,
+      "stars": 8423,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3372,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 311,
+      "stars": 312,
       "user": "Nervercc"
     },
     {
@@ -3387,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 307,
       "user": "b-nnett"
     },
     {
@@ -3402,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "WongLoki"
     },
     {
@@ -3417,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 119,
+      "stars": 120,
       "user": "yutat23"
     },
     {
@@ -3432,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "WongLoki"
     },
     {
@@ -3462,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 157550,
+      "stars": 157978,
       "user": "deepseek-ai"
     },
     {
@@ -3477,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13121,
+      "stars": 13188,
       "user": "anywhere-labs"
     },
     {
@@ -3492,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4457,
+      "stars": 4481,
       "user": "zhu1090093659"
     },
     {
@@ -3507,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2521,
       "user": "dmmulroy"
     },
     {
@@ -3522,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2156,
       "user": "yetone"
     },
     {
@@ -3537,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 519,
       "user": "hairyf"
     },
     {
@@ -3640,22 +3582,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
-    },
-    {
-      "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
-      "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
-      "published_at": "2026-08-17T18:42:30.000Z",
-      "description": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "TC",
-        "Reddit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ]
 }
