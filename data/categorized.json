@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 689,
       "user": "jdshfhds"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 369,
       "user": "browser-use"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159844,
+      "stars": 159894,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2329,
+      "stars": 2331,
       "user": "yetone"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "hairyf"
     },
     {
@@ -715,6 +715,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "polywolf"
+    },
+    {
+      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
+      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
+      "published_at": "2026-08-18T19:43:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
     },
     {
       "title": "a possible solution if 'hermes update' command fails",
@@ -777,18 +790,17 @@
       "user": "Heimo Gutmann"
     },
     {
-      "title": "BACnet/IP device discovery fails inside Kubernetes pod",
-      "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
-      "published_at": "2026-08-17T05:38:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "published_at": "2026-08-18T20:03:56.000Z",
+      "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
       "tags": [
-        "python",
-        "kubernetes",
-        "bacnet"
+        "Apps",
+        "TikTok"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Meet Bedmutha"
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
@@ -848,20 +860,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "published_at": "2026-08-18T14:00:00.000Z",
-      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "tags": [
-        "AI",
-        "AI coding tools",
-        "warp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -1268,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3552,
+      "stars": 3553,
       "user": "xiaobright"
     },
     {
@@ -1313,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 689,
       "user": "jdshfhds"
     },
     {
@@ -1343,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159844,
+      "stars": 159894,
       "user": "deepseek-ai"
     },
     {
@@ -1358,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13532,
+      "stars": 13537,
       "user": "anywhere-labs"
     },
     {
@@ -1388,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2607,
       "user": "dmmulroy"
     },
     {
@@ -1403,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2329,
+      "stars": 2331,
       "user": "yetone"
     },
     {
@@ -1828,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8794,
+      "stars": 8802,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1888,14 +1886,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 369,
       "user": "browser-use"
+    },
+    {
+      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
+      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
+      "published_at": "2026-08-18T19:43:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
     },
     {
       "title": "How to create an AND expression with SqlAlchemy ORM select?",
       "url": "https://stackoverflow.com/questions/79996251/how-to-create-an-and-expression-with-sqlalchemy-orm-select",
       "published_at": "2026-08-18T17:31:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "sqlalchemy"
@@ -1903,6 +1914,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Helping1908"
+    },
+    {
+      "title": "Python subclass dircmp",
+      "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
+      "published_at": "2026-08-18T14:20:43.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "subclass"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Damien"
     },
     {
       "title": "a possible solution if 'hermes update' command fails",
@@ -1917,19 +1941,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ilya.chepurnoy"
-    },
-    {
-      "title": "Python subclass dircmp",
-      "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
-      "published_at": "2026-08-18T14:20:43.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "subclass"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Damien"
     },
     {
       "title": "matplotlib savefig silently exits with code 1 after plt.plot() succeeds — no exception, no output",
@@ -2019,20 +2030,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Heimo Gutmann"
-    },
-    {
-      "title": "BACnet/IP device discovery fails inside Kubernetes pod",
-      "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
-      "published_at": "2026-08-17T05:38:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "kubernetes",
-        "bacnet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Meet Bedmutha"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2232,20 +2229,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "BACnet/IP device discovery fails inside Kubernetes pod",
-      "url": "https://stackoverflow.com/questions/79995707/bacnet-ip-device-discovery-fails-inside-kubernetes-pod",
-      "published_at": "2026-08-17T05:38:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "kubernetes",
-        "bacnet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Meet Bedmutha"
     }
   ],
   "WebDev": [
@@ -2643,7 +2626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2329,
+      "stars": 2331,
       "user": "yetone"
     },
     {
@@ -2705,7 +2688,7 @@
       "title": "How to create an AND expression with SqlAlchemy ORM select?",
       "url": "https://stackoverflow.com/questions/79996251/how-to-create-an-and-expression-with-sqlalchemy-orm-select",
       "published_at": "2026-08-18T17:31:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "sqlalchemy"
@@ -3121,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3552,
+      "stars": 3553,
       "user": "xiaobright"
     },
     {
@@ -3166,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 689,
       "user": "jdshfhds"
     },
     {
@@ -3196,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8794,
+      "stars": 8802,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3256,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 369,
       "user": "browser-use"
     },
     {
@@ -3301,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "yutat23"
     },
     {
@@ -3346,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 159844,
+      "stars": 159894,
       "user": "deepseek-ai"
     },
     {
@@ -3361,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13532,
+      "stars": 13537,
       "user": "anywhere-labs"
     },
     {
@@ -3391,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2604,
+      "stars": 2607,
       "user": "dmmulroy"
     },
     {
@@ -3406,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2329,
+      "stars": 2331,
       "user": "yetone"
     },
     {
@@ -3421,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 529,
       "user": "hairyf"
     },
     {
@@ -3498,18 +3481,6 @@
       "user": "r1w1s1"
     },
     {
-      "title": "GitHub has alternatives, but no replacement",
-      "url": "https://lalitm.com/post/github-alternatives/",
-      "published_at": "2026-08-17T12:12:44.421-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lalitm"
-    },
-    {
       "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
       "published_at": "2026-08-18T10:07:47.813-05:00",
@@ -3520,6 +3491,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "LolPython"
+    },
+    {
+      "title": "GitHub has alternatives, but no replacement",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "published_at": "2026-08-17T12:12:44.421-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lalitm"
     },
     {
       "title": "How are Playwright features being used in test automation?",
@@ -3536,20 +3519,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
-    },
-    {
-      "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "published_at": "2026-08-18T14:00:00.000Z",
-      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "tags": [
-        "AI",
-        "AI coding tools",
-        "warp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     }
   ]
 }
