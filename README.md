@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-19 0:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-19 1:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Wed, 19 Aug 2026 00:55:44 CAT</sub>
+<sub>Last fetched: Wed, 19 Aug 2026 01:20:58 CAT</sub>
 
 
 ---
@@ -122,18 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — What is database normalization and denormalization?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Normal forms, redundancy, performance trade-offs
-
-</details>
-
-**2. `Database` — Design a database schema for a social media platform**
+**1. `Database` — Design a database schema for a social media platform**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
@@ -144,14 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**3. `NodeJS` — Implement rate limiting for an API**
+**2. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Mutability, performance, use cases
+
+</details>
+
+**3. `DataStructures` — Implement a function to reverse a linked list**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Iterative or recursive, three pointers
 
 </details>
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.6%
-Java            ███████████████████████ 23.0%
-Python          █████████████████████ 21.1%
-Go              ████████████████████ 19.7%
+JavaScript      ██████████████████████████████ 29.4%
+Java            ███████████████████████ 22.9%
+Python          █████████████████████ 20.9%
+Go              █████████████████████ 20.3%
 Rust            █████ 4.6%
 Swift           █ 1.3%
 CSharp          █ 0.7%
@@ -209,7 +209,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 45
     "Java" : 35
     "Python" : 32
-    "Go" : 30
+    "Go" : 31
     "Rust" : 7
     "Swift" : 2
     "CSharp" : 1
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 22:55:44 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 18 Aug 2026 23:20:58 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
