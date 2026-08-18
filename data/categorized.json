@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
+      "published_at": "2026-08-17T20:12:46Z",
+      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "tags": [
+        "agents",
+        "ai",
+        "coding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -104,21 +119,6 @@
       "user": "xbill"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Nobody Alerts on Silence: Wiring Sentry Into an LLM Pipeline",
       "url": "https://dev.to/mrviduus/nobody-alerts-on-silence-wiring-sentry-into-an-llm-pipeline-12lo",
       "published_at": "2026-08-11T12:00:00Z",
@@ -207,6 +207,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
@@ -568,23 +583,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 637,
       "user": "ysr666"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 13440,
-      "user": "guillaumemeyer"
     },
     {
       "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
@@ -602,21 +602,6 @@
       "user": "xinxinshuhao-create"
     },
     {
-      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
-      "url": "https://github.com/pgrundev/pgbot",
-      "published_at": "2026-08-11T23:41:52Z",
-      "description": "pgbot - Postgres intelligence for AI agents & apps",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "pgrundev"
-    },
-    {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "published_at": "2026-08-13T11:56:32Z",
@@ -628,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 149777,
+      "stars": 150222,
       "user": "deepseek-ai"
     },
     {
@@ -643,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "hairyf"
     },
     {
@@ -662,19 +647,19 @@
       "user": "Awaker-OTE"
     },
     {
-      "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
-      "url": "https://github.com/smthdagg/wificalling-location-gateway",
-      "published_at": "2026-08-11T05:28:18Z",
-      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "title": "dungoutlook1/ai-super-model - GitHub Repository",
+      "url": "https://github.com/dungoutlook1/ai-super-model",
+      "published_at": "2026-08-14T09:11:52Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316897483?v=4",
       "source": "GitHub",
-      "stars": 163,
-      "user": "smthdagg"
+      "stars": 85,
+      "user": "dungoutlook1"
     },
     {
       "title": "Does it make sense to switch to a Github Alternative ?",
@@ -727,17 +712,18 @@
       "user": "Scott"
     },
     {
-      "title": "How to repeat-print a string with a number in it that increases with each repeat-print, everything inside a .replace constraint",
-      "url": "https://stackoverflow.com/questions/79995446/how-to-repeat-print-a-string-with-a-number-in-it-that-increases-with-each-repeat",
-      "published_at": "2026-08-15T22:20:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
+      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
+      "published_at": "2026-08-17T23:23:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "javascript",
-        "arrays"
+        "python",
+        "node.js",
+        "websocket"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "bobby324"
+      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "Certain card classes (e.g., specific suit) missed or misclassified during object detection in live screen capture",
@@ -754,20 +740,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Heimo Gutmann"
-    },
-    {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "BACnet/IP device discovery fails inside Kubernetes pod",
@@ -796,6 +768,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tweaks.data"
+    },
+    {
+      "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "published_at": "2026-08-17T23:56:26.000Z",
+      "description": "The model maker added $18 billion in annualized revenue in two months.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
@@ -905,21 +891,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "published_at": "2026-08-17T16:38:44.000Z",
-      "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "tags": [
-        "AI",
-        "AI training",
-        "Amazon",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "How to Work with Subqueries in SQL",
@@ -1326,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3422,
+      "stars": 3425,
       "user": "xiaobright"
     },
     {
@@ -1341,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 746,
       "user": "zouyuxuan122"
     },
     {
@@ -1356,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 637,
       "user": "ysr666"
     },
     {
@@ -1371,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "NousResearch"
     },
     {
@@ -1401,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 149777,
+      "stars": 150222,
       "user": "deepseek-ai"
     },
     {
@@ -1416,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11612,
+      "stars": 11705,
       "user": "anywhere-labs"
     },
     {
@@ -1431,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4095,
+      "stars": 4110,
       "user": "zhu1090093659"
     },
     {
@@ -1446,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2356,
+      "stars": 2373,
       "user": "dmmulroy"
     },
     {
@@ -1461,14 +1432,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1811,
+      "stars": 1816,
       "user": "ccch1mneyyy"
+    },
+    {
+      "title": "How can i undo a hack to prodigy to get 10 million gold that i accidentally did",
+      "url": "https://stackoverflow.com/questions/79995979/how-can-i-undo-a-hack-to-prodigy-to-get-10-million-gold-that-i-accidentally-did",
+      "published_at": "2026-08-18T00:22:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Siddhartha Pusuluru"
     },
     {
       "title": "What should I do to become a good at Javascript",
       "url": "https://stackoverflow.com/questions/79995905/what-should-i-do-to-become-a-good-at-javascript",
       "published_at": "2026-08-17T17:14:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "advice",
         "javascript"
@@ -1591,19 +1574,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Scott"
-    },
-    {
-      "title": "How to repeat-print a string with a number in it that increases with each repeat-print, everything inside a .replace constraint",
-      "url": "https://stackoverflow.com/questions/79995446/how-to-repeat-print-a-string-with-a-number-in-it-that-increases-with-each-repeat",
-      "published_at": "2026-08-15T22:20:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bobby324"
     },
     {
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
@@ -1888,23 +1858,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 637,
       "user": "ysr666"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 13440,
-      "user": "guillaumemeyer"
     },
     {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
@@ -1918,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7563,
+      "stars": 7598,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1937,21 +1892,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "published_at": "2026-08-11T13:14:49Z",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 688,
-      "user": "0xsline"
-    },
-    {
       "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
       "url": "https://github.com/xinxinshuhao-create/grok-register",
       "published_at": "2026-08-12T11:56:57Z",
@@ -1965,6 +1905,50 @@
       "source": "GitHub",
       "stars": 449,
       "user": "xinxinshuhao-create"
+    },
+    {
+      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
+      "url": "https://github.com/gfodor/legal-skills",
+      "published_at": "2026-08-12T21:14:16Z",
+      "description": "Replacing lawyers with markdown files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
+      "source": "GitHub",
+      "stars": 368,
+      "user": "gfodor"
+    },
+    {
+      "title": "pemarine/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/pemarine/cve-2026-41940-PoC",
+      "published_at": "2026-08-13T16:03:48Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/152866198?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "pemarine"
+    },
+    {
+      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
+      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
+      "published_at": "2026-08-17T23:23:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "node.js",
+        "websocket"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "Certain card classes (e.g., specific suit) missed or misclassified during object detection in live screen capture",
@@ -1983,18 +1967,20 @@
       "user": "Heimo Gutmann"
     },
     {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
+      "title": "Problem with removing background to keep circle cropping for particular images: overlapping images, dark images, high-saturation images",
+      "url": "https://stackoverflow.com/questions/79995738/problem-with-removing-background-to-keep-circle-cropping-for-particular-images",
+      "published_at": "2026-08-17T07:16:34.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "node.js",
-        "websocket"
+        "opencv",
+        "image-processing",
+        "computer-vision",
+        "classification"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
+      "user": "William"
     },
     {
       "title": "Terminating Flask app by Ctrl+C does not trigger KeyboardInterrupt",
@@ -2065,20 +2051,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nikita Serba"
-    },
-    {
-      "title": "Circle cropping for multiple images: overlapping images, dark images, high-saturation images",
-      "url": "https://stackoverflow.com/questions/79995738/circle-cropping-for-multiple-images-overlapping-images-dark-images-high-satur",
-      "published_at": "2026-08-17T07:16:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "opencv",
-        "image-processing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "William"
     },
     {
       "title": "BACnet/IP device discovery fails inside Kubernetes pod",
@@ -2382,21 +2354,6 @@
       "user": "Sarvar Nadaf"
     },
     {
-      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
-      "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk",
-      "published_at": "2026-08-10T08:59:34Z",
-      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
-      "tags": [
-        "css",
-        "devchallenge",
-        "showdev",
-        "frontendchallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frda2trnbgnoy3aiypikh.png",
-      "source": "Dev.to",
-      "user": "Laura Norwood"
-    },
-    {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
       "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
       "published_at": "2026-08-06T17:47:27Z",
@@ -2427,6 +2384,21 @@
       "user": "Jessica Doering"
     },
     {
+      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
+      "url": "https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk",
+      "published_at": "2026-08-10T08:59:34Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.          ...",
+      "tags": [
+        "css",
+        "devchallenge",
+        "showdev",
+        "frontendchallenge"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frda2trnbgnoy3aiypikh.png",
+      "source": "Dev.to",
+      "user": "Laura Norwood"
+    },
+    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2437,21 +2409,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 13440,
-      "user": "guillaumemeyer"
     },
     {
       "title": "How to populate an HTML input value from a text file using JavaScript",
@@ -2572,7 +2529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4095,
+      "stars": 4110,
       "user": "zhu1090093659"
     },
     {
@@ -2620,21 +2577,6 @@
       "user": "xbill"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Three Clouds, Three Native Agents",
       "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
       "published_at": "2026-08-10T15:04:09Z",
@@ -2661,6 +2603,21 @@
         "gcp"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
+      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
+      "published_at": "2026-08-13T18:42:09Z",
+      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
+      "tags": [
+        "aws",
+        "vllm",
+        "cuda",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3091,6 +3048,21 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "pemarine/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/pemarine/cve-2026-41940-PoC",
+      "published_at": "2026-08-13T16:03:48Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/152866198?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "pemarine"
+    },
+    {
       "title": "Passphrase-less reboots using kexec under NixOS",
       "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
       "published_at": "2026-08-17T04:53:54.741-05:00",
@@ -3230,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3422,
+      "stars": 3425,
       "user": "xiaobright"
     },
     {
@@ -3245,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 746,
       "user": "zouyuxuan122"
     },
     {
@@ -3260,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 637,
       "user": "ysr666"
     },
     {
@@ -3275,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "NousResearch"
     },
     {
@@ -3294,21 +3266,6 @@
       "user": "SheberDavid"
     },
     {
-      "title": "guillaumemeyer/watermarks-remover - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "published_at": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1385518?v=4",
-      "source": "GitHub",
-      "stars": 13440,
-      "user": "guillaumemeyer"
-    },
-    {
       "title": "awesome-dsh-plugin/awesome-dsh-plugin - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "published_at": "2026-08-13T13:55:31Z",
@@ -3320,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 7563,
+      "stars": 7598,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3339,21 +3296,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "0xsline/awesome-deepseek-harness - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "published_at": "2026-08-11T13:14:49Z",
-      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/151105947?v=4",
-      "source": "GitHub",
-      "stars": 688,
-      "user": "0xsline"
-    },
-    {
       "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
       "url": "https://github.com/xinxinshuhao-create/grok-register",
       "published_at": "2026-08-12T11:56:57Z",
@@ -3369,6 +3311,36 @@
       "user": "xinxinshuhao-create"
     },
     {
+      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
+      "url": "https://github.com/gfodor/legal-skills",
+      "published_at": "2026-08-12T21:14:16Z",
+      "description": "Replacing lawyers with markdown files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
+      "source": "GitHub",
+      "stars": 368,
+      "user": "gfodor"
+    },
+    {
+      "title": "pemarine/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/pemarine/cve-2026-41940-PoC",
+      "published_at": "2026-08-13T16:03:48Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/152866198?v=4",
+      "source": "GitHub",
+      "stars": 281,
+      "user": "pemarine"
+    },
+    {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
       "url": "https://github.com/b-nnett/codex-subscription-router",
       "published_at": "2026-08-16T09:35:21Z",
@@ -3380,23 +3352,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 267,
       "user": "b-nnett"
-    },
-    {
-      "title": "pgrundev/pgbot - pgbot - Postgres intelligence for AI agents & apps",
-      "url": "https://github.com/pgrundev/pgbot",
-      "published_at": "2026-08-11T23:41:52Z",
-      "description": "pgbot - Postgres intelligence for AI agents & apps",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "pgrundev"
     },
     {
       "title": "WongLoki/DJ4Hub - Local-first macOS console for the first-generation DJI 4G module",
@@ -3440,8 +3397,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "yutat23"
+    },
+    {
+      "title": "jasonxu114514/opencode2api - GitHub Repository",
+      "url": "https://github.com/jasonxu114514/opencode2api",
+      "published_at": "2026-08-13T23:57:44Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "jasonxu114514"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -3455,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 149777,
+      "stars": 150222,
       "user": "deepseek-ai"
     },
     {
@@ -3470,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 11612,
+      "stars": 11705,
       "user": "anywhere-labs"
     },
     {
@@ -3485,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
       "source": "GitHub",
-      "stars": 4095,
+      "stars": 4110,
       "user": "zhu1090093659"
     },
     {
@@ -3500,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
       "source": "GitHub",
-      "stars": 2356,
+      "stars": 2373,
       "user": "dmmulroy"
     },
     {
@@ -3515,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 1811,
+      "stars": 1816,
       "user": "ccch1mneyyy"
     },
     {
@@ -3530,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "hairyf"
     },
     {
@@ -3547,21 +3519,6 @@
       "source": "GitHub",
       "stars": 169,
       "user": "Awaker-OTE"
-    },
-    {
-      "title": "smthdagg/wificalling-location-gateway - Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
-      "url": "https://github.com/smthdagg/wificalling-location-gateway",
-      "published_at": "2026-08-11T05:28:18Z",
-      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292974443?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "smthdagg"
     },
     {
       "title": "zunmax/osnm-z - OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea",
@@ -3592,6 +3549,21 @@
       "source": "GitHub",
       "stars": 86,
       "user": "CapSoftware"
+    },
+    {
+      "title": "dungoutlook1/ai-super-model - GitHub Repository",
+      "url": "https://github.com/dungoutlook1/ai-super-model",
+      "published_at": "2026-08-14T09:11:52Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316897483?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "dungoutlook1"
     },
     {
       "title": "GitHub has alternatives, but no replacement",
