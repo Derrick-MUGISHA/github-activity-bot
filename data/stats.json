@@ -18,11 +18,11 @@
     "Mobile": 5,
     "Cloud": 15,
     "Database": 4,
-    "Security": 17,
+    "Security": 18,
     "Tools": 38
   },
   "by_language": {
-    "Go": 35,
+    "Go": 34,
     "JavaScript": 45,
     "Python": 33,
     "Rust": 6,
@@ -114,8 +114,8 @@
     "JavaScript": 13,
     "ai": 12,
     "discuss": 11,
+    "Security": 11,
     "Python": 11,
-    "Security": 10,
     "DevOps": 10,
     "programming": 8,
     "agents": 7,
@@ -128,11 +128,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "22.3",
-    "JavaScript": "28.7",
-    "Python": "21.0",
+    "Go": "21.8",
+    "JavaScript": "28.8",
+    "Python": "21.2",
     "Rust": "3.8",
-    "Java": "22.3",
+    "Java": "22.4",
     "Swift": "1.3",
     "CSharp": "0.6"
   }
