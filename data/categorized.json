@@ -583,7 +583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 783,
       "user": "ysr666"
     },
     {
@@ -598,7 +598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 445,
       "user": "browser-use"
     },
     {
@@ -613,7 +613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 440,
       "user": "SigmanticAI"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 372,
       "user": "Nervercc"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 162520,
+      "stars": 163036,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2515,
       "user": "yetone"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1411,
       "user": "Small-tailqwq"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 563,
       "user": "hairyf"
     },
     {
@@ -1241,7 +1241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3587,
+      "stars": 3595,
       "user": "xiaobright"
     },
     {
@@ -1271,7 +1271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 882,
       "user": "zouyuxuan122"
     },
     {
@@ -1286,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 783,
       "user": "ysr666"
     },
     {
@@ -1301,7 +1301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "NousResearch"
     },
     {
@@ -1316,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 372,
       "user": "Nervercc"
     },
     {
@@ -1331,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 162520,
+      "stars": 163036,
       "user": "deepseek-ai"
     },
     {
@@ -1346,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14098,
+      "stars": 14216,
       "user": "anywhere-labs"
     },
     {
@@ -1361,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2515,
       "user": "yetone"
     },
     {
@@ -1376,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2015,
+      "stars": 2021,
       "user": "ccch1mneyyy"
     },
     {
@@ -1391,14 +1391,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1411,
       "user": "Small-tailqwq"
     },
     {
       "title": "How to teach better",
       "url": "https://stackoverflow.com/questions/79996386/how-to-teach-better",
       "published_at": "2026-08-19T05:50:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "python"
@@ -1406,6 +1406,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nuravifah"
+    },
+    {
+      "title": "I am trying to load a graph but it isn't coming",
+      "url": "https://stackoverflow.com/questions/79996316/i-am-trying-to-load-a-graph-but-it-isnt-coming",
+      "published_at": "2026-08-18T22:36:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Charan"
     },
     {
       "title": "Vue.js watcher not detecting changes to nested object property",
@@ -1424,17 +1436,17 @@
       "user": "Aasim Ghaffar"
     },
     {
-      "title": "Please help i got this error from google console i am trying to load a graph but it isnt coming",
-      "url": "https://stackoverflow.com/questions/79996316/please-help-i-got-this-error-from-google-console-i-am-trying-to-load-a-graph-but",
-      "published_at": "2026-08-18T22:36:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "How to delete an item from array only on the second click on the same element in React?",
+      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
+      "published_at": "2026-08-18T07:21:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "console.log"
+        "reactjs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Charan"
+      "user": "user22414499"
     },
     {
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
@@ -1477,19 +1489,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Geoff Nunes"
-    },
-    {
-      "title": "How to delete an item from array only on the second click on the same element in React?",
-      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
-      "published_at": "2026-08-18T07:21:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user22414499"
     },
     {
       "title": "How are Playwright features being used in test automation?",
@@ -1774,7 +1773,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 783,
       "user": "ysr666"
     },
     {
@@ -1789,7 +1788,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9293,
+      "stars": 9390,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1819,7 +1818,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 445,
       "user": "browser-use"
     },
     {
@@ -1834,7 +1833,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 440,
       "user": "SigmanticAI"
     },
     {
@@ -1849,14 +1848,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 372,
       "user": "Nervercc"
     },
     {
       "title": "How to teach better",
       "url": "https://stackoverflow.com/questions/79996386/how-to-teach-better",
       "published_at": "2026-08-19T05:50:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "python"
@@ -1864,6 +1863,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Nuravifah"
+    },
+    {
+      "title": "How to iterate over tens of millions of rows using Python cursor without exhausting server and client resources on GBase 8s",
+      "url": "https://stackoverflow.com/questions/79996387/how-to-iterate-over-tens-of-millions-of-rows-using-python-cursor-without-exhaust",
+      "published_at": "2026-08-19T06:00:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "gbase"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jony"
+    },
+    {
+      "title": "Can you suggest a good API for vision model that is free",
+      "url": "https://stackoverflow.com/questions/79996331/can-you-suggest-a-good-api-for-vision-model-that-is-free",
+      "published_at": "2026-08-19T00:21:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "assistant"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ramashish Mehta"
     },
     {
       "title": "How to use Pandas Pivot tables to make new columns combining column names and values in those columns",
@@ -1877,20 +1903,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DrakeMurdoch"
-    },
-    {
-      "title": "Can U suggest a good api for vision model that is free",
-      "url": "https://stackoverflow.com/questions/79996331/can-u-suggest-a-good-api-for-vision-model-that-is-free",
-      "published_at": "2026-08-19T00:21:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "assistant"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ramashish Mehta"
     },
     {
       "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
@@ -1973,19 +1985,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "An Đo&#224;n Nguyễn Bảo"
-    },
-    {
-      "title": "matplotlib savefig silently exits with code 1 after plt.plot() succeeds — no exception, no output",
-      "url": "https://stackoverflow.com/questions/79996186/matplotlib-savefig-silently-exits-with-code-1-after-plt-plot-succeeds-no-exc",
-      "published_at": "2026-08-18T14:13:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nikos"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2581,7 +2580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2515,
       "user": "yetone"
     },
     {
@@ -3060,7 +3059,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3587,
+      "stars": 3595,
       "user": "xiaobright"
     },
     {
@@ -3090,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 878,
+      "stars": 882,
       "user": "zouyuxuan122"
     },
     {
@@ -3105,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 783,
       "user": "ysr666"
     },
     {
@@ -3120,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "NousResearch"
     },
     {
@@ -3135,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9293,
+      "stars": 9390,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3165,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 445,
       "user": "browser-use"
     },
     {
@@ -3180,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 440,
       "user": "SigmanticAI"
     },
     {
@@ -3195,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 372,
       "user": "Nervercc"
     },
     {
@@ -3210,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "b-nnett"
     },
     {
@@ -3225,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "yutat23"
     },
     {
@@ -3240,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18548527?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "WongLoki"
     },
     {
@@ -3255,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "jasonxu114514"
     },
     {
@@ -3285,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 162520,
+      "stars": 163036,
       "user": "deepseek-ai"
     },
     {
@@ -3300,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14098,
+      "stars": 14216,
       "user": "anywhere-labs"
     },
     {
@@ -3315,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2501,
+      "stars": 2515,
       "user": "yetone"
     },
     {
@@ -3330,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2015,
+      "stars": 2021,
       "user": "ccch1mneyyy"
     },
     {
@@ -3345,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1411,
       "user": "Small-tailqwq"
     },
     {
@@ -3360,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 563,
       "user": "hairyf"
     },
     {
@@ -3465,8 +3464,8 @@
       "user": "Sri Ramya"
     },
     {
-      "title": "Can U suggest a good api for vision model that is free",
-      "url": "https://stackoverflow.com/questions/79996331/can-u-suggest-a-good-api-for-vision-model-that-is-free",
+      "title": "Can you suggest a good API for vision model that is free",
+      "url": "https://stackoverflow.com/questions/79996331/can-you-suggest-a-good-api-for-vision-model-that-is-free",
       "published_at": "2026-08-19T00:21:16.000Z",
       "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
