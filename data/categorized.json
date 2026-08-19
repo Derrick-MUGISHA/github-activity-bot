@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 850,
       "user": "Leutenegger"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166798,
+      "stars": 166842,
       "user": "deepseek-ai"
     },
     {
@@ -720,6 +720,20 @@
       "user": "abnercoimbre"
     },
     {
+      "title": "Why does my dialog box pop up again when I click NEXT?",
+      "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
+      "published_at": "2026-08-19T18:14:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyqt5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
+    },
+    {
       "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
       "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
       "published_at": "2026-08-18T19:43:28.000Z",
@@ -747,27 +761,14 @@
       "user": "ilya.chepurnoy"
     },
     {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
-    },
-    {
       "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
       "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
       "published_at": "2026-08-19T20:12:33.000Z",
-      "description": "AI-native account startup Rillet became a unicorn, led by ICONIQ after it doubled its ARR in the past three months, it said.",
+      "description": "AI-native account startup Rillet became a unicorn, led by ICONIQ, after it doubled its ARR in the past three months, it said.",
       "tags": [
         "Startups",
-        "Venture"
+        "Venture",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -781,6 +782,7 @@
       "tags": [
         "Media & Entertainment",
         "gwyneth paltrow",
+        "In Brief",
         "OpenAI",
         "sam altman"
       ],
@@ -1341,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166798,
+      "stars": 166842,
       "user": "deepseek-ai"
     },
     {
@@ -1356,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15092,
+      "stars": 15096,
       "user": "anywhere-labs"
     },
     {
@@ -1386,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2077,
+      "stars": 2076,
       "user": "ccch1mneyyy"
     },
     {
@@ -1420,7 +1422,7 @@
       "title": "can users pretend they have a different location with navigator.geolocation or is it save",
       "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
       "published_at": "2026-08-19T20:13:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -1559,20 +1561,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user22414499"
-    },
-    {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
@@ -1844,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10019,
+      "stars": 10022,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1874,7 +1862,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 850,
       "user": "Leutenegger"
     },
     {
@@ -1904,7 +1892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "browser-use"
     },
     {
@@ -1920,6 +1908,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cristina Benitez"
+    },
+    {
+      "title": "Why does my dialog box pop up again when I click NEXT?",
+      "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
+      "published_at": "2026-08-19T18:14:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyqt5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
     },
     {
       "title": "How can I automatically connect a TON wallet to a site like Fragment that uses TonConnect with Python?",
@@ -2032,20 +2034,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ilya.chepurnoy"
-    },
-    {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2375,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 850,
       "user": "Leutenegger"
     },
     {
@@ -2394,7 +2382,7 @@
       "title": "can users pretend they have a different location with navigator.geolocation or is it save",
       "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
       "published_at": "2026-08-19T20:13:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "advice",
         "javascript",
@@ -3237,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10019,
+      "stars": 10022,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3267,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 822,
+      "stars": 850,
       "user": "Leutenegger"
     },
     {
@@ -3297,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 518,
       "user": "browser-use"
     },
     {
@@ -3387,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166798,
+      "stars": 166842,
       "user": "deepseek-ai"
     },
     {
@@ -3402,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15092,
+      "stars": 15096,
       "user": "anywhere-labs"
     },
     {
@@ -3432,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2077,
+      "stars": 2076,
       "user": "ccch1mneyyy"
     },
     {
@@ -3507,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "iAmCorey"
     },
     {

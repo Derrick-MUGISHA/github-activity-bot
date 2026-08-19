@@ -11,7 +11,7 @@
   },
   "by_category": {
     "AI": 68,
-    "JavaScript": 47,
+    "JavaScript": 46,
     "Python": 32,
     "DevOps": 13,
     "WebDev": 14,
@@ -24,16 +24,16 @@
   "by_language": {
     "Go": 34,
     "Rust": 8,
-    "JavaScript": 47,
+    "JavaScript": 46,
     "Java": 35,
     "Python": 32,
     "Swift": 1,
     "CSharp": 1
   },
   "by_date": {
-    "2026-08-19": 37,
+    "2026-08-19": 38,
     "2026-08-13": 17,
-    "2026-08-17": 10,
+    "2026-08-17": 9,
     "2026-08-10": 7,
     "2026-08-18": 12,
     "2026-08-14": 14,
@@ -128,11 +128,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "21.5",
+    "Go": "21.7",
     "Rust": "5.1",
-    "JavaScript": "29.7",
-    "Java": "22.2",
-    "Python": "20.3",
+    "JavaScript": "29.3",
+    "Java": "22.3",
+    "Python": "20.4",
     "Swift": "0.6",
     "CSharp": "0.6"
   }
