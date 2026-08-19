@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Hacktoberfest 2026: AI belongs to everyone",
+      "url": "https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8",
+      "published_at": "2026-08-19T15:38:17Z",
+      "description": "We have some news we're excited to share today: Major League Hacking (MLH) and DEV are partnering...",
+      "tags": [
+        "hacktoberfest",
+        "opensource",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F36uy9jpgjk1zd9arht2a.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Coding agents got boring the moment we built a really good one.",
       "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
       "published_at": "2026-08-17T20:12:46Z",
@@ -569,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 835,
       "user": "ysr666"
     },
     {
@@ -584,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 542,
       "user": "SigmanticAI"
     },
     {
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 491,
       "user": "browser-use"
     },
     {
@@ -614,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "wang2122"
     },
     {
@@ -629,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 165884,
+      "stars": 166036,
       "user": "deepseek-ai"
     },
     {
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2654,
+      "stars": 2658,
       "user": "yetone"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1448,
+      "stars": 1451,
       "user": "Small-tailqwq"
     },
     {
@@ -674,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "hairyf"
     },
     {
@@ -708,55 +723,17 @@
       "user": "dungoutlook1"
     },
     {
-      "title": "LLM-powered Ascii web-game",
-      "url": "https://asciidia.com",
-      "published_at": "2026-05-22T08:49:37.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "What software do you use daily in 2026?",
+      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+      "published_at": "2026-08-18T09:31:11.824-05:00",
+      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
       "tags": [
-        "games",
-        "vibecoding"
+        "ask",
+        "practices"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "wherewhy"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "published_at": "2026-05-20T17:45:06.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "math",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jo3_l"
-    },
-    {
-      "title": "OpenSMTPD Is The Mail Server For The Future",
-      "url": "https://bsdly.blogspot.com/2026/05/opensmtpd-is-mail-server-for-future.html",
-      "published_at": "2026-05-20T23:27:58.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "email",
-        "openbsd"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggpsv"
-    },
-    {
-      "title": "Tailwind: Suffering From Success",
-      "url": "https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/",
-      "published_at": "2026-05-21T02:20:24.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Aks"
+      "user": "r1w1s1"
     },
     {
       "title": "A possible solution if 'hermes update' command fails",
@@ -784,6 +761,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pfalbaum"
+    },
+    {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "published_at": "2026-08-19T15:44:53.000Z",
+      "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "nuclear power",
+        "terrapower"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Rivian spinout Also raises another $150 million",
+      "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+      "published_at": "2026-08-19T15:39:47.000Z",
+      "description": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+      "tags": [
+        "Transportation",
+        "also",
+        "ebike",
+        "Rivian"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Sachin Bansal&#8217;s fintech Navi raises first outside capital with $100M Prosus investment",
@@ -862,20 +870,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "published_at": "2026-08-19T10:00:00.000Z",
-      "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "tags": [
-        "AI",
-        "data centers",
-        "Fiber"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -1253,7 +1247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3628,
+      "stars": 3630,
       "user": "xiaobright"
     },
     {
@@ -1283,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 943,
       "user": "zouyuxuan122"
     },
     {
@@ -1298,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 835,
       "user": "ysr666"
     },
     {
@@ -1328,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 165884,
+      "stars": 166036,
       "user": "deepseek-ai"
     },
     {
@@ -1343,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14947,
+      "stars": 14981,
       "user": "anywhere-labs"
     },
     {
@@ -1358,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2654,
+      "stars": 2658,
       "user": "yetone"
     },
     {
@@ -1388,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1448,
+      "stars": 1451,
       "user": "Small-tailqwq"
     },
     {
@@ -1482,7 +1476,7 @@
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
       "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
       "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1535,6 +1529,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
+    },
+    {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "published_at": "2026-08-19T15:44:53.000Z",
+      "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "tags": [
+        "AI",
+        "Climate",
+        "data centers",
+        "nuclear power",
+        "terrapower"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1775,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 835,
       "user": "ysr666"
     },
     {
@@ -1790,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9954,
+      "stars": 9975,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1820,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 542,
       "user": "SigmanticAI"
     },
     {
@@ -1835,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 491,
       "user": "browser-use"
     },
     {
@@ -1850,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "wang2122"
     },
     {
@@ -2305,16 +2315,16 @@
       "user": "velmu"
     },
     {
-      "title": "Tailwind: Suffering From Success",
-      "url": "https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/",
-      "published_at": "2026-05-21T02:20:24.000-05:00",
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "published_at": "2026-08-19T05:55:29.500-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "css"
+        "web"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Aks"
+      "user": "abhin4v"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -2348,7 +2358,7 @@
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
       "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
       "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2568,7 +2578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2654,
+      "stars": 2658,
       "user": "yetone"
     },
     {
@@ -2647,6 +2657,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Things I want in a modern relational query language",
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "published_at": "2026-08-18T23:44:39.877-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "plt"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "calvin"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -3041,7 +3064,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3628,
+      "stars": 3630,
       "user": "xiaobright"
     },
     {
@@ -3071,7 +3094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 943,
       "user": "zouyuxuan122"
     },
     {
@@ -3086,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 835,
       "user": "ysr666"
     },
     {
@@ -3116,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9954,
+      "stars": 9975,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3146,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 542,
       "user": "SigmanticAI"
     },
     {
@@ -3161,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 491,
       "user": "browser-use"
     },
     {
@@ -3176,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 457,
       "user": "wang2122"
     },
     {
@@ -3191,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 352,
       "user": "b-nnett"
     },
     {
@@ -3236,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "jasonxu114514"
     },
     {
@@ -3266,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 165884,
+      "stars": 166036,
       "user": "deepseek-ai"
     },
     {
@@ -3281,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14947,
+      "stars": 14981,
       "user": "anywhere-labs"
     },
     {
@@ -3296,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2654,
+      "stars": 2658,
       "user": "yetone"
     },
     {
@@ -3326,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1448,
+      "stars": 1451,
       "user": "Small-tailqwq"
     },
     {
@@ -3341,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 597,
       "user": "hairyf"
     },
     {
@@ -3405,18 +3428,17 @@
       "user": "dungoutlook1"
     },
     {
-      "title": "Virtual Time for discrete event simulation and distributed concurrency control (1985)",
-      "url": "https://worrydream.com/refs/Jefferson_1985_-_Virtual_Time.pdf",
-      "published_at": "2026-05-22T01:53:09.000-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "What software do you use daily in 2026?",
+      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
+      "published_at": "2026-08-18T09:31:11.824-05:00",
+      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
       "tags": [
-        "distributed",
-        "pdf",
-        "testing"
+        "ask",
+        "practices"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "typesanitizer"
+      "user": "r1w1s1"
     },
     {
       "title": "How are Playwright features being used in test automation?",
