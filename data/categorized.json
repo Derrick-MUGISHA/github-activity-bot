@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 845,
       "user": "ysr666"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166995,
+      "stars": 167033,
       "user": "deepseek-ai"
     },
     {
@@ -764,9 +764,10 @@
       "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
       "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
       "published_at": "2026-08-19T22:25:01.000Z",
-      "description": "The next-generation robotaxi called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+      "description": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
       "tags": [
         "Transportation",
+        "robotaxis",
         "Waymo"
       ],
       "cover_image": null,
@@ -1295,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3637,
+      "stars": 3638,
       "user": "xiaobright"
     },
     {
@@ -1340,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 845,
       "user": "ysr666"
     },
     {
@@ -1370,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166995,
+      "stars": 167033,
       "user": "deepseek-ai"
     },
     {
@@ -1385,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15116,
+      "stars": 15122,
       "user": "anywhere-labs"
     },
     {
@@ -1415,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2077,
       "user": "ccch1mneyyy"
     },
     {
@@ -1475,20 +1476,6 @@
       "user": "Ole"
     },
     {
-      "title": "How to include type when renaming a property during object destructuring?",
-      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
-      "published_at": "2026-08-19T18:00:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "destructuring"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "heretoinfinity"
-    },
-    {
       "title": "Is redirecting using JavaScript to a URL with a fragment prohibited?",
       "url": "https://stackoverflow.com/questions/79996542/is-redirecting-using-javascript-to-a-url-with-a-fragment-prohibited",
       "published_at": "2026-08-19T14:19:45.000Z",
@@ -1501,6 +1488,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Richard"
+    },
+    {
+      "title": "How to include type when renaming a property during object destructuring?",
+      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
+      "published_at": "2026-08-19T18:00:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "destructuring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "heretoinfinity"
     },
     {
       "title": "Chrome Extension: How can I detect the actual video URL from a dynamically loaded video page?",
@@ -1828,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 845,
       "user": "ysr666"
     },
     {
@@ -1843,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10030,
+      "stars": 10031,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3129,7 +3130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3637,
+      "stars": 3638,
       "user": "xiaobright"
     },
     {
@@ -3174,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 845,
       "user": "ysr666"
     },
     {
@@ -3204,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10030,
+      "stars": 10031,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3324,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "jasonxu114514"
     },
     {
@@ -3354,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166995,
+      "stars": 167033,
       "user": "deepseek-ai"
     },
     {
@@ -3369,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15116,
+      "stars": 15122,
       "user": "anywhere-labs"
     },
     {
@@ -3399,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2076,
+      "stars": 2077,
       "user": "ccch1mneyyy"
     },
     {
@@ -3474,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "iAmCorey"
     },
     {
