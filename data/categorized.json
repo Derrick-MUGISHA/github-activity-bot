@@ -599,8 +599,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 566,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "published_at": "2026-08-19T15:20:24Z",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 548,
+      "user": "Leutenegger"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -614,23 +629,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 509,
       "user": "browser-use"
-    },
-    {
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "published_at": "2026-08-18T04:08:11Z",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "wang2122"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166420,
+      "stars": 166556,
       "user": "deepseek-ai"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2670,
+      "stars": 2673,
       "user": "yetone"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 600,
       "user": "hairyf"
     },
     {
@@ -708,17 +708,16 @@
       "user": "Awaker-OTE"
     },
     {
-      "title": "What software do you use daily in 2026?",
-      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-      "published_at": "2026-08-18T09:31:11.824-05:00",
-      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
+      "title": "Plain Text Accounting is Pretty Cool",
+      "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+      "published_at": "2026-08-19T11:55:49.945-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "ask",
-        "practices"
+        "finance"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "r1w1s1"
+      "user": "abnercoimbre"
     },
     {
       "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
@@ -760,6 +759,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yoinkyest Sploinkiest"
+    },
+    {
+      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "published_at": "2026-08-19T18:46:14.000Z",
+      "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "tags": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "opeanai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Meet the startup helping Wall Street put a price on AI compute",
@@ -1290,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 952,
       "user": "zouyuxuan122"
     },
     {
@@ -1320,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "NousResearch"
     },
     {
@@ -1335,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166420,
+      "stars": 166556,
       "user": "deepseek-ai"
     },
     {
@@ -1350,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15042,
+      "stars": 15061,
       "user": "anywhere-labs"
     },
     {
@@ -1365,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2670,
+      "stars": 2673,
       "user": "yetone"
     },
     {
@@ -1380,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2071,
+      "stars": 2075,
       "user": "ccch1mneyyy"
     },
     {
@@ -1424,20 +1438,6 @@
       "user": "Ole"
     },
     {
-      "title": "Chrome Extension: How can I detect the actual video URL from a dynamically loaded video page?",
-      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-how-can-i-detect-the-actual-video-url-from-a-dynamically-loade",
-      "published_at": "2026-08-19T16:48:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "google-chrome-extension",
-        "manifest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user107968"
-    },
-    {
       "title": "Is redirecting using JavaScript to a URL with a fragment prohibited?",
       "url": "https://stackoverflow.com/questions/79996542/is-redirecting-using-javascript-to-a-url-with-a-fragment-prohibited",
       "published_at": "2026-08-19T14:19:45.000Z",
@@ -1450,6 +1450,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Richard"
+    },
+    {
+      "title": "Chrome Extension: How can I detect the actual video URL from a dynamically loaded video page?",
+      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-how-can-i-detect-the-actual-video-url-from-a-dynamically-loade",
+      "published_at": "2026-08-19T16:48:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome-extension",
+        "manifest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user107968"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -1834,7 +1848,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10008,
+      "stars": 10010,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1864,8 +1878,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 566,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "published_at": "2026-08-19T15:20:24Z",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 548,
+      "user": "Leutenegger"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -1879,23 +1908,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 509,
       "user": "browser-use"
-    },
-    {
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "published_at": "2026-08-18T04:08:11Z",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "wang2122"
     },
     {
       "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
@@ -1930,7 +1944,7 @@
       "title": "Decoder-only Transformer has decreasing validation loss but generates repetitive or incoherent text",
       "url": "https://stackoverflow.com/questions/79996587/decoder-only-transformer-has-decreasing-validation-loss-but-generates-repetitive",
       "published_at": "2026-08-19T16:55:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "deep-learning",
@@ -1945,7 +1959,7 @@
       "title": "Convert Spherical Coordinates to Cartesian for 360 Sensor Moving in Environment",
       "url": "https://stackoverflow.com/questions/79996575/convert-spherical-coordinates-to-cartesian-for-360-sensor-moving-in-environment",
       "published_at": "2026-08-19T15:50:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "point-clouds",
@@ -2354,6 +2368,21 @@
       "user": "velmu"
     },
     {
+      "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "published_at": "2026-08-19T15:20:24Z",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 548,
+      "user": "Leutenegger"
+    },
+    {
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
       "published_at": "2026-08-19T05:55:29.500-05:00",
@@ -2479,7 +2508,7 @@
         "China",
         "cyberattack",
         "cybersecurity",
-        "salt typhoon"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2633,7 +2662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2670,
+      "stars": 2673,
       "user": "yetone"
     },
     {
@@ -2656,7 +2685,7 @@
       "title": "Convert Spherical Coordinates to Cartesian for 360 Sensor Moving in Environment",
       "url": "https://stackoverflow.com/questions/79996575/convert-spherical-coordinates-to-cartesian-for-360-sensor-moving-in-environment",
       "published_at": "2026-08-19T15:50:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "point-clouds",
@@ -2953,6 +2982,21 @@
       "user": "Lucas Sousa"
     },
     {
+      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "published_at": "2026-08-19T18:46:14.000Z",
+      "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "tags": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "opeanai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
       "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
       "published_at": "2026-08-19T17:26:32.000Z",
@@ -2962,7 +3006,7 @@
         "China",
         "cyberattack",
         "cybersecurity",
-        "salt typhoon"
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3123,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 950,
+      "stars": 952,
       "user": "zouyuxuan122"
     },
     {
@@ -3153,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 630,
       "user": "NousResearch"
     },
     {
@@ -3168,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10008,
+      "stars": 10010,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3198,8 +3242,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 566,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "published_at": "2026-08-19T15:20:24Z",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 548,
+      "user": "Leutenegger"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -3213,23 +3272,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 509,
       "user": "browser-use"
-    },
-    {
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "published_at": "2026-08-18T04:08:11Z",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "wang2122"
     },
     {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
@@ -3318,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166420,
+      "stars": 166556,
       "user": "deepseek-ai"
     },
     {
@@ -3333,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15042,
+      "stars": 15061,
       "user": "anywhere-labs"
     },
     {
@@ -3348,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2670,
+      "stars": 2673,
       "user": "yetone"
     },
     {
@@ -3363,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2071,
+      "stars": 2075,
       "user": "ccch1mneyyy"
     },
     {
@@ -3393,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 600,
       "user": "hairyf"
     },
     {
@@ -3427,6 +3471,21 @@
       "user": "Awaker-OTE"
     },
     {
+      "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "url": "https://github.com/iAmCorey/Wake",
+      "published_at": "2026-08-18T09:46:23Z",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "iAmCorey"
+    },
+    {
       "title": "CapSoftware/cinder - A drop-in Cargo replacement focused on dramatically faster Rust development.",
       "url": "https://github.com/CapSoftware/cinder",
       "published_at": "2026-08-14T19:16:17Z",
@@ -3440,34 +3499,6 @@
       "source": "GitHub",
       "stars": 92,
       "user": "CapSoftware"
-    },
-    {
-      "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "url": "https://github.com/iAmCorey/Wake",
-      "published_at": "2026-08-18T09:46:23Z",
-      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "iAmCorey"
-    },
-    {
-      "title": "What software do you use daily in 2026?",
-      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-      "published_at": "2026-08-18T09:31:11.824-05:00",
-      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
-      "tags": [
-        "ask",
-        "practices"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "r1w1s1"
     }
   ]
 }
