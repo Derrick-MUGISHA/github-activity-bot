@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 758,
       "user": "Leutenegger"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 573,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 514,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166686,
+      "stars": 166731,
       "user": "deepseek-ai"
     },
     {
@@ -761,6 +761,36 @@
       "user": "Yoinkyest Sploinkiest"
     },
     {
+      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+      "published_at": "2026-08-19T20:04:12.000Z",
+      "description": "The actress' firm Kinship Ventures is an investor in the company.",
+      "tags": [
+        "Media & Entertainment",
+        "gwyneth paltrow",
+        "OpenAI",
+        "sam altman"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+      "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+      "published_at": "2026-08-19T20:01:02.000Z",
+      "description": "Have we tried turning off society and turning it back on again?",
+      "tags": [
+        "Apps",
+        "Gambling",
+        "sports betting",
+        "prediction markets"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
       "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "published_at": "2026-08-19T19:11:40.000Z",
@@ -848,38 +878,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Sachin Bansal&#8217;s fintech Navi raises first outside capital with $100M Prosus investment",
-      "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-      "published_at": "2026-08-19T15:01:41.000Z",
-      "description": "The investment comes amid Navi plans to go public.",
-      "tags": [
-        "Fintech",
-        "Startups",
-        "Navi",
-        "Prosus",
-        "Sachin Bansal"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "published_at": "2026-08-19T15:00:00.000Z",
-      "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Alexa",
-        "Amazon",
-        "Fire TV"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
@@ -1270,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3635,
+      "stars": 3636,
       "user": "xiaobright"
     },
     {
@@ -1345,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166686,
+      "stars": 166731,
       "user": "deepseek-ai"
     },
     {
@@ -1360,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15078,
+      "stars": 15084,
       "user": "anywhere-labs"
     },
     {
@@ -1390,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2075,
+      "stars": 2076,
       "user": "ccch1mneyyy"
     },
     {
@@ -1421,6 +1419,19 @@
       "user": "carlana"
     },
     {
+      "title": "Detecting the framework from a signal factory function signature",
+      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
+      "published_at": "2026-08-19T17:07:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "angular-signals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ole"
+    },
+    {
       "title": "How to include type when renaming a property during object destructuring?",
       "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
       "published_at": "2026-08-19T18:00:00.000Z",
@@ -1433,19 +1444,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "heretoinfinity"
-    },
-    {
-      "title": "Detecting the framework from a signal factory function signature",
-      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
-      "published_at": "2026-08-19T17:07:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "angular-signals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ole"
     },
     {
       "title": "Is redirecting using JavaScript to a URL with a fragment prohibited?",
@@ -1846,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10015,
+      "stars": 10016,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1876,7 +1874,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 758,
       "user": "Leutenegger"
     },
     {
@@ -1891,7 +1889,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 573,
       "user": "SigmanticAI"
     },
     {
@@ -1906,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 514,
       "user": "browser-use"
     },
     {
@@ -2377,7 +2375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 758,
       "user": "Leutenegger"
     },
     {
@@ -3162,7 +3160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3635,
+      "stars": 3636,
       "user": "xiaobright"
     },
     {
@@ -3237,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10015,
+      "stars": 10016,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3267,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 758,
       "user": "Leutenegger"
     },
     {
@@ -3282,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 573,
       "user": "SigmanticAI"
     },
     {
@@ -3297,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 514,
       "user": "browser-use"
     },
     {
@@ -3357,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "jasonxu114514"
     },
     {
@@ -3387,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166686,
+      "stars": 166731,
       "user": "deepseek-ai"
     },
     {
@@ -3402,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15078,
+      "stars": 15084,
       "user": "anywhere-labs"
     },
     {
@@ -3432,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2075,
+      "stars": 2076,
       "user": "ccch1mneyyy"
     },
     {
