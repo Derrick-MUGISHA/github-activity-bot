@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 833,
       "user": "ysr666"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "SigmanticAI"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "browser-use"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 455,
       "user": "wang2122"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 165739,
+      "stars": 165884,
       "user": "deepseek-ai"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2645,
+      "stars": 2654,
       "user": "yetone"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1448,
       "user": "Small-tailqwq"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "hairyf"
     },
     {
@@ -708,17 +708,55 @@
       "user": "dungoutlook1"
     },
     {
-      "title": "What software do you use daily in 2026?",
-      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-      "published_at": "2026-08-18T09:31:11.824-05:00",
-      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
+      "title": "LLM-powered Ascii web-game",
+      "url": "https://asciidia.com",
+      "published_at": "2026-05-22T08:49:37.000-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "ask",
-        "practices"
+        "games",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "r1w1s1"
+      "user": "wherewhy"
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "published_at": "2026-05-20T17:45:06.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jo3_l"
+    },
+    {
+      "title": "OpenSMTPD Is The Mail Server For The Future",
+      "url": "https://bsdly.blogspot.com/2026/05/opensmtpd-is-mail-server-for-future.html",
+      "published_at": "2026-05-20T23:27:58.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "email",
+        "openbsd"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ggpsv"
+    },
+    {
+      "title": "Tailwind: Suffering From Success",
+      "url": "https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/",
+      "published_at": "2026-05-21T02:20:24.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Aks"
     },
     {
       "title": "A possible solution if 'hermes update' command fails",
@@ -748,6 +786,54 @@
       "user": "Pfalbaum"
     },
     {
+      "title": "Sachin Bansal&#8217;s fintech Navi raises first outside capital with $100M Prosus investment",
+      "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+      "published_at": "2026-08-19T15:01:41.000Z",
+      "description": "The investment comes amid Navi plans to go public.",
+      "tags": [
+        "Fintech",
+        "Startups",
+        "Navi",
+        "Prosus",
+        "Sachin Bansal"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "published_at": "2026-08-19T15:00:00.000Z",
+      "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Alexa",
+        "Amazon",
+        "Fire TV"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Amazon’s Prime Air is taking off in nearly 500 U.S. cities",
+      "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+      "published_at": "2026-08-19T14:57:58.000Z",
+      "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
+      "tags": [
+        "Commerce",
+        "Transportation",
+        "Amazon",
+        "drones",
+        "eCommerce"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "Calendly throws its hat into meeting note-taker circus",
       "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
       "published_at": "2026-08-19T14:09:39.000Z",
@@ -769,7 +855,9 @@
       "description": "It's the data, stupid.",
       "tags": [
         "AI",
-        "Biotech & Health"
+        "Biotech & Health",
+        "Startups",
+        "AI drug discovery"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -788,37 +876,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "published_at": "2026-08-18T22:14:25.000Z",
-      "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "tags": [
-        "AI",
-        "cursor",
-        "GitHub",
-        "spacexai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "published_at": "2026-08-18T20:03:56.000Z",
-      "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
-      "tags": [
-        "Apps",
-        "Social",
-        "In Brief",
-        "payments",
-        "TikTok"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -1196,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3626,
+      "stars": 3628,
       "user": "xiaobright"
     },
     {
@@ -1226,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 941,
       "user": "zouyuxuan122"
     },
     {
@@ -1241,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 833,
       "user": "ysr666"
     },
     {
@@ -1256,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 629,
       "user": "NousResearch"
     },
     {
@@ -1271,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 165739,
+      "stars": 165884,
       "user": "deepseek-ai"
     },
     {
@@ -1286,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14910,
+      "stars": 14947,
       "user": "anywhere-labs"
     },
     {
@@ -1301,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2645,
+      "stars": 2654,
       "user": "yetone"
     },
     {
@@ -1316,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2063,
+      "stars": 2065,
       "user": "ccch1mneyyy"
     },
     {
@@ -1331,14 +1388,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1448,
       "user": "Small-tailqwq"
     },
     {
       "title": "Is redirecting using JavaScript to a URL with a fragment prohibited?",
       "url": "https://stackoverflow.com/questions/79996542/is-redirecting-using-javascript-to-a-url-with-a-fragment-prohibited",
       "published_at": "2026-08-19T14:19:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "http-redirect",
@@ -1718,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 833,
       "user": "ysr666"
     },
     {
@@ -1733,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9934,
+      "stars": 9954,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1748,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1200,
       "user": "Leutenegger"
     },
     {
@@ -1763,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "SigmanticAI"
     },
     {
@@ -1778,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "browser-use"
     },
     {
@@ -1793,7 +1850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 455,
       "user": "wang2122"
     },
     {
@@ -2248,16 +2305,16 @@
       "user": "velmu"
     },
     {
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "published_at": "2026-08-19T05:55:29.500-05:00",
+      "title": "Tailwind: Suffering From Success",
+      "url": "https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/",
+      "published_at": "2026-05-21T02:20:24.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "web"
+        "css"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "abhin4v"
+      "user": "Aks"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -2511,7 +2568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2645,
+      "stars": 2654,
       "user": "yetone"
     },
     {
@@ -2590,19 +2647,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Things I want in a modern relational query language",
-      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-      "published_at": "2026-08-18T23:44:39.877-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "plt"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "calvin"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -2997,7 +3041,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3626,
+      "stars": 3628,
       "user": "xiaobright"
     },
     {
@@ -3027,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 941,
       "user": "zouyuxuan122"
     },
     {
@@ -3042,7 +3086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 833,
       "user": "ysr666"
     },
     {
@@ -3057,7 +3101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 629,
       "user": "NousResearch"
     },
     {
@@ -3072,7 +3116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9934,
+      "stars": 9954,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3087,7 +3131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1200,
       "user": "Leutenegger"
     },
     {
@@ -3102,7 +3146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "SigmanticAI"
     },
     {
@@ -3117,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 487,
       "user": "browser-use"
     },
     {
@@ -3132,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 455,
       "user": "wang2122"
     },
     {
@@ -3147,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 350,
       "user": "b-nnett"
     },
     {
@@ -3162,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 152,
       "user": "yutat23"
     },
     {
@@ -3192,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "jasonxu114514"
     },
     {
@@ -3222,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 165739,
+      "stars": 165884,
       "user": "deepseek-ai"
     },
     {
@@ -3237,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14910,
+      "stars": 14947,
       "user": "anywhere-labs"
     },
     {
@@ -3252,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2645,
+      "stars": 2654,
       "user": "yetone"
     },
     {
@@ -3267,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2063,
+      "stars": 2065,
       "user": "ccch1mneyyy"
     },
     {
@@ -3282,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1448,
       "user": "Small-tailqwq"
     },
     {
@@ -3297,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 595,
       "user": "hairyf"
     },
     {
@@ -3361,17 +3405,18 @@
       "user": "dungoutlook1"
     },
     {
-      "title": "What software do you use daily in 2026?",
-      "url": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-      "published_at": "2026-08-18T09:31:11.824-05:00",
-      "description": "There was a similar thread here six years ago, and I'm curious how people's daily setups have changed since then.\r\n\r\nWhat does the software side of your daily setup look like in 2026?\r\n\r\nOperating system, desktop environment or window manager, terminal, shell, editor, browser, and any other tools you consider essential to your daily workflow.\r\n\r\nI'm especially interested in the small or less obvious tools that have become indispensable to you.",
+      "title": "Virtual Time for discrete event simulation and distributed concurrency control (1985)",
+      "url": "https://worrydream.com/refs/Jefferson_1985_-_Virtual_Time.pdf",
+      "published_at": "2026-05-22T01:53:09.000-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "ask",
-        "practices"
+        "distributed",
+        "pdf",
+        "testing"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "r1w1s1"
+      "user": "typesanitizer"
     },
     {
       "title": "How are Playwright features being used in test automation?",
@@ -3388,21 +3433,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "published_at": "2026-08-18T22:14:25.000Z",
-      "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "tags": [
-        "AI",
-        "cursor",
-        "GitHub",
-        "spacexai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     }
   ]
 }
