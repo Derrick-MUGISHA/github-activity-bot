@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "ysr666"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 550,
       "user": "SigmanticAI"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166036,
+      "stars": 166138,
       "user": "deepseek-ai"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2658,
+      "stars": 2661,
       "user": "yetone"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1452,
       "user": "Small-tailqwq"
     },
     {
@@ -736,6 +736,19 @@
       "user": "r1w1s1"
     },
     {
+      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
+      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
+      "published_at": "2026-08-18T19:43:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
+    },
+    {
       "title": "A possible solution if 'hermes update' command fails",
       "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
       "published_at": "2026-08-18T16:19:40.000Z",
@@ -748,19 +761,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ilya.chepurnoy"
-    },
-    {
-      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
-      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
-      "published_at": "2026-08-18T19:43:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
     },
     {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
@@ -826,7 +826,7 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Amazon’s Prime Air is taking off in nearly 500 U.S. cities",
+      "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
       "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
       "published_at": "2026-08-19T14:57:58.000Z",
       "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
@@ -855,21 +855,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "AI isn&#8217;t close to curing cancer. This startup says it knows what it will take.",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "published_at": "2026-08-19T12:00:00.000Z",
-      "description": "It's the data, stupid.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "Startups",
-        "AI drug discovery"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -1247,7 +1232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3630,
+      "stars": 3632,
       "user": "xiaobright"
     },
     {
@@ -1277,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 944,
       "user": "zouyuxuan122"
     },
     {
@@ -1292,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "ysr666"
     },
     {
@@ -1322,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166036,
+      "stars": 166138,
       "user": "deepseek-ai"
     },
     {
@@ -1337,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14981,
+      "stars": 15011,
       "user": "anywhere-labs"
     },
     {
@@ -1352,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2658,
+      "stars": 2661,
       "user": "yetone"
     },
     {
@@ -1367,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2065,
+      "stars": 2068,
       "user": "ccch1mneyyy"
     },
     {
@@ -1382,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1452,
       "user": "Small-tailqwq"
     },
     {
@@ -1785,7 +1770,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "ysr666"
     },
     {
@@ -1800,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9975,
+      "stars": 9990,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1815,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1200,
+      "stars": 1201,
       "user": "Leutenegger"
     },
     {
@@ -1830,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 550,
       "user": "SigmanticAI"
     },
     {
@@ -1845,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "browser-use"
     },
     {
@@ -1889,6 +1874,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jony"
+    },
+    {
+      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
+      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
+      "published_at": "2026-08-18T19:43:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pyscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pfalbaum"
     },
     {
       "title": "Python subclass dircmp",
@@ -1942,19 +1940,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeff Ohana"
-    },
-    {
-      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
-      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
-      "published_at": "2026-08-18T19:43:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
     },
     {
       "title": "How to create an AND expression with SqlAlchemy ORM select?",
@@ -2578,7 +2563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2658,
+      "stars": 2661,
       "user": "yetone"
     },
     {
@@ -3064,7 +3049,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3630,
+      "stars": 3632,
       "user": "xiaobright"
     },
     {
@@ -3094,7 +3079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 943,
+      "stars": 944,
       "user": "zouyuxuan122"
     },
     {
@@ -3109,7 +3094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 837,
       "user": "ysr666"
     },
     {
@@ -3139,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9975,
+      "stars": 9990,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3154,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1200,
+      "stars": 1201,
       "user": "Leutenegger"
     },
     {
@@ -3169,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 550,
       "user": "SigmanticAI"
     },
     {
@@ -3184,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 494,
       "user": "browser-use"
     },
     {
@@ -3214,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 353,
       "user": "b-nnett"
     },
     {
@@ -3229,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "yutat23"
     },
     {
@@ -3289,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166036,
+      "stars": 166138,
       "user": "deepseek-ai"
     },
     {
@@ -3304,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14981,
+      "stars": 15011,
       "user": "anywhere-labs"
     },
     {
@@ -3319,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2658,
+      "stars": 2661,
       "user": "yetone"
     },
     {
@@ -3334,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2065,
+      "stars": 2068,
       "user": "ccch1mneyyy"
     },
     {
@@ -3349,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1452,
       "user": "Small-tailqwq"
     },
     {
