@@ -18,11 +18,11 @@
     "Mobile": 4,
     "Cloud": 11,
     "Database": 5,
-    "Security": 18,
+    "Security": 17,
     "Tools": 37
   },
   "by_language": {
-    "Go": 32,
+    "Go": 33,
     "Rust": 8,
     "JavaScript": 45,
     "Java": 34,
@@ -32,7 +32,7 @@
   },
   "by_date": {
     "2026-08-13": 18,
-    "2026-08-18": 33,
+    "2026-08-18": 31,
     "2026-08-17": 12,
     "2026-08-10": 8,
     "2026-08-14": 16,
@@ -103,7 +103,7 @@
     "2024-10-09": 1,
     "2026-08-15": 1,
     "2026-08-16": 1,
-    "2026-08-19": 8
+    "2026-08-19": 10
   },
   "top_tags": {
     "github": 25,
@@ -114,8 +114,8 @@
     "ai": 15,
     "discuss": 14,
     "devchallenge": 14,
-    "Security": 12,
     "JavaScript": 12,
+    "Security": 11,
     "Python": 11,
     "DevOps": 10,
     "programming": 8,
@@ -129,12 +129,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.9",
+    "Go": "21.4",
     "Rust": "5.2",
-    "JavaScript": "29.4",
-    "Java": "22.2",
-    "Python": "20.9",
-    "Swift": "0.7",
-    "CSharp": "0.7"
+    "JavaScript": "29.2",
+    "Java": "22.1",
+    "Python": "20.8",
+    "Swift": "0.6",
+    "CSharp": "0.6"
   }
 }
