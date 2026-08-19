@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Greatness Is Forged by Limitation",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
+      "published_at": "2026-08-19T13:04:47Z",
+      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
+    },
+    {
       "title": "Hacktoberfest 2026: AI belongs to everyone",
       "url": "https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8",
       "published_at": "2026-08-19T15:38:17Z",
@@ -584,23 +599,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 843,
       "user": "ysr666"
-    },
-    {
-      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "published_at": "2026-08-17T04:25:26Z",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
-      "source": "GitHub",
-      "stars": 566,
-      "user": "SigmanticAI"
     },
     {
       "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
@@ -614,8 +614,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 625,
       "user": "Leutenegger"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 570,
+      "user": "SigmanticAI"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -629,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "browser-use"
     },
     {
@@ -644,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166556,
+      "stars": 166631,
       "user": "deepseek-ai"
     },
     {
@@ -659,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2673,
+      "stars": 2674,
       "user": "yetone"
     },
     {
@@ -761,7 +776,34 @@
       "user": "Yoinkyest Sploinkiest"
     },
     {
-      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "published_at": "2026-08-19T19:11:40.000Z",
+      "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "published_at": "2026-08-19T19:00:00.000Z",
+      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "published_at": "2026-08-19T18:46:14.000Z",
       "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
@@ -853,37 +895,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
-      "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-      "published_at": "2026-08-19T14:57:58.000Z",
-      "description": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
-      "tags": [
-        "Commerce",
-        "Transportation",
-        "Amazon",
-        "drones",
-        "eCommerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "published_at": "2026-08-19T14:09:39.000Z",
-      "description": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-      "tags": [
-        "AI",
-        "Apps",
-        "calendly",
-        "Meeting notetakers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
@@ -1274,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3633,
+      "stars": 3635,
       "user": "xiaobright"
     },
     {
@@ -1319,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 843,
       "user": "ysr666"
     },
     {
@@ -1349,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166556,
+      "stars": 166631,
       "user": "deepseek-ai"
     },
     {
@@ -1364,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15061,
+      "stars": 15071,
       "user": "anywhere-labs"
     },
     {
@@ -1379,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2673,
+      "stars": 2674,
       "user": "yetone"
     },
     {
@@ -1428,7 +1439,7 @@
       "title": "Detecting the framework from a signal factory function signature",
       "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
       "published_at": "2026-08-19T17:07:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "angular-signals"
@@ -1657,21 +1668,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e",
-      "published_at": "2026-08-13T01:41:40Z",
-      "description": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
-      "tags": [
-        "python",
-        "googleadk",
-        "gemini",
-        "geminilive"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fway-back-home%2Fmain%2Flevel_3_new%2Fdocs%2Fimages%2Fcover-adk2-second-pass-devto.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
       "url": "https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf",
       "published_at": "2026-07-26T19:27:29Z",
@@ -1833,7 +1829,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 843,
       "user": "ysr666"
     },
     {
@@ -1848,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10010,
+      "stars": 10013,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1867,21 +1863,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "published_at": "2026-08-17T04:25:26Z",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
-      "source": "GitHub",
-      "stars": 566,
-      "user": "SigmanticAI"
-    },
-    {
       "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "url": "https://github.com/Leutenegger/watermarks-remover",
       "published_at": "2026-08-19T15:20:24Z",
@@ -1893,8 +1874,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 625,
       "user": "Leutenegger"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 570,
+      "user": "SigmanticAI"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -1908,7 +1904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "browser-use"
     },
     {
@@ -1944,7 +1940,7 @@
       "title": "Decoder-only Transformer has decreasing validation loss but generates repetitive or incoherent text",
       "url": "https://stackoverflow.com/questions/79996587/decoder-only-transformer-has-decreasing-validation-loss-but-generates-repetitive",
       "published_at": "2026-08-19T16:55:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "deep-learning",
@@ -1959,7 +1955,7 @@
       "title": "Convert Spherical Coordinates to Cartesian for 360 Sensor Moving in Environment",
       "url": "https://stackoverflow.com/questions/79996575/convert-spherical-coordinates-to-cartesian-for-360-sensor-moving-in-environment",
       "published_at": "2026-08-19T15:50:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "point-clouds",
@@ -2379,7 +2375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 625,
       "user": "Leutenegger"
     },
     {
@@ -2662,7 +2658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2673,
+      "stars": 2674,
       "user": "yetone"
     },
     {
@@ -2685,7 +2681,7 @@
       "title": "Convert Spherical Coordinates to Cartesian for 360 Sensor Moving in Environment",
       "url": "https://stackoverflow.com/questions/79996575/convert-spherical-coordinates-to-cartesian-for-360-sensor-moving-in-environment",
       "published_at": "2026-08-19T15:50:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "point-clouds",
@@ -2982,7 +2978,7 @@
       "user": "Lucas Sousa"
     },
     {
-      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "published_at": "2026-08-19T18:46:14.000Z",
       "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
@@ -3137,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3633,
+      "stars": 3635,
       "user": "xiaobright"
     },
     {
@@ -3182,7 +3178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 843,
       "user": "ysr666"
     },
     {
@@ -3212,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10010,
+      "stars": 10013,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3231,21 +3227,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "published_at": "2026-08-17T04:25:26Z",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
-      "source": "GitHub",
-      "stars": 566,
-      "user": "SigmanticAI"
-    },
-    {
       "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "url": "https://github.com/Leutenegger/watermarks-remover",
       "published_at": "2026-08-19T15:20:24Z",
@@ -3257,8 +3238,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 625,
       "user": "Leutenegger"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 570,
+      "user": "SigmanticAI"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -3272,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 510,
       "user": "browser-use"
     },
     {
@@ -3287,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 355,
       "user": "b-nnett"
     },
     {
@@ -3302,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "yutat23"
     },
     {
@@ -3362,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166556,
+      "stars": 166631,
       "user": "deepseek-ai"
     },
     {
@@ -3377,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15061,
+      "stars": 15071,
       "user": "anywhere-labs"
     },
     {
@@ -3392,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2673,
+      "stars": 2674,
       "user": "yetone"
     },
     {
@@ -3482,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "iAmCorey"
     },
     {
@@ -3499,6 +3495,20 @@
       "source": "GitHub",
       "stars": 92,
       "user": "CapSoftware"
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "published_at": "2026-08-19T19:00:00.000Z",
+      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     }
   ]
 }
