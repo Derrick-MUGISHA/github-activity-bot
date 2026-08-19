@@ -583,23 +583,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 790,
       "user": "ysr666"
-    },
-    {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "browser-use"
     },
     {
       "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
@@ -613,8 +598,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 453,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 449,
+      "user": "browser-use"
     },
     {
       "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "Nervercc"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 163036,
+      "stars": 163455,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2533,
       "user": "yetone"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1415,
       "user": "Small-tailqwq"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 566,
       "user": "hairyf"
     },
     {
@@ -735,16 +735,18 @@
       "user": "r1w1s1"
     },
     {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "published_at": "2026-08-18T06:42:04.403-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "A possible solution if 'hermes update' command fails",
+      "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
+      "published_at": "2026-08-18T16:19:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "art"
+        "python",
+        "uv",
+        "hermes-agent"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "polywolf"
+      "source": "StackOverflow",
+      "user": "ilya.chepurnoy"
     },
     {
       "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
@@ -758,20 +760,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pfalbaum"
-    },
-    {
-      "title": "a possible solution if 'hermes update' command fails",
-      "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
-      "published_at": "2026-08-18T16:19:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "uv",
-        "hermes-agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ilya.chepurnoy"
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -1241,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3595,
+      "stars": 3602,
       "user": "xiaobright"
     },
     {
@@ -1271,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 883,
       "user": "zouyuxuan122"
     },
     {
@@ -1286,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 790,
       "user": "ysr666"
     },
     {
@@ -1316,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "Nervercc"
     },
     {
@@ -1331,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 163036,
+      "stars": 163455,
       "user": "deepseek-ai"
     },
     {
@@ -1346,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14216,
+      "stars": 14309,
       "user": "anywhere-labs"
     },
     {
@@ -1361,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2533,
       "user": "yetone"
     },
     {
@@ -1376,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2021,
+      "stars": 2023,
       "user": "ccch1mneyyy"
     },
     {
@@ -1391,14 +1379,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1415,
       "user": "Small-tailqwq"
+    },
+    {
+      "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
+      "url": "https://stackoverflow.com/questions/79996419/is-it-a-good-idea-to-finish-learning-html-css-and-javascript-before-moving-on",
+      "published_at": "2026-08-19T07:24:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "advice",
+        "javascript",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cristina Benitez"
+    },
+    {
+      "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
+      "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
+      "published_at": "2026-08-19T06:47:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-apps-script",
+        "google-cloud-platform",
+        "chatbot",
+        "google-workspace"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lucas Sousa"
     },
     {
       "title": "How to teach better",
       "url": "https://stackoverflow.com/questions/79996386/how-to-teach-better",
       "published_at": "2026-08-19T05:50:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "python"
@@ -1411,7 +1429,7 @@
       "title": "I am trying to load a graph but it isn't coming",
       "url": "https://stackoverflow.com/questions/79996316/i-am-trying-to-load-a-graph-but-it-isnt-coming",
       "published_at": "2026-08-18T22:36:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript"
       ],
@@ -1505,34 +1523,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
-    },
-    {
-      "title": "How to populate an HTML input value from a text file using JavaScript",
-      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
-      "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "input"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ian Webb"
-    },
-    {
-      "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
-      "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
-      "published_at": "2026-08-17T16:24:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jamshed khan"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -1773,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 790,
       "user": "ysr666"
     },
     {
@@ -1788,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9390,
+      "stars": 9466,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1807,21 +1797,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "browser-use"
-    },
-    {
       "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
       "url": "https://github.com/SigmanticAI/apex-inference-chip",
       "published_at": "2026-08-17T04:25:26Z",
@@ -1833,8 +1808,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 453,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 449,
+      "user": "browser-use"
     },
     {
       "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -1848,14 +1838,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "Nervercc"
+    },
+    {
+      "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
+      "url": "https://stackoverflow.com/questions/79996419/is-it-a-good-idea-to-finish-learning-html-css-and-javascript-before-moving-on",
+      "published_at": "2026-08-19T07:24:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "advice",
+        "javascript",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cristina Benitez"
     },
     {
       "title": "How to teach better",
       "url": "https://stackoverflow.com/questions/79996386/how-to-teach-better",
       "published_at": "2026-08-19T05:50:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "python"
@@ -1905,19 +1909,6 @@
       "user": "DrakeMurdoch"
     },
     {
-      "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
-      "url": "https://stackoverflow.com/questions/79996295/importerror-cannot-import-name-tfautomodelforseq2seqlm-from-transformers",
-      "published_at": "2026-08-18T20:22:44.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "google-colaboratory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Ohana"
-    },
-    {
       "title": "Python subclass dircmp",
       "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
       "published_at": "2026-08-18T14:20:43.000Z",
@@ -1929,6 +1920,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Damien"
+    },
+    {
+      "title": "A possible solution if 'hermes update' command fails",
+      "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
+      "published_at": "2026-08-18T16:19:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "uv",
+        "hermes-agent"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ilya.chepurnoy"
+    },
+    {
+      "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
+      "url": "https://stackoverflow.com/questions/79996295/importerror-cannot-import-name-tfautomodelforseq2seqlm-from-transformers",
+      "published_at": "2026-08-18T20:22:44.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "google-colaboratory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeff Ohana"
     },
     {
       "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
@@ -1955,36 +1973,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Helping1908"
-    },
-    {
-      "title": "a possible solution if 'hermes update' command fails",
-      "url": "https://stackoverflow.com/questions/79996227/a-possible-solution-if-hermes-update-command-fails",
-      "published_at": "2026-08-18T16:19:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "uv",
-        "hermes-agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ilya.chepurnoy"
-    },
-    {
-      "title": "Rotating image or not?",
-      "url": "https://stackoverflow.com/questions/79996126/rotating-image-or-not",
-      "published_at": "2026-08-18T11:00:24.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "rotation",
-        "ocr",
-        "kie",
-        "text-recognition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "An Đo&#224;n Nguyễn Bảo"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2315,6 +2303,20 @@
       "user": "refp"
     },
     {
+      "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
+      "url": "https://stackoverflow.com/questions/79996419/is-it-a-good-idea-to-finish-learning-html-css-and-javascript-before-moving-on",
+      "published_at": "2026-08-19T07:24:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "advice",
+        "javascript",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cristina Benitez"
+    },
+    {
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
       "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
       "published_at": "2026-08-18T13:29:41.000Z",
@@ -2327,20 +2329,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe J"
-    },
-    {
-      "title": "How to populate an HTML input value from a text file using JavaScript",
-      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
-      "published_at": "2026-08-17T08:38:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "input"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ian Webb"
     },
     {
       "title": "How to Build More Accessible Websites with WCAG 2.2",
@@ -2580,7 +2568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2533,
       "user": "yetone"
     },
     {
@@ -2594,6 +2582,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mt"
+    },
+    {
+      "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
+      "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
+      "published_at": "2026-08-19T06:47:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-apps-script",
+        "google-cloud-platform",
+        "chatbot",
+        "google-workspace"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lucas Sousa"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -2889,6 +2893,22 @@
       "user": "refp"
     },
     {
+      "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
+      "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
+      "published_at": "2026-08-19T06:47:23.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-apps-script",
+        "google-cloud-platform",
+        "chatbot",
+        "google-workspace"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lucas Sousa"
+    },
+    {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "published_at": "2026-08-18T18:00:00.000Z",
@@ -3059,7 +3079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3595,
+      "stars": 3602,
       "user": "xiaobright"
     },
     {
@@ -3089,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 882,
+      "stars": 883,
       "user": "zouyuxuan122"
     },
     {
@@ -3104,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 790,
       "user": "ysr666"
     },
     {
@@ -3134,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9390,
+      "stars": 9466,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3153,21 +3173,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "browser-use"
-    },
-    {
       "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
       "url": "https://github.com/SigmanticAI/apex-inference-chip",
       "published_at": "2026-08-17T04:25:26Z",
@@ -3179,8 +3184,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 453,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "source": "GitHub",
+      "stars": 449,
+      "user": "browser-use"
     },
     {
       "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -3194,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 379,
       "user": "Nervercc"
     },
     {
@@ -3209,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 345,
       "user": "b-nnett"
     },
     {
@@ -3224,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "yutat23"
     },
     {
@@ -3284,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 163036,
+      "stars": 163455,
       "user": "deepseek-ai"
     },
     {
@@ -3299,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14216,
+      "stars": 14309,
       "user": "anywhere-labs"
     },
     {
@@ -3314,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2533,
       "user": "yetone"
     },
     {
@@ -3329,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2021,
+      "stars": 2023,
       "user": "ccch1mneyyy"
     },
     {
@@ -3344,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1411,
+      "stars": 1415,
       "user": "Small-tailqwq"
     },
     {
@@ -3359,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 566,
       "user": "hairyf"
     },
     {
