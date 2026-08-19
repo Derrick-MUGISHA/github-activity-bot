@@ -76,6 +76,20 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -89,20 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
@@ -583,23 +583,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 797,
       "user": "ysr666"
-    },
-    {
-      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "published_at": "2026-08-17T04:25:26Z",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "SigmanticAI"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -613,8 +598,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 462,
       "user": "browser-use"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 460,
+      "user": "SigmanticAI"
     },
     {
       "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -628,7 +628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 389,
       "user": "Nervercc"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 163721,
+      "stars": 164037,
       "user": "deepseek-ai"
     },
     {
@@ -658,7 +658,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2553,
+      "stars": 2570,
       "user": "yetone"
     },
     {
@@ -673,7 +673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1423,
       "user": "Small-tailqwq"
     },
     {
@@ -688,7 +688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 577,
       "user": "hairyf"
     },
     {
@@ -925,22 +925,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Nikhil Adithyan"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
-      "published_at": "2026-08-14T15:57:42.000Z",
-      "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "JavaScript": [
@@ -1241,7 +1225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3605,
+      "stars": 3609,
       "user": "xiaobright"
     },
     {
@@ -1271,7 +1255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 895,
       "user": "zouyuxuan122"
     },
     {
@@ -1286,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 797,
       "user": "ysr666"
     },
     {
@@ -1301,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 624,
       "user": "NousResearch"
     },
     {
@@ -1316,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 389,
       "user": "Nervercc"
     },
     {
@@ -1331,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 163721,
+      "stars": 164037,
       "user": "deepseek-ai"
     },
     {
@@ -1346,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14373,
+      "stars": 14462,
       "user": "anywhere-labs"
     },
     {
@@ -1361,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2553,
+      "stars": 2570,
       "user": "yetone"
     },
     {
@@ -1376,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2036,
       "user": "ccch1mneyyy"
     },
     {
@@ -1391,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1423,
       "user": "Small-tailqwq"
     },
     {
@@ -1423,19 +1407,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lucas Sousa"
-    },
-    {
-      "title": "How to teach better",
-      "url": "https://stackoverflow.com/questions/79996386/how-to-teach-better",
-      "published_at": "2026-08-19T05:50:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nuravifah"
     },
     {
       "title": "I am trying to load a graph but it isn't coming",
@@ -1537,6 +1508,36 @@
       "user": "Sri Ramya"
     },
     {
+      "title": "How to populate an HTML input value from a text file using JavaScript",
+      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
+      "published_at": "2026-08-17T08:38:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "input"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ian Webb"
+    },
+    {
+      "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
+      "url": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
+      "published_at": "2026-08-18T21:45:12.000Z",
+      "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
+      "tags": [
+        "react js",
+        "performance",
+        "JavaScript",
+        "canvas",
+        "realtime"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Vineeth Pawar"
+    },
+    {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
       "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
       "published_at": "2026-08-18T16:52:51.000Z",
@@ -1565,22 +1566,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
-      "published_at": "2026-08-14T15:57:42.000Z",
-      "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Python": [
@@ -1775,7 +1760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 797,
       "user": "ysr666"
     },
     {
@@ -1790,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9514,
+      "stars": 9576,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1805,23 +1790,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1195,
+      "stars": 1196,
       "user": "Leutenegger"
-    },
-    {
-      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "published_at": "2026-08-17T04:25:26Z",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "SigmanticAI"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -1835,8 +1805,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 462,
       "user": "browser-use"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 460,
+      "user": "SigmanticAI"
     },
     {
       "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -1850,7 +1835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 389,
       "user": "Nervercc"
     },
     {
@@ -1866,19 +1851,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cristina Benitez"
-    },
-    {
-      "title": "How to teach better",
-      "url": "https://stackoverflow.com/questions/79996386/how-to-teach-better",
-      "published_at": "2026-08-19T05:50:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nuravifah"
     },
     {
       "title": "How to iterate over tens of millions of rows using Python cursor without exhausting server and client resources on GBase 8s",
@@ -1987,6 +1959,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "An Đo&#224;n Nguyễn Bảo"
+    },
+    {
+      "title": "matplotlib savefig silently exits with code 1 after plt.plot() succeeds — no exception, no output",
+      "url": "https://stackoverflow.com/questions/79996186/matplotlib-savefig-silently-exits-with-code-1-after-plt-plot-succeeds-no-exc",
+      "published_at": "2026-08-18T14:13:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nikos"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2345,6 +2330,20 @@
       "user": "Joe J"
     },
     {
+      "title": "How to populate an HTML input value from a text file using JavaScript",
+      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
+      "published_at": "2026-08-17T08:38:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "input"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ian Webb"
+    },
+    {
       "title": "How to Build More Accessible Websites with WCAG 2.2",
       "url": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
       "published_at": "2026-08-18T16:33:33.000Z",
@@ -2358,22 +2357,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Aiyedogbon Abraham"
-    },
-    {
-      "title": "How to Build a Browser-Based PDF to Grayscale Converter Using JavaScript",
-      "url": "https://www.freecodecamp.org/news/build-pdf-to-grayscale-converter-javascript/",
-      "published_at": "2026-08-14T15:57:42.000Z",
-      "description": "Many PDF documents contain colorful charts, presentations, marketing materials, scanned pages, or graphics that aren't always ideal for printing or archiving. In some cases, converting a document to g",
-      "tags": [
-        "JavaScript",
-        "Web Development",
-        "pdf",
-        "pdfjs",
-        "Tutorial"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Bhavin Sheth"
     }
   ],
   "Mobile": [
@@ -2570,7 +2553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2553,
+      "stars": 2570,
       "user": "yetone"
     },
     {
@@ -3069,7 +3052,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3605,
+      "stars": 3609,
       "user": "xiaobright"
     },
     {
@@ -3099,7 +3082,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 886,
+      "stars": 895,
       "user": "zouyuxuan122"
     },
     {
@@ -3114,7 +3097,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 797,
       "user": "ysr666"
     },
     {
@@ -3129,7 +3112,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 624,
       "user": "NousResearch"
     },
     {
@@ -3144,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 9514,
+      "stars": 9576,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3159,23 +3142,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1195,
+      "stars": 1196,
       "user": "Leutenegger"
-    },
-    {
-      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "url": "https://github.com/SigmanticAI/apex-inference-chip",
-      "published_at": "2026-08-17T04:25:26Z",
-      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
-      "source": "GitHub",
-      "stars": 457,
-      "user": "SigmanticAI"
     },
     {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
@@ -3189,8 +3157,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 462,
       "user": "browser-use"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 460,
+      "user": "SigmanticAI"
     },
     {
       "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
@@ -3204,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 389,
       "user": "Nervercc"
     },
     {
@@ -3234,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "yutat23"
     },
     {
@@ -3294,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 163721,
+      "stars": 164037,
       "user": "deepseek-ai"
     },
     {
@@ -3309,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 14373,
+      "stars": 14462,
       "user": "anywhere-labs"
     },
     {
@@ -3324,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2553,
+      "stars": 2570,
       "user": "yetone"
     },
     {
@@ -3339,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2036,
       "user": "ccch1mneyyy"
     },
     {
@@ -3354,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1423,
       "user": "Small-tailqwq"
     },
     {
@@ -3369,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 577,
       "user": "hairyf"
     },
     {
@@ -3399,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "zunmax"
     },
     {
