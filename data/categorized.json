@@ -618,19 +618,19 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "published_at": "2026-08-18T04:08:11Z",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 522,
-      "user": "browser-use"
+      "stars": 558,
+      "user": "wang2122"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 167033,
+      "stars": 167077,
       "user": "deepseek-ai"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2676,
+      "stars": 2677,
       "user": "yetone"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1461,
       "user": "Small-tailqwq"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "hairyf"
     },
     {
@@ -759,6 +759,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ilya.chepurnoy"
+    },
+    {
+      "title": "Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "published_at": "2026-08-19T23:32:00.000Z",
+      "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "tags": [
+        "AI",
+        "TC",
+        "stripe",
+        "openrouter"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Waymo&#8217;s cheaper, next-gen robotaxi is now open to all riders in these three cities",
@@ -891,21 +906,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "published_at": "2026-08-19T18:46:14.000Z",
-      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "tags": [
-        "Security",
-        "AI",
-        "cybersecurity",
-        "opeanai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
@@ -1296,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3638,
+      "stars": 3639,
       "user": "xiaobright"
     },
     {
@@ -1371,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 167033,
+      "stars": 167077,
       "user": "deepseek-ai"
     },
     {
@@ -1386,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15122,
+      "stars": 15128,
       "user": "anywhere-labs"
     },
     {
@@ -1401,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2676,
+      "stars": 2677,
       "user": "yetone"
     },
     {
@@ -1431,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1461,
       "user": "Small-tailqwq"
     },
     {
@@ -1844,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10031,
+      "stars": 10033,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1893,19 +1893,19 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "published_at": "2026-08-18T04:08:11Z",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 522,
-      "user": "browser-use"
+      "stars": 558,
+      "user": "wang2122"
     },
     {
       "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
@@ -2644,7 +2644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2676,
+      "stars": 2677,
       "user": "yetone"
     },
     {
@@ -2678,21 +2678,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "movingwaters"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "published_at": "2026-08-19T18:46:14.000Z",
-      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "tags": [
-        "Security",
-        "AI",
-        "cybersecurity",
-        "opeanai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -2989,21 +2974,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lucas Sousa"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "published_at": "2026-08-19T18:46:14.000Z",
-      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "tags": [
-        "Security",
-        "AI",
-        "cybersecurity",
-        "opeanai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ],
   "Tools": [
@@ -3130,7 +3100,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3638,
+      "stars": 3639,
       "user": "xiaobright"
     },
     {
@@ -3205,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10031,
+      "stars": 10033,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3254,19 +3224,19 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "published_at": "2026-08-18T04:08:11Z",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 522,
-      "user": "browser-use"
+      "stars": 558,
+      "user": "wang2122"
     },
     {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
@@ -3325,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "jasonxu114514"
     },
     {
@@ -3355,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 167033,
+      "stars": 167077,
       "user": "deepseek-ai"
     },
     {
@@ -3370,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15122,
+      "stars": 15128,
       "user": "anywhere-labs"
     },
     {
@@ -3385,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2676,
+      "stars": 2677,
       "user": "yetone"
     },
     {
@@ -3415,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1460,
+      "stars": 1461,
       "user": "Small-tailqwq"
     },
     {
@@ -3430,7 +3400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "hairyf"
     },
     {
@@ -3475,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 108,
       "user": "iAmCorey"
     },
     {
