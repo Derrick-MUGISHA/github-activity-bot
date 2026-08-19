@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 841,
       "user": "ysr666"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "SigmanticAI"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 501,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166232,
+      "stars": 166339,
       "user": "deepseek-ai"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2666,
+      "stars": 2668,
       "user": "yetone"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1454,
       "user": "Small-tailqwq"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "hairyf"
     },
     {
@@ -762,13 +762,29 @@
       "user": "Yoinkyest Sploinkiest"
     },
     {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "published_at": "2026-08-19T17:26:48.000Z",
+      "description": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward w",
+      "tags": [
+        "AI",
+        "Startups",
+        "data centers",
+        "GPU",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
       "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "published_at": "2026-08-19T15:44:53.000Z",
       "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
       "tags": [
-        "Climate",
         "AI",
+        "Climate",
         "data centers",
         "nuclear power",
         "terrapower"
@@ -854,6 +870,19 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
+      "url": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
+      "published_at": "2026-08-19T14:24:07.000Z",
+      "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
+      "tags": [
+        "Reinforcement Learning",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -1231,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3632,
+      "stars": 3633,
       "user": "xiaobright"
     },
     {
@@ -1261,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 950,
       "user": "zouyuxuan122"
     },
     {
@@ -1276,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 841,
       "user": "ysr666"
     },
     {
@@ -1306,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166232,
+      "stars": 166339,
       "user": "deepseek-ai"
     },
     {
@@ -1321,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15032,
+      "stars": 15035,
       "user": "anywhere-labs"
     },
     {
@@ -1336,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2666,
+      "stars": 2668,
       "user": "yetone"
     },
     {
@@ -1366,8 +1395,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1454,
       "user": "Small-tailqwq"
+    },
+    {
+      "title": "Detecting the framework from a signal factory function signature",
+      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
+      "published_at": "2026-08-19T17:07:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "angular-signals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ole"
+    },
+    {
+      "title": "Chrome Extension: How can I detect the actual video URL from a dynamically loaded video page?",
+      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-how-can-i-detect-the-actual-video-url-from-a-dynamically-loade",
+      "published_at": "2026-08-19T16:48:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome-extension",
+        "manifest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user107968"
     },
     {
       "title": "Is redirecting using JavaScript to a URL with a fragment prohibited?",
@@ -1387,7 +1443,7 @@
       "title": "Why does mySQL select query work on my database but not in code editor",
       "url": "https://stackoverflow.com/questions/79996534/why-does-mysql-select-query-work-on-my-database-but-not-in-code-editor",
       "published_at": "2026-08-19T13:59:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "express",
@@ -1401,7 +1457,7 @@
       "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
       "url": "https://stackoverflow.com/questions/79996419/is-it-a-good-idea-to-finish-learning-html-css-and-javascript-before-moving-on",
       "published_at": "2026-08-19T07:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "advice",
         "javascript",
@@ -1483,38 +1539,6 @@
       "user": "Waqas Solangi"
     },
     {
-      "title": "can I make choosing a file count as a user gesture?",
-      "url": "https://stackoverflow.com/questions/79995993/can-i-make-choosing-a-file-count-as-a-user-gesture",
-      "published_at": "2026-08-18T02:06:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "input",
-        "fullscreen",
-        "gesture",
-        "drop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Geoff Nunes"
-    },
-    {
-      "title": "How are Playwright features being used in test automation?",
-      "url": "https://stackoverflow.com/questions/79995902/how-are-playwright-features-being-used-in-test-automation",
-      "published_at": "2026-08-17T17:12:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "testing",
-        "automated-tests",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sri Ramya"
-    },
-    {
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
       "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
       "published_at": "2026-08-17T23:23:34.000Z",
@@ -1534,8 +1558,8 @@
       "published_at": "2026-08-19T15:44:53.000Z",
       "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
       "tags": [
-        "Climate",
         "AI",
+        "Climate",
         "data centers",
         "nuclear power",
         "terrapower"
@@ -1783,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 841,
       "user": "ysr666"
     },
     {
@@ -1798,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10000,
+      "stars": 10003,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1828,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "SigmanticAI"
     },
     {
@@ -1843,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 501,
       "user": "browser-use"
     },
     {
@@ -1865,7 +1889,7 @@
       "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
       "url": "https://stackoverflow.com/questions/79996419/is-it-a-good-idea-to-finish-learning-html-css-and-javascript-before-moving-on",
       "published_at": "2026-08-19T07:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "advice",
         "javascript",
@@ -1889,6 +1913,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mohammad"
+    },
+    {
+      "title": "Decoder-only Transformer has decreasing validation loss but generates repetitive or incoherent text",
+      "url": "https://stackoverflow.com/questions/79996587/decoder-only-transformer-has-decreasing-validation-loss-but-generates-repetitive",
+      "published_at": "2026-08-19T16:55:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "deep-learning",
+        "pytorch",
+        "pytorch-dataloader"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Azamat H"
     },
     {
       "title": "Convert Spherical Coordinates to Cartesian for 360 Sensor Moving in Environment",
@@ -1985,19 +2024,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yoinkyest Sploinkiest"
-    },
-    {
-      "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
-      "url": "https://stackoverflow.com/questions/79996295/importerror-cannot-import-name-tfautomodelforseq2seqlm-from-transformers",
-      "published_at": "2026-08-18T20:22:44.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "google-colaboratory"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Ohana"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2331,7 +2357,7 @@
       "title": "Why does mySQL select query work on my database but not in code editor",
       "url": "https://stackoverflow.com/questions/79996534/why-does-mysql-select-query-work-on-my-database-but-not-in-code-editor",
       "published_at": "2026-08-19T13:59:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "express",
@@ -2345,7 +2371,7 @@
       "title": "Is it a good idea to finish learning HTML, CSS, and JavaScript before moving on to Python?",
       "url": "https://stackoverflow.com/questions/79996419/is-it-a-good-idea-to-finish-learning-html-css-and-javascript-before-moving-on",
       "published_at": "2026-08-19T07:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "advice",
         "javascript",
@@ -2430,6 +2456,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzdwiamf2zbcizwme0vm.png",
       "source": "Dev.to",
       "user": "Gamya "
+    },
+    {
+      "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
+      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "published_at": "2026-08-19T17:26:32.000Z",
+      "description": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "tags": [
+        "Security",
+        "China",
+        "cyberattack",
+        "cybersecurity",
+        "salt typhoon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
@@ -2579,7 +2621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2666,
+      "stars": 2668,
       "user": "yetone"
     },
     {
@@ -2613,22 +2655,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "movingwaters"
-    },
-    {
-      "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
-      "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
-      "published_at": "2026-08-19T13:04:10.000Z",
-      "description": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
-      "tags": [
-        "Security",
-        "Amazon Web Services",
-        "carecloud",
-        "cyberattack",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -2692,7 +2718,7 @@
       "title": "Why does mySQL select query work on my database but not in code editor",
       "url": "https://stackoverflow.com/questions/79996534/why-does-mysql-select-query-work-on-my-database-but-not-in-code-editor",
       "published_at": "2026-08-19T13:59:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "express",
@@ -2928,16 +2954,16 @@
       "user": "Lucas Sousa"
     },
     {
-      "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
-      "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
-      "published_at": "2026-08-19T13:04:10.000Z",
-      "description": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
+      "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
+      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "published_at": "2026-08-19T17:26:32.000Z",
+      "description": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
       "tags": [
         "Security",
-        "Amazon Web Services",
-        "carecloud",
+        "China",
         "cyberattack",
-        "data breach"
+        "cybersecurity",
+        "salt typhoon"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3068,7 +3094,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3632,
+      "stars": 3633,
       "user": "xiaobright"
     },
     {
@@ -3098,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 950,
       "user": "zouyuxuan122"
     },
     {
@@ -3113,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77105194?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 841,
       "user": "ysr666"
     },
     {
@@ -3143,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10000,
+      "stars": 10003,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3173,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 556,
+      "stars": 558,
       "user": "SigmanticAI"
     },
     {
@@ -3188,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 501,
       "user": "browser-use"
     },
     {
@@ -3218,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "b-nnett"
     },
     {
@@ -3263,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "jasonxu114514"
     },
     {
@@ -3293,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166232,
+      "stars": 166339,
       "user": "deepseek-ai"
     },
     {
@@ -3308,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15032,
+      "stars": 15035,
       "user": "anywhere-labs"
     },
     {
@@ -3323,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2666,
+      "stars": 2668,
       "user": "yetone"
     },
     {
@@ -3353,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1452,
+      "stars": 1454,
       "user": "Small-tailqwq"
     },
     {
@@ -3368,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "hairyf"
     },
     {
@@ -3428,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 84,
+      "stars": 90,
       "user": "iAmCorey"
     },
     {
@@ -3443,22 +3469,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "r1w1s1"
-    },
-    {
-      "title": "How are Playwright features being used in test automation?",
-      "url": "https://stackoverflow.com/questions/79995902/how-are-playwright-features-being-used-in-test-automation",
-      "published_at": "2026-08-17T17:12:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "testing",
-        "automated-tests",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sri Ramya"
     }
   ]
 }
