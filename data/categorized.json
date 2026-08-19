@@ -390,21 +390,6 @@
       "user": "Tilde A. Thurium"
     },
     {
-      "title": "Does it still make sense to learn how to code?",
-      "url": "https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g",
-      "published_at": "2026-07-30T11:27:07Z",
-      "description": "Does it still make sense to learn how to code?   This is a question I’ve been thinking about a lot...",
-      "tags": [
-        "ai",
-        "learning",
-        "mentorship",
-        "beginners"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6pnhn8413tq24pccay3.png",
-      "source": "Dev.to",
-      "user": "Roberto B."
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -584,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1191,
       "user": "cinderline"
     },
     {
@@ -614,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 702,
       "user": "Leutenegger"
     },
     {
@@ -629,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "SigmanticAI"
     },
     {
@@ -644,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "browser-use"
     },
     {
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166631,
+      "stars": 166686,
       "user": "deepseek-ai"
     },
     {
@@ -689,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1457,
       "user": "Small-tailqwq"
     },
     {
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "hairyf"
     },
     {
@@ -806,10 +791,10 @@
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "published_at": "2026-08-19T18:46:14.000Z",
-      "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
       "tags": [
-        "AI",
         "Security",
+        "AI",
         "cybersecurity",
         "opeanai"
       ],
@@ -1300,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1191,
       "user": "cinderline"
     },
     {
@@ -1315,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 953,
       "user": "zouyuxuan122"
     },
     {
@@ -1360,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166631,
+      "stars": 166686,
       "user": "deepseek-ai"
     },
     {
@@ -1375,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15071,
+      "stars": 15078,
       "user": "anywhere-labs"
     },
     {
@@ -1420,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1457,
       "user": "Small-tailqwq"
     },
     {
@@ -1434,6 +1419,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
+    },
+    {
+      "title": "How to include type when renaming a property during object destructuring?",
+      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
+      "published_at": "2026-08-19T18:00:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "destructuring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "heretoinfinity"
     },
     {
       "title": "Detecting the framework from a signal factory function signature",
@@ -1564,18 +1563,6 @@
       "user": "Joe J"
     },
     {
-      "title": "How to optimize nested conditional logic for dynamic tax calculations in Vanilla JavaScript?",
-      "url": "https://stackoverflow.com/questions/79996197/how-to-optimize-nested-conditional-logic-for-dynamic-tax-calculations-in-vanilla",
-      "published_at": "2026-08-18T14:47:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Waqas Solangi"
-    },
-    {
       "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
       "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
       "published_at": "2026-08-17T23:23:34.000Z",
@@ -1666,6 +1653,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
+      "url": "https://dev.to/gde/do-i-still-need-a-monkey-patch-for-gemini-live-4c3e",
+      "published_at": "2026-08-13T01:41:40Z",
+      "description": "No. And deleting 187 lines of it was the single biggest benefit of moving to ADK 2.x — but it was not...",
+      "tags": [
+        "python",
+        "googleadk",
+        "gemini",
+        "geminilive"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fway-back-home%2Fmain%2Flevel_3_new%2Fdocs%2Fimages%2Fcover-adk2-second-pass-devto.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -1844,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10013,
+      "stars": 10015,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1859,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1201,
+      "stars": 1202,
       "user": "Leutenegger"
     },
     {
@@ -1874,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 702,
       "user": "Leutenegger"
     },
     {
@@ -1889,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "SigmanticAI"
     },
     {
@@ -1904,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "browser-use"
     },
     {
@@ -2375,7 +2377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 702,
       "user": "Leutenegger"
     },
     {
@@ -2694,6 +2696,21 @@
       "user": "movingwaters"
     },
     {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "published_at": "2026-08-19T18:46:14.000Z",
+      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "tags": [
+        "Security",
+        "AI",
+        "cybersecurity",
+        "opeanai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
       "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
       "published_at": "2026-08-18T16:52:51.000Z",
@@ -2737,6 +2754,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "SQLite for Everything",
+      "url": "https://joecode.com/2026-08-19-sqlite3/",
+      "published_at": "2026-08-19T10:17:39.350-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ggpsv"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -2981,10 +3010,10 @@
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "published_at": "2026-08-19T18:46:14.000Z",
-      "description": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
       "tags": [
-        "AI",
         "Security",
+        "AI",
         "cybersecurity",
         "opeanai"
       ],
@@ -3148,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1191,
       "user": "cinderline"
     },
     {
@@ -3163,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 953,
       "user": "zouyuxuan122"
     },
     {
@@ -3208,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 10013,
+      "stars": 10015,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3223,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 1201,
+      "stars": 1202,
       "user": "Leutenegger"
     },
     {
@@ -3238,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 702,
       "user": "Leutenegger"
     },
     {
@@ -3253,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 571,
       "user": "SigmanticAI"
     },
     {
@@ -3268,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 512,
       "user": "browser-use"
     },
     {
@@ -3328,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117326624?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 121,
       "user": "jasonxu114514"
     },
     {
@@ -3358,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 166631,
+      "stars": 166686,
       "user": "deepseek-ai"
     },
     {
@@ -3373,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 15071,
+      "stars": 15078,
       "user": "anywhere-labs"
     },
     {
@@ -3418,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1457,
       "user": "Small-tailqwq"
     },
     {
@@ -3433,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "hairyf"
     },
     {
@@ -3478,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "iAmCorey"
     },
     {
