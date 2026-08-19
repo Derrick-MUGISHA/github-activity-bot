@@ -14,11 +14,11 @@
     "JavaScript": 45,
     "Python": 32,
     "DevOps": 13,
-    "WebDev": 13,
+    "WebDev": 12,
     "Mobile": 4,
     "Cloud": 11,
     "Database": 5,
-    "Security": 19,
+    "Security": 18,
     "Tools": 37
   },
   "by_language": {
@@ -32,7 +32,7 @@
   },
   "by_date": {
     "2026-08-13": 18,
-    "2026-08-18": 34,
+    "2026-08-18": 33,
     "2026-08-17": 12,
     "2026-08-10": 8,
     "2026-08-14": 16,
@@ -103,7 +103,7 @@
     "2024-10-09": 1,
     "2026-08-15": 1,
     "2026-08-16": 1,
-    "2026-08-19": 7
+    "2026-08-19": 8
   },
   "top_tags": {
     "github": 25,
@@ -124,8 +124,8 @@
     "go": 7,
     "agents": 5,
     "opensource": 5,
-    "security": 5,
-    "frontendchallenge": 5
+    "frontendchallenge": 5,
+    "typescript": 5
   },
   "trending_topics": [],
   "language_percentages": {
