@@ -5,9 +5,9 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--19-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-19 7:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-19 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Wed, 19 Aug 2026 07:42:58 CAT</sub>
+<sub>Last fetched: Wed, 19 Aug 2026 08:07:03 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — What is the difference between list and tuple in Python?**
+**1. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
-**2. `React` — What is the Virtual DOM and how does React use it?**
+**2. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-**3. `Java` — Explain the Java memory model**
+**3. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Ownership, mutability, data flow direction
 
 </details>
 
@@ -164,13 +164,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 66 | 35.9% | `████████████████████` |
-| **JavaScript** | 46 | 25.0% | `██████████████░░░░░░` |
-| **Tools** | 38 | 20.7% | `████████████░░░░░░░░` |
-| **Python** | 32 | 17.4% | `██████████░░░░░░░░░░` |
-| **Security** | 19 | 10.3% | `██████░░░░░░░░░░░░░░` |
-| **WebDev** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **AI** | 66 | 36.1% | `████████████████████` |
+| **JavaScript** | 45 | 24.6% | `██████████████░░░░░░` |
+| **Tools** | 38 | 20.8% | `████████████░░░░░░░░` |
+| **Python** | 32 | 17.5% | `██████████░░░░░░░░░░` |
+| **Security** | 19 | 10.4% | `██████░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 5 | 2.7% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `██░░░░░░░░░░░░░░░░░░` |
@@ -186,7 +186,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
-| StackOverflow | 20 |
+| StackOverflow | 19 |
 | TechCrunch | 10 |
 | freeCodeCamp | 10 |
 
@@ -194,27 +194,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.7%
-Java            ██████████████████████ 21.9%
-Go              █████████████████████ 20.6%
-Python          █████████████████████ 20.6%
-Rust            █████ 4.5%
+JavaScript      ██████████████████████████████ 29.4%
+Java            ███████████████████████ 22.2%
+Go              █████████████████████ 20.9%
+Python          █████████████████████ 20.9%
+Rust            █████ 4.6%
 Swift           █ 1.3%
-CSharp          █ 0.6%
-PHP             █ 0.6%
+CSharp          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 46
+    "JavaScript" : 45
     "Java" : 34
     "Go" : 32
     "Python" : 32
     "Rust" : 7
     "Swift" : 2
     "CSharp" : 1
-    "PHP" : 1
 ```
 
 
@@ -272,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 19 Aug 2026 05:42:58 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 19 Aug 2026 06:07:03 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
