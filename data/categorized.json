@@ -568,7 +568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1094,
       "user": "jdshfhds"
     },
     {
@@ -587,21 +587,6 @@
       "user": "ysr666"
     },
     {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 455,
-      "user": "xinxinshuhao-create"
-    },
-    {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
       "published_at": "2026-08-17T00:22:20Z",
@@ -613,8 +598,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "browser-use"
+    },
+    {
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
+      "source": "GitHub",
+      "stars": 372,
+      "user": "SigmanticAI"
+    },
+    {
+      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "published_at": "2026-08-15T18:51:26Z",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "Nervercc"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -628,7 +643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 160260,
+      "stars": 160297,
       "user": "deepseek-ai"
     },
     {
@@ -643,8 +658,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2356,
       "user": "yetone"
+    },
+    {
+      "title": "Small-tailqwq/dsh-deep-whale - DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "published_at": "2026-08-13T13:02:14Z",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
+      "source": "GitHub",
+      "stars": 1378,
+      "user": "Small-tailqwq"
     },
     {
       "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
@@ -758,20 +788,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Paul 054m41"
-    },
-    {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -1256,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1094,
       "user": "jdshfhds"
     },
     {
@@ -1271,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 858,
       "user": "zouyuxuan122"
     },
     {
@@ -1301,8 +1317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 615,
       "user": "NousResearch"
+    },
+    {
+      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "published_at": "2026-08-15T18:51:26Z",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "Nervercc"
     },
     {
       "title": "deepseek-ai/deepseek-harness - DeepSeek Harness: Everything is a Plugin.",
@@ -1316,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 160260,
+      "stars": 160297,
       "user": "deepseek-ai"
     },
     {
@@ -1331,38 +1362,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13564,
+      "stars": 13568,
       "user": "anywhere-labs"
-    },
-    {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 4568,
-      "user": "zhu1090093659"
-    },
-    {
-      "title": "dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "url": "https://github.com/dmmulroy/anti-slop",
-      "published_at": "2026-08-12T13:48:50Z",
-      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
-      "source": "GitHub",
-      "stars": 2626,
-      "user": "dmmulroy"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -1376,8 +1377,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2356,
       "user": "yetone"
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "published_at": "2026-08-13T12:49:31Z",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "source": "GitHub",
+      "stars": 1968,
+      "user": "ccch1mneyyy"
+    },
+    {
+      "title": "Small-tailqwq/dsh-deep-whale - DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "published_at": "2026-08-13T13:02:14Z",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
+      "source": "GitHub",
+      "stars": 1378,
+      "user": "Small-tailqwq"
     },
     {
       "title": "Please help i got this error from google console i am trying to load a graph but it isnt coming",
@@ -1481,7 +1512,7 @@
       "title": "Next.js hydration mismatch error when rendering dynamic data from an API",
       "url": "https://stackoverflow.com/questions/79995887/next-js-hydration-mismatch-error-when-rendering-dynamic-data-from-an-api",
       "published_at": "2026-08-17T16:24:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -1517,20 +1548,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gary"
-    },
-    {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -1786,7 +1803,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8865,
+      "stars": 8880,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -1805,21 +1822,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 455,
-      "user": "xinxinshuhao-create"
-    },
-    {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
       "published_at": "2026-08-17T00:22:20Z",
@@ -1831,23 +1833,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "browser-use"
     },
     {
-      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
-      "url": "https://github.com/gfodor/legal-skills",
-      "published_at": "2026-08-12T21:14:16Z",
-      "description": "Replacing lawyers with markdown files",
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 371,
-      "user": "gfodor"
+      "stars": 372,
+      "user": "SigmanticAI"
+    },
+    {
+      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "published_at": "2026-08-15T18:51:26Z",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "Nervercc"
+    },
+    {
+      "title": "How to use Pandas Pivot tables to make new columns combining column names and values in those columns",
+      "url": "https://stackoverflow.com/questions/79996328/how-to-use-pandas-pivot-tables-to-make-new-columns-combining-column-names-and-va",
+      "published_at": "2026-08-18T23:22:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pandas"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DrakeMurdoch"
     },
     {
       "title": "ImportError: cannot import name 'TFAutoModelForSeq2SeqLM' from 'transformers'",
@@ -1973,20 +2003,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "vassiliev"
-    },
-    {
-      "title": "WebSocket (wss) fails silently when launched using windows 10 startup methods, but works when run manually (NodeJs, Python)",
-      "url": "https://stackoverflow.com/questions/79995971/websocket-wss-fails-silently-when-launched-using-windows-10-startup-methods-b",
-      "published_at": "2026-08-17T23:23:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "node.js",
-        "websocket"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yoinkyest Sploinkiest"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2423,21 +2439,6 @@
       "user": "Gamya "
     },
     {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 4568,
-      "user": "zhu1090093659"
-    },
-    {
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "published_at": "2026-08-17T16:46:01.672-05:00",
@@ -2597,7 +2598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2356,
       "user": "yetone"
     },
     {
@@ -2894,21 +2895,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 455,
-      "user": "xinxinshuhao-create"
-    },
-    {
       "title": "CSS: the bomb inside your inbox",
       "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
       "published_at": "2026-08-18T08:30:46.091-05:00",
@@ -3106,7 +3092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1059,
+      "stars": 1094,
       "user": "jdshfhds"
     },
     {
@@ -3121,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 858,
       "user": "zouyuxuan122"
     },
     {
@@ -3151,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/134168893?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 615,
       "user": "NousResearch"
     },
     {
@@ -3166,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316603077?v=4",
       "source": "GitHub",
-      "stars": 8865,
+      "stars": 8880,
       "user": "awesome-dsh-plugin"
     },
     {
@@ -3185,21 +3171,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "xinxinshuhao-create/grok-register - Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "url": "https://github.com/xinxinshuhao-create/grok-register",
-      "published_at": "2026-08-12T11:56:57Z",
-      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/294916584?v=4",
-      "source": "GitHub",
-      "stars": 455,
-      "user": "xinxinshuhao-create"
-    },
-    {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
       "published_at": "2026-08-17T00:22:20Z",
@@ -3211,23 +3182,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 401,
       "user": "browser-use"
     },
     {
-      "title": "gfodor/legal-skills - Replacing lawyers with markdown files",
-      "url": "https://github.com/gfodor/legal-skills",
-      "published_at": "2026-08-12T21:14:16Z",
-      "description": "Replacing lawyers with markdown files",
+      "title": "SigmanticAI/apex-inference-chip - An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "published_at": "2026-08-17T04:25:26Z",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/220020?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 371,
-      "user": "gfodor"
+      "stars": 372,
+      "user": "SigmanticAI"
+    },
+    {
+      "title": "Nervercc/gpt_nerver - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "url": "https://github.com/Nervercc/gpt_nerver",
+      "published_at": "2026-08-15T18:51:26Z",
+      "description": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
+      "source": "GitHub",
+      "stars": 314,
+      "user": "Nervercc"
     },
     {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
@@ -3245,6 +3231,21 @@
       "user": "b-nnett"
     },
     {
+      "title": "yutat23/lsoff - CLI / TUI that lists listening TCP/UDP ports",
+      "url": "https://github.com/yutat23/lsoff",
+      "published_at": "2026-08-14T14:27:33Z",
+      "description": "CLI / TUI that lists listening TCP/UDP ports",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
+      "source": "GitHub",
+      "stars": 128,
+      "user": "yutat23"
+    },
+    {
       "title": "WongLoki/DJ4Hub - Local-first macOS console for the first-generation DJI 4G module",
       "url": "https://github.com/WongLoki/DJ4Hub",
       "published_at": "2026-08-13T15:22:50Z",
@@ -3258,21 +3259,6 @@
       "source": "GitHub",
       "stars": 128,
       "user": "WongLoki"
-    },
-    {
-      "title": "yutat23/lsoff - CLI / TUI that lists listening TCP/UDP ports",
-      "url": "https://github.com/yutat23/lsoff",
-      "published_at": "2026-08-14T14:27:33Z",
-      "description": "CLI / TUI that lists listening TCP/UDP ports",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "yutat23"
     },
     {
       "title": "jasonxu114514/opencode2api - GitHub Repository",
@@ -3316,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 160260,
+      "stars": 160297,
       "user": "deepseek-ai"
     },
     {
@@ -3331,38 +3317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "source": "GitHub",
-      "stars": 13564,
+      "stars": 13568,
       "user": "anywhere-labs"
-    },
-    {
-      "title": "zhu1090093659/dsh-web-ui - Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "published_at": "2026-08-12T05:15:20Z",
-      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46916148?v=4",
-      "source": "GitHub",
-      "stars": 4568,
-      "user": "zhu1090093659"
-    },
-    {
-      "title": "dmmulroy/anti-slop - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "url": "https://github.com/dmmulroy/anti-slop",
-      "published_at": "2026-08-12T13:48:50Z",
-      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2755722?v=4",
-      "source": "GitHub",
-      "stars": 2626,
-      "user": "dmmulroy"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -3376,8 +3332,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2354,
+      "stars": 2356,
       "user": "yetone"
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI - DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "published_at": "2026-08-13T12:49:31Z",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "source": "GitHub",
+      "stars": 1968,
+      "user": "ccch1mneyyy"
+    },
+    {
+      "title": "Small-tailqwq/dsh-deep-whale - DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "published_at": "2026-08-13T13:02:14Z",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/56996438?v=4",
+      "source": "GitHub",
+      "stars": 1378,
+      "user": "Small-tailqwq"
     },
     {
       "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
