@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 619,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 555,
       "user": "browser-use"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2761,
+      "stars": 2765,
       "user": "yetone"
     },
     {
@@ -689,14 +689,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1224,
+      "stars": 1256,
       "user": "CopilotKit"
     },
     {
-      "title": "bowenliang123/dsh-context - Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
       "url": "https://github.com/bowenliang123/dsh-context",
       "published_at": "2026-08-14T08:23:28Z",
-      "description": "Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
       "tags": [
         "typescript",
         "github",
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "bowenliang123"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "hairyf"
     },
     {
@@ -750,6 +750,19 @@
       "user": "abnercoimbre"
     },
     {
+      "title": "Supply chain attack on arrayref",
+      "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+      "published_at": "2026-08-20T04:54:06.012-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ohrv"
+    },
+    {
       "title": "Reclaim the terminal",
       "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
       "published_at": "2026-08-19T17:10:12.631-05:00",
@@ -763,17 +776,29 @@
       "user": "nishantjosh"
     },
     {
-      "title": "Supply chain attack on arrayref",
-      "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-      "published_at": "2026-08-20T04:54:06.012-05:00",
+      "title": "How a joke domain purchase turned into geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "published_at": "2026-08-20T07:21:41.581-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ohrv"
+      "user": "zzkt"
+    },
+    {
+      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
+      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
+      "published_at": "2026-08-20T05:54:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "langchain"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "S41"
     },
     {
       "title": "Chaining programmatic expression functions failing in with_columns",
@@ -788,19 +813,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thefrollickingnerd"
-    },
-    {
-      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
-      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
-      "published_at": "2026-08-20T05:54:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "langchain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "S41"
     },
     {
       "title": "Why does my dialog box pop up again when I click NEXT?",
@@ -1027,22 +1039,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kayode Adeniyi"
-    },
-    {
-      "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
-      "published_at": "2026-08-14T16:34:24.000Z",
-      "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
-      "tags": [
-        "langchain",
-        "ai agents",
-        "AI",
-        "Python",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikhil Adithyan"
     }
   ],
   "JavaScript": [
@@ -1343,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3672,
+      "stars": 3673,
       "user": "xiaobright"
     },
     {
@@ -1373,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1018,
       "user": "zouyuxuan122"
     },
     {
@@ -1388,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 752,
       "user": "vvxw"
     },
     {
@@ -1403,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 495,
       "user": "SheberDavid"
     },
     {
@@ -1418,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54309806?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 104,
       "user": "jsongmax"
     },
     {
@@ -1433,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2761,
+      "stars": 2765,
       "user": "yetone"
     },
     {
@@ -1448,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1414,
       "user": "dsh-market"
     },
     {
@@ -1463,14 +1459,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1224,
+      "stars": 1256,
       "user": "CopilotKit"
     },
     {
-      "title": "bowenliang123/dsh-context - Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
       "url": "https://github.com/bowenliang123/dsh-context",
       "published_at": "2026-08-14T08:23:28Z",
-      "description": "Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
       "tags": [
         "typescript",
         "github",
@@ -1478,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "bowenliang123"
     },
     {
@@ -1510,6 +1506,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
+    },
+    {
+      "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
+      "url": "https://stackoverflow.com/questions/79996644/stripe-connect-onboarding-works-in-test-mode-but-redirects-to-login-in-live-mode",
+      "published_at": "2026-08-19T21:35:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript",
+        "stripe-payments"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tinox"
     },
     {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
@@ -1625,22 +1635,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lucas Sousa"
-    },
-    {
-      "title": "Vue.js watcher not detecting changes to nested object property",
-      "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
-      "published_at": "2026-08-18T23:44:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "vue.js",
-        "vuejs3",
-        "reactive",
-        "watch"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aasim Ghaffar"
     },
     {
       "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
@@ -1925,7 +1919,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 619,
       "user": "SigmanticAI"
     },
     {
@@ -1940,7 +1934,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 555,
       "user": "browser-use"
     },
     {
@@ -1976,7 +1970,7 @@
       "title": "Got a new laptop. Now matplotlib.pyplot produces incorrectly formatted plots",
       "url": "https://stackoverflow.com/questions/79996825/got-a-new-laptop-now-matplotlib-pyplot-produces-incorrectly-formatted-plots",
       "published_at": "2026-08-20T14:15:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "matplotlib",
@@ -2003,7 +1997,7 @@
       "title": "Problems in rendering gif created with ffmpeg",
       "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
       "published_at": "2026-08-20T12:14:59.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "ffmpeg"
@@ -2011,6 +2005,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antonino Roccaforte"
+    },
+    {
+      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
+      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
+      "published_at": "2026-08-20T05:54:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "langchain"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "S41"
     },
     {
       "title": "Is there any code to calculate space and time complexity using Python?",
@@ -2054,19 +2061,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ilya Nidelko"
-    },
-    {
-      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
-      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
-      "published_at": "2026-08-20T05:54:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "langchain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "S41"
     },
     {
       "title": "Why does my dialog box pop up again when I click NEXT?",
@@ -2127,22 +2121,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/",
-      "published_at": "2026-08-14T16:34:24.000Z",
-      "description": "A trading research agent can write strategy code, run a backtest, inspect the results, and keep revising the strategy. The harder problem is making sure that this loop doesn't turn into an uncontrolle",
-      "tags": [
-        "langchain",
-        "ai agents",
-        "AI",
-        "Python",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikhil Adithyan"
     }
   ],
   "DevOps": [
@@ -2709,7 +2687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54309806?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 104,
       "user": "jsongmax"
     },
     {
@@ -2724,7 +2702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2761,
+      "stars": 2765,
       "user": "yetone"
     },
     {
@@ -3025,6 +3003,18 @@
       "user": "ohrv"
     },
     {
+      "title": "How a joke domain purchase turned into geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "published_at": "2026-08-20T07:21:41.581-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "zzkt"
+    },
+    {
       "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
       "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
       "published_at": "2026-08-19T06:47:23.000Z",
@@ -3197,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3672,
+      "stars": 3673,
       "user": "xiaobright"
     },
     {
@@ -3227,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1015,
+      "stars": 1018,
       "user": "zouyuxuan122"
     },
     {
@@ -3242,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 752,
       "user": "vvxw"
     },
     {
@@ -3257,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 495,
       "user": "SheberDavid"
     },
     {
@@ -3302,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 619,
       "user": "SigmanticAI"
     },
     {
@@ -3317,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 555,
       "user": "browser-use"
     },
     {
@@ -3362,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 168,
       "user": "yutat23"
     },
     {
@@ -3377,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/54309806?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 104,
       "user": "jsongmax"
     },
     {
@@ -3422,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2761,
+      "stars": 2765,
       "user": "yetone"
     },
     {
@@ -3437,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1414,
       "user": "dsh-market"
     },
     {
@@ -3452,14 +3442,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1224,
+      "stars": 1256,
       "user": "CopilotKit"
     },
     {
-      "title": "bowenliang123/dsh-context - Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
       "url": "https://github.com/bowenliang123/dsh-context",
       "published_at": "2026-08-14T08:23:28Z",
-      "description": "Best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
       "tags": [
         "typescript",
         "github",
@@ -3467,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "bowenliang123"
     },
     {
@@ -3497,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 693,
       "user": "hairyf"
     },
     {
@@ -3512,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 281,
       "user": "iAmCorey"
     },
     {
@@ -3542,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 138,
       "user": "brijr"
     },
     {
@@ -3557,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "ooolabdev"
     },
     {
