@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c26">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ntowt09oed172fhc16i.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+    <a href="https://dev.to/francistrdev/i-joined-devto-because-fl0">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F02xgmyhot3rv6vpj20u0.jpg" width="200" alt="I Joined dev.to because..." />
       <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
+      <b>I Joined dev.to because...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -97,11 +97,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 3 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
 | 4 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
 | 5 | [Welcome Thread - v389](https://dev.to/devteam/welcome-thread-v389-onj) | Dev.to |
-| 6 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c26) | Dev.to |
-| 7 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
-| 8 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
-| 9 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
-| 10 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
+| 6 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
+| 7 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
+| 8 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
+| 9 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
+| 10 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c26) | Dev.to |
 | 11 | [Meme Monday](https://dev.to/ben/meme-monday-1abg) | Dev.to |
 | 12 | [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li) | Dev.to |
 | 13 | [How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search](https://dev.to/ale3oula/how-many-introductions-away-are-you-from-pedro-pascal-a-practical-introduction-to-graph-search-5bfg) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Thu, 20 Aug 2026 19:02:29 CAT</sub>
+<sub>Last fetched: Thu, 20 Aug 2026 19:41:33 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Implement a debounce function from scratch**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> setTimeout, clearTimeout, wrapper function
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `SystemDesign` — Design a URL shortening service like bit.ly**
+**2. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> try/catch, .catch(), error middleware
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -165,7 +165,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
 | **AI** | 70 | 38.0% | `████████████████████` |
-| **JavaScript** | 47 | 25.5% | `█████████████░░░░░░░` |
+| **JavaScript** | 46 | 25.0% | `█████████████░░░░░░░` |
 | **Tools** | 34 | 18.5% | `██████████░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `█████████░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 30.3%
-Java            ██████████████████████ 22.6%
-Go              ████████████████████ 20.6%
-Python          ███████████████████ 19.4%
-Rust            ██████ 5.8%
+JavaScript      ██████████████████████████████ 29.7%
+Java            ███████████████████████ 22.6%
+Go              █████████████████████ 20.6%
+Python          ████████████████████ 19.4%
+Rust            ███████ 6.5%
 Swift           █ 0.6%
 CSharp          █ 0.6%
 
@@ -206,11 +206,11 @@ CSharp          █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 47
+    "JavaScript" : 46
     "Java" : 35
     "Go" : 32
     "Python" : 30
-    "Rust" : 9
+    "Rust" : 10
     "Swift" : 1
     "CSharp" : 1
 ```
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-35-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-18-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-35-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 17:02:29 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 17:41:33 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
