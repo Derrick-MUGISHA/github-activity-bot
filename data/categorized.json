@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 628,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "browser-use"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 66,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2772,
+      "stars": 2773,
       "user": "yetone"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1585,
       "user": "CopilotKit"
     },
     {
@@ -776,13 +776,27 @@
       "user": "nishantjosh"
     },
     {
+      "title": "If this is true, the hyperscalers are toast",
+      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+      "published_at": "2026-08-20T06:53:16.760-05:00",
+      "description": "The future of AI is not large language models (LLM), but small language models (SLM).",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mattofr"
+    },
+    {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "published_at": "2026-08-20T22:36:37.000Z",
       "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
       "tags": [
         "AI",
-        "TC"
+        "TC",
+        "Anthropic",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1311,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 785,
       "user": "vvxw"
     },
     {
@@ -1356,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2772,
+      "stars": 2773,
       "user": "yetone"
     },
     {
@@ -1371,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1585,
       "user": "CopilotKit"
     },
     {
@@ -1386,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1447,
       "user": "dsh-market"
     },
     {
@@ -1844,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 628,
       "user": "SigmanticAI"
     },
     {
@@ -1859,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "browser-use"
     },
     {
@@ -1876,6 +1890,22 @@
       "source": "GitHub",
       "stars": 528,
       "user": "bawadou"
+    },
+    {
+      "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
+      "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
+      "published_at": "2026-08-20T22:40:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-typing",
+        "pylance",
+        "python-attrs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "Get PANDAS to accept an arbitrary string of spaces as 'NaN'",
@@ -2002,20 +2032,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antonino Roccaforte"
-    },
-    {
-      "title": "Got a new laptop. Now matplotlib.pyplot produces incorrectly formatted plots",
-      "url": "https://stackoverflow.com/questions/79996825/got-a-new-laptop-now-matplotlib-pyplot-produces-incorrectly-formatted-plots",
-      "published_at": "2026-08-20T14:15:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "matplotlib",
-        "pdfpages"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jdrobers"
     }
   ],
   "DevOps": [
@@ -2583,7 +2599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2772,
+      "stars": 2773,
       "user": "yetone"
     },
     {
@@ -3126,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 784,
+      "stars": 785,
       "user": "vvxw"
     },
     {
@@ -3186,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 628,
       "user": "SigmanticAI"
     },
     {
@@ -3201,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "browser-use"
     },
     {
@@ -3246,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 180,
       "user": "yutat23"
     },
     {
@@ -3291,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 66,
       "user": "azrtydxb"
     },
     {
@@ -3306,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2772,
+      "stars": 2773,
       "user": "yetone"
     },
     {
@@ -3321,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1573,
+      "stars": 1585,
       "user": "CopilotKit"
     },
     {
@@ -3336,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1447,
       "user": "dsh-market"
     },
     {
@@ -3396,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 318,
       "user": "iAmCorey"
     },
     {
