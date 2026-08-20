@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-20 5:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-20 6:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63) | Dev.to |
 | 20 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 
-<sub>Last fetched: Thu, 20 Aug 2026 05:30:07 CAT</sub>
+<sub>Last fetched: Thu, 20 Aug 2026 06:15:11 CAT</sub>
 
 
 ---
@@ -122,7 +122,29 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — How would you optimize a React app's performance?**
+**1. `Python` — Implement a context manager using __enter__ and __exit__**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> with statement, setup/teardown, exception handling
+
+</details>
+
+**2. `Python` — Explain decorators in Python with an example**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Function wrappers, @syntax, practical uses
+
+</details>
+
+**3. `React` — How would you optimize a React app's performance?**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
@@ -130,28 +152,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > React.memo, useMemo, useCallback, code splitting, lazy loading
-
-</details>
-
-**2. `DataStructures` — Implement a function to reverse a linked list**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Iterative or recursive, three pointers
-
-</details>
-
-**3. `React` — What are hooks and why were they introduced?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -164,13 +164,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 74 | 40.4% | `████████████████████` |
+| **AI** | 75 | 41.0% | `████████████████████` |
 | **JavaScript** | 46 | 25.1% | `████████████░░░░░░░░` |
 | **Tools** | 34 | 18.6% | `█████████░░░░░░░░░░░` |
 | **Python** | 31 | 16.9% | `████████░░░░░░░░░░░░` |
 | **Security** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.5%
-Go              ███████████████████████ 22.4%
-Java            ███████████████████████ 22.4%
-Python          ████████████████████ 19.9%
-Rust            █████ 4.5%
+JavaScript      ██████████████████████████████ 29.3%
+Go              ███████████████████████ 22.3%
+Java            ███████████████████████ 22.3%
+Python          ████████████████████ 19.7%
+Rust            █████ 5.1%
 Swift           █ 0.6%
 CSharp          █ 0.6%
 
@@ -210,7 +210,7 @@ pie title Programming Languages Distribution
     "Go" : 35
     "Java" : 35
     "Python" : 31
-    "Rust" : 7
+    "Rust" : 8
     "Swift" : 1
     "CSharp" : 1
 ```
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 03:30:08 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 04:15:11 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
