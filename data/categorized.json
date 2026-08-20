@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1386,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 601,
       "user": "Alain00"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "hairyf"
     },
     {
@@ -815,29 +815,14 @@
       "user": "thefrollickingnerd"
     },
     {
-      "title": "Why does my dialog box pop up again when I click NEXT?",
-      "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
-      "published_at": "2026-08-19T18:14:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "qt",
-        "user-interface",
-        "pyqt",
-        "pyqt5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
-    },
-    {
       "title": "Grok keeps sending gibberish responses to users",
       "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
       "published_at": "2026-08-20T17:32:16.000Z",
-      "description": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
       "tags": [
         "AI",
-        "Grok"
+        "Grok",
+        "xAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -850,10 +835,8 @@
       "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "tags": [
         "AI",
-        "TC",
         "ChatGPT",
-        "pew research",
-        "web"
+        "pew research"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -920,6 +903,19 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
+    },
+    {
+      "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
+      "url": "https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/",
+      "published_at": "2026-08-20T14:00:32.000Z",
+      "description": "Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure",
+      "tags": [
+        "ai-agent",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
@@ -1324,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1025,
       "user": "zouyuxuan122"
     },
     {
@@ -1339,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "vvxw"
     },
     {
@@ -1399,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1439,
       "user": "dsh-market"
     },
     {
@@ -1414,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1386,
       "user": "CopilotKit"
     },
     {
@@ -1444,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 601,
       "user": "Alain00"
     },
     {
@@ -1909,6 +1905,20 @@
       "user": "bawadou"
     },
     {
+      "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
+      "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
+      "published_at": "2026-08-20T17:32:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "wrapper",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
       "title": "Updating one of Python's previous versions to its latest version for bug fixes",
       "url": "https://stackoverflow.com/questions/79996866/updating-one-of-pythons-previous-versions-to-its-latest-version-for-bug-fixes",
       "published_at": "2026-08-20T16:45:07.000Z",
@@ -2030,38 +2040,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "thefrollickingnerd"
-    },
-    {
-      "title": "Why does my dialog box pop up again when I click NEXT?",
-      "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
-      "published_at": "2026-08-19T18:14:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "qt",
-        "user-interface",
-        "pyqt",
-        "pyqt5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
-    },
-    {
-      "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/",
-      "published_at": "2026-08-14T16:40:28.000Z",
-      "description": "Discord bots can look surprisingly complicated when you see them in action. A bot can respond to messages, tell stories, remember parts of conversations, and stay online around the clock. When I first",
-      "tags": [
-        "software development",
-        "bot",
-        "Python 3",
-        "Beginner Developers",
-        "techblog"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "DevOps": [
@@ -3140,7 +3118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1024,
+      "stars": 1025,
       "user": "zouyuxuan122"
     },
     {
@@ -3155,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "vvxw"
     },
     {
@@ -3350,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1438,
+      "stars": 1439,
       "user": "dsh-market"
     },
     {
@@ -3365,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1376,
+      "stars": 1386,
       "user": "CopilotKit"
     },
     {
@@ -3395,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 601,
       "user": "Alain00"
     },
     {
@@ -3410,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 723,
       "user": "hairyf"
     },
     {
@@ -3425,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 296,
       "user": "iAmCorey"
     },
     {
@@ -3455,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 163,
+      "stars": 166,
       "user": "brijr"
     },
     {

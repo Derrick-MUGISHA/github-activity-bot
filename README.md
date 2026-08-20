@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-20 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-20 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Thu, 20 Aug 2026 19:41:33 CAT</sub>
+<sub>Last fetched: Thu, 20 Aug 2026 20:05:51 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — How would you design a rate limiter?**
+**1. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, distributed systems
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**2. `NodeJS` — How do you handle errors in async/await?**
+**2. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**3. `DataStructures` — Find the median of two sorted arrays**
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -167,7 +167,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **AI** | 70 | 38.0% | `████████████████████` |
 | **JavaScript** | 46 | 25.0% | `█████████████░░░░░░░` |
 | **Tools** | 34 | 18.5% | `██████████░░░░░░░░░░` |
-| **Python** | 30 | 16.3% | `█████████░░░░░░░░░░░` |
+| **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.7%
-Java            ███████████████████████ 22.6%
-Go              █████████████████████ 20.6%
-Python          ████████████████████ 19.4%
+JavaScript      ██████████████████████████████ 29.9%
+Java            ███████████████████████ 22.7%
+Go              █████████████████████ 20.8%
+Python          ███████████████████ 18.8%
 Rust            ███████ 6.5%
 Swift           █ 0.6%
 CSharp          █ 0.6%
@@ -209,7 +209,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 46
     "Java" : 35
     "Go" : 32
-    "Python" : 30
+    "Python" : 29
     "Rust" : 10
     "Swift" : 1
     "CSharp" : 1
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 17:41:33 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 18:05:51 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
