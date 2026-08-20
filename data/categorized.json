@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1198,
       "user": "cinderline"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5231384?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 527,
       "user": "bawadou"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2752,
+      "stars": 2760,
       "user": "yetone"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1135,
       "user": "CopilotKit"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "bowenliang123"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 682,
       "user": "hairyf"
     },
     {
@@ -761,6 +761,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nishantjosh"
+    },
+    {
+      "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
+      "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
+      "published_at": "2026-08-20T04:54:06.012-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ohrv"
     },
     {
       "title": "Chaining programmatic expression functions failing in with_columns",
@@ -804,6 +817,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kes Perron"
+    },
+    {
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "published_at": "2026-08-20T12:43:19.000Z",
+      "description": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "tags": [
+        "Security",
+        "Water",
+        "cybersecurity",
+        "cyberattack",
+        "CISA"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "published_at": "2026-08-20T12:11:57.000Z",
+      "description": "Meta said its Muse Spark model is powering the dictation feature.",
+      "tags": [
+        "AI",
+        "Dictation",
+        "Meta",
+        "meta ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
@@ -923,34 +967,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-      "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-      "published_at": "2026-08-19T20:01:02.000Z",
-      "description": "Have we tried turning off society and turning it back on again?",
-      "tags": [
-        "Apps",
-        "Gambling",
-        "prediction markets",
-        "sports betting"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "published_at": "2026-08-19T19:11:40.000Z",
-      "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "tags": [
-        "AI",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
@@ -1341,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3663,
+      "stars": 3669,
       "user": "xiaobright"
     },
     {
@@ -1356,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1198,
       "user": "cinderline"
     },
     {
@@ -1371,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1008,
       "user": "zouyuxuan122"
     },
     {
@@ -1386,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 718,
       "user": "vvxw"
     },
     {
@@ -1431,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2752,
+      "stars": 2760,
       "user": "yetone"
     },
     {
@@ -1446,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1387,
+      "stars": 1394,
       "user": "dsh-market"
     },
     {
@@ -1461,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1135,
       "user": "CopilotKit"
     },
     {
@@ -1476,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "bowenliang123"
     },
     {
@@ -1909,7 +1925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "SigmanticAI"
     },
     {
@@ -1924,7 +1940,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "browser-use"
     },
     {
@@ -1939,7 +1955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5231384?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 527,
       "user": "bawadou"
     },
     {
@@ -1955,6 +1971,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cristina Benitez"
+    },
+    {
+      "title": "Problems in rendering gif created with ffmpeg",
+      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
+      "published_at": "2026-08-20T12:14:59.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "python",
+        "ffmpeg"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antonino Roccaforte"
     },
     {
       "title": "Is there any code to calculate space and time complexity using Python?",
@@ -2029,6 +2058,19 @@
       "user": "Kes Perron"
     },
     {
+      "title": "matplotlib savefig silently exits with code 1 after plt.plot() succeeds — no exception, no output",
+      "url": "https://stackoverflow.com/questions/79996186/matplotlib-savefig-silently-exits-with-code-1-after-plt-plot-succeeds-no-exc",
+      "published_at": "2026-08-18T14:13:13.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nikos"
+    },
+    {
       "title": "How can I automatically connect a TON wallet to a site like Fragment that uses TonConnect with Python?",
       "url": "https://stackoverflow.com/questions/79996579/how-can-i-automatically-connect-a-ton-wallet-to-a-site-like-fragment-that-uses-t",
       "published_at": "2026-08-19T16:10:03.000Z",
@@ -2073,19 +2115,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Azamat H"
-    },
-    {
-      "title": "matplotlib savefig silently exits with code 1 after plt.plot() succeeds — no exception, no output",
-      "url": "https://stackoverflow.com/questions/79996186/matplotlib-savefig-silently-exits-with-code-1-after-plt-plot-succeeds-no-exc",
-      "published_at": "2026-08-18T14:13:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "matplotlib"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nikos"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2699,7 +2728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2752,
+      "stars": 2760,
       "user": "yetone"
     },
     {
@@ -2778,18 +2807,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "SQLite for Everything",
-      "url": "https://joecode.com/2026-08-19-sqlite3/",
-      "published_at": "2026-08-19T10:17:39.350-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggpsv"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -3015,6 +3032,19 @@
       "user": "ewenjo"
     },
     {
+      "title": "Rust Supply-Chain Attack: arrayref 0.3.10 and the proc-macro1 Typosquat",
+      "url": "https://www.stepsecurity.io/blog/arrayref-rust-crate-supply-chain-attack",
+      "published_at": "2026-08-20T04:54:06.012-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ohrv"
+    },
+    {
       "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
       "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
       "published_at": "2026-08-19T06:47:23.000Z",
@@ -3029,6 +3059,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lucas Sousa"
+    },
+    {
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "published_at": "2026-08-20T12:43:19.000Z",
+      "description": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "tags": [
+        "Security",
+        "Water",
+        "cybersecurity",
+        "cyberattack",
+        "CISA"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3155,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3663,
+      "stars": 3669,
       "user": "xiaobright"
     },
     {
@@ -3170,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1197,
+      "stars": 1198,
       "user": "cinderline"
     },
     {
@@ -3185,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1008,
       "user": "zouyuxuan122"
     },
     {
@@ -3200,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 718,
       "user": "vvxw"
     },
     {
@@ -3260,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 619,
       "user": "SigmanticAI"
     },
     {
@@ -3275,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 549,
+      "stars": 550,
       "user": "browser-use"
     },
     {
@@ -3290,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5231384?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 527,
       "user": "bawadou"
     },
     {
@@ -3305,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "b-nnett"
     },
     {
@@ -3350,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 81,
       "user": "swadhinbiswas"
     },
     {
@@ -3380,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2752,
+      "stars": 2760,
       "user": "yetone"
     },
     {
@@ -3395,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1387,
+      "stars": 1394,
       "user": "dsh-market"
     },
     {
@@ -3410,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1135,
       "user": "CopilotKit"
     },
     {
@@ -3425,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 596,
       "user": "bowenliang123"
     },
     {
@@ -3455,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 682,
       "user": "hairyf"
     },
     {
@@ -3470,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 262,
       "user": "iAmCorey"
     },
     {
@@ -3489,21 +3535,6 @@
       "user": "zunmax"
     },
     {
-      "title": "ooolabdev/ooosplat - A local desktop application that converts videos into 3D Gaussian Splatting.",
-      "url": "https://github.com/ooolabdev/ooosplat",
-      "published_at": "2026-08-15T15:48:10Z",
-      "description": "A local desktop application that converts videos into 3D Gaussian Splatting.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
-      "source": "GitHub",
-      "stars": 118,
-      "user": "ooolabdev"
-    },
-    {
       "title": "brijr/iris - Screenshots of live websites. Minimal interface, powerful engine.",
       "url": "https://github.com/brijr/iris",
       "published_at": "2026-08-14T22:45:01Z",
@@ -3515,8 +3546,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 106,
+      "stars": 121,
       "user": "brijr"
+    },
+    {
+      "title": "ooolabdev/ooosplat - A local desktop application that converts videos into 3D Gaussian Splatting.",
+      "url": "https://github.com/ooolabdev/ooosplat",
+      "published_at": "2026-08-15T15:48:10Z",
+      "description": "A local desktop application that converts videos into 3D Gaussian Splatting.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
+      "source": "GitHub",
+      "stars": 119,
+      "user": "ooolabdev"
     },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
