@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-20 4:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-20 5:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63) | Dev.to |
 | 20 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 
-<sub>Last fetched: Thu, 20 Aug 2026 04:35:26 CAT</sub>
+<sub>Last fetched: Thu, 20 Aug 2026 05:30:07 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — Implement a custom hook for fetching data**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> useState, useEffect, loading states, error handling
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `SystemDesign` — Design a distributed cache system**
+**2. `DataStructures` — Implement a function to reverse a linked list**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Iterative or recursive, three pointers
 
 </details>
 
-**3. `SystemDesign` — Design Twitter's timeline feature**
+**3. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 02:35:26 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 03:30:08 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
