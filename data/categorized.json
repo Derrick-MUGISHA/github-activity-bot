@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "azrtydxb"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1544,
       "user": "CopilotKit"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "Alain00"
     },
     {
@@ -776,12 +776,13 @@
       "user": "nishantjosh"
     },
     {
-      "title": "Ok, can we actually cool data centers with our pee?",
+      "title": "OK, can we actually cool data centers with our pee?",
       "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
       "published_at": "2026-08-20T20:53:13.000Z",
-      "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
       "tags": [
         "AI",
+        "data centers",
         "Exclusive"
       ],
       "cover_image": null,
@@ -1295,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 783,
       "user": "vvxw"
     },
     {
@@ -1355,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1544,
       "user": "CopilotKit"
     },
     {
@@ -1385,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "Alain00"
     },
     {
@@ -1884,7 +1885,7 @@
       "title": "How do I move the turtle sprite in python",
       "url": "https://stackoverflow.com/questions/79996914/how-do-i-move-the-turtle-sprite-in-python",
       "published_at": "2026-08-20T20:05:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "turtle-graphics",
@@ -1893,22 +1894,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Wyatt"
-    },
-    {
-      "title": "dynamic change of QlineEdit in cursor control",
-      "url": "https://stackoverflow.com/questions/79996905/dynamic-change-of-qlineedit-in-cursor-control",
-      "published_at": "2026-08-20T19:34:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "python-2.7",
-        "pyqt4",
-        "qgis",
-        "pyqgis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "suji"
     },
     {
       "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
@@ -1935,6 +1920,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Celdor"
+    },
+    {
+      "title": "dynamic change of QlineEdit in cursor control",
+      "url": "https://stackoverflow.com/questions/79996905/dynamic-change-of-qlineedit-in-cursor-control",
+      "published_at": "2026-08-20T19:34:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "python-2.7",
+        "pyqt4",
+        "qgis",
+        "pyqgis"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "suji"
     },
     {
       "title": "How to create independent 2D and 3D scenes side by side in Manim?",
@@ -1978,6 +1979,19 @@
       "user": "Loro"
     },
     {
+      "title": "Problems in rendering gif created with ffmpeg",
+      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
+      "published_at": "2026-08-20T12:14:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "ffmpeg"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antonino Roccaforte"
+    },
+    {
       "title": "Got a new laptop. Now matplotlib.pyplot produces incorrectly formatted plots",
       "url": "https://stackoverflow.com/questions/79996825/got-a-new-laptop-now-matplotlib-pyplot-produces-incorrectly-formatted-plots",
       "published_at": "2026-08-20T14:15:33.000Z",
@@ -1990,19 +2004,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jdrobers"
-    },
-    {
-      "title": "Problems in rendering gif created with ffmpeg",
-      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
-      "published_at": "2026-08-20T12:14:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "ffmpeg"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antonino Roccaforte"
     }
   ],
   "DevOps": [
@@ -3113,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 783,
       "user": "vvxw"
     },
     {
@@ -3263,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "swadhinbiswas"
     },
     {
@@ -3278,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "azrtydxb"
     },
     {
@@ -3308,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1544,
       "user": "CopilotKit"
     },
     {
@@ -3338,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "Alain00"
     },
     {
@@ -3383,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 312,
       "user": "iAmCorey"
     },
     {
@@ -3398,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "brijr"
     },
     {
@@ -3428,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 134,
       "user": "ooolabdev"
     },
     {
