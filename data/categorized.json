@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 924,
       "user": "Leutenegger"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 68,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2773,
+      "stars": 2774,
       "user": "yetone"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1585,
+      "stars": 1596,
       "user": "CopilotKit"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 613,
       "user": "Alain00"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 606,
       "user": "bowenliang123"
     },
     {
@@ -763,6 +763,18 @@
       "user": "zzkt"
     },
     {
+      "title": "If this is true, the hyperscalers are toast",
+      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+      "published_at": "2026-08-20T06:53:16.760-05:00",
+      "description": "The future of AI is not large language models (LLM), but small language models (SLM).",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mattofr"
+    },
+    {
       "title": "Reclaim the terminal",
       "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
       "published_at": "2026-08-19T17:10:12.631-05:00",
@@ -776,16 +788,18 @@
       "user": "nishantjosh"
     },
     {
-      "title": "If this is true, the hyperscalers are toast",
-      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-      "published_at": "2026-08-20T06:53:16.760-05:00",
-      "description": "The future of AI is not large language models (LLM), but small language models (SLM).",
+      "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
+      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "published_at": "2026-08-20T23:32:27.000Z",
+      "description": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen si",
       "tags": [
-        "vibecoding"
+        "Startups",
+        "Build Mode",
+        "Build Mode Video"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mattofr"
+      "source": "TechCrunch",
+      "user": "Maggie Nye"
     },
     {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -879,20 +893,49 @@
       "user": "Marina Temkin"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published_at": "2026-08-20T18:20:35.000Z",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
+      "url": "https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/",
+      "published_at": "2026-08-20T18:11:53.000Z",
+      "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
       "tags": [
+        "ai agents",
         "AI",
-        "Apps",
-        "Gadgets",
-        "Hardware",
-        "smart calendar"
+        "book",
+        "AI Engineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "source": "freeCodeCamp",
+      "user": "Vahe Aslanyan"
+    },
+    {
+      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
+      "published_at": "2026-08-20T17:00:00.000Z",
+      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
+      "tags": [
+        "knowledge graph",
+        "Neo4j",
+        "Python",
+        "AI",
+        "database"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "RONI DAS"
+    },
+    {
+      "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
+      "url": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
+      "published_at": "2026-08-20T16:48:19.000Z",
+      "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
+      "tags": [
+        "Cloud Computing",
+        "Cloud infrastructure",
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
@@ -935,51 +978,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Md. Fahim Bin Amin"
-    },
-    {
-      "title": "How to Work with Subqueries in SQL",
-      "url": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
-      "published_at": "2026-08-17T21:31:33.000Z",
-      "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
-      "tags": [
-        "SQL",
-        "subquery",
-        "correlated subquery",
-        "non-correlated subquery"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Abdullah Rufai"
-    },
-    {
-      "title": "How to Scale LLM Inference for AI Agents Using vLLM",
-      "url": "https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/",
-      "published_at": "2026-08-17T20:49:36.000Z",
-      "description": "In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and",
-      "tags": [
-        "AI",
-        "agentic AI",
-        "vLLM",
-        "ai agents",
-        "openai"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Darsh Shah"
-    },
-    {
-      "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
-      "published_at": "2026-08-17T14:10:43.000Z",
-      "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
-      "tags": [
-        "ai agents",
-        "AI",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kayode Adeniyi"
     }
   ],
   "JavaScript": [
@@ -1280,7 +1278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3680,
+      "stars": 3682,
       "user": "xiaobright"
     },
     {
@@ -1325,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 789,
       "user": "vvxw"
     },
     {
@@ -1370,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2773,
+      "stars": 2774,
       "user": "yetone"
     },
     {
@@ -1385,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1585,
+      "stars": 1596,
       "user": "CopilotKit"
     },
     {
@@ -1415,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 613,
       "user": "Alain00"
     },
     {
@@ -1430,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 606,
       "user": "bowenliang123"
     },
     {
@@ -1620,20 +1618,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Md. Fahim Bin Amin"
-    },
-    {
-      "title": "How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents",
-      "url": "https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/",
-      "published_at": "2026-08-17T14:10:43.000Z",
-      "description": "You ask a coding agent for a new endpoint, and ninety seconds later you have a working endpoint. Then you read the diff, and you find that it pulled in a validation library that's not in your package.",
-      "tags": [
-        "ai agents",
-        "AI",
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kayode Adeniyi"
     }
   ],
   "Python": [
@@ -1828,7 +1812,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 924,
       "user": "Leutenegger"
     },
     {
@@ -1895,7 +1879,7 @@
       "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
       "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
       "published_at": "2026-08-20T22:40:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "python-3.x",
@@ -1908,13 +1892,12 @@
       "user": "JadenV15"
     },
     {
-      "title": "Get PANDAS to accept an arbitrary string of spaces as 'NaN'",
+      "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
       "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
       "published_at": "2026-08-20T20:28:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "python-3.x",
         "pandas",
         "nan",
         "read-csv"
@@ -2032,6 +2015,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antonino Roccaforte"
+    },
+    {
+      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
+      "published_at": "2026-08-20T17:00:00.000Z",
+      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
+      "tags": [
+        "knowledge graph",
+        "Neo4j",
+        "Python",
+        "AI",
+        "database"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "RONI DAS"
     }
   ],
   "DevOps": [
@@ -2329,7 +2328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 924,
       "user": "Leutenegger"
     },
     {
@@ -2599,7 +2598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2773,
+      "stars": 2774,
       "user": "yetone"
     },
     {
@@ -2632,6 +2631,20 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
+    },
+    {
+      "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
+      "url": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
+      "published_at": "2026-08-20T16:48:19.000Z",
+      "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
+      "tags": [
+        "Cloud Computing",
+        "Cloud infrastructure",
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     },
     {
       "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
@@ -2693,19 +2706,20 @@
       "user": "learning&#39;s_a_process"
     },
     {
-      "title": "How to Work with Subqueries in SQL",
-      "url": "https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/",
-      "published_at": "2026-08-17T21:31:33.000Z",
-      "description": "Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries",
+      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
+      "published_at": "2026-08-20T17:00:00.000Z",
+      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
       "tags": [
-        "SQL",
-        "subquery",
-        "correlated subquery",
-        "non-correlated subquery"
+        "knowledge graph",
+        "Neo4j",
+        "Python",
+        "AI",
+        "database"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Abdullah Rufai"
+      "user": "RONI DAS"
     }
   ],
   "Security": [
@@ -2971,6 +2985,20 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
+      "url": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
+      "published_at": "2026-08-20T16:48:19.000Z",
+      "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
+      "tags": [
+        "Cloud Computing",
+        "Cloud infrastructure",
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -3097,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3680,
+      "stars": 3682,
       "user": "xiaobright"
     },
     {
@@ -3142,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 789,
       "user": "vvxw"
     },
     {
@@ -3172,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 923,
+      "stars": 924,
       "user": "Leutenegger"
     },
     {
@@ -3292,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "swadhinbiswas"
     },
     {
@@ -3307,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 68,
       "user": "azrtydxb"
     },
     {
@@ -3322,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2773,
+      "stars": 2774,
       "user": "yetone"
     },
     {
@@ -3337,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1585,
+      "stars": 1596,
       "user": "CopilotKit"
     },
     {
@@ -3367,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 613,
       "user": "Alain00"
     },
     {
@@ -3382,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 606,
       "user": "bowenliang123"
     },
     {
@@ -3459,22 +3487,6 @@
       "source": "GitHub",
       "stars": 134,
       "user": "ooolabdev"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published_at": "2026-08-20T18:20:35.000Z",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gadgets",
-        "Hardware",
-        "smart calendar"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     }
   ]
 }
