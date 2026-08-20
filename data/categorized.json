@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 621,
       "user": "wang2122"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 457,
       "user": "Nervercc"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "n0bele"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2709,
+      "stars": 2716,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 679,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "Alain00"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "jeremy-prt"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "hairyf"
     },
     {
@@ -778,6 +778,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abnercoimbre"
+    },
+    {
+      "title": "Reclaim the terminal",
+      "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+      "published_at": "2026-08-19T17:10:12.631-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust",
+        "unix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nishantjosh"
     },
     {
       "title": "Why does my dialog box pop up again when I click NEXT?",
@@ -1386,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 969,
       "user": "zouyuxuan122"
     },
     {
@@ -1401,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 541,
       "user": "vvxw"
     },
     {
@@ -1431,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 457,
       "user": "Nervercc"
     },
     {
@@ -1446,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2709,
+      "stars": 2716,
       "user": "yetone"
     },
     {
@@ -1461,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1303,
       "user": "dsh-market"
     },
     {
@@ -1476,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 679,
       "user": "CopilotKit"
     },
     {
@@ -1491,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "Alain00"
     },
     {
@@ -1506,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "jeremy-prt"
     },
     {
@@ -1525,7 +1538,7 @@
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
       "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
       "published_at": "2026-08-19T20:13:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "advice",
         "javascript",
@@ -1536,19 +1549,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Noah Bergh"
-    },
-    {
-      "title": "Detecting the framework from a signal factory function signature",
-      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
-      "published_at": "2026-08-19T17:07:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "angular-signals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ole"
     },
     {
       "title": "Is redirecting using JavaScript to a URL with a fragment prohibited?",
@@ -1563,6 +1563,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Richard"
+    },
+    {
+      "title": "Detecting the framework from a signal factory function signature",
+      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
+      "published_at": "2026-08-19T17:07:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "angular-signals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ole"
     },
     {
       "title": "How to include type when renaming a property during object destructuring?",
@@ -1919,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 621,
       "user": "wang2122"
     },
     {
@@ -1949,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "browser-use"
     },
     {
@@ -1964,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 457,
       "user": "Nervercc"
     },
     {
@@ -2454,7 +2467,7 @@
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
       "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
       "published_at": "2026-08-19T20:13:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "advice",
         "javascript",
@@ -2704,7 +2717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2709,
+      "stars": 2716,
       "user": "yetone"
     },
     {
@@ -3190,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 967,
+      "stars": 969,
       "user": "zouyuxuan122"
     },
     {
@@ -3205,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 517,
+      "stars": 541,
       "user": "vvxw"
     },
     {
@@ -3250,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 621,
       "user": "wang2122"
     },
     {
@@ -3280,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 535,
       "user": "browser-use"
     },
     {
@@ -3295,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 457,
       "user": "Nervercc"
     },
     {
@@ -3310,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 359,
       "user": "b-nnett"
     },
     {
@@ -3355,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "n0bele"
     },
     {
@@ -3385,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2709,
+      "stars": 2716,
       "user": "yetone"
     },
     {
@@ -3400,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1303,
       "user": "dsh-market"
     },
     {
@@ -3415,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 679,
       "user": "CopilotKit"
     },
     {
@@ -3430,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 581,
       "user": "Alain00"
     },
     {
@@ -3445,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 544,
       "user": "jeremy-prt"
     },
     {
@@ -3460,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "hairyf"
     },
     {
@@ -3490,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 156,
       "user": "iAmCorey"
     },
     {
