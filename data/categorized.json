@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2771,
+      "stars": 2772,
       "user": "yetone"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1509,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "bowenliang123"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "hairyf"
     },
     {
@@ -786,6 +786,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "abnercoimbre"
+    },
+    {
+      "title": "Ok, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "published_at": "2026-08-20T20:53:13.000Z",
+      "description": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "tags": [
+        "AI",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
@@ -876,20 +889,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-      "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-      "published_at": "2026-08-20T17:04:53.000Z",
-      "description": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-      "tags": [
-        "Venture",
-        "mayfield",
-        "people moves"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
@@ -1367,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2771,
+      "stars": 2772,
       "user": "yetone"
     },
     {
@@ -1382,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1509,
       "user": "CopilotKit"
     },
     {
@@ -1427,7 +1426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "bowenliang123"
     },
     {
@@ -1895,7 +1894,7 @@
       "title": "How do I move the turtle sprite in python",
       "url": "https://stackoverflow.com/questions/79996914/how-do-i-move-the-turtle-sprite-in-python",
       "published_at": "2026-08-20T20:05:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "turtle-graphics",
@@ -1904,6 +1903,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Wyatt"
+    },
+    {
+      "title": "Get PANDAS to accept an arbitrary string of spaces as 'NaN'",
+      "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
+      "published_at": "2026-08-20T20:28:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pandas",
+        "nan",
+        "read-csv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "maab"
+    },
+    {
+      "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
+      "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
+      "published_at": "2026-08-20T17:32:00.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "wrapper",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "dynamic change of QlineEdit in cursor control",
@@ -1925,27 +1954,13 @@
       "title": "Updating one of Python's previous versions to its latest version for bug fixes",
       "url": "https://stackoverflow.com/questions/79996866/updating-one-of-pythons-previous-versions-to-its-latest-version-for-bug-fixes",
       "published_at": "2026-08-20T16:45:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Celdor"
-    },
-    {
-      "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
-      "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
-      "published_at": "2026-08-20T17:32:00.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "wrapper",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "How to create independent 2D and 3D scenes side by side in Manim?",
@@ -2014,20 +2029,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Antonino Roccaforte"
-    },
-    {
-      "title": "An error during using my FastAPI app. ValueError: [TypeError('object is not iterable'), TypeError('vars() argument must have __dict__ attribute')]",
-      "url": "https://stackoverflow.com/questions/79996706/an-error-during-using-my-fastapi-app-valueerror-typeerrorobject-is-not-iter",
-      "published_at": "2026-08-20T05:58:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "fastapi",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ilya Nidelko"
     }
   ],
   "DevOps": [
@@ -2595,7 +2596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2771,
+      "stars": 2772,
       "user": "yetone"
     },
     {
@@ -2967,20 +2968,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-      "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-      "published_at": "2026-08-20T17:04:53.000Z",
-      "description": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-      "tags": [
-        "Venture",
-        "mayfield",
-        "people moves"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     }
   ],
   "Tools": [
@@ -3317,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "azrtydxb"
     },
     {
@@ -3332,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2771,
+      "stars": 2772,
       "user": "yetone"
     },
     {
@@ -3347,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1509,
       "user": "CopilotKit"
     },
     {
@@ -3392,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 604,
       "user": "bowenliang123"
     },
     {
@@ -3407,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 724,
       "user": "hairyf"
     },
     {
@@ -3437,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "brijr"
     },
     {
