@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 567,
       "user": "browser-use"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 64,
       "user": "azrtydxb"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1573,
       "user": "CopilotKit"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "Alain00"
     },
     {
@@ -774,6 +774,35 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nishantjosh"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published_at": "2026-08-20T22:36:37.000Z",
+      "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "published_at": "2026-08-20T22:09:51.000Z",
+      "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "tags": [
+        "AI",
+        "Apple",
+        "ChatGPT",
+        "In Brief",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "OK, can we actually cool data centers with our pee?",
@@ -850,20 +879,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "published_at": "2026-08-20T17:32:16.000Z",
-      "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "tags": [
-        "AI",
-        "Grok",
-        "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
@@ -1296,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 784,
       "user": "vvxw"
     },
     {
@@ -1356,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1573,
       "user": "CopilotKit"
     },
     {
@@ -1371,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1445,
       "user": "dsh-market"
     },
     {
@@ -1386,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "Alain00"
     },
     {
@@ -1433,19 +1448,6 @@
       "user": "SAW Dev"
     },
     {
-      "title": "Detecting the framework from a signal factory function signature",
-      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
-      "published_at": "2026-08-19T17:07:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "angular-signals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ole"
-    },
-    {
       "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
       "url": "https://stackoverflow.com/questions/79996644/stripe-connect-onboarding-works-in-test-mode-but-redirects-to-login-in-live-mode",
       "published_at": "2026-08-19T21:35:13.000Z",
@@ -1458,6 +1460,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "tinox"
+    },
+    {
+      "title": "Detecting the framework from a signal factory function signature",
+      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
+      "published_at": "2026-08-19T17:07:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "angular-signals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ole"
     },
     {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
@@ -1548,20 +1563,17 @@
       "user": "Lucas Sousa"
     },
     {
-      "title": "Vue.js watcher not detecting changes to nested object property",
-      "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
-      "published_at": "2026-08-18T23:44:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "How to delete an item from array only on the second click on the same element in React?",
+      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
+      "published_at": "2026-08-18T07:21:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
-        "vue.js",
-        "vuejs3",
-        "reactive",
-        "watch"
+        "reactjs"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Aasim Ghaffar"
+      "user": "user22414499"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1832,7 +1844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "SigmanticAI"
     },
     {
@@ -1847,7 +1859,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 567,
       "user": "browser-use"
     },
     {
@@ -1885,7 +1897,7 @@
       "title": "How do I move the turtle sprite in python",
       "url": "https://stackoverflow.com/questions/79996914/how-do-i-move-the-turtle-sprite-in-python",
       "published_at": "2026-08-20T20:05:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "turtle-graphics",
@@ -3114,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 784,
       "user": "vvxw"
     },
     {
@@ -3174,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "SigmanticAI"
     },
     {
@@ -3189,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 567,
       "user": "browser-use"
     },
     {
@@ -3234,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "yutat23"
     },
     {
@@ -3264,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 91,
+      "stars": 92,
       "user": "swadhinbiswas"
     },
     {
@@ -3279,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 60,
+      "stars": 64,
       "user": "azrtydxb"
     },
     {
@@ -3309,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 1573,
       "user": "CopilotKit"
     },
     {
@@ -3324,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1445,
       "user": "dsh-market"
     },
     {
@@ -3339,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 609,
+      "stars": 610,
       "user": "Alain00"
     },
     {
@@ -3384,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 316,
       "user": "iAmCorey"
     },
     {
@@ -3399,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 183,
+      "stars": 184,
       "user": "brijr"
     },
     {
