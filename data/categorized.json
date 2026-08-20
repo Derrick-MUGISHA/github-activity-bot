@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 916,
       "user": "Leutenegger"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "Nervercc"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1014,
       "user": "CopilotKit"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 592,
       "user": "bowenliang123"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 675,
       "user": "hairyf"
     },
     {
@@ -769,6 +769,7 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
+        "dataframe",
         "python-polars"
       ],
       "cover_image": null,
@@ -1385,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 659,
       "user": "vvxw"
     },
     {
@@ -1415,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "Nervercc"
     },
     {
@@ -1460,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1365,
       "user": "dsh-market"
     },
     {
@@ -1475,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1014,
       "user": "CopilotKit"
     },
     {
@@ -1490,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 592,
       "user": "bowenliang123"
     },
     {
@@ -1579,20 +1580,6 @@
       "user": "Ole"
     },
     {
-      "title": "How to include type when renaming a property during object destructuring?",
-      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
-      "published_at": "2026-08-19T18:00:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "destructuring"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "heretoinfinity"
-    },
-    {
       "title": "Chrome Extension: How can I detect the actual video URL from a dynamically loaded video page?",
       "url": "https://stackoverflow.com/questions/79996583/chrome-extension-how-can-i-detect-the-actual-video-url-from-a-dynamically-loade",
       "published_at": "2026-08-19T16:48:37.000Z",
@@ -1605,6 +1592,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user107968"
+    },
+    {
+      "title": "How to include type when renaming a property during object destructuring?",
+      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
+      "published_at": "2026-08-19T18:00:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "destructuring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "heretoinfinity"
     },
     {
       "title": "Why does mySQL select query work on my database but not in code editor",
@@ -1905,7 +1906,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 916,
       "user": "Leutenegger"
     },
     {
@@ -1935,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "SigmanticAI"
     },
     {
@@ -1950,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "browser-use"
     },
     {
@@ -1965,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "Nervercc"
     },
     {
@@ -2004,6 +2005,7 @@
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
+        "dataframe",
         "python-polars"
       ],
       "cover_image": null,
@@ -2440,7 +2442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 916,
       "user": "Leutenegger"
     },
     {
@@ -3225,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 659,
       "user": "vvxw"
     },
     {
@@ -3255,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 915,
+      "stars": 916,
       "user": "Leutenegger"
     },
     {
@@ -3285,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 609,
       "user": "SigmanticAI"
     },
     {
@@ -3300,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 546,
       "user": "browser-use"
     },
     {
@@ -3315,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "Nervercc"
     },
     {
@@ -3420,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1365,
       "user": "dsh-market"
     },
     {
@@ -3435,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1014,
       "user": "CopilotKit"
     },
     {
@@ -3450,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 590,
+      "stars": 592,
       "user": "bowenliang123"
     },
     {
@@ -3480,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 672,
+      "stars": 675,
       "user": "hairyf"
     },
     {
@@ -3495,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "iAmCorey"
     },
     {
@@ -3525,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "ooolabdev"
     },
     {
