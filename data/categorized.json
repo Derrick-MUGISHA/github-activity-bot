@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "Nervercc"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2732,
+      "stars": 2736,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 897,
       "user": "CopilotKit"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 554,
       "user": "jeremy-prt"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 625,
       "user": "hairyf"
     },
     {
@@ -794,28 +794,14 @@
       "title": "Why does my dialog box pop up again when I click NEXT?",
       "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
       "published_at": "2026-08-19T18:14:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "python-3.x",
         "pyqt5"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kes Perron"
-    },
-    {
-      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
-      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
-      "published_at": "2026-08-18T19:43:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
     },
     {
       "title": "Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;",
@@ -1352,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3650,
+      "stars": 3655,
       "user": "xiaobright"
     },
     {
@@ -1382,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "zouyuxuan122"
     },
     {
@@ -1397,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 615,
       "user": "vvxw"
     },
     {
@@ -1427,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "Nervercc"
     },
     {
@@ -1442,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2732,
+      "stars": 2736,
       "user": "yetone"
     },
     {
@@ -1457,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1344,
       "user": "dsh-market"
     },
     {
@@ -1472,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 897,
       "user": "CopilotKit"
     },
     {
@@ -1502,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 554,
       "user": "jeremy-prt"
     },
     {
@@ -1516,20 +1502,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "carlana"
-    },
-    {
-      "title": "Was the removal of the floating sidebar in VS Code 1.134 intentional?",
-      "url": "https://stackoverflow.com/questions/79996710/was-the-removal-of-the-floating-sidebar-in-vs-code-1-134-intentional",
-      "published_at": "2026-08-20T06:20:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "typescript",
-        "visual-studio-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Song"
     },
     {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
@@ -1661,6 +1633,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aasim Ghaffar"
+    },
+    {
+      "title": "How to delete an item from array only on the second click on the same element in React?",
+      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
+      "published_at": "2026-08-18T07:21:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user22414499"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1931,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "SigmanticAI"
     },
     {
@@ -1946,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "browser-use"
     },
     {
@@ -1961,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "Nervercc"
     },
     {
@@ -2024,10 +2009,9 @@
       "title": "Why does my dialog box pop up again when I click NEXT?",
       "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
       "published_at": "2026-08-19T18:14:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "python-3.x",
         "pyqt5"
       ],
       "cover_image": null,
@@ -2081,6 +2065,19 @@
       "user": "Azamat H"
     },
     {
+      "title": "matplotlib savefig silently exits with code 1 after plt.plot() succeeds — no exception, no output",
+      "url": "https://stackoverflow.com/questions/79996186/matplotlib-savefig-silently-exits-with-code-1-after-plt-plot-succeeds-no-exc",
+      "published_at": "2026-08-18T14:13:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nikos"
+    },
+    {
       "title": "Python subclass dircmp",
       "url": "https://stackoverflow.com/questions/79996189/python-subclass-dircmp",
       "published_at": "2026-08-18T14:20:43.000Z",
@@ -2092,19 +2089,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Damien"
-    },
-    {
-      "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
-      "url": "https://stackoverflow.com/questions/79996286/fetcherror-py0404-fetching-from-url-main-py-failed-with-error-404",
-      "published_at": "2026-08-18T19:43:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pyscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pfalbaum"
     },
     {
       "title": "How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python",
@@ -2703,7 +2687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2732,
+      "stars": 2736,
       "user": "yetone"
     },
     {
@@ -3159,7 +3143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3650,
+      "stars": 3655,
       "user": "xiaobright"
     },
     {
@@ -3189,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 984,
       "user": "zouyuxuan122"
     },
     {
@@ -3204,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 615,
       "user": "vvxw"
     },
     {
@@ -3264,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 601,
       "user": "SigmanticAI"
     },
     {
@@ -3279,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 539,
       "user": "browser-use"
     },
     {
@@ -3294,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 486,
       "user": "Nervercc"
     },
     {
@@ -3384,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2732,
+      "stars": 2736,
       "user": "yetone"
     },
     {
@@ -3399,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1344,
       "user": "dsh-market"
     },
     {
@@ -3414,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 861,
+      "stars": 897,
       "user": "CopilotKit"
     },
     {
@@ -3444,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 554,
       "user": "jeremy-prt"
     },
     {
@@ -3459,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 625,
       "user": "hairyf"
     },
     {
@@ -3474,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 227,
       "user": "iAmCorey"
     },
     {
@@ -3504,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 106,
       "user": "ooolabdev"
     },
     {
