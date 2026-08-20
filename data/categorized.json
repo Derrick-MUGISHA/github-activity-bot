@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 915,
       "user": "Leutenegger"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 672,
       "user": "wang2122"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "SigmanticAI"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "Nervercc"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2723,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 798,
       "user": "CopilotKit"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "hairyf"
     },
     {
@@ -825,7 +825,6 @@
       "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
       "tags": [
         "AI",
-        "TC",
         "openrouter",
         "stripe"
       ],
@@ -1354,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3645,
+      "stars": 3647,
       "user": "xiaobright"
     },
     {
@@ -1384,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 975,
       "user": "zouyuxuan122"
     },
     {
@@ -1399,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 569,
       "user": "vvxw"
     },
     {
@@ -1414,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "SheberDavid"
     },
     {
@@ -1429,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "Nervercc"
     },
     {
@@ -1444,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2723,
       "user": "yetone"
     },
     {
@@ -1459,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1320,
       "user": "dsh-market"
     },
     {
@@ -1474,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 798,
       "user": "CopilotKit"
     },
     {
@@ -1902,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 915,
       "user": "Leutenegger"
     },
     {
@@ -1917,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 672,
       "user": "wang2122"
     },
     {
@@ -1932,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "SigmanticAI"
     },
     {
@@ -1962,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "Nervercc"
     },
     {
@@ -2009,21 +2008,6 @@
       "user": "Mohammad"
     },
     {
-      "title": "Decoder-only Transformer has decreasing validation loss but generates repetitive or incoherent text",
-      "url": "https://stackoverflow.com/questions/79996587/decoder-only-transformer-has-decreasing-validation-loss-but-generates-repetitive",
-      "published_at": "2026-08-19T16:55:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "deep-learning",
-        "pytorch",
-        "pytorch-dataloader"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Azamat H"
-    },
-    {
       "title": "Convert Spherical Coordinates to Cartesian for 360 Sensor Moving in Environment",
       "url": "https://stackoverflow.com/questions/79996575/convert-spherical-coordinates-to-cartesian-for-360-sensor-moving-in-environment",
       "published_at": "2026-08-19T15:50:37.000Z",
@@ -2038,6 +2022,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "movingwaters"
+    },
+    {
+      "title": "Decoder-only Transformer has decreasing validation loss but generates repetitive or incoherent text",
+      "url": "https://stackoverflow.com/questions/79996587/decoder-only-transformer-has-decreasing-validation-loss-but-generates-repetitive",
+      "published_at": "2026-08-19T16:55:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "deep-learning",
+        "pytorch",
+        "pytorch-dataloader"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Azamat H"
     },
     {
       "title": "FetchError: (PY0404): Fetching from URL main.py failed with error 404 ()",
@@ -2433,7 +2432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 915,
       "user": "Leutenegger"
     },
     {
@@ -2702,7 +2701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2723,
       "user": "yetone"
     },
     {
@@ -3158,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3645,
+      "stars": 3647,
       "user": "xiaobright"
     },
     {
@@ -3188,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 974,
+      "stars": 975,
       "user": "zouyuxuan122"
     },
     {
@@ -3203,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 569,
       "user": "vvxw"
     },
     {
@@ -3218,7 +3217,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 496,
       "user": "SheberDavid"
     },
     {
@@ -3233,7 +3232,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 915,
       "user": "Leutenegger"
     },
     {
@@ -3248,7 +3247,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 672,
       "user": "wang2122"
     },
     {
@@ -3263,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "SigmanticAI"
     },
     {
@@ -3293,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/298599018?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 472,
       "user": "Nervercc"
     },
     {
@@ -3383,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2723,
       "user": "yetone"
     },
     {
@@ -3398,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1314,
+      "stars": 1320,
       "user": "dsh-market"
     },
     {
@@ -3413,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 798,
       "user": "CopilotKit"
     },
     {
@@ -3458,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "hairyf"
     },
     {
@@ -3473,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 199,
       "user": "iAmCorey"
     },
     {
@@ -3503,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 99,
       "user": "ooolabdev"
     },
     {
