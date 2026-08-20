@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-20 9:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-20 10:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Thu, 20 Aug 2026 09:55:14 CAT</sub>
+<sub>Last fetched: Thu, 20 Aug 2026 10:35:58 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Implement rate limiting for an API**
+**1. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**3. `JavaScript` — What are closures and provide a practical example?**
+**3. `Database` — What is database normalization and denormalization?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Function + lexical environment, data privacy, callbacks
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 73 | 40.1% | `████████████████████` |
-| **JavaScript** | 46 | 25.3% | `█████████████░░░░░░░` |
+| **AI** | 72 | 39.6% | `████████████████████` |
+| **JavaScript** | 47 | 25.8% | `█████████████░░░░░░░` |
 | **Tools** | 34 | 18.7% | `█████████░░░░░░░░░░░` |
-| **Python** | 31 | 17.0% | `████████░░░░░░░░░░░░` |
+| **Python** | 31 | 17.0% | `█████████░░░░░░░░░░░` |
 | **Security** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
 | **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.3%
-Go              ███████████████████████ 22.3%
-Java            ███████████████████████ 22.3%
-Python          ████████████████████ 19.7%
+JavaScript      ██████████████████████████████ 29.7%
+Go              ██████████████████████ 22.2%
+Java            ██████████████████████ 22.2%
+Python          ████████████████████ 19.6%
 Rust            █████ 5.1%
 Swift           █ 0.6%
 CSharp          █ 0.6%
@@ -206,7 +206,7 @@ CSharp          █ 0.6%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 46
+    "JavaScript" : 47
     "Go" : 35
     "Java" : 35
     "Python" : 31
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 07:55:14 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 08:35:58 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
