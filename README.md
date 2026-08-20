@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Thu, 20 Aug 2026 20:05:51 CAT</sub>
+<sub>Last fetched: Thu, 20 Aug 2026 20:58:31 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — What are hooks and why were they introduced?**
+**1. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> try/catch, .catch(), error middleware
 
 </details>
 
-**2. `React` — What are hooks and why were they introduced?**
+**2. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> State in functional components, reusable logic, cleaner code
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-**3. `SystemDesign` — Design a URL shortening service like bit.ly**
+**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Scope, hoisting, and reassignment capabilities
 
 </details>
 
@@ -166,7 +166,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 70 | 38.0% | `████████████████████` |
 | **JavaScript** | 46 | 25.0% | `█████████████░░░░░░░` |
-| **Tools** | 34 | 18.5% | `██████████░░░░░░░░░░` |
+| **Tools** | 35 | 19.0% | `██████████░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `██████░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 18:05:51 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 18:58:31 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

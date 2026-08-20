@@ -106,6 +106,21 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
+    },
+    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -133,21 +148,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
     },
     {
       "title": "Looker's Native MCP Server with Claude Code",
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "Leutenegger"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "browser-use"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2768,
+      "stars": 2769,
       "user": "yetone"
     },
     {
@@ -689,8 +689,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1414,
       "user": "CopilotKit"
+    },
+    {
+      "title": "Alain00/blobatar - GitHub Repository",
+      "url": "https://github.com/Alain00/blobatar",
+      "published_at": "2026-08-15T11:51:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "Alain00"
     },
     {
       "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
@@ -706,21 +721,6 @@
       "source": "GitHub",
       "stars": 603,
       "user": "bowenliang123"
-    },
-    {
-      "title": "Alain00/blobatar - GitHub Repository",
-      "url": "https://github.com/Alain00/blobatar",
-      "published_at": "2026-08-15T11:51:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
-      "source": "GitHub",
-      "stars": 601,
-      "user": "Alain00"
     },
     {
       "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
@@ -815,6 +815,22 @@
       "user": "thefrollickingnerd"
     },
     {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "published_at": "2026-08-20T18:20:35.000Z",
+      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Hardware",
+        "smart calendar"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "Grok keeps sending gibberish responses to users",
       "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
       "published_at": "2026-08-20T17:32:16.000Z",
@@ -887,22 +903,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "published_at": "2026-08-20T16:00:00.000Z",
-      "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Exclusive",
-        "fusion power",
-        "Inertia Enterprises"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
@@ -1039,6 +1039,21 @@
       "user": "Sylwia Laskowska"
     },
     {
+      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
+      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
+      "published_at": "2026-08-10T14:50:38Z",
+      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
+      "source": "Dev.to",
+      "user": "Sarvar Nadaf"
+    },
+    {
       "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
       "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
       "published_at": "2026-07-28T10:50:54Z",
@@ -1082,21 +1097,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
-    },
-    {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
     },
     {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
@@ -1335,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 777,
       "user": "vvxw"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2768,
+      "stars": 2769,
       "user": "yetone"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1440,
       "user": "dsh-market"
     },
     {
@@ -1410,8 +1410,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1414,
       "user": "CopilotKit"
+    },
+    {
+      "title": "Alain00/blobatar - GitHub Repository",
+      "url": "https://github.com/Alain00/blobatar",
+      "published_at": "2026-08-15T11:51:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "Alain00"
     },
     {
       "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
@@ -1427,21 +1442,6 @@
       "source": "GitHub",
       "stars": 603,
       "user": "bowenliang123"
-    },
-    {
-      "title": "Alain00/blobatar - GitHub Repository",
-      "url": "https://github.com/Alain00/blobatar",
-      "published_at": "2026-08-15T11:51:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
-      "source": "GitHub",
-      "stars": 601,
-      "user": "Alain00"
     },
     {
       "title": "Bun 1.4",
@@ -1460,7 +1460,7 @@
       "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
       "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
       "published_at": "2026-08-20T07:47:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "typescript",
@@ -1590,7 +1590,7 @@
       "title": "Vue.js watcher not detecting changes to nested object property",
       "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
       "published_at": "2026-08-18T23:44:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "vue.js",
@@ -1841,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "Leutenegger"
     },
     {
@@ -1886,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "browser-use"
     },
     {
@@ -1934,7 +1934,7 @@
       "title": "Tensorflow Errors",
       "url": "https://stackoverflow.com/questions/79996809/tensorflow-errors",
       "published_at": "2026-08-20T13:10:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
+      "description": "Stack Overflow question · 1 answers · score -9",
       "tags": [
         "python",
         "tensorflow"
@@ -1962,7 +1962,7 @@
       "title": "Got a new laptop. Now matplotlib.pyplot produces incorrectly formatted plots",
       "url": "https://stackoverflow.com/questions/79996825/got-a-new-laptop-now-matplotlib-pyplot-produces-incorrectly-formatted-plots",
       "published_at": "2026-08-20T14:15:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "matplotlib",
@@ -2016,7 +2016,7 @@
       "title": "Is there any code to calculate space and time complexity using Python?",
       "url": "https://stackoverflow.com/questions/79996709/is-there-any-code-to-calculate-space-and-time-complexity-using-python",
       "published_at": "2026-08-20T06:17:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -2337,7 +2337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "Leutenegger"
     },
     {
@@ -2607,7 +2607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2768,
+      "stars": 2769,
       "user": "yetone"
     },
     {
@@ -3133,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 777,
       "user": "vvxw"
     },
     {
@@ -3163,7 +3163,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 922,
       "user": "Leutenegger"
     },
     {
@@ -3208,7 +3208,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 560,
       "user": "browser-use"
     },
     {
@@ -3253,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 173,
       "user": "yutat23"
     },
     {
@@ -3313,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2768,
+      "stars": 2769,
       "user": "yetone"
     },
     {
@@ -3328,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1440,
       "user": "dsh-market"
     },
     {
@@ -3343,8 +3343,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1414,
       "user": "CopilotKit"
+    },
+    {
+      "title": "Alain00/blobatar - GitHub Repository",
+      "url": "https://github.com/Alain00/blobatar",
+      "published_at": "2026-08-15T11:51:19Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "Alain00"
     },
     {
       "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
@@ -3360,21 +3375,6 @@
       "source": "GitHub",
       "stars": 603,
       "user": "bowenliang123"
-    },
-    {
-      "title": "Alain00/blobatar - GitHub Repository",
-      "url": "https://github.com/Alain00/blobatar",
-      "published_at": "2026-08-15T11:51:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
-      "source": "GitHub",
-      "stars": 601,
-      "user": "Alain00"
     },
     {
       "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
@@ -3403,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "iAmCorey"
     },
     {
@@ -3433,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 170,
       "user": "brijr"
     },
     {
@@ -3448,8 +3448,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "ooolabdev"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "published_at": "2026-08-20T18:20:35.000Z",
+      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Gadgets",
+        "Hardware",
+        "smart calendar"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
