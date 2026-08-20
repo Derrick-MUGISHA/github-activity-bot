@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "browser-use"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 51,
       "user": "n0bele"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2767,
+      "stars": 2768,
       "user": "yetone"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1376,
       "user": "CopilotKit"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "bowenliang123"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "Alain00"
     },
     {
@@ -788,18 +788,6 @@
       "user": "abnercoimbre"
     },
     {
-      "title": "If this is true, the hyperscalers are toast",
-      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
-      "published_at": "2026-08-20T06:53:16.760-05:00",
-      "description": "The future of AI is not large language models (LLM), but small language models (SLM).",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mattofr"
-    },
-    {
       "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
       "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
       "published_at": "2026-08-20T05:54:33.000Z",
@@ -843,6 +831,49 @@
       "user": "Kes Perron"
     },
     {
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "published_at": "2026-08-20T17:32:16.000Z",
+      "description": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "tags": [
+        "AI",
+        "Grok"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT&#8217;s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "published_at": "2026-08-20T17:18:58.000Z",
+      "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "tags": [
+        "AI",
+        "TC",
+        "ChatGPT",
+        "pew research",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "published_at": "2026-08-20T17:04:53.000Z",
+      "description": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+      "tags": [
+        "Venture",
+        "mayfield",
+        "people moves"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
       "title": "Ramp launches its own AI model router, called Router",
       "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "published_at": "2026-08-20T16:46:00.000Z",
@@ -867,7 +898,8 @@
         "AI",
         "Apps",
         "Gaming",
-        "Social"
+        "Social",
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -888,36 +920,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim De Chant"
-    },
-    {
-      "title": "AI data giant Alation confirms cyberattack",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-      "published_at": "2026-08-20T13:01:24.000Z",
-      "description": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
-      "tags": [
-        "Security",
-        "AI",
-        "Alation",
-        "cyberattack",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "For a16z, AI gives foreign founders an advantage",
-      "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-      "published_at": "2026-08-20T13:00:00.000Z",
-      "description": "a16z’s Borderless Founder network initiative supports immigrant and international founders. \"Having one foot in your home country, and one foot in Silicon Valley\" is an advantage, the firm believes.",
-      "tags": [
-        "Venture",
-        "a16z",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
@@ -1322,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1024,
       "user": "zouyuxuan122"
     },
     {
@@ -1337,7 +1339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 774,
       "user": "vvxw"
     },
     {
@@ -1382,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2767,
+      "stars": 2768,
       "user": "yetone"
     },
     {
@@ -1397,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1438,
       "user": "dsh-market"
     },
     {
@@ -1412,7 +1414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1376,
       "user": "CopilotKit"
     },
     {
@@ -1427,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "bowenliang123"
     },
     {
@@ -1442,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "Alain00"
     },
     {
@@ -1490,7 +1492,7 @@
       "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
       "url": "https://stackoverflow.com/questions/79996644/stripe-connect-onboarding-works-in-test-mode-but-redirects-to-login-in-live-mode",
       "published_at": "2026-08-19T21:35:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "advice",
         "javascript",
@@ -1603,20 +1605,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aasim Ghaffar"
-    },
-    {
-      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-      "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
-      "published_at": "2026-08-20T13:45:00.000Z",
-      "description": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
-      "tags": [
-        "Climate",
-        "Exclusive",
-        "nuclear power"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1887,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "SigmanticAI"
     },
     {
@@ -1902,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "browser-use"
     },
     {
@@ -1933,6 +1921,19 @@
       "user": "Celdor"
     },
     {
+      "title": "Tensorflow Errors",
+      "url": "https://stackoverflow.com/questions/79996809/tensorflow-errors",
+      "published_at": "2026-08-20T13:10:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
+      "tags": [
+        "python",
+        "tensorflow"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeff Ohana"
+    },
+    {
       "title": "Convert a Numpy code to a Dask Array in order to parallelize the code",
       "url": "https://stackoverflow.com/questions/79996844/convert-a-numpy-code-to-a-dask-array-in-order-to-parallelize-the-code",
       "published_at": "2026-08-20T15:17:49.000Z",
@@ -1960,19 +1961,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jdrobers"
-    },
-    {
-      "title": "Tensorflow Errors",
-      "url": "https://stackoverflow.com/questions/79996809/tensorflow-errors",
-      "published_at": "2026-08-20T13:10:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "python",
-        "tensorflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Ohana"
     },
     {
       "title": "Problems in rendering gif created with ffmpeg",
@@ -2641,7 +2629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2767,
+      "stars": 2768,
       "user": "yetone"
     },
     {
@@ -2984,20 +2972,18 @@
       "user": "Lucas Sousa"
     },
     {
-      "title": "AI data giant Alation confirms cyberattack",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-      "published_at": "2026-08-20T13:01:24.000Z",
-      "description": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "published_at": "2026-08-20T17:04:53.000Z",
+      "description": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
       "tags": [
-        "Security",
-        "AI",
-        "Alation",
-        "cyberattack",
-        "cybersecurity"
+        "Venture",
+        "mayfield",
+        "people moves"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Marina Temkin"
     }
   ],
   "Tools": [
@@ -3154,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1023,
+      "stars": 1024,
       "user": "zouyuxuan122"
     },
     {
@@ -3169,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 771,
+      "stars": 774,
       "user": "vvxw"
     },
     {
@@ -3229,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 622,
       "user": "SigmanticAI"
     },
     {
@@ -3244,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 558,
+      "stars": 559,
       "user": "browser-use"
     },
     {
@@ -3289,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "yutat23"
     },
     {
@@ -3319,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "swadhinbiswas"
     },
     {
@@ -3334,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 51,
       "user": "n0bele"
     },
     {
@@ -3349,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2767,
+      "stars": 2768,
       "user": "yetone"
     },
     {
@@ -3364,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1438,
       "user": "dsh-market"
     },
     {
@@ -3379,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1345,
+      "stars": 1376,
       "user": "CopilotKit"
     },
     {
@@ -3394,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 603,
       "user": "bowenliang123"
     },
     {
@@ -3409,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 599,
       "user": "Alain00"
     },
     {
@@ -3439,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 293,
       "user": "iAmCorey"
     },
     {
@@ -3469,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 163,
       "user": "brijr"
     },
     {
@@ -3484,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "ooolabdev"
     },
     {
@@ -3496,7 +3482,8 @@
         "AI",
         "Apps",
         "Gaming",
-        "Social"
+        "Social",
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
