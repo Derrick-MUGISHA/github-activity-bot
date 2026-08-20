@@ -121,6 +121,20 @@
       "user": "Sarvar Nadaf"
     },
     {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -134,20 +148,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Looker's Native MCP Server with Claude Code",
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "SigmanticAI"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 563,
       "user": "browser-use"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 58,
       "user": "azrtydxb"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1463,
+      "stars": 1488,
       "user": "CopilotKit"
     },
     {
@@ -788,41 +788,15 @@
       "user": "abnercoimbre"
     },
     {
-      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
-      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
-      "published_at": "2026-08-20T05:54:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "langchain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "S41"
-    },
-    {
-      "title": "Mark buys a castle",
-      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-      "published_at": "2026-08-20T19:55:40.000Z",
-      "description": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
-      "tags": [
-        "Media & Entertainment"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "published_at": "2026-08-20T19:18:21.000Z",
       "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
       "tags": [
-        "TC",
-        "Media & Entertainment",
         "AI",
+        "Media & Entertainment",
         "Google",
-        "media"
+        "Search"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1067,21 +1041,6 @@
       "user": "Sarvar Nadaf"
     },
     {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
       "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
       "published_at": "2026-08-14T02:57:56Z",
@@ -1095,6 +1054,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
+      "published_at": "2026-07-28T10:50:54Z",
+      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
+      "tags": [
+        "react",
+        "webdev",
+        "javascript",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
+      "source": "Dev.to",
+      "user": "Shubhra Pokhariya"
     },
     {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
@@ -1303,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3678,
+      "stars": 3680,
       "user": "xiaobright"
     },
     {
@@ -1333,7 +1307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1026,
       "user": "zouyuxuan122"
     },
     {
@@ -1348,7 +1322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "vvxw"
     },
     {
@@ -1408,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1463,
+      "stars": 1488,
       "user": "CopilotKit"
     },
     {
@@ -1423,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1443,
+      "stars": 1444,
       "user": "dsh-market"
     },
     {
@@ -1884,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "SigmanticAI"
     },
     {
@@ -1899,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 563,
       "user": "browser-use"
     },
     {
@@ -1918,10 +1892,24 @@
       "user": "bawadou"
     },
     {
+      "title": "How do I move the turtle sprite in python",
+      "url": "https://stackoverflow.com/questions/79996914/how-do-i-move-the-turtle-sprite-in-python",
+      "published_at": "2026-08-20T20:05:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "turtle-graphics",
+        "python-turtle"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Wyatt"
+    },
+    {
       "title": "dynamic change of QlineEdit in cursor control",
       "url": "https://stackoverflow.com/questions/79996905/dynamic-change-of-qlineedit-in-cursor-control",
       "published_at": "2026-08-20T19:34:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "python-2.7",
@@ -1934,20 +1922,6 @@
       "user": "suji"
     },
     {
-      "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
-      "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
-      "published_at": "2026-08-20T17:32:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "wrapper",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
       "title": "Updating one of Python's previous versions to its latest version for bug fixes",
       "url": "https://stackoverflow.com/questions/79996866/updating-one-of-pythons-previous-versions-to-its-latest-version-for-bug-fixes",
       "published_at": "2026-08-20T16:45:07.000Z",
@@ -1958,6 +1932,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Celdor"
+    },
+    {
+      "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
+      "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
+      "published_at": "2026-08-20T17:32:00.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "wrapper",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "How to create independent 2D and 3D scenes side by side in Manim?",
@@ -2040,19 +2028,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ilya Nidelko"
-    },
-    {
-      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
-      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
-      "published_at": "2026-08-20T05:54:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "langchain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "S41"
     }
   ],
   "DevOps": [
@@ -2984,10 +2959,10 @@
       "description": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
       "tags": [
         "Security",
-        "Google",
-        "malware",
+        "cyberattack",
+        "cybercrime",
         "cybersecurity",
-        "cybercrime"
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3132,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
       "source": "GitHub",
-      "stars": 3678,
+      "stars": 3680,
       "user": "xiaobright"
     },
     {
@@ -3162,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1026,
       "user": "zouyuxuan122"
     },
     {
@@ -3177,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 779,
+      "stars": 781,
       "user": "vvxw"
     },
     {
@@ -3237,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "SigmanticAI"
     },
     {
@@ -3252,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 563,
       "user": "browser-use"
     },
     {
@@ -3297,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
       "source": "GitHub",
-      "stars": 173,
+      "stars": 174,
       "user": "yutat23"
     },
     {
@@ -3327,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 90,
       "user": "swadhinbiswas"
     },
     {
@@ -3342,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 58,
       "user": "azrtydxb"
     },
     {
@@ -3372,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1463,
+      "stars": 1488,
       "user": "CopilotKit"
     },
     {
@@ -3387,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
       "source": "GitHub",
-      "stars": 1443,
+      "stars": 1444,
       "user": "dsh-market"
     },
     {
@@ -3447,8 +3422,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "iAmCorey"
+    },
+    {
+      "title": "brijr/iris - Screenshots of live websites. Minimal interface, powerful engine.",
+      "url": "https://github.com/brijr/iris",
+      "published_at": "2026-08-14T22:45:01Z",
+      "description": "Screenshots of live websites. Minimal interface, powerful engine.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
+      "source": "GitHub",
+      "stars": 177,
+      "user": "brijr"
     },
     {
       "title": "zunmax/osnm-z - OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea",
@@ -3466,21 +3456,6 @@
       "user": "zunmax"
     },
     {
-      "title": "brijr/iris - Screenshots of live websites. Minimal interface, powerful engine.",
-      "url": "https://github.com/brijr/iris",
-      "published_at": "2026-08-14T22:45:01Z",
-      "description": "Screenshots of live websites. Minimal interface, powerful engine.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
-      "source": "GitHub",
-      "stars": 170,
-      "user": "brijr"
-    },
-    {
       "title": "ooolabdev/ooosplat - A local desktop application that converts videos into 3D Gaussian Splatting.",
       "url": "https://github.com/ooolabdev/ooosplat",
       "published_at": "2026-08-15T15:48:10Z",
@@ -3492,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 133,
       "user": "ooolabdev"
     },
     {
