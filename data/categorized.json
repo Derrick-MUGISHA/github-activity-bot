@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 668,
       "user": "SigmanticAI"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "zachahn"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2100,
+      "stars": 2105,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "Alain00"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "Apeireth"
     },
     {
@@ -836,6 +836,22 @@
       "user": "Y K"
     },
     {
+      "title": "How to run an async function weekly at a specific time",
+      "url": "https://stackoverflow.com/questions/79997198/how-to-run-an-async-function-weekly-at-a-specific-time",
+      "published_at": "2026-08-21T21:57:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "datetime",
+        "async-await",
+        "python-asyncio",
+        "scheduled-tasks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
+    },
+    {
       "title": "pyttsx3 fails with unknown error code whenever I try to initiate it",
       "url": "https://stackoverflow.com/questions/79997089/pyttsx3-fails-with-unknown-error-code-whenever-i-try-to-initiate-it",
       "published_at": "2026-08-21T12:34:17.000Z",
@@ -865,6 +881,19 @@
       "user": "ali.zabetpour"
     },
     {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "published_at": "2026-08-21T22:10:01.000Z",
+      "description": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "tags": [
+        "Startups",
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
       "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
       "published_at": "2026-08-21T20:58:07.000Z",
@@ -873,7 +902,8 @@
         "Hardware",
         "AI",
         "Apple",
-        "vision pro"
+        "In Brief",
+        "Layoffs"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -901,8 +931,8 @@
       "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
       "tags": [
         "AI",
-        "nvidia",
-        "Exclusive"
+        "Exclusive",
+        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1358,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 980,
       "user": "vvxw"
     },
     {
@@ -1373,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "Spielewoy"
     },
     {
@@ -1448,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2100,
+      "stars": 2105,
       "user": "CopilotKit"
     },
     {
@@ -1463,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "Alain00"
     },
     {
@@ -1500,7 +1530,7 @@
       "title": "Unable to generate audio element on an HTML page using JavaScript",
       "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
       "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1539,19 +1569,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "serv-inc"
-    },
-    {
-      "title": "How do I make the website know when I clicked the click",
-      "url": "https://stackoverflow.com/questions/79997090/how-do-i-make-the-website-know-when-i-clicked-the-click",
-      "published_at": "2026-08-21T12:35:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -14",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "P196hql"
     },
     {
       "title": "How do I get a random element from an array in a JSON file?",
@@ -1611,22 +1628,6 @@
       "user": "tinox"
     },
     {
-      "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
-      "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
-      "published_at": "2026-08-19T20:13:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "advice",
-        "javascript",
-        "html",
-        "geolocation",
-        "navigator"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Bergh"
-    },
-    {
       "title": "Detecting the framework from a signal factory function signature",
       "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
       "published_at": "2026-08-19T17:07:51.000Z",
@@ -1638,6 +1639,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ole"
+    },
+    {
+      "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
+      "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
+      "published_at": "2026-08-20T07:47:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vercel",
+        "hono"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SAW Dev"
+    },
+    {
+      "title": "How to reset ContentControl.Color to default?",
+      "url": "https://stackoverflow.com/questions/79990355/how-to-reset-contentcontrol-color-to-default",
+      "published_at": "2026-08-04T10:26:56.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "ms-word",
+        "office-js",
+        "word-addins"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Burned"
     }
   ],
   "Python": [
@@ -1877,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "browser-use"
     },
     {
@@ -1892,8 +1924,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 668,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "How to run an async function weekly at a specific time",
+      "url": "https://stackoverflow.com/questions/79997198/how-to-run-an-async-function-weekly-at-a-specific-time",
+      "published_at": "2026-08-21T21:57:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "datetime",
+        "async-await",
+        "python-asyncio",
+        "scheduled-tasks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
     },
     {
       "title": "pyttsx3 fails with unknown error code whenever I try to initiate it",
@@ -2022,19 +2070,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Celdor"
-    },
-    {
-      "title": "Problems in rendering gif created with ffmpeg",
-      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
-      "published_at": "2026-08-20T12:14:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "ffmpeg"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antonino Roccaforte"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2371,7 +2406,7 @@
       "title": "Unable to generate audio element on an HTML page using JavaScript",
       "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
       "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2396,19 +2431,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Danish"
-    },
-    {
-      "title": "How do I make the website know when I clicked the click",
-      "url": "https://stackoverflow.com/questions/79997090/how-do-i-make-the-website-know-when-i-clicked-the-click",
-      "published_at": "2026-08-21T12:35:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -14",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "P196hql"
     },
     {
       "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
@@ -2438,22 +2460,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe J"
-    },
-    {
-      "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
-      "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
-      "published_at": "2026-08-19T20:13:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "advice",
-        "javascript",
-        "html",
-        "geolocation",
-        "navigator"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Noah Bergh"
     }
   ],
   "Mobile": [
@@ -2514,7 +2520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "Apeireth"
     }
   ],
@@ -2684,22 +2690,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
-      "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
-      "published_at": "2026-08-21T14:39:24.000Z",
-      "description": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "lawsuits",
-        "oura",
-        "sleep-tracker"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
@@ -2982,7 +2972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "Apeireth"
     },
     {
@@ -3167,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 980,
       "user": "vvxw"
     },
     {
@@ -3182,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 580,
       "user": "Spielewoy"
     },
     {
@@ -3272,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "browser-use"
     },
     {
@@ -3287,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 668,
       "user": "SigmanticAI"
     },
     {
@@ -3317,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "azrtydxb"
     },
     {
@@ -3332,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "zachahn"
     },
     {
@@ -3392,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2100,
+      "stars": 2105,
       "user": "CopilotKit"
     },
     {
@@ -3407,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 654,
       "user": "Alain00"
     },
     {
@@ -3452,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "iAmCorey"
     },
     {
@@ -3482,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 94,
       "user": "furkankly"
     },
     {
@@ -3497,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 73,
+      "stars": 75,
       "user": "Apeireth"
     },
     {
