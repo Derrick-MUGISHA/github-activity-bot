@@ -135,21 +135,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "Looker's Native MCP Server with Claude Code",
       "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
       "published_at": "2026-08-14T14:00:55Z",
@@ -178,6 +163,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "published_at": "2026-08-12T05:30:27Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "javascript",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
+      "source": "Dev.to",
+      "user": "Asuran"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 482,
       "user": "Spielewoy"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "Leutenegger"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "SigmanticAI"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "zachahn"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2820,
+      "stars": 2827,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1871,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "Alain00"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "jeremy-prt"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 899,
       "user": "vvxw"
     },
     {
@@ -1344,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 482,
       "user": "Spielewoy"
     },
     {
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "Yousuf-developer"
     },
     {
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2820,
+      "stars": 2827,
       "user": "yetone"
     },
     {
@@ -1404,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1871,
       "user": "CopilotKit"
     },
     {
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "Alain00"
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "jeremy-prt"
     },
     {
@@ -1834,7 +1834,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "Leutenegger"
     },
     {
@@ -1879,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "SigmanticAI"
     },
     {
@@ -1896,6 +1896,20 @@
       "source": "GitHub",
       "stars": 608,
       "user": "Leutenegger"
+    },
+    {
+      "title": "button not running function?",
+      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
+      "published_at": "2026-08-21T09:41:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pyqt",
+        "multiprocessing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "samrad Tangestani"
     },
     {
       "title": "How to fix the error when using modules in imported directories",
@@ -2028,19 +2042,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "suji"
-    },
-    {
-      "title": "Problems in rendering gif created with ffmpeg",
-      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
-      "published_at": "2026-08-20T12:14:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "ffmpeg"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antonino Roccaforte"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2339,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "Leutenegger"
     },
     {
@@ -2628,7 +2629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2820,
+      "stars": 2827,
       "user": "yetone"
     },
     {
@@ -3138,7 +3139,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 892,
+      "stars": 899,
       "user": "vvxw"
     },
     {
@@ -3168,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 482,
       "user": "Spielewoy"
     },
     {
@@ -3183,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "Yousuf-developer"
     },
     {
@@ -3198,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 929,
       "user": "Leutenegger"
     },
     {
@@ -3243,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 650,
       "user": "SigmanticAI"
     },
     {
@@ -3318,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 97,
+      "stars": 99,
       "user": "azrtydxb"
     },
     {
@@ -3333,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 94,
       "user": "zachahn"
     },
     {
@@ -3348,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2820,
+      "stars": 2827,
       "user": "yetone"
     },
     {
@@ -3363,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1871,
       "user": "CopilotKit"
     },
     {
@@ -3378,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "Alain00"
     },
     {
@@ -3393,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "jeremy-prt"
     },
     {
@@ -3423,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 366,
       "user": "iAmCorey"
     },
     {
@@ -3442,6 +3443,21 @@
       "user": "ooolabdev"
     },
     {
+      "title": "Boshen/cargo-bsize - Investigate Rust binary size",
+      "url": "https://github.com/Boshen/cargo-bsize",
+      "published_at": "2026-08-16T07:48:20Z",
+      "description": "Investigate Rust binary size",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
+      "source": "GitHub",
+      "stars": 64,
+      "user": "Boshen"
+    },
+    {
       "title": "AminulBD/ds - GitHub Repository",
       "url": "https://github.com/AminulBD/ds",
       "published_at": "2026-08-15T14:26:42Z",
@@ -3455,21 +3471,6 @@
       "source": "GitHub",
       "stars": 63,
       "user": "AminulBD"
-    },
-    {
-      "title": "Boshen/cargo-bsize - Investigate Rust binary size",
-      "url": "https://github.com/Boshen/cargo-bsize",
-      "published_at": "2026-08-16T07:48:20Z",
-      "description": "Investigate Rust binary size",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "Boshen"
     },
     {
       "title": "YintaTriss/apeireth-rust - Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
