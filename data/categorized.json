@@ -573,6 +573,21 @@
       "user": "cinderline"
     },
     {
+      "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "published_at": "2026-08-17T22:40:47Z",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
+      "source": "GitHub",
+      "stars": 445,
+      "user": "Spielewoy"
+    },
+    {
       "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "url": "https://github.com/Leutenegger/watermarks-remover",
       "published_at": "2026-08-19T15:20:24Z",
@@ -618,6 +633,21 @@
       "user": "SigmanticAI"
     },
     {
+      "title": "Leutenegger/coldcard-airgap - Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "published_at": "2026-08-20T23:14:34Z",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 607,
+      "user": "Leutenegger"
+    },
+    {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
       "published_at": "2026-08-17T00:22:20Z",
@@ -629,23 +659,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "browser-use"
-    },
-    {
-      "title": "bawadou/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "published_at": "2026-08-16T18:35:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5231384?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "bawadou"
     },
     {
       "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
@@ -659,8 +674,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 71,
       "user": "azrtydxb"
+    },
+    {
+      "title": "n0bele/AntiAIMark - Removing AI watermarks from text, images, and audio/video files.",
+      "url": "https://github.com/n0bele/AntiAIMark",
+      "published_at": "2026-08-15T18:36:19Z",
+      "description": "Removing AI watermarks from text, images, and audio/video files.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "n0bele"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -689,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1608,
       "user": "CopilotKit"
     },
     {
@@ -708,34 +738,34 @@
       "user": "Alain00"
     },
     {
-      "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "url": "https://github.com/bowenliang123/dsh-context",
-      "published_at": "2026-08-14T08:23:28Z",
-      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "title": "jeremy-prt/bloub - SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "published_at": "2026-08-15T13:21:23Z",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 606,
-      "user": "bowenliang123"
+      "stars": 573,
+      "user": "jeremy-prt"
     },
     {
-      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-      "url": "https://github.com/hairyf/deepseek-harness-desktop",
-      "published_at": "2026-08-14T02:36:29Z",
-      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "title": "fufankeji/deepseek-harness-studio - DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "url": "https://github.com/fufankeji/deepseek-harness-studio",
+      "published_at": "2026-08-15T03:00:06Z",
+      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 725,
-      "user": "hairyf"
+      "stars": 410,
+      "user": "fufankeji"
     },
     {
       "title": "Supply chain attack on arrayref",
@@ -1267,21 +1297,6 @@
       "user": "velmu"
     },
     {
-      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "published_at": "2026-08-14T14:06:39Z",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
-      "source": "GitHub",
-      "stars": 3682,
-      "user": "xiaobright"
-    },
-    {
       "title": "cinderline/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
       "url": "https://github.com/cinderline/northcinder",
       "published_at": "2026-08-17T11:42:31Z",
@@ -1297,21 +1312,6 @@
       "user": "cinderline"
     },
     {
-      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "published_at": "2026-08-14T16:29:54Z",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
-      "source": "GitHub",
-      "stars": 1026,
-      "user": "zouyuxuan122"
-    },
-    {
       "title": "vvxw/deploy-vercel - Install Command：npm install",
       "url": "https://github.com/vvxw/deploy-vercel",
       "published_at": "2026-08-18T13:25:45Z",
@@ -1323,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 791,
       "user": "vvxw"
     },
     {
@@ -1340,6 +1340,36 @@
       "source": "GitHub",
       "stars": 494,
       "user": "SheberDavid"
+    },
+    {
+      "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "published_at": "2026-08-17T22:40:47Z",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
+      "source": "GitHub",
+      "stars": 445,
+      "user": "Spielewoy"
+    },
+    {
+      "title": "Yousuf-developer/Viscose-carousel - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "url": "https://github.com/Yousuf-developer/Viscose-carousel",
+      "published_at": "2026-08-15T08:34:56Z",
+      "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "Yousuf-developer"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -1383,23 +1413,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1608,
       "user": "CopilotKit"
-    },
-    {
-      "title": "dsh-market/dsh-market - The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-      "url": "https://github.com/dsh-market/dsh-market",
-      "published_at": "2026-08-14T04:58:15Z",
-      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
-      "source": "GitHub",
-      "stars": 1447,
-      "user": "dsh-market"
     },
     {
       "title": "Alain00/blobatar - GitHub Repository",
@@ -1417,19 +1432,34 @@
       "user": "Alain00"
     },
     {
-      "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "url": "https://github.com/bowenliang123/dsh-context",
-      "published_at": "2026-08-14T08:23:28Z",
-      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "title": "jeremy-prt/bloub - SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "published_at": "2026-08-15T13:21:23Z",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 606,
-      "user": "bowenliang123"
+      "stars": 573,
+      "user": "jeremy-prt"
+    },
+    {
+      "title": "fufankeji/deepseek-harness-studio - DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "url": "https://github.com/fufankeji/deepseek-harness-studio",
+      "published_at": "2026-08-15T03:00:06Z",
+      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
+      "source": "GitHub",
+      "stars": 410,
+      "user": "fufankeji"
     },
     {
       "title": "Bun 1.4",
@@ -1846,6 +1876,21 @@
       "user": "SigmanticAI"
     },
     {
+      "title": "Leutenegger/coldcard-airgap - Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "published_at": "2026-08-20T23:14:34Z",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 607,
+      "user": "Leutenegger"
+    },
+    {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
       "published_at": "2026-08-17T00:22:20Z",
@@ -1857,29 +1902,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "browser-use"
-    },
-    {
-      "title": "bawadou/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "published_at": "2026-08-16T18:35:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5231384?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "bawadou"
     },
     {
       "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
       "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
       "published_at": "2026-08-20T22:40:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "python-3.x",
@@ -1895,7 +1925,7 @@
       "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
       "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
       "published_at": "2026-08-20T20:28:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -3114,21 +3144,6 @@
       "user": "pabs3"
     },
     {
-      "title": "xiaobright/dsh-anchored-standard - Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "published_at": "2026-08-14T14:06:39Z",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/104243166?v=4",
-      "source": "GitHub",
-      "stars": 3682,
-      "user": "xiaobright"
-    },
-    {
       "title": "cinderline/northcinder - Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
       "url": "https://github.com/cinderline/northcinder",
       "published_at": "2026-08-17T11:42:31Z",
@@ -3144,21 +3159,6 @@
       "user": "cinderline"
     },
     {
-      "title": "zouyuxuan122/Deepseek-Harness-EAC - DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "published_at": "2026-08-14T16:29:54Z",
-      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245557608?v=4",
-      "source": "GitHub",
-      "stars": 1026,
-      "user": "zouyuxuan122"
-    },
-    {
       "title": "vvxw/deploy-vercel - Install Command：npm install",
       "url": "https://github.com/vvxw/deploy-vercel",
       "published_at": "2026-08-18T13:25:45Z",
@@ -3170,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 791,
       "user": "vvxw"
     },
     {
@@ -3187,6 +3187,36 @@
       "source": "GitHub",
       "stars": 494,
       "user": "SheberDavid"
+    },
+    {
+      "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "published_at": "2026-08-17T22:40:47Z",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
+      "source": "GitHub",
+      "stars": 445,
+      "user": "Spielewoy"
+    },
+    {
+      "title": "Yousuf-developer/Viscose-carousel - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "url": "https://github.com/Yousuf-developer/Viscose-carousel",
+      "published_at": "2026-08-15T08:34:56Z",
+      "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
+      "source": "GitHub",
+      "stars": 380,
+      "user": "Yousuf-developer"
     },
     {
       "title": "Leutenegger/watermarks-remover - Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
@@ -3234,6 +3264,21 @@
       "user": "SigmanticAI"
     },
     {
+      "title": "Leutenegger/coldcard-airgap - Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "published_at": "2026-08-20T23:14:34Z",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 607,
+      "user": "Leutenegger"
+    },
+    {
       "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "url": "https://github.com/browser-use/macos-harness",
       "published_at": "2026-08-17T00:22:20Z",
@@ -3245,23 +3290,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 569,
       "user": "browser-use"
-    },
-    {
-      "title": "bawadou/ai-data-extractor - Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "published_at": "2026-08-16T18:35:58Z",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5231384?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "bawadou"
     },
     {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
@@ -3277,21 +3307,6 @@
       "source": "GitHub",
       "stars": 363,
       "user": "b-nnett"
-    },
-    {
-      "title": "yutat23/lsoff - CLI / TUI that lists listening TCP/UDP ports",
-      "url": "https://github.com/yutat23/lsoff",
-      "published_at": "2026-08-14T14:27:33Z",
-      "description": "CLI / TUI that lists listening TCP/UDP ports",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45997563?v=4",
-      "source": "GitHub",
-      "stars": 180,
-      "user": "yutat23"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -3335,8 +3350,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 71,
       "user": "azrtydxb"
+    },
+    {
+      "title": "n0bele/AntiAIMark - Removing AI watermarks from text, images, and audio/video files.",
+      "url": "https://github.com/n0bele/AntiAIMark",
+      "published_at": "2026-08-15T18:36:19Z",
+      "description": "Removing AI watermarks from text, images, and audio/video files.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
+      "source": "GitHub",
+      "stars": 53,
+      "user": "n0bele"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -3365,23 +3395,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1596,
+      "stars": 1608,
       "user": "CopilotKit"
-    },
-    {
-      "title": "dsh-market/dsh-market - The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-      "url": "https://github.com/dsh-market/dsh-market",
-      "published_at": "2026-08-14T04:58:15Z",
-      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316826596?v=4",
-      "source": "GitHub",
-      "stars": 1447,
-      "user": "dsh-market"
     },
     {
       "title": "Alain00/blobatar - GitHub Repository",
@@ -3399,34 +3414,34 @@
       "user": "Alain00"
     },
     {
-      "title": "bowenliang123/dsh-context - The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "url": "https://github.com/bowenliang123/dsh-context",
-      "published_at": "2026-08-14T08:23:28Z",
-      "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "title": "jeremy-prt/bloub - SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "url": "https://github.com/jeremy-prt/bloub",
+      "published_at": "2026-08-15T13:21:23Z",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1935105?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 606,
-      "user": "bowenliang123"
+      "stars": 573,
+      "user": "jeremy-prt"
     },
     {
-      "title": "hairyf/deepseek-harness-desktop - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-      "url": "https://github.com/hairyf/deepseek-harness-desktop",
-      "published_at": "2026-08-14T02:36:29Z",
-      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "title": "fufankeji/deepseek-harness-studio - DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "url": "https://github.com/fufankeji/deepseek-harness-studio",
+      "published_at": "2026-08-15T03:00:06Z",
+      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/49724027?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 725,
-      "user": "hairyf"
+      "stars": 410,
+      "user": "fufankeji"
     },
     {
       "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
@@ -3440,38 +3455,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 319,
       "user": "iAmCorey"
-    },
-    {
-      "title": "brijr/iris - Screenshots of live websites. Minimal interface, powerful engine.",
-      "url": "https://github.com/brijr/iris",
-      "published_at": "2026-08-14T22:45:01Z",
-      "description": "Screenshots of live websites. Minimal interface, powerful engine.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57158102?v=4",
-      "source": "GitHub",
-      "stars": 184,
-      "user": "brijr"
-    },
-    {
-      "title": "zunmax/osnm-z - OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea",
-      "url": "https://github.com/zunmax/osnm-z",
-      "published_at": "2026-08-14T18:18:56Z",
-      "description": "OpenSea NFT Minter by Zun : a single as well as multi-wallet Rust CLI for minting NFTs on Opensea",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139138234?v=4",
-      "source": "GitHub",
-      "stars": 176,
-      "user": "zunmax"
     },
     {
       "title": "ooolabdev/ooosplat - A local desktop application that converts videos into 3D Gaussian Splatting.",
@@ -3485,8 +3470,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "ooolabdev"
+    },
+    {
+      "title": "AminulBD/ds - GitHub Repository",
+      "url": "https://github.com/AminulBD/ds",
+      "published_at": "2026-08-15T14:26:42Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5006546?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "AminulBD"
+    },
+    {
+      "title": "Boshen/cargo-bsize - Investigate Rust binary size",
+      "url": "https://github.com/Boshen/cargo-bsize",
+      "published_at": "2026-08-16T07:48:20Z",
+      "description": "Investigate Rust binary size",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
+      "source": "GitHub",
+      "stars": 59,
+      "user": "Boshen"
+    },
+    {
+      "title": "ja7ad/hydra - A fast, resilient, multi-source file retriever and download engine",
+      "url": "https://github.com/ja7ad/hydra",
+      "published_at": "2026-08-15T14:20:36Z",
+      "description": "A fast, resilient, multi-source file retriever and download engine",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/56496801?v=4",
+      "source": "GitHub",
+      "stars": 54,
+      "user": "ja7ad"
     }
   ]
 }

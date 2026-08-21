@@ -8,7 +8,7 @@
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
-![Last Update](https://img.shields.io/badge/Updated-2026--08--20-orange?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026--08--21-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-21 1:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-21 2:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Fri, 21 Aug 2026 01:39:26 CAT</sub>
+<sub>Last fetched: Fri, 21 Aug 2026 02:02:09 CAT</sub>
 
 
 ---
@@ -133,25 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**2. `Database` — What is the difference between SQL and NoSQL databases?**
+**2. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Schema, scalability, ACID vs BASE
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**3. `NodeJS` — How do you handle errors in async/await?**
+**3. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Request/response cycle, next(), chain of functions
 
 </details>
 
@@ -164,10 +164,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 69 | 37.5% | `████████████████████` |
+| **AI** | 71 | 38.6% | `████████████████████` |
 | **JavaScript** | 45 | 24.5% | `█████████████░░░░░░░` |
-| **Tools** | 33 | 17.9% | `██████████░░░░░░░░░░` |
-| **Python** | 30 | 16.3% | `█████████░░░░░░░░░░░` |
+| **Tools** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
+| **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
 | **Security** | 21 | 11.4% | `██████░░░░░░░░░░░░░░` |
 | **Cloud** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 13 | 7.1% | `████░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.8%
-Java            ███████████████████████ 22.5%
-Go              █████████████████████ 20.5%
-Python          ████████████████████ 19.9%
-Rust            ██████ 6.0%
+JavaScript      ██████████████████████████████ 29.6%
+Java            ███████████████████████ 22.4%
+Go              █████████████████████ 21.1%
+Python          ████████████████████ 19.7%
+Rust            ██████ 5.9%
 Swift           █ 0.7%
 CSharp          █ 0.7%
 
@@ -208,7 +208,7 @@ CSharp          █ 0.7%
 pie title Programming Languages Distribution
     "JavaScript" : 45
     "Java" : 34
-    "Go" : 31
+    "Go" : 32
     "Python" : 30
     "Rust" : 9
     "Swift" : 1
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 20 Aug 2026 23:39:26 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 21 Aug 2026 00:02:09 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
