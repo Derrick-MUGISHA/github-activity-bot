@@ -31,21 +31,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Hacktoberfest 2026: AI belongs to everyone",
-      "url": "https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8",
-      "published_at": "2026-08-19T15:38:17Z",
-      "description": "We have some news we're excited to share today: Major League Hacking (MLH) and DEV are partnering...",
-      "tags": [
-        "hacktoberfest",
-        "opensource",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F36uy9jpgjk1zd9arht2a.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "Hacktoberfest 2026: AI belongs to everyone",
+      "url": "https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8",
+      "published_at": "2026-08-19T15:38:17Z",
+      "description": "We have some news we're excited to share today: Major League Hacking (MLH) and DEV are partnering...",
+      "tags": [
+        "hacktoberfest",
+        "opensource",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F36uy9jpgjk1zd9arht2a.png",
+      "source": "Dev.to",
+      "user": "Jess Lee"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 665,
       "user": "SigmanticAI"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2075,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 646,
       "user": "Alain00"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "jeremy-prt"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "Apeireth"
     },
     {
@@ -911,22 +911,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "published_at": "2026-08-21T13:05:00.000Z",
-      "description": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "Exclusive",
-        "FBI",
-        "hacking"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
@@ -1344,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "Spielewoy"
     },
     {
@@ -1419,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2075,
       "user": "CopilotKit"
     },
     {
@@ -1434,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 646,
       "user": "Alain00"
     },
     {
@@ -1449,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "jeremy-prt"
     },
     {
@@ -1466,19 +1450,6 @@
       "source": "GitHub",
       "stars": 433,
       "user": "fufankeji"
-    },
-    {
-      "title": "Bun 1.4",
-      "url": "https://bun.com/blog/bun-v1.4",
-      "published_at": "2026-08-20T09:37:52.628-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "simonw"
     },
     {
       "title": "How to apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
@@ -1895,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "browser-use"
     },
     {
@@ -1910,7 +1881,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 665,
       "user": "SigmanticAI"
     },
     {
@@ -1974,7 +1945,7 @@
       "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
       "url": "https://stackoverflow.com/questions/79996973/lightweight-state-management-patterns-for-multi-agent-workflows-without-heavy-fr",
       "published_at": "2026-08-21T05:18:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "best-practices",
         "python",
@@ -2043,20 +2014,17 @@
       "user": "Celdor"
     },
     {
-      "title": "dynamic change of QlineEdit in cursor control",
-      "url": "https://stackoverflow.com/questions/79996905/dynamic-change-of-qlineedit-in-cursor-control",
-      "published_at": "2026-08-20T19:34:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Problems in rendering gif created with ffmpeg",
+      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
+      "published_at": "2026-08-20T12:14:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
-        "python-2.7",
-        "pyqt4",
-        "qgis",
-        "pyqgis"
+        "ffmpeg"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "suji"
+      "user": "Antonino Roccaforte"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2491,7 +2459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "Apeireth"
     },
     {
@@ -2752,6 +2720,20 @@
       "user": "iancarroll"
     },
     {
+      "title": "The road to ACID transactions in Cassandra 6",
+      "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+      "published_at": "2026-08-21T07:08:34.779-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "distributed",
+        "java"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eatonphil"
+    },
+    {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
       "published_at": "2026-08-20T17:00:00.000Z",
@@ -2973,7 +2955,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "Apeireth"
     },
     {
@@ -3031,22 +3013,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "published_at": "2026-08-21T13:05:00.000Z",
-      "description": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "Exclusive",
-        "FBI",
-        "hacking"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     },
     {
       "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
@@ -3217,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "Spielewoy"
     },
     {
@@ -3307,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 674,
       "user": "browser-use"
     },
     {
@@ -3322,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 663,
+      "stars": 665,
       "user": "SigmanticAI"
     },
     {
@@ -3427,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2066,
+      "stars": 2075,
       "user": "CopilotKit"
     },
     {
@@ -3442,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 646,
       "user": "Alain00"
     },
     {
@@ -3457,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "jeremy-prt"
     },
     {
@@ -3502,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 156,
+      "stars": 157,
       "user": "ooolabdev"
     },
     {
@@ -3517,8 +3483,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 67,
+      "stars": 68,
       "user": "Apeireth"
+    },
+    {
+      "title": "furkankly/zoetrope - Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+      "url": "https://github.com/furkankly/zoetrope",
+      "published_at": "2026-08-18T10:48:39Z",
+      "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "furkankly"
     },
     {
       "title": "Boshen/cargo-bsize - Investigate Rust binary size",
@@ -3534,37 +3515,6 @@
       "source": "GitHub",
       "stars": 65,
       "user": "Boshen"
-    },
-    {
-      "title": "AminulBD/ds - GitHub Repository",
-      "url": "https://github.com/AminulBD/ds",
-      "published_at": "2026-08-15T14:26:42Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5006546?v=4",
-      "source": "GitHub",
-      "stars": 63,
-      "user": "AminulBD"
-    },
-    {
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "published_at": "2026-08-21T13:05:00.000Z",
-      "description": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "Exclusive",
-        "FBI",
-        "hacking"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
     }
   ]
 }
