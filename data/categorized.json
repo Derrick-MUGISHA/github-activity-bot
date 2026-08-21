@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1200,
       "user": "cinderline"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "Spielewoy"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 926,
       "user": "Leutenegger"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "wang2122"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "SigmanticAI"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 82,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 58,
       "user": "zachahn"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2778,
+      "stars": 2782,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1701,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "Alain00"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "jeremy-prt"
     },
     {
@@ -806,7 +806,7 @@
       "title": "Advanced tip: Practical Ways AI Can Help Websites Earn Revenue Beyond Traditional Ads and Subscriptions",
       "url": "https://stackoverflow.com/questions/79996949/advanced-tip-practical-ways-ai-can-help-websites-earn-revenue-beyond-traditiona",
       "published_at": "2026-08-21T01:03:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
@@ -1290,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1200,
       "user": "cinderline"
     },
     {
@@ -1305,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 825,
       "user": "vvxw"
     },
     {
@@ -1335,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "Spielewoy"
     },
     {
@@ -1350,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Yousuf-developer"
     },
     {
@@ -1380,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2778,
+      "stars": 2782,
       "user": "yetone"
     },
     {
@@ -1395,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1701,
       "user": "CopilotKit"
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "Alain00"
     },
     {
@@ -1425,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "jeremy-prt"
     },
     {
@@ -1471,6 +1471,20 @@
       "user": "Aurora Lane"
     },
     {
+      "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
+      "url": "https://stackoverflow.com/questions/79996644/stripe-connect-onboarding-works-in-test-mode-but-redirects-to-login-in-live-mode",
+      "published_at": "2026-08-19T21:35:13.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "advice",
+        "javascript",
+        "stripe-payments"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tinox"
+    },
+    {
       "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
       "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
       "published_at": "2026-08-20T07:47:10.000Z",
@@ -1484,20 +1498,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
-    },
-    {
-      "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
-      "url": "https://stackoverflow.com/questions/79996644/stripe-connect-onboarding-works-in-test-mode-but-redirects-to-login-in-live-mode",
-      "published_at": "2026-08-19T21:35:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "advice",
-        "javascript",
-        "stripe-payments"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tinox"
     },
     {
       "title": "Detecting the framework from a signal factory function signature",
@@ -1825,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 926,
       "user": "Leutenegger"
     },
     {
@@ -1855,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "wang2122"
     },
     {
@@ -1870,7 +1870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "SigmanticAI"
     },
     {
@@ -1892,7 +1892,7 @@
       "title": "Advanced tip: Practical Ways AI Can Help Websites Earn Revenue Beyond Traditional Ads and Subscriptions",
       "url": "https://stackoverflow.com/questions/79996949/advanced-tip-practical-ways-ai-can-help-websites-earn-revenue-beyond-traditiona",
       "published_at": "2026-08-21T01:03:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
@@ -2001,19 +2001,6 @@
       "user": "Jeff Ohana"
     },
     {
-      "title": "How to create independent 2D and 3D scenes side by side in Manim?",
-      "url": "https://stackoverflow.com/questions/79996878/how-to-create-independent-2d-and-3d-scenes-side-by-side-in-manim",
-      "published_at": "2026-08-20T17:31:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "manim"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Number_Pi"
-    },
-    {
       "title": "Convert a Numpy code to a Dask Array in order to parallelize the code",
       "url": "https://stackoverflow.com/questions/79996844/convert-a-numpy-code-to-a-dask-array-in-order-to-parallelize-the-code",
       "published_at": "2026-08-20T15:17:49.000Z",
@@ -2027,6 +2014,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loro"
+    },
+    {
+      "title": "Problems in rendering gif created with ffmpeg",
+      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
+      "published_at": "2026-08-20T12:14:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "ffmpeg"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Antonino Roccaforte"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2340,7 +2340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 926,
       "user": "Leutenegger"
     },
     {
@@ -2598,7 +2598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2778,
+      "stars": 2782,
       "user": "yetone"
     },
     {
@@ -3110,7 +3110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1198,
+      "stars": 1200,
       "user": "cinderline"
     },
     {
@@ -3125,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 825,
       "user": "vvxw"
     },
     {
@@ -3155,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 449,
+      "stars": 453,
       "user": "Spielewoy"
     },
     {
@@ -3170,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 380,
+      "stars": 381,
       "user": "Yousuf-developer"
     },
     {
@@ -3185,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 924,
+      "stars": 926,
       "user": "Leutenegger"
     },
     {
@@ -3215,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "wang2122"
     },
     {
@@ -3230,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 630,
       "user": "SigmanticAI"
     },
     {
@@ -3290,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 97,
       "user": "swadhinbiswas"
     },
     {
@@ -3305,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 82,
       "user": "azrtydxb"
     },
     {
@@ -3320,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 58,
       "user": "zachahn"
     },
     {
@@ -3335,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2778,
+      "stars": 2782,
       "user": "yetone"
     },
     {
@@ -3350,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1666,
+      "stars": 1701,
       "user": "CopilotKit"
     },
     {
@@ -3365,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 616,
       "user": "Alain00"
     },
     {
@@ -3380,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "jeremy-prt"
     },
     {
@@ -3410,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 337,
       "user": "iAmCorey"
     },
     {
@@ -3425,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 140,
       "user": "ooolabdev"
     },
     {
