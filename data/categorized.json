@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 503,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "SigmanticAI"
     },
     {
@@ -644,8 +644,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "browser-use"
+    },
+    {
+      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "url": "https://github.com/zachahn/vomit",
+      "published_at": "2026-08-15T05:43:59Z",
+      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "zachahn"
     },
     {
       "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
@@ -663,21 +678,6 @@
       "user": "azrtydxb"
     },
     {
-      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "url": "https://github.com/zachahn/vomit",
-      "published_at": "2026-08-15T05:43:59Z",
-      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "zachahn"
-    },
-    {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "published_at": "2026-08-17T09:13:52Z",
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2833,
+      "stars": 2832,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1911,
+      "stars": 1920,
       "user": "CopilotKit"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "jeremy-prt"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "fufankeji"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "YintaTriss"
     },
     {
@@ -1314,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 927,
       "user": "vvxw"
     },
     {
@@ -1329,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 503,
       "user": "Spielewoy"
     },
     {
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "Yousuf-developer"
     },
     {
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2833,
+      "stars": 2832,
       "user": "yetone"
     },
     {
@@ -1404,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1911,
+      "stars": 1920,
       "user": "CopilotKit"
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "jeremy-prt"
     },
     {
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "fufankeji"
     },
     {
@@ -1510,19 +1510,6 @@
       "user": "tinox"
     },
     {
-      "title": "Detecting the framework from a signal factory function signature",
-      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
-      "published_at": "2026-08-19T17:07:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "angular-signals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ole"
-    },
-    {
       "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
       "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
       "published_at": "2026-08-20T07:47:10.000Z",
@@ -1536,6 +1523,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
+    },
+    {
+      "title": "Detecting the framework from a signal factory function signature",
+      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
+      "published_at": "2026-08-19T17:07:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "angular-signals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ole"
     },
     {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
@@ -1879,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "SigmanticAI"
     },
     {
@@ -1894,14 +1894,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "browser-use"
     },
     {
       "title": "button not running function?",
       "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
       "published_at": "2026-08-21T09:41:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "pyqt",
@@ -2463,7 +2463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "YintaTriss"
     },
     {
@@ -2629,7 +2629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2833,
+      "stars": 2832,
       "user": "yetone"
     },
     {
@@ -2927,7 +2927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "YintaTriss"
     },
     {
@@ -3125,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 927,
       "user": "vvxw"
     },
     {
@@ -3140,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 503,
       "user": "Spielewoy"
     },
     {
@@ -3170,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 394,
       "user": "Yousuf-developer"
     },
     {
@@ -3230,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 652,
       "user": "SigmanticAI"
     },
     {
@@ -3245,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "browser-use"
     },
     {
@@ -3279,6 +3279,21 @@
       "user": "jsongmax"
     },
     {
+      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "url": "https://github.com/zachahn/vomit",
+      "published_at": "2026-08-15T05:43:59Z",
+      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "zachahn"
+    },
+    {
       "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
       "url": "https://github.com/azrtydxb/procoder",
       "published_at": "2026-08-16T07:47:17Z",
@@ -3309,21 +3324,6 @@
       "user": "swadhinbiswas"
     },
     {
-      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "url": "https://github.com/zachahn/vomit",
-      "published_at": "2026-08-15T05:43:59Z",
-      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
-      "source": "GitHub",
-      "stars": 100,
-      "user": "zachahn"
-    },
-    {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "published_at": "2026-08-17T09:13:52Z",
@@ -3335,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2833,
+      "stars": 2832,
       "user": "yetone"
     },
     {
@@ -3350,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1911,
+      "stars": 1920,
       "user": "CopilotKit"
     },
     {
@@ -3380,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 598,
       "user": "jeremy-prt"
     },
     {
@@ -3395,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "fufankeji"
     },
     {
@@ -3410,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "iAmCorey"
     },
     {
@@ -3425,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 150,
       "user": "ooolabdev"
     },
     {
@@ -3470,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "YintaTriss"
     },
     {
