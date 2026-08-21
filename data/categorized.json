@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "Spielewoy"
     },
     {
@@ -633,19 +633,19 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "Leutenegger/coldcard-airgap - Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-      "url": "https://github.com/Leutenegger/coldcard-airgap",
-      "published_at": "2026-08-20T23:14:34Z",
-      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 608,
-      "user": "Leutenegger"
+      "stars": 611,
+      "user": "browser-use"
     },
     {
       "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "zachahn"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2832,
+      "stars": 2833,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1900,
+      "stars": 1911,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "Alain00"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 597,
       "user": "jeremy-prt"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "YintaTriss"
     },
     {
@@ -1314,23 +1314,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 922,
       "user": "vvxw"
-    },
-    {
-      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "published_at": "2026-08-15T06:10:13Z",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "SheberDavid"
     },
     {
       "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
@@ -1344,8 +1329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "Spielewoy"
+    },
+    {
+      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "published_at": "2026-08-15T06:10:13Z",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
+      "source": "GitHub",
+      "stars": 494,
+      "user": "SheberDavid"
     },
     {
       "title": "Yousuf-developer/Viscose-carousel - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
@@ -1359,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "Yousuf-developer"
     },
     {
@@ -1389,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2832,
+      "stars": 2833,
       "user": "yetone"
     },
     {
@@ -1404,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1900,
+      "stars": 1911,
       "user": "CopilotKit"
     },
     {
@@ -1419,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "Alain00"
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 597,
       "user": "jeremy-prt"
     },
     {
@@ -1510,6 +1510,19 @@
       "user": "tinox"
     },
     {
+      "title": "Detecting the framework from a signal factory function signature",
+      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
+      "published_at": "2026-08-19T17:07:51.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "angular-signals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ole"
+    },
+    {
       "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
       "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
       "published_at": "2026-08-20T07:47:10.000Z",
@@ -1523,19 +1536,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
-    },
-    {
-      "title": "Detecting the framework from a signal factory function signature",
-      "url": "https://stackoverflow.com/questions/79996590/detecting-the-framework-from-a-signal-factory-function-signature",
-      "published_at": "2026-08-19T17:07:51.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "angular-signals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ole"
     },
     {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
@@ -1883,25 +1883,25 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "Leutenegger/coldcard-airgap - Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-      "url": "https://github.com/Leutenegger/coldcard-airgap",
-      "published_at": "2026-08-20T23:14:34Z",
-      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 608,
-      "user": "Leutenegger"
+      "stars": 611,
+      "user": "browser-use"
     },
     {
       "title": "button not running function?",
       "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
       "published_at": "2026-08-21T09:41:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pyqt",
@@ -1960,7 +1960,7 @@
       "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
       "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
       "published_at": "2026-08-20T22:40:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "python",
         "python-3.x",
@@ -2463,7 +2463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "YintaTriss"
     },
     {
@@ -2629,7 +2629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2832,
+      "stars": 2833,
       "user": "yetone"
     },
     {
@@ -2927,7 +2927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "YintaTriss"
     },
     {
@@ -2954,20 +2954,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ohrv"
-    },
-    {
-      "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-      "url": "https://www.ethanheilman.com/x/33/index.html",
-      "published_at": "2026-08-20T10:24:43.059-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "cryptography",
-        "security",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "EthanHeilman"
     },
     {
       "title": "Someone targeted security researchers using a fake crypto conference as a lure",
@@ -3139,23 +3125,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 922,
       "user": "vvxw"
-    },
-    {
-      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "published_at": "2026-08-15T06:10:13Z",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "SheberDavid"
     },
     {
       "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
@@ -3169,8 +3140,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 498,
       "user": "Spielewoy"
+    },
+    {
+      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "published_at": "2026-08-15T06:10:13Z",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
+      "source": "GitHub",
+      "stars": 494,
+      "user": "SheberDavid"
     },
     {
       "title": "Yousuf-developer/Viscose-carousel - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
@@ -3184,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 392,
       "user": "Yousuf-developer"
     },
     {
@@ -3248,19 +3234,19 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "Leutenegger/coldcard-airgap - Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
-      "url": "https://github.com/Leutenegger/coldcard-airgap",
-      "published_at": "2026-08-20T23:14:34Z",
-      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "published_at": "2026-08-17T00:22:20Z",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 608,
-      "user": "Leutenegger"
+      "stars": 611,
+      "user": "browser-use"
     },
     {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
@@ -3274,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 366,
       "user": "b-nnett"
     },
     {
@@ -3334,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 100,
       "user": "zachahn"
     },
     {
@@ -3349,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2832,
+      "stars": 2833,
       "user": "yetone"
     },
     {
@@ -3364,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1900,
+      "stars": 1911,
       "user": "CopilotKit"
     },
     {
@@ -3379,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 627,
       "user": "Alain00"
     },
     {
@@ -3394,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 597,
       "user": "jeremy-prt"
     },
     {
@@ -3424,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 370,
+      "stars": 372,
       "user": "iAmCorey"
     },
     {
@@ -3484,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/228516502?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "YintaTriss"
     },
     {
