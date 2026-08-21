@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 584,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "browser-use"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2107,
+      "stars": 2113,
       "user": "CopilotKit"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "Apeireth"
     },
     {
@@ -881,6 +881,21 @@
       "user": "ali.zabetpour"
     },
     {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "published_at": "2026-08-21T23:07:25.000Z",
+      "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "published_at": "2026-08-21T22:37:38.000Z",
@@ -888,6 +903,7 @@
       "tags": [
         "AI",
         "data centers",
+        "In Brief",
         "nvidia",
         "OpenAI"
       ],
@@ -902,7 +918,8 @@
       "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
       "tags": [
         "Startups",
-        "Venture"
+        "Venture",
+        "ERP"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -954,20 +971,20 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-      "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-      "published_at": "2026-08-21T16:53:39.000Z",
-      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investiga",
+      "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
+      "url": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
+      "published_at": "2026-08-21T20:45:13.000Z",
+      "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
       "tags": [
-        "Startups",
-        "Venture",
-        "AI startups",
-        "Andreessen Horowitz",
-        "Anthropic"
+        "design patterns",
+        "Behavioral Design Pattern",
+        "Dart",
+        "Flutter",
+        "chain of responsibility"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     },
     {
       "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
@@ -1075,19 +1092,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "Learn System Design for AI Agents: Build a Production-Ready Multi-Agent PR Reviewer",
-      "url": "https://www.freecodecamp.org/news/learn-system-design-for-ai-agents-build-a-production-ready-multi-agent-pr-reviewer/",
-      "published_at": "2026-08-20T14:00:32.000Z",
-      "description": "Building a basic AI demo with a single completion prompt and simple RAG pipeline is easy, but taking agentic systems into production requires robust system design, reliability engineering, and failure",
-      "tags": [
-        "ai-agent",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1403,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 983,
       "user": "vvxw"
     },
     {
@@ -1418,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 584,
       "user": "Spielewoy"
     },
     {
@@ -1493,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2107,
+      "stars": 2113,
       "user": "CopilotKit"
     },
     {
@@ -1924,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "browser-use"
     },
     {
@@ -2535,8 +2539,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "Apeireth"
+    },
+    {
+      "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
+      "url": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
+      "published_at": "2026-08-21T20:45:13.000Z",
+      "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
+      "tags": [
+        "design patterns",
+        "Behavioral Design Pattern",
+        "Dart",
+        "Flutter",
+        "chain of responsibility"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "Cloud": [
@@ -2987,7 +3007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "Apeireth"
     },
     {
@@ -3156,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 983,
       "user": "vvxw"
     },
     {
@@ -3171,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 584,
       "user": "Spielewoy"
     },
     {
@@ -3261,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 685,
       "user": "browser-use"
     },
     {
@@ -3381,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2107,
+      "stars": 2113,
       "user": "CopilotKit"
     },
     {
@@ -3471,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 97,
       "user": "furkankly"
     },
     {
@@ -3486,23 +3506,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 76,
       "user": "Apeireth"
     },
     {
-      "title": "Boshen/cargo-bsize - Investigate Rust binary size",
-      "url": "https://github.com/Boshen/cargo-bsize",
-      "published_at": "2026-08-16T07:48:20Z",
-      "description": "Investigate Rust binary size",
+      "title": "standardagents/ssh-clipboard - Native encrypted clipboard sync over SSH for macOS and Linux",
+      "url": "https://github.com/standardagents/ssh-clipboard",
+      "published_at": "2026-08-17T19:48:48Z",
+      "description": "Native encrypted clipboard sync over SSH for macOS and Linux",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 65,
-      "user": "Boshen"
+      "stars": 66,
+      "user": "standardagents"
     }
   ]
 }
