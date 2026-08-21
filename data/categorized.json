@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 676,
       "user": "browser-use"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "azrtydxb"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2080,
+      "stars": 2086,
       "user": "CopilotKit"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "Apeireth"
     },
     {
@@ -870,9 +870,8 @@
       "published_at": "2026-08-21T19:57:46.000Z",
       "description": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
       "tags": [
-        "TC",
-        "Hardware",
         "Gadgets",
+        "Hardware",
         "Pebble",
         "smartwatches"
       ],
@@ -909,22 +908,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "published_at": "2026-08-21T14:00:00.000Z",
-      "description": "There's about to be a big fight to secure access to space.",
-      "tags": [
-        "AI",
-        "Space",
-        "Startups",
-        "Exclusive",
-        "orbital data centers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
@@ -1342,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "Spielewoy"
     },
     {
@@ -1417,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2080,
+      "stars": 2086,
       "user": "CopilotKit"
     },
     {
@@ -1497,7 +1480,7 @@
       "title": "How do I make the website know when I clicked the click",
       "url": "https://stackoverflow.com/questions/79997090/how-do-i-make-the-website-know-when-i-clicked-the-click",
       "published_at": "2026-08-21T12:35:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
+      "description": "Stack Overflow question · 0 answers · score -14",
       "tags": [
         "javascript",
         "html"
@@ -1535,6 +1518,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Y K"
+    },
+    {
+      "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
+      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
+      "published_at": "2026-08-18T13:29:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe J"
     },
     {
       "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
@@ -1593,22 +1589,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
-    },
-    {
-      "title": "How to reset ContentControl.Color to default?",
-      "url": "https://stackoverflow.com/questions/79990355/how-to-reset-contentcontrol-color-to-default",
-      "published_at": "2026-08-04T10:26:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "ms-word",
-        "office-js",
-        "word-addins"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Burned"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1880,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 676,
       "user": "browser-use"
     },
     {
@@ -1926,6 +1906,21 @@
       "user": "samrad Tangestani"
     },
     {
+      "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
+      "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
+      "published_at": "2026-08-20T22:40:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright",
+        "python-attrs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Request failed in Django but succeeds when I run script standalone",
       "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
       "published_at": "2026-08-21T08:24:15.000Z",
@@ -1969,22 +1964,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Siddiq Ahmad"
-    },
-    {
-      "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
-      "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
-      "published_at": "2026-08-20T22:40:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "python-3.x",
-        "python-typing",
-        "pylance",
-        "python-attrs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
@@ -2358,7 +2337,7 @@
       "title": "How do I make the website know when I clicked the click",
       "url": "https://stackoverflow.com/questions/79997090/how-do-i-make-the-website-know-when-i-clicked-the-click",
       "published_at": "2026-08-21T12:35:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
+      "description": "Stack Overflow question · 0 answers · score -14",
       "tags": [
         "javascript",
         "html"
@@ -2382,6 +2361,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Y K"
+    },
+    {
+      "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
+      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
+      "published_at": "2026-08-18T13:29:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joe J"
     },
     {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
@@ -2473,7 +2465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "Apeireth"
     },
     {
@@ -2643,6 +2635,22 @@
       "user": "yetone"
     },
     {
+      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "published_at": "2026-08-21T20:25:21.000Z",
+      "description": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Social",
+        "bytedance",
+        "children's privacy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
       "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
       "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
       "published_at": "2026-08-21T14:39:24.000Z",
@@ -2657,22 +2665,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "published_at": "2026-08-21T14:00:00.000Z",
-      "description": "There's about to be a big fight to secure access to space.",
-      "tags": [
-        "AI",
-        "Space",
-        "Startups",
-        "Exclusive",
-        "orbital data centers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
@@ -2955,7 +2947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "Apeireth"
     },
     {
@@ -3155,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 577,
       "user": "Spielewoy"
     },
     {
@@ -3245,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 676,
       "user": "browser-use"
     },
     {
@@ -3305,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "azrtydxb"
     },
     {
@@ -3365,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2080,
+      "stars": 2086,
       "user": "CopilotKit"
     },
     {
@@ -3425,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 400,
       "user": "iAmCorey"
     },
     {
@@ -3455,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 75,
       "user": "furkankly"
     },
     {
@@ -3470,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "Apeireth"
     },
     {
