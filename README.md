@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63) | Dev.to |
 | 20 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 
-<sub>Last fetched: Fri, 21 Aug 2026 18:16:53 CAT</sub>
+<sub>Last fetched: Fri, 21 Aug 2026 18:57:42 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — How would you optimize a React app's performance?**
+**1. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Hash function, database design, caching, analytics
 
 </details>
 
-**2. `React` — Explain the difference between state and props**
+**2. `NodeJS` — Explain middleware in Express.js**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 express, architecture
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> Request/response cycle, next(), chain of functions
 
 </details>
 
-**3. `DataStructures` — Find the longest substring without repeating characters**
+**3. `JavaScript` — Implement a debounce function from scratch**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 functions, timing
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> setTimeout, clearTimeout, wrapper function
 
 </details>
 
@@ -194,21 +194,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 29.2%
-Go              ███████████████████████ 22.1%
-Java            ███████████████████████ 22.1%
-Python          ████████████████████ 19.5%
+JavaScript      ██████████████████████████████ 29.4%
+Java            ███████████████████████ 22.2%
+Go              ██████████████████████ 21.6%
+Python          ████████████████████ 19.6%
 Rust            █████ 5.2%
 Swift           █ 1.3%
-CSharp          █ 0.6%
+CSharp          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 45
-    "Go" : 34
     "Java" : 34
+    "Go" : 33
     "Python" : 30
     "Rust" : 8
     "Swift" : 2
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 21 Aug 2026 16:16:53 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 21 Aug 2026 16:57:42 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
