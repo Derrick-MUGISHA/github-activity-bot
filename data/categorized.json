@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 456,
       "user": "Spielewoy"
     },
     {
@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 681,
       "user": "wang2122"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "SigmanticAI"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "azrtydxb"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 66,
       "user": "zachahn"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2782,
+      "stars": 2788,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1701,
+      "stars": 1724,
       "user": "CopilotKit"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "jeremy-prt"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 415,
       "user": "fufankeji"
     },
     {
@@ -801,6 +801,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nishantjosh"
+    },
+    {
+      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
+      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
+      "published_at": "2026-08-21T03:25:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "background-image",
+        "pseudo-element",
+        "elementor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Y K"
     },
     {
       "title": "Advanced tip: Practical Ways AI Can Help Websites Earn Revenue Beyond Traditional Ads and Subscriptions",
@@ -1305,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "vvxw"
     },
     {
@@ -1335,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 456,
       "user": "Spielewoy"
     },
     {
@@ -1380,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2782,
+      "stars": 2788,
       "user": "yetone"
     },
     {
@@ -1395,7 +1411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1701,
+      "stars": 1724,
       "user": "CopilotKit"
     },
     {
@@ -1425,7 +1441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "jeremy-prt"
     },
     {
@@ -1440,7 +1456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 415,
       "user": "fufankeji"
     },
     {
@@ -1455,6 +1471,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "simonw"
+    },
+    {
+      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
+      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
+      "published_at": "2026-08-21T03:25:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "background-image",
+        "pseudo-element",
+        "elementor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Y K"
     },
     {
       "title": "How do I get a random element from an array in a JSON file?",
@@ -1583,22 +1615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "heretoinfinity"
-    },
-    {
-      "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
-      "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
-      "published_at": "2026-08-19T06:47:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-apps-script",
-        "google-cloud-platform",
-        "chatbot",
-        "google-workspace"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lucas Sousa"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1855,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 681,
       "user": "wang2122"
     },
     {
@@ -1870,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "SigmanticAI"
     },
     {
@@ -2344,6 +2360,22 @@
       "user": "Leutenegger"
     },
     {
+      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
+      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
+      "published_at": "2026-08-21T03:25:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "background-image",
+        "pseudo-element",
+        "elementor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Y K"
+    },
+    {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
       "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
       "published_at": "2026-08-19T20:13:03.000Z",
@@ -2598,24 +2630,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2782,
+      "stars": 2788,
       "user": "yetone"
-    },
-    {
-      "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
-      "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
-      "published_at": "2026-08-19T06:47:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-apps-script",
-        "google-cloud-platform",
-        "chatbot",
-        "google-workspace"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lucas Sousa"
     },
     {
       "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
@@ -2940,22 +2956,6 @@
       "user": "EthanHeilman"
     },
     {
-      "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
-      "url": "https://stackoverflow.com/questions/79996401/google-chat-api-apps-script-cant-handle-the-apps-response-error-when-click",
-      "published_at": "2026-08-19T06:47:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-apps-script",
-        "google-cloud-platform",
-        "chatbot",
-        "google-workspace"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lucas Sousa"
-    },
-    {
       "title": "Someone targeted security researchers using a fake crypto conference as a lure",
       "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
       "published_at": "2026-08-20T20:00:00.000Z",
@@ -3125,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 835,
       "user": "vvxw"
     },
     {
@@ -3155,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 456,
       "user": "Spielewoy"
     },
     {
@@ -3215,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 681,
       "user": "wang2122"
     },
     {
@@ -3230,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 633,
       "user": "SigmanticAI"
     },
     {
@@ -3305,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "azrtydxb"
     },
     {
@@ -3320,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 66,
       "user": "zachahn"
     },
     {
@@ -3335,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2782,
+      "stars": 2788,
       "user": "yetone"
     },
     {
@@ -3350,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1701,
+      "stars": 1724,
       "user": "CopilotKit"
     },
     {
@@ -3380,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "jeremy-prt"
     },
     {
@@ -3395,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 415,
       "user": "fufankeji"
     },
     {
@@ -3410,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 343,
       "user": "iAmCorey"
     },
     {
@@ -3425,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "ooolabdev"
     },
     {
@@ -3455,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "Boshen"
     },
     {
