@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 678,
       "user": "browser-use"
     },
     {
@@ -644,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 666,
       "user": "SigmanticAI"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2086,
+      "stars": 2091,
       "user": "CopilotKit"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "jeremy-prt"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "Apeireth"
     },
     {
@@ -792,8 +792,8 @@
       "user": "pushcx"
     },
     {
-      "title": "How to apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
-      "url": "https://stackoverflow.com/questions/79997160/how-to-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-js-o",
+      "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
+      "url": "https://stackoverflow.com/questions/79997160/how-can-i-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-j",
       "published_at": "2026-08-21T17:43:55.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
@@ -865,6 +865,21 @@
       "user": "ali.zabetpour"
     },
     {
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "published_at": "2026-08-21T20:58:07.000Z",
+      "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+      "tags": [
+        "Hardware",
+        "AI",
+        "Apple",
+        "vision pro"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
       "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
       "published_at": "2026-08-21T19:57:46.000Z",
@@ -886,8 +901,8 @@
       "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
       "tags": [
         "AI",
-        "Exclusive",
-        "nvidia"
+        "nvidia",
+        "Exclusive"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -908,6 +923,68 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
+      "url": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
+      "published_at": "2026-08-21T17:19:14.000Z",
+      "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
+      "tags": [
+        "software architecture",
+        "Artificial Intelligence",
+        "legacy code",
+        "refactoring",
+        "Software Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
+    },
+    {
+      "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
+      "url": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
+      "published_at": "2026-08-21T16:47:39.000Z",
+      "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
+      "tags": [
+        "Kubernetes",
+        "networking",
+        "debugging",
+        "containers"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
+    },
+    {
+      "title": "How Sensors Collect, Process, and Track Data in Wearable Devices",
+      "url": "https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/",
+      "published_at": "2026-08-21T16:33:34.000Z",
+      "description": "A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b",
+      "tags": [
+        "Wearables",
+        "sensors",
+        "iot",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
+    },
+    {
+      "title": "The Sanitizers Handbook: Memory, Initialization, and Races",
+      "url": "https://www.freecodecamp.org/news/the-sanitizers-handbook/",
+      "published_at": "2026-08-21T16:28:13.000Z",
+      "description": "Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T",
+      "tags": [
+        "Systems Programming",
+        "Dart",
+        "memory-management",
+        "debugging",
+        "LLVM"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hamdaan Ali"
     },
     {
       "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
@@ -966,35 +1043,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Building a Reinforcement Learning Framework from Scratch in Pure C",
-      "url": "https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/",
-      "published_at": "2026-08-19T14:24:07.000Z",
-      "description": "High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the",
-      "tags": [
-        "Reinforcement Learning",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
-      "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
-      "published_at": "2026-08-18T16:52:51.000Z",
-      "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
-      "tags": [
-        "Next.js",
-        "Vercel",
-        "image optimization",
-        "CDN",
-        "cloudflare"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Md. Fahim Bin Amin"
     }
   ],
   "JavaScript": [
@@ -1325,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "Spielewoy"
     },
     {
@@ -1400,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2086,
+      "stars": 2091,
       "user": "CopilotKit"
     },
     {
@@ -1430,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "jeremy-prt"
     },
     {
@@ -1449,8 +1497,8 @@
       "user": "fufankeji"
     },
     {
-      "title": "How to apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
-      "url": "https://stackoverflow.com/questions/79997160/how-to-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-js-o",
+      "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
+      "url": "https://stackoverflow.com/questions/79997160/how-can-i-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-j",
       "published_at": "2026-08-21T17:43:55.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
@@ -1589,38 +1637,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
-    },
-    {
-      "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
-      "url": "https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/",
-      "published_at": "2026-08-18T21:45:12.000Z",
-      "description": "React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc",
-      "tags": [
-        "react js",
-        "performance",
-        "JavaScript",
-        "canvas",
-        "realtime"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vineeth Pawar"
-    },
-    {
-      "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
-      "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
-      "published_at": "2026-08-18T16:52:51.000Z",
-      "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
-      "tags": [
-        "Next.js",
-        "Vercel",
-        "image optimization",
-        "CDN",
-        "cloudflare"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Md. Fahim Bin Amin"
     }
   ],
   "Python": [
@@ -1860,7 +1876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 678,
       "user": "browser-use"
     },
     {
@@ -1875,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 666,
       "user": "SigmanticAI"
     },
     {
@@ -2186,6 +2202,37 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
+      "url": "https://www.freecodecamp.org/news/how-to-host-odoo/",
+      "published_at": "2026-08-21T17:21:22.000Z",
+      "description": "Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources",
+      "tags": [
+        "Odoo",
+        "self-hosted",
+        "Devops",
+        "Linux",
+        "Open Source"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Abdul Talha"
+    },
+    {
+      "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
+      "url": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
+      "published_at": "2026-08-21T16:47:39.000Z",
+      "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
+      "tags": [
+        "Kubernetes",
+        "networking",
+        "debugging",
+        "containers"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ayobami Adejumo"
     }
   ],
   "WebDev": [
@@ -2320,8 +2367,8 @@
       "user": "Leutenegger"
     },
     {
-      "title": "How to apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
-      "url": "https://stackoverflow.com/questions/79997160/how-to-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-js-o",
+      "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
+      "url": "https://stackoverflow.com/questions/79997160/how-can-i-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-j",
       "published_at": "2026-08-21T17:43:55.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
@@ -2390,21 +2437,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Noah Bergh"
-    },
-    {
-      "title": "How to Build More Accessible Websites with WCAG 2.2",
-      "url": "https://www.freecodecamp.org/news/how-to-build-more-accessible-websites-with-wcag-2-2/",
-      "published_at": "2026-08-18T16:33:33.000Z",
-      "description": "A website can look polished, work perfectly with a mouse, and still be difficult for some people to use. A form might use colour as the only indication that something went wrong. A sticky header might",
-      "tags": [
-        "Accessibility",
-        "#WCAG",
-        "wcag compliance",
-        "Web Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Aiyedogbon Abraham"
     }
   ],
   "Mobile": [
@@ -2465,22 +2497,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "Apeireth"
-    },
-    {
-      "title": "How to Work with Material and Cupertino Decoupling in Flutter [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-work-with-material-and-cupertino-decoupling-in-flutter-full-handbook/",
-      "published_at": "2026-08-18T16:05:44.000Z",
-      "description": "Earlier this year, I published Decoupling Material and Cupertino in Flutter, which covered what was then a preview feature: Flutter's plan to separate the Material and Cupertino design libraries from",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "flutter-aware"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Atuoha Anthony"
     }
   ],
   "Cloud": [
@@ -2679,22 +2697,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Manish Shivanandhan"
-    },
-    {
-      "title": "What to Do if Your Site Is About to Hit Vercel's Free Image Optimization Cap",
-      "url": "https://www.freecodecamp.org/news/what-to-do-if-your-site-is-about-to-hit-vercels-free-image-optimization-cap/",
-      "published_at": "2026-08-18T16:52:51.000Z",
-      "description": "I maintain my own website, and every now and then I upgrade the site to a new version. And I frequently experiment with different technologies and architectures while doing so. Recently, I faced an is",
-      "tags": [
-        "Next.js",
-        "Vercel",
-        "image optimization",
-        "CDN",
-        "cloudflare"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Md. Fahim Bin Amin"
     }
   ],
   "Database": [
@@ -2724,6 +2726,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
+      "url": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
+      "published_at": "2026-08-21T17:19:14.000Z",
+      "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
+      "tags": [
+        "software architecture",
+        "Artificial Intelligence",
+        "legacy code",
+        "refactoring",
+        "Software Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Hugo Teijiz"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2947,7 +2965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "Apeireth"
     },
     {
@@ -3147,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 578,
       "user": "Spielewoy"
     },
     {
@@ -3237,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 676,
+      "stars": 678,
       "user": "browser-use"
     },
     {
@@ -3252,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 666,
       "user": "SigmanticAI"
     },
     {
@@ -3357,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2086,
+      "stars": 2091,
       "user": "CopilotKit"
     },
     {
@@ -3387,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 611,
       "user": "jeremy-prt"
     },
     {
@@ -3417,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 401,
       "user": "iAmCorey"
     },
     {
@@ -3447,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 79,
       "user": "furkankly"
     },
     {
@@ -3462,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 70,
       "user": "Apeireth"
     },
     {
