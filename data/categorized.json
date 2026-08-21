@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 680,
       "user": "browser-use"
     },
     {
@@ -648,6 +648,21 @@
       "user": "SigmanticAI"
     },
     {
+      "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+      "url": "https://github.com/azrtydxb/procoder",
+      "published_at": "2026-08-16T07:47:17Z",
+      "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "azrtydxb"
+    },
+    {
       "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
       "url": "https://github.com/zachahn/vomit",
       "published_at": "2026-08-15T05:43:59Z",
@@ -661,21 +676,6 @@
       "source": "GitHub",
       "stars": 125,
       "user": "zachahn"
-    },
-    {
-      "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
-      "url": "https://github.com/azrtydxb/procoder",
-      "published_at": "2026-08-16T07:47:17Z",
-      "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
-      "source": "GitHub",
-      "stars": 124,
-      "user": "azrtydxb"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2091,
+      "stars": 2097,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "Alain00"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "Apeireth"
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2091,
+      "stars": 2097,
       "user": "CopilotKit"
     },
     {
@@ -1463,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "Alain00"
     },
     {
@@ -1495,6 +1495,22 @@
       "source": "GitHub",
       "stars": 433,
       "user": "fufankeji"
+    },
+    {
+      "title": "Unable to generate audio element on an HTML page using JavaScript",
+      "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
+      "published_at": "2026-08-21T21:04:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "dynamic",
+        "html5-audio",
+        "audio-player"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nomad1004"
     },
     {
       "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
@@ -1541,7 +1557,7 @@
       "title": "How do I get a random element from an array in a JSON file?",
       "url": "https://stackoverflow.com/questions/79996936/how-do-i-get-a-random-element-from-an-array-in-a-json-file",
       "published_at": "2026-08-20T23:54:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "arrays",
@@ -1622,21 +1638,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ole"
-    },
-    {
-      "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
-      "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
-      "published_at": "2026-08-20T07:47:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "typescript",
-        "vercel",
-        "hono"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAW Dev"
     }
   ],
   "Python": [
@@ -1876,7 +1877,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 680,
       "user": "browser-use"
     },
     {
@@ -1937,21 +1938,6 @@
       "user": "JadenV15"
     },
     {
-      "title": "Request failed in Django but succeeds when I run script standalone",
-      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
-      "published_at": "2026-08-21T08:24:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "django",
-        "python-requests",
-        "steam"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali.zabetpour"
-    },
-    {
       "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
       "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
       "published_at": "2026-08-20T17:32:00.000Z",
@@ -1965,6 +1951,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "Request failed in Django but succeeds when I run script standalone",
+      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
+      "published_at": "2026-08-21T08:24:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "django",
+        "python-requests",
+        "steam"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ali.zabetpour"
     },
     {
       "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
@@ -2367,6 +2368,22 @@
       "user": "Leutenegger"
     },
     {
+      "title": "Unable to generate audio element on an HTML page using JavaScript",
+      "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
+      "published_at": "2026-08-21T21:04:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "dynamic",
+        "html5-audio",
+        "audio-player"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nomad1004"
+    },
+    {
       "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
       "url": "https://stackoverflow.com/questions/79997160/how-can-i-apply-custom-syntax-highlighting-colors-to-codemirror-to-match-prism-j",
       "published_at": "2026-08-21T17:43:55.000Z",
@@ -2497,7 +2514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "Apeireth"
     }
   ],
@@ -2965,7 +2982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "Apeireth"
     },
     {
@@ -3255,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 680,
       "user": "browser-use"
     },
     {
@@ -3289,6 +3306,21 @@
       "user": "b-nnett"
     },
     {
+      "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+      "url": "https://github.com/azrtydxb/procoder",
+      "published_at": "2026-08-16T07:47:17Z",
+      "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
+      "source": "GitHub",
+      "stars": 125,
+      "user": "azrtydxb"
+    },
+    {
       "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
       "url": "https://github.com/zachahn/vomit",
       "published_at": "2026-08-15T05:43:59Z",
@@ -3302,21 +3334,6 @@
       "source": "GitHub",
       "stars": 125,
       "user": "zachahn"
-    },
-    {
-      "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
-      "url": "https://github.com/azrtydxb/procoder",
-      "published_at": "2026-08-16T07:47:17Z",
-      "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
-      "source": "GitHub",
-      "stars": 124,
-      "user": "azrtydxb"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -3375,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2091,
+      "stars": 2097,
       "user": "CopilotKit"
     },
     {
@@ -3390,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "Alain00"
     },
     {
@@ -3465,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 79,
+      "stars": 83,
       "user": "furkankly"
     },
     {
@@ -3480,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 70,
+      "stars": 72,
       "user": "Apeireth"
     },
     {
