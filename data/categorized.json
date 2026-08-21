@@ -121,20 +121,6 @@
       "user": "Sarvar Nadaf"
     },
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -148,6 +134,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Looker's Native MCP Server with Claude Code",
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 449,
       "user": "Spielewoy"
     },
     {
@@ -648,21 +648,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 569,
-      "user": "browser-use"
-    },
-    {
       "title": "azrtydxb/procoder - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
       "url": "https://github.com/azrtydxb/procoder",
       "published_at": "2026-08-16T07:47:17Z",
@@ -674,23 +659,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 76,
       "user": "azrtydxb"
     },
     {
-      "title": "n0bele/AntiAIMark - Removing AI watermarks from text, images, and audio/video files.",
-      "url": "https://github.com/n0bele/AntiAIMark",
-      "published_at": "2026-08-15T18:36:19Z",
-      "description": "Removing AI watermarks from text, images, and audio/video files.",
+      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "url": "https://github.com/zachahn/vomit",
+      "published_at": "2026-08-15T05:43:59Z",
+      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 53,
-      "user": "n0bele"
+      "stars": 54,
+      "user": "zachahn"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -704,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2778,
       "user": "yetone"
     },
     {
@@ -719,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1608,
+      "stars": 1666,
       "user": "CopilotKit"
     },
     {
@@ -734,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 615,
       "user": "Alain00"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 578,
       "user": "jeremy-prt"
     },
     {
@@ -764,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 414,
       "user": "fufankeji"
     },
     {
@@ -816,6 +801,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nishantjosh"
+    },
+    {
+      "title": "Advanced tip: Practical Ways AI Can Help Websites Earn Revenue Beyond Traditional Ads and Subscriptions",
+      "url": "https://stackoverflow.com/questions/79996949/advanced-tip-practical-ways-ai-can-help-websites-earn-revenue-beyond-traditiona",
+      "published_at": "2026-08-21T01:03:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874482"
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "published_at": "2026-08-21T00:13:44.000Z",
+      "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "tags": [
+        "AI",
+        "Startups",
+        "data labeling",
+        "micro1",
+        "reinforcement learning"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
@@ -890,37 +903,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "published_at": "2026-08-20T19:15:05.000Z",
-      "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Startups",
-        "Rippling"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-      "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-      "published_at": "2026-08-20T19:01:41.000Z",
-      "description": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "castelion",
-        "defense tech",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
@@ -1323,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 808,
       "user": "vvxw"
     },
     {
@@ -1353,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 449,
       "user": "Spielewoy"
     },
     {
@@ -1398,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2778,
       "user": "yetone"
     },
     {
@@ -1413,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1608,
+      "stars": 1666,
       "user": "CopilotKit"
     },
     {
@@ -1428,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 615,
       "user": "Alain00"
     },
     {
@@ -1443,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 578,
       "user": "jeremy-prt"
     },
     {
@@ -1458,7 +1440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 414,
       "user": "fufankeji"
     },
     {
@@ -1473,6 +1455,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "simonw"
+    },
+    {
+      "title": "How do I get a random element from an array in a JSON file?",
+      "url": "https://stackoverflow.com/questions/79996936/how-do-i-get-a-random-element-from-an-array-in-a-json-file",
+      "published_at": "2026-08-20T23:54:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "arrays",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aurora Lane"
     },
     {
       "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
@@ -1561,20 +1557,6 @@
       "user": "user107968"
     },
     {
-      "title": "How to include type when renaming a property during object destructuring?",
-      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
-      "published_at": "2026-08-19T18:00:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "typescript",
-        "destructuring"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "heretoinfinity"
-    },
-    {
       "title": "Why does mySQL select query work on my database but not in code editor",
       "url": "https://stackoverflow.com/questions/79996534/why-does-mysql-select-query-work-on-my-database-but-not-in-code-editor",
       "published_at": "2026-08-19T13:59:39.000Z",
@@ -1587,6 +1569,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "learning&#39;s_a_process"
+    },
+    {
+      "title": "How to include type when renaming a property during object destructuring?",
+      "url": "https://stackoverflow.com/questions/79996602/how-to-include-type-when-renaming-a-property-during-object-destructuring",
+      "published_at": "2026-08-19T18:00:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "typescript",
+        "destructuring"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "heretoinfinity"
     },
     {
       "title": "Google Chat API + Apps Script \"Can't handle the app's response\" error when clicking a card button (Web App / OAuth2)",
@@ -1603,19 +1599,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lucas Sousa"
-    },
-    {
-      "title": "How to delete an item from array only on the second click on the same element in React?",
-      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
-      "published_at": "2026-08-18T07:21:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user22414499"
     },
     {
       "title": "High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas",
@@ -1846,6 +1829,21 @@
       "user": "Leutenegger"
     },
     {
+      "title": "Leutenegger/vanity-eth - Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "url": "https://github.com/Leutenegger/vanity-eth",
+      "published_at": "2026-08-21T00:42:33Z",
+      "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 801,
+      "user": "Leutenegger"
+    },
+    {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "published_at": "2026-08-18T04:08:11Z",
@@ -1891,19 +1889,31 @@
       "user": "Leutenegger"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "title": "Advanced tip: Practical Ways AI Can Help Websites Earn Revenue Beyond Traditional Ads and Subscriptions",
+      "url": "https://stackoverflow.com/questions/79996949/advanced-tip-practical-ways-ai-can-help-websites-earn-revenue-beyond-traditiona",
+      "published_at": "2026-08-21T01:03:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user32874482"
+    },
+    {
+      "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
+      "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
+      "published_at": "2026-08-20T20:28:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
-        "github",
-        "open-source"
+        "pandas",
+        "nan",
+        "read-csv"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 569,
-      "user": "browser-use"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "maab"
     },
     {
       "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
@@ -1920,21 +1930,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
-      "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
-      "published_at": "2026-08-20T20:28:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "pandas",
-        "nan",
-        "read-csv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "maab"
     },
     {
       "title": "How do I move the turtle sprite in python",
@@ -1993,19 +1988,6 @@
       "user": "suji"
     },
     {
-      "title": "How to create independent 2D and 3D scenes side by side in Manim?",
-      "url": "https://stackoverflow.com/questions/79996878/how-to-create-independent-2d-and-3d-scenes-side-by-side-in-manim",
-      "published_at": "2026-08-20T17:31:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "manim"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Number_Pi"
-    },
-    {
       "title": "Tensorflow Errors",
       "url": "https://stackoverflow.com/questions/79996809/tensorflow-errors",
       "published_at": "2026-08-20T13:10:30.000Z",
@@ -2017,6 +1999,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeff Ohana"
+    },
+    {
+      "title": "How to create independent 2D and 3D scenes side by side in Manim?",
+      "url": "https://stackoverflow.com/questions/79996878/how-to-create-independent-2d-and-3d-scenes-side-by-side-in-manim",
+      "published_at": "2026-08-20T17:31:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "manim"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Number_Pi"
     },
     {
       "title": "Convert a Numpy code to a Dask Array in order to parallelize the code",
@@ -2032,19 +2027,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loro"
-    },
-    {
-      "title": "Problems in rendering gif created with ffmpeg",
-      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
-      "published_at": "2026-08-20T12:14:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "ffmpeg"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Antonino Roccaforte"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2362,18 +2344,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "published_at": "2026-08-19T05:55:29.500-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "abhin4v"
-    },
-    {
       "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
       "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
       "published_at": "2026-08-19T20:13:03.000Z",
@@ -2628,7 +2598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2778,
       "user": "yetone"
     },
     {
@@ -2646,21 +2616,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lucas Sousa"
-    },
-    {
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "published_at": "2026-08-20T19:15:05.000Z",
-      "description": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Startups",
-        "Rippling"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
@@ -3170,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 808,
       "user": "vvxw"
     },
     {
@@ -3200,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 449,
       "user": "Spielewoy"
     },
     {
@@ -3231,6 +3186,21 @@
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
       "stars": 924,
+      "user": "Leutenegger"
+    },
+    {
+      "title": "Leutenegger/vanity-eth - Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "url": "https://github.com/Leutenegger/vanity-eth",
+      "published_at": "2026-08-21T00:42:33Z",
+      "description": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
+      "source": "GitHub",
+      "stars": 801,
       "user": "Leutenegger"
     },
     {
@@ -3279,21 +3249,6 @@
       "user": "Leutenegger"
     },
     {
-      "title": "browser-use/macos-harness - The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "published_at": "2026-08-17T00:22:20Z",
-      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
-      "source": "GitHub",
-      "stars": 569,
-      "user": "browser-use"
-    },
-    {
       "title": "b-nnett/codex-subscription-router - GitHub Repository",
       "url": "https://github.com/b-nnett/codex-subscription-router",
       "published_at": "2026-08-16T09:35:21Z",
@@ -3305,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 364,
       "user": "b-nnett"
     },
     {
@@ -3335,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
       "source": "GitHub",
-      "stars": 93,
+      "stars": 95,
       "user": "swadhinbiswas"
     },
     {
@@ -3350,23 +3305,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 76,
       "user": "azrtydxb"
     },
     {
-      "title": "n0bele/AntiAIMark - Removing AI watermarks from text, images, and audio/video files.",
-      "url": "https://github.com/n0bele/AntiAIMark",
-      "published_at": "2026-08-15T18:36:19Z",
-      "description": "Removing AI watermarks from text, images, and audio/video files.",
+      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "url": "https://github.com/zachahn/vomit",
+      "published_at": "2026-08-15T05:43:59Z",
+      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6212372?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
       "source": "GitHub",
-      "stars": 53,
-      "user": "n0bele"
+      "stars": 54,
+      "user": "zachahn"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -3380,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2774,
+      "stars": 2778,
       "user": "yetone"
     },
     {
@@ -3395,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 1608,
+      "stars": 1666,
       "user": "CopilotKit"
     },
     {
@@ -3410,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 615,
       "user": "Alain00"
     },
     {
@@ -3425,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 578,
       "user": "jeremy-prt"
     },
     {
@@ -3440,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 414,
       "user": "fufankeji"
     },
     {
@@ -3455,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 332,
       "user": "iAmCorey"
     },
     {
@@ -3470,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 137,
       "user": "ooolabdev"
     },
     {
@@ -3500,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 61,
       "user": "Boshen"
     },
     {
