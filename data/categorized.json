@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 623,
       "user": "Spielewoy"
     },
     {
@@ -659,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "azrtydxb"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2882,
+      "stars": 2883,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2187,
+      "stars": 2194,
       "user": "CopilotKit"
     },
     {
@@ -740,7 +740,7 @@
       "published_at": "2026-08-21T12:23:02.886-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai"
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -794,7 +794,7 @@
       "title": "Run an async function weekly at a specific time",
       "url": "https://stackoverflow.com/questions/79997198/run-an-async-function-weekly-at-a-specific-time",
       "published_at": "2026-08-21T21:57:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "datetime",
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1039,
       "user": "vvxw"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 623,
       "user": "Spielewoy"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 413,
       "user": "MeteorNOX"
     },
     {
@@ -1465,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2882,
+      "stars": 2883,
       "user": "yetone"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2187,
+      "stars": 2194,
       "user": "CopilotKit"
     },
     {
@@ -1943,10 +1943,25 @@
       "user": "SigmanticAI"
     },
     {
+      "title": "An unresolved reference after import streams",
+      "url": "https://stackoverflow.com/questions/79997255/an-unresolved-reference-after-import-streams",
+      "published_at": "2026-08-22T06:59:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "import",
+        "stdin",
+        "sys"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "alekscooper"
+    },
+    {
       "title": "Run an async function weekly at a specific time",
       "url": "https://stackoverflow.com/questions/79997198/run-an-async-function-weekly-at-a-specific-time",
       "published_at": "2026-08-21T21:57:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "datetime",
@@ -2049,7 +2064,7 @@
       "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
       "url": "https://stackoverflow.com/questions/79996973/lightweight-state-management-patterns-for-multi-agent-workflows-without-heavy-fr",
       "published_at": "2026-08-21T05:18:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "python",
@@ -2073,18 +2088,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Wyatt"
-    },
-    {
-      "title": "Updating one of Python's previous versions to its latest version for bug fixes",
-      "url": "https://stackoverflow.com/questions/79996866/updating-one-of-pythons-previous-versions-to-its-latest-version-for-bug-fixes",
-      "published_at": "2026-08-20T16:45:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Celdor"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2717,7 +2720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2882,
+      "stars": 2883,
       "user": "yetone"
     },
     {
@@ -3201,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1039,
       "user": "vvxw"
     },
     {
@@ -3216,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 614,
+      "stars": 623,
       "user": "Spielewoy"
     },
     {
@@ -3231,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 413,
       "user": "MeteorNOX"
     },
     {
@@ -3351,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 135,
       "user": "azrtydxb"
     },
     {
@@ -3411,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2882,
+      "stars": 2883,
       "user": "yetone"
     },
     {
@@ -3426,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2187,
+      "stars": 2194,
       "user": "CopilotKit"
     },
     {
@@ -3486,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 426,
       "user": "iAmCorey"
     },
     {
@@ -3501,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 131,
       "user": "furkankly"
     },
     {
@@ -3516,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 96,
+      "stars": 98,
       "user": "standardagents"
     },
     {
