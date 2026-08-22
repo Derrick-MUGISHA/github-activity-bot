@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Sat, 22 Aug 2026 17:01:11 CAT</sub>
+<sub>Last fetched: Sat, 22 Aug 2026 17:32:45 CAT</sub>
 
 
 ---
@@ -122,18 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the longest substring without repeating characters**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Sliding window, hash map, two pointers
-
-</details>
-
-**2. `DataStructures` — Implement LRU Cache**
+**1. `DataStructures` — Implement LRU Cache**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
@@ -144,14 +133,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 </details>
 
-**3. `NodeJS` — Implement rate limiting for an API**
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> Schema, scalability, ACID vs BASE
+
+</details>
+
+**3. `Database` — What is the difference between SQL and NoSQL databases?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -164,8 +164,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 40.8% | `████████████████████` |
-| **JavaScript** | 43 | 23.4% | `███████████░░░░░░░░░` |
+| **AI** | 74 | 40.2% | `████████████████████` |
+| **JavaScript** | 43 | 23.4% | `████████████░░░░░░░░` |
 | **Tools** | 34 | 18.5% | `█████████░░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-32-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-32-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-14-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-8-0969da?style=flat-square) ![bugsmash](https://img.shields.io/badge/bugsmash-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 22 Aug 2026 15:01:11 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 22 Aug 2026 15:32:45 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
