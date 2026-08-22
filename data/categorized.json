@@ -196,36 +196,6 @@
       "user": "Yu-Wei Simon Liu (Simon Liu)"
     },
     {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "published_at": "2026-08-01T16:03:02Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "catbot",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
-    {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
       "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
       "published_at": "2026-08-18T07:00:00Z",
@@ -630,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "Spielewoy"
     },
     {
@@ -675,7 +645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "browser-use"
     },
     {
@@ -750,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2281,
+      "stars": 2283,
       "user": "CopilotKit"
     },
     {
@@ -863,6 +833,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Scott"
+    },
+    {
+      "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
+      "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
+      "published_at": "2026-08-22T16:43:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pip",
+        "pytorch",
+        "linux-mint"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Leonardo Quadros"
     },
     {
       "title": "Run an async function weekly at a specific time",
@@ -1173,6 +1158,36 @@
   ],
   "JavaScript": [
     {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
+      "published_at": "2026-08-16T13:31:22Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
+      "source": "Dev.to",
+      "user": "Gamya "
+    },
+    {
+      "title": "State Management in Front-end Web Development: Mutators",
+      "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+      "published_at": "2026-08-19T21:29:49Z",
+      "description": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
+      "tags": [
+        "webdev",
+        "react",
+        "vue",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png",
+      "source": "Dev.to",
+      "user": "Abbey Perini"
+    },
+    {
       "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
       "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
       "published_at": "2026-08-11T14:40:56Z",
@@ -1186,36 +1201,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
       "source": "Dev.to",
       "user": "Pooja Bhavani"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-      "published_at": "2026-07-29T18:18:58Z",
-      "description": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
-    },
-    {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
-      "published_at": "2026-07-30T08:02:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "angular",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
@@ -1439,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1103,
       "user": "vvxw"
     },
     {
@@ -1454,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "Spielewoy"
     },
     {
@@ -1469,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 523,
       "user": "MeteorNOX"
     },
     {
@@ -1529,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2281,
+      "stars": 2283,
       "user": "CopilotKit"
     },
     {
@@ -1990,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "browser-use"
     },
     {
@@ -2022,6 +2007,21 @@
       "source": "GitHub",
       "stars": 78,
       "user": "Nour-yahyaoui"
+    },
+    {
+      "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
+      "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
+      "published_at": "2026-08-22T16:43:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pip",
+        "pytorch",
+        "linux-mint"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Leonardo Quadros"
     },
     {
       "title": "Speeding up shelve",
@@ -2098,19 +2098,6 @@
       "user": "JadenV15"
     },
     {
-      "title": "button not running function?",
-      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
-      "published_at": "2026-08-21T09:41:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pyqt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "samrad Tangestani"
-    },
-    {
       "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
       "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
       "published_at": "2026-08-20T17:32:00.000Z",
@@ -2124,6 +2111,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "button not running function?",
+      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
+      "published_at": "2026-08-21T09:41:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "pyqt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "samrad Tangestani"
     },
     {
       "title": "Request failed in Django but succeeds when I run script standalone",
@@ -2154,21 +2154,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maab"
-    },
-    {
-      "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
-      "url": "https://stackoverflow.com/questions/79996973/lightweight-state-management-patterns-for-multi-agent-workflows-without-heavy-fr",
-      "published_at": "2026-08-21T05:18:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "best-practices",
-        "python",
-        "artificial-intelligence",
-        "agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Siddiq Ahmad"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2387,6 +2372,36 @@
   ],
   "WebDev": [
     {
+      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
+      "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
+      "published_at": "2026-08-16T13:31:22Z",
+      "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...",
+      "tags": [
+        "devchallenge",
+        "frontendchallenge",
+        "webdev",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
+      "source": "Dev.to",
+      "user": "Gamya "
+    },
+    {
+      "title": "State Management in Front-end Web Development: Mutators",
+      "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+      "published_at": "2026-08-19T21:29:49Z",
+      "description": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
+      "tags": [
+        "webdev",
+        "react",
+        "vue",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png",
+      "source": "Dev.to",
+      "user": "Abbey Perini"
+    },
+    {
       "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
       "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
       "published_at": "2026-08-09T19:42:53Z",
@@ -2398,21 +2413,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
-    },
-    {
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "url": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-      "published_at": "2026-07-29T18:18:58Z",
-      "description": "We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "css",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
-      "source": "Dev.to",
-      "user": "Jess Lee"
     },
     {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
@@ -3030,21 +3030,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "Passkeys Explained Simply",
-      "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
-      "published_at": "2026-07-27T21:09:04Z",
-      "description": "You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...",
-      "tags": [
-        "security",
-        "api",
-        "webdev",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
-      "source": "Dev.to",
-      "user": "Thomas Bonnet"
-    },
-    {
       "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
       "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
       "published_at": "2026-08-17T09:00:16Z",
@@ -3267,6 +3252,21 @@
   ],
   "Tools": [
     {
+      "title": "Git Gud!",
+      "url": "https://dev.to/francistrdev/git-gud-4e6g",
+      "published_at": "2026-08-17T14:40:58Z",
+      "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+      "tags": [
+        "discuss",
+        "community",
+        "git",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -3310,21 +3310,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
       "source": "Dev.to",
       "user": "Yu-Wei Simon Liu (Simon Liu)"
-    },
-    {
-      "title": "My (not so pretty) journey in tech",
-      "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
-      "published_at": "2026-08-13T13:10:09Z",
-      "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-      "tags": [
-        "discuss",
-        "programming",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frggwt4sjrqxz7hb44jo7.jpg",
-      "source": "Dev.to",
-      "user": "isha singh"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -3449,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1103,
       "user": "vvxw"
     },
     {
@@ -3464,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "Spielewoy"
     },
     {
@@ -3479,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 523,
       "user": "MeteorNOX"
     },
     {
@@ -3554,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 704,
       "user": "browser-use"
     },
     {
@@ -3674,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2281,
+      "stars": 2283,
       "user": "CopilotKit"
     },
     {
@@ -3734,7 +3719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 441,
       "user": "iAmCorey"
     },
     {
@@ -3764,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 113,
       "user": "standardagents"
     },
     {
