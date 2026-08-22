@@ -255,6 +255,21 @@
       "user": "xbill"
     },
     {
+      "title": "Serving Gemma4 with Rust on vLLM 🦀",
+      "url": "https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l",
+      "published_at": "2026-08-14T20:43:34Z",
+      "description": "Step-by-step: getting vLLM's Rust frontend built and running on an aarch64 EC2 G5g box. rustup, setuptools-rust, protoc, the release flag, and how to prove the Rust frontend is actually the one answering.",
+      "tags": [
+        "rust",
+        "vllm",
+        "aws",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-vllm-rust-frontend-g5g.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -373,21 +388,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -569,7 +569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 675,
       "user": "Spielewoy"
     },
     {
@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "wang2122"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "SigmanticAI"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2277,
       "user": "CopilotKit"
     },
     {
@@ -706,6 +706,21 @@
       "source": "GitHub",
       "stars": 90,
       "user": "Apeireth"
+    },
+    {
+      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "url": "https://github.com/Nour-yahyaoui/rust-demo",
+      "published_at": "2026-08-17T00:32:37Z",
+      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "Nour-yahyaoui"
     },
     {
       "title": "Enabling the next-generation trait solver on nightly",
@@ -776,6 +791,19 @@
       "user": "serv-inc"
     },
     {
+      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
+      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
+      "published_at": "2026-08-16T00:35:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "ruby-on-rails"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scott"
+    },
+    {
       "title": "Run an async function weekly at a specific time",
       "url": "https://stackoverflow.com/questions/79997198/run-an-async-function-weekly-at-a-specific-time",
       "published_at": "2026-08-21T21:57:20.000Z",
@@ -819,6 +847,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali.zabetpour"
+    },
+    {
+      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "published_at": "2026-08-22T16:00:00.000Z",
+      "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "tags": [
+        "Security",
+        "AI",
+        "Google",
+        "Meta",
+        "xAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Pixel 11 Pro XL review: Snappier cameras can&#8217;t hide an iterative upgrade",
@@ -924,21 +968,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-      "published_at": "2026-08-21T19:57:46.000Z",
-      "description": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "Pebble",
-        "smartwatches"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1158,6 +1187,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
+      "url": "https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7",
+      "published_at": "2026-08-15T00:21:12Z",
+      "description": "A behind-the-scenes look at how we dogfooded bloc_signals_jaspr on blocsignal.dev, achieving 100K ops/sec in browser JS with declarative consumer components and Dart 3.13.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuf6jdjehlswpayop4u2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
       "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
       "published_at": "2026-08-12T05:30:27Z",
@@ -1216,21 +1260,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
       "source": "Dev.to",
       "user": "Muhammad Ammar"
-    },
-    {
-      "title": "What 5 years of teaching gave me that no coding course could",
-      "url": "https://dev.to/shannonianthe/what-5-years-of-teaching-gave-me-that-no-coding-course-could-4i8a",
-      "published_at": "2026-08-09T17:35:14Z",
-      "description": "I didn't come to tech through a bootcamp or a CS degree. I came through a classroom.   For...",
-      "tags": [
-        "javascript",
-        "career",
-        "beginners",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwc580gstpo8x10bw5sk1.png",
-      "source": "Dev.to",
-      "user": "Shannon Mettry"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1379,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1100,
       "user": "vvxw"
     },
     {
@@ -1394,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 675,
       "user": "Spielewoy"
     },
     {
@@ -1409,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "MeteorNOX"
     },
     {
@@ -1469,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2277,
       "user": "CopilotKit"
     },
     {
@@ -1518,19 +1547,19 @@
       "user": "DFarm6"
     },
     {
-      "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
-      "url": "https://github.com/furkankly/rataflow",
-      "published_at": "2026-08-18T09:15:21Z",
-      "description": "Interactive node-based UIs for the terminal.",
+      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "url": "https://github.com/Nour-yahyaoui/rust-demo",
+      "published_at": "2026-08-17T00:32:37Z",
+      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
       "source": "GitHub",
-      "stars": 75,
-      "user": "furkankly"
+      "stars": 77,
+      "user": "Nour-yahyaoui"
     },
     {
       "title": "Unable to generate audio element on an HTML page using JavaScript",
@@ -1620,6 +1649,19 @@
       "user": "Joe J"
     },
     {
+      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
+      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
+      "published_at": "2026-08-16T00:35:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "ruby-on-rails"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scott"
+    },
+    {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
       "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
       "published_at": "2026-08-14T09:19:12.000Z",
@@ -1662,21 +1704,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Unknown"
-    },
-    {
-      "title": "RGB to hex and hex to RGB",
-      "url": "https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb",
-      "published_at": "2011-04-11T15:42:53.000Z",
-      "description": "Stack Overflow question · 64 answers · score 862",
-      "tags": [
-        "javascript",
-        "colors",
-        "hex",
-        "rgb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sindar"
     }
   ],
   "Python": [
@@ -1871,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "wang2122"
     },
     {
@@ -1931,8 +1958,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "SigmanticAI"
+    },
+    {
+      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "url": "https://github.com/Nour-yahyaoui/rust-demo",
+      "published_at": "2026-08-17T00:32:37Z",
+      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
+      "source": "GitHub",
+      "stars": 77,
+      "user": "Nour-yahyaoui"
+    },
+    {
+      "title": "Speeding-up Shelve",
+      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
+      "published_at": "2026-08-22T15:45:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "shelve"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Run an async function weekly at a specific time",
@@ -1995,19 +2050,6 @@
       "user": "JadenV15"
     },
     {
-      "title": "button not running function?",
-      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
-      "published_at": "2026-08-21T09:41:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pyqt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "samrad Tangestani"
-    },
-    {
       "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
       "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
       "published_at": "2026-08-20T17:32:00.000Z",
@@ -2021,6 +2063,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "button not running function?",
+      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
+      "published_at": "2026-08-21T09:41:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "pyqt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "samrad Tangestani"
     },
     {
       "title": "Request failed in Django but succeeds when I run script standalone",
@@ -2066,20 +2121,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Siddiq Ahmad"
-    },
-    {
-      "title": "How do I move the turtle sprite in python",
-      "url": "https://stackoverflow.com/questions/79996914/how-do-i-move-the-turtle-sprite-in-python",
-      "published_at": "2026-08-20T20:05:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "turtle-graphics",
-        "python-turtle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Benjamin Wyatt"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2372,6 +2413,21 @@
       "user": "Laura Norwood"
     },
     {
+      "title": "Serving Gemma4 with Rust on vLLM 🦀",
+      "url": "https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l",
+      "published_at": "2026-08-14T20:43:34Z",
+      "description": "Step-by-step: getting vLLM's Rust frontend built and running on an aarch64 EC2 G5g box. rustup, setuptools-rust, protoc, the release flag, and how to prove the Rust frontend is actually the one answering.",
+      "tags": [
+        "rust",
+        "vllm",
+        "aws",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-vllm-rust-frontend-g5g.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Kitty Cafe, a whole bakery drawn in CSS 🐱🍰",
       "url": "https://dev.to/sizzlebop/kitty-cafe-a-whole-bakery-drawn-in-css-3fo4",
       "published_at": "2026-08-10T04:28:36Z",
@@ -2534,6 +2590,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
+      "url": "https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7",
+      "published_at": "2026-08-15T00:21:12Z",
+      "description": "A behind-the-scenes look at how we dogfooded bloc_signals_jaspr on blocsignal.dev, achieving 100K ops/sec in browser JS with declarative consumer components and Dart 3.13.",
+      "tags": [
+        "flutter",
+        "dart",
+        "webdev",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuf6jdjehlswpayop4u2.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -2638,6 +2709,21 @@
         "agents"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-jax%2Fmain%2Fdocs%2Fassets%2Fdevto-jax-gemma4-e2b-cover.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Serving Gemma4 with Rust on vLLM 🦀",
+      "url": "https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l",
+      "published_at": "2026-08-14T20:43:34Z",
+      "description": "Step-by-step: getting vLLM's Rust frontend built and running on an aarch64 EC2 G5g box. rustup, setuptools-rust, protoc, the release flag, and how to prove the Rust frontend is actually the one answering.",
+      "tags": [
+        "rust",
+        "vllm",
+        "aws",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-vllm-rust-frontend-g5g.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -3045,6 +3131,22 @@
       "user": "taavi"
     },
     {
+      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "published_at": "2026-08-22T16:00:00.000Z",
+      "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "tags": [
+        "Security",
+        "AI",
+        "Google",
+        "Meta",
+        "xAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
       "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
       "published_at": "2026-08-22T01:03:06.000Z",
@@ -3092,6 +3194,21 @@
       "user": "isha singh"
     },
     {
+      "title": "Serving Gemma4 with Rust on vLLM 🦀",
+      "url": "https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l",
+      "published_at": "2026-08-14T20:43:34Z",
+      "description": "Step-by-step: getting vLLM's Rust frontend built and running on an aarch64 EC2 G5g box. rustup, setuptools-rust, protoc, the release flag, and how to prove the Rust frontend is actually the one answering.",
+      "tags": [
+        "rust",
+        "vllm",
+        "aws",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-vllm-rust-frontend-g5g.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Build a Dart ADK Agent and MCP Server",
       "url": "https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n",
       "published_at": "2026-08-09T17:03:45Z",
@@ -3105,36 +3222,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpiks1fsfgvcyql1tpcr.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "What 5 years of teaching gave me that no coding course could",
-      "url": "https://dev.to/shannonianthe/what-5-years-of-teaching-gave-me-that-no-coding-course-could-4i8a",
-      "published_at": "2026-08-09T17:35:14Z",
-      "description": "I didn't come to tech through a bootcamp or a CS degree. I came through a classroom.   For...",
-      "tags": [
-        "javascript",
-        "career",
-        "beginners",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwc580gstpo8x10bw5sk1.png",
-      "source": "Dev.to",
-      "user": "Shannon Mettry"
-    },
-    {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "published_at": "2026-07-30T17:50:23Z",
-      "description": "Eighteen months ago, MCP was the thing. Every demo and chatbot connector was running on MCP under the...",
-      "tags": [
-        "ai",
-        "agents",
-        "mcp",
-        "agentskills"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi4he0m9m5fwk171jnvue.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3199,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1100,
       "user": "vvxw"
     },
     {
@@ -3214,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 673,
+      "stars": 675,
       "user": "Spielewoy"
     },
     {
@@ -3229,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "MeteorNOX"
     },
     {
@@ -3259,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1232,
+      "stars": 1243,
       "user": "wang2122"
     },
     {
@@ -3319,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 677,
+      "stars": 678,
       "user": "SigmanticAI"
     },
     {
@@ -3334,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 373,
       "user": "b-nnett"
     },
     {
@@ -3424,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2273,
+      "stars": 2277,
       "user": "CopilotKit"
     },
     {
@@ -3533,19 +3620,19 @@
       "user": "Apeireth"
     },
     {
-      "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
-      "url": "https://github.com/furkankly/rataflow",
-      "published_at": "2026-08-18T09:15:21Z",
-      "description": "Interactive node-based UIs for the terminal.",
+      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "url": "https://github.com/Nour-yahyaoui/rust-demo",
+      "published_at": "2026-08-17T00:32:37Z",
+      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
       "source": "GitHub",
-      "stars": 75,
-      "user": "furkankly"
+      "stars": 77,
+      "user": "Nour-yahyaoui"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
