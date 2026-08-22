@@ -603,21 +603,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "url": "https://github.com/Spielewoy/autoprompt-skill",
-      "published_at": "2026-08-17T22:40:47Z",
-      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
-      "source": "GitHub",
-      "stars": 696,
-      "user": "Spielewoy"
-    },
-    {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "published_at": "2026-08-18T04:08:11Z",
@@ -659,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "browser-use"
     },
     {
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2307,
+      "stars": 2308,
       "user": "CopilotKit"
     },
     {
@@ -766,21 +751,6 @@
       "source": "GitHub",
       "stars": 92,
       "user": "Apeireth"
-    },
-    {
-      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
-      "url": "https://github.com/Nour-yahyaoui/rust-demo",
-      "published_at": "2026-08-17T00:32:37Z",
-      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "Nour-yahyaoui"
     },
     {
       "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
@@ -925,6 +895,19 @@
       "user": "ItzSeegy"
     },
     {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "published_at": "2026-08-22T21:46:56.000Z",
+      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "tags": [
+        "AI",
+        "Harvard Business School"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "published_at": "2026-08-22T19:00:00.000Z",
@@ -1027,22 +1010,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "published_at": "2026-08-21T22:37:38.000Z",
-      "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "tags": [
-        "AI",
-        "data centers",
-        "In Brief",
-        "nvidia",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1412,81 +1379,6 @@
       "user": "velmu"
     },
     {
-      "title": "cinderline/northcinder - Open-source MCP server for comparing products and asking the buyer before purchase.",
-      "url": "https://github.com/cinderline/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 1205,
-      "user": "cinderline"
-    },
-    {
-      "title": "vvxw/deploy-vercel - Install Command：npm install",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "published_at": "2026-08-18T13:25:45Z",
-      "description": "Install Command：npm install",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
-      "source": "GitHub",
-      "stars": 1109,
-      "user": "vvxw"
-    },
-    {
-      "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "url": "https://github.com/Spielewoy/autoprompt-skill",
-      "published_at": "2026-08-17T22:40:47Z",
-      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
-      "source": "GitHub",
-      "stars": 696,
-      "user": "Spielewoy"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "published_at": "2026-08-18T03:13:51Z",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "MeteorNOX"
-    },
-    {
-      "title": "Ariescar/anyCreature - GitHub Repository",
-      "url": "https://github.com/Ariescar/anyCreature",
-      "published_at": "2026-08-17T13:40:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "Ariescar"
-    },
-    {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
       "url": "https://github.com/jsongmax/oci-core",
       "published_at": "2026-08-20T02:03:30Z",
@@ -1528,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2307,
+      "stars": 2308,
       "user": "CopilotKit"
     },
     {
@@ -1577,25 +1469,25 @@
       "user": "DFarm6"
     },
     {
-      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
-      "url": "https://github.com/Nour-yahyaoui/rust-demo",
-      "published_at": "2026-08-17T00:32:37Z",
-      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
+      "url": "https://github.com/furkankly/rataflow",
+      "published_at": "2026-08-18T09:15:21Z",
+      "description": "Interactive node-based UIs for the terminal.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
       "stars": 79,
-      "user": "Nour-yahyaoui"
+      "user": "furkankly"
     },
     {
       "title": "Unable to generate audio element on an HTML page using JavaScript",
       "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
       "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -1721,19 +1613,19 @@
       "user": "Heba Allah Hashim"
     },
     {
-      "title": "How can I convert a string to an integer in JavaScript?",
-      "url": "https://stackoverflow.com/questions/1133770/how-can-i-convert-a-string-to-an-integer-in-javascript",
-      "published_at": "2009-07-15T20:22:48.000Z",
-      "description": "Stack Overflow question · 32 answers · score 2598",
+      "title": "RGB to hex and hex to RGB",
+      "url": "https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb",
+      "published_at": "2011-04-11T15:42:53.000Z",
+      "description": "Stack Overflow question · 64 answers · score 862",
       "tags": [
         "javascript",
-        "string",
-        "integer",
-        "data-conversion"
+        "colors",
+        "hex",
+        "rgb"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Unknown"
+      "user": "Sindar"
     }
   ],
   "Python": [
@@ -2004,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "browser-use"
     },
     {
@@ -2023,19 +1915,17 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
-      "url": "https://github.com/Nour-yahyaoui/rust-demo",
-      "published_at": "2026-08-17T00:32:37Z",
-      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "title": "Why does my class and related function work?",
+      "url": "https://stackoverflow.com/questions/79997425/why-does-my-class-and-related-function-work",
+      "published_at": "2026-08-22T21:39:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "advice",
+        "python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "Nour-yahyaoui"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MyocardiumBoolean"
     },
     {
       "title": "Combining a Fade animation with a ScaleInPlace",
@@ -2054,7 +1944,7 @@
       "title": "Speeding up shelve",
       "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
       "published_at": "2026-08-22T15:45:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "wsgi",
@@ -2168,19 +2058,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "button not running function?",
-      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
-      "published_at": "2026-08-21T09:41:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pyqt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "samrad Tangestani"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2532,7 +2409,7 @@
       "title": "Unable to generate audio element on an HTML page using JavaScript",
       "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
       "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -3423,81 +3300,6 @@
       "user": "pabs3"
     },
     {
-      "title": "cinderline/northcinder - Open-source MCP server for comparing products and asking the buyer before purchase.",
-      "url": "https://github.com/cinderline/northcinder",
-      "published_at": "2026-08-17T11:42:31Z",
-      "description": "Open-source MCP server for comparing products and asking the buyer before purchase.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
-      "source": "GitHub",
-      "stars": 1205,
-      "user": "cinderline"
-    },
-    {
-      "title": "vvxw/deploy-vercel - Install Command：npm install",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "published_at": "2026-08-18T13:25:45Z",
-      "description": "Install Command：npm install",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
-      "source": "GitHub",
-      "stars": 1109,
-      "user": "vvxw"
-    },
-    {
-      "title": "Spielewoy/autoprompt-skill - Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "url": "https://github.com/Spielewoy/autoprompt-skill",
-      "published_at": "2026-08-17T22:40:47Z",
-      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
-      "source": "GitHub",
-      "stars": 696,
-      "user": "Spielewoy"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "published_at": "2026-08-18T03:13:51Z",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
-      "source": "GitHub",
-      "stars": 549,
-      "user": "MeteorNOX"
-    },
-    {
-      "title": "Ariescar/anyCreature - GitHub Repository",
-      "url": "https://github.com/Ariescar/anyCreature",
-      "published_at": "2026-08-17T13:40:03Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
-      "source": "GitHub",
-      "stars": 300,
-      "user": "Ariescar"
-    },
-    {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "published_at": "2026-08-18T04:08:11Z",
@@ -3554,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 708,
       "user": "browser-use"
     },
     {
@@ -3674,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2307,
+      "stars": 2308,
       "user": "CopilotKit"
     },
     {
@@ -3783,19 +3585,19 @@
       "user": "Apeireth"
     },
     {
-      "title": "Nour-yahyaoui/rust-demo - A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
-      "url": "https://github.com/Nour-yahyaoui/rust-demo",
-      "published_at": "2026-08-17T00:32:37Z",
-      "description": "A small Rust + Actix Web REST API (CRUD, in-memory mock DB) built for learning — not production-ready. Written to compare Rust's web ecosystem against Express, Next.js, and Python.",
+      "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
+      "url": "https://github.com/furkankly/rataflow",
+      "published_at": "2026-08-18T09:15:21Z",
+      "description": "Interactive node-based UIs for the terminal.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
       "stars": 79,
-      "user": "Nour-yahyaoui"
+      "user": "furkankly"
     },
     {
       "title": "How can I customize keyboard behaviour in HTML select menus?",
