@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo) | Dev.to |
 | 20 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed) | Dev.to |
 
-<sub>Last fetched: Sat, 22 Aug 2026 13:32:54 CAT</sub>
+<sub>Last fetched: Sat, 22 Aug 2026 13:54:58 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `JavaScript` — Explain event delegation and why it's useful**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `Database` — What is database normalization and denormalization?**
+**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Execution timing, event loop phases
 
 </details>
 
-**3. `Database` — What is database normalization and denormalization?**
+**3. `React` — What is the Virtual DOM and how does React use it?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Diffing algorithm, reconciliation, efficiency
 
 </details>
 
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 22 Aug 2026 11:32:54 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 22 Aug 2026 11:54:58 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
