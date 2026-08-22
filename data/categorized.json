@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "Spielewoy"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "browser-use"
     },
     {
@@ -663,19 +663,19 @@
       "user": "azrtydxb"
     },
     {
-      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "url": "https://github.com/zachahn/vomit",
-      "published_at": "2026-08-15T05:43:59Z",
-      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "title": "augety121/MCP-State-Twin - 用于可复现 AI Agent 评测的确定性、可分叉、有状态 MCP 测试世界——不对生产环境产生副作用。Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation—without production side effects.",
+      "url": "https://github.com/augety121/MCP-State-Twin",
+      "published_at": "2026-08-17T06:51:00Z",
+      "description": "用于可复现 AI Agent 评测的确定性、可分叉、有状态 MCP 测试世界——不对生产环境产生副作用。Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation—without production side effects.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 127,
-      "user": "zachahn"
+      "stars": 53,
+      "user": "augety121"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -704,53 +704,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2128,
       "user": "CopilotKit"
-    },
-    {
-      "title": "Alain00/blobatar - GitHub Repository",
-      "url": "https://github.com/Alain00/blobatar",
-      "published_at": "2026-08-15T11:51:19Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
-      "source": "GitHub",
-      "stars": 655,
-      "user": "Alain00"
-    },
-    {
-      "title": "jeremy-prt/bloub - SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "url": "https://github.com/jeremy-prt/bloub",
-      "published_at": "2026-08-15T13:21:23Z",
-      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
-      "source": "GitHub",
-      "stars": 612,
-      "user": "jeremy-prt"
-    },
-    {
-      "title": "fufankeji/deepseek-harness-studio - DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "url": "https://github.com/fufankeji/deepseek-harness-studio",
-      "published_at": "2026-08-15T03:00:06Z",
-      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "fufankeji"
     },
     {
       "title": "Apeireth/apeireth-rust - Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
@@ -764,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "Apeireth"
     },
     {
@@ -836,10 +791,10 @@
       "user": "Y K"
     },
     {
-      "title": "How to run an async function weekly at a specific time",
-      "url": "https://stackoverflow.com/questions/79997198/how-to-run-an-async-function-weekly-at-a-specific-time",
+      "title": "Run an async function weekly at a specific time",
+      "url": "https://stackoverflow.com/questions/79997198/run-an-async-function-weekly-at-a-specific-time",
       "published_at": "2026-08-21T21:57:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "datetime",
@@ -879,6 +834,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali.zabetpour"
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "published_at": "2026-08-22T01:03:06.000Z",
+      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "tags": [
+        "Space",
+        "Startups",
+        "Japan",
+        "spacetech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -1407,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 990,
       "user": "vvxw"
     },
     {
@@ -1422,38 +1392,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "Spielewoy"
     },
     {
-      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "published_at": "2026-08-15T06:10:13Z",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "published_at": "2026-08-18T03:13:51Z",
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 492,
-      "user": "SheberDavid"
+      "stars": 357,
+      "user": "MeteorNOX"
     },
     {
-      "title": "Yousuf-developer/Viscose-carousel - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
-      "url": "https://github.com/Yousuf-developer/Viscose-carousel",
-      "published_at": "2026-08-15T08:34:56Z",
-      "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "title": "Ariescar/anyCreature - GitHub Repository",
+      "url": "https://github.com/Ariescar/anyCreature",
+      "published_at": "2026-08-17T13:40:03Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
       "source": "GitHub",
-      "stars": 397,
-      "user": "Yousuf-developer"
+      "stars": 294,
+      "user": "Ariescar"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -1497,53 +1467,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2128,
       "user": "CopilotKit"
     },
     {
-      "title": "Alain00/blobatar - GitHub Repository",
-      "url": "https://github.com/Alain00/blobatar",
-      "published_at": "2026-08-15T11:51:19Z",
+      "title": "almendili/skills - GitHub Repository",
+      "url": "https://github.com/almendili/skills",
+      "published_at": "2026-08-16T23:55:30Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1238970?v=4",
       "source": "GitHub",
-      "stars": 655,
-      "user": "Alain00"
+      "stars": 350,
+      "user": "almendili"
     },
     {
-      "title": "jeremy-prt/bloub - SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "url": "https://github.com/jeremy-prt/bloub",
-      "published_at": "2026-08-15T13:21:23Z",
-      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "title": "op7418/pilot-harness - Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "url": "https://github.com/op7418/pilot-harness",
+      "published_at": "2026-08-17T06:56:42Z",
+      "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 612,
-      "user": "jeremy-prt"
+      "stars": 250,
+      "user": "op7418"
     },
     {
-      "title": "fufankeji/deepseek-harness-studio - DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "url": "https://github.com/fufankeji/deepseek-harness-studio",
-      "published_at": "2026-08-15T03:00:06Z",
-      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "title": "DFarm6/Prism-Browser-Community - Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
+      "url": "https://github.com/DFarm6/Prism-Browser-Community",
+      "published_at": "2026-08-17T00:13:19Z",
+      "description": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/315778723?v=4",
       "source": "GitHub",
-      "stars": 434,
-      "user": "fufankeji"
+      "stars": 226,
+      "user": "DFarm6"
     },
     {
       "title": "Unable to generate audio element on an HTML page using JavaScript",
@@ -1928,7 +1898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "browser-use"
     },
     {
@@ -1947,10 +1917,10 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "How to run an async function weekly at a specific time",
-      "url": "https://stackoverflow.com/questions/79997198/how-to-run-an-async-function-weekly-at-a-specific-time",
+      "title": "Run an async function weekly at a specific time",
+      "url": "https://stackoverflow.com/questions/79997198/run-an-async-function-weekly-at-a-specific-time",
       "published_at": "2026-08-21T21:57:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "datetime",
@@ -2539,7 +2509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "Apeireth"
     },
     {
@@ -3007,7 +2977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 79,
       "user": "Apeireth"
     },
     {
@@ -3021,6 +2991,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "taavi"
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "published_at": "2026-08-22T01:03:06.000Z",
+      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "tags": [
+        "Space",
+        "Startups",
+        "Japan",
+        "spacetech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
@@ -3176,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 990,
       "user": "vvxw"
     },
     {
@@ -3191,38 +3176,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 591,
       "user": "Spielewoy"
     },
     {
-      "title": "SheberDavid/v4-flash-godmode-opencode-go - V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "published_at": "2026-08-15T06:10:13Z",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "published_at": "2026-08-18T03:13:51Z",
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/143268274?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 492,
-      "user": "SheberDavid"
+      "stars": 357,
+      "user": "MeteorNOX"
     },
     {
-      "title": "Yousuf-developer/Viscose-carousel - A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
-      "url": "https://github.com/Yousuf-developer/Viscose-carousel",
-      "published_at": "2026-08-15T08:34:56Z",
-      "description": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part.",
+      "title": "Ariescar/anyCreature - GitHub Repository",
+      "url": "https://github.com/Ariescar/anyCreature",
+      "published_at": "2026-08-17T13:40:03Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/181764715?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
       "source": "GitHub",
-      "stars": 397,
-      "user": "Yousuf-developer"
+      "stars": 294,
+      "user": "Ariescar"
     },
     {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
@@ -3281,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 686,
       "user": "browser-use"
     },
     {
@@ -3330,21 +3315,6 @@
       "user": "azrtydxb"
     },
     {
-      "title": "zachahn/vomit - Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "url": "https://github.com/zachahn/vomit",
-      "published_at": "2026-08-15T05:43:59Z",
-      "description": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93058?v=4",
-      "source": "GitHub",
-      "stars": 127,
-      "user": "zachahn"
-    },
-    {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
       "url": "https://github.com/jsongmax/oci-core",
       "published_at": "2026-08-20T02:03:30Z",
@@ -3360,19 +3330,34 @@
       "user": "jsongmax"
     },
     {
-      "title": "swadhinbiswas/veet - Universal Linux Application Uninstaller & Deep-Clean Residual Purger",
-      "url": "https://github.com/swadhinbiswas/veet",
-      "published_at": "2026-08-15T20:45:16Z",
-      "description": "Universal Linux Application Uninstaller & Deep-Clean Residual Purger",
+      "title": "augety121/MCP-State-Twin - 用于可复现 AI Agent 评测的确定性、可分叉、有状态 MCP 测试世界——不对生产环境产生副作用。Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation—without production side effects.",
+      "url": "https://github.com/augety121/MCP-State-Twin",
+      "published_at": "2026-08-17T06:51:00Z",
+      "description": "用于可复现 AI Agent 评测的确定性、可分叉、有状态 MCP 测试世界——不对生产环境产生副作用。Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation—without production side effects.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/107450069?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 103,
-      "user": "swadhinbiswas"
+      "stars": 53,
+      "user": "augety121"
+    },
+    {
+      "title": "remnawave/geocheck - Where the internet thinks you are, and how directly you reach it.",
+      "url": "https://github.com/remnawave/geocheck",
+      "published_at": "2026-08-17T19:56:01Z",
+      "description": "Where the internet thinks you are, and how directly you reach it.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/163913909?v=4",
+      "source": "GitHub",
+      "stars": 44,
+      "user": "remnawave"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -3401,53 +3386,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2115,
+      "stars": 2128,
       "user": "CopilotKit"
     },
     {
-      "title": "Alain00/blobatar - GitHub Repository",
-      "url": "https://github.com/Alain00/blobatar",
-      "published_at": "2026-08-15T11:51:19Z",
+      "title": "almendili/skills - GitHub Repository",
+      "url": "https://github.com/almendili/skills",
+      "published_at": "2026-08-16T23:55:30Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/40124537?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1238970?v=4",
       "source": "GitHub",
-      "stars": 655,
-      "user": "Alain00"
+      "stars": 350,
+      "user": "almendili"
     },
     {
-      "title": "jeremy-prt/bloub - SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "url": "https://github.com/jeremy-prt/bloub",
-      "published_at": "2026-08-15T13:21:23Z",
-      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "title": "op7418/pilot-harness - Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "url": "https://github.com/op7418/pilot-harness",
+      "published_at": "2026-08-17T06:56:42Z",
+      "description": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/57547133?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 612,
-      "user": "jeremy-prt"
+      "stars": 250,
+      "user": "op7418"
     },
     {
-      "title": "fufankeji/deepseek-harness-studio - DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
-      "url": "https://github.com/fufankeji/deepseek-harness-studio",
-      "published_at": "2026-08-15T03:00:06Z",
-      "description": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。",
+      "title": "DFarm6/Prism-Browser-Community - Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
+      "url": "https://github.com/DFarm6/Prism-Browser-Community",
+      "published_at": "2026-08-17T00:13:19Z",
+      "description": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/172011122?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/315778723?v=4",
       "source": "GitHub",
-      "stars": 434,
-      "user": "fufankeji"
+      "stars": 226,
+      "user": "DFarm6"
     },
     {
       "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
@@ -3461,23 +3446,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 409,
       "user": "iAmCorey"
-    },
-    {
-      "title": "ooolabdev/ooosplat - A local desktop application that converts videos into 3D Gaussian Splatting.",
-      "url": "https://github.com/ooolabdev/ooosplat",
-      "published_at": "2026-08-15T15:48:10Z",
-      "description": "A local desktop application that converts videos into 3D Gaussian Splatting.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/105619733?v=4",
-      "source": "GitHub",
-      "stars": 157,
-      "user": "ooolabdev"
     },
     {
       "title": "furkankly/zoetrope - Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
@@ -3491,23 +3461,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 105,
       "user": "furkankly"
-    },
-    {
-      "title": "Apeireth/apeireth-rust - Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
-      "url": "https://github.com/Apeireth/apeireth-rust",
-      "published_at": "2026-08-17T18:03:38Z",
-      "description": "Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
-      "source": "GitHub",
-      "stars": 77,
-      "user": "Apeireth"
     },
     {
       "title": "standardagents/ssh-clipboard - Native encrypted clipboard sync over SSH for macOS and Linux",
@@ -3521,8 +3476,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 80,
       "user": "standardagents"
+    },
+    {
+      "title": "Apeireth/apeireth-rust - Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
+      "url": "https://github.com/Apeireth/apeireth-rust",
+      "published_at": "2026-08-17T18:03:38Z",
+      "description": "Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "Apeireth"
+    },
+    {
+      "title": "Boshen/cargo-bsize - Investigate Rust binary size",
+      "url": "https://github.com/Boshen/cargo-bsize",
+      "published_at": "2026-08-16T07:48:20Z",
+      "description": "Investigate Rust binary size",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1430279?v=4",
+      "source": "GitHub",
+      "stars": 66,
+      "user": "Boshen"
     }
   ]
 }
