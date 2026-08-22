@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-22 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-22 20:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp) | Dev.to |
 | 20 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
 
-<sub>Last fetched: Sat, 22 Aug 2026 19:57:57 CAT</sub>
+<sub>Last fetched: Sat, 22 Aug 2026 20:37:00 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — Explain the Java memory model**
+**1. `NodeJS` — Implement rate limiting for an API**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> Token bucket, sliding window, Redis
 
 </details>
 
-**2. `Database` — Design a database schema for a social media platform**
+**2. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**3. `Database` — Explain database indexing and when to use it**
+**3. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 80 | 43.5% | `████████████████████` |
+| **AI** | 81 | 44.0% | `████████████████████` |
 | **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
 | **Tools** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
 | **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
 | **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **WebDev** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 10 | 5.4% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sat, 22 Aug 2026 17:57:57 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 22 Aug 2026 18:37:00 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
