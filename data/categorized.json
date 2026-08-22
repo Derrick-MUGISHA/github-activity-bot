@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 614,
       "user": "Spielewoy"
     },
     {
@@ -599,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1145,
       "user": "wang2122"
     },
     {
@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "browser-use"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2882,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2176,
+      "stars": 2187,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "Apeireth"
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1034,
       "user": "vvxw"
     },
     {
@@ -1405,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 614,
       "user": "Spielewoy"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "MeteorNOX"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "Ariescar"
     },
     {
@@ -1465,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2882,
       "user": "yetone"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2176,
+      "stars": 2187,
       "user": "CopilotKit"
     },
     {
@@ -1495,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1238970?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "almendili"
     },
     {
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "furkankly"
     },
     {
@@ -1673,20 +1673,18 @@
       "user": "SAW Dev"
     },
     {
-      "title": "How to reset ContentControl.Color to default?",
-      "url": "https://stackoverflow.com/questions/79990355/how-to-reset-contentcontrol-color-to-default",
-      "published_at": "2026-08-04T10:26:56.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "How is audio.duration calculated?",
+      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
+      "published_at": "2026-06-22T11:11:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
-        "node.js",
-        "ms-word",
-        "office-js",
-        "word-addins"
+        "html",
+        "audio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Burned"
+      "user": "Loki"
     }
   ],
   "Python": [
@@ -1881,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1145,
       "user": "wang2122"
     },
     {
@@ -1926,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "browser-use"
     },
     {
@@ -2033,21 +2031,6 @@
       "user": "ali.zabetpour"
     },
     {
-      "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
-      "url": "https://stackoverflow.com/questions/79996973/lightweight-state-management-patterns-for-multi-agent-workflows-without-heavy-fr",
-      "published_at": "2026-08-21T05:18:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "best-practices",
-        "python",
-        "artificial-intelligence",
-        "agent"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Siddiq Ahmad"
-    },
-    {
       "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
       "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
       "published_at": "2026-08-20T20:28:21.000Z",
@@ -2061,6 +2044,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "maab"
+    },
+    {
+      "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
+      "url": "https://stackoverflow.com/questions/79996973/lightweight-state-management-patterns-for-multi-agent-workflows-without-heavy-fr",
+      "published_at": "2026-08-21T05:18:17.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "best-practices",
+        "python",
+        "artificial-intelligence",
+        "agent"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Siddiq Ahmad"
     },
     {
       "title": "How do I move the turtle sprite in python",
@@ -2477,6 +2475,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe J"
+    },
+    {
+      "title": "How is audio.duration calculated?",
+      "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
+      "published_at": "2026-06-22T11:11:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "javascript",
+        "html",
+        "audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Loki"
     }
   ],
   "Mobile": [
@@ -2537,7 +2549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "Apeireth"
     },
     {
@@ -2705,7 +2717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2882,
       "user": "yetone"
     },
     {
@@ -3005,7 +3017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "Apeireth"
     },
     {
@@ -3189,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1026,
+      "stars": 1034,
       "user": "vvxw"
     },
     {
@@ -3204,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 614,
       "user": "Spielewoy"
     },
     {
@@ -3219,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 405,
       "user": "MeteorNOX"
     },
     {
@@ -3234,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 297,
       "user": "Ariescar"
     },
     {
@@ -3249,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1145,
       "user": "wang2122"
     },
     {
@@ -3294,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 693,
+      "stars": 696,
       "user": "browser-use"
     },
     {
@@ -3399,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2882,
       "user": "yetone"
     },
     {
@@ -3414,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2176,
+      "stars": 2187,
       "user": "CopilotKit"
     },
     {
@@ -3429,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1238970?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 351,
       "user": "almendili"
     },
     {
@@ -3474,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 427,
       "user": "iAmCorey"
     },
     {
@@ -3489,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 130,
       "user": "furkankly"
     },
     {
@@ -3504,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 96,
       "user": "standardagents"
     },
     {
@@ -3519,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 83,
+      "stars": 84,
       "user": "Apeireth"
     },
     {
@@ -3534,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 68,
+      "stars": 69,
       "user": "furkankly"
     }
   ]
