@@ -31,6 +31,21 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "My AI Content Journey",
       "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
       "published_at": "2026-08-19T16:47:10Z",
@@ -599,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 688,
       "user": "Spielewoy"
     },
     {
@@ -704,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 50,
       "user": "zhaoxuya520"
     },
     {
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2298,
       "user": "CopilotKit"
     },
     {
@@ -1464,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 688,
       "user": "Spielewoy"
     },
     {
@@ -1479,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "MeteorNOX"
     },
     {
@@ -1539,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2298,
       "user": "CopilotKit"
     },
     {
@@ -1748,6 +1763,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
     {
       "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
       "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
@@ -2047,6 +2077,20 @@
       "user": "Portevent"
     },
     {
+      "title": "Speeding up shelve",
+      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
+      "published_at": "2026-08-22T15:45:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "wsgi",
+        "shelve"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
       "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
       "published_at": "2026-08-22T16:43:26.000Z",
@@ -2060,20 +2104,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Leonardo Quadros"
-    },
-    {
-      "title": "Speeding up shelve",
-      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
-      "published_at": "2026-08-22T15:45:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "wsgi",
-        "shelve"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "Run an async function weekly at a specific time",
@@ -3290,6 +3320,21 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "My AI Content Journey",
       "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
       "published_at": "2026-08-19T16:47:10Z",
@@ -3471,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 686,
+      "stars": 688,
       "user": "Spielewoy"
     },
     {
@@ -3486,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 543,
       "user": "MeteorNOX"
     },
     {
@@ -3591,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 374,
       "user": "b-nnett"
     },
     {
@@ -3651,7 +3696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 48,
+      "stars": 50,
       "user": "zhaoxuya520"
     },
     {
@@ -3681,7 +3726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2295,
+      "stars": 2298,
       "user": "CopilotKit"
     },
     {
@@ -3741,7 +3786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 446,
       "user": "iAmCorey"
     },
     {
@@ -3771,7 +3816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 115,
+      "stars": 116,
       "user": "standardagents"
     },
     {
