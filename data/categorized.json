@@ -614,7 +614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 702,
       "user": "Spielewoy"
     },
     {
@@ -693,6 +693,21 @@
       "user": "azrtydxb"
     },
     {
+      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "published_at": "2026-08-22T10:30:10Z",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "zhaoxuya520"
+    },
+    {
       "title": "augety121/MCP-State-Twin - 用于可复现 AI Agent 评测的确定性、可分叉、有状态 MCP 测试世界——不对生产环境产生副作用。Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation—without production side effects.",
       "url": "https://github.com/augety121/MCP-State-Twin",
       "published_at": "2026-08-17T06:51:00Z",
@@ -708,21 +723,6 @@
       "user": "augety121"
     },
     {
-      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
-      "url": "https://github.com/zhaoxuya520/MeshLAN",
-      "published_at": "2026-08-22T10:30:10Z",
-      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
-      "source": "GitHub",
-      "stars": 59,
-      "user": "zhaoxuya520"
-    },
-    {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "published_at": "2026-08-17T09:13:52Z",
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2899,
+      "stars": 2900,
       "user": "yetone"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2312,
       "user": "CopilotKit"
     },
     {
@@ -884,7 +884,7 @@
       "title": "Request failed in Django but succeeds when I run script standalone",
       "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
       "published_at": "2026-08-21T08:24:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "django",
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1111,
       "user": "vvxw"
     },
     {
@@ -1435,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 702,
       "user": "Spielewoy"
     },
     {
@@ -1495,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2899,
+      "stars": 2900,
       "user": "yetone"
     },
     {
@@ -1510,7 +1510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2312,
       "user": "CopilotKit"
     },
     {
@@ -2005,19 +2005,6 @@
       "user": "SigmanticAI"
     },
     {
-      "title": "Why does my class and related function work?",
-      "url": "https://stackoverflow.com/questions/79997425/why-does-my-class-and-related-function-work",
-      "published_at": "2026-08-22T21:39:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MyocardiumBoolean"
-    },
-    {
       "title": "Combining a Fade animation with a ScaleInPlace",
       "url": "https://stackoverflow.com/questions/79997381/combining-a-fade-animation-with-a-scaleinplace",
       "published_at": "2026-08-22T18:05:26.000Z",
@@ -2094,7 +2081,7 @@
       "title": "Request failed in Django but succeeds when I run script standalone",
       "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
       "published_at": "2026-08-21T08:24:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "django",
@@ -2148,6 +2135,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "button not running function?",
+      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
+      "published_at": "2026-08-21T09:41:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "pyqt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "samrad Tangestani"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2914,7 +2914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2899,
+      "stars": 2900,
       "user": "yetone"
     }
   ],
@@ -3416,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1111,
       "user": "vvxw"
     },
     {
@@ -3431,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 700,
+      "stars": 702,
       "user": "Spielewoy"
     },
     {
@@ -3585,6 +3585,21 @@
       "user": "jsongmax"
     },
     {
+      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "published_at": "2026-08-22T10:30:10Z",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
+      "source": "GitHub",
+      "stars": 63,
+      "user": "zhaoxuya520"
+    },
+    {
       "title": "augety121/MCP-State-Twin - 用于可复现 AI Agent 评测的确定性、可分叉、有状态 MCP 测试世界——不对生产环境产生副作用。Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation—without production side effects.",
       "url": "https://github.com/augety121/MCP-State-Twin",
       "published_at": "2026-08-17T06:51:00Z",
@@ -3600,21 +3615,6 @@
       "user": "augety121"
     },
     {
-      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
-      "url": "https://github.com/zhaoxuya520/MeshLAN",
-      "published_at": "2026-08-22T10:30:10Z",
-      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
-      "source": "GitHub",
-      "stars": 59,
-      "user": "zhaoxuya520"
-    },
-    {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "published_at": "2026-08-17T09:13:52Z",
@@ -3626,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2899,
+      "stars": 2900,
       "user": "yetone"
     },
     {
@@ -3641,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2311,
+      "stars": 2312,
       "user": "CopilotKit"
     },
     {
@@ -3701,7 +3701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 451,
       "user": "iAmCorey"
     },
     {
