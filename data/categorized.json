@@ -31,6 +31,51 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
+      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke",
+      "published_at": "2026-08-21T06:41:03Z",
+      "description": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj2qx90h893gb7oly6kkd.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
+      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o",
+      "published_at": "2026-08-20T11:13:12Z",
+      "description": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
+      "tags": [
+        "ai",
+        "videoproduction",
+        "creativeindustry",
+        "aifilmaking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh43gl7gigubj7unbkkaz.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
+    },
+    {
+      "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
+      "url": "https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp",
+      "published_at": "2026-08-18T20:50:05Z",
+      "description": "The insider story on Google's commitment to Flutter, the enterprise hiring paradox, and why Flutter is kicking tail on every measurable scale.",
+      "tags": [
+        "flutter",
+        "dart",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2h0i1334b6rh3lql2wp.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -46,6 +91,51 @@
       "user": "Debashish Ghosal"
     },
     {
+      "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
+      "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
+      "published_at": "2026-08-20T13:37:59Z",
+      "description": "All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...",
+      "tags": [
+        "a2a",
+        "aiagents",
+        "aws",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fjkuqd3p2lygi59hcuj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
+      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
+      "published_at": "2026-08-20T13:25:09Z",
+      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
+      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
+      "published_at": "2026-08-20T01:56:59Z",
+      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
+      "tags": [
+        "dart",
+        "python",
+        "rust",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Hacktoberfest 2026: AI belongs to everyone",
       "url": "https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8",
       "published_at": "2026-08-19T15:38:17Z",
@@ -59,6 +149,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F36uy9jpgjk1zd9arht2a.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
+      "url": "https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm",
+      "published_at": "2026-08-19T13:43:23Z",
+      "description": "vLLM on TPU cannot load the Gemma 4 E2B QAT exports. So I served them from a hand-rolled JAX engine on a single v6e chip — and found that the thing that actually governs latency is not the model at all.",
+      "tags": [
+        "tpu",
+        "jax",
+        "llm",
+        "quantization"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkc4umpukqlmd6ltw88rh.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Gemini, tell me a story",
+      "url": "https://dev.to/gde/gemini-tell-me-a-story-3jmn",
+      "published_at": "2026-08-19T13:12:14Z",
+      "description": "A French version is available here.            Vacation time 🌴   We are at the end of July, it's my...",
+      "tags": [
+        "sideprojects",
+        "gemini",
+        "ai",
+        "kids"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb51fynatm414nsavekzg.png",
+      "source": "Dev.to",
+      "user": "Jean-Phi Baconnais"
+    },
+    {
+      "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
+      "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
+      "published_at": "2026-08-19T03:28:17Z",
+      "description": "GitHub — open-doc https://github.com/simonliu-ai-product/open-doc          1. Introduction   Over...",
+      "tags": [
+        "opensource",
+        "ai",
+        "antigravity",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
+      "source": "Dev.to",
+      "user": "Yu-Wei Simon Liu (Simon Liu)"
     },
     {
       "title": "Passkeys Explained Simply",
@@ -91,63 +226,19 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "tags": [
-        "opensource",
-        "devops",
-        "docker",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
-      "title": "Looker's Native MCP Server with Claude Code",
-      "url": "https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8",
-      "published_at": "2026-08-14T14:00:55Z",
-      "description": "Looker hosts its own MCP server now. This walks through connecting Claude Code to it, pairing it with...",
-      "tags": [
-        "mcp",
-        "looker",
-        "claudecode",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Flooker-cli-claude%2Fmain%2Fdocs%2Fimages%2Fcover-native-mcp.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "title": "Designing AI Evals: Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "published_at": "2026-08-18T07:00:00Z",
+      "description": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
       "tags": [
         "ai",
-        "gemini",
-        "python"
+        "llm",
+        "python",
+        "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Katie McLaughlin"
     },
     {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
@@ -178,6 +269,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
       "source": "Dev.to",
       "user": "Asuran"
+    },
+    {
+      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
+      "published_at": "2026-08-17T09:00:16Z",
+      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
+      "tags": [
+        "docker",
+        "devops",
+        "flutter",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Semantic Cache in AI Tokenomics",
+      "url": "https://dev.to/gde/semantic-cache-in-ai-tokenomics-2l5i",
+      "published_at": "2026-08-16T15:58:37Z",
+      "description": "Introduction   A few weeks ago I was looking at logs for a support bot that answers the same...",
+      "tags": [
+        "ai",
+        "discuss",
+        "softwareengineering",
+        "finops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmmqqct72ozt79mkio599.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Build an MCP server in Rust with rmcp: a walk-through 🦀",
+      "url": "https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif",
+      "published_at": "2026-08-16T12:32:56Z",
+      "description": "Step-by-step: scaffolding a real MCP server in Rust with the official rmcp SDK — tools, JSON schemas, AWS calls, stdio transport, testing the protocol by hand, and wiring it into Claude Code.",
+      "tags": [
+        "rust",
+        "mcp",
+        "aws",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-rust-mcp-rmcp.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building AI Agents with the Python Agent Development Kit (ADK) — 2026 Edition (v2)",
@@ -313,81 +449,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
-    },
-    {
-      "title": "Three Clouds, Three Native Agents",
-      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
-      "published_at": "2026-08-10T15:04:09Z",
-      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
-      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
-      "published_at": "2026-08-07T11:30:53Z",
-      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "animation",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
-      "source": "Dev.to",
-      "user": "Muhammad Ammar"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "published_at": "2026-07-20T13:20:24Z",
-      "description": "Imagine your AI assistant just produced 200 lines of code. Legally, you may not own a single line of...",
-      "tags": [
-        "discuss",
-        "ai",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.nazarboyko.com%252Fassets%252Fimgs%252Farticles%252Fai-and-code-ownership-who-is-responsible-for-generated-code%252Fcover.webp%26w%3D1600%26h%3D672%26fit%3Dcover%26a%3Dtop%26output%3Dwebp",
-      "source": "Dev.to",
-      "user": "Nazar Boyko"
-    },
-    {
-      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
-      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
-      "published_at": "2026-08-09T22:14:30Z",
-      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
-      "tags": [
-        "tpu",
-        "vllm",
-        "llm",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -569,7 +630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "Spielewoy"
     },
     {
@@ -614,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "browser-use"
     },
     {
@@ -659,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "augety121"
     },
     {
@@ -689,7 +750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2281,
       "user": "CopilotKit"
     },
     {
@@ -719,7 +780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "Nour-yahyaoui"
     },
     {
@@ -849,16 +910,31 @@
       "user": "ali.zabetpour"
     },
     {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "published_at": "2026-08-22T16:30:34.000Z",
+      "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "OpenAI",
+        "sb 53"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
       "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "published_at": "2026-08-22T16:00:00.000Z",
       "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
       "tags": [
-        "Security",
         "AI",
-        "Google",
-        "Meta",
-        "xAI"
+        "Security",
+        "alignment",
+        "Anthropic",
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1142,51 +1218,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
       "url": "https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7",
       "published_at": "2026-08-15T00:21:12Z",
@@ -1217,6 +1248,21 @@
       "user": "Asuran"
     },
     {
+      "title": "Build an MCP server in Rust with rmcp: a walk-through 🦀",
+      "url": "https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif",
+      "published_at": "2026-08-16T12:32:56Z",
+      "description": "Step-by-step: scaffolding a real MCP server in Rust with the official rmcp SDK — tools, JSON schemas, AWS calls, stdio transport, testing the protocol by hand, and wiring it into Claude Code.",
+      "tags": [
+        "rust",
+        "mcp",
+        "aws",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-rust-mcp-rmcp.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
       "url": "https://dev.to/gde/riverpod-to-blocsignal-incremental-migration-and-zero-codegen-signals-for-flutter-1gdp",
       "published_at": "2026-08-12T23:05:09Z",
@@ -1245,21 +1291,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8g2ou80or7pl9r07qktj.png",
       "source": "Dev.to",
       "user": "Mike"
-    },
-    {
-      "title": "I built an open source library of animated icons for React, all using motion and Phosphor icons",
-      "url": "https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p",
-      "published_at": "2026-08-07T11:30:53Z",
-      "description": "I kept running into the same small annoyance. I'd need one animated icon, so I'd hand-roll it in...",
-      "tags": [
-        "ai",
-        "webdev",
-        "animation",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1apr6bgenrmzyia06jmf.png",
-      "source": "Dev.to",
-      "user": "Muhammad Ammar"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1393,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1204,
       "user": "cinderline"
     },
     {
@@ -1408,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1101,
       "user": "vvxw"
     },
     {
@@ -1423,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "Spielewoy"
     },
     {
@@ -1438,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 519,
       "user": "MeteorNOX"
     },
     {
@@ -1498,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2281,
       "user": "CopilotKit"
     },
     {
@@ -1558,7 +1589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "Nour-yahyaoui"
     },
     {
@@ -1708,18 +1739,34 @@
   ],
   "Python": [
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
+      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
+      "published_at": "2026-08-20T01:56:59Z",
+      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
+      "tags": [
+        "dart",
+        "python",
+        "rust",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Designing AI Evals: Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "published_at": "2026-08-18T07:00:00Z",
+      "description": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
       "tags": [
         "ai",
-        "gemini",
-        "python"
+        "llm",
+        "python",
+        "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
       "source": "Dev.to",
-      "user": "Evan Lin"
+      "user": "Katie McLaughlin"
     },
     {
       "title": "Do I Still Need a Monkey Patch for Gemini Live?",
@@ -1943,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "browser-use"
     },
     {
@@ -1973,16 +2020,17 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "Nour-yahyaoui"
     },
     {
-      "title": "Speeding-up Shelve",
+      "title": "Speeding up shelve",
       "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
       "published_at": "2026-08-22T15:45:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
+        "wsgi",
         "shelve"
       ],
       "cover_image": null,
@@ -2050,6 +2098,19 @@
       "user": "JadenV15"
     },
     {
+      "title": "button not running function?",
+      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
+      "published_at": "2026-08-21T09:41:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "pyqt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "samrad Tangestani"
+    },
+    {
       "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
       "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
       "published_at": "2026-08-20T17:32:00.000Z",
@@ -2063,19 +2124,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "button not running function?",
-      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
-      "published_at": "2026-08-21T09:41:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pyqt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "samrad Tangestani"
     },
     {
       "title": "Request failed in Django but succeeds when I run script standalone",
@@ -2157,34 +2205,33 @@
   ],
   "DevOps": [
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
+      "published_at": "2026-08-20T18:13:27Z",
+      "description": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
       "tags": [
-        "opensource",
-        "devops",
+        "gubernator",
         "docker",
-        "ai"
+        "antigravity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
+      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
+      "published_at": "2026-08-17T09:00:16Z",
+      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
       "tags": [
-        "ai",
-        "kubernetes",
+        "docker",
         "devops",
-        "security"
+        "flutter",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
       "source": "Dev.to",
-      "user": "Çalgan Aygün"
+      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2368,21 +2415,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
       "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
       "published_at": "2026-08-06T17:47:27Z",
@@ -2441,21 +2473,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxz6b6jbbxetqmv0k6bx4.png",
       "source": "Dev.to",
       "user": "Jessica Doering"
-    },
-    {
-      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
-      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
-      "published_at": "2026-08-09T22:14:30Z",
-      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
-      "tags": [
-        "tpu",
-        "vllm",
-        "llm",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
@@ -2575,17 +2592,61 @@
   ],
   "Mobile": [
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
+      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
+      "published_at": "2026-08-22T02:59:36Z",
+      "description": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.",
       "tags": [
         "flutter",
         "dart",
-        "statemanagement",
-        "programming"
+        "architecture",
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8k6g7hk6o9p26vjedyz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
+      "published_at": "2026-08-21T01:00:50Z",
+      "description": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back to Flutter architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
+      "published_at": "2026-08-20T18:13:27Z",
+      "description": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
+      "tags": [
+        "gubernator",
+        "docker",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
+      "url": "https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp",
+      "published_at": "2026-08-18T20:50:05Z",
+      "description": "The insider story on Google's commitment to Flutter, the enterprise hiring paradox, and why Flutter is kicking tail on every measurable scale.",
+      "tags": [
+        "flutter",
+        "dart",
+        "programming",
+        "mobile"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2h0i1334b6rh3lql2wp.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2603,6 +2664,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuf6jdjehlswpayop4u2.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
+      "published_at": "2026-08-17T09:00:16Z",
+      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
+      "tags": [
+        "docker",
+        "devops",
+        "flutter",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "Riverpod to BlocSignal: Incremental Migration and Zero-Codegen Signals for Flutter",
@@ -2668,6 +2744,50 @@
   ],
   "Cloud": [
     {
+      "title": "Building a viral Imax ticketing app that never crashes",
+      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58",
+      "published_at": "2026-08-20T21:29:37Z",
+      "description": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
+      "tags": [
+        "googlecloud",
+        "temporal",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb4i5x64vwb0pto5vob9j.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
+      "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
+      "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
+      "published_at": "2026-08-20T13:37:59Z",
+      "description": "All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...",
+      "tags": [
+        "a2a",
+        "aiagents",
+        "aws",
+        "azure"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fjkuqd3p2lygi59hcuj.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
+      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
+      "published_at": "2026-08-20T13:25:09Z",
+      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
       "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
       "published_at": "2026-08-13T18:42:09Z",
@@ -2679,6 +2799,21 @@
         "machinelearning"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Build an MCP server in Rust with rmcp: a walk-through 🦀",
+      "url": "https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif",
+      "published_at": "2026-08-16T12:32:56Z",
+      "description": "Step-by-step: scaffolding a real MCP server in Rust with the official rmcp SDK — tools, JSON schemas, AWS calls, stdio transport, testing the protocol by hand, and wiring it into Claude Code.",
+      "tags": [
+        "rust",
+        "mcp",
+        "aws",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-rust-mcp-rmcp.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2773,36 +2908,6 @@
       "user": "xbill"
     },
     {
-      "title": "Three Clouds, Three Native Agents",
-      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
-      "published_at": "2026-08-10T15:04:09Z",
-      "description": "What is this project trying to do?   Three AI agents, each built with a different vendor's...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1",
-      "url": "https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1",
-      "published_at": "2026-08-09T22:14:30Z",
-      "description": "Self-hosting a lite agent backend on one TPU chip   A single Google Cloud TPU v5e chip — 16...",
-      "tags": [
-        "tpu",
-        "vllm",
-        "llm",
-        "gcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flqxk2qm2rz0weus6cur0.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
       "url": "https://github.com/jsongmax/oci-core",
       "published_at": "2026-08-20T02:03:30Z",
@@ -2831,22 +2936,6 @@
       "source": "GitHub",
       "stars": 2894,
       "user": "yetone"
-    },
-    {
-      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-      "published_at": "2026-08-21T20:25:21.000Z",
-      "description": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Social",
-        "bytedance",
-        "children's privacy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     }
   ],
   "Database": [
@@ -2912,6 +3001,20 @@
   ],
   "Security": [
     {
+      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
+      "published_at": "2026-08-20T18:13:27Z",
+      "description": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
+      "tags": [
+        "gubernator",
+        "docker",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -2942,6 +3045,21 @@
       "user": "Thomas Bonnet"
     },
     {
+      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
+      "published_at": "2026-08-17T09:00:16Z",
+      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
+      "tags": [
+        "docker",
+        "devops",
+        "flutter",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security",
       "url": "https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8",
       "published_at": "2026-08-09T22:51:30Z",
@@ -2955,21 +3073,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr90lait8giflsco4nejm.png",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
-    },
-    {
-      "title": "Agent Sandboxes: Giving AI Agents Their Own Little Linux Box (And Why You Should Care)",
-      "url": "https://dev.to/gde/agent-sandboxes-giving-ai-agents-their-own-little-linux-box-and-why-you-should-care-jl4",
-      "published_at": "2026-08-07T09:38:40Z",
-      "description": "Sourced from: GKE Agent Sandbox docs, kubernetes-sigs/agent-sandbox       So here is the thing. We...",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "devops",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvyqz9vzgr23ol73zq9os.png",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3136,11 +3239,11 @@
       "published_at": "2026-08-22T16:00:00.000Z",
       "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
       "tags": [
-        "Security",
         "AI",
-        "Google",
-        "Meta",
-        "xAI"
+        "Security",
+        "alignment",
+        "Anthropic",
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3179,6 +3282,36 @@
       "user": "Debashish Ghosal"
     },
     {
+      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
+      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
+      "published_at": "2026-08-20T13:25:09Z",
+      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
+      "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
+      "published_at": "2026-08-19T03:28:17Z",
+      "description": "GitHub — open-doc https://github.com/simonliu-ai-product/open-doc          1. Introduction   Over...",
+      "tags": [
+        "opensource",
+        "ai",
+        "antigravity",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
+      "source": "Dev.to",
+      "user": "Yu-Wei Simon Liu (Simon Liu)"
+    },
+    {
       "title": "My (not so pretty) journey in tech",
       "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
       "published_at": "2026-08-13T13:10:09Z",
@@ -3192,6 +3325,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frggwt4sjrqxz7hb44jo7.jpg",
       "source": "Dev.to",
       "user": "isha singh"
+    },
+    {
+      "title": "Designing AI Evals: Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "published_at": "2026-08-18T07:00:00Z",
+      "description": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
+      "tags": [
+        "ai",
+        "llm",
+        "python",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
+      "source": "Dev.to",
+      "user": "Katie McLaughlin"
+    },
+    {
+      "title": "Build an MCP server in Rust with rmcp: a walk-through 🦀",
+      "url": "https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif",
+      "published_at": "2026-08-16T12:32:56Z",
+      "description": "Step-by-step: scaffolding a real MCP server in Rust with the official rmcp SDK — tools, JSON schemas, AWS calls, stdio transport, testing the protocol by hand, and wiring it into Claude Code.",
+      "tags": [
+        "rust",
+        "mcp",
+        "aws",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fgpu-vllm-g5g-2b%2Fimages%2Fheader-rust-mcp-rmcp.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Serving Gemma4 with Rust on vLLM 🦀",
@@ -3271,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1204,
       "user": "cinderline"
     },
     {
@@ -3286,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1100,
+      "stars": 1101,
       "user": "vvxw"
     },
     {
@@ -3301,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 677,
       "user": "Spielewoy"
     },
     {
@@ -3316,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 519,
       "user": "MeteorNOX"
     },
     {
@@ -3391,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 703,
       "user": "browser-use"
     },
     {
@@ -3466,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 59,
       "user": "augety121"
     },
     {
@@ -3511,7 +3674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2281,
       "user": "CopilotKit"
     },
     {
@@ -3586,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 164,
       "user": "furkankly"
     },
     {
@@ -3601,7 +3764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "standardagents"
     },
     {
@@ -3631,7 +3794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177131499?v=4",
       "source": "GitHub",
-      "stars": 77,
+      "stars": 78,
       "user": "Nour-yahyaoui"
     },
     {
