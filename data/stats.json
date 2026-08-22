@@ -22,7 +22,7 @@
     "Tools": 33
   },
   "by_language": {
-    "Go": 31,
+    "Go": 30,
     "Rust": 8,
     "JavaScript": 43,
     "Java": 32,
@@ -133,11 +133,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.9",
+    "Go": "20.4",
     "Rust": "5.4",
-    "JavaScript": "29.1",
-    "Java": "21.6",
-    "Python": "20.9",
+    "JavaScript": "29.3",
+    "Java": "21.8",
+    "Python": "21.1",
     "Swift": "1.4",
     "CSharp": "0.7"
   }
