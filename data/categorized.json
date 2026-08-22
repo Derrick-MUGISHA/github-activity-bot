@@ -629,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "browser-use"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2194,
+      "stars": 2197,
       "user": "CopilotKit"
     },
     {
@@ -1420,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 417,
       "user": "MeteorNOX"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2194,
+      "stars": 2197,
       "user": "CopilotKit"
     },
     {
@@ -1658,21 +1658,6 @@
       "user": "Ole"
     },
     {
-      "title": "Hono app not deploying to vercel: Can't read properties of undefined (reading 'readfile')",
-      "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
-      "published_at": "2026-08-20T07:47:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "typescript",
-        "vercel",
-        "hono"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAW Dev"
-    },
-    {
       "title": "How is audio.duration calculated?",
       "url": "https://stackoverflow.com/questions/79965233/how-is-audio-duration-calculated",
       "published_at": "2026-06-22T11:11:01.000Z",
@@ -1685,6 +1670,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Loki"
+    },
+    {
+      "title": "How can I convert a string to an integer in JavaScript?",
+      "url": "https://stackoverflow.com/questions/1133770/how-can-i-convert-a-string-to-an-integer-in-javascript",
+      "published_at": "2009-07-15T20:22:48.000Z",
+      "description": "Stack Overflow question · 32 answers · score 2598",
+      "tags": [
+        "javascript",
+        "string",
+        "integer",
+        "data-conversion"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Unknown"
     }
   ],
   "Python": [
@@ -1924,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "browser-use"
     },
     {
@@ -1946,7 +1946,7 @@
       "title": "An unresolved reference after import streams",
       "url": "https://stackoverflow.com/questions/79997255/an-unresolved-reference-after-import-streams",
       "published_at": "2026-08-22T06:59:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "import",
@@ -3234,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 417,
       "user": "MeteorNOX"
     },
     {
@@ -3309,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 698,
       "user": "browser-use"
     },
     {
@@ -3429,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2194,
+      "stars": 2197,
       "user": "CopilotKit"
     },
     {
@@ -3519,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "standardagents"
     },
     {
