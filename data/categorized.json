@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "Spielewoy"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "augety121"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2869,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2141,
+      "stars": 2145,
       "user": "CopilotKit"
     },
     {
@@ -723,17 +723,28 @@
       "user": "Apeireth"
     },
     {
-      "title": "Building a soft robotic display (air powered!)",
-      "url": "https://youtu.be/RTOARC-yeMc",
-      "published_at": "2026-08-21T17:24:33.767-05:00",
+      "title": "Enabling the next-generation trait solver on nightly",
+      "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+      "published_at": "2026-08-21T10:15:16.747-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "hardware",
-        "video"
+        "rust"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "fanf"
+      "user": "jana"
+    },
+    {
+      "title": "Felony Bench: Be AI, Do Crime",
+      "url": "https://www.felonybench.com/",
+      "published_at": "2026-08-21T12:23:02.886-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
@@ -1379,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1004,
       "user": "vvxw"
     },
     {
@@ -1394,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "Spielewoy"
     },
     {
@@ -1409,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 367,
       "user": "MeteorNOX"
     },
     {
@@ -1454,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2869,
       "user": "yetone"
     },
     {
@@ -1469,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2141,
+      "stars": 2145,
       "user": "CopilotKit"
     },
     {
@@ -1518,23 +1529,10 @@
       "user": "DFarm6"
     },
     {
-      "title": "Emulating a key press in JavaScript: dispatching a KeyboardEvent not working?",
-      "url": "https://stackoverflow.com/questions/79997220/emulating-a-key-press-in-javascript-dispatching-a-keyboardevent-not-working",
-      "published_at": "2026-08-22T01:02:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "keyboard-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manngo"
-    },
-    {
       "title": "Unable to generate audio element on an HTML page using JavaScript",
       "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
       "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1658,6 +1656,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAW Dev"
+    },
+    {
+      "title": "How to reset ContentControl.Color to default?",
+      "url": "https://stackoverflow.com/questions/79990355/how-to-reset-contentcontrol-color-to-default",
+      "published_at": "2026-08-04T10:26:56.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "ms-word",
+        "office-js",
+        "word-addins"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Burned"
     }
   ],
   "Python": [
@@ -2391,22 +2405,10 @@
       "user": "Leutenegger"
     },
     {
-      "title": "Emacs 31.1 will release on 8/24",
-      "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY#L246",
-      "published_at": "2026-08-20T11:58:11.479-05:00",
-      "description": "Biggest thing for me is that tree-sitter's ABI is being bumped to 15 -- fixes compatibility issues with *several* upstream grammars.\r\n\r\nFor the impatient, RC1 has been posted: https://lists.gnu.org/archive/html/emacs-devel/2026-08/msg00599.html",
-      "tags": [
-        "emacs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pgn"
-    },
-    {
       "title": "Unable to generate audio element on an HTML page using JavaScript",
       "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
       "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2688,7 +2690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2869,
       "user": "yetone"
     },
     {
@@ -2749,18 +2751,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "DuckDB v2.0: Your Database Deserves a Better Parser",
-      "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser.html",
-      "published_at": "2026-08-21T12:01:11.022-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
     },
     {
       "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
@@ -3004,18 +2994,16 @@
       "user": "Apeireth"
     },
     {
-      "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
-      "url": "https://www.ethanheilman.com/x/33/index.html",
-      "published_at": "2026-08-20T10:24:43.059-05:00",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "published_at": "2026-08-21T07:05:00.528-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "cryptography",
-        "security",
-        "web"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "EthanHeilman"
+      "user": "taavi"
     },
     {
       "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
@@ -3186,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1004,
       "user": "vvxw"
     },
     {
@@ -3201,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 594,
+      "stars": 597,
       "user": "Spielewoy"
     },
     {
@@ -3216,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 367,
       "user": "MeteorNOX"
     },
     {
@@ -3321,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 369,
       "user": "b-nnett"
     },
     {
@@ -3366,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "augety121"
     },
     {
@@ -3396,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2861,
+      "stars": 2869,
       "user": "yetone"
     },
     {
@@ -3411,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2141,
+      "stars": 2145,
       "user": "CopilotKit"
     },
     {
@@ -3471,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 418,
       "user": "iAmCorey"
     },
     {
@@ -3486,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 115,
       "user": "furkankly"
     },
     {
@@ -3501,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 89,
       "user": "standardagents"
     },
     {
