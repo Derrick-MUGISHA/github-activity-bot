@@ -584,7 +584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "Spielewoy"
     },
     {
@@ -674,7 +674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "augety121"
     },
     {
@@ -689,7 +689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2883,
+      "stars": 2885,
       "user": "yetone"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2197,
+      "stars": 2203,
       "user": "CopilotKit"
     },
     {
@@ -761,6 +761,22 @@
       "user": "Danish"
     },
     {
+      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
+      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
+      "published_at": "2026-08-21T03:25:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "background-image",
+        "pseudo-element",
+        "elementor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Y K"
+    },
+    {
       "title": "on click on element, react fails with \"destroy is not a function\"",
       "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
       "published_at": "2026-08-21T15:10:29.000Z",
@@ -773,22 +789,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "serv-inc"
-    },
-    {
-      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
-      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
-      "published_at": "2026-08-21T03:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "background-image",
-        "pseudo-element",
-        "elementor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Y K"
     },
     {
       "title": "Run an async function weekly at a specific time",
@@ -954,6 +954,22 @@
       "user": "Julie Bort"
     },
     {
+      "title": "Neural Networks Explained: What They Are and How to Build One in Python",
+      "url": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
+      "published_at": "2026-08-21T21:52:56.000Z",
+      "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "DeepLearning",
+        "software development",
+        "Software Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
+    },
+    {
       "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
       "url": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
       "published_at": "2026-08-21T20:45:13.000Z",
@@ -1061,20 +1077,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "RONI DAS"
-    },
-    {
-      "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
-      "url": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
-      "published_at": "2026-08-20T16:48:19.000Z",
-      "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
-      "tags": [
-        "Cloud Computing",
-        "Cloud infrastructure",
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "JavaScript": [
@@ -1390,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1044,
       "user": "vvxw"
     },
     {
@@ -1405,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "Spielewoy"
     },
     {
@@ -1420,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 423,
       "user": "MeteorNOX"
     },
     {
@@ -1435,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "Ariescar"
     },
     {
@@ -1465,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2883,
+      "stars": 2885,
       "user": "yetone"
     },
     {
@@ -1480,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2197,
+      "stars": 2203,
       "user": "CopilotKit"
     },
     {
@@ -1540,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 71,
       "user": "furkankly"
     },
     {
@@ -1574,6 +1576,22 @@
       "user": "Danish"
     },
     {
+      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
+      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
+      "published_at": "2026-08-21T03:25:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "background-image",
+        "pseudo-element",
+        "elementor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Y K"
+    },
+    {
       "title": "on click on element, react fails with \"destroy is not a function\"",
       "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
       "published_at": "2026-08-21T15:10:29.000Z",
@@ -1600,22 +1618,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aurora Lane"
-    },
-    {
-      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
-      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
-      "published_at": "2026-08-21T03:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "css",
-        "background-image",
-        "pseudo-element",
-        "elementor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Y K"
     },
     {
       "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
@@ -1946,7 +1948,7 @@
       "title": "An unresolved reference after import streams",
       "url": "https://stackoverflow.com/questions/79997255/an-unresolved-reference-after-import-streams",
       "published_at": "2026-08-22T06:59:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "import",
@@ -2088,6 +2090,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Wyatt"
+    },
+    {
+      "title": "Neural Networks Explained: What They Are and How to Build One in Python",
+      "url": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
+      "published_at": "2026-08-21T21:52:56.000Z",
+      "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "DeepLearning",
+        "software development",
+        "Software Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
@@ -2454,7 +2472,7 @@
       "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
       "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
       "published_at": "2026-08-21T03:25:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "css",
@@ -2720,7 +2738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2883,
+      "stars": 2885,
       "user": "yetone"
     },
     {
@@ -2738,20 +2756,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
-      "url": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
-      "published_at": "2026-08-20T16:48:19.000Z",
-      "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
-      "tags": [
-        "Cloud Computing",
-        "Cloud infrastructure",
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Database": [
@@ -3049,20 +3053,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kate Park"
-    },
-    {
-      "title": "The Hidden Risks Lurking in Your Cloud Infrastructure",
-      "url": "https://www.freecodecamp.org/news/the-hidden-risks-lurking-in-your-cloud-infrastructure/",
-      "published_at": "2026-08-20T16:48:19.000Z",
-      "description": "Cloud computing has changed how organisations build, deploy, and scale applications. Businesses can launch new services in minutes, expand into new markets, and reduce the cost of maintaining physical",
-      "tags": [
-        "Cloud Computing",
-        "Cloud infrastructure",
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Manish Shivanandhan"
     }
   ],
   "Tools": [
@@ -3204,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1044,
       "user": "vvxw"
     },
     {
@@ -3219,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 625,
       "user": "Spielewoy"
     },
     {
@@ -3234,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 423,
       "user": "MeteorNOX"
     },
     {
@@ -3249,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/243285636?v=4",
       "source": "GitHub",
-      "stars": 297,
+      "stars": 298,
       "user": "Ariescar"
     },
     {
@@ -3384,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/89954519?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "augety121"
     },
     {
@@ -3414,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2883,
+      "stars": 2885,
       "user": "yetone"
     },
     {
@@ -3429,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2197,
+      "stars": 2203,
       "user": "CopilotKit"
     },
     {
@@ -3489,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "iAmCorey"
     },
     {
@@ -3504,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "furkankly"
     },
     {
@@ -3519,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 99,
+      "stars": 103,
       "user": "standardagents"
     },
     {
@@ -3549,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 71,
       "user": "furkankly"
     }
   ]
