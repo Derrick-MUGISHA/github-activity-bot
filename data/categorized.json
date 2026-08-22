@@ -31,6 +31,20 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "My AI Content Journey",
+      "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
+      "published_at": "2026-08-19T16:47:10Z",
+      "description": "I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...",
+      "tags": [
+        "ai",
+        "webdev",
+        "devjournal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7fgab29vtqhencvqukv.png",
+      "source": "Dev.to",
+      "user": "Ryan Carniato"
+    },
+    {
       "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
       "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke",
       "published_at": "2026-08-21T06:41:03Z",
@@ -179,21 +193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb51fynatm414nsavekzg.png",
       "source": "Dev.to",
       "user": "Jean-Phi Baconnais"
-    },
-    {
-      "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
-      "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
-      "published_at": "2026-08-19T03:28:17Z",
-      "description": "GitHub — open-doc https://github.com/simonliu-ai-product/open-doc          1. Introduction   Over...",
-      "tags": [
-        "opensource",
-        "ai",
-        "antigravity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
-      "source": "Dev.to",
-      "user": "Yu-Wei Simon Liu (Simon Liu)"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -600,7 +599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "Spielewoy"
     },
     {
@@ -630,7 +629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "Leutenegger"
     },
     {
@@ -645,7 +644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "browser-use"
     },
     {
@@ -660,7 +659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 680,
       "user": "SigmanticAI"
     },
     {
@@ -694,6 +693,21 @@
       "user": "augety121"
     },
     {
+      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "published_at": "2026-08-22T10:30:10Z",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
+      "source": "GitHub",
+      "stars": 48,
+      "user": "zhaoxuya520"
+    },
+    {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "published_at": "2026-08-17T09:13:52Z",
@@ -705,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2895,
+      "stars": 2896,
       "user": "yetone"
     },
     {
@@ -720,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2295,
       "user": "CopilotKit"
     },
     {
@@ -766,18 +780,6 @@
       "user": "jana"
     },
     {
-      "title": "Felony Bench: Be AI, Do Crime",
-      "url": "https://www.felonybench.com/",
-      "published_at": "2026-08-21T12:23:02.886-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
-    },
-    {
       "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
       "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
       "published_at": "2026-08-22T11:04:51.303-05:00",
@@ -789,6 +791,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Yogthos"
+    },
+    {
+      "title": "Felony Bench: Be AI, Do Crime",
+      "url": "https://www.felonybench.com/",
+      "published_at": "2026-08-21T12:23:02.886-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
@@ -906,6 +920,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "published_at": "2026-08-22T19:00:00.000Z",
+      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "tags": [
+        "AI",
+        "London",
+        "google deepmind"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
@@ -1026,22 +1054,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-      "published_at": "2026-08-21T20:58:07.000Z",
-      "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-      "tags": [
-        "Hardware",
-        "AI",
-        "Apple",
-        "In Brief",
-        "Layoffs"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1422,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1205,
       "user": "cinderline"
     },
     {
@@ -1452,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "Spielewoy"
     },
     {
@@ -1467,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "MeteorNOX"
     },
     {
@@ -1512,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2895,
+      "stars": 2896,
       "user": "yetone"
     },
     {
@@ -1527,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2295,
       "user": "CopilotKit"
     },
     {
@@ -1958,7 +1970,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "Leutenegger"
     },
     {
@@ -1988,7 +2000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "browser-use"
     },
     {
@@ -2003,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 680,
       "user": "SigmanticAI"
     },
     {
@@ -2022,18 +2034,17 @@
       "user": "Nour-yahyaoui"
     },
     {
-      "title": "Speeding up shelve",
-      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
-      "published_at": "2026-08-22T15:45:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Combining a Fade animation with a ScaleInPlace",
+      "url": "https://stackoverflow.com/questions/79997381/combining-a-fade-animation-with-a-scaleinplace",
+      "published_at": "2026-08-22T18:05:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "wsgi",
-        "shelve"
+        "manim"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NickC"
+      "user": "Portevent"
     },
     {
       "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
@@ -2049,6 +2060,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Leonardo Quadros"
+    },
+    {
+      "title": "Speeding up shelve",
+      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
+      "published_at": "2026-08-22T15:45:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "wsgi",
+        "shelve"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Run an async function weekly at a specific time",
@@ -2152,21 +2177,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "samrad Tangestani"
-    },
-    {
-      "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
-      "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
-      "published_at": "2026-08-20T20:28:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "pandas",
-        "nan",
-        "read-csv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "maab"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2511,7 +2521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "Leutenegger"
     },
     {
@@ -2947,7 +2957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2895,
+      "stars": 2896,
       "user": "yetone"
     }
   ],
@@ -3280,6 +3290,20 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
+      "title": "My AI Content Journey",
+      "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
+      "published_at": "2026-08-19T16:47:10Z",
+      "description": "I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...",
+      "tags": [
+        "ai",
+        "webdev",
+        "devjournal"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7fgab29vtqhencvqukv.png",
+      "source": "Dev.to",
+      "user": "Ryan Carniato"
+    },
+    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -3308,21 +3332,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
-      "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
-      "published_at": "2026-08-19T03:28:17Z",
-      "description": "GitHub — open-doc https://github.com/simonliu-ai-product/open-doc          1. Introduction   Over...",
-      "tags": [
-        "opensource",
-        "ai",
-        "antigravity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
-      "source": "Dev.to",
-      "user": "Yu-Wei Simon Liu (Simon Liu)"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -3432,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1204,
+      "stars": 1205,
       "user": "cinderline"
     },
     {
@@ -3462,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 686,
       "user": "Spielewoy"
     },
     {
@@ -3477,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 542,
       "user": "MeteorNOX"
     },
     {
@@ -3522,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/265765261?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 933,
       "user": "Leutenegger"
     },
     {
@@ -3552,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "browser-use"
     },
     {
@@ -3567,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 679,
+      "stars": 680,
       "user": "SigmanticAI"
     },
     {
@@ -3631,19 +3640,19 @@
       "user": "augety121"
     },
     {
-      "title": "remnawave/geocheck - Where the internet thinks you are, and how directly you reach it.",
-      "url": "https://github.com/remnawave/geocheck",
-      "published_at": "2026-08-17T19:56:01Z",
-      "description": "Where the internet thinks you are, and how directly you reach it.",
+      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "published_at": "2026-08-22T10:30:10Z",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/163913909?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 45,
-      "user": "remnawave"
+      "stars": 48,
+      "user": "zhaoxuya520"
     },
     {
       "title": "yetone/cumora - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -3657,7 +3666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2895,
+      "stars": 2896,
       "user": "yetone"
     },
     {
@@ -3672,7 +3681,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2291,
+      "stars": 2295,
       "user": "CopilotKit"
     },
     {
@@ -3732,7 +3741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 444,
       "user": "iAmCorey"
     },
     {
@@ -3762,7 +3771,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "standardagents"
     },
     {
