@@ -600,7 +600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 684,
       "user": "Spielewoy"
     },
     {
@@ -660,7 +660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "SigmanticAI"
     },
     {
@@ -675,7 +675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "azrtydxb"
     },
     {
@@ -720,7 +720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2287,
+      "stars": 2291,
       "user": "CopilotKit"
     },
     {
@@ -735,7 +735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "Apeireth"
     },
     {
@@ -776,6 +776,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pushcx"
+    },
+    {
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "published_at": "2026-08-22T11:04:51.303-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
     },
     {
       "title": "How can I apply custom syntax highlighting colors to CodeMirror to match Prism.js Okaidia theme?",
@@ -1439,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 684,
       "user": "Spielewoy"
     },
     {
@@ -1454,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 540,
       "user": "MeteorNOX"
     },
     {
@@ -1514,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2287,
+      "stars": 2291,
       "user": "CopilotKit"
     },
     {
@@ -1990,7 +2003,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "SigmanticAI"
     },
     {
@@ -2009,6 +2022,20 @@
       "user": "Nour-yahyaoui"
     },
     {
+      "title": "Speeding up shelve",
+      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
+      "published_at": "2026-08-22T15:45:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "wsgi",
+        "shelve"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
       "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
       "published_at": "2026-08-22T16:43:26.000Z",
@@ -2022,20 +2049,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Leonardo Quadros"
-    },
-    {
-      "title": "Speeding up shelve",
-      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
-      "published_at": "2026-08-22T15:45:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "wsgi",
-        "shelve"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "Run an async function weekly at a specific time",
@@ -2722,7 +2735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "Apeireth"
     },
     {
@@ -3203,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "Apeireth"
     },
     {
@@ -3449,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 684,
       "user": "Spielewoy"
     },
     {
@@ -3464,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 540,
       "user": "MeteorNOX"
     },
     {
@@ -3554,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 679,
       "user": "SigmanticAI"
     },
     {
@@ -3584,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266232796?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "azrtydxb"
     },
     {
@@ -3629,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/163913909?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "remnawave"
     },
     {
@@ -3659,7 +3672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2287,
+      "stars": 2291,
       "user": "CopilotKit"
     },
     {
@@ -3719,7 +3732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 443,
       "user": "iAmCorey"
     },
     {
@@ -3749,7 +3762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "standardagents"
     },
     {
@@ -3764,7 +3777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "Apeireth"
     },
     {
