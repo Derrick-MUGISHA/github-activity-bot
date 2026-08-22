@@ -1,6 +1,34 @@
 {
   "AI": [
     {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "published_at": "2026-08-22T20:29:26Z",
+      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -193,21 +221,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkc4umpukqlmd6ltw88rh.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Gemini, tell me a story",
-      "url": "https://dev.to/gde/gemini-tell-me-a-story-3jmn",
-      "published_at": "2026-08-19T13:12:14Z",
-      "description": "A French version is available here.            Vacation time 🌴   We are at the end of July, it's my...",
-      "tags": [
-        "sideprojects",
-        "gemini",
-        "ai",
-        "kids"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb51fynatm414nsavekzg.png",
-      "source": "Dev.to",
-      "user": "Jean-Phi Baconnais"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -614,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 702,
       "user": "Spielewoy"
     },
     {
@@ -704,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 70,
       "user": "zhaoxuya520"
     },
     {
@@ -749,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2315,
+      "stars": 2317,
       "user": "CopilotKit"
     },
     {
@@ -764,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "Apeireth"
     },
     {
@@ -1184,21 +1197,6 @@
       "user": "Abbey Perini"
     },
     {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-      "published_at": "2026-08-11T14:40:56Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "react",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
-    },
-    {
       "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
       "url": "https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7",
       "published_at": "2026-08-15T00:21:12Z",
@@ -1420,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1114,
       "user": "vvxw"
     },
     {
@@ -1435,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 702,
       "user": "Spielewoy"
     },
     {
@@ -1510,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2315,
+      "stars": 2317,
       "user": "CopilotKit"
     },
     {
@@ -2366,6 +2364,19 @@
   ],
   "WebDev": [
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
       "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
       "published_at": "2026-08-16T13:31:22Z",
@@ -2572,6 +2583,21 @@
   ],
   "Mobile": [
     {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "published_at": "2026-08-22T20:29:26Z",
+      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
       "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
       "published_at": "2026-08-22T02:59:36Z",
@@ -2702,7 +2728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "Apeireth"
     },
     {
@@ -2919,21 +2945,6 @@
     }
   ],
   "Database": [
-    {
-      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
-      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
-      "published_at": "2026-08-11T14:40:56Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "react",
-        "devbugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
-      "source": "Dev.to",
-      "user": "Pooja Bhavani"
-    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -3183,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "Apeireth"
     },
     {
@@ -3416,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1112,
+      "stars": 1114,
       "user": "vvxw"
     },
     {
@@ -3431,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 702,
       "user": "Spielewoy"
     },
     {
@@ -3596,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 70,
       "user": "zhaoxuya520"
     },
     {
@@ -3641,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2315,
+      "stars": 2317,
       "user": "CopilotKit"
     },
     {
@@ -3701,7 +3712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 453,
       "user": "iAmCorey"
     },
     {
@@ -3746,7 +3757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318249439?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 93,
       "user": "Apeireth"
     },
     {
