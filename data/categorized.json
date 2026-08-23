@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "nateherkai"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 726,
       "user": "browser-use"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "cclank"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 594,
       "user": "amirh00sain"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2463,
+      "stars": 2465,
       "user": "CopilotKit"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Forsy-AI"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "amagine-ai"
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "Spielewoy"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "nateherkai"
     },
     {
@@ -1525,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2463,
+      "stars": 2465,
       "user": "CopilotKit"
     },
     {
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Forsy-AI"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "amagine-ai"
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 726,
       "user": "browser-use"
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "cclank"
     },
     {
@@ -2020,14 +2020,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 594,
       "user": "amirh00sain"
     },
     {
       "title": "Dataframe sorting and column count",
       "url": "https://stackoverflow.com/questions/79997582/dataframe-sorting-and-column-count",
       "published_at": "2026-08-23T16:22:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "pandas"
@@ -2108,6 +2108,19 @@
       "user": "Benjamin Tsoumagas"
     },
     {
+      "title": "Updating one of Python's previous versions to its latest version for bug fixes",
+      "url": "https://stackoverflow.com/questions/79996866/updating-one-of-pythons-previous-versions-to-its-latest-version-for-bug-fixes",
+      "published_at": "2026-08-20T16:45:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Celdor"
+    },
+    {
       "title": "An unresolved reference after import streams",
       "url": "https://stackoverflow.com/questions/79997255/an-unresolved-reference-after-import-streams",
       "published_at": "2026-08-22T06:59:06.000Z",
@@ -2150,21 +2163,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
-    },
-    {
-      "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
-      "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
-      "published_at": "2026-08-20T22:40:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score 4",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright",
-        "python-attrs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2717,7 +2715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Forsy-AI"
     },
     {
@@ -3258,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Forsy-AI"
     },
     {
@@ -3504,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 759,
       "user": "Spielewoy"
     },
     {
@@ -3534,7 +3532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "nateherkai"
     },
     {
@@ -3564,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 726,
       "user": "browser-use"
     },
     {
@@ -3594,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 621,
       "user": "cclank"
     },
     {
@@ -3609,7 +3607,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 594,
       "user": "amirh00sain"
     },
     {
@@ -3714,7 +3712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2463,
+      "stars": 2465,
       "user": "CopilotKit"
     },
     {
@@ -3729,7 +3727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 354,
       "user": "Forsy-AI"
     },
     {
@@ -3744,7 +3742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "amagine-ai"
     },
     {
@@ -3774,7 +3772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 532,
       "user": "iAmCorey"
     },
     {
@@ -3789,7 +3787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "furkankly"
     },
     {
@@ -3819,7 +3817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "standardagents"
     },
     {
