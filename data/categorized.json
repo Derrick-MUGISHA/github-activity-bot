@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 467,
       "user": "nateherkai"
     },
     {
@@ -687,7 +687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "browser-use"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 637,
       "user": "cclank"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2944,
+      "stars": 2945,
       "user": "yetone"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2484,
+      "stars": 2487,
       "user": "CopilotKit"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Forsy-AI"
     },
     {
@@ -1388,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1209,
       "user": "vvxw"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1205,
       "user": "cinderline"
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 467,
       "user": "nateherkai"
     },
     {
@@ -1478,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2944,
+      "stars": 2945,
       "user": "yetone"
     },
     {
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2484,
+      "stars": 2487,
       "user": "CopilotKit"
     },
     {
@@ -1508,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Forsy-AI"
     },
     {
@@ -1957,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "browser-use"
     },
     {
@@ -1987,8 +1987,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 637,
       "user": "cclank"
+    },
+    {
+      "title": "line breaks problem in reStructuredText with Python",
+      "url": "https://stackoverflow.com/questions/79997611/line-breaks-problem-in-restructuredtext-with-python",
+      "published_at": "2026-08-23T20:15:09.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "restructuredtext"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Liomtr"
+    },
+    {
+      "title": "Do copies of dictionaries change if the dictionary itself changed",
+      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
+      "published_at": "2026-08-23T21:35:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "dictionary",
+        "for-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asad"
     },
     {
       "title": "Any recommendations for Pygame tutorials?",
@@ -2003,33 +2030,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TBNR8473"
-    },
-    {
-      "title": "Do copies of dictionaries change if the dictionary itself changed",
-      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
-      "published_at": "2026-08-23T21:35:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "dictionary",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asad"
-    },
-    {
-      "title": "line breaks problem in reStructuredText with Python",
-      "url": "https://stackoverflow.com/questions/79997611/line-breaks-problem-in-restructuredtext-with-python",
-      "published_at": "2026-08-23T20:15:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "restructuredtext"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Liomtr"
     },
     {
       "title": "Dataframe sorting and column count",
@@ -2680,7 +2680,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Forsy-AI"
     },
     {
@@ -2937,7 +2937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2944,
+      "stars": 2945,
       "user": "yetone"
     }
   ],
@@ -3221,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Forsy-AI"
     },
     {
@@ -3437,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1209,
       "user": "vvxw"
     },
     {
@@ -3452,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/150383880?v=4",
       "source": "GitHub",
-      "stars": 1206,
+      "stars": 1205,
       "user": "cinderline"
     },
     {
@@ -3497,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 467,
       "user": "nateherkai"
     },
     {
@@ -3542,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 727,
+      "stars": 728,
       "user": "browser-use"
     },
     {
@@ -3572,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 637,
       "user": "cclank"
     },
     {
@@ -3662,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2944,
+      "stars": 2945,
       "user": "yetone"
     },
     {
@@ -3677,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2484,
+      "stars": 2487,
       "user": "CopilotKit"
     },
     {
@@ -3692,7 +3692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 357,
       "user": "Forsy-AI"
     },
     {
@@ -3737,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 537,
       "user": "iAmCorey"
     },
     {
