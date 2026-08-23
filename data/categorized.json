@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 769,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 479,
       "user": "nateherkai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "SigmanticAI"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 645,
       "user": "cclank"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2494,
       "user": "CopilotKit"
     },
     {
@@ -1418,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 769,
       "user": "Spielewoy"
     },
     {
@@ -1448,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 479,
       "user": "nateherkai"
     },
     {
@@ -1493,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2494,
       "user": "CopilotKit"
     },
     {
@@ -1643,22 +1643,6 @@
       "user": "Naeem Akhtar"
     },
     {
-      "title": "Unable to generate audio element on an HTML page using JavaScript",
-      "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
-      "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "dynamic",
-        "html5-audio",
-        "audio-player"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nomad1004"
-    },
-    {
       "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
       "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
       "published_at": "2026-08-21T03:25:43.000Z",
@@ -1702,6 +1686,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Scott"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     }
   ],
   "Python": [
@@ -1972,7 +1971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "SigmanticAI"
     },
     {
@@ -1987,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 645,
       "user": "cclank"
     },
     {
@@ -2004,20 +2003,6 @@
       "user": "Liomtr"
     },
     {
-      "title": "Do copies of dictionaries change if the dictionary itself changed",
-      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
-      "published_at": "2026-08-23T21:35:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "dictionary",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asad"
-    },
-    {
       "title": "Any recommendations for Pygame tutorials?",
       "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
       "published_at": "2026-08-23T21:09:31.000Z",
@@ -2030,6 +2015,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TBNR8473"
+    },
+    {
+      "title": "Do copies of dictionaries change if the dictionary itself changed",
+      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
+      "published_at": "2026-08-23T21:35:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "dictionary",
+        "for-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asad"
     },
     {
       "title": "Dataframe sorting and column count",
@@ -2516,22 +2515,6 @@
       "user": "ThisStatementIsALie"
     },
     {
-      "title": "Unable to generate audio element on an HTML page using JavaScript",
-      "url": "https://stackoverflow.com/questions/79997191/unable-to-generate-audio-element-on-an-html-page-using-javascript",
-      "published_at": "2026-08-21T21:04:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "dynamic",
-        "html5-audio",
-        "audio-player"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nomad1004"
-    },
-    {
       "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
       "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
       "published_at": "2026-08-21T03:25:43.000Z",
@@ -2546,6 +2529,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Y K"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     }
   ],
   "Mobile": [
@@ -3467,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 769,
       "user": "Spielewoy"
     },
     {
@@ -3497,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 479,
       "user": "nateherkai"
     },
     {
@@ -3557,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219103514?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 683,
       "user": "SigmanticAI"
     },
     {
@@ -3572,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 645,
       "user": "cclank"
     },
     {
@@ -3677,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2494,
       "user": "CopilotKit"
     },
     {
@@ -3737,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 540,
       "user": "iAmCorey"
     },
     {
@@ -3782,7 +3780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "standardagents"
     },
     {
@@ -3799,6 +3797,21 @@
       "source": "GitHub",
       "stars": 104,
       "user": "Apeireth"
+    },
+    {
+      "title": "How can I customize keyboard behaviour in HTML select menus?",
+      "url": "https://stackoverflow.com/questions/79995042/how-can-i-customize-keyboard-behaviour-in-html-select-menus",
+      "published_at": "2026-08-14T09:19:12.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html",
+        "drop-down-menu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "leo"
     },
     {
       "title": "Any recommendations for Pygame tutorials?",
