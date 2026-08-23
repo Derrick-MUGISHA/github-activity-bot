@@ -1,19 +1,6 @@
 {
   "AI": [
     {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -42,6 +29,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 749,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 384,
       "user": "nateherkai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 564,
       "user": "amirh00sain"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 563,
       "user": "cclank"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2925,
+      "stars": 2927,
       "user": "yetone"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2436,
       "user": "CopilotKit"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "Forsy-AI"
     },
     {
@@ -884,18 +884,17 @@
       "user": "Y K"
     },
     {
-      "title": "on click on element, react fails with \"destroy is not a function\"",
-      "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
-      "published_at": "2026-08-21T15:10:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
+      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
+      "published_at": "2026-08-16T00:35:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "reactjs",
-        "scroll"
+        "ruby-on-rails"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "serv-inc"
+      "user": "Scott"
     },
     {
       "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
@@ -1453,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1203,
       "user": "vvxw"
     },
     {
@@ -1468,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 749,
       "user": "Spielewoy"
     },
     {
@@ -1483,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 694,
       "user": "MeteorNOX"
     },
     {
@@ -1498,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 384,
       "user": "nateherkai"
     },
     {
@@ -1528,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2925,
+      "stars": 2927,
       "user": "yetone"
     },
     {
@@ -1543,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2436,
       "user": "CopilotKit"
     },
     {
@@ -1573,7 +1572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "Forsy-AI"
     },
     {
@@ -1710,20 +1709,6 @@
       "user": "Y K"
     },
     {
-      "title": "on click on element, react fails with \"destroy is not a function\"",
-      "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
-      "published_at": "2026-08-21T15:10:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "scroll"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "serv-inc"
-    },
-    {
       "title": "Vue.js watcher not detecting changes to nested object property",
       "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
       "published_at": "2026-08-18T23:44:17.000Z",
@@ -1751,6 +1736,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe J"
+    },
+    {
+      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
+      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
+      "published_at": "2026-08-16T00:35:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "ruby-on-rails"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scott"
     }
   ],
   "Python": [
@@ -2021,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 564,
       "user": "amirh00sain"
     },
     {
@@ -2036,8 +2034,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 563,
       "user": "cclank"
+    },
+    {
+      "title": "How do I get typing to work on generic class when creating a property with a function?",
+      "url": "https://stackoverflow.com/questions/79997571/how-do-i-get-typing-to-work-on-generic-class-when-creating-a-property-with-a-fun",
+      "published_at": "2026-08-23T15:39:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "Speeding up shelve",
@@ -2140,21 +2151,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
-    },
-    {
-      "title": "Why is my coroutine wrapper working when I use it as a decorator but not when I use it as a wrapper?",
-      "url": "https://stackoverflow.com/questions/79996879/why-is-my-coroutine-wrapper-working-when-i-use-it-as-a-decorator-but-not-when-i",
-      "published_at": "2026-08-20T17:32:00.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "python-asyncio",
-        "wrapper",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
@@ -2750,7 +2746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "Forsy-AI"
     },
     {
@@ -2977,7 +2973,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2925,
+      "stars": 2927,
       "user": "yetone"
     }
   ],
@@ -3261,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "Forsy-AI"
     },
     {
@@ -3508,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1203,
       "user": "vvxw"
     },
     {
@@ -3523,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 749,
       "user": "Spielewoy"
     },
     {
@@ -3538,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 694,
       "user": "MeteorNOX"
     },
     {
@@ -3553,7 +3549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 384,
       "user": "nateherkai"
     },
     {
@@ -3613,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 563,
+      "stars": 564,
       "user": "amirh00sain"
     },
     {
@@ -3628,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 563,
       "user": "cclank"
     },
     {
@@ -3718,7 +3714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2925,
+      "stars": 2927,
       "user": "yetone"
     },
     {
@@ -3733,7 +3729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2433,
+      "stars": 2436,
       "user": "CopilotKit"
     },
     {
@@ -3763,7 +3759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 306,
       "user": "Forsy-AI"
     },
     {
@@ -3793,7 +3789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 525,
       "user": "iAmCorey"
     },
     {
@@ -3808,7 +3804,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 175,
       "user": "furkankly"
     },
     {
