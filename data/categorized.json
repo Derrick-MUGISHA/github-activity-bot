@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Greatness Is Forged by Limitation",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "published_at": "2026-08-19T13:04:47Z",
-      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "career"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
-      "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
-    },
-    {
       "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
       "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
       "published_at": "2026-08-22T20:29:26Z",
@@ -57,6 +42,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "Greatness Is Forged by Limitation",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
+      "published_at": "2026-08-19T13:04:47Z",
+      "description": "Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...",
+      "tags": [
+        "ai",
+        "programming",
+        "webdev",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
     },
     {
       "title": "My AI Content Journey",
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "nateherkai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 586,
       "user": "cclank"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 570,
       "user": "amirh00sain"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2439,
+      "stars": 2444,
       "user": "CopilotKit"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "Forsy-AI"
     },
     {
@@ -839,6 +839,18 @@
       "source": "GitHub",
       "stars": 101,
       "user": "Apeireth"
+    },
+    {
+      "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "published_at": "2026-08-23T10:45:01.334-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Yogthos"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -1481,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "nateherkai"
     },
     {
@@ -1526,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2439,
+      "stars": 2444,
       "user": "CopilotKit"
     },
     {
@@ -1541,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "Forsy-AI"
     },
     {
@@ -2003,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 586,
       "user": "cclank"
     },
     {
@@ -2018,8 +2030,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 570,
       "user": "amirh00sain"
+    },
+    {
+      "title": "Dataframe sorting and column count",
+      "url": "https://stackoverflow.com/questions/79997582/dataframe-sorting-and-column-count",
+      "published_at": "2026-08-23T16:22:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "pandas"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jam One"
     },
     {
       "title": "How do I get typing to work on generic class when creating a property with a function?",
@@ -2150,21 +2175,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
-      "url": "https://stackoverflow.com/questions/79981356/why-do-c-and-fortran-ordered-numpy-arrays-show-the-same-l1-cache-miss-percentag",
-      "published_at": "2026-07-16T15:42:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "arrays",
-        "numpy",
-        "perf"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FluidMechanics Potential Flows"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2730,7 +2740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "Forsy-AI"
     },
     {
@@ -3241,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "Forsy-AI"
     },
     {
@@ -3533,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "nateherkai"
     },
     {
@@ -3593,7 +3603,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 586,
       "user": "cclank"
     },
     {
@@ -3608,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 568,
+      "stars": 570,
       "user": "amirh00sain"
     },
     {
@@ -3713,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2439,
+      "stars": 2444,
       "user": "CopilotKit"
     },
     {
@@ -3728,7 +3738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 319,
       "user": "Forsy-AI"
     },
     {
@@ -3818,7 +3828,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247467195?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "standardagents"
     },
     {
