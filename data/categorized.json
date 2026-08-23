@@ -59,21 +59,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "My AI Content Journey",
       "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
       "published_at": "2026-08-19T16:47:10Z",
@@ -221,6 +206,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkc4umpukqlmd6ltw88rh.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 733,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "nateherkai"
     },
     {
@@ -657,7 +657,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1382,
       "user": "wang2122"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "amirh00sain"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277500851?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "flaqai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 132,
       "user": "zhaoxuya520"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2912,
+      "stars": 2913,
       "user": "yetone"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2407,
       "user": "CopilotKit"
     },
     {
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 733,
       "user": "Spielewoy"
     },
     {
@@ -1464,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 654,
       "user": "MeteorNOX"
     },
     {
@@ -1479,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "nateherkai"
     },
     {
@@ -1509,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2912,
+      "stars": 2913,
       "user": "yetone"
     },
     {
@@ -1524,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2407,
       "user": "CopilotKit"
     },
     {
@@ -1733,21 +1733,6 @@
   ],
   "Python": [
     {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
       "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
       "published_at": "2026-08-20T01:56:59Z",
@@ -1761,6 +1746,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -1954,7 +1954,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1382,
       "user": "wang2122"
     },
     {
@@ -1999,7 +1999,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "amirh00sain"
     },
     {
@@ -2014,7 +2014,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277500851?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "flaqai"
     },
     {
@@ -2050,7 +2050,7 @@
       "title": "Combining a Fade animation with a ScaleInPlace",
       "url": "https://stackoverflow.com/questions/79997381/combining-a-fade-animation-with-a-scaleinplace",
       "published_at": "2026-08-22T18:05:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "manim"
@@ -2615,6 +2615,20 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
+      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
+      "published_at": "2026-08-20T18:13:27Z",
+      "description": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
+      "tags": [
+        "gubernator",
+        "docker",
+        "antigravity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
       "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
       "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
       "published_at": "2026-08-21T01:00:50Z",
@@ -2628,20 +2642,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
-      "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
-      "published_at": "2026-08-20T18:13:27Z",
-      "description": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
-      "tags": [
-        "gubernator",
-        "docker",
-        "antigravity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
@@ -2942,7 +2942,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2912,
+      "stars": 2913,
       "user": "yetone"
     }
   ],
@@ -3215,6 +3215,20 @@
       "user": "Apeireth"
     },
     {
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "published_at": "2026-08-23T07:15:54.171-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "philosophy",
+        "privacy",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rrampage"
+    },
+    {
       "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "published_at": "2026-08-22T16:00:00.000Z",
@@ -3263,21 +3277,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "My AI Content Journey",
       "url": "https://dev.to/playfulprogramming/my-ai-content-journey-1b8p",
       "published_at": "2026-08-19T16:47:10Z",
@@ -3320,6 +3319,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
@@ -3459,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 733,
       "user": "Spielewoy"
     },
     {
@@ -3474,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 654,
       "user": "MeteorNOX"
     },
     {
@@ -3489,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 340,
       "user": "nateherkai"
     },
     {
@@ -3504,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1359,
+      "stars": 1382,
       "user": "wang2122"
     },
     {
@@ -3549,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 548,
       "user": "amirh00sain"
     },
     {
@@ -3564,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/277500851?v=4",
       "source": "GitHub",
-      "stars": 530,
+      "stars": 531,
       "user": "flaqai"
     },
     {
@@ -3579,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 132,
       "user": "zhaoxuya520"
     },
     {
@@ -3654,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2912,
+      "stars": 2913,
       "user": "yetone"
     },
     {
@@ -3669,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2404,
+      "stars": 2407,
       "user": "CopilotKit"
     },
     {
@@ -3729,7 +3743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 513,
       "user": "iAmCorey"
     },
     {
