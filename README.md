@@ -5,9 +5,9 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-179-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--08--23-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-23 18:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-23 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [What I Get to Forget About Riverpod Now That I Have BlocSignal](https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5) | Dev.to |
 | 20 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
 
-<sub>Last fetched: Sun, 23 Aug 2026 18:58:36 CAT</sub>
+<sub>Last fetched: Sun, 23 Aug 2026 19:28:05 CAT</sub>
 
 
 ---
@@ -122,25 +122,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement a function to reverse a linked list**
+**1. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> Mutability, performance, use cases
 
 </details>
 
-**2. `React` — How would you optimize a React app's performance?**
+**2. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 82 | 44.6% | `████████████████████` |
-| **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Tools** | 38 | 20.7% | `█████████░░░░░░░░░░░` |
-| **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
-| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 77 | 43.0% | `████████████████████` |
+| **JavaScript** | 40 | 22.3% | `██████████░░░░░░░░░░` |
+| **Tools** | 33 | 18.4% | `█████████░░░░░░░░░░░` |
+| **Python** | 28 | 15.6% | `███████░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.6% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
+| **WebDev** | 14 | 7.8% | `████░░░░░░░░░░░░░░░░` |
+| **Mobile** | 13 | 7.3% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 13 | 7.3% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 5 | 2.8% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -184,7 +184,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |--------|---------:|
 | Dev.to | 60 |
 | HackerNews | 49 |
-| GitHub | 25 |
+| GitHub | 20 |
 | Lobste.rs | 10 |
 | StackOverflow | 20 |
 | TechCrunch | 10 |
@@ -194,33 +194,34 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8%
-Go              ████████████████████████████ 24.5%
-Python          █████████████████████████ 21.3%
-Java            ██████████████████████ 18.7%
-Rust            ████████ 6.5%
-Swift           ██ 1.9%
-CSharp          █ 0.6%
-Ruby            █ 0.6%
+JavaScript      ██████████████████████████████ 26.7%
+Go              ████████████████████████████ 24.7%
+Java            ██████████████████████ 20.0%
+Python          █████████████████████ 18.7%
+Rust            ███████ 6.0%
+Swift           ██ 2.0%
+CSharp          █ 0.7%
+Kotlin          █ 0.7%
+Ruby            █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 40
-    "Go" : 38
-    "Python" : 33
-    "Java" : 29
-    "Rust" : 10
+    "Go" : 37
+    "Java" : 30
+    "Python" : 28
+    "Rust" : 9
     "Swift" : 3
     "CSharp" : 1
-    "Ruby" : 1
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-11-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-20-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-20-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-11-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-8-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 23 Aug 2026 16:58:36 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 23 Aug 2026 17:28:05 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
