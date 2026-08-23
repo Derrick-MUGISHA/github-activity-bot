@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 413,
       "user": "nateherkai"
     },
     {
@@ -672,7 +672,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "browser-use"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 607,
       "user": "cclank"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 578,
       "user": "amirh00sain"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2449,
+      "stars": 2452,
       "user": "CopilotKit"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "Forsy-AI"
     },
     {
@@ -1450,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "Spielewoy"
     },
     {
@@ -1465,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "MeteorNOX"
     },
     {
@@ -1480,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 413,
       "user": "nateherkai"
     },
     {
@@ -1525,7 +1525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2449,
+      "stars": 2452,
       "user": "CopilotKit"
     },
     {
@@ -1540,7 +1540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "Forsy-AI"
     },
     {
@@ -1587,6 +1587,19 @@
       "source": "GitHub",
       "stars": 164,
       "user": "josiah-nelson"
+    },
+    {
+      "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
+      "url": "https://stackoverflow.com/questions/79997599/phaser-3-arcade-physics-sprite-following-a-precomputed-waypoint-path-stalls-d",
+      "published_at": "2026-08-23T17:36:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "phaser"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vector"
     },
     {
       "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
@@ -1722,19 +1735,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aasim Ghaffar"
-    },
-    {
-      "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
-      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
-      "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe J"
     }
   ],
   "Python": [
@@ -1975,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "browser-use"
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 607,
       "user": "cclank"
     },
     {
@@ -2020,14 +2020,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 578,
       "user": "amirh00sain"
     },
     {
       "title": "Dataframe sorting and column count",
       "url": "https://stackoverflow.com/questions/79997582/dataframe-sorting-and-column-count",
       "published_at": "2026-08-23T16:22:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "pandas"
@@ -2583,19 +2583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Y K"
-    },
-    {
-      "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
-      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
-      "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe J"
     }
   ],
   "Mobile": [
@@ -2730,7 +2717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "Forsy-AI"
     },
     {
@@ -3271,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "Forsy-AI"
     },
     {
@@ -3533,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 750,
+      "stars": 751,
       "user": "Spielewoy"
     },
     {
@@ -3548,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 707,
       "user": "MeteorNOX"
     },
     {
@@ -3563,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 413,
       "user": "nateherkai"
     },
     {
@@ -3593,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/192012301?v=4",
       "source": "GitHub",
-      "stars": 720,
+      "stars": 721,
       "user": "browser-use"
     },
     {
@@ -3623,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 607,
       "user": "cclank"
     },
     {
@@ -3638,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 578,
       "user": "amirh00sain"
     },
     {
@@ -3743,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2449,
+      "stars": 2452,
       "user": "CopilotKit"
     },
     {
@@ -3758,7 +3745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 336,
+      "stars": 338,
       "user": "Forsy-AI"
     },
     {
