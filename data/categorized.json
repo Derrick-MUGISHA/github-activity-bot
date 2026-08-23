@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
-      "published_at": "2026-08-22T20:29:26Z",
-      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -42,6 +27,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "published_at": "2026-08-22T20:29:26Z",
+      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Coding agents got boring the moment we built a really good one.",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1355,
       "user": "wang2122"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2907,
+      "stars": 2909,
       "user": "yetone"
     },
     {
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2385,
+      "stars": 2390,
       "user": "CopilotKit"
     },
     {
@@ -792,18 +792,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Yogthos"
-    },
-    {
-      "title": "Enabling the next-generation trait solver on nightly",
-      "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-      "published_at": "2026-08-21T10:15:16.747-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jana"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -1416,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1167,
       "user": "vvxw"
     },
     {
@@ -1431,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "Spielewoy"
     },
     {
@@ -1446,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 627,
       "user": "MeteorNOX"
     },
     {
@@ -1491,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2907,
+      "stars": 2909,
       "user": "yetone"
     },
     {
@@ -1506,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2385,
+      "stars": 2390,
       "user": "CopilotKit"
     },
     {
@@ -1936,7 +1924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1355,
       "user": "wang2122"
     },
     {
@@ -2937,7 +2925,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2907,
+      "stars": 2909,
       "user": "yetone"
     }
   ],
@@ -3424,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1167,
       "user": "vvxw"
     },
     {
@@ -3439,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "Spielewoy"
     },
     {
@@ -3454,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 627,
       "user": "MeteorNOX"
     },
     {
@@ -3484,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1355,
       "user": "wang2122"
     },
     {
@@ -3604,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "lxcshine"
     },
     {
@@ -3634,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2907,
+      "stars": 2909,
       "user": "yetone"
     },
     {
@@ -3649,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2385,
+      "stars": 2390,
       "user": "CopilotKit"
     },
     {
@@ -3709,7 +3697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 505,
+      "stars": 506,
       "user": "iAmCorey"
     },
     {
