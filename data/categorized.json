@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 743,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "nateherkai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 557,
       "user": "amirh00sain"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 547,
       "user": "cclank"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "zhaoxuya520"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2923,
+      "stars": 2922,
       "user": "yetone"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2423,
+      "stars": 2427,
       "user": "CopilotKit"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 294,
       "user": "Forsy-AI"
     },
     {
@@ -839,19 +839,6 @@
       "source": "GitHub",
       "stars": 99,
       "user": "Apeireth"
-    },
-    {
-      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "published_at": "2026-08-22T11:04:51.303-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Yogthos"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -984,6 +971,19 @@
       "user": "ItzSeegy"
     },
     {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "published_at": "2026-08-23T15:00:00.000Z",
+      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "tags": [
+        "AI",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "published_at": "2026-08-22T21:46:56.000Z",
@@ -1069,21 +1069,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "published_at": "2026-08-22T01:03:06.000Z",
-      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-      "tags": [
-        "Space",
-        "Startups",
-        "Japan",
-        "spacetech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1479,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1201,
       "user": "vvxw"
     },
     {
@@ -1494,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 743,
       "user": "Spielewoy"
     },
     {
@@ -1509,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 685,
       "user": "MeteorNOX"
     },
     {
@@ -1524,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "nateherkai"
     },
     {
@@ -1554,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2923,
+      "stars": 2922,
       "user": "yetone"
     },
     {
@@ -1569,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2423,
+      "stars": 2427,
       "user": "CopilotKit"
     },
     {
@@ -1584,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 294,
       "user": "Forsy-AI"
     },
     {
@@ -1646,6 +1631,19 @@
       "user": "ThisStatementIsALie"
     },
     {
+      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
+      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
+      "published_at": "2026-08-22T22:59:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "airplane-mode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shaun Roselt"
+    },
+    {
       "title": "Wordpress site with owl banner jumps to top when scroll a little",
       "url": "https://stackoverflow.com/questions/79997493/wordpress-site-with-owl-banner-jumps-to-top-when-scroll-a-little",
       "published_at": "2026-08-23T07:25:32.000Z",
@@ -1659,19 +1657,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naeem Akhtar"
-    },
-    {
-      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
-      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
-      "published_at": "2026-08-22T22:59:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "airplane-mode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaun Roselt"
     },
     {
       "title": "Unable to generate audio element on an HTML page using JavaScript",
@@ -2044,7 +2029,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 557,
       "user": "amirh00sain"
     },
     {
@@ -2059,7 +2044,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 547,
       "user": "cclank"
     },
     {
@@ -2773,7 +2758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 294,
       "user": "Forsy-AI"
     },
     {
@@ -3000,7 +2985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2923,
+      "stars": 2922,
       "user": "yetone"
     }
   ],
@@ -3284,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 294,
       "user": "Forsy-AI"
     },
     {
@@ -3331,21 +3316,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "published_at": "2026-08-22T01:03:06.000Z",
-      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-      "tags": [
-        "Space",
-        "Startups",
-        "Japan",
-        "spacetech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
     }
   ],
   "Tools": [
@@ -3546,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1201,
       "user": "vvxw"
     },
     {
@@ -3561,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 742,
+      "stars": 743,
       "user": "Spielewoy"
     },
     {
@@ -3576,7 +3546,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 681,
+      "stars": 685,
       "user": "MeteorNOX"
     },
     {
@@ -3591,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 371,
+      "stars": 375,
       "user": "nateherkai"
     },
     {
@@ -3651,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 554,
+      "stars": 557,
       "user": "amirh00sain"
     },
     {
@@ -3666,7 +3636,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 547,
       "user": "cclank"
     },
     {
@@ -3681,7 +3651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 145,
       "user": "zhaoxuya520"
     },
     {
@@ -3756,7 +3726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2923,
+      "stars": 2922,
       "user": "yetone"
     },
     {
@@ -3771,7 +3741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2423,
+      "stars": 2427,
       "user": "CopilotKit"
     },
     {
@@ -3786,7 +3756,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 294,
       "user": "Forsy-AI"
     },
     {
@@ -3893,6 +3863,19 @@
       "source": "GitHub",
       "stars": 99,
       "user": "Apeireth"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "published_at": "2026-08-23T15:00:00.000Z",
+      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "tags": [
+        "AI",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     }
   ]
 }
