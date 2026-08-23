@@ -88,21 +88,6 @@
       "user": "Ryan Carniato"
     },
     {
-      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
-      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke",
-      "published_at": "2026-08-21T06:41:03Z",
-      "description": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj2qx90h893gb7oly6kkd.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
       "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o",
       "published_at": "2026-08-20T11:13:12Z",
@@ -116,6 +101,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh43gl7gigubj7unbkkaz.png",
       "source": "Dev.to",
       "user": "Gbemisola Esho"
+    },
+    {
+      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
+      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke",
+      "published_at": "2026-08-21T06:41:03Z",
+      "description": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj2qx90h893gb7oly6kkd.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 730,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 329,
       "user": "nateherkai"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "zhaoxuya520"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2402,
+      "stars": 2404,
       "user": "CopilotKit"
     },
     {
@@ -1434,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1187,
       "user": "vvxw"
     },
     {
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 730,
       "user": "Spielewoy"
     },
     {
@@ -1464,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "MeteorNOX"
     },
     {
@@ -1479,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 329,
       "user": "nateherkai"
     },
     {
@@ -1524,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2402,
+      "stars": 2404,
       "user": "CopilotKit"
     },
     {
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "josiah-nelson"
     },
     {
@@ -2971,7 +2971,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "josiah-nelson"
     },
     {
@@ -3444,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1187,
       "user": "vvxw"
     },
     {
@@ -3459,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 729,
+      "stars": 730,
       "user": "Spielewoy"
     },
     {
@@ -3474,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "MeteorNOX"
     },
     {
@@ -3489,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 329,
       "user": "nateherkai"
     },
     {
@@ -3579,7 +3579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 127,
+      "stars": 128,
       "user": "zhaoxuya520"
     },
     {
@@ -3669,7 +3669,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2402,
+      "stars": 2404,
       "user": "CopilotKit"
     },
     {
@@ -3729,7 +3729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 511,
       "user": "iAmCorey"
     },
     {
@@ -3759,7 +3759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 164,
       "user": "josiah-nelson"
     },
     {
