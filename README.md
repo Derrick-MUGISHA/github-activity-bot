@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
 | 20 | [Building a viral Imax ticketing app that never crashes](https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58) | Dev.to |
 
-<sub>Last fetched: Sun, 23 Aug 2026 20:12:12 CAT</sub>
+<sub>Last fetched: Sun, 23 Aug 2026 20:51:58 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
+**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Execution timing, event loop phases
 
 </details>
 
-**2. `NodeJS` — How do you handle errors in async/await?**
+**2. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Execution timing, event loop phases
 
 </details>
 
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.8%
-Go              ████████████████████████████ 23.9%
-Python          █████████████████████████ 21.3%
-Java            ███████████████████████ 19.4%
-Rust            ███████ 5.8%
+JavaScript      ██████████████████████████████ 25.6%
+Go              ████████████████████████████ 23.7%
+Python          █████████████████████████ 21.2%
+Java            ██████████████████████ 19.2%
+Rust            ████████ 6.4%
 Swift           ██ 1.9%
 Kotlin          ██ 1.3%
 CSharp          █ 0.6%
@@ -211,7 +211,7 @@ pie title Programming Languages Distribution
     "Go" : 37
     "Python" : 33
     "Java" : 30
-    "Rust" : 9
+    "Rust" : 10
     "Swift" : 3
     "Kotlin" : 2
     "CSharp" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-11-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 23 Aug 2026 18:12:12 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 23 Aug 2026 18:51:58 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
