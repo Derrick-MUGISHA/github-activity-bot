@@ -627,7 +627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 747,
       "user": "Spielewoy"
     },
     {
@@ -642,7 +642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "nateherkai"
     },
     {
@@ -702,7 +702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 563,
       "user": "amirh00sain"
     },
     {
@@ -717,7 +717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 559,
       "user": "cclank"
     },
     {
@@ -732,7 +732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "zhaoxuya520"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2925,
       "user": "yetone"
     },
     {
@@ -792,23 +792,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2433,
       "user": "CopilotKit"
-    },
-    {
-      "title": "Forsy-AI/biosecurity-agent - GitHub Repository",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "Forsy-AI"
     },
     {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
@@ -822,8 +807,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 308,
       "user": "amagine-ai"
+    },
+    {
+      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "published_at": "2026-08-22T23:06:26Z",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "Forsy-AI"
     },
     {
       "title": "Apeireth/apeireth-rust - Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
@@ -898,19 +898,6 @@
       "user": "serv-inc"
     },
     {
-      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
-      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
-      "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "ruby-on-rails"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Scott"
-    },
-    {
       "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
       "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
       "published_at": "2026-08-22T16:43:26.000Z",
@@ -969,6 +956,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ItzSeegy"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "published_at": "2026-08-23T15:30:00.000Z",
+      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "tags": [
+        "Hardware",
+        "AI",
+        "Government & Policy",
+        "flock safety"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
@@ -1056,19 +1058,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "published_at": "2026-08-22T01:31:04.000Z",
-      "description": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i",
-      "tags": [
-        "Biotech & Health",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1464,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1201,
+      "stars": 1202,
       "user": "vvxw"
     },
     {
@@ -1479,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 747,
       "user": "Spielewoy"
     },
     {
@@ -1494,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 687,
       "user": "MeteorNOX"
     },
     {
@@ -1509,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "nateherkai"
     },
     {
@@ -1539,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2925,
       "user": "yetone"
     },
     {
@@ -1554,23 +1543,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2433,
       "user": "CopilotKit"
-    },
-    {
-      "title": "Forsy-AI/biosecurity-agent - GitHub Repository",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "Forsy-AI"
     },
     {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
@@ -1584,8 +1558,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 308,
       "user": "amagine-ai"
+    },
+    {
+      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "published_at": "2026-08-22T23:06:26Z",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "Forsy-AI"
     },
     {
       "title": "op7418/pilot-harness - Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
@@ -1616,6 +1605,22 @@
       "source": "GitHub",
       "stars": 164,
       "user": "josiah-nelson"
+    },
+    {
+      "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
+      "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
+      "published_at": "2026-08-23T15:00:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "performance",
+        "bitwise-operators",
+        "v8"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28224355"
     },
     {
       "title": "ImageData not changing Canvas",
@@ -1746,19 +1751,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Joe J"
-    },
-    {
-      "title": "I'm getting the error The asset \"./components/index.jsx.js\" is not present in the asset pipeline",
-      "url": "https://stackoverflow.com/questions/79995465/im-getting-the-error-the-asset-components-index-jsx-js-is-not-present-in-th",
-      "published_at": "2026-08-16T00:35:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "ruby-on-rails"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Scott"
     }
   ],
   "Python": [
@@ -2029,7 +2021,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 563,
       "user": "amirh00sain"
     },
     {
@@ -2044,23 +2036,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 559,
       "user": "cclank"
-    },
-    {
-      "title": "Bot freezes when given Spotify link",
-      "url": "https://stackoverflow.com/questions/79997504/bot-freezes-when-given-spotify-link",
-      "published_at": "2026-08-23T09:21:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "cmd",
-        "bots",
-        "telegram-bot"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Arya"
     },
     {
       "title": "Speeding up shelve",
@@ -2193,6 +2170,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
+    },
+    {
+      "title": "Why do C- and Fortran-ordered NumPy arrays show the same L1 cache-miss percentage when formatting a row?",
+      "url": "https://stackoverflow.com/questions/79981356/why-do-c-and-fortran-ordered-numpy-arrays-show-the-same-l1-cache-miss-percentag",
+      "published_at": "2026-07-16T15:42:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "arrays",
+        "numpy",
+        "perf"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FluidMechanics Potential Flows"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2747,10 +2739,10 @@
       "user": "Gamya "
     },
     {
-      "title": "Forsy-AI/biosecurity-agent - GitHub Repository",
+      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
-      "description": "Trending GitHub Repository",
+      "description": "AI agent that builds a live biosecurity world around any target.",
       "tags": [
         "typescript",
         "github",
@@ -2758,7 +2750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Forsy-AI"
     },
     {
@@ -2985,7 +2977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2925,
       "user": "yetone"
     }
   ],
@@ -3258,10 +3250,10 @@
       "user": "ewenjo"
     },
     {
-      "title": "Forsy-AI/biosecurity-agent - GitHub Repository",
+      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
-      "description": "Trending GitHub Repository",
+      "description": "AI agent that builds a live biosecurity world around any target.",
       "tags": [
         "typescript",
         "github",
@@ -3269,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 301,
       "user": "Forsy-AI"
     },
     {
@@ -3516,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1201,
+      "stars": 1202,
       "user": "vvxw"
     },
     {
@@ -3531,7 +3523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77499101?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 747,
       "user": "Spielewoy"
     },
     {
@@ -3546,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 685,
+      "stars": 687,
       "user": "MeteorNOX"
     },
     {
@@ -3561,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "nateherkai"
     },
     {
@@ -3621,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 557,
+      "stars": 563,
       "user": "amirh00sain"
     },
     {
@@ -3636,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 559,
       "user": "cclank"
     },
     {
@@ -3651,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 147,
       "user": "zhaoxuya520"
     },
     {
@@ -3726,7 +3718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 2922,
+      "stars": 2925,
       "user": "yetone"
     },
     {
@@ -3741,23 +3733,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2433,
       "user": "CopilotKit"
-    },
-    {
-      "title": "Forsy-AI/biosecurity-agent - GitHub Repository",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
-      "source": "GitHub",
-      "stars": 294,
-      "user": "Forsy-AI"
     },
     {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
@@ -3771,8 +3748,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 308,
       "user": "amagine-ai"
+    },
+    {
+      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "published_at": "2026-08-22T23:06:26Z",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
+      "source": "GitHub",
+      "stars": 301,
+      "user": "Forsy-AI"
     },
     {
       "title": "op7418/pilot-harness - Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
@@ -3801,7 +3793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 524,
       "user": "iAmCorey"
     },
     {
