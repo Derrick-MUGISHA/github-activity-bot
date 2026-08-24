@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 608,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "only-cli"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 833,
       "user": "cclank"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 670,
       "user": "amirh00sain"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "kgoedecke"
     },
     {
@@ -895,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 123,
       "user": "truespar"
     },
     {
@@ -927,7 +927,7 @@
       "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -936,6 +936,54 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face",
+      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "published_at": "2026-08-24T19:58:17.000Z",
+      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+      "tags": [
+        "Security",
+        "Alabama",
+        "cybersecurity",
+        "hacking",
+        "Hugging Face"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
+      "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+      "published_at": "2026-08-24T19:54:50.000Z",
+      "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+      "tags": [
+        "Hardware",
+        "AI",
+        "Amazon",
+        "echo",
+        "Fire TV"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "published_at": "2026-08-24T19:54:19.000Z",
+      "description": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Amjad Masad",
+        "Replit",
+        "TechCrunch Disrupt"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
@@ -1009,36 +1057,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "published_at": "2026-08-23T20:01:36.000Z",
-      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "tags": [
-        "AI",
-        "In Brief",
-        "openrouter"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published_at": "2026-08-23T19:14:08.000Z",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gadgets",
-        "Hardware",
-        "smart calendar"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
@@ -1449,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1298,
       "user": "vvxw"
     },
     {
@@ -1479,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 608,
       "user": "nateherkai"
     },
     {
@@ -1509,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "only-cli"
     },
     {
@@ -1539,7 +1557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1486,
+      "stars": 1510,
       "user": "b-nnett"
     },
     {
@@ -1584,7 +1602,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "kgoedecke"
     },
     {
@@ -1599,14 +1617,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 269,
       "user": "rome-os"
     },
     {
       "title": "How to make unique RGB color generator with incremental R, G, and B",
       "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
       "published_at": "2026-08-24T19:13:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
         "colors",
@@ -1967,7 +1985,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 833,
       "user": "cclank"
     },
     {
@@ -1997,7 +2015,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 670,
       "user": "amirh00sain"
     },
     {
@@ -2032,7 +2050,7 @@
       "title": "Why is math.sqrt() returning value error?",
       "url": "https://stackoverflow.com/questions/79997883/why-is-math-sqrt-returning-value-error",
       "published_at": "2026-08-24T19:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python"
       ],
@@ -2074,7 +2092,7 @@
       "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -3179,6 +3197,22 @@
       "user": "Toniq"
     },
     {
+      "title": "Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face",
+      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "published_at": "2026-08-24T19:58:17.000Z",
+      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+      "tags": [
+        "Security",
+        "Alabama",
+        "cybersecurity",
+        "hacking",
+        "Hugging Face"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lorenzo Franceschi-Bicchierai"
+    },
+    {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "published_at": "2026-08-24T18:03:55.000Z",
@@ -3389,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1296,
+      "stars": 1298,
       "user": "vvxw"
     },
     {
@@ -3419,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 608,
       "user": "nateherkai"
     },
     {
@@ -3449,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 275,
       "user": "only-cli"
     },
     {
@@ -3479,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 833,
       "user": "cclank"
     },
     {
@@ -3509,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 670,
       "user": "amirh00sain"
     },
     {
@@ -3614,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1486,
+      "stars": 1510,
       "user": "b-nnett"
     },
     {
@@ -3659,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 306,
       "user": "kgoedecke"
     },
     {
@@ -3674,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 269,
       "user": "rome-os"
     },
     {
@@ -3689,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 968,
       "user": "tobi"
     },
     {
@@ -3749,7 +3783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 123,
       "user": "truespar"
     },
     {
@@ -3764,22 +3798,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rohini Bhondekar"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "published_at": "2026-08-23T19:14:08.000Z",
-      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Gadgets",
-        "Hardware",
-        "smart calendar"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
