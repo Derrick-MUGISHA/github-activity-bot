@@ -10,7 +10,7 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 81,
+    "AI": 82,
     "JavaScript": 42,
     "Python": 32,
     "DevOps": 16,
@@ -22,7 +22,7 @@
     "Tools": 40
   },
   "by_language": {
-    "Go": 30,
+    "Go": 31,
     "JavaScript": 42,
     "Java": 32,
     "Rust": 8,
@@ -32,8 +32,8 @@
     "Kotlin": 1
   },
   "by_date": {
-    "2026-08-24": 43,
-    "2026-08-23": 10,
+    "2026-08-24": 44,
+    "2026-08-23": 9,
     "2026-08-17": 4,
     "2026-08-22": 10,
     "2026-08-19": 13,
@@ -117,7 +117,7 @@
     "Python": 11,
     "JavaScript": 10,
     "DevOps": 10,
-    "programming": 9,
+    "programming": 8,
     "dart": 7,
     "devchallenge": 7,
     "opensource": 6,
@@ -128,12 +128,12 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "20.3",
-    "JavaScript": "28.4",
-    "Java": "21.6",
+    "Go": "20.8",
+    "JavaScript": "28.2",
+    "Java": "21.5",
     "Rust": "5.4",
-    "Python": "21.6",
-    "Swift": "1.4",
+    "Python": "21.5",
+    "Swift": "1.3",
     "PHP": "0.7",
     "Kotlin": "0.7"
   }
