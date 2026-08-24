@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-24 12:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-24 13:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -103,8 +103,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 9 | [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8) | Dev.to |
 | 10 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
 | 11 | [Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar](https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o) | Dev.to |
-| 12 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
-| 13 | [What I Get to Forget About Riverpod Now That I Have BlocSignal](https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5) | Dev.to |
+| 12 | [What I Get to Forget About Riverpod Now That I Have BlocSignal](https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5) | Dev.to |
+| 13 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
 | 14 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
 | 15 | [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911) | Dev.to |
 | 16 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3) | Dev.to |
 | 20 | [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc) | Dev.to |
 
-<sub>Last fetched: Mon, 24 Aug 2026 12:22:23 CAT</sub>
+<sub>Last fetched: Mon, 24 Aug 2026 13:02:20 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — What are generators and when would you use them?**
+**1. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> useState, useEffect, loading states, error handling
 
 </details>
 
-**2. `DataStructures` — Implement LRU Cache**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `Python` — What are generators and when would you use them?**
+**3. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> Token bucket, sliding window, distributed systems
 
 </details>
 
@@ -166,7 +166,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 79 | 42.9% | `████████████████████` |
 | **JavaScript** | 46 | 25.0% | `████████████░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **Tools** | 41 | 22.3% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-12-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-10-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-9-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-9-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-38-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-32-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-9-0969da?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-9-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Mon, 24 Aug 2026 10:22:23 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Mon, 24 Aug 2026 11:02:20 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

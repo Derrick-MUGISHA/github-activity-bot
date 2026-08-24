@@ -19,7 +19,7 @@
     "Cloud": 6,
     "Database": 7,
     "Security": 20,
-    "Tools": 40
+    "Tools": 41
   },
   "by_language": {
     "Go": 30,
@@ -115,12 +115,12 @@
     "webdev": 15,
     "discuss": 12,
     "Python": 11,
-    "programming": 10,
     "Security": 10,
     "JavaScript": 10,
     "DevOps": 10,
     "dart": 9,
     "flutter": 9,
+    "programming": 9,
     "devchallenge": 8,
     "opensource": 6,
     "rust": 6,
