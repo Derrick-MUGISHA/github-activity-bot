@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 601,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "only-cli"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 829,
       "user": "cclank"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 300,
       "user": "kgoedecke"
     },
     {
@@ -896,16 +896,17 @@
       "user": "delirehberi"
     },
     {
-      "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "published_at": "2026-08-23T10:45:01.334-05:00",
+      "title": "IPython is All You Need",
+      "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
+      "published_at": "2026-08-24T10:24:13.663-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "vibecoding"
+        "ai",
+        "python"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "Yogthos"
+      "user": "ncoop57"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -933,6 +934,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "published_at": "2026-08-24T18:03:55.000Z",
+      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -1026,19 +1039,36 @@
       "user": "Lauren Forristal"
     },
     {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "published_at": "2026-08-23T15:30:00.000Z",
-      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
+      "url": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
+      "published_at": "2026-08-24T14:36:56.000Z",
+      "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
       "tags": [
-        "Hardware",
-        "AI",
-        "Government & Policy",
-        "flock safety"
+        "Software Testing",
+        "Artificial Intelligence",
+        "Quality Assurance",
+        "ai testing",
+        "QA engineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
+    },
+    {
+      "title": "How to Build Type-Safe APIs with Hono and Zod",
+      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+      "published_at": "2026-08-24T14:03:04.000Z",
+      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+      "tags": [
+        "TypeScript",
+        "hono",
+        "zod",
+        "api",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1133,37 +1163,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hamdaan Ali"
-    },
-    {
-      "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
-      "url": "https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/",
-      "published_at": "2026-08-20T18:11:53.000Z",
-      "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
-      "tags": [
-        "ai agents",
-        "AI",
-        "book",
-        "AI Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vahe Aslanyan"
-    },
-    {
-      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-      "published_at": "2026-08-20T17:00:00.000Z",
-      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-      "tags": [
-        "knowledge graph",
-        "Neo4j",
-        "Python",
-        "AI",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
     }
   ],
   "JavaScript": [
@@ -1493,7 +1492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 601,
       "user": "nateherkai"
     },
     {
@@ -1523,7 +1522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "only-cli"
     },
     {
@@ -1553,7 +1552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1416,
       "user": "b-nnett"
     },
     {
@@ -1598,23 +1597,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 300,
       "user": "kgoedecke"
     },
     {
-      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "url": "https://github.com/ZSeven-W/dsh-ios",
-      "published_at": "2026-08-19T18:02:50Z",
-      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "title": "rome-os/rome - Rome is the agentic OS.",
+      "url": "https://github.com/rome-os/rome",
+      "published_at": "2026-08-23T06:15:15Z",
+      "description": "Rome is the agentic OS.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 241,
-      "user": "ZSeven-W"
+      "stars": 242,
+      "user": "rome-os"
     },
     {
       "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
@@ -1628,7 +1627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "furkankly"
     },
     {
@@ -1733,7 +1732,7 @@
       "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
       "url": "https://stackoverflow.com/questions/79997599/phaser-3-arcade-physics-sprite-following-a-precomputed-waypoint-path-stalls-d",
       "published_at": "2026-08-23T17:36:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "phaser"
@@ -1770,6 +1769,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThisStatementIsALie"
+    },
+    {
+      "title": "How to Build Type-Safe APIs with Hono and Zod",
+      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+      "published_at": "2026-08-24T14:03:04.000Z",
+      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+      "tags": [
+        "TypeScript",
+        "hono",
+        "zod",
+        "api",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     }
   ],
   "Python": [
@@ -1979,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 829,
       "user": "cclank"
     },
     {
@@ -2028,10 +2043,23 @@
       "user": "lanicer"
     },
     {
+      "title": "IPython is All You Need",
+      "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
+      "published_at": "2026-08-24T10:24:13.663-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ncoop57"
+    },
+    {
       "title": "Will python script automatically import modules when I run script in command line?",
       "url": "https://stackoverflow.com/questions/79997841/will-python-script-automatically-import-modules-when-i-run-script-in-command-lin",
       "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "import",
@@ -2045,7 +2073,7 @@
       "title": "How to extract valid Python code from .ipynb cells",
       "url": "https://stackoverflow.com/questions/79997840/how-to-extract-valid-python-code-from-ipynb-cells",
       "published_at": "2026-08-24T16:11:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "parsing",
@@ -2184,22 +2212,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-      "published_at": "2026-08-20T17:00:00.000Z",
-      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-      "tags": [
-        "knowledge graph",
-        "Neo4j",
-        "Python",
-        "AI",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
     }
   ],
   "DevOps": [
@@ -2351,6 +2363,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
+      "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
+      "published_at": "2026-08-22T03:00:00.000Z",
+      "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+      "tags": [
+        "Devops",
+        "Open Source",
+        "Cloud Computing",
+        "cloud native",
+        "#prometheus"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Purity Udeh"
     },
     {
       "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
@@ -2553,6 +2581,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "cph_sto"
+    },
+    {
+      "title": "How to Build Type-Safe APIs with Hono and Zod",
+      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+      "published_at": "2026-08-24T14:03:04.000Z",
+      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+      "tags": [
+        "TypeScript",
+        "hono",
+        "zod",
+        "api",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     }
   ],
   "Mobile": [
@@ -2689,21 +2733,6 @@
       "source": "GitHub",
       "stars": 513,
       "user": "Forsy-AI"
-    },
-    {
-      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "url": "https://github.com/ZSeven-W/dsh-ios",
-      "published_at": "2026-08-19T18:02:50Z",
-      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
-      "source": "GitHub",
-      "stars": 241,
-      "user": "ZSeven-W"
     },
     {
       "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
@@ -2856,6 +2885,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAFAA LHAKKAOUI"
+    },
+    {
+      "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
+      "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
+      "published_at": "2026-08-22T03:00:00.000Z",
+      "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+      "tags": [
+        "Devops",
+        "Open Source",
+        "Cloud Computing",
+        "cloud native",
+        "#prometheus"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Purity Udeh"
     }
   ],
   "Database": [
@@ -2929,22 +2974,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-      "published_at": "2026-08-20T17:00:00.000Z",
-      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-      "tags": [
-        "knowledge graph",
-        "Neo4j",
-        "Python",
-        "AI",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
     }
   ],
   "Security": [
@@ -3195,6 +3224,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toniq"
+    },
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "published_at": "2026-08-24T18:03:55.000Z",
+      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     }
   ],
   "Tools": [
@@ -3425,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 597,
+      "stars": 601,
       "user": "nateherkai"
     },
     {
@@ -3455,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 268,
+      "stars": 269,
       "user": "only-cli"
     },
     {
@@ -3485,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 826,
+      "stars": 829,
       "user": "cclank"
     },
     {
@@ -3620,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1379,
+      "stars": 1416,
       "user": "b-nnett"
     },
     {
@@ -3665,23 +3706,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 300,
       "user": "kgoedecke"
     },
     {
-      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "url": "https://github.com/ZSeven-W/dsh-ios",
-      "published_at": "2026-08-19T18:02:50Z",
-      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "title": "rome-os/rome - Rome is the agentic OS.",
+      "url": "https://github.com/rome-os/rome",
+      "published_at": "2026-08-23T06:15:15Z",
+      "description": "Rome is the agentic OS.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 241,
-      "user": "ZSeven-W"
+      "stars": 242,
+      "user": "rome-os"
     },
     {
       "title": "tobi/walgit - GitHub Repository",
@@ -3695,7 +3736,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 912,
       "user": "tobi"
     },
     {
@@ -3725,7 +3766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 386,
       "user": "furkankly"
     },
     {
@@ -3755,7 +3796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "furkankly"
     },
     {
@@ -3786,6 +3827,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
+    },
+    {
+      "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
+      "url": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
+      "published_at": "2026-08-24T14:36:56.000Z",
+      "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
+      "tags": [
+        "Software Testing",
+        "Artificial Intelligence",
+        "Quality Assurance",
+        "ai testing",
+        "QA engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     }
   ]
 }
