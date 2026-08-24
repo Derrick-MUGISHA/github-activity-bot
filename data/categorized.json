@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
+      "published_at": "2026-08-23T20:09:04Z",
+      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -461,21 +476,6 @@
       "user": "xbill"
     },
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -655,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "nateherkai"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "sam70361"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 799,
       "user": "cclank"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 763,
       "user": "ShadowAqueduct"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "amirh00sain"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "mindsdb"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "mattn"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 389,
       "user": "amagine-ai"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 272,
       "user": "kgoedecke"
     },
     {
@@ -882,7 +882,7 @@
       "title": "Does Python's linecache read the entire file into memory and is AI reliable",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -891,6 +891,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "published_at": "2026-08-24T13:47:26.000Z",
+      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "tags": [
+        "AI",
+        "Venture",
+        "Hugging Face",
+        "open source"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
@@ -961,20 +976,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "published_at": "2026-08-22T19:00:00.000Z",
-      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "tags": [
-        "AI",
-        "London",
-        "google deepmind"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1283,21 +1284,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
-      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "published_at": "2026-08-12T05:30:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.          ...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "javascript",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphtsf88z8k2rwycqcfd3.png",
-      "source": "Dev.to",
-      "user": "Asuran"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1429,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1284,
       "user": "vvxw"
     },
     {
@@ -1444,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 835,
       "user": "MeteorNOX"
     },
     {
@@ -1459,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "nateherkai"
     },
     {
@@ -1489,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "sam70361"
     },
     {
@@ -1519,7 +1505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 968,
       "user": "b-nnett"
     },
     {
@@ -1549,7 +1535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 389,
       "user": "amagine-ai"
     },
     {
@@ -1564,7 +1550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 272,
       "user": "kgoedecke"
     },
     {
@@ -1579,7 +1565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "ZSeven-W"
     },
     {
@@ -1594,7 +1580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "furkankly"
     },
     {
@@ -1946,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 799,
       "user": "cclank"
     },
     {
@@ -1961,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 763,
       "user": "ShadowAqueduct"
     },
     {
@@ -1976,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "amirh00sain"
     },
     {
@@ -1995,6 +1981,22 @@
       "user": "lanicer"
     },
     {
+      "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
+      "url": "https://stackoverflow.com/questions/79997799/how-to-give-a-font-to-a-option-in-a-python-tkinter-ttk-combobox",
+      "published_at": "2026-08-24T13:38:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter",
+        "fonts",
+        "combobox",
+        "ttk"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zeubollisk Wu"
+    },
+    {
       "title": "How to restrict clickable area to Button",
       "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
       "published_at": "2026-08-24T12:47:32.000Z",
@@ -2009,24 +2011,10 @@
       "user": "cph_sto"
     },
     {
-      "title": "Does Python's linecache read the entire file into memory and is AI reliable",
-      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
-      "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "linecache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "F Cameron"
-    },
-    {
       "title": "Coercing pyright to understand non-None Optional values",
       "url": "https://stackoverflow.com/questions/79997769/coercing-pyright-to-understand-non-none-optional-values",
       "published_at": "2026-08-24T11:47:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "python-typing",
@@ -2035,6 +2023,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jason C"
+    },
+    {
+      "title": "Does Python's linecache read the entire file into memory and is AI reliable",
+      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
+      "published_at": "2026-08-24T11:18:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -10",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "linecache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "F Cameron"
     },
     {
       "title": "Class decorator with arguments using the @decorator syntax not working",
@@ -2067,7 +2069,7 @@
       "title": "TypeError: 'bool' object is not iterable in Python",
       "url": "https://stackoverflow.com/questions/79997665/typeerror-bool-object-is-not-iterable-in-python",
       "published_at": "2026-08-24T05:35:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
@@ -2115,19 +2117,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asad"
-    },
-    {
-      "title": "Dataframe sorting and column count",
-      "url": "https://stackoverflow.com/questions/79997582/dataframe-sorting-and-column-count",
-      "published_at": "2026-08-23T16:22:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
-      "tags": [
-        "python",
-        "pandas"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jam One"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2484,7 +2473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 763,
       "user": "ShadowAqueduct"
     },
     {
@@ -2677,7 +2666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "ZSeven-W"
     },
     {
@@ -2714,6 +2703,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
+      "published_at": "2026-08-23T20:09:04Z",
+      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Building a viral Imax ticketing app that never crashes",
       "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58",
@@ -3145,6 +3149,21 @@
   ],
   "Tools": [
     {
+      "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
+      "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
+      "published_at": "2026-08-23T20:09:04Z",
+      "description": "A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Git Gud!",
       "url": "https://dev.to/francistrdev/git-gud-4e6g",
       "published_at": "2026-08-17T14:40:58Z",
@@ -3326,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1284,
       "user": "vvxw"
     },
     {
@@ -3341,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 835,
       "user": "MeteorNOX"
     },
     {
@@ -3356,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 576,
+      "stars": 582,
       "user": "nateherkai"
     },
     {
@@ -3386,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "sam70361"
     },
     {
@@ -3416,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 799,
       "user": "cclank"
     },
     {
@@ -3431,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 763,
       "user": "ShadowAqueduct"
     },
     {
@@ -3446,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 648,
       "user": "amirh00sain"
     },
     {
@@ -3521,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "mindsdb"
     },
     {
@@ -3536,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 45,
       "user": "mattn"
     },
     {
@@ -3551,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 968,
       "user": "b-nnett"
     },
     {
@@ -3581,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 389,
       "user": "amagine-ai"
     },
     {
@@ -3596,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 267,
+      "stars": 272,
       "user": "kgoedecke"
     },
     {
@@ -3611,7 +3630,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 239,
       "user": "ZSeven-W"
     },
     {
@@ -3626,7 +3645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 772,
       "user": "tobi"
     },
     {
@@ -3641,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 577,
       "user": "iAmCorey"
     },
     {
@@ -3656,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 349,
       "user": "furkankly"
     },
     {
@@ -3686,7 +3705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "furkankly"
     },
     {
