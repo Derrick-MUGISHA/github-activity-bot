@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nateherkai"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 768,
       "user": "ShadowAqueduct"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 677,
       "user": "amirh00sain"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "zhaoxuya520"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 314,
       "user": "kgoedecke"
     },
     {
@@ -895,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "truespar"
     },
     {
@@ -909,6 +909,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "delirehberi"
+    },
+    {
+      "title": "AI Coding will Prevent Expertise",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "published_at": "2026-08-24T11:20:42.855-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "anex9d"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -959,9 +971,9 @@
       "tags": [
         "AI",
         "Space",
-        "Donald Trump",
         "Elon Musk",
-        "SpaceX"
+        "SpaceX",
+        "Donald Trump"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1482,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nateherkai"
     },
     {
@@ -1542,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1580,
+      "stars": 1598,
       "user": "b-nnett"
     },
     {
@@ -1587,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 314,
       "user": "kgoedecke"
     },
     {
@@ -1602,7 +1614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "rome-os"
     },
     {
@@ -1618,6 +1630,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
+    },
+    {
+      "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
+      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
+      "published_at": "2026-08-24T20:46:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Samuel Bond"
     },
     {
       "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
@@ -1729,22 +1754,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Vector"
-    },
-    {
-      "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
-      "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
-      "published_at": "2026-08-23T15:00:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "performance",
-        "bitwise-operators",
-        "v8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28224355"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1985,7 +1994,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 768,
       "user": "ShadowAqueduct"
     },
     {
@@ -2000,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 677,
       "user": "amirh00sain"
     },
     {
@@ -2035,7 +2044,7 @@
       "title": "Why is math.sqrt() returning value error?",
       "url": "https://stackoverflow.com/questions/79997883/why-is-math-sqrt-returning-value-error",
       "published_at": "2026-08-24T19:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2104,6 +2113,20 @@
       "user": "Zeubollisk Wu"
     },
     {
+      "title": "How to restrict clickable area to Button",
+      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
+      "published_at": "2026-08-24T12:47:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "plotly-dash"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cph_sto"
+    },
+    {
       "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
       "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
       "published_at": "2026-08-24T14:32:38.000Z",
@@ -2117,20 +2140,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAFAA LHAKKAOUI"
-    },
-    {
-      "title": "How to restrict clickable area to Button",
-      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
-      "published_at": "2026-08-24T12:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "plotly-dash"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cph_sto"
     },
     {
       "title": "Coercing pyright to understand non-None Optional values",
@@ -2554,7 +2563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 768,
       "user": "ShadowAqueduct"
     },
     {
@@ -3471,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 618,
       "user": "nateherkai"
     },
     {
@@ -3546,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 768,
       "user": "ShadowAqueduct"
     },
     {
@@ -3561,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 674,
+      "stars": 677,
       "user": "amirh00sain"
     },
     {
@@ -3591,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 161,
+      "stars": 162,
       "user": "zhaoxuya520"
     },
     {
@@ -3666,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1580,
+      "stars": 1598,
       "user": "b-nnett"
     },
     {
@@ -3711,7 +3720,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 314,
       "user": "kgoedecke"
     },
     {
@@ -3726,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 278,
       "user": "rome-os"
     },
     {
@@ -3741,7 +3750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1012,
+      "stars": 1025,
       "user": "tobi"
     },
     {
@@ -3771,7 +3780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 403,
       "user": "furkankly"
     },
     {
@@ -3801,7 +3810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 142,
       "user": "truespar"
     },
     {
