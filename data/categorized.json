@@ -462,20 +462,6 @@
       "user": "xbill"
     },
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
       "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
       "published_at": "2026-08-18T07:00:00Z",
@@ -504,6 +490,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 274,
       "user": "only-cli"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 767,
       "user": "ShadowAqueduct"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 666,
       "user": "amirh00sain"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "zhaoxuya520"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "kgoedecke"
     },
     {
@@ -884,6 +884,21 @@
       "user": "josiah-nelson"
     },
     {
+      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "url": "https://github.com/truespar/sentio",
+      "published_at": "2026-08-23T21:36:25Z",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "source": "GitHub",
+      "stars": 103,
+      "user": "truespar"
+    },
+    {
       "title": "I cannot survive from burnout",
       "url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
       "published_at": "2026-08-24T11:04:45.869-05:00",
@@ -894,19 +909,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "delirehberi"
-    },
-    {
-      "title": "IPython is All You Need",
-      "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
-      "published_at": "2026-08-24T10:24:13.663-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ncoop57"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -922,8 +924,8 @@
       "user": "Shaun Roselt"
     },
     {
-      "title": "Does Python's linecache read the entire file into memory and is AI reliable",
-      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
+      "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
+      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
       "published_at": "2026-08-24T11:18:06.000Z",
       "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
@@ -1316,21 +1318,6 @@
       "user": "Shubhra Pokhariya"
     },
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1462,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1296,
       "user": "vvxw"
     },
     {
@@ -1477,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 857,
       "user": "MeteorNOX"
     },
     {
@@ -1492,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "nateherkai"
     },
     {
@@ -1522,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 274,
       "user": "only-cli"
     },
     {
@@ -1552,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1448,
       "user": "b-nnett"
     },
     {
@@ -1597,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "kgoedecke"
     },
     {
@@ -1612,23 +1599,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "rome-os"
-    },
-    {
-      "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
-      "url": "https://github.com/furkankly/rataflow",
-      "published_at": "2026-08-18T09:15:21Z",
-      "description": "Interactive node-based UIs for the terminal.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "furkankly"
     },
     {
       "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
@@ -1819,20 +1791,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Designing AI Evals: Clarity Now and Visualization Next",
       "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
       "published_at": "2026-08-18T07:00:00Z",
@@ -1846,6 +1804,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
+    },
+    {
+      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
+      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
+      "published_at": "2026-08-14T16:55:48Z",
+      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
+      "tags": [
+        "ai",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -2009,7 +1981,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 767,
       "user": "ShadowAqueduct"
     },
     {
@@ -2024,7 +1996,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 666,
       "user": "amirh00sain"
     },
     {
@@ -2048,8 +2020,8 @@
       "published_at": "2026-08-24T10:24:13.663-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
-        "python"
+        "python",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -2059,7 +2031,7 @@
       "title": "Will python script automatically import modules when I run script in command line?",
       "url": "https://stackoverflow.com/questions/79997841/will-python-script-automatically-import-modules-when-i-run-script-in-command-lin",
       "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "import",
@@ -2084,6 +2056,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ArianNa"
+    },
+    {
+      "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
+      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
+      "published_at": "2026-08-24T11:18:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -10",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "linecache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "F Cameron"
     },
     {
       "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
@@ -2129,20 +2115,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "cph_sto"
-    },
-    {
-      "title": "Does Python's linecache read the entire file into memory and is AI reliable",
-      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
-      "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "linecache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "F Cameron"
     },
     {
       "title": "Coercing pyright to understand non-None Optional values",
@@ -2552,7 +2524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 767,
       "user": "ShadowAqueduct"
     },
     {
@@ -2701,21 +2673,6 @@
         "webdev"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -3436,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1296,
       "user": "vvxw"
     },
     {
@@ -3451,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 857,
       "user": "MeteorNOX"
     },
     {
@@ -3466,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 603,
       "user": "nateherkai"
     },
     {
@@ -3496,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 274,
       "user": "only-cli"
     },
     {
@@ -3541,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 767,
       "user": "ShadowAqueduct"
     },
     {
@@ -3556,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 666,
       "user": "amirh00sain"
     },
     {
@@ -3586,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 160,
+      "stars": 161,
       "user": "zhaoxuya520"
     },
     {
@@ -3661,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1448,
       "user": "b-nnett"
     },
     {
@@ -3706,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "kgoedecke"
     },
     {
@@ -3721,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 249,
       "user": "rome-os"
     },
     {
@@ -3736,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 934,
       "user": "tobi"
     },
     {
@@ -3766,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "furkankly"
     },
     {
@@ -3785,19 +3742,19 @@
       "user": "josiah-nelson"
     },
     {
-      "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
-      "url": "https://github.com/furkankly/rataflow",
-      "published_at": "2026-08-18T09:15:21Z",
-      "description": "Interactive node-based UIs for the terminal.",
+      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "url": "https://github.com/truespar/sentio",
+      "published_at": "2026-08-23T21:36:25Z",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 96,
-      "user": "furkankly"
+      "stars": 103,
+      "user": "truespar"
     },
     {
       "title": "How to handle Talend JXLS templates in Apache Hop?",
