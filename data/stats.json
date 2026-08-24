@@ -10,16 +10,16 @@
     "freeCodeCamp": 10
   },
   "by_category": {
-    "AI": 78,
+    "AI": 79,
     "JavaScript": 44,
     "Python": 31,
     "DevOps": 14,
     "WebDev": 12,
     "Mobile": 12,
-    "Cloud": 8,
+    "Cloud": 9,
     "Database": 6,
     "Security": 19,
-    "Tools": 42
+    "Tools": 41
   },
   "by_language": {
     "Go": 28,
@@ -31,8 +31,8 @@
     "PHP": 1
   },
   "by_date": {
-    "2026-08-24": 21,
-    "2026-08-23": 24,
+    "2026-08-24": 24,
+    "2026-08-23": 21,
     "2026-08-17": 4,
     "2026-08-22": 9,
     "2026-08-19": 14,
@@ -109,7 +109,7 @@
     "javascript": 21,
     "python": 19,
     "ai": 18,
-    "AI": 17,
+    "AI": 18,
     "webdev": 15,
     "discuss": 12,
     "Python": 11,
