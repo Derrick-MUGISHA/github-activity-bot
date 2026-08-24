@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 566,
       "user": "nateherkai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "sam70361"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "cclank"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "amirh00sain"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "kgoedecke"
     },
     {
@@ -896,7 +896,7 @@
       "title": "Does Python's linecache read the entire file into memory and is AI reliable",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -1458,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1271,
       "user": "vvxw"
     },
     {
@@ -1473,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "MeteorNOX"
     },
     {
@@ -1488,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 566,
       "user": "nateherkai"
     },
     {
@@ -1518,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "sam70361"
     },
     {
@@ -1548,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 769,
       "user": "b-nnett"
     },
     {
@@ -1593,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "kgoedecke"
     },
     {
@@ -1989,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "cclank"
     },
     {
@@ -2019,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "amirh00sain"
     },
     {
@@ -2041,7 +2041,7 @@
       "title": "Does Python's linecache read the entire file into memory and is AI reliable",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -2050,6 +2050,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "Coercing pyright to understand non-None Optional values",
+      "url": "https://stackoverflow.com/questions/79997769/coercing-pyright-to-understand-non-none-optional-values",
+      "published_at": "2026-08-24T11:47:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jason C"
     },
     {
       "title": "Class decorator with arguments using the @decorator syntax not working",
@@ -2068,7 +2082,7 @@
       "title": "Why does DISKANN with MAX_SIM_COSINE return a negative self-similarity score for FLOAT16 vectors in a StructArray?",
       "url": "https://stackoverflow.com/questions/79997721/why-does-diskann-with-max-sim-cosine-return-a-negative-self-similarity-score-for",
       "published_at": "2026-08-24T08:30:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "cosine-similarity",
@@ -2158,20 +2172,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali.zabetpour"
-    },
-    {
-      "title": "Speeding up shelve",
-      "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
-      "published_at": "2026-08-22T15:45:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "wsgi",
-        "shelve"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -3191,6 +3191,19 @@
       "user": "Forsy-AI"
     },
     {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "published_at": "2026-08-23T22:22:13.331-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "wonk"
+    },
+    {
       "title": "And then the men with guns tell you to do it anyway",
       "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
       "published_at": "2026-08-23T07:15:54.171-05:00",
@@ -3203,19 +3216,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rrampage"
-    },
-    {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "published_at": "2026-08-23T22:22:13.331-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "wonk"
     },
     {
       "title": "XMLHttpRequest to php and fake parameters",
@@ -3416,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1271,
       "user": "vvxw"
     },
     {
@@ -3431,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 813,
+      "stars": 817,
       "user": "MeteorNOX"
     },
     {
@@ -3446,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 566,
       "user": "nateherkai"
     },
     {
@@ -3476,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "sam70361"
     },
     {
@@ -3506,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "cclank"
     },
     {
@@ -3536,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 641,
       "user": "amirh00sain"
     },
     {
@@ -3641,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 769,
       "user": "b-nnett"
     },
     {
@@ -3686,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 255,
       "user": "kgoedecke"
     },
     {
@@ -3716,7 +3716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 715,
       "user": "tobi"
     },
     {
@@ -3746,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 325,
       "user": "furkankly"
     },
     {
