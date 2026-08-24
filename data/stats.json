@@ -1,7 +1,7 @@
 {
-  "total": 183,
+  "total": 184,
   "by_source": {
-    "Dev.to": 59,
+    "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
     "Lobste.rs": 10,
@@ -13,16 +13,16 @@
     "AI": 81,
     "JavaScript": 42,
     "Python": 31,
-    "DevOps": 15,
-    "WebDev": 13,
+    "DevOps": 16,
+    "WebDev": 12,
     "Mobile": 9,
-    "Cloud": 10,
+    "Cloud": 11,
     "Database": 5,
-    "Security": 20,
+    "Security": 19,
     "Tools": 41
   },
   "by_language": {
-    "Go": 27,
+    "Go": 28,
     "JavaScript": 42,
     "Java": 32,
     "Rust": 7,
@@ -31,8 +31,8 @@
     "PHP": 1
   },
   "by_date": {
-    "2026-08-24": 34,
-    "2026-08-23": 16,
+    "2026-08-24": 37,
+    "2026-08-23": 14,
     "2026-08-17": 4,
     "2026-08-22": 10,
     "2026-08-19": 13,
@@ -127,11 +127,11 @@
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "19.1",
-    "JavaScript": "29.8",
-    "Java": "22.7",
-    "Rust": "5.0",
-    "Python": "22.0",
+    "Go": "19.7",
+    "JavaScript": "29.6",
+    "Java": "22.5",
+    "Rust": "4.9",
+    "Python": "21.8",
     "Swift": "0.7",
     "PHP": "0.7"
   }

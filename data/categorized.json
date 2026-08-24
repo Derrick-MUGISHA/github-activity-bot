@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "nateherkai"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "cclank"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 669,
       "user": "amirh00sain"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "amagine-ai"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 304,
       "user": "kgoedecke"
     },
     {
@@ -895,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 117,
       "user": "truespar"
     },
     {
@@ -1464,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 860,
       "user": "MeteorNOX"
     },
     {
@@ -1479,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "nateherkai"
     },
     {
@@ -1539,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1448,
+      "stars": 1486,
       "user": "b-nnett"
     },
     {
@@ -1569,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "amagine-ai"
     },
     {
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 304,
       "user": "kgoedecke"
     },
     {
@@ -1599,14 +1599,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 265,
       "user": "rome-os"
+    },
+    {
+      "title": "How to make unique RGB color generator with incremental R, G, and B",
+      "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
+      "published_at": "2026-08-24T19:13:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "colors",
+        "rgb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bobby324"
     },
     {
       "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
       "url": "https://stackoverflow.com/questions/79997810/cant-call-action-method-using-javascript-the-request-is-not-even-reaching-the-a",
       "published_at": "2026-08-24T14:18:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "model-view-controller",
@@ -1728,19 +1742,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user28224355"
-    },
-    {
-      "title": "ImageData not changing Canvas",
-      "url": "https://stackoverflow.com/questions/79997539/imagedata-not-changing-canvas",
-      "published_at": "2026-08-23T12:44:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ThisStatementIsALie"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1966,7 +1967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "cclank"
     },
     {
@@ -1996,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 669,
       "user": "amirh00sain"
     },
     {
@@ -2028,18 +2029,16 @@
       "user": "ncoop57"
     },
     {
-      "title": "Will python script automatically import modules when I run script in command line?",
-      "url": "https://stackoverflow.com/questions/79997841/will-python-script-automatically-import-modules-when-i-run-script-in-command-lin",
-      "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Why is math.sqrt() returning value error?",
+      "url": "https://stackoverflow.com/questions/79997883/why-is-math-sqrt-returning-value-error",
+      "published_at": "2026-08-24T19:26:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "python",
-        "import",
-        "module"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Zhang Wei"
+      "user": "Griffin"
     },
     {
       "title": "How to extract valid Python code from .ipynb cells",
@@ -2056,6 +2055,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ArianNa"
+    },
+    {
+      "title": "Will python script automatically import modules when I run script in command line?",
+      "url": "https://stackoverflow.com/questions/79997841/will-python-script-automatically-import-modules-when-i-run-script-in-command-lin",
+      "published_at": "2026-08-24T16:12:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "import",
+        "module"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Zhang Wei"
     },
     {
       "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
@@ -2156,18 +2169,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cubkm Ewaybk"
-    },
-    {
-      "title": "TypeError: 'bool' object is not iterable in Python",
-      "url": "https://stackoverflow.com/questions/79997665/typeerror-bool-object-is-not-iterable-in-python",
-      "published_at": "2026-08-24T05:35:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "degavath mamatha"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2335,6 +2336,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "Dynamically Naming Servers",
+      "url": "https://arch.dog/bark/dynamically-naming-servers",
+      "published_at": "2026-08-24T09:36:35.686-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gmem"
     },
     {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
@@ -2528,19 +2541,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "ImageData not changing Canvas",
-      "url": "https://stackoverflow.com/questions/79997539/imagedata-not-changing-canvas",
-      "published_at": "2026-08-23T12:44:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ThisStatementIsALie"
-    },
-    {
       "title": "How to restrict clickable area to Button",
       "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
       "published_at": "2026-08-24T12:47:32.000Z",
@@ -2723,6 +2723,16 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
+      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
+      "published_at": "2026-08-24T17:33:07Z",
+      "description": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -3154,20 +3164,6 @@
       "user": "wonk"
     },
     {
-      "title": "And then the men with guns tell you to do it anyway",
-      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-      "published_at": "2026-08-23T07:15:54.171-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "philosophy",
-        "privacy",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "rrampage"
-    },
-    {
       "title": "XMLHttpRequest to php and fake parameters",
       "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
       "published_at": "2026-08-24T07:16:43.000Z",
@@ -3408,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 860,
       "user": "MeteorNOX"
     },
     {
@@ -3423,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "nateherkai"
     },
     {
@@ -3483,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 831,
       "user": "cclank"
     },
     {
@@ -3513,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 666,
+      "stars": 669,
       "user": "amirh00sain"
     },
     {
@@ -3618,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1448,
+      "stars": 1486,
       "user": "b-nnett"
     },
     {
@@ -3648,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 391,
       "user": "amagine-ai"
     },
     {
@@ -3663,7 +3659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 301,
+      "stars": 304,
       "user": "kgoedecke"
     },
     {
@@ -3678,7 +3674,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 249,
+      "stars": 265,
       "user": "rome-os"
     },
     {
@@ -3693,7 +3689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 952,
       "user": "tobi"
     },
     {
@@ -3708,7 +3704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "iAmCorey"
     },
     {
@@ -3723,7 +3719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 393,
       "user": "furkankly"
     },
     {
@@ -3753,7 +3749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 117,
       "user": "truespar"
     },
     {
