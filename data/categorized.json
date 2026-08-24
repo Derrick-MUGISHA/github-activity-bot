@@ -61,6 +61,19 @@
       "user": "Jonathan Murray"
     },
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
       "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
       "published_at": "2026-08-22T20:29:26Z",
@@ -74,19 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
     },
     {
       "title": "Greatness Is Forged by Limitation",
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "only-cli"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 679,
       "user": "amirh00sain"
     },
     {
@@ -895,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "truespar"
     },
     {
@@ -921,6 +921,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "anex9d"
+    },
+    {
+      "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+      "url": "https://routeup.dev",
+      "published_at": "2026-08-24T14:08:59.286-05:00",
+      "description": "I built Routeup around a simple idea: local apps should use their real names.\r\n\r\nIt was inspired by [Portless](https://portless.sh/), but I also wanted built-in public tunneling, selective path exposure, request inspection, and live logs.\r\n\r\nInstead of opening `localhost:3000`, I can give a project a stable, trusted HTTPS URL and keep using it across restarts:\r\n\r\n```text\r\nhttps://example-app.localhost\r\n```\r\n\r\nThe app stays local by default. When an external service needs access, I can expose the whole route or only selected paths such as `/api/webhooks/*`:\r\n\r\n```text\r\nlocal:  https://example-app.localhost\r\npublic: https://example-app.try.routeup.dev\r\nexpose: /api/webhooks/*\r\n```\r\n\r\nExposure has its own lifecycle. I can expose an already-running route from another terminal and stop sharing it without stopping the local app.\r\n\r\nFor quick, temporary exposure, Routeup provides names under `*.try.routeup.dev` without requiring an account or token. For stable public names, a token claims a namespace such as `team.routeup.dev`. Apps can then use names beneath it, such as `api.team.routeup.dev` and `docs.team.routeup.dev`. The same namespace model works with a self-hosted Routeup server and your own domain.\r\n\r\nRouteup grew out of frustrations I had using ngrok and localtunnel. They could expose a port, but their tunnel-first model was not the workflow I wanted. I wanted the app to have a stable local identity first, with public access added only when and where it was needed.\r\n\r\nI use this workflow heavily at work and for personal projects. Routeup currently supports multiple path targets behind one origin, repository-level configuration, running an app command, request inspection, hosted public URLs, and self-hosted servers.\r\n\r\nThe local workflow requires no account, token, DNS, or remote server. Routeup is a single Go binary, has no CLI telemetry, and is MIT licensed.\r\n\r\n- [Website and documentation](https://routeup.dev)\r\n- [Source code](https://github.com/mukul-mehta/routeup)\r\n\r\nI'd appreciate any feedback on the project, especially ideas for improving the workflow, documentation, or features. If you run into any issues during setup or while using the tool, please [open a GitHub issue](https://github.com/mukul-mehta/routeup/issues/new/choose) or email [help@routeup.dev](mailto:help@routeup.dev).",
+      "tags": [
+        "go",
+        "networking",
+        "show"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mukul"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -1057,20 +1071,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "published_at": "2026-08-24T15:00:00.000Z",
-      "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "tags": [
-        "AI",
-        "Exclusive",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
@@ -1479,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 865,
       "user": "MeteorNOX"
     },
     {
@@ -1494,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nateherkai"
     },
     {
@@ -1524,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "only-cli"
     },
     {
@@ -1554,7 +1554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1616,
+      "stars": 1634,
       "user": "b-nnett"
     },
     {
@@ -1614,7 +1614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "rome-os"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 679,
       "user": "amirh00sain"
     },
     {
@@ -2113,6 +2113,20 @@
       "user": "Zeubollisk Wu"
     },
     {
+      "title": "How to restrict clickable area to Button",
+      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
+      "published_at": "2026-08-24T12:47:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "plotly-dash"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cph_sto"
+    },
+    {
       "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
       "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
       "published_at": "2026-08-24T14:32:38.000Z",
@@ -2126,20 +2140,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAFAA LHAKKAOUI"
-    },
-    {
-      "title": "How to restrict clickable area to Button",
-      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
-      "published_at": "2026-08-24T12:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "plotly-dash"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cph_sto"
     },
     {
       "title": "Coercing pyright to understand non-None Optional values",
@@ -2361,18 +2361,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "Dynamically Naming Servers",
-      "url": "https://arch.dog/bark/dynamically-naming-servers",
-      "published_at": "2026-08-24T09:36:35.686-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gmem"
     },
     {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
@@ -3464,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 864,
+      "stars": 865,
       "user": "MeteorNOX"
     },
     {
@@ -3479,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 620,
       "user": "nateherkai"
     },
     {
@@ -3509,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 282,
       "user": "only-cli"
     },
     {
@@ -3569,7 +3557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 680,
+      "stars": 679,
       "user": "amirh00sain"
     },
     {
@@ -3674,7 +3662,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1616,
+      "stars": 1634,
       "user": "b-nnett"
     },
     {
@@ -3734,7 +3722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 281,
+      "stars": 283,
       "user": "rome-os"
     },
     {
@@ -3749,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1033,
       "user": "tobi"
     },
     {
@@ -3779,7 +3767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 404,
       "user": "furkankly"
     },
     {
@@ -3809,8 +3797,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 143,
+      "stars": 147,
       "user": "truespar"
+    },
+    {
+      "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+      "url": "https://routeup.dev",
+      "published_at": "2026-08-24T14:08:59.286-05:00",
+      "description": "I built Routeup around a simple idea: local apps should use their real names.\r\n\r\nIt was inspired by [Portless](https://portless.sh/), but I also wanted built-in public tunneling, selective path exposure, request inspection, and live logs.\r\n\r\nInstead of opening `localhost:3000`, I can give a project a stable, trusted HTTPS URL and keep using it across restarts:\r\n\r\n```text\r\nhttps://example-app.localhost\r\n```\r\n\r\nThe app stays local by default. When an external service needs access, I can expose the whole route or only selected paths such as `/api/webhooks/*`:\r\n\r\n```text\r\nlocal:  https://example-app.localhost\r\npublic: https://example-app.try.routeup.dev\r\nexpose: /api/webhooks/*\r\n```\r\n\r\nExposure has its own lifecycle. I can expose an already-running route from another terminal and stop sharing it without stopping the local app.\r\n\r\nFor quick, temporary exposure, Routeup provides names under `*.try.routeup.dev` without requiring an account or token. For stable public names, a token claims a namespace such as `team.routeup.dev`. Apps can then use names beneath it, such as `api.team.routeup.dev` and `docs.team.routeup.dev`. The same namespace model works with a self-hosted Routeup server and your own domain.\r\n\r\nRouteup grew out of frustrations I had using ngrok and localtunnel. They could expose a port, but their tunnel-first model was not the workflow I wanted. I wanted the app to have a stable local identity first, with public access added only when and where it was needed.\r\n\r\nI use this workflow heavily at work and for personal projects. Routeup currently supports multiple path targets behind one origin, repository-level configuration, running an app command, request inspection, hosted public URLs, and self-hosted servers.\r\n\r\nThe local workflow requires no account, token, DNS, or remote server. Routeup is a single Go binary, has no CLI telemetry, and is MIT licensed.\r\n\r\n- [Website and documentation](https://routeup.dev)\r\n- [Source code](https://github.com/mukul-mehta/routeup)\r\n\r\nI'd appreciate any feedback on the project, especially ideas for improving the workflow, documentation, or features. If you run into any issues during setup or while using the tool, please [open a GitHub issue](https://github.com/mukul-mehta/routeup/issues/new/choose) or email [help@routeup.dev](mailto:help@routeup.dev).",
+      "tags": [
+        "go",
+        "networking",
+        "show"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mukul"
     },
     {
       "title": "How to handle Talend JXLS templates in Apache Hop?",
