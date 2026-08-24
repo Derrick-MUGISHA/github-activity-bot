@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
-      "published_at": "2026-08-22T20:29:26Z",
-      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -42,6 +27,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
+    },
+    {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "published_at": "2026-08-22T20:29:26Z",
+      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Greatness Is Forged by Limitation",
@@ -72,21 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh43gl7gigubj7unbkkaz.png",
       "source": "Dev.to",
       "user": "Gbemisola Esho"
-    },
-    {
-      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
-      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke",
-      "published_at": "2026-08-21T06:41:03Z",
-      "description": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "llm"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj2qx90h893gb7oly6kkd.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
@@ -191,6 +176,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7fgab29vtqhencvqukv.png",
       "source": "Dev.to",
       "user": "Ryan Carniato"
+    },
+    {
+      "title": "Redefining the Role of Google Apps Script in the Era of Generative AI",
+      "url": "https://dev.to/gde/redefining-the-role-of-google-apps-script-in-the-era-of-generative-ai-43ke",
+      "published_at": "2026-08-21T06:41:03Z",
+      "description": "Abstract   Generative AI and autonomous agents do not obsolete Google Apps Script (GAS);...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj2qx90h893gb7oly6kkd.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Learn how to build a disclosure component using the native HTML details tag",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 536,
       "user": "nateherkai"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "mrhlaingbwardev"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1610,
+      "stars": 1644,
       "user": "wang2122"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "ShadowAqueduct"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 725,
       "user": "cclank"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "amirh00sain"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "zhaoxuya520"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 53,
       "user": "mindsdb"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "amagine-ai"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 216,
       "user": "kgoedecke"
     },
     {
@@ -876,6 +876,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "serv-inc"
+    },
+    {
+      "title": "Chrome extension cannot extract Kuaishou video URL",
+      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-cannot-extract-kuaishou-video-url",
+      "published_at": "2026-08-19T16:48:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome-extension",
+        "manifest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user107968"
     },
     {
       "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
@@ -1445,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1245,
       "user": "vvxw"
     },
     {
@@ -1460,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 777,
       "user": "MeteorNOX"
     },
     {
@@ -1475,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 536,
       "user": "nateherkai"
     },
     {
@@ -1490,7 +1504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "mrhlaingbwardev"
     },
     {
@@ -1550,8 +1564,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "amagine-ai"
+    },
+    {
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "published_at": "2026-08-23T20:53:01Z",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "b-nnett"
     },
     {
       "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
@@ -1565,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 231,
       "user": "ZSeven-W"
     },
     {
@@ -1580,23 +1609,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 216,
       "user": "kgoedecke"
-    },
-    {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "b-nnett"
     },
     {
       "title": "josiah-nelson/eidos - Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
@@ -1625,8 +1639,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "furkankly"
+    },
+    {
+      "title": "XMLHttpRequest to php and fake parameters",
+      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
+      "published_at": "2026-08-24T07:16:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "php",
+        "security",
+        "xmlhttprequest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toniq"
     },
     {
       "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
@@ -1729,6 +1758,20 @@
       "user": "serv-inc"
     },
     {
+      "title": "Chrome extension cannot extract Kuaishou video URL",
+      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-cannot-extract-kuaishou-video-url",
+      "published_at": "2026-08-19T16:48:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-chrome-extension",
+        "manifest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user107968"
+    },
+    {
       "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
       "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
       "published_at": "2026-08-21T03:25:43.000Z",
@@ -1743,36 +1786,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Y K"
-    },
-    {
-      "title": "What is the earliest point at which the browser calls requestAnimationFrame callbacks?",
-      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe-call",
-      "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "requestanimationframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe J"
-    },
-    {
-      "title": "Vue.js watcher not detecting changes to nested object property",
-      "url": "https://stackoverflow.com/questions/79996330/vue-js-watcher-not-detecting-changes-to-nested-object-property",
-      "published_at": "2026-08-18T23:44:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "vue.js",
-        "vuejs3",
-        "reactive",
-        "watch"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aasim Ghaffar"
     }
   ],
   "Python": [
@@ -1967,7 +1980,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1610,
+      "stars": 1644,
       "user": "wang2122"
     },
     {
@@ -1982,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "ShadowAqueduct"
     },
     {
@@ -1997,7 +2010,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 725,
       "user": "cclank"
     },
     {
@@ -2012,7 +2025,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "amirh00sain"
     },
     {
@@ -2031,32 +2044,29 @@
       "user": "lanicer"
     },
     {
+      "title": "class decorator with arguments using the \"@decorator\"-Syntax not working",
+      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
+      "published_at": "2026-08-24T07:19:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wolfrevo"
+    },
+    {
       "title": "TypeError: 'bool' object is not iterable in Python",
       "url": "https://stackoverflow.com/questions/79997665/typeerror-bool-object-is-not-iterable-in-python",
       "published_at": "2026-08-24T05:35:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "degavath mamatha"
-    },
-    {
-      "title": "Good Programming Languages for Novices",
-      "url": "https://stackoverflow.com/questions/79997629/good-programming-languages-for-novices",
-      "published_at": "2026-08-24T00:31:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "advice",
-        "python",
-        "java",
-        "syntax",
-        "coding-style"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TTCUSM"
     },
     {
       "title": "How do I get typing to work on generic class when creating a property with a function?",
@@ -2085,20 +2095,6 @@
       "user": "Liomtr"
     },
     {
-      "title": "Any recommendations for Pygame tutorials?",
-      "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
-      "published_at": "2026-08-23T21:09:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TBNR8473"
-    },
-    {
       "title": "Do copies of dictionaries change if the dictionary itself changed",
       "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
       "published_at": "2026-08-23T21:35:57.000Z",
@@ -2111,6 +2107,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asad"
+    },
+    {
+      "title": "Any recommendations for Pygame tutorials?",
+      "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
+      "published_at": "2026-08-23T21:09:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TBNR8473"
     },
     {
       "title": "Dataframe sorting and column count",
@@ -2537,7 +2547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "ShadowAqueduct"
     },
     {
@@ -2568,20 +2578,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Y K"
-    },
-    {
-      "title": "What is the earliest point at which the browser calls requestAnimationFrame callbacks?",
-      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe-call",
-      "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "requestanimationframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe J"
     }
   ],
   "Mobile": [
@@ -2601,21 +2597,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
-      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
-      "published_at": "2026-08-22T02:59:36Z",
-      "description": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8k6g7hk6o9p26vjedyz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
       "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
       "published_at": "2026-08-21T01:00:50Z",
@@ -2627,6 +2608,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide",
+      "url": "https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911",
+      "published_at": "2026-08-22T02:59:36Z",
+      "description": "Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8k6g7hk6o9p26vjedyz.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2761,7 +2757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 231,
       "user": "ZSeven-W"
     },
     {
@@ -2869,7 +2865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "mrhlaingbwardev"
     },
     {
@@ -2928,7 +2924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "mrhlaingbwardev"
     },
     {
@@ -3214,6 +3210,34 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rrampage"
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "published_at": "2026-08-23T22:22:13.331-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "wonk"
+    },
+    {
+      "title": "XMLHttpRequest to php and fake parameters",
+      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
+      "published_at": "2026-08-24T07:16:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "php",
+        "security",
+        "xmlhttprequest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toniq"
     }
   ],
   "Tools": [
@@ -3399,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1245,
       "user": "vvxw"
     },
     {
@@ -3414,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 777,
       "user": "MeteorNOX"
     },
     {
@@ -3429,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 536,
       "user": "nateherkai"
     },
     {
@@ -3444,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "mrhlaingbwardev"
     },
     {
@@ -3474,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1610,
+      "stars": 1644,
       "user": "wang2122"
     },
     {
@@ -3489,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "ShadowAqueduct"
     },
     {
@@ -3504,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 719,
+      "stars": 725,
       "user": "cclank"
     },
     {
@@ -3519,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 620,
+      "stars": 623,
       "user": "amirh00sain"
     },
     {
@@ -3549,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 157,
       "user": "zhaoxuya520"
     },
     {
@@ -3594,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 53,
       "user": "mindsdb"
     },
     {
@@ -3639,8 +3663,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 360,
       "user": "amagine-ai"
+    },
+    {
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "published_at": "2026-08-23T20:53:01Z",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 289,
+      "user": "b-nnett"
     },
     {
       "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
@@ -3654,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 231,
       "user": "ZSeven-W"
     },
     {
@@ -3669,23 +3708,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 216,
       "user": "kgoedecke"
-    },
-    {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 208,
-      "user": "b-nnett"
     },
     {
       "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
@@ -3699,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 568,
       "user": "iAmCorey"
     },
     {
@@ -3714,7 +3738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 565,
       "user": "tobi"
     },
     {
@@ -3729,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 269,
       "user": "furkankly"
     },
     {
@@ -3759,7 +3783,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 94,
       "user": "furkankly"
     },
     {
