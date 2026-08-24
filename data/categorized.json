@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 541,
       "user": "nateherkai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 255,
       "user": "sam70361"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1644,
+      "stars": 1667,
       "user": "wang2122"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 737,
       "user": "cclank"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 624,
       "user": "amirh00sain"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "kgoedecke"
     },
     {
@@ -892,20 +892,19 @@
       "user": "user107968"
     },
     {
-      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
-      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
-      "published_at": "2026-08-21T03:25:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Request failed in Django but succeeds when I run script standalone",
+      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
+      "published_at": "2026-08-21T08:24:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
-        "javascript",
-        "css",
-        "background-image",
-        "pseudo-element",
-        "elementor"
+        "python",
+        "django",
+        "python-requests",
+        "steam"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Y K"
+      "user": "ali.zabetpour"
     },
     {
       "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
@@ -1459,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1251,
       "user": "vvxw"
     },
     {
@@ -1474,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 784,
       "user": "MeteorNOX"
     },
     {
@@ -1489,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 541,
       "user": "nateherkai"
     },
     {
@@ -1519,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 255,
       "user": "sam70361"
     },
     {
@@ -1553,6 +1552,21 @@
       "user": "Forsy-AI"
     },
     {
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "published_at": "2026-08-23T20:53:01Z",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 376,
+      "user": "b-nnett"
+    },
+    {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
       "url": "https://github.com/amagine-ai/Amagine3D",
       "published_at": "2026-08-19T15:31:34Z",
@@ -1568,21 +1582,6 @@
       "user": "amagine-ai"
     },
     {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "b-nnett"
-    },
-    {
       "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
       "url": "https://github.com/ZSeven-W/dsh-ios",
       "published_at": "2026-08-19T18:02:50Z",
@@ -1594,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "ZSeven-W"
     },
     {
@@ -1609,7 +1608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "kgoedecke"
     },
     {
@@ -1646,7 +1645,7 @@
       "title": "XMLHttpRequest to php and fake parameters",
       "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
       "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "php",
@@ -1772,20 +1771,18 @@
       "user": "user107968"
     },
     {
-      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
-      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
-      "published_at": "2026-08-21T03:25:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "What is the earliest point at which the browser calls requestAnimationFrame callbacks?",
+      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe-call",
+      "published_at": "2026-08-18T13:29:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
-        "css",
-        "background-image",
-        "pseudo-element",
-        "elementor"
+        "html",
+        "requestanimationframe"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Y K"
+      "user": "Joe J"
     }
   ],
   "Python": [
@@ -1980,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1644,
+      "stars": 1667,
       "user": "wang2122"
     },
     {
@@ -2010,7 +2007,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 737,
       "user": "cclank"
     },
     {
@@ -2025,7 +2022,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 624,
       "user": "amirh00sain"
     },
     {
@@ -2044,10 +2041,10 @@
       "user": "lanicer"
     },
     {
-      "title": "class decorator with arguments using the \"@decorator\"-Syntax not working",
+      "title": "Class decorator with arguments using the @decorator syntax not working",
       "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
       "published_at": "2026-08-24T07:19:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "python-decorators"
@@ -2060,26 +2057,13 @@
       "title": "TypeError: 'bool' object is not iterable in Python",
       "url": "https://stackoverflow.com/questions/79997665/typeerror-bool-object-is-not-iterable-in-python",
       "published_at": "2026-08-24T05:35:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "degavath mamatha"
-    },
-    {
-      "title": "How do I get typing to work on generic class when creating a property with a function?",
-      "url": "https://stackoverflow.com/questions/79997571/how-do-i-get-typing-to-work-on-generic-class-when-creating-a-property-with-a-fun",
-      "published_at": "2026-08-23T15:39:18.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
     },
     {
       "title": "line breaks problem in reStructuredText with Python",
@@ -2093,6 +2077,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Liomtr"
+    },
+    {
+      "title": "How do I get typing to work on generic class when creating a property with a function?",
+      "url": "https://stackoverflow.com/questions/79997571/how-do-i-get-typing-to-work-on-generic-class-when-creating-a-property-with-a-fun",
+      "published_at": "2026-08-23T15:39:18.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "Do copies of dictionaries change if the dictionary itself changed",
@@ -2136,6 +2133,21 @@
       "user": "Jam One"
     },
     {
+      "title": "Request failed in Django but succeeds when I run script standalone",
+      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
+      "published_at": "2026-08-21T08:24:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
+      "tags": [
+        "python",
+        "django",
+        "python-requests",
+        "steam"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ali.zabetpour"
+    },
+    {
       "title": "Speeding up shelve",
       "url": "https://stackoverflow.com/questions/79997352/speeding-up-shelve",
       "published_at": "2026-08-22T15:45:55.000Z",
@@ -2163,19 +2175,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Leonardo Quadros"
-    },
-    {
-      "title": "Combining a Fade animation with a ScaleInPlace",
-      "url": "https://stackoverflow.com/questions/79997381/combining-a-fade-animation-with-a-scaleinplace",
-      "published_at": "2026-08-22T18:05:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "manim"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Portevent"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2564,20 +2563,18 @@
       "user": "ThisStatementIsALie"
     },
     {
-      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
-      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
-      "published_at": "2026-08-21T03:25:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "What is the earliest point at which the browser calls requestAnimationFrame callbacks?",
+      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe-call",
+      "published_at": "2026-08-18T13:29:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
-        "css",
-        "background-image",
-        "pseudo-element",
-        "elementor"
+        "html",
+        "requestanimationframe"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Y K"
+      "user": "Joe J"
     }
   ],
   "Mobile": [
@@ -2757,7 +2754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "ZSeven-W"
     },
     {
@@ -2941,6 +2938,19 @@
       "source": "GitHub",
       "stars": 164,
       "user": "josiah-nelson"
+    },
+    {
+      "title": "Your executable is a SQLite database",
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "published_at": "2026-08-24T02:32:45.274-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "linux"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jummo"
     },
     {
       "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
@@ -3228,7 +3238,7 @@
       "title": "XMLHttpRequest to php and fake parameters",
       "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
       "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "php",
@@ -3423,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1251,
       "user": "vvxw"
     },
     {
@@ -3438,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 777,
+      "stars": 784,
       "user": "MeteorNOX"
     },
     {
@@ -3453,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 541,
       "user": "nateherkai"
     },
     {
@@ -3483,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 255,
       "user": "sam70361"
     },
     {
@@ -3498,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1644,
+      "stars": 1667,
       "user": "wang2122"
     },
     {
@@ -3528,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 737,
       "user": "cclank"
     },
     {
@@ -3543,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 624,
       "user": "amirh00sain"
     },
     {
@@ -3652,6 +3662,21 @@
       "user": "Forsy-AI"
     },
     {
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "published_at": "2026-08-23T20:53:01Z",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 376,
+      "user": "b-nnett"
+    },
+    {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
       "url": "https://github.com/amagine-ai/Amagine3D",
       "published_at": "2026-08-19T15:31:34Z",
@@ -3667,21 +3692,6 @@
       "user": "amagine-ai"
     },
     {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "b-nnett"
-    },
-    {
       "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
       "url": "https://github.com/ZSeven-W/dsh-ios",
       "published_at": "2026-08-19T18:02:50Z",
@@ -3693,7 +3703,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "ZSeven-W"
     },
     {
@@ -3708,23 +3718,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 221,
       "user": "kgoedecke"
-    },
-    {
-      "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "url": "https://github.com/iAmCorey/Wake",
-      "published_at": "2026-08-18T09:46:23Z",
-      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "iAmCorey"
     },
     {
       "title": "tobi/walgit - GitHub Repository",
@@ -3738,8 +3733,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 597,
       "user": "tobi"
+    },
+    {
+      "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "url": "https://github.com/iAmCorey/Wake",
+      "published_at": "2026-08-18T09:46:23Z",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
+      "source": "GitHub",
+      "stars": 570,
+      "user": "iAmCorey"
     },
     {
       "title": "furkankly/zoetrope - Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
@@ -3753,7 +3763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 281,
       "user": "furkankly"
     },
     {
