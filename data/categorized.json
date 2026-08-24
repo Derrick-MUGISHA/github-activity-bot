@@ -89,6 +89,21 @@
       "user": "Debashish Ghosal"
     },
     {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
+    },
+    {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
       "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
       "published_at": "2026-08-20T13:37:59Z",
@@ -132,21 +147,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
     },
     {
       "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
@@ -312,21 +312,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-      "published_at": "2026-08-14T16:36:10Z",
-      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
-      "tags": [
-        "opensource",
-        "devops",
-        "docker",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Hacktoberfest 2026: AI belongs to everyone",
       "url": "https://blog.mlh.com/hacktoberfest-2026-ai-belongs-to-everyone-3jl8",
       "published_at": "2026-08-19T15:38:17Z",
@@ -340,6 +325,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F36uy9jpgjk1zd9arht2a.png",
       "source": "Dev.to",
       "user": "Jess Lee"
+    },
+    {
+      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+      "url": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+      "published_at": "2026-08-14T16:36:10Z",
+      "description": "How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.",
+      "tags": [
+        "opensource",
+        "devops",
+        "docker",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
     },
     {
       "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "nateherkai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 257,
       "user": "sam70361"
     },
     {
@@ -715,8 +715,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1697,
+      "stars": 1723,
       "user": "wang2122"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 764,
+      "user": "cclank"
     },
     {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
@@ -734,21 +749,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "published_at": "2026-08-20T13:40:06Z",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 749,
-      "user": "cclank"
-    },
-    {
       "title": "amirh00sain/SpiderPanel - GitHub Repository",
       "url": "https://github.com/amirh00sain/SpiderPanel",
       "published_at": "2026-08-18T15:30:17Z",
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 633,
       "user": "amirh00sain"
     },
     {
@@ -792,6 +792,21 @@
       "source": "GitHub",
       "stars": 53,
       "user": "mindsdb"
+    },
+    {
+      "title": "mattn/tensai - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "url": "https://github.com/mattn/tensai",
+      "published_at": "2026-08-19T09:06:30Z",
+      "description": "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
+      "source": "GitHub",
+      "stars": 43,
+      "user": "mattn"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -835,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 239,
       "user": "kgoedecke"
     },
     {
@@ -876,20 +891,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "serv-inc"
-    },
-    {
-      "title": "Chrome extension cannot extract Kuaishou video URL",
-      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-cannot-extract-kuaishou-video-url",
-      "published_at": "2026-08-19T16:48:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome-extension",
-        "manifest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user107968"
     },
     {
       "title": "Request failed in Django but succeeds when I run script standalone",
@@ -1458,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1264,
       "user": "vvxw"
     },
     {
@@ -1473,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 803,
       "user": "MeteorNOX"
     },
     {
@@ -1488,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "nateherkai"
     },
     {
@@ -1518,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 257,
       "user": "sam70361"
     },
     {
@@ -1537,6 +1538,21 @@
       "user": "jsongmax"
     },
     {
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "published_at": "2026-08-23T20:53:01Z",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 564,
+      "user": "b-nnett"
+    },
+    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -1550,21 +1566,6 @@
       "source": "GitHub",
       "stars": 512,
       "user": "Forsy-AI"
-    },
-    {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 470,
-      "user": "b-nnett"
     },
     {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
@@ -1582,21 +1583,6 @@
       "user": "amagine-ai"
     },
     {
-      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "url": "https://github.com/ZSeven-W/dsh-ios",
-      "published_at": "2026-08-19T18:02:50Z",
-      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "ZSeven-W"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -1608,8 +1594,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 239,
       "user": "kgoedecke"
+    },
+    {
+      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "url": "https://github.com/ZSeven-W/dsh-ios",
+      "published_at": "2026-08-19T18:02:50Z",
+      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "ZSeven-W"
     },
     {
       "title": "josiah-nelson/eidos - Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
@@ -1623,7 +1624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "josiah-nelson"
     },
     {
@@ -1642,6 +1643,30 @@
       "user": "furkankly"
     },
     {
+      "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
+      "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
+      "published_at": "2026-08-24T09:22:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "P196hql"
+    },
+    {
+      "title": "How to handle Talend JXLS templates in Apache Hop?",
+      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
+      "published_at": "2026-08-24T09:09:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rohini Bhondekar"
+    },
+    {
       "title": "XMLHttpRequest to php and fake parameters",
       "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
       "published_at": "2026-08-24T07:16:43.000Z",
@@ -1655,6 +1680,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toniq"
+    },
+    {
+      "title": "Wordpress site with owl banner jumps to top when scroll a little",
+      "url": "https://stackoverflow.com/questions/79997493/wordpress-site-with-owl-banner-jumps-to-top-when-scroll-a-little",
+      "published_at": "2026-08-23T07:25:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "wordpress",
+        "elementor",
+        "owl-carousel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naeem Akhtar"
     },
     {
       "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
@@ -1728,21 +1768,6 @@
       "user": "AMINE DZ"
     },
     {
-      "title": "Wordpress site with owl banner jumps to top when scroll a little",
-      "url": "https://stackoverflow.com/questions/79997493/wordpress-site-with-owl-banner-jumps-to-top-when-scroll-a-little",
-      "published_at": "2026-08-23T07:25:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "wordpress",
-        "elementor",
-        "owl-carousel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naeem Akhtar"
-    },
-    {
       "title": "on click on element, react fails with \"destroy is not a function\"",
       "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
       "published_at": "2026-08-21T15:10:29.000Z",
@@ -1755,52 +1780,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "serv-inc"
-    },
-    {
-      "title": "Chrome extension cannot extract Kuaishou video URL",
-      "url": "https://stackoverflow.com/questions/79996583/chrome-extension-cannot-extract-kuaishou-video-url",
-      "published_at": "2026-08-19T16:48:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome-extension",
-        "manifest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user107968"
-    },
-    {
-      "title": "What is the earliest point at which the browser calls requestAnimationFrame callbacks?",
-      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe-call",
-      "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "requestanimationframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe J"
     }
   ],
   "Python": [
-    {
-      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
-      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
-      "published_at": "2026-08-20T01:56:59Z",
-      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
-      "tags": [
-        "dart",
-        "python",
-        "rust",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "I Write Less Code Than I Used To. That May Be the Point.",
       "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
@@ -1815,6 +1797,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
+      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
+      "published_at": "2026-08-20T01:56:59Z",
+      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
+      "tags": [
+        "dart",
+        "python",
+        "rust",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
@@ -1977,8 +1974,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1697,
+      "stars": 1723,
       "user": "wang2122"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 764,
+      "user": "cclank"
     },
     {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
@@ -1996,21 +2008,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "published_at": "2026-08-20T13:40:06Z",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 749,
-      "user": "cclank"
-    },
-    {
       "title": "amirh00sain/SpiderPanel - GitHub Repository",
       "url": "https://github.com/amirh00sain/SpiderPanel",
       "published_at": "2026-08-18T15:30:17Z",
@@ -2022,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 633,
       "user": "amirh00sain"
     },
     {
@@ -2041,6 +2038,19 @@
       "user": "lanicer"
     },
     {
+      "title": "Class decorator with arguments using the @decorator syntax not working",
+      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
+      "published_at": "2026-08-24T07:19:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wolfrevo"
+    },
+    {
       "title": "Why does DISKANN with MAX_SIM_COSINE return a negative self-similarity score for FLOAT16 vectors in a StructArray?",
       "url": "https://stackoverflow.com/questions/79997721/why-does-diskann-with-max-sim-cosine-return-a-negative-self-similarity-score-for",
       "published_at": "2026-08-24T08:30:59.000Z",
@@ -2053,19 +2063,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cubkm Ewaybk"
-    },
-    {
-      "title": "Class decorator with arguments using the @decorator syntax not working",
-      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
-      "published_at": "2026-08-24T07:19:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wolfrevo"
     },
     {
       "title": "TypeError: 'bool' object is not iterable in Python",
@@ -2562,20 +2559,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThisStatementIsALie"
-    },
-    {
-      "title": "What is the earliest point at which the browser calls requestAnimationFrame callbacks?",
-      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe-call",
-      "published_at": "2026-08-18T13:29:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "requestanimationframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joe J"
     }
   ],
   "Mobile": [
@@ -2755,7 +2738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 238,
       "user": "ZSeven-W"
     },
     {
@@ -2937,7 +2920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "josiah-nelson"
     },
     {
@@ -3283,21 +3266,6 @@
       "user": "Debashish Ghosal"
     },
     {
-      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
-      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
-      "published_at": "2026-08-20T13:25:09Z",
-      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
-      "tags": [
-        "googlecloud",
-        "gemini",
-        "a2a",
-        "aiagents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "I Write Less Code Than I Used To. That May Be the Point.",
       "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
       "published_at": "2026-08-19T11:08:16Z",
@@ -3311,6 +3279,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
+      "url": "https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9",
+      "published_at": "2026-08-20T13:25:09Z",
+      "description": "One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.",
+      "tags": [
+        "googlecloud",
+        "gemini",
+        "a2a",
+        "aiagents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "My AI Content Journey",
@@ -3434,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1259,
+      "stars": 1264,
       "user": "vvxw"
     },
     {
@@ -3449,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 803,
       "user": "MeteorNOX"
     },
     {
@@ -3464,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "nateherkai"
     },
     {
@@ -3494,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 257,
       "user": "sam70361"
     },
     {
@@ -3509,8 +3492,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1697,
+      "stars": 1723,
       "user": "wang2122"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 764,
+      "user": "cclank"
     },
     {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
@@ -3528,21 +3526,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "published_at": "2026-08-20T13:40:06Z",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 749,
-      "user": "cclank"
-    },
-    {
       "title": "amirh00sain/SpiderPanel - GitHub Repository",
       "url": "https://github.com/amirh00sain/SpiderPanel",
       "published_at": "2026-08-18T15:30:17Z",
@@ -3554,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 633,
       "user": "amirh00sain"
     },
     {
@@ -3633,19 +3616,34 @@
       "user": "mindsdb"
     },
     {
-      "title": "thomassolcia/DiscordGoLiveBypass - Abra seu Discord por um IP fora do Brasil, devolvendo o Go Live, a câmera e a transmissão de tela.",
-      "url": "https://github.com/thomassolcia/DiscordGoLiveBypass",
-      "published_at": "2026-08-19T02:18:02Z",
-      "description": "Abra seu Discord por um IP fora do Brasil, devolvendo o Go Live, a câmera e a transmissão de tela.",
+      "title": "mattn/tensai - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "url": "https://github.com/mattn/tensai",
+      "published_at": "2026-08-19T09:06:30Z",
+      "description": "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/61297439?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
       "stars": 43,
-      "user": "thomassolcia"
+      "user": "mattn"
+    },
+    {
+      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "published_at": "2026-08-23T20:53:01Z",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "source": "GitHub",
+      "stars": 564,
+      "user": "b-nnett"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -3663,21 +3661,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 470,
-      "user": "b-nnett"
-    },
-    {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
       "url": "https://github.com/amagine-ai/Amagine3D",
       "published_at": "2026-08-19T15:31:34Z",
@@ -3693,21 +3676,6 @@
       "user": "amagine-ai"
     },
     {
-      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "url": "https://github.com/ZSeven-W/dsh-ios",
-      "published_at": "2026-08-19T18:02:50Z",
-      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
-      "source": "GitHub",
-      "stars": 236,
-      "user": "ZSeven-W"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -3719,8 +3687,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 239,
       "user": "kgoedecke"
+    },
+    {
+      "title": "ZSeven-W/dsh-ios - DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "url": "https://github.com/ZSeven-W/dsh-ios",
+      "published_at": "2026-08-19T18:02:50Z",
+      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "ZSeven-W"
     },
     {
       "title": "tobi/walgit - GitHub Repository",
@@ -3734,7 +3717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 628,
+      "stars": 647,
       "user": "tobi"
     },
     {
@@ -3749,7 +3732,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 573,
       "user": "iAmCorey"
     },
     {
@@ -3764,7 +3747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 293,
+      "stars": 304,
       "user": "furkankly"
     },
     {
@@ -3779,7 +3762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 164,
+      "stars": 165,
       "user": "josiah-nelson"
     },
     {
