@@ -476,21 +476,6 @@
       "user": "Asuran"
     },
     {
-      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
-      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
-      "published_at": "2026-08-17T09:00:16Z",
-      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
-      "tags": [
-        "docker",
-        "devops",
-        "flutter",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -670,7 +655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 576,
       "user": "nateherkai"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 787,
       "user": "cclank"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "amirh00sain"
     },
     {
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "mindsdb"
     },
     {
@@ -805,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "mattn"
     },
     {
@@ -835,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 374,
       "user": "amagine-ai"
     },
     {
@@ -850,8 +835,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 267,
       "user": "kgoedecke"
+    },
+    {
+      "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
+      "url": "https://github.com/josiah-nelson/eidos",
+      "published_at": "2026-08-22T17:23:29Z",
+      "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "josiah-nelson"
     },
     {
       "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
@@ -869,7 +869,7 @@
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
       "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
       "published_at": "2026-08-22T22:59:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "airplane-mode"
@@ -879,24 +879,10 @@
       "user": "Shaun Roselt"
     },
     {
-      "title": "on click on element, react fails with \"destroy is not a function\"",
-      "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
-      "published_at": "2026-08-21T15:10:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "scroll"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "serv-inc"
-    },
-    {
       "title": "Does Python's linecache read the entire file into memory and is AI reliable",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -905,21 +891,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
-    },
-    {
-      "title": "Request failed in Django but succeeds when I run script standalone",
-      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
-      "published_at": "2026-08-21T08:24:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "django",
-        "python-requests",
-        "steam"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali.zabetpour"
     },
     {
       "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
@@ -1458,7 +1429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1282,
       "user": "vvxw"
     },
     {
@@ -1473,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 829,
       "user": "MeteorNOX"
     },
     {
@@ -1488,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 576,
       "user": "nateherkai"
     },
     {
@@ -1548,7 +1519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 888,
       "user": "b-nnett"
     },
     {
@@ -1578,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 374,
       "user": "amagine-ai"
     },
     {
@@ -1593,7 +1564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 267,
       "user": "kgoedecke"
     },
     {
@@ -1612,21 +1583,6 @@
       "user": "ZSeven-W"
     },
     {
-      "title": "josiah-nelson/eidos - Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
-      "url": "https://github.com/josiah-nelson/eidos",
-      "published_at": "2026-08-22T17:23:29Z",
-      "description": "Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "josiah-nelson"
-    },
-    {
       "title": "furkankly/rataflow - Interactive node-based UIs for the terminal.",
       "url": "https://github.com/furkankly/rataflow",
       "published_at": "2026-08-18T09:15:21Z",
@@ -1642,10 +1598,25 @@
       "user": "furkankly"
     },
     {
+      "title": "React application performance degrades as the codebase scales how should we prevent unnecessary re-renders?",
+      "url": "https://stackoverflow.com/questions/79997780/react-application-performance-degrades-as-the-codebase-scales-how-should-we-prev",
+      "published_at": "2026-08-24T12:32:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Sahil Khurana"
+    },
+    {
       "title": "XMLHttpRequest to php and fake parameters",
       "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
       "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "php",
@@ -1660,7 +1631,7 @@
       "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
       "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
       "published_at": "2026-08-24T09:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript"
       ],
@@ -1682,6 +1653,19 @@
       "user": "Rohini Bhondekar"
     },
     {
+      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
+      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
+      "published_at": "2026-08-22T22:59:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "airplane-mode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shaun Roselt"
+    },
+    {
       "title": "Wordpress site with owl banner jumps to top when scroll a little",
       "url": "https://stackoverflow.com/questions/79997493/wordpress-site-with-owl-banner-jumps-to-top-when-scroll-a-little",
       "published_at": "2026-08-23T07:25:32.000Z",
@@ -1695,19 +1679,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naeem Akhtar"
-    },
-    {
-      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
-      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
-      "published_at": "2026-08-22T22:59:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "airplane-mode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaun Roselt"
     },
     {
       "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
@@ -1726,7 +1697,7 @@
       "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
       "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
       "published_at": "2026-08-23T15:00:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "node.js",
@@ -1742,7 +1713,7 @@
       "title": "ImageData not changing Canvas",
       "url": "https://stackoverflow.com/questions/79997539/imagedata-not-changing-canvas",
       "published_at": "2026-08-23T12:44:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html"
@@ -1755,7 +1726,7 @@
       "title": "How to force a link to open in the system browser from Telegram's in-app browser (WebView)?",
       "url": "https://stackoverflow.com/questions/79997452/how-to-force-a-link-to-open-in-the-system-browser-from-telegrams-in-app-browser",
       "published_at": "2026-08-23T02:08:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "android-webview",
@@ -1766,20 +1737,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AMINE DZ"
-    },
-    {
-      "title": "on click on element, react fails with \"destroy is not a function\"",
-      "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
-      "published_at": "2026-08-21T15:10:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "scroll"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "serv-inc"
     }
   ],
   "Python": [
@@ -1989,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 787,
       "user": "cclank"
     },
     {
@@ -2019,7 +1976,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "amirh00sain"
     },
     {
@@ -2038,10 +1995,24 @@
       "user": "lanicer"
     },
     {
+      "title": "How to restrict clickable area to Button",
+      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
+      "published_at": "2026-08-24T12:47:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "plotly-dash"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cph_sto"
+    },
+    {
       "title": "Does Python's linecache read the entire file into memory and is AI reliable",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -2105,19 +2076,6 @@
       "user": "degavath mamatha"
     },
     {
-      "title": "How do I get typing to work on generic class when creating a property with a function?",
-      "url": "https://stackoverflow.com/questions/79997571/how-do-i-get-typing-to-work-on-generic-class-when-creating-a-property-with-a-fun",
-      "published_at": "2026-08-23T15:39:18.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
       "title": "Any recommendations for Pygame tutorials?",
       "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
       "published_at": "2026-08-23T21:09:31.000Z",
@@ -2130,6 +2088,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TBNR8473"
+    },
+    {
+      "title": "How do I get typing to work on generic class when creating a property with a function?",
+      "url": "https://stackoverflow.com/questions/79997571/how-do-i-get-typing-to-work-on-generic-class-when-creating-a-property-with-a-fun",
+      "published_at": "2026-08-23T15:39:18.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "Do copies of dictionaries change if the dictionary itself changed",
@@ -2157,21 +2128,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jam One"
-    },
-    {
-      "title": "Request failed in Django but succeeds when I run script standalone",
-      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
-      "published_at": "2026-08-21T08:24:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "django",
-        "python-requests",
-        "steam"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ali.zabetpour"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2233,21 +2189,6 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
-      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
-      "published_at": "2026-08-17T09:00:16Z",
-      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
-      "tags": [
-        "docker",
-        "devops",
-        "flutter",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
     },
@@ -2550,7 +2491,7 @@
       "title": "ImageData not changing Canvas",
       "url": "https://stackoverflow.com/questions/79997539/imagedata-not-changing-canvas",
       "published_at": "2026-08-23T12:44:08.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html"
@@ -2558,6 +2499,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThisStatementIsALie"
+    },
+    {
+      "title": "How to restrict clickable area to Button",
+      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
+      "published_at": "2026-08-24T12:47:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "plotly-dash"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cph_sto"
     }
   ],
   "Mobile": [
@@ -2696,21 +2651,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
-      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
-      "published_at": "2026-08-17T09:00:16Z",
-      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
-      "tags": [
-        "docker",
-        "devops",
-        "flutter",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -2744,7 +2684,7 @@
       "title": "How to force a link to open in the system browser from Telegram's in-app browser (WebView)?",
       "url": "https://stackoverflow.com/questions/79997452/how-to-force-a-link-to-open-in-the-system-browser-from-telegrams-in-app-browser",
       "published_at": "2026-08-23T02:08:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "android-webview",
@@ -2908,21 +2848,6 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "josiah-nelson/eidos - Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
-      "url": "https://github.com/josiah-nelson/eidos",
-      "published_at": "2026-08-22T17:23:29Z",
-      "description": "Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "josiah-nelson"
-    },
-    {
       "title": "Your executable is a SQLite database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
       "published_at": "2026-08-24T02:32:45.274-05:00",
@@ -3012,21 +2937,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Building Enterprise Active Directory, LDAP & Dynamic RBAC in Go & Flutter with Google Antigravity",
-      "url": "https://dev.to/gde/building-enterprise-active-directory-ldap-dynamic-rbac-in-go-flutter-with-google-antigravity-4al4",
-      "published_at": "2026-08-17T09:00:16Z",
-      "description": "A deep dive into implementing multi-server Active Directory SSO (LDAPS), JWT authentication, and 3-tier RBAC for Gubernator using Google Antigravity as an AI pair programmer.",
-      "tags": [
-        "docker",
-        "devops",
-        "flutter",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fsecurity_ad.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3221,7 +3131,7 @@
       "title": "XMLHttpRequest to php and fake parameters",
       "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
       "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "php",
@@ -3416,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1271,
+      "stars": 1282,
       "user": "vvxw"
     },
     {
@@ -3431,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 829,
       "user": "MeteorNOX"
     },
     {
@@ -3446,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 566,
+      "stars": 576,
       "user": "nateherkai"
     },
     {
@@ -3506,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 787,
       "user": "cclank"
     },
     {
@@ -3536,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 647,
       "user": "amirh00sain"
     },
     {
@@ -3611,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 53,
+      "stars": 54,
       "user": "mindsdb"
     },
     {
@@ -3626,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "mattn"
     },
     {
@@ -3641,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 888,
       "user": "b-nnett"
     },
     {
@@ -3671,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 374,
       "user": "amagine-ai"
     },
     {
@@ -3686,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 267,
       "user": "kgoedecke"
     },
     {
@@ -3716,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 715,
+      "stars": 747,
       "user": "tobi"
     },
     {
@@ -3731,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 574,
       "user": "iAmCorey"
     },
     {
@@ -3746,14 +3656,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 340,
       "user": "furkankly"
     },
     {
-      "title": "josiah-nelson/eidos - Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
+      "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
       "url": "https://github.com/josiah-nelson/eidos",
       "published_at": "2026-08-22T17:23:29Z",
-      "description": "Windows-first filesystem catalog, content indexer, storage analyzer, and search service (Rust, SQLite, Tantivy, React)",
+      "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
       "tags": [
         "rust",
         "github",
@@ -3761,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 166,
       "user": "josiah-nelson"
     },
     {
