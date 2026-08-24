@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 588,
       "user": "nateherkai"
     },
     {
@@ -689,19 +689,19 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "sam70361/emotion-ball - Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
-      "url": "https://github.com/sam70361/emotion-ball",
-      "published_at": "2026-08-18T09:28:02Z",
-      "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "url": "https://github.com/only-cli/oc",
+      "published_at": "2026-08-18T13:00:30Z",
+      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "sam70361"
+      "stars": 264,
+      "user": "only-cli"
     },
     {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 820,
       "user": "cclank"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "amirh00sain"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "zhaoxuya520"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "mindsdb"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "amagine-ai"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 285,
       "user": "kgoedecke"
     },
     {
@@ -906,6 +906,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "published_at": "2026-08-24T15:24:18.000Z",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Venture",
+        "Exclusive",
+        "general intuition"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "published_at": "2026-08-24T15:00:00.000Z",
+      "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "tags": [
+        "AI",
+        "Exclusive",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Brake problems in GM EVs draw greater federal scrutiny",
@@ -980,19 +1010,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "published_at": "2026-08-23T15:00:00.000Z",
-      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "tags": [
-        "AI",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1432,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1290,
       "user": "vvxw"
     },
     {
@@ -1447,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 843,
       "user": "MeteorNOX"
     },
     {
@@ -1462,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 588,
       "user": "nateherkai"
     },
     {
@@ -1481,19 +1498,19 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "sam70361/emotion-ball - Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
-      "url": "https://github.com/sam70361/emotion-ball",
-      "published_at": "2026-08-18T09:28:02Z",
-      "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "url": "https://github.com/only-cli/oc",
+      "published_at": "2026-08-18T13:00:30Z",
+      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "sam70361"
+      "stars": 264,
+      "user": "only-cli"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -1522,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1176,
       "user": "b-nnett"
     },
     {
@@ -1552,7 +1569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "amagine-ai"
     },
     {
@@ -1567,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 285,
       "user": "kgoedecke"
     },
     {
@@ -1582,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "ZSeven-W"
     },
     {
@@ -1948,7 +1965,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 820,
       "user": "cclank"
     },
     {
@@ -1978,7 +1995,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "amirh00sain"
     },
     {
@@ -2000,7 +2017,7 @@
       "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
       "url": "https://stackoverflow.com/questions/79997799/how-to-give-a-font-to-a-option-in-a-python-tkinter-ttk-combobox",
       "published_at": "2026-08-24T13:38:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "tkinter",
@@ -2011,6 +2028,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
+    },
+    {
+      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
+      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
+      "published_at": "2026-08-24T14:32:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "aws-lambda",
+        "lambda",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SAFAA LHAKKAOUI"
     },
     {
       "title": "How to restrict clickable area to Button",
@@ -2027,20 +2059,6 @@
       "user": "cph_sto"
     },
     {
-      "title": "Coercing pyright to understand non-None Optional values",
-      "url": "https://stackoverflow.com/questions/79997769/coercing-pyright-to-understand-non-none-optional-values",
-      "published_at": "2026-08-24T11:47:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jason C"
-    },
-    {
       "title": "Does Python's linecache read the entire file into memory and is AI reliable",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
       "published_at": "2026-08-24T11:18:06.000Z",
@@ -2053,6 +2071,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "Coercing pyright to understand non-None Optional values",
+      "url": "https://stackoverflow.com/questions/79997769/coercing-pyright-to-understand-non-none-optional-values",
+      "published_at": "2026-08-24T11:47:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jason C"
     },
     {
       "title": "Class decorator with arguments using the @decorator syntax not working",
@@ -2119,20 +2151,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
-    },
-    {
-      "title": "Do copies of dictionaries change if the dictionary itself changed",
-      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
-      "published_at": "2026-08-23T21:35:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "dictionary",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asad"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2682,7 +2700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "ZSeven-W"
     },
     {
@@ -2821,6 +2839,21 @@
       "source": "GitHub",
       "stars": 104,
       "user": "jsongmax"
+    },
+    {
+      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
+      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
+      "published_at": "2026-08-24T14:32:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "aws-lambda",
+        "lambda",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SAFAA LHAKKAOUI"
     }
   ],
   "Database": [
@@ -3360,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1290,
       "user": "vvxw"
     },
     {
@@ -3375,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 840,
+      "stars": 843,
       "user": "MeteorNOX"
     },
     {
@@ -3390,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 588,
       "user": "nateherkai"
     },
     {
@@ -3409,19 +3442,19 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "sam70361/emotion-ball - Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
-      "url": "https://github.com/sam70361/emotion-ball",
-      "published_at": "2026-08-18T09:28:02Z",
-      "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "url": "https://github.com/only-cli/oc",
+      "published_at": "2026-08-18T13:00:30Z",
+      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 262,
-      "user": "sam70361"
+      "stars": 264,
+      "user": "only-cli"
     },
     {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
@@ -3450,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 810,
+      "stars": 820,
       "user": "cclank"
     },
     {
@@ -3480,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 652,
       "user": "amirh00sain"
     },
     {
@@ -3510,7 +3543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "zhaoxuya520"
     },
     {
@@ -3555,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "mindsdb"
     },
     {
@@ -3585,7 +3618,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1080,
+      "stars": 1176,
       "user": "b-nnett"
     },
     {
@@ -3615,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 390,
       "user": "amagine-ai"
     },
     {
@@ -3630,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 285,
       "user": "kgoedecke"
     },
     {
@@ -3645,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 240,
       "user": "ZSeven-W"
     },
     {
@@ -3660,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 806,
+      "stars": 837,
       "user": "tobi"
     },
     {
@@ -3675,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 580,
       "user": "iAmCorey"
     },
     {
@@ -3690,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 370,
       "user": "furkankly"
     },
     {
@@ -3765,19 +3798,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "published_at": "2026-08-23T15:00:00.000Z",
-      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "tags": [
-        "AI",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     }
   ]
 }
