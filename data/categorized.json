@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 559,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1744,
       "user": "wang2122"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 768,
       "user": "cclank"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 636,
       "user": "amirh00sain"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "amagine-ai"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 248,
       "user": "kgoedecke"
     },
     {
@@ -882,7 +882,7 @@
       "title": "on click on element, react fails with \"destroy is not a function\"",
       "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
       "published_at": "2026-08-21T15:10:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1459,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1264,
+      "stars": 1267,
       "user": "vvxw"
     },
     {
@@ -1474,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 808,
       "user": "MeteorNOX"
     },
     {
@@ -1489,7 +1489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 559,
       "user": "nateherkai"
     },
     {
@@ -1549,7 +1549,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 647,
       "user": "b-nnett"
     },
     {
@@ -1579,7 +1579,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "amagine-ai"
     },
     {
@@ -1594,7 +1594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 248,
       "user": "kgoedecke"
     },
     {
@@ -1646,7 +1646,7 @@
       "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
       "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
       "published_at": "2026-08-24T09:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript"
       ],
@@ -1660,6 +1660,7 @@
       "published_at": "2026-08-24T09:09:50.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
+        "tooling-recommendation",
         "javascript"
       ],
       "cover_image": null,
@@ -1695,6 +1696,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naeem Akhtar"
+    },
+    {
+      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
+      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
+      "published_at": "2026-08-22T22:59:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "airplane-mode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shaun Roselt"
     },
     {
       "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
@@ -1739,19 +1753,6 @@
       "user": "ThisStatementIsALie"
     },
     {
-      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
-      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
-      "published_at": "2026-08-22T22:59:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "airplane-mode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaun Roselt"
-    },
-    {
       "title": "How to force a link to open in the system browser from Telegram's in-app browser (WebView)?",
       "url": "https://stackoverflow.com/questions/79997452/how-to-force-a-link-to-open-in-the-system-browser-from-telegrams-in-app-browser",
       "published_at": "2026-08-23T02:08:33.000Z",
@@ -1771,7 +1772,7 @@
       "title": "on click on element, react fails with \"destroy is not a function\"",
       "url": "https://stackoverflow.com/questions/79997128/on-click-on-element-react-fails-with-destroy-is-not-a-function",
       "published_at": "2026-08-21T15:10:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1974,7 +1975,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1744,
       "user": "wang2122"
     },
     {
@@ -1989,7 +1990,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 768,
       "user": "cclank"
     },
     {
@@ -2019,7 +2020,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 636,
       "user": "amirh00sain"
     },
     {
@@ -2090,20 +2091,6 @@
       "user": "iamthebull"
     },
     {
-      "title": "Do copies of dictionaries change if the dictionary itself changed",
-      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
-      "published_at": "2026-08-23T21:35:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "dictionary",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asad"
-    },
-    {
       "title": "Any recommendations for Pygame tutorials?",
       "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
       "published_at": "2026-08-23T21:09:31.000Z",
@@ -2116,6 +2103,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TBNR8473"
+    },
+    {
+      "title": "Do copies of dictionaries change if the dictionary itself changed",
+      "url": "https://stackoverflow.com/questions/79997618/do-copies-of-dictionaries-change-if-the-dictionary-itself-changed",
+      "published_at": "2026-08-23T21:35:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "dictionary",
+        "for-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asad"
     },
     {
       "title": "Dataframe sorting and column count",
@@ -3417,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1264,
+      "stars": 1267,
       "user": "vvxw"
     },
     {
@@ -3432,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 808,
       "user": "MeteorNOX"
     },
     {
@@ -3447,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 559,
       "user": "nateherkai"
     },
     {
@@ -3492,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1744,
       "user": "wang2122"
     },
     {
@@ -3507,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 768,
       "user": "cclank"
     },
     {
@@ -3537,7 +3538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 633,
+      "stars": 636,
       "user": "amirh00sain"
     },
     {
@@ -3642,7 +3643,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 647,
       "user": "b-nnett"
     },
     {
@@ -3672,7 +3673,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "amagine-ai"
     },
     {
@@ -3687,7 +3688,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 248,
       "user": "kgoedecke"
     },
     {
@@ -3717,7 +3718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 675,
       "user": "tobi"
     },
     {
@@ -3747,7 +3748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 309,
       "user": "furkankly"
     },
     {
@@ -3779,6 +3780,19 @@
       "source": "GitHub",
       "stars": 94,
       "user": "furkankly"
+    },
+    {
+      "title": "How to handle Talend JXLS templates in Apache Hop?",
+      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
+      "published_at": "2026-08-24T09:09:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "tooling-recommendation",
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rohini Bhondekar"
     },
     {
       "title": "Any recommendations for Pygame tutorials?",
