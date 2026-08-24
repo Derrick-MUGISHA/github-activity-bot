@@ -674,51 +674,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "published_at": "2026-08-22T15:25:08Z",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 608,
-      "user": "nateherkai"
-    },
-    {
-      "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-      "published_at": "2026-08-19T16:25:27Z",
-      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
-      "source": "GitHub",
-      "stars": 345,
-      "user": "mrhlaingbwardev"
-    },
-    {
-      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "url": "https://github.com/only-cli/oc",
-      "published_at": "2026-08-18T13:00:30Z",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "only-cli"
-    },
-    {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "published_at": "2026-08-18T04:08:11Z",
@@ -745,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "cclank"
     },
     {
@@ -775,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "amirh00sain"
     },
     {
@@ -865,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "kgoedecke"
     },
     {
@@ -895,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 131,
       "user": "truespar"
     },
     {
@@ -909,6 +864,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "delirehberi"
+    },
+    {
+      "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+      "url": "https://routeup.dev",
+      "published_at": "2026-08-24T14:08:59.286-05:00",
+      "description": "I built Routeup around a simple idea: local apps should use their real names.\r\n\r\nIt was inspired by [Portless](https://portless.sh/), but I also wanted built-in public tunneling, selective path exposure, request inspection, and live logs.\r\n\r\nInstead of opening `localhost:3000`, I can give a project a stable, trusted HTTPS URL and keep using it across restarts:\r\n\r\n```text\r\nhttps://example-app.localhost\r\n```\r\n\r\nThe app stays local by default. When an external service needs access, I can expose the whole route or only selected paths such as `/api/webhooks/*`:\r\n\r\n```text\r\nlocal:  https://example-app.localhost\r\npublic: https://example-app.try.routeup.dev\r\nexpose: /api/webhooks/*\r\n```\r\n\r\nExposure has its own lifecycle. I can expose an already-running route from another terminal and stop sharing it without stopping the local app.\r\n\r\nFor quick, temporary exposure, Routeup provides names under `*.try.routeup.dev` without requiring an account or token. For stable public names, a token claims a namespace such as `team.routeup.dev`. Apps can then use names beneath it, such as `api.team.routeup.dev` and `docs.team.routeup.dev`. The same namespace model works with a self-hosted Routeup server and your own domain.\r\n\r\nRouteup grew out of frustrations I had using ngrok and localtunnel. They could expose a port, but their tunnel-first model was not the workflow I wanted. I wanted the app to have a stable local identity first, with public access added only when and where it was needed.\r\n\r\nI use this workflow heavily at work and for personal projects. Routeup currently supports multiple path targets behind one origin, repository-level configuration, running an app command, request inspection, hosted public URLs, and self-hosted servers.\r\n\r\nThe local workflow requires no account, token, DNS, or remote server. Routeup is a single Go binary, has no CLI telemetry, and is MIT licensed.\r\n\r\n- [Website and documentation](https://routeup.dev)\r\n- [Source code](https://github.com/mukul-mehta/routeup)\r\n\r\nI'd appreciate any feedback on the project, especially ideas for improving the workflow, documentation, or features. If you run into any issues during setup or while using the tool, please [open a GitHub issue](https://github.com/mukul-mehta/routeup/issues/new/choose) or email [help@routeup.dev](mailto:help@routeup.dev).",
+      "tags": [
+        "go",
+        "networking",
+        "show"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mukul"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -989,9 +958,12 @@
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "published_at": "2026-08-24T18:03:55.000Z",
-      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
       "tags": [
-        "AI"
+        "AI",
+        "Privacy",
+        "Security",
+        "AI assistants"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1043,20 +1015,18 @@
       "user": "Sean O'Kane"
     },
     {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "published_at": "2026-08-24T13:47:26.000Z",
-      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "title": "How to Build Referral-Aware Split Payment Flows in Django",
+      "url": "https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/",
+      "published_at": "2026-08-24T17:46:43.000Z",
+      "description": "When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re",
       "tags": [
-        "AI",
-        "Venture",
-        "Hugging Face",
-        "Mergers and Acquisitions",
-        "open source"
+        "Django",
+        "payments",
+        "Python"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
@@ -1152,37 +1122,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ayobami Adejumo"
-    },
-    {
-      "title": "How Sensors Collect, Process, and Track Data in Wearable Devices",
-      "url": "https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/",
-      "published_at": "2026-08-21T16:33:34.000Z",
-      "description": "A smartwatch can tell you that your heart rate is 78 beats per minute, that you've walked 6,421 steps, or that you slept for 7 hours last night. All of these numbers appear simple on the screen, but b",
-      "tags": [
-        "Wearables",
-        "sensors",
-        "iot",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
-    },
-    {
-      "title": "The Sanitizers Handbook: Memory, Initialization, and Races",
-      "url": "https://www.freecodecamp.org/news/the-sanitizers-handbook/",
-      "published_at": "2026-08-21T16:28:13.000Z",
-      "description": "Some of the most dangerous native failures are produced by programs that appear to be working correctly. The cryptographic operation returns the right ciphertext. The parser rejects malformed input. T",
-      "tags": [
-        "Systems Programming",
-        "Dart",
-        "memory-management",
-        "debugging",
-        "LLVM"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hamdaan Ali"
     }
   ],
   "JavaScript": [
@@ -1456,81 +1395,6 @@
       "user": "velmu"
     },
     {
-      "title": "vvxw/deploy-vercel - Install Command：npm install",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "published_at": "2026-08-18T13:25:45Z",
-      "description": "Install Command：npm install",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
-      "source": "GitHub",
-      "stars": 1298,
-      "user": "vvxw"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "published_at": "2026-08-18T03:13:51Z",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
-      "source": "GitHub",
-      "stars": 860,
-      "user": "MeteorNOX"
-    },
-    {
-      "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "published_at": "2026-08-22T15:25:08Z",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 608,
-      "user": "nateherkai"
-    },
-    {
-      "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-      "published_at": "2026-08-19T16:25:27Z",
-      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
-      "source": "GitHub",
-      "stars": 345,
-      "user": "mrhlaingbwardev"
-    },
-    {
-      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "url": "https://github.com/only-cli/oc",
-      "published_at": "2026-08-18T13:00:30Z",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "only-cli"
-    },
-    {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
       "url": "https://github.com/jsongmax/oci-core",
       "published_at": "2026-08-20T02:03:30Z",
@@ -1557,7 +1421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1510,
+      "stars": 1535,
       "user": "b-nnett"
     },
     {
@@ -1602,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "kgoedecke"
     },
     {
@@ -1617,14 +1481,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "rome-os"
     },
     {
       "title": "How to make unique RGB color generator with incremental R, G, and B",
       "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
       "published_at": "2026-08-24T19:13:39.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "javascript",
         "colors",
@@ -1985,7 +1849,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "cclank"
     },
     {
@@ -2015,7 +1879,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "amirh00sain"
     },
     {
@@ -2050,7 +1914,7 @@
       "title": "Why is math.sqrt() returning value error?",
       "url": "https://stackoverflow.com/questions/79997883/why-is-math-sqrt-returning-value-error",
       "published_at": "2026-08-24T19:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -2078,7 +1942,7 @@
       "title": "Will python script automatically import modules when I run script in command line?",
       "url": "https://stackoverflow.com/questions/79997841/will-python-script-automatically-import-modules-when-i-run-script-in-command-lin",
       "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "import",
@@ -2187,6 +2051,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cubkm Ewaybk"
+    },
+    {
+      "title": "How to Build Referral-Aware Split Payment Flows in Django",
+      "url": "https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/",
+      "published_at": "2026-08-24T17:46:43.000Z",
+      "description": "When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re",
+      "tags": [
+        "Django",
+        "payments",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chidozie Managwu"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2710,6 +2588,22 @@
       "user": "Forsy-AI"
     },
     {
+      "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
+      "url": "https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/",
+      "published_at": "2026-08-24T17:45:03.000Z",
+      "description": "Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl",
+      "tags": [
+        "Dart",
+        "Flutter",
+        "mobile",
+        "Mobile Development",
+        "native"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Oluwaseyi Fatunmole"
+    },
+    {
       "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
       "url": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
       "published_at": "2026-08-21T20:45:13.000Z",
@@ -2827,21 +2721,6 @@
       "user": "xbill"
     },
     {
-      "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-      "published_at": "2026-08-19T16:25:27Z",
-      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
-      "source": "GitHub",
-      "stars": 345,
-      "user": "mrhlaingbwardev"
-    },
-    {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
       "url": "https://github.com/jsongmax/oci-core",
       "published_at": "2026-08-20T02:03:30Z",
@@ -2915,21 +2794,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-      "published_at": "2026-08-19T16:25:27Z",
-      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
-      "source": "GitHub",
-      "stars": 345,
-      "user": "mrhlaingbwardev"
     },
     {
       "title": "Your executable is a SQLite database",
@@ -3216,9 +3080,12 @@
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
       "published_at": "2026-08-24T18:03:55.000Z",
-      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
       "tags": [
-        "AI"
+        "AI",
+        "Privacy",
+        "Security",
+        "AI assistants"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3412,81 +3279,6 @@
       "user": "pabs3"
     },
     {
-      "title": "vvxw/deploy-vercel - Install Command：npm install",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "published_at": "2026-08-18T13:25:45Z",
-      "description": "Install Command：npm install",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
-      "source": "GitHub",
-      "stars": 1298,
-      "user": "vvxw"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "published_at": "2026-08-18T03:13:51Z",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
-      "source": "GitHub",
-      "stars": 860,
-      "user": "MeteorNOX"
-    },
-    {
-      "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "published_at": "2026-08-22T15:25:08Z",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 608,
-      "user": "nateherkai"
-    },
-    {
-      "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
-      "published_at": "2026-08-19T16:25:27Z",
-      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
-      "source": "GitHub",
-      "stars": 345,
-      "user": "mrhlaingbwardev"
-    },
-    {
-      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "url": "https://github.com/only-cli/oc",
-      "published_at": "2026-08-18T13:00:30Z",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "only-cli"
-    },
-    {
       "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "published_at": "2026-08-18T04:08:11Z",
@@ -3513,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 834,
       "user": "cclank"
     },
     {
@@ -3543,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 670,
+      "stars": 672,
       "user": "amirh00sain"
     },
     {
@@ -3648,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1510,
+      "stars": 1535,
       "user": "b-nnett"
     },
     {
@@ -3693,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 308,
       "user": "kgoedecke"
     },
     {
@@ -3708,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "rome-os"
     },
     {
@@ -3723,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 968,
+      "stars": 982,
       "user": "tobi"
     },
     {
@@ -3753,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 394,
       "user": "furkankly"
     },
     {
@@ -3783,8 +3575,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 131,
       "user": "truespar"
+    },
+    {
+      "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
+      "url": "https://routeup.dev",
+      "published_at": "2026-08-24T14:08:59.286-05:00",
+      "description": "I built Routeup around a simple idea: local apps should use their real names.\r\n\r\nIt was inspired by [Portless](https://portless.sh/), but I also wanted built-in public tunneling, selective path exposure, request inspection, and live logs.\r\n\r\nInstead of opening `localhost:3000`, I can give a project a stable, trusted HTTPS URL and keep using it across restarts:\r\n\r\n```text\r\nhttps://example-app.localhost\r\n```\r\n\r\nThe app stays local by default. When an external service needs access, I can expose the whole route or only selected paths such as `/api/webhooks/*`:\r\n\r\n```text\r\nlocal:  https://example-app.localhost\r\npublic: https://example-app.try.routeup.dev\r\nexpose: /api/webhooks/*\r\n```\r\n\r\nExposure has its own lifecycle. I can expose an already-running route from another terminal and stop sharing it without stopping the local app.\r\n\r\nFor quick, temporary exposure, Routeup provides names under `*.try.routeup.dev` without requiring an account or token. For stable public names, a token claims a namespace such as `team.routeup.dev`. Apps can then use names beneath it, such as `api.team.routeup.dev` and `docs.team.routeup.dev`. The same namespace model works with a self-hosted Routeup server and your own domain.\r\n\r\nRouteup grew out of frustrations I had using ngrok and localtunnel. They could expose a port, but their tunnel-first model was not the workflow I wanted. I wanted the app to have a stable local identity first, with public access added only when and where it was needed.\r\n\r\nI use this workflow heavily at work and for personal projects. Routeup currently supports multiple path targets behind one origin, repository-level configuration, running an app command, request inspection, hosted public URLs, and self-hosted servers.\r\n\r\nThe local workflow requires no account, token, DNS, or remote server. Routeup is a single Go binary, has no CLI telemetry, and is MIT licensed.\r\n\r\n- [Website and documentation](https://routeup.dev)\r\n- [Source code](https://github.com/mukul-mehta/routeup)\r\n\r\nI'd appreciate any feedback on the project, especially ideas for improving the workflow, documentation, or features. If you run into any issues during setup or while using the tool, please [open a GitHub issue](https://github.com/mukul-mehta/routeup/issues/new/choose) or email [help@routeup.dev](mailto:help@routeup.dev).",
+      "tags": [
+        "go",
+        "networking",
+        "show"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mukul"
     },
     {
       "title": "How to handle Talend JXLS templates in Apache Hop?",
