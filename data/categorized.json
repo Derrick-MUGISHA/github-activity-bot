@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "The data is in: AI is how developers learn now",
+      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4",
+      "published_at": "2026-08-24T16:41:56Z",
+      "description": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
+      "tags": [
+        "ai",
+        "career",
+        "learning",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgl260d6tco1w2cfieoz.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -61,6 +76,19 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -74,19 +102,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
     },
     {
       "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
@@ -253,6 +268,20 @@
       "user": "Jean-Phi Baconnais"
     },
     {
+      "title": "Functional languages are heavily imperative.",
+      "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1",
+      "published_at": "2026-08-17T07:39:18Z",
+      "description": "Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.",
+      "tags": [
+        "imperative",
+        "declarative",
+        "haskell"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcrcgtujuv9n9kd0hoj7b.png",
+      "source": "Dev.to",
+      "user": "Mike Pearson"
+    },
+    {
       "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
       "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
       "published_at": "2026-08-19T03:28:17Z",
@@ -281,20 +310,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
-    },
-    {
-      "title": "Functional languages are heavily imperative.",
-      "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1",
-      "published_at": "2026-08-17T07:39:18Z",
-      "description": "Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.",
-      "tags": [
-        "imperative",
-        "declarative",
-        "haskell"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcrcgtujuv9n9kd0hoj7b.png",
-      "source": "Dev.to",
-      "user": "Mike Pearson"
     },
     {
       "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
@@ -670,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "nateherkai"
     },
     {
@@ -700,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "only-cli"
     },
     {
@@ -730,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 823,
       "user": "cclank"
     },
     {
@@ -745,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 765,
       "user": "ShadowAqueduct"
     },
     {
@@ -760,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 657,
       "user": "amirh00sain"
     },
     {
@@ -850,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 294,
       "user": "kgoedecke"
     },
     {
@@ -879,18 +894,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Yogthos"
-    },
-    {
-      "title": "3 constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "published_at": "2026-08-24T04:43:23.428-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "schmudde"
     },
     {
       "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
@@ -973,6 +976,7 @@
         "AI",
         "Venture",
         "Hugging Face",
+        "Mergers and Acquisitions",
         "open source"
       ],
       "cover_image": null,
@@ -1022,6 +1026,38 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
+    },
+    {
+      "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
+      "url": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
+      "published_at": "2026-08-24T14:36:56.000Z",
+      "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
+      "tags": [
+        "Software Testing",
+        "Artificial Intelligence",
+        "Quality Assurance",
+        "ai testing",
+        "QA engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
+    },
+    {
+      "title": "How to Build Type-Safe APIs with Hono and Zod",
+      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+      "published_at": "2026-08-24T14:03:04.000Z",
+      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+      "tags": [
+        "TypeScript",
+        "hono",
+        "zod",
+        "api",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -1116,37 +1152,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hamdaan Ali"
-    },
-    {
-      "title": "The AI Agent Engineer's Guide: 60 Patterns for Building Autonomous Systems [Full Book]",
-      "url": "https://www.freecodecamp.org/news/ai-agent-engineers-guide-60-patterns-for-building-autonomous-systems-book/",
-      "published_at": "2026-08-20T18:11:53.000Z",
-      "description": "This book is a capability-led field guide to the architectures that make modern AI agents actually work. It includes code, failure modes, and illustrative composite case studies for every pattern. Abo",
-      "tags": [
-        "ai agents",
-        "AI",
-        "book",
-        "AI Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vahe Aslanyan"
-    },
-    {
-      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-      "published_at": "2026-08-20T17:00:00.000Z",
-      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-      "tags": [
-        "knowledge graph",
-        "Neo4j",
-        "Python",
-        "AI",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
     }
   ],
   "JavaScript": [
@@ -1315,21 +1320,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
-      "url": "https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7",
-      "published_at": "2026-08-15T00:21:12Z",
-      "description": "A behind-the-scenes look at how we dogfooded bloc_signals_jaspr on blocsignal.dev, achieving 100K ops/sec in browser JS with declarative consumer components and Dart 3.13.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuf6jdjehlswpayop4u2.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1461,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1293,
       "user": "vvxw"
     },
     {
@@ -1476,7 +1466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 854,
       "user": "MeteorNOX"
     },
     {
@@ -1491,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "nateherkai"
     },
     {
@@ -1521,7 +1511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "only-cli"
     },
     {
@@ -1551,7 +1541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1326,
       "user": "b-nnett"
     },
     {
@@ -1596,7 +1586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 294,
       "user": "kgoedecke"
     },
     {
@@ -1611,7 +1601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "ZSeven-W"
     },
     {
@@ -1678,7 +1668,7 @@
       "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
       "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
       "published_at": "2026-08-24T09:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript"
       ],
@@ -1768,6 +1758,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ThisStatementIsALie"
+    },
+    {
+      "title": "How to Build Type-Safe APIs with Hono and Zod",
+      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+      "published_at": "2026-08-24T14:03:04.000Z",
+      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+      "tags": [
+        "TypeScript",
+        "hono",
+        "zod",
+        "api",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     }
   ],
   "Python": [
@@ -1977,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 823,
       "user": "cclank"
     },
     {
@@ -1992,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 765,
       "user": "ShadowAqueduct"
     },
     {
@@ -2007,7 +2013,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 657,
       "user": "amirh00sain"
     },
     {
@@ -2029,7 +2035,7 @@
       "title": "Will python script automatically import modules when I run script in command line?",
       "url": "https://stackoverflow.com/questions/79997841/will-python-script-automatically-import-modules-when-i-run-script-in-command-lin",
       "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "import",
@@ -2040,16 +2046,30 @@
       "user": "Zhang Wei"
     },
     {
+      "title": "How to extract valid Python code from .ipynb cells",
+      "url": "https://stackoverflow.com/questions/79997840/how-to-extract-valid-python-code-from-ipynb-cells",
+      "published_at": "2026-08-24T16:11:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "parsing",
+        "jupyter-notebook",
+        "abstract-syntax-tree",
+        "ipynb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ArianNa"
+    },
+    {
       "title": "What skills and technologies should i learn to become a data scientist",
       "url": "https://stackoverflow.com/questions/79997834/what-skills-and-technologies-should-i-learn-to-become-a-data-scientist",
       "published_at": "2026-08-24T15:45:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "advice",
         "python",
-        "machine-learning",
-        "data-science",
-        "data-science-experience"
+        "machine-learning"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2156,18 +2176,6 @@
       "user": "Cubkm Ewaybk"
     },
     {
-      "title": "TypeError: 'bool' object is not iterable in Python",
-      "url": "https://stackoverflow.com/questions/79997665/typeerror-bool-object-is-not-iterable-in-python",
-      "published_at": "2026-08-24T05:35:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "degavath mamatha"
-    },
-    {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
       "url": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
       "published_at": "2026-08-21T21:52:56.000Z",
@@ -2182,22 +2190,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-      "published_at": "2026-08-20T17:00:00.000Z",
-      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-      "tags": [
-        "knowledge graph",
-        "Neo4j",
-        "Python",
-        "AI",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
     }
   ],
   "DevOps": [
@@ -2349,6 +2341,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
+      "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
+      "published_at": "2026-08-22T03:00:00.000Z",
+      "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+      "tags": [
+        "Devops",
+        "Open Source",
+        "Cloud Computing",
+        "cloud native",
+        "#prometheus"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Purity Udeh"
     },
     {
       "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
@@ -2522,7 +2530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 765,
       "user": "ShadowAqueduct"
     },
     {
@@ -2551,6 +2559,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "cph_sto"
+    },
+    {
+      "title": "How to Build Type-Safe APIs with Hono and Zod",
+      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
+      "published_at": "2026-08-24T14:03:04.000Z",
+      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
+      "tags": [
+        "TypeScript",
+        "hono",
+        "zod",
+        "api",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinedu Otutu"
     }
   ],
   "Mobile": [
@@ -2674,21 +2698,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
-      "url": "https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7",
-      "published_at": "2026-08-15T00:21:12Z",
-      "description": "A behind-the-scenes look at how we dogfooded bloc_signals_jaspr on blocsignal.dev, achieving 100K ops/sec in browser JS with declarative consumer components and Dart 3.13.",
-      "tags": [
-        "flutter",
-        "dart",
-        "webdev",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuf6jdjehlswpayop4u2.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -2715,7 +2724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "ZSeven-W"
     },
     {
@@ -2869,6 +2878,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "SAFAA LHAKKAOUI"
+    },
+    {
+      "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
+      "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
+      "published_at": "2026-08-22T03:00:00.000Z",
+      "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+      "tags": [
+        "Devops",
+        "Open Source",
+        "Cloud Computing",
+        "cloud native",
+        "#prometheus"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Purity Udeh"
     }
   ],
   "Database": [
@@ -2942,22 +2967,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Build a Knowledge Graph with Python and Neo4j [Full Handbook]",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-knowledge-graph-with-python-and-neo4j-handbook/",
-      "published_at": "2026-08-20T17:00:00.000Z",
-      "description": "Most of the data you work with is really about relationships. A customer belongs to an account. An incident affects a service. An engineer owns a repository. You store all of that in tables, and for a",
-      "tags": [
-        "knowledge graph",
-        "Neo4j",
-        "Python",
-        "AI",
-        "database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "RONI DAS"
     }
   ],
   "Security": [
@@ -3408,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1293,
       "user": "vvxw"
     },
     {
@@ -3423,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 850,
+      "stars": 854,
       "user": "MeteorNOX"
     },
     {
@@ -3438,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 595,
       "user": "nateherkai"
     },
     {
@@ -3468,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "only-cli"
     },
     {
@@ -3498,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 823,
       "user": "cclank"
     },
     {
@@ -3513,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 765,
       "user": "ShadowAqueduct"
     },
     {
@@ -3528,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 653,
+      "stars": 657,
       "user": "amirh00sain"
     },
     {
@@ -3588,7 +3597,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
       "source": "GitHub",
-      "stars": 64,
+      "stars": 65,
       "user": "lxcshine"
     },
     {
@@ -3633,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1326,
       "user": "b-nnett"
     },
     {
@@ -3678,7 +3687,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 294,
       "user": "kgoedecke"
     },
     {
@@ -3693,7 +3702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "ZSeven-W"
     },
     {
@@ -3708,7 +3717,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 854,
+      "stars": 880,
       "user": "tobi"
     },
     {
@@ -3738,7 +3747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 372,
+      "stars": 380,
       "user": "furkankly"
     },
     {
@@ -3799,6 +3808,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
+    },
+    {
+      "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
+      "url": "https://www.freecodecamp.org/news/how-to-test-conversational-ai-practical-guide-for-qa-engineers/",
+      "published_at": "2026-08-24T14:36:56.000Z",
+      "description": "When I first started learning about conversational AI testing, one question kept bothering me: Where is the expected result? Coming from traditional software testing, I was used to a familiar pattern.",
+      "tags": [
+        "Software Testing",
+        "Artificial Intelligence",
+        "Quality Assurance",
+        "ai testing",
+        "QA engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "GAYATHRI BOLINENI"
     }
   ]
 }
