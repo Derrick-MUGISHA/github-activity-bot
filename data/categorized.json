@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 565,
       "user": "nateherkai"
     },
     {
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "mrhlaingbwardev"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "sam70361"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1754,
       "user": "wang2122"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "cclank"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 640,
       "user": "amirh00sain"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 373,
       "user": "amagine-ai"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 253,
       "user": "kgoedecke"
     },
     {
@@ -893,6 +893,20 @@
       "user": "serv-inc"
     },
     {
+      "title": "Does Python's linecache read the entire file into memory and is AI reliable",
+      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
+      "published_at": "2026-08-24T11:18:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "linecache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "F Cameron"
+    },
+    {
       "title": "Request failed in Django but succeeds when I run script standalone",
       "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
       "published_at": "2026-08-21T08:24:15.000Z",
@@ -906,21 +920,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ali.zabetpour"
-    },
-    {
-      "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
-      "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
-      "published_at": "2026-08-22T16:43:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pip",
-        "pytorch",
-        "linux-mint"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Leonardo Quadros"
     },
     {
       "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
@@ -1459,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1269,
       "user": "vvxw"
     },
     {
@@ -1474,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 813,
       "user": "MeteorNOX"
     },
     {
@@ -1489,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 565,
       "user": "nateherkai"
     },
     {
@@ -1504,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "mrhlaingbwardev"
     },
     {
@@ -1519,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "sam70361"
     },
     {
@@ -1549,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 717,
       "user": "b-nnett"
     },
     {
@@ -1579,7 +1578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 373,
       "user": "amagine-ai"
     },
     {
@@ -1594,7 +1593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 253,
       "user": "kgoedecke"
     },
     {
@@ -1643,6 +1642,21 @@
       "user": "furkankly"
     },
     {
+      "title": "XMLHttpRequest to php and fake parameters",
+      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
+      "published_at": "2026-08-24T07:16:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "php",
+        "security",
+        "xmlhttprequest"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Toniq"
+    },
+    {
       "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
       "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
       "published_at": "2026-08-24T09:22:26.000Z",
@@ -1666,21 +1680,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rohini Bhondekar"
-    },
-    {
-      "title": "XMLHttpRequest to php and fake parameters",
-      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
-      "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "php",
-        "security",
-        "xmlhttprequest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toniq"
     },
     {
       "title": "Wordpress site with owl banner jumps to top when scroll a little",
@@ -1975,7 +1974,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1754,
       "user": "wang2122"
     },
     {
@@ -1990,7 +1989,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "cclank"
     },
     {
@@ -2020,7 +2019,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 640,
       "user": "amirh00sain"
     },
     {
@@ -2037,6 +2036,20 @@
       "source": "GitHub",
       "stars": 527,
       "user": "lanicer"
+    },
+    {
+      "title": "Does Python's linecache read the entire file into memory and is AI reliable",
+      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
+      "published_at": "2026-08-24T11:18:06.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "linecache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "F Cameron"
     },
     {
       "title": "Class decorator with arguments using the @decorator syntax not working",
@@ -2094,7 +2107,7 @@
       "title": "Any recommendations for Pygame tutorials?",
       "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
       "published_at": "2026-08-23T21:09:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -2159,21 +2172,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "PyTorch installation fails with incomplete-download errors on Linux Mint",
-      "url": "https://stackoverflow.com/questions/79997364/pytorch-installation-fails-with-incomplete-download-errors-on-linux-mint",
-      "published_at": "2026-08-22T16:43:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "pip",
-        "pytorch",
-        "linux-mint"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Leonardo Quadros"
     },
     {
       "title": "Neural Networks Explained: What They Are and How to Build One in Python",
@@ -2847,7 +2845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "mrhlaingbwardev"
     },
     {
@@ -2906,7 +2904,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "mrhlaingbwardev"
     },
     {
@@ -3418,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1269,
       "user": "vvxw"
     },
     {
@@ -3433,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
       "source": "GitHub",
-      "stars": 808,
+      "stars": 813,
       "user": "MeteorNOX"
     },
     {
@@ -3448,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 565,
       "user": "nateherkai"
     },
     {
@@ -3463,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 345,
       "user": "mrhlaingbwardev"
     },
     {
@@ -3478,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131173262?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "sam70361"
     },
     {
@@ -3493,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
       "source": "GitHub",
-      "stars": 1744,
+      "stars": 1754,
       "user": "wang2122"
     },
     {
@@ -3508,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 775,
       "user": "cclank"
     },
     {
@@ -3538,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 640,
       "user": "amirh00sain"
     },
     {
@@ -3643,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 647,
+      "stars": 717,
       "user": "b-nnett"
     },
     {
@@ -3673,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 373,
       "user": "amagine-ai"
     },
     {
@@ -3688,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 248,
+      "stars": 253,
       "user": "kgoedecke"
     },
     {
@@ -3718,7 +3716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 675,
+      "stars": 702,
       "user": "tobi"
     },
     {
@@ -3748,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 319,
       "user": "furkankly"
     },
     {
@@ -3798,7 +3796,7 @@
       "title": "Any recommendations for Pygame tutorials?",
       "url": "https://stackoverflow.com/questions/79997617/any-recommendations-for-pygame-tutorials",
       "published_at": "2026-08-23T21:09:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "tooling-recommendation",
         "python",
