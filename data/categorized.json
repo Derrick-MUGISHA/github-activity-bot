@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 902,
       "user": "nateherkai"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "kunchenguid"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 911,
       "user": "cclank"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "ApodexAI"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "Zyrexnn"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 167,
       "user": "zhaoxuya520"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "mattn"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "kgoedecke"
     },
     {
@@ -1332,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 902,
       "user": "nateherkai"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "kunchenguid"
     },
     {
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "ApodexAI"
     },
     {
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2523,
+      "stars": 2531,
       "user": "b-nnett"
     },
     {
@@ -1482,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "kgoedecke"
     },
     {
@@ -1497,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "rome-os"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 911,
       "user": "cclank"
     },
     {
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "ApodexAI"
     },
     {
@@ -1884,7 +1884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "Zyrexnn"
     },
     {
@@ -1913,6 +1913,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rmpr"
+    },
+    {
+      "title": "How to merge specific rows in a pandas DataFrame?",
+      "url": "https://stackoverflow.com/questions/79998224/how-to-merge-specific-rows-in-a-pandas-dataframe",
+      "published_at": "2026-08-25T22:51:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "fazan"
     },
     {
       "title": "Can you tell me if this means anything? Doing an essay on the site Soul-net.co",
@@ -2040,21 +2054,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "cph_sto"
-    },
-    {
-      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
-      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
-      "published_at": "2026-08-24T14:32:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "aws-lambda",
-        "lambda",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAFAA LHAKKAOUI"
     },
     {
       "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
@@ -2265,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "ApodexAI"
     },
     {
@@ -2772,21 +2771,6 @@
       "user": "jsongmax"
     },
     {
-      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
-      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
-      "published_at": "2026-08-24T14:32:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "aws-lambda",
-        "lambda",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAFAA LHAKKAOUI"
-    },
-    {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
       "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
       "published_at": "2026-08-22T03:00:00.000Z",
@@ -3095,7 +3079,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "Zyrexnn"
     },
     {
@@ -3358,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 902,
       "user": "nateherkai"
     },
     {
@@ -3388,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 327,
+      "stars": 328,
       "user": "kunchenguid"
     },
     {
@@ -3433,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 911,
       "user": "cclank"
     },
     {
@@ -3463,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 553,
       "user": "ApodexAI"
     },
     {
@@ -3478,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 545,
+      "stars": 546,
       "user": "Zyrexnn"
     },
     {
@@ -3508,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 165,
+      "stars": 167,
       "user": "zhaoxuya520"
     },
     {
@@ -3538,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 59,
+      "stars": 60,
       "user": "mattn"
     },
     {
@@ -3568,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/61297439?v=4",
       "source": "GitHub",
-      "stars": 43,
+      "stars": 44,
       "user": "thomassolcia"
     },
     {
@@ -3583,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2523,
+      "stars": 2531,
       "user": "b-nnett"
     },
     {
@@ -3628,7 +3612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 362,
+      "stars": 363,
       "user": "kgoedecke"
     },
     {
@@ -3643,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 333,
       "user": "rome-os"
     },
     {
@@ -3658,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1525,
+      "stars": 1535,
       "user": "tobi"
     },
     {
