@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "nateherkai"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "kunchenguid"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 903,
       "user": "cclank"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "Zyrexnn"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "ApodexAI"
     },
     {
@@ -780,6 +780,21 @@
       "user": "zhaoxuya520"
     },
     {
+      "title": "mattn/tensai - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "url": "https://github.com/mattn/tensai",
+      "published_at": "2026-08-19T09:06:30Z",
+      "description": "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "mattn"
+    },
+    {
       "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
       "url": "https://github.com/mindsdb/setfree",
       "published_at": "2026-08-20T14:09:52Z",
@@ -793,21 +808,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "mindsdb"
-    },
-    {
-      "title": "mattn/tensai - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
-      "url": "https://github.com/mattn/tensai",
-      "published_at": "2026-08-19T09:06:30Z",
-      "description": "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "mattn"
     },
     {
       "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
@@ -946,9 +946,9 @@
       "tags": [
         "AI",
         "Accel",
-        "presentaiton",
+        "AI design tools",
         "Gamma",
-        "AI design tools"
+        "presentaiton"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1093,22 +1093,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
-      "url": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
-      "published_at": "2026-08-21T17:19:14.000Z",
-      "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
-      "tags": [
-        "software architecture",
-        "Artificial Intelligence",
-        "legacy code",
-        "refactoring",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
     }
   ],
   "JavaScript": [
@@ -1393,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "nateherkai"
     },
     {
@@ -1423,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "kunchenguid"
     },
     {
@@ -1453,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "thiagotigaz"
     },
     {
@@ -1468,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "ApodexAI"
     },
     {
@@ -1498,7 +1482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2439,
+      "stars": 2458,
       "user": "b-nnett"
     },
     {
@@ -1558,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "rome-os"
     },
     {
@@ -1576,7 +1560,7 @@
       "user": "Alberto Benedetto"
     },
     {
-      "title": "What's wrong with Js copying strings",
+      "title": "What's wrong with JS copying strings",
       "url": "https://stackoverflow.com/questions/79998126/whats-wrong-with-js-copying-strings",
       "published_at": "2026-08-25T14:19:27.000Z",
       "description": "Stack Overflow question · 0 answers · score -1",
@@ -1589,21 +1573,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tanaki"
-    },
-    {
-      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
-      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
-      "published_at": "2026-08-25T12:00:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "java",
-        "spring-boot",
-        "selenium-webdriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Leon"
     },
     {
       "title": "Cannot find native binding",
@@ -1633,6 +1602,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sahil Khurana"
+    },
+    {
+      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
+      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
+      "published_at": "2026-08-25T12:00:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "java",
+        "spring-boot",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Leon"
     },
     {
       "title": "Behavioral issues when subscribing to the same WICG Observable multiple times",
@@ -1899,7 +1883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 903,
       "user": "cclank"
     },
     {
@@ -1929,7 +1913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "Zyrexnn"
     },
     {
@@ -1959,7 +1943,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "ApodexAI"
     },
     {
@@ -2102,6 +2086,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jam One"
+    },
+    {
+      "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
+      "url": "https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/",
+      "published_at": "2026-08-25T15:50:26.000Z",
+      "description": "Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets",
+      "tags": [
+        "data management",
+        "Data Science",
+        "book",
+        "Databases",
+        "Python"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Daniel García Solla"
     },
     {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
@@ -2296,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "ApodexAI"
     },
     {
@@ -2894,20 +2894,6 @@
       "user": "giacomo_cavalieri"
     },
     {
-      "title": "Your executable is a SQLite database",
-      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "published_at": "2026-08-24T02:32:45.274-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "linux",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jummo"
-    },
-    {
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
       "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
       "published_at": "2026-08-25T16:28:43.000Z",
@@ -2922,20 +2908,20 @@
       "user": "Alberto Benedetto"
     },
     {
-      "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
-      "url": "https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/",
-      "published_at": "2026-08-21T17:19:14.000Z",
-      "description": "The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with",
+      "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
+      "url": "https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/",
+      "published_at": "2026-08-25T15:50:26.000Z",
+      "description": "Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets",
       "tags": [
-        "software architecture",
-        "Artificial Intelligence",
-        "legacy code",
-        "refactoring",
-        "Software Engineering"
+        "data management",
+        "Data Science",
+        "book",
+        "Databases",
+        "Python"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
-      "user": "Hugo Teijiz"
+      "user": "Daniel García Solla"
     }
   ],
   "Security": [
@@ -3127,7 +3113,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "Zyrexnn"
     },
     {
@@ -3390,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 828,
+      "stars": 834,
       "user": "nateherkai"
     },
     {
@@ -3420,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 306,
+      "stars": 307,
       "user": "kunchenguid"
     },
     {
@@ -3450,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 233,
+      "stars": 234,
       "user": "thiagotigaz"
     },
     {
@@ -3465,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 902,
+      "stars": 903,
       "user": "cclank"
     },
     {
@@ -3495,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 533,
       "user": "Zyrexnn"
     },
     {
@@ -3525,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 522,
       "user": "ApodexAI"
     },
     {
@@ -3559,6 +3545,21 @@
       "user": "jsongmax"
     },
     {
+      "title": "mattn/tensai - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "url": "https://github.com/mattn/tensai",
+      "published_at": "2026-08-19T09:06:30Z",
+      "description": "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
+      "source": "GitHub",
+      "stars": 58,
+      "user": "mattn"
+    },
+    {
       "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
       "url": "https://github.com/mindsdb/setfree",
       "published_at": "2026-08-20T14:09:52Z",
@@ -3572,21 +3573,6 @@
       "source": "GitHub",
       "stars": 57,
       "user": "mindsdb"
-    },
-    {
-      "title": "mattn/tensai - A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
-      "url": "https://github.com/mattn/tensai",
-      "published_at": "2026-08-19T09:06:30Z",
-      "description": "A tiny neural-network framework in pure Go with AVX2 SIMD kernels (GOEXPERIMENT=simd)",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
-      "source": "GitHub",
-      "stars": 57,
-      "user": "mattn"
     },
     {
       "title": "thomassolcia/DiscordGoLiveBypass - Abra seu Discord por um IP fora do Brasil, devolvendo o Go Live, a câmera e a transmissão de tela.",
@@ -3615,7 +3601,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2439,
+      "stars": 2458,
       "user": "b-nnett"
     },
     {
@@ -3675,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 323,
       "user": "rome-os"
     },
     {
@@ -3690,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1461,
+      "stars": 1463,
       "user": "tobi"
     },
     {
@@ -3735,7 +3721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 105,
       "user": "dragthelake"
     },
     {
@@ -3754,6 +3740,21 @@
       "user": "benja"
     },
     {
+      "title": "Waymo robotaxis are headed to Munich",
+      "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+      "published_at": "2026-08-25T17:32:03.000Z",
+      "description": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
+      "tags": [
+        "Transportation",
+        "robotaxis",
+        "Waymo",
+        "wayve"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "Gamma acquires Accel-backed design startup Lica",
       "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
       "published_at": "2026-08-25T15:00:00.000Z",
@@ -3761,29 +3762,13 @@
       "tags": [
         "AI",
         "Accel",
-        "presentaiton",
+        "AI design tools",
         "Gamma",
-        "AI design tools"
+        "presentaiton"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Andy Dunn&#8217;s startup Pie becomes less of an events app and more of a social network",
-      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
-      "published_at": "2026-08-25T13:00:00.000Z",
-      "description": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Startups",
-        "Andy Dunn",
-        "social network"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
