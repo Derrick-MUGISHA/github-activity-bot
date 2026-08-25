@@ -156730,3 +156730,1141 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-08-25 14:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (78 articles)
+
+#### 1. [The data is in: AI is how developers learn now](https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4)
+📅 Mon, 24 Aug 2026 16:41:56 GMT
+👤 By: Matthew Revell | 📌 Source: Dev.to
+
+![The data is in: AI is how developers learn now](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbsc65afzww03ohkvldr.png)
+
+AI is now the most common way that new developers learn.  We all knew AI was having an impact on...
+
+🏷️ Tags: `ai`, `career`, `learning`, `programming`
+
+---
+
+#### 2. [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4)
+📅 Mon, 17 Aug 2026 20:12:46 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![Coding agents got boring the moment we built a really good one.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png)
+
+MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...
+
+🏷️ Tags: `agents`, `ai`, `coding`, `opensource`
+
+---
+
+#### 3. [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
+📅 Sun, 23 Aug 2026 20:12:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: One Agent, Three Clouds, One Protocol](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png)
+
+The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.
+
+🏷️ Tags: `a2a`, `aiagents`, `aws`, `azure`
+
+---
+
+#### 4. [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+📅 Sun, 23 Aug 2026 20:09:04 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: Serving an ADK Agent to AWS and Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png)
+
+A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 5. [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367)
+📅 Sat, 22 Aug 2026 10:55:26 GMT
+👤 By: Alexandra | 📌 Source: Dev.to
+
+![HTML is getting cool again: Meet the Invoker Commands API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png)
+
+For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...
+
+🏷️ Tags: `webdev`, `a11y`
+
+---
+
+#### 6. [Greatness Is Forged by Limitation](https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20)
+📅 Wed, 19 Aug 2026 13:04:47 GMT
+👤 By: Adam - The Developer ✨ | 📌 Source: Dev.to
+
+![Greatness Is Forged by Limitation](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp)
+
+Can't believe I spent 2 weeks writing this.  Last week, I gave a talk at a Cursor community event...
+
+🏷️ Tags: `ai`, `programming`, `webdev`, `career`
+
+---
+
+#### 7. [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752)
+📅 Sat, 22 Aug 2026 20:29:26 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png)
+
+How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.
+
+🏷️ Tags: `dart`, `flutter`, `ai`, `programming`
+
+---
+
+#### 8. [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
+📅 Thu, 13 Aug 2026 06:43:24 GMT
+👤 By: Debashish Ghosal | 📌 Source: Dev.to
+
+![I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png)
+
+Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
+
+🏷️ Tags: `ai`, `agents`, `security`, `gatekeeper`
+
+---
+
+#### 9. [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
+📅 Wed, 19 Aug 2026 11:08:16 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![I Write Less Code Than I Used To. That May Be the Point.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png)
+
+Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `python`
+
+---
+
+#### 10. [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
+📅 Thu, 20 Aug 2026 13:37:59 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fjkuqd3p2lygi59hcuj.png)
+
+All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...
+
+🏷️ Tags: `a2a`, `aiagents`, `aws`, `azure`
+
+---
+
+### 🏷️ JavaScript (43 articles)
+
+#### 1. [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
+📅 Sun, 16 Aug 2026 13:31:22 GMT
+👤 By: Gamya  | 📌 Source: Dev.to
+
+![Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png)
+
+This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `webdev`, `javascript`
+
+---
+
+#### 2. [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+📅 Tue, 11 Aug 2026 14:40:56 GMT
+👤 By: Pooja Bhavani | 📌 Source: Dev.to
+
+![The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `react`, `devbugsmash`
+
+---
+
+#### 3. [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+📅 Wed, 19 Aug 2026 21:29:49 GMT
+👤 By: Abbey Perini | 📌 Source: Dev.to
+
+![State Management in Front-end Web Development: Mutators](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png)
+
+Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...
+
+🏷️ Tags: `webdev`, `react`, `vue`, `javascript`
+
+---
+
+#### 4. [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+📅 Mon, 17 Aug 2026 07:39:18 GMT
+👤 By: Mike Pearson | 📌 Source: Dev.to
+
+![Functional languages are heavily imperative.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcrcgtujuv9n9kd0hoj7b.png)
+
+Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.
+
+🏷️ Tags: `imperative`, `declarative`, `haskell`
+
+---
+
+#### 5. [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+📅 Wed, 29 Jul 2026 18:18:58 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png)
+
+We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `css`, `javascript`
+
+---
+
+#### 6. [Why Does Every AI Agent Still Look Like `while (true) { ... }`?](https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a)
+📅 Tue, 18 Aug 2026 16:08:34 GMT
+👤 By: tom | 📌 Source: Dev.to
+
+![Why Does Every AI Agent Still Look Like `while (true) { ... }`?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftomsun28%2Fpizza%2Fmain%2Fresources%2Fpizza-desktop-white.png)
+
+Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.
+
+🏷️ Tags: `ai`, `typescript`, `architecture`, `opensource`
+
+---
+
+#### 7. [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+📅 Thu, 30 Jul 2026 08:02:27 GMT
+👤 By: Sylwia Laskowska | 📌 Source: Dev.to
+
+![It Was Just a Patch Update. What Could Possibly Go Wrong?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `angular`, `javascript`
+
+---
+
+#### 8. [Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g)
+📅 Sun, 16 Aug 2026 18:12:39 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png)
+
+How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.
+
+🏷️ Tags: `flutter`, `dart`, `statemanagement`, `webdev`
+
+---
+
+#### 9. [I Built a ₹15 Landing Page About Mumbai's Soul Food](https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78)
+📅 Mon, 10 Aug 2026 14:50:38 GMT
+👤 By: Sarvar Nadaf | 📌 Source: Dev.to
+
+![I Built a ₹15 Landing Page About Mumbai's Soul Food](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg)
+
+A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `webdev`, `javascript`
+
+---
+
+#### 10. [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+📅 Tue, 28 Jul 2026 10:50:54 GMT
+👤 By: Shubhra Pokhariya | 📌 Source: Dev.to
+
+![React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png)
+
+Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...
+
+🏷️ Tags: `react`, `webdev`, `javascript`, `programming`
+
+---
+
+### 🏷️ Python (31 articles)
+
+#### 1. [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
+📅 Wed, 19 Aug 2026 11:08:16 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![I Write Less Code Than I Used To. That May Be the Point.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png)
+
+Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `python`
+
+---
+
+#### 2. [Why I Tell My AI Coding Agent: "Prefer Dart Over Python"](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
+📅 Thu, 20 Aug 2026 01:56:59 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Why I Tell My AI Coding Agent: "Prefer Dart Over Python"](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png)
+
+The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).
+
+🏷️ Tags: `dart`, `python`, `rust`, `ai`
+
+---
+
+#### 3. [Designing AI Evals: Clarity Now and Visualization Next](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
+📅 Tue, 18 Aug 2026 07:00:00 GMT
+👤 By: Katie McLaughlin | 📌 Source: Dev.to
+
+![Designing AI Evals: Clarity Now and Visualization Next](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp)
+
+AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
+#### 4. [[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft](https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6)
+📅 Fri, 14 Aug 2026 16:55:48 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png)
+
+Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...
+
+🏷️ Tags: `ai`, `gemini`, `python`
+
+---
+
+#### 5. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (14 articles)
+
+#### 1. [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+📅 Thu, 20 Aug 2026 18:13:27 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png)
+
+Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`
+
+---
+
+#### 2. [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)
+📅 Fri, 14 Aug 2026 16:36:10 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8wmw0i3d7nb5a68wkxw.png)
+
+How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity.
+
+🏷️ Tags: `opensource`, `devops`, `docker`, `ai`
+
+---
+
+#### 3. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 4. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 5. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (12 articles)
+
+#### 1. [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367)
+📅 Sat, 22 Aug 2026 10:55:26 GMT
+👤 By: Alexandra | 📌 Source: Dev.to
+
+![HTML is getting cool again: Meet the Invoker Commands API](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png)
+
+For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...
+
+🏷️ Tags: `webdev`, `a11y`
+
+---
+
+#### 2. [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
+📅 Sun, 16 Aug 2026 13:31:22 GMT
+👤 By: Gamya  | 📌 Source: Dev.to
+
+![Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png)
+
+This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing              What...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `webdev`, `javascript`
+
+---
+
+#### 3. [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd)
+📅 Sun, 09 Aug 2026 19:42:53 GMT
+👤 By: Giorgi Kobaidze | 📌 Source: Dev.to
+
+![Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...
+
+🏷️ Tags: `devchallenge`, `bugsmash`
+
+---
+
+#### 4. [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+📅 Wed, 19 Aug 2026 21:29:49 GMT
+👤 By: Abbey Perini | 📌 Source: Dev.to
+
+![State Management in Front-end Web Development: Mutators](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png)
+
+Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...
+
+🏷️ Tags: `webdev`, `react`, `vue`, `javascript`
+
+---
+
+#### 5. [Learn how to build a disclosure component using the native HTML details tag](https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j)
+📅 Mon, 17 Aug 2026 13:08:06 GMT
+👤 By: Mica | 📌 Source: Dev.to
+
+![Learn how to build a disclosure component using the native HTML details tag](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45l68i6gbmqi5b6h6bkv.png)
+
+Welcome to a new entry in my section dedicated to creating reusable and, above all, accessible...
+
+🏷️ Tags: `a11y`, `webdev`, `html`, `designsystem`
+
+---
+
+#### 6. [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+📅 Mon, 17 Aug 2026 07:39:18 GMT
+👤 By: Mike Pearson | 📌 Source: Dev.to
+
+![Functional languages are heavily imperative.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcrcgtujuv9n9kd0hoj7b.png)
+
+Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.
+
+🏷️ Tags: `imperative`, `declarative`, `haskell`
+
+---
+
+#### 7. [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+📅 Wed, 29 Jul 2026 18:18:58 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png)
+
+We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `css`, `javascript`
+
+---
+
+#### 8. [I Built a ₹15 Landing Page About Mumbai's Soul Food](https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78)
+📅 Mon, 10 Aug 2026 14:50:38 GMT
+👤 By: Sarvar Nadaf | 📌 Source: Dev.to
+
+![I Built a ₹15 Landing Page About Mumbai's Soul Food](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg)
+
+A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `webdev`, `javascript`
+
+---
+
+#### 9. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.](https://github.com/ShadowAqueduct/watermark-remover)
+📅 Sun, 23 Aug 2026 21:14:28 GMT
+👤 By: ShadowAqueduct | 📌 Source: GitHub
+
+![ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.](https://avatars.githubusercontent.com/u/311792326?v=4)
+
+Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 787
+
+---
+
+### 🏷️ Mobile (12 articles)
+
+#### 1. [What I Get to Forget About Riverpod Now That I Have BlocSignal](https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5)
+📅 Fri, 21 Aug 2026 01:00:50 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![What I Get to Forget About Riverpod Now That I Have BlocSignal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png)
+
+The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back to Flutter architecture.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `statemanagement`
+
+---
+
+#### 2. [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752)
+📅 Sat, 22 Aug 2026 20:29:26 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png)
+
+How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.
+
+🏷️ Tags: `dart`, `flutter`, `ai`, `programming`
+
+---
+
+#### 3. [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911)
+📅 Sat, 22 Aug 2026 02:59:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8k6g7hk6o9p26vjedyz.png)
+
+Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `webdev`
+
+---
+
+#### 4. [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+📅 Thu, 20 Aug 2026 18:13:27 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png)
+
+Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`
+
+---
+
+#### 5. [I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp)
+📅 Tue, 18 Aug 2026 20:50:05 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2h0i1334b6rh3lql2wp.jpg)
+
+The insider story on Google's commitment to Flutter, the enterprise hiring paradox, and why Flutter is kicking tail on every measurable scale.
+
+🏷️ Tags: `flutter`, `dart`, `programming`, `mobile`
+
+---
+
+#### 6. [One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4)
+📅 Sat, 15 Aug 2026 18:45:56 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Figx05ehyvhvkybiw6wrz.png)
+
+Why persistent domain state is the wrong place for transient dialogs and snackbars, how classic BLoC solved it with bloc_presentation, and how to handle one-shot side effects in BlocSignal with zero dependencies.
+
+🏷️ Tags: `flutter`, `dart`, `statemanagement`, `webdev`
+
+---
+
+#### 7. [Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g)
+📅 Sun, 16 Aug 2026 18:12:39 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png)
+
+How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.
+
+🏷️ Tags: `flutter`, `dart`, `statemanagement`, `webdev`
+
+---
+
+#### 8. [Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll)
+📅 Fri, 14 Aug 2026 02:57:56 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png)
+
+Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.
+
+🏷️ Tags: `flutter`, `dart`, `statemanagement`, `programming`
+
+---
+
+#### 9. [xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.](https://github.com/xdreizein666/getcontact-cli)
+📅 Thu, 20 Aug 2026 03:45:11 GMT
+👤 By: xdreizein666 | 📌 Source: GitHub
+
+![xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.](https://avatars.githubusercontent.com/u/74557195?v=4)
+
+GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 485
+
+---
+
+#### 10. [Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.](https://github.com/Forsy-AI/biosecurity-agent)
+📅 Sat, 22 Aug 2026 23:06:26 GMT
+👤 By: Forsy-AI | 📌 Source: GitHub
+
+![Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.](https://avatars.githubusercontent.com/u/273874842?v=4)
+
+AI agent that builds a live biosecurity world around any target.
+
+🏷️ Tags: `typescript`, `github`, `open-source`
+
+⭐ Stars: 513
+
+---
+
+### 🏷️ Cloud (12 articles)
+
+#### 1. [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b)
+📅 Mon, 24 Aug 2026 17:33:07 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png)
+
+If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...
+
+---
+
+#### 2. [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
+📅 Sun, 23 Aug 2026 20:12:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: One Agent, Three Clouds, One Protocol](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png)
+
+The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.
+
+🏷️ Tags: `a2a`, `aiagents`, `aws`, `azure`
+
+---
+
+#### 3. [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+📅 Sun, 23 Aug 2026 20:09:04 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: Serving an ADK Agent to AWS and Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png)
+
+A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 4. [Building a viral Imax ticketing app that never crashes](https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58)
+📅 Thu, 20 Aug 2026 21:29:37 GMT
+👤 By: Tilde A. Thurium | 📌 Source: Dev.to
+
+![Building a viral Imax ticketing app that never crashes](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb4i5x64vwb0pto5vob9j.png)
+
+When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...
+
+🏷️ Tags: `googlecloud`, `temporal`, `serverless`
+
+---
+
+#### 5. [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
+📅 Thu, 20 Aug 2026 13:37:59 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fjkuqd3p2lygi59hcuj.png)
+
+All three hyperscalers now ship an agent framework, and all three speak A2A. The protocol page will...
+
+🏷️ Tags: `a2a`, `aiagents`, `aws`, `azure`
+
+---
+
+#### 6. [ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9)
+📅 Thu, 20 Aug 2026 13:25:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png)
+
+One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 7. [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci)
+📅 Thu, 13 Aug 2026 18:42:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png)
+
+A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.
+
+🏷️ Tags: `aws`, `vllm`, `cuda`, `machinelearning`
+
+---
+
+#### 8. [mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.](https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot)
+📅 Wed, 19 Aug 2026 16:25:27 GMT
+👤 By: mrhlaingbwardev | 📌 Source: GitHub
+
+![mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.](https://avatars.githubusercontent.com/u/306161257?v=4)
+
+A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 345
+
+---
+
+#### 9. [jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud](https://github.com/jsongmax/oci-core)
+📅 Thu, 20 Aug 2026 02:03:30 GMT
+👤 By: jsongmax | 📌 Source: GitHub
+
+![jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud](https://avatars.githubusercontent.com/u/54309806?v=4)
+
+自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud
+
+🏷️ Tags: `go`, `github`, `open-source`
+
+⭐ Stars: 104
+
+---
+
+#### 10. [beescuit/chatflare - Chat with your friends via Cloudflare cache hits](https://github.com/beescuit/chatflare)
+📅 Fri, 21 Aug 2026 20:24:35 GMT
+👤 By: beescuit | 📌 Source: GitHub
+
+![beescuit/chatflare - Chat with your friends via Cloudflare cache hits](https://avatars.githubusercontent.com/u/16190825?v=4)
+
+Chat with your friends via Cloudflare cache hits
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 88
+
+---
+
+### 🏷️ Database (6 articles)
+
+#### 1. [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+📅 Tue, 11 Aug 2026 14:40:56 GMT
+👤 By: Pooja Bhavani | 📌 Source: Dev.to
+
+![The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `react`, `devbugsmash`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.](https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot)
+📅 Wed, 19 Aug 2026 16:25:27 GMT
+👤 By: mrhlaingbwardev | 📌 Source: GitHub
+
+![mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.](https://avatars.githubusercontent.com/u/306161257?v=4)
+
+A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.
+
+🏷️ Tags: `javascript`, `github`, `open-source`
+
+⭐ Stars: 345
+
+---
+
+#### 4. [Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
+📅 Mon, 24 Aug 2026 07:32:45 GMT
+👤 By: jummo | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `databases`, `linux`, `vibecoding`
+
+---
+
+#### 5. [Solving the 1+N query problem](https://acadia.engineering/blog/solving-the-1-plus-N-query-problem)
+📅 Tue, 25 Aug 2026 08:25:23 GMT
+👤 By: giacomo_cavalieri | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `databases`
+
+---
+
+#### 6. [How to Understand a Legacy Codebase Using AI Before Changing it](https://www.freecodecamp.org/news/understand-a-legacy-codebase-with-ai/)
+📅 Fri, 21 Aug 2026 17:19:14 GMT
+👤 By: Hugo Teijiz | 📌 Source: freeCodeCamp
+
+The first thing many engineers want to do when they inherit a legacy codebase is change it. And I understand the impulse. You open a class that's 1,500 lines long. There are database calls mixed with
+
+🏷️ Tags: `software architecture`, `Artificial Intelligence`, `legacy code`, `refactoring`, `Software Engineering`
+
+---
+
+### 🏷️ Security (19 articles)
+
+#### 1. [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
+📅 Thu, 13 Aug 2026 06:43:24 GMT
+👤 By: Debashish Ghosal | 📌 Source: Dev.to
+
+![I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png)
+
+Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
+
+🏷️ Tags: `ai`, `agents`, `security`, `gatekeeper`
+
+---
+
+#### 2. [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+📅 Thu, 20 Aug 2026 18:13:27 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png)
+
+Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`
+
+---
+
+#### 3. [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+📅 Mon, 27 Jul 2026 21:09:04 GMT
+👤 By: Thomas Bonnet | 📌 Source: Dev.to
+
+![Passkeys Explained Simply](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp)
+
+You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+
+🏷️ Tags: `security`, `api`, `webdev`, `discuss`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Ask HN: Gmail account security](https://news.ycombinator.com/item?id=30051054)
+📅 Sun, 23 Jan 2022 22:15:25 GMT
+👤 By: caseyf7 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (39 articles)
+
+#### 1. [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+📅 Sun, 23 Aug 2026 20:09:04 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: Serving an ADK Agent to AWS and Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png)
+
+A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 2. [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g)
+📅 Mon, 17 Aug 2026 14:40:58 GMT
+👤 By: FrancisTRᴅᴇᴠ (っ◔◡◔)っ | 📌 Source: Dev.to
+
+![Git Gud!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif)
+
+You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...
+
+🏷️ Tags: `discuss`, `community`, `git`, `productivity`
+
+---
+
+#### 3. [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
+📅 Thu, 13 Aug 2026 06:43:24 GMT
+👤 By: Debashish Ghosal | 📌 Source: Dev.to
+
+![I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png)
+
+Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
+
+🏷️ Tags: `ai`, `agents`, `security`, `gatekeeper`
+
+---
+
+#### 4. [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
+📅 Wed, 19 Aug 2026 11:08:16 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![I Write Less Code Than I Used To. That May Be the Point.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png)
+
+Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `python`
+
+---
+
+#### 5. [ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9)
+📅 Thu, 20 Aug 2026 13:25:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png)
+
+One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 6. [My AI Content Journey](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p)
+📅 Wed, 19 Aug 2026 16:47:10 GMT
+👤 By: Ryan Carniato | 📌 Source: Dev.to
+
+![My AI Content Journey](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7fgab29vtqhencvqukv.png)
+
+I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...
+
+🏷️ Tags: `ai`, `webdev`, `devjournal`
+
+---
+
+#### 7. [My (not so pretty) journey in tech](https://dev.to/ishacodes/why-i-joined-devto--5c63)
+📅 Thu, 13 Aug 2026 13:10:09 GMT
+👤 By: isha singh | 📌 Source: Dev.to
+
+![My (not so pretty) journey in tech](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frggwt4sjrqxz7hb44jo7.jpg)
+
+Ever since I joined the platform, I wanted to post about a topic I was really passionate about....
+
+🏷️ Tags: `discuss`, `programming`, `productivity`, `opensource`
+
+---
+
+#### 8. [So, I Vibe Coded A Way Out, Again.](https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb)
+📅 Sun, 16 Aug 2026 22:18:46 GMT
+👤 By: Viorel PETCU | 📌 Source: Dev.to
+
+![So, I Vibe Coded A Way Out, Again.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdkdf670y1x8c4wmfprc3.png)
+
+A while ago I wrote an article asking When Is 100% Vibe Coding OK?.  My conclusion was that it works...
+
+🏷️ Tags: `ai`, `productivity`, `vibecoding`, `cschallenge`
+
+---
+
+#### 9. [Designing AI Evals: Clarity Now and Visualization Next](https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii)
+📅 Tue, 18 Aug 2026 07:00:00 GMT
+👤 By: Katie McLaughlin | 📌 Source: Dev.to
+
+![Designing AI Evals: Clarity Now and Visualization Next](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp)
+
+AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...
+
+🏷️ Tags: `ai`, `llm`, `python`, `testing`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
