@@ -21,21 +21,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-25 14:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-25 15:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png" width="200" alt="Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT." />
-      <br/>
-      <b>Tech webinar: How to control costs & measure ROI f...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/ben/meme-monday-385f">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffixj24nvnu3a8npxc2kn.webp" width="200" alt="Meme Monday" />
@@ -50,6 +41,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbsc65afzww03ohkvldr.png" width="200" alt="The data is in: AI is how developers learn now" />
       <br/>
       <b>The data is in: AI is how developers learn now</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png" width="200" alt="Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT." />
+      <br/>
+      <b>Tech webinar: How to control costs & measure ROI f...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png" width="200" alt="Mix and Match: Serving an ADK Agent to AWS and Azure" />
+    <a href="https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png" width="200" alt="HTML is getting cool again: Meet the Invoker Commands API" />
       <br/>
-      <b>Mix and Match: Serving an ADK Agent to AWS and Azu...</b>
+      <b>HTML is getting cool again: Meet the Invoker Comma...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b) | Dev.to |
-| 2 | [Meme Monday](https://dev.to/ben/meme-monday-385f) | Dev.to |
-| 3 | [The data is in: AI is how developers learn now](https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4) | Dev.to |
+| 1 | [Meme Monday](https://dev.to/ben/meme-monday-385f) | Dev.to |
+| 2 | [The data is in: AI is how developers learn now](https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4) | Dev.to |
+| 3 | [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b) | Dev.to |
 | 4 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
 | 5 | [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) | Dev.to |
-| 6 | [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f) | Dev.to |
-| 7 | [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367) | Dev.to |
+| 6 | [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367) | Dev.to |
+| 7 | [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f) | Dev.to |
 | 8 | [Greatness Is Forged by Limitation](https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20) | Dev.to |
 | 9 | [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g) | Dev.to |
 | 10 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
 | 11 | [My First Engineering Job Is Teaching Me Something I Didn't Expect](https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96) | Dev.to |
 | 12 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
 | 13 | [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8) | Dev.to |
-| 14 | [What I Get to Forget About Riverpod Now That I Have BlocSignal](https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5) | Dev.to |
-| 15 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
-| 16 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
-| 17 | [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752) | Dev.to |
-| 18 | [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911) | Dev.to |
-| 19 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
-| 20 | [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk) | Dev.to |
+| 14 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
+| 15 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
+| 16 | [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752) | Dev.to |
+| 17 | [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911) | Dev.to |
+| 18 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
+| 19 | [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk) | Dev.to |
+| 20 | [Building a viral Imax ticketing app that never crashes](https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58) | Dev.to |
 
-<sub>Last fetched: Tue, 25 Aug 2026 14:02:11 CAT</sub>
+<sub>Last fetched: Tue, 25 Aug 2026 15:07:50 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design Twitter's timeline feature**
+**1. `JavaScript` — What is the event loop and how does it work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Call stack, callback queue, microtask queue
 
 </details>
 
-**2. `Python` — Implement a context manager using __enter__ and __exit__**
+**2. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**3. `SystemDesign` — Design a distributed cache system**
+**3. `Java` — What is the difference between abstract class and interface?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Consistency, partitioning, replication, eviction policies
+> Multiple inheritance, method implementation, use cases
 
 </details>
 
@@ -166,13 +166,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |----------|---------:|------:|---|
 | **AI** | 78 | 42.4% | `████████████████████` |
 | **JavaScript** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
+| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
 | **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
 | **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.1%
-Go              ███████████████████████ 21.6%
-Java            ██████████████████████ 20.9%
-Python          ██████████████████████ 20.3%
-Rust            ██████ 5.9%
+JavaScript      ██████████████████████████████ 28.5%
+Go              ██████████████████████ 21.2%
+Java            ██████████████████████ 21.2%
+Python          ██████████████████████ 20.5%
+Rust            ██████ 5.3%
 Kotlin          █ 1.3%
 Swift           █ 1.3%
 PHP             █ 0.7%
@@ -208,10 +208,10 @@ PHP             █ 0.7%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 43
-    "Go" : 33
+    "Go" : 32
     "Java" : 32
     "Python" : 31
-    "Rust" : 9
+    "Rust" : 8
     "Kotlin" : 2
     "Swift" : 2
     "PHP" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-14-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-8-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-14-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-12-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-8-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 12:02:11 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 13:07:50 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
