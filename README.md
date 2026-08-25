@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-25 18:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-25 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
 | 20 | [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752) | Dev.to |
 
-<sub>Last fetched: Tue, 25 Aug 2026 18:36:07 CAT</sub>
+<sub>Last fetched: Tue, 25 Aug 2026 19:12:04 CAT</sub>
 
 
 ---
@@ -122,25 +122,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — Implement rate limiting for an API**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 security, middleware
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Token bucket, sliding window, Redis
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `Java` — Explain the Java memory model**
+**2. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Heap, stack, garbage collection
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
+| **AI** | 77 | 41.8% | `████████████████████` |
 | **JavaScript** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 16:36:07 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 17:12:04 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

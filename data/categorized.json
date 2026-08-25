@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "mrhlaingbwardev"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "kunchenguid"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 902,
       "user": "cclank"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 532,
       "user": "Zyrexnn"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 508,
       "user": "ApodexAI"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "mattn"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "kgoedecke"
     },
     {
@@ -895,6 +895,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "delirehberi"
+    },
+    {
+      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
+      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
+      "published_at": "2026-08-25T16:28:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "mysql",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "Why are there 'dot' in front of 'dsets' and 'model', but using 'util' in front of 'util' in training.py?",
@@ -1379,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "nateherkai"
     },
     {
@@ -1394,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "mrhlaingbwardev"
     },
     {
@@ -1409,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "kunchenguid"
     },
     {
@@ -1439,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "thiagotigaz"
     },
     {
@@ -1454,7 +1468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 508,
       "user": "ApodexAI"
     },
     {
@@ -1484,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2420,
+      "stars": 2439,
       "user": "b-nnett"
     },
     {
@@ -1529,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "kgoedecke"
     },
     {
@@ -1544,8 +1558,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "rome-os"
+    },
+    {
+      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
+      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
+      "published_at": "2026-08-25T16:28:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "mysql",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "What's wrong with Js copying strings",
@@ -1563,21 +1591,6 @@
       "user": "Tanaki"
     },
     {
-      "title": "Cannot find native binding",
-      "url": "https://stackoverflow.com/questions/79998109/cannot-find-native-binding",
-      "published_at": "2026-08-25T13:20:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "electron",
-        "desktop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ayoub nfinif"
-    },
-    {
       "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
       "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
       "published_at": "2026-08-25T12:00:33.000Z",
@@ -1593,14 +1606,29 @@
       "user": "Leon"
     },
     {
+      "title": "Cannot find native binding",
+      "url": "https://stackoverflow.com/questions/79998109/cannot-find-native-binding",
+      "published_at": "2026-08-25T13:20:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "electron",
+        "desktop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ayoub nfinif"
+    },
+    {
       "title": "Why does React re-render a component when its props haven't changed?",
       "url": "https://stackoverflow.com/questions/79998009/why-does-react-re-render-a-component-when-its-props-havent-changed",
       "published_at": "2026-08-25T08:31:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
-        "react-hooks"
+        "react-memo"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1675,22 +1703,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toniq"
-    },
-    {
-      "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
-      "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
-      "published_at": "2026-08-23T15:00:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "performance",
-        "bitwise-operators",
-        "v8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28224355"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1887,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 902,
       "user": "cclank"
     },
     {
@@ -1917,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 532,
       "user": "Zyrexnn"
     },
     {
@@ -1947,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 508,
       "user": "ApodexAI"
     },
     {
@@ -1982,7 +1994,7 @@
       "title": "Ring coupler issue in Python",
       "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
       "published_at": "2026-08-25T12:06:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "dictionary"
@@ -2035,19 +2047,6 @@
       "user": "SAFAA LHAKKAOUI"
     },
     {
-      "title": "How to type annotate a heterogeneous collection of objects within a type bound",
-      "url": "https://stackoverflow.com/questions/79997923/how-to-type-annotate-a-heterogeneous-collection-of-objects-within-a-type-bound",
-      "published_at": "2026-08-24T23:21:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DanielSank"
-    },
-    {
       "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
       "published_at": "2026-08-24T11:18:06.000Z",
@@ -2060,6 +2059,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
+    },
+    {
+      "title": "How to type annotate a heterogeneous collection of objects within a type bound",
+      "url": "https://stackoverflow.com/questions/79997923/how-to-type-annotate-a-heterogeneous-collection-of-objects-within-a-type-bound",
+      "published_at": "2026-08-24T23:21:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DanielSank"
     },
     {
       "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
@@ -2284,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 508,
       "user": "ApodexAI"
     },
     {
@@ -2760,7 +2772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "mrhlaingbwardev"
     },
     {
@@ -2866,7 +2878,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "mrhlaingbwardev"
     },
     {
@@ -2894,6 +2906,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jummo"
+    },
+    {
+      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
+      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
+      "published_at": "2026-08-25T16:28:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "mysql",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
@@ -3101,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 532,
       "user": "Zyrexnn"
     },
     {
@@ -3364,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 824,
+      "stars": 828,
       "user": "nateherkai"
     },
     {
@@ -3379,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/306161257?v=4",
       "source": "GitHub",
-      "stars": 345,
+      "stars": 346,
       "user": "mrhlaingbwardev"
     },
     {
@@ -3394,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 306,
       "user": "kunchenguid"
     },
     {
@@ -3424,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 233,
       "user": "thiagotigaz"
     },
     {
@@ -3439,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 900,
+      "stars": 902,
       "user": "cclank"
     },
     {
@@ -3469,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 532,
       "user": "Zyrexnn"
     },
     {
@@ -3499,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 508,
       "user": "ApodexAI"
     },
     {
@@ -3559,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 56,
+      "stars": 57,
       "user": "mattn"
     },
     {
@@ -3589,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2420,
+      "stars": 2439,
       "user": "b-nnett"
     },
     {
@@ -3634,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 355,
       "user": "kgoedecke"
     },
     {
@@ -3649,7 +3675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 321,
       "user": "rome-os"
     },
     {
@@ -3664,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1457,
+      "stars": 1461,
       "user": "tobi"
     },
     {
@@ -3709,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "dragthelake"
     },
     {
