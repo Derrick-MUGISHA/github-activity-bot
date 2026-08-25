@@ -46,6 +46,19 @@
       "user": "xbill"
     },
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
       "published_at": "2026-08-23T20:09:04Z",
@@ -59,19 +72,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
     },
     {
       "title": "Greatness Is Forged by Limitation",
@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 774,
       "user": "nateherkai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 275,
       "user": "kunchenguid"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 892,
       "user": "cclank"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "Zyrexnn"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 510,
       "user": "amagine-ai"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "kgoedecke"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "truespar"
     },
     {
@@ -921,6 +921,49 @@
       "user": "F Cameron"
     },
     {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "published_at": "2026-08-25T13:00:00.000Z",
+      "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "Yandex",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "Uber launches live video streaming for teen accounts",
+      "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
+      "published_at": "2026-08-25T13:00:00.000Z",
+      "description": "Uber said no one will be able to access the video once the ride ends",
+      "tags": [
+        "Transportation",
+        "Apps",
+        "Uber",
+        "Teens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+      "published_at": "2026-08-25T12:37:37.000Z",
+      "description": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+      "tags": [
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
       "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
       "published_at": "2026-08-25T12:00:00.000Z",
@@ -957,54 +1000,6 @@
       "tags": [
         "AI",
         "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "published_at": "2026-08-24T21:24:17.000Z",
-      "description": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "tags": [
-        "AI",
-        "Space",
-        "Elon Musk",
-        "SpaceX",
-        "Donald Trump"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face",
-      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "published_at": "2026-08-24T19:58:17.000Z",
-      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
-      "tags": [
-        "Security",
-        "Alabama",
-        "cybersecurity",
-        "hacking",
-        "Hugging Face"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "published_at": "2026-08-24T19:54:50.000Z",
-      "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
-      "tags": [
-        "Hardware",
-        "AI",
-        "Amazon",
-        "echo",
-        "Fire TV"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1418,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 774,
       "user": "nateherkai"
     },
     {
@@ -1448,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 275,
       "user": "kunchenguid"
     },
     {
@@ -1478,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "thiagotigaz"
     },
     {
@@ -1508,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2314,
+      "stars": 2335,
       "user": "b-nnett"
     },
     {
@@ -1538,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 510,
       "user": "amagine-ai"
     },
     {
@@ -1553,7 +1548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "kgoedecke"
     },
     {
@@ -1570,6 +1565,21 @@
       "source": "GitHub",
       "stars": 305,
       "user": "rome-os"
+    },
+    {
+      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
+      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
+      "published_at": "2026-08-25T12:00:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "java",
+        "spring-boot",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Leon"
     },
     {
       "title": "Why does React re-render a component when its props haven't changed?",
@@ -1614,19 +1624,6 @@
       "user": "abd klaib"
     },
     {
-      "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
-      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
-      "published_at": "2026-08-24T20:46:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "google-chrome-extension"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Samuel Bond"
-    },
-    {
       "title": "How to make unique RGB color generator with incremental R, G, and B",
       "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
       "published_at": "2026-08-24T19:13:39.000Z",
@@ -1639,6 +1636,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
+    },
+    {
+      "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
+      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
+      "published_at": "2026-08-24T20:46:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Samuel Bond"
     },
     {
       "title": "XMLHttpRequest to php and fake parameters",
@@ -1659,7 +1669,7 @@
       "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
       "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
       "published_at": "2026-08-23T15:00:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "node.js",
@@ -1697,19 +1707,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "P196hql"
-    },
-    {
-      "title": "How to handle Talend JXLS templates in Apache Hop?",
-      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
-      "published_at": "2026-08-24T09:09:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rohini Bhondekar"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1920,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 892,
       "user": "cclank"
     },
     {
@@ -1965,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "Zyrexnn"
     },
     {
@@ -1984,13 +1981,39 @@
       "user": "xdreizein666"
     },
     {
+      "title": "django.db.utils.NotSupportedError: MariaDB 10.11 or later is required (found 10.6.22)",
+      "url": "https://stackoverflow.com/questions/79998083/django-db-utils-notsupportederror-mariadb-10-11-or-later-is-required-found-10",
+      "published_at": "2026-08-25T12:21:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "django",
+        "mariadb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pierre"
+    },
+    {
+      "title": "Ring coupler issue in Python",
+      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
+      "published_at": "2026-08-25T12:06:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HAdes"
+    },
+    {
       "title": "Access difference for HTTP request",
       "url": "https://stackoverflow.com/questions/79998004/access-difference-for-http-request",
       "published_at": "2026-08-25T08:03:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
-        "swagger",
         "httprequest",
         "codebeamer"
       ],
@@ -2002,7 +2025,7 @@
       "title": "How to type annotate a heterogeneous collection of objects within a type bound",
       "url": "https://stackoverflow.com/questions/79997923/how-to-type-annotate-a-heterogeneous-collection-of-objects-within-a-type-bound",
       "published_at": "2026-08-24T23:21:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "best-practices",
         "python"
@@ -2098,34 +2121,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "F Cameron"
-    },
-    {
-      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
-      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
-      "published_at": "2026-08-24T14:32:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "aws-lambda",
-        "lambda",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAFAA LHAKKAOUI"
-    },
-    {
-      "title": "Class decorator with arguments using the @decorator syntax not working",
-      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
-      "published_at": "2026-08-24T07:19:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wolfrevo"
     },
     {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
@@ -2517,21 +2512,6 @@
   ],
   "Mobile": [
     {
-      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
-      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
-      "published_at": "2026-08-21T01:00:50Z",
-      "description": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back to Flutter architecture.",
-      "tags": [
-        "flutter",
-        "dart",
-        "riverpod",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
       "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
       "published_at": "2026-08-22T20:29:26Z",
@@ -2574,6 +2554,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
+      "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
+      "published_at": "2026-08-21T01:00:50Z",
+      "description": "The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back to Flutter architecture.",
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
@@ -2827,36 +2822,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "jsongmax"
-    },
-    {
-      "title": "beescuit/chatflare - Chat with your friends via Cloudflare cache hits",
-      "url": "https://github.com/beescuit/chatflare",
-      "published_at": "2026-08-21T20:24:35Z",
-      "description": "Chat with your friends via Cloudflare cache hits",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "beescuit"
-    },
-    {
-      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
-      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
-      "published_at": "2026-08-24T14:32:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "aws-lambda",
-        "lambda",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAFAA LHAKKAOUI"
     },
     {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
@@ -3165,7 +3130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "Zyrexnn"
     },
     {
@@ -3199,20 +3164,18 @@
       "user": "Toniq"
     },
     {
-      "title": "Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face",
-      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "published_at": "2026-08-24T19:58:17.000Z",
-      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+      "title": "WhatsApp tightens account security with stronger two-step verification and more",
+      "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+      "published_at": "2026-08-25T13:00:00.000Z",
+      "description": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
       "tags": [
+        "Apps",
         "Security",
-        "Alabama",
-        "cybersecurity",
-        "hacking",
-        "Hugging Face"
+        "WhatsApp"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lorenzo Franceschi-Bicchierai"
+      "user": "Aisha Malik"
     }
   ],
   "Tools": [
@@ -3398,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 774,
       "user": "nateherkai"
     },
     {
@@ -3428,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 275,
       "user": "kunchenguid"
     },
     {
@@ -3458,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "thiagotigaz"
     },
     {
@@ -3473,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 892,
       "user": "cclank"
     },
     {
@@ -3518,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "Zyrexnn"
     },
     {
@@ -3623,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2314,
+      "stars": 2335,
       "user": "b-nnett"
     },
     {
@@ -3653,7 +3616,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 510,
       "user": "amagine-ai"
     },
     {
@@ -3668,7 +3631,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 343,
       "user": "kgoedecke"
     },
     {
@@ -3698,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1341,
+      "stars": 1381,
       "user": "tobi"
     },
     {
@@ -3713,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 191,
       "user": "truespar"
     },
     {
@@ -3732,6 +3695,21 @@
       "user": "josiah-nelson"
     },
     {
+      "title": "dragthelake/ambient-context - A menu bar app that keeps a written record of what you worked on.",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "published_at": "2026-08-25T00:33:03Z",
+      "description": "A menu bar app that keeps a written record of what you worked on.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
+      "source": "GitHub",
+      "stars": 93,
+      "user": "dragthelake"
+    },
+    {
       "title": "benja/ask - Ask, then do. Follow up when you need to.",
       "url": "https://github.com/benja/ask",
       "published_at": "2026-08-22T20:14:12Z",
@@ -3747,32 +3725,34 @@
       "user": "benja"
     },
     {
-      "title": "beescuit/chatflare - Chat with your friends via Cloudflare cache hits",
-      "url": "https://github.com/beescuit/chatflare",
-      "published_at": "2026-08-21T20:24:35Z",
-      "description": "Chat with your friends via Cloudflare cache hits",
+      "title": "Andy Dunn&#8217;s startup Pie becomes less of an events app and more of a social network",
+      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+      "published_at": "2026-08-25T13:00:00.000Z",
+      "description": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
-      "source": "GitHub",
-      "stars": 88,
-      "user": "beescuit"
-    },
-    {
-      "title": "How to handle Talend JXLS templates in Apache Hop?",
-      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
-      "published_at": "2026-08-24T09:09:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
+        "Startups",
+        "Apps",
+        "Social",
+        "social network",
+        "Andy Dunn"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rohini Bhondekar"
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "WhatsApp tightens account security with stronger two-step verification and more",
+      "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+      "published_at": "2026-08-25T13:00:00.000Z",
+      "description": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
+      "tags": [
+        "Apps",
+        "Security",
+        "WhatsApp"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
