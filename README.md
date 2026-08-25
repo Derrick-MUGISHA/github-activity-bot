@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-25 9:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-25 10:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -37,19 +37,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/ben/meme-monday-385f">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffixj24nvnu3a8npxc2kn.webp" width="200" alt="Meme Monday" />
+    <a href="https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png" width="200" alt="Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT." />
       <br/>
-      <b>Meme Monday</b>
+      <b>Tech webinar: How to control costs & measure ROI f...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png" width="200" alt="Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT." />
+    <a href="https://dev.to/ben/meme-monday-385f">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffixj24nvnu3a8npxc2kn.webp" width="200" alt="Meme Monday" />
       <br/>
-      <b>Tech webinar: How to control costs & measure ROI f...</b>
+      <b>Meme Monday</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -93,8 +93,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | # | Headline | Source |
 |---|----------|--------|
 | 1 | [The data is in: AI is how developers learn now](https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4) | Dev.to |
-| 2 | [Meme Monday](https://dev.to/ben/meme-monday-385f) | Dev.to |
-| 3 | [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b) | Dev.to |
+| 2 | [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b) | Dev.to |
+| 3 | [Meme Monday](https://dev.to/ben/meme-monday-385f) | Dev.to |
 | 4 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
 | 5 | [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) | Dev.to |
 | 6 | [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb) | Dev.to |
 | 20 | [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk) | Dev.to |
 
-<sub>Last fetched: Tue, 25 Aug 2026 09:25:42 CAT</sub>
+<sub>Last fetched: Tue, 25 Aug 2026 10:09:46 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Implement LRU Cache**
+**1. `DataStructures` — Find the longest substring without repeating characters**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Sliding window, hash map, two pointers
 
 </details>
 
-**2. `DataStructures` — Implement a function to reverse a linked list**
+**2. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 linked lists, pointers
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Iterative or recursive, three pointers
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `JavaScript` — Explain event delegation and why it's useful**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Event bubbling, single listener for multiple elements
 
 </details>
 
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 07:25:42 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 08:09:46 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
