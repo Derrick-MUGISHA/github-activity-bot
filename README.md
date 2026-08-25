@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
 | 20 | [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752) | Dev.to |
 
-<sub>Last fetched: Tue, 25 Aug 2026 19:12:04 CAT</sub>
+<sub>Last fetched: Tue, 25 Aug 2026 19:48:34 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — How would you optimize a React app's performance?**
+**1. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> React.memo, useMemo, useCallback, code splitting, lazy loading
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**2. `Python` — What are generators and when would you use them?**
+**2. `React` — What are hooks and why were they introduced?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, functional components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> yield keyword, lazy evaluation, memory efficiency
+> State in functional components, reusable logic, cleaner code
 
 </details>
 
-**3. `React` — What is the Virtual DOM and how does React use it?**
+**3. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> useState, useEffect, loading states, error handling
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 41.8% | `████████████████████` |
+| **AI** | 76 | 41.3% | `████████████████████` |
 | **JavaScript** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
+| **Tools** | 40 | 21.7% | `███████████░░░░░░░░░` |
+| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
 | **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 28.5%
-Go              ████████████████████████ 22.5%
-Java            ██████████████████████ 21.2%
-Python          █████████████████████ 19.9%
+JavaScript      ██████████████████████████████ 28.3%
+Go              ████████████████████████ 22.4%
+Java            ██████████████████████ 21.1%
+Python          ██████████████████████ 20.4%
 Rust            ██████ 5.3%
 Swift           █ 1.3%
 PHP             █ 0.7%
@@ -210,7 +210,7 @@ pie title Programming Languages Distribution
     "JavaScript" : 43
     "Go" : 34
     "Java" : 32
-    "Python" : 30
+    "Python" : 31
     "Rust" : 8
     "Swift" : 2
     "PHP" : 1
@@ -220,7 +220,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) 
+![javascript](https://img.shields.io/badge/javascript-31-0969da?style=flat-square) ![ai](https://img.shields.io/badge/ai-31-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-15-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 17:12:04 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 25 Aug 2026 17:48:34 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
