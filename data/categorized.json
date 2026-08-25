@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 722,
       "user": "nateherkai"
     },
     {
@@ -700,8 +700,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 256,
       "user": "kunchenguid"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 879,
+      "user": "cclank"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "ShadowAqueduct"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 498,
+      "user": "Zyrexnn"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -790,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "kgoedecke"
     },
     {
@@ -1404,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 722,
       "user": "nateherkai"
     },
     {
@@ -1434,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 256,
       "user": "kunchenguid"
     },
     {
@@ -1494,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2250,
       "user": "b-nnett"
     },
     {
@@ -1539,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "kgoedecke"
     },
     {
@@ -1554,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 304,
       "user": "rome-os"
     },
     {
@@ -1892,6 +1937,81 @@
       "user": "arathore"
     },
     {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 879,
+      "user": "cclank"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "ShadowAqueduct"
+    },
+    {
+      "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "published_at": "2026-08-19T12:46:46Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18703401?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "lanicer"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 498,
+      "user": "Zyrexnn"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "xdreizein666"
+    },
+    {
       "title": "IPython is All You Need",
       "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
       "published_at": "2026-08-24T10:24:13.663-05:00",
@@ -1908,7 +2028,7 @@
       "title": "Access difference for HTTP request",
       "url": "https://stackoverflow.com/questions/79998004/access-difference-for-http-request",
       "published_at": "2026-08-25T08:03:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "swagger",
@@ -2391,6 +2511,21 @@
       "user": "velmu"
     },
     {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "ShadowAqueduct"
+    },
+    {
       "title": "How to restrict clickable area to Button",
       "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
       "published_at": "2026-08-24T12:47:32.000Z",
@@ -2540,6 +2675,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "xdreizein666"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -3018,6 +3168,36 @@
       "user": "ewenjo"
     },
     {
+      "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "published_at": "2026-08-19T12:46:46Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18703401?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "lanicer"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 498,
+      "user": "Zyrexnn"
+    },
+    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -3247,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 722,
       "user": "nateherkai"
     },
     {
@@ -3277,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 250,
+      "stars": 256,
       "user": "kunchenguid"
     },
     {
@@ -3309,6 +3489,81 @@
       "source": "GitHub",
       "stars": 215,
       "user": "thiagotigaz"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 879,
+      "user": "cclank"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 785,
+      "user": "ShadowAqueduct"
+    },
+    {
+      "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "published_at": "2026-08-19T12:46:46Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18703401?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "lanicer"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 498,
+      "user": "Zyrexnn"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "xdreizein666"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -3397,7 +3652,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2220,
+      "stars": 2250,
       "user": "b-nnett"
     },
     {
@@ -3442,7 +3697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 339,
       "user": "kgoedecke"
     },
     {
@@ -3457,7 +3712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 305,
+      "stars": 304,
       "user": "rome-os"
     },
     {
@@ -3472,7 +3727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1288,
       "user": "tobi"
     },
     {
