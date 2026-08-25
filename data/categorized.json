@@ -282,21 +282,6 @@
       "user": "Mike Pearson"
     },
     {
-      "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
-      "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
-      "published_at": "2026-08-19T03:28:17Z",
-      "description": "GitHub — open-doc https://github.com/simonliu-ai-product/open-doc          1. Introduction   Over...",
-      "tags": [
-        "opensource",
-        "ai",
-        "antigravity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
-      "source": "Dev.to",
-      "user": "Yu-Wei Simon Liu (Simon Liu)"
-    },
-    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -685,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "nateherkai"
     },
     {
@@ -715,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 238,
       "user": "kunchenguid"
     },
     {
@@ -730,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 859,
       "user": "cclank"
     },
     {
@@ -745,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 782,
       "user": "ShadowAqueduct"
     },
     {
@@ -760,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Zyrexnn"
     },
     {
@@ -805,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "mattn"
     },
     {
@@ -850,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "kgoedecke"
     },
     {
@@ -865,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 183,
       "user": "truespar"
     },
     {
@@ -1318,6 +1303,21 @@
       "user": "Shubhra Pokhariya"
     },
     {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "nateherkai"
     },
     {
@@ -1468,6 +1468,21 @@
       "user": "mrhlaingbwardev"
     },
     {
+      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
+      "url": "https://github.com/kunchenguid/backpass",
+      "published_at": "2026-08-21T21:12:31Z",
+      "description": "You don't write AGENTS.md. You train it with gradient descent.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "kunchenguid"
+    },
+    {
       "title": "GamePhanes/GamePhanes - An open-source game coding agent environment and benchmark for Godot.",
       "url": "https://github.com/GamePhanes/GamePhanes",
       "published_at": "2026-08-21T02:57:42Z",
@@ -1483,21 +1498,6 @@
       "user": "GamePhanes"
     },
     {
-      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
-      "url": "https://github.com/kunchenguid/backpass",
-      "published_at": "2026-08-21T21:12:31Z",
-      "description": "You don't write AGENTS.md. You train it with gradient descent.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
-      "source": "GitHub",
-      "stars": 228,
-      "user": "kunchenguid"
-    },
-    {
       "title": "thiagotigaz/ocr-it - Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
       "url": "https://github.com/thiagotigaz/ocr-it",
       "published_at": "2026-08-21T07:20:39Z",
@@ -1509,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "thiagotigaz"
     },
     {
@@ -1539,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2075,
+      "stars": 2132,
       "user": "b-nnett"
     },
     {
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "kgoedecke"
     },
     {
@@ -1599,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "rome-os"
     },
     {
@@ -1614,6 +1614,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DisLido"
+    },
+    {
+      "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
+      "url": "https://stackoverflow.com/questions/79997810/cant-call-action-method-using-javascript-the-request-is-not-even-reaching-the-a",
+      "published_at": "2026-08-24T14:18:12.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "model-view-controller",
+        "razor",
+        "fetch-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "abd klaib"
     },
     {
       "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
@@ -1641,21 +1656,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
-    },
-    {
-      "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
-      "url": "https://stackoverflow.com/questions/79997810/cant-call-action-method-using-javascript-the-request-is-not-even-reaching-the-a",
-      "published_at": "2026-08-24T14:18:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "model-view-controller",
-        "razor",
-        "fetch-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "abd klaib"
     },
     {
       "title": "XMLHttpRequest to php and fake parameters",
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 859,
       "user": "cclank"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 782,
       "user": "ShadowAqueduct"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Zyrexnn"
     },
     {
@@ -2072,7 +2072,7 @@
       "title": "How to extract valid Python code from .ipynb cells",
       "url": "https://stackoverflow.com/questions/79997840/how-to-extract-valid-python-code-from-ipynb-cells",
       "published_at": "2026-08-24T16:11:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "parsing",
@@ -2128,6 +2128,19 @@
       "user": "SAFAA LHAKKAOUI"
     },
     {
+      "title": "Class decorator with arguments using the @decorator syntax not working",
+      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
+      "published_at": "2026-08-24T07:19:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-decorators"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "wolfrevo"
+    },
+    {
       "title": "Coercing pyright to understand non-None Optional values",
       "url": "https://stackoverflow.com/questions/79997769/coercing-pyright-to-understand-non-none-optional-values",
       "published_at": "2026-08-24T11:47:58.000Z",
@@ -2140,19 +2153,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jason C"
-    },
-    {
-      "title": "Class decorator with arguments using the @decorator syntax not working",
-      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
-      "published_at": "2026-08-24T07:19:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wolfrevo"
     },
     {
       "title": "Dataframe sorting and column count",
@@ -2521,7 +2521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 782,
       "user": "ShadowAqueduct"
     },
     {
@@ -2657,6 +2657,21 @@
         "webdev"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
+      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
+      "published_at": "2026-08-14T02:57:56Z",
+      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "tags": [
+        "flutter",
+        "dart",
+        "statemanagement",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2865,7 +2880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "beescuit"
     },
     {
@@ -3178,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Zyrexnn"
     },
     {
@@ -3319,21 +3334,6 @@
       "user": "Ryan Carniato"
     },
     {
-      "title": "open-doc: Letting Antigravity and Other Coding Agents Fully Own Document Layout and Generation",
-      "url": "https://dev.to/gde/open-doc-letting-antigravity-and-other-coding-agents-fully-own-document-layout-and-generation-3pak",
-      "published_at": "2026-08-19T03:28:17Z",
-      "description": "GitHub — open-doc https://github.com/simonliu-ai-product/open-doc          1. Introduction   Over...",
-      "tags": [
-        "opensource",
-        "ai",
-        "antigravity",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi9w147d9syp7vk9lna79.png",
-      "source": "Dev.to",
-      "user": "Yu-Wei Simon Liu (Simon Liu)"
-    },
-    {
       "title": "My (not so pretty) journey in tech",
       "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
       "published_at": "2026-08-13T13:10:09Z",
@@ -3426,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 689,
+      "stars": 696,
       "user": "nateherkai"
     },
     {
@@ -3445,6 +3445,21 @@
       "user": "mrhlaingbwardev"
     },
     {
+      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
+      "url": "https://github.com/kunchenguid/backpass",
+      "published_at": "2026-08-21T21:12:31Z",
+      "description": "You don't write AGENTS.md. You train it with gradient descent.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "kunchenguid"
+    },
+    {
       "title": "GamePhanes/GamePhanes - An open-source game coding agent environment and benchmark for Godot.",
       "url": "https://github.com/GamePhanes/GamePhanes",
       "published_at": "2026-08-21T02:57:42Z",
@@ -3460,21 +3475,6 @@
       "user": "GamePhanes"
     },
     {
-      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
-      "url": "https://github.com/kunchenguid/backpass",
-      "published_at": "2026-08-21T21:12:31Z",
-      "description": "You don't write AGENTS.md. You train it with gradient descent.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
-      "source": "GitHub",
-      "stars": 228,
-      "user": "kunchenguid"
-    },
-    {
       "title": "thiagotigaz/ocr-it - Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
       "url": "https://github.com/thiagotigaz/ocr-it",
       "published_at": "2026-08-21T07:20:39Z",
@@ -3486,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "thiagotigaz"
     },
     {
@@ -3501,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 853,
+      "stars": 859,
       "user": "cclank"
     },
     {
@@ -3516,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 782,
       "user": "ShadowAqueduct"
     },
     {
@@ -3561,7 +3561,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 484,
       "user": "Zyrexnn"
     },
     {
@@ -3621,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "mattn"
     },
     {
@@ -3651,7 +3651,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2075,
+      "stars": 2132,
       "user": "b-nnett"
     },
     {
@@ -3696,7 +3696,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 336,
       "user": "kgoedecke"
     },
     {
@@ -3711,7 +3711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 300,
+      "stars": 301,
       "user": "rome-os"
     },
     {
@@ -3726,7 +3726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1192,
+      "stars": 1237,
       "user": "tobi"
     },
     {
@@ -3741,7 +3741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 183,
       "user": "truespar"
     },
     {
@@ -3786,7 +3786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "beescuit"
     },
     {
