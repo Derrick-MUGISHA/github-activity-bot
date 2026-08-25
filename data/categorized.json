@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 824,
       "user": "nateherkai"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 303,
       "user": "kunchenguid"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 900,
       "user": "cclank"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 525,
+      "stars": 528,
       "user": "Zyrexnn"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "ApodexAI"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "mattn"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "kgoedecke"
     },
     {
@@ -866,7 +866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "truespar"
     },
     {
@@ -1379,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 824,
       "user": "nateherkai"
     },
     {
@@ -1409,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 303,
       "user": "kunchenguid"
     },
     {
@@ -1439,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 231,
       "user": "thiagotigaz"
     },
     {
@@ -1454,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "ApodexAI"
     },
     {
@@ -1484,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2399,
+      "stars": 2420,
       "user": "b-nnett"
     },
     {
@@ -1529,7 +1529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "kgoedecke"
     },
     {
@@ -1544,21 +1544,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "rome-os"
-    },
-    {
-      "title": "Porffor goes alpha August 11th",
-      "url": "https://honk.foo/porffor-alpha/",
-      "published_at": "2026-08-25T05:01:40.386-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "compilers",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "giacomo_cavalieri"
     },
     {
       "title": "What's wrong with Js copying strings",
@@ -1900,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 900,
       "user": "cclank"
     },
     {
@@ -1919,6 +1906,21 @@
       "user": "ShadowAqueduct"
     },
     {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "Zyrexnn"
+    },
+    {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
       "url": "https://github.com/lanicer/cve-2026-41940-PoC",
       "published_at": "2026-08-19T12:46:46Z",
@@ -1934,21 +1936,6 @@
       "user": "lanicer"
     },
     {
-      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "url": "https://github.com/Zyrexnn/Cybermes",
-      "published_at": "2026-08-19T13:25:08Z",
-      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
-      "source": "GitHub",
-      "stars": 525,
-      "user": "Zyrexnn"
-    },
-    {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "url": "https://github.com/ApodexAI/FrontierAgent",
       "published_at": "2026-08-22T05:07:35Z",
@@ -1960,14 +1947,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "ApodexAI"
     },
     {
       "title": "Track and completely undo software installation changes on Debian",
       "url": "https://stackoverflow.com/questions/79998129/track-and-completely-undo-software-installation-changes-on-debian",
       "published_at": "2026-08-25T14:36:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "linux",
@@ -2297,7 +2284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "ApodexAI"
     },
     {
@@ -2663,6 +2650,16 @@
   ],
   "Cloud": [
     {
+      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
+      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
+      "published_at": "2026-08-24T17:33:07Z",
+      "description": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
       "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
       "published_at": "2026-08-25T03:18:30Z",
@@ -2676,16 +2673,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
-      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
-      "published_at": "2026-08-24T17:33:07Z",
-      "description": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
@@ -3103,6 +3090,21 @@
       "user": "ewenjo"
     },
     {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "Zyrexnn"
+    },
+    {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
       "url": "https://github.com/lanicer/cve-2026-41940-PoC",
       "published_at": "2026-08-19T12:46:46Z",
@@ -3116,21 +3118,6 @@
       "source": "GitHub",
       "stars": 528,
       "user": "lanicer"
-    },
-    {
-      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "url": "https://github.com/Zyrexnn/Cybermes",
-      "published_at": "2026-08-19T13:25:08Z",
-      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
-      "source": "GitHub",
-      "stars": 525,
-      "user": "Zyrexnn"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -3192,20 +3179,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "WhatsApp tightens account security with stronger two-step verification and more",
-      "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-      "published_at": "2026-08-25T13:00:00.000Z",
-      "description": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
-      "tags": [
-        "Apps",
-        "Security",
-        "WhatsApp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     }
   ],
   "Tools": [
@@ -3391,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 824,
       "user": "nateherkai"
     },
     {
@@ -3421,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 303,
       "user": "kunchenguid"
     },
     {
@@ -3451,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 231,
       "user": "thiagotigaz"
     },
     {
@@ -3466,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 898,
+      "stars": 900,
       "user": "cclank"
     },
     {
@@ -3485,6 +3458,21 @@
       "user": "ShadowAqueduct"
     },
     {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "Zyrexnn"
+    },
+    {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
       "url": "https://github.com/lanicer/cve-2026-41940-PoC",
       "published_at": "2026-08-19T12:46:46Z",
@@ -3500,21 +3488,6 @@
       "user": "lanicer"
     },
     {
-      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "url": "https://github.com/Zyrexnn/Cybermes",
-      "published_at": "2026-08-19T13:25:08Z",
-      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
-      "source": "GitHub",
-      "stars": 525,
-      "user": "Zyrexnn"
-    },
-    {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "url": "https://github.com/ApodexAI/FrontierAgent",
       "published_at": "2026-08-22T05:07:35Z",
@@ -3526,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 496,
       "user": "ApodexAI"
     },
     {
@@ -3586,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "mattn"
     },
     {
@@ -3616,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2399,
+      "stars": 2420,
       "user": "b-nnett"
     },
     {
@@ -3661,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 352,
       "user": "kgoedecke"
     },
     {
@@ -3676,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 320,
       "user": "rome-os"
     },
     {
@@ -3691,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1447,
+      "stars": 1457,
       "user": "tobi"
     },
     {
@@ -3706,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 195,
       "user": "truespar"
     },
     {
@@ -3736,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 103,
       "user": "dragthelake"
     },
     {
@@ -3751,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
       "source": "GitHub",
-      "stars": 95,
+      "stars": 96,
       "user": "benja"
     },
     {
@@ -3785,20 +3758,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "WhatsApp tightens account security with stronger two-step verification and more",
-      "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-      "published_at": "2026-08-25T13:00:00.000Z",
-      "description": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
-      "tags": [
-        "Apps",
-        "Security",
-        "WhatsApp"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
