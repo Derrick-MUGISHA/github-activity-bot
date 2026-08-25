@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 669,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "kunchenguid"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 848,
       "user": "cclank"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "ShadowAqueduct"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 470,
       "user": "Zyrexnn"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "kgoedecke"
     },
     {
@@ -1057,6 +1057,22 @@
       "user": "TechCrunch Events"
     },
     {
+      "title": "What Happens to a Medical Image Before and After a Model Sees It",
+      "url": "https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/",
+      "published_at": "2026-08-24T20:40:43.000Z",
+      "description": "Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w",
+      "tags": [
+        "Medical Imaging",
+        "Machine Learning",
+        "Healthcare AI",
+        "#medical-ai",
+        "Data Preprocessing"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Lakshmi Mahabaleshwara"
+    },
+    {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
       "url": "https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/",
       "published_at": "2026-08-24T17:46:43.000Z",
@@ -1149,21 +1165,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
-      "url": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
-      "published_at": "2026-08-21T16:47:39.000Z",
-      "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
-      "tags": [
-        "Kubernetes",
-        "networking",
-        "debugging",
-        "containers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
     }
   ],
   "JavaScript": [
@@ -1448,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 669,
       "user": "nateherkai"
     },
     {
@@ -1493,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "kunchenguid"
     },
     {
@@ -1508,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 203,
       "user": "thiagotigaz"
     },
     {
@@ -1538,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1944,
+      "stars": 1977,
       "user": "b-nnett"
     },
     {
@@ -1583,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "kgoedecke"
     },
     {
@@ -1598,8 +1599,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "rome-os"
+    },
+    {
+      "title": "WICG `Observable`: Behavioral issues when subscribing to the same Observable multiple times",
+      "url": "https://stackoverflow.com/questions/79997958/wicg-observable-behavioral-issues-when-subscribing-to-the-same-observable-mul",
+      "published_at": "2026-08-25T03:30:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "observable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DisLido"
     },
     {
       "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
@@ -1725,19 +1739,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naeem Akhtar"
-    },
-    {
-      "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
-      "url": "https://stackoverflow.com/questions/79997599/phaser-3-arcade-physics-sprite-following-a-precomputed-waypoint-path-stalls-d",
-      "published_at": "2026-08-23T17:36:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "phaser"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vector"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1948,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 848,
       "user": "cclank"
     },
     {
@@ -1963,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "ShadowAqueduct"
     },
     {
@@ -2008,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 470,
       "user": "Zyrexnn"
     },
     {
@@ -2377,21 +2378,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Abdul Talha"
-    },
-    {
-      "title": "Kubernetes Networking Explained: From ClusterIP to Cilium Service Mesh",
-      "url": "https://www.freecodecamp.org/news/kubernetes-networking-explained-from-clusterip-to-cilium-service-mesh/",
-      "published_at": "2026-08-21T16:47:39.000Z",
-      "description": "Here's something that most Kubernetes tutorials won't tell you: most engineers can run kubectl expose. Fewer than 10% understand what happens when they do. I've debugged Kubernetes networking issues a",
-      "tags": [
-        "Kubernetes",
-        "networking",
-        "debugging",
-        "containers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ayobami Adejumo"
     }
   ],
   "WebDev": [
@@ -2534,7 +2520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "ShadowAqueduct"
     },
     {
@@ -3191,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 470,
       "user": "Zyrexnn"
     },
     {
@@ -3452,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 669,
       "user": "nateherkai"
     },
     {
@@ -3497,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "kunchenguid"
     },
     {
@@ -3512,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 203,
       "user": "thiagotigaz"
     },
     {
@@ -3527,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 847,
+      "stars": 848,
       "user": "cclank"
     },
     {
@@ -3542,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 775,
+      "stars": 776,
       "user": "ShadowAqueduct"
     },
     {
@@ -3587,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 470,
       "user": "Zyrexnn"
     },
     {
@@ -3677,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1944,
+      "stars": 1977,
       "user": "b-nnett"
     },
     {
@@ -3722,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 329,
       "user": "kgoedecke"
     },
     {
@@ -3737,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 299,
       "user": "rome-os"
     },
     {
@@ -3752,7 +3738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1106,
+      "stars": 1126,
       "user": "tobi"
     },
     {
