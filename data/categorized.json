@@ -670,7 +670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 729,
       "user": "nateherkai"
     },
     {
@@ -700,7 +700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "kunchenguid"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 883,
       "user": "cclank"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Zyrexnn"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 51,
       "user": "mattn"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 469,
       "user": "amagine-ai"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "truespar"
     },
     {
@@ -891,62 +891,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "anex9d"
-    },
-    {
-      "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
-      "url": "https://routeup.dev",
-      "published_at": "2026-08-24T14:08:59.286-05:00",
-      "description": "I built Routeup around a simple idea: local apps should use their real names.\r\n\r\nIt was inspired by [Portless](https://portless.sh/), but I also wanted built-in public tunneling, selective path exposure, request inspection, and live logs.\r\n\r\nInstead of opening `localhost:3000`, I can give a project a stable, trusted HTTPS URL and keep using it across restarts:\r\n\r\n```text\r\nhttps://example-app.localhost\r\n```\r\n\r\nThe app stays local by default. When an external service needs access, I can expose the whole route or only selected paths such as `/api/webhooks/*`:\r\n\r\n```text\r\nlocal:  https://example-app.localhost\r\npublic: https://example-app.try.routeup.dev\r\nexpose: /api/webhooks/*\r\n```\r\n\r\nExposure has its own lifecycle. I can expose an already-running route from another terminal and stop sharing it without stopping the local app.\r\n\r\nFor quick, temporary exposure, Routeup provides names under `*.try.routeup.dev` without requiring an account or token. For stable public names, a token claims a namespace such as `team.routeup.dev`. Apps can then use names beneath it, such as `api.team.routeup.dev` and `docs.team.routeup.dev`. The same namespace model works with a self-hosted Routeup server and your own domain.\r\n\r\nRouteup grew out of frustrations I had using ngrok and localtunnel. They could expose a port, but their tunnel-first model was not the workflow I wanted. I wanted the app to have a stable local identity first, with public access added only when and where it was needed.\r\n\r\nI use this workflow heavily at work and for personal projects. Routeup currently supports multiple path targets behind one origin, repository-level configuration, running an app command, request inspection, hosted public URLs, and self-hosted servers.\r\n\r\nThe local workflow requires no account, token, DNS, or remote server. Routeup is a single Go binary, has no CLI telemetry, and is MIT licensed.\r\n\r\n- [Website and documentation](https://routeup.dev)\r\n- [Source code](https://github.com/mukul-mehta/routeup)\r\n\r\nI'd appreciate any feedback on the project, especially ideas for improving the workflow, documentation, or features. If you run into any issues during setup or while using the tool, please [open a GitHub issue](https://github.com/mukul-mehta/routeup/issues/new/choose) or email [help@routeup.dev](mailto:help@routeup.dev).",
-      "tags": [
-        "go",
-        "networking",
-        "show",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mukul"
-    },
-    {
-      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
-      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
-      "published_at": "2026-08-22T22:59:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "airplane-mode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaun Roselt"
-    },
-    {
-      "title": "Why are there 'dot' in front of 'dsets' and 'model', but using 'util' in front of 'util' in training.py?",
-      "url": "https://stackoverflow.com/questions/79997841/why-are-there-dot-in-front-of-dsets-and-model-but-using-util-in-front-o",
-      "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "import",
-        "module"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zhang Wei"
-    },
-    {
-      "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
-      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
-      "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "linecache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "F Cameron"
     },
     {
       "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
@@ -1449,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 729,
       "user": "nateherkai"
     },
     {
@@ -1479,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "kunchenguid"
     },
     {
@@ -1539,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2250,
+      "stars": 2270,
       "user": "b-nnett"
     },
     {
@@ -1569,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 469,
       "user": "amagine-ai"
     },
     {
@@ -1601,143 +1545,6 @@
       "source": "GitHub",
       "stars": 304,
       "user": "rome-os"
-    },
-    {
-      "title": "Why does React re-render a component when its props haven't changed?",
-      "url": "https://stackoverflow.com/questions/79998009/why-does-react-re-render-a-component-when-its-props-havent-changed",
-      "published_at": "2026-08-25T08:31:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sahil Khurana"
-    },
-    {
-      "title": "Behavioral issues when subscribing to the same WICG Observable multiple times",
-      "url": "https://stackoverflow.com/questions/79997958/behavioral-issues-when-subscribing-to-the-same-wicg-observable-multiple-times",
-      "published_at": "2026-08-25T03:30:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "observable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DisLido"
-    },
-    {
-      "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
-      "url": "https://stackoverflow.com/questions/79997810/cant-call-action-method-using-javascript-the-request-is-not-even-reaching-the-a",
-      "published_at": "2026-08-24T14:18:12.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "model-view-controller",
-        "razor",
-        "fetch-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "abd klaib"
-    },
-    {
-      "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
-      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
-      "published_at": "2026-08-24T20:46:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "google-chrome-extension"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Samuel Bond"
-    },
-    {
-      "title": "How to make unique RGB color generator with incremental R, G, and B",
-      "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
-      "published_at": "2026-08-24T19:13:39.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "colors",
-        "rgb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bobby324"
-    },
-    {
-      "title": "XMLHttpRequest to php and fake parameters",
-      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
-      "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "php",
-        "security",
-        "xmlhttprequest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toniq"
-    },
-    {
-      "title": "React application performance degrades as the codebase scales how should we prevent unnecessary re-renders?",
-      "url": "https://stackoverflow.com/questions/79997780/react-application-performance-degrades-as-the-codebase-scales-how-should-we-prev",
-      "published_at": "2026-08-24T12:32:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sahil Khurana"
-    },
-    {
-      "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
-      "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
-      "published_at": "2026-08-24T09:22:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "P196hql"
-    },
-    {
-      "title": "How to handle Talend JXLS templates in Apache Hop?",
-      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
-      "published_at": "2026-08-24T09:09:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rohini Bhondekar"
-    },
-    {
-      "title": "Is it possible to know if a Device is in Airplane Mode or not via JavaScript?",
-      "url": "https://stackoverflow.com/questions/79997431/is-it-possible-to-know-if-a-device-is-in-airplane-mode-or-not-via-javascript",
-      "published_at": "2026-08-22T22:59:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "airplane-mode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaun Roselt"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1948,7 +1755,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 883,
       "user": "cclank"
     },
     {
@@ -1993,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Zyrexnn"
     },
     {
@@ -2023,150 +1830,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ncoop57"
-    },
-    {
-      "title": "Access difference for HTTP request",
-      "url": "https://stackoverflow.com/questions/79998004/access-difference-for-http-request",
-      "published_at": "2026-08-25T08:03:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "swagger",
-        "httprequest",
-        "codebeamer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33063078"
-    },
-    {
-      "title": "How to type annotate a heterogeneous collection of objects within a type bound",
-      "url": "https://stackoverflow.com/questions/79997923/how-to-type-annotate-a-heterogeneous-collection-of-objects-within-a-type-bound",
-      "published_at": "2026-08-24T23:21:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DanielSank"
-    },
-    {
-      "title": "Why are there 'dot' in front of 'dsets' and 'model', but using 'util' in front of 'util' in training.py?",
-      "url": "https://stackoverflow.com/questions/79997841/why-are-there-dot-in-front-of-dsets-and-model-but-using-util-in-front-o",
-      "published_at": "2026-08-24T16:12:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "import",
-        "module"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zhang Wei"
-    },
-    {
-      "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
-      "url": "https://stackoverflow.com/questions/79997799/how-to-give-a-font-to-a-option-in-a-python-tkinter-ttk-combobox",
-      "published_at": "2026-08-24T13:38:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "tkinter",
-        "fonts",
-        "combobox",
-        "ttk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "How to extract valid Python code from .ipynb cells",
-      "url": "https://stackoverflow.com/questions/79997840/how-to-extract-valid-python-code-from-ipynb-cells",
-      "published_at": "2026-08-24T16:11:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "parsing",
-        "jupyter-notebook",
-        "abstract-syntax-tree",
-        "ipynb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ArianNa"
-    },
-    {
-      "title": "Dataframe sorting and column count",
-      "url": "https://stackoverflow.com/questions/79997582/dataframe-sorting-and-column-count",
-      "published_at": "2026-08-23T16:22:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jam One"
-    },
-    {
-      "title": "How to restrict clickable area to Button",
-      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
-      "published_at": "2026-08-24T12:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "html",
-        "plotly-dash"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cph_sto"
-    },
-    {
-      "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
-      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
-      "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "artificial-intelligence",
-        "linecache"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "F Cameron"
-    },
-    {
-      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
-      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
-      "published_at": "2026-08-24T14:32:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "aws-lambda",
-        "lambda",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAFAA LHAKKAOUI"
-    },
-    {
-      "title": "Class decorator with arguments using the @decorator syntax not working",
-      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
-      "published_at": "2026-08-24T07:19:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-decorators"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "wolfrevo"
     },
     {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
@@ -2526,20 +2189,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "How to restrict clickable area to Button",
-      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
-      "published_at": "2026-08-24T12:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "html",
-        "plotly-dash"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cph_sto"
-    },
-    {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
       "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
       "published_at": "2026-08-24T14:03:04.000Z",
@@ -2885,21 +2534,6 @@
       "user": "beescuit"
     },
     {
-      "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
-      "url": "https://stackoverflow.com/questions/79997812/playwright-works-locally-but-gets-cloudflare-turnstile-403-on-aws-lambda",
-      "published_at": "2026-08-24T14:32:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "aws-lambda",
-        "lambda",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SAFAA LHAKKAOUI"
-    },
-    {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
       "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
       "published_at": "2026-08-22T03:00:00.000Z",
@@ -2972,6 +2606,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "jummo"
+    },
+    {
+      "title": "Solving the 1+N query problem",
+      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+      "published_at": "2026-08-25T03:25:23.534-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "giacomo_cavalieri"
     },
     {
       "title": "How to Understand a Legacy Codebase Using AI Before Changing it",
@@ -3194,7 +2840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Zyrexnn"
     },
     {
@@ -3211,21 +2857,6 @@
       "source": "GitHub",
       "stars": 513,
       "user": "Forsy-AI"
-    },
-    {
-      "title": "XMLHttpRequest to php and fake parameters",
-      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
-      "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "php",
-        "security",
-        "xmlhttprequest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toniq"
     },
     {
       "title": "Alabama launches investigation into OpenAI&#8217;s hack of Hugging Face",
@@ -3427,7 +3058,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 722,
+      "stars": 729,
       "user": "nateherkai"
     },
     {
@@ -3457,7 +3088,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "kunchenguid"
     },
     {
@@ -3502,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 883,
       "user": "cclank"
     },
     {
@@ -3547,7 +3178,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 500,
       "user": "Zyrexnn"
     },
     {
@@ -3622,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 50,
+      "stars": 51,
       "user": "mattn"
     },
     {
@@ -3652,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2250,
+      "stars": 2270,
       "user": "b-nnett"
     },
     {
@@ -3682,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 469,
       "user": "amagine-ai"
     },
     {
@@ -3727,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1288,
+      "stars": 1302,
       "user": "tobi"
     },
     {
@@ -3742,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 190,
       "user": "truespar"
     },
     {
@@ -3789,34 +3420,6 @@
       "source": "GitHub",
       "stars": 88,
       "user": "beescuit"
-    },
-    {
-      "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
-      "url": "https://routeup.dev",
-      "published_at": "2026-08-24T14:08:59.286-05:00",
-      "description": "I built Routeup around a simple idea: local apps should use their real names.\r\n\r\nIt was inspired by [Portless](https://portless.sh/), but I also wanted built-in public tunneling, selective path exposure, request inspection, and live logs.\r\n\r\nInstead of opening `localhost:3000`, I can give a project a stable, trusted HTTPS URL and keep using it across restarts:\r\n\r\n```text\r\nhttps://example-app.localhost\r\n```\r\n\r\nThe app stays local by default. When an external service needs access, I can expose the whole route or only selected paths such as `/api/webhooks/*`:\r\n\r\n```text\r\nlocal:  https://example-app.localhost\r\npublic: https://example-app.try.routeup.dev\r\nexpose: /api/webhooks/*\r\n```\r\n\r\nExposure has its own lifecycle. I can expose an already-running route from another terminal and stop sharing it without stopping the local app.\r\n\r\nFor quick, temporary exposure, Routeup provides names under `*.try.routeup.dev` without requiring an account or token. For stable public names, a token claims a namespace such as `team.routeup.dev`. Apps can then use names beneath it, such as `api.team.routeup.dev` and `docs.team.routeup.dev`. The same namespace model works with a self-hosted Routeup server and your own domain.\r\n\r\nRouteup grew out of frustrations I had using ngrok and localtunnel. They could expose a port, but their tunnel-first model was not the workflow I wanted. I wanted the app to have a stable local identity first, with public access added only when and where it was needed.\r\n\r\nI use this workflow heavily at work and for personal projects. Routeup currently supports multiple path targets behind one origin, repository-level configuration, running an app command, request inspection, hosted public URLs, and self-hosted servers.\r\n\r\nThe local workflow requires no account, token, DNS, or remote server. Routeup is a single Go binary, has no CLI telemetry, and is MIT licensed.\r\n\r\n- [Website and documentation](https://routeup.dev)\r\n- [Source code](https://github.com/mukul-mehta/routeup)\r\n\r\nI'd appreciate any feedback on the project, especially ideas for improving the workflow, documentation, or features. If you run into any issues during setup or while using the tool, please [open a GitHub issue](https://github.com/mukul-mehta/routeup/issues/new/choose) or email [help@routeup.dev](mailto:help@routeup.dev).",
-      "tags": [
-        "go",
-        "networking",
-        "show",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mukul"
-    },
-    {
-      "title": "How to handle Talend JXLS templates in Apache Hop?",
-      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
-      "published_at": "2026-08-24T09:09:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "tooling-recommendation",
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rohini Bhondekar"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
