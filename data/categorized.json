@@ -16,6 +16,21 @@
       "user": "Matthew Revell"
     },
     {
+      "title": "Coding agents got boring the moment we built a really good one.",
+      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
+      "published_at": "2026-08-17T20:12:46Z",
+      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
+      "tags": [
+        "agents",
+        "ai",
+        "coding",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -46,21 +61,6 @@
       "user": "xbill"
     },
     {
-      "title": "Coding agents got boring the moment we built a really good one.",
-      "url": "https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4",
-      "published_at": "2026-08-17T20:12:46Z",
-      "description": "MESSAGE FROM BACKBOARD.IO Co-Founder Rob Imbeault:  Coding agents got boring the moment we built a...",
-      "tags": [
-        "agents",
-        "ai",
-        "coding",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
-      "source": "Dev.to",
-      "user": "Jonathan Murray"
-    },
-    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -87,21 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
-    },
-    {
-      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
-      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o",
-      "published_at": "2026-08-20T11:13:12Z",
-      "description": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
-      "tags": [
-        "ai",
-        "videoproduction",
-        "creativeindustry",
-        "aifilmaking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh43gl7gigubj7unbkkaz.png",
-      "source": "Dev.to",
-      "user": "Gbemisola Esho"
     },
     {
       "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
@@ -236,6 +221,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj2qx90h893gb7oly6kkd.png",
       "source": "Dev.to",
       "user": "Tanaike"
+    },
+    {
+      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+      "url": "https://dev.to/gde/breaking-the-multimodal-barrier-exploring-gemini-omni-and-my-time-with-gdg-calabar-569o",
+      "published_at": "2026-08-20T11:13:12Z",
+      "description": "The energy following a major Google I/O announcement always ripples through the developer ecosystem,...",
+      "tags": [
+        "ai",
+        "videoproduction",
+        "creativeindustry",
+        "aifilmaking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh43gl7gigubj7unbkkaz.png",
+      "source": "Dev.to",
+      "user": "Gbemisola Esho"
     },
     {
       "title": "Learn how to build a disclosure component using the native HTML details tag",
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 642,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 210,
       "user": "kunchenguid"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 838,
       "user": "cclank"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 773,
       "user": "ShadowAqueduct"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 456,
       "user": "Zyrexnn"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "zhaoxuya520"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "mattn"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 323,
       "user": "kgoedecke"
     },
     {
@@ -880,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 159,
       "user": "truespar"
     },
     {
@@ -963,6 +963,19 @@
       "user": "F Cameron"
     },
     {
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "published_at": "2026-08-25T00:23:12.000Z",
+      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
       "published_at": "2026-08-24T21:24:17.000Z",
@@ -1040,22 +1053,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "published_at": "2026-08-24T15:24:18.000Z",
-      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Venture",
-        "Exclusive",
-        "general intuition"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
@@ -1449,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 642,
       "user": "nateherkai"
     },
     {
@@ -1494,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 210,
       "user": "kunchenguid"
     },
     {
@@ -1509,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 199,
       "user": "thiagotigaz"
     },
     {
@@ -1539,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1806,
       "user": "b-nnett"
     },
     {
@@ -1584,7 +1581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 323,
       "user": "kgoedecke"
     },
     {
@@ -1599,8 +1596,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 294,
       "user": "rome-os"
+    },
+    {
+      "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
+      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
+      "published_at": "2026-08-24T20:46:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "google-chrome-extension"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Samuel Bond"
     },
     {
       "title": "How to make unique RGB color generator with incremental R, G, and B",
@@ -1615,19 +1625,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
-    },
-    {
-      "title": "Making A Chrome Extension Trigger on the Manage Extensions Page",
-      "url": "https://stackoverflow.com/questions/79997903/making-a-chrome-extension-trigger-on-the-manage-extensions-page",
-      "published_at": "2026-08-24T20:46:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "google-chrome-extension"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Samuel Bond"
     },
     {
       "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
@@ -1663,7 +1660,7 @@
       "title": "React application performance degrades as the codebase scales how should we prevent unnecessary re-renders?",
       "url": "https://stackoverflow.com/questions/79997780/react-application-performance-degrades-as-the-codebase-scales-how-should-we-prev",
       "published_at": "2026-08-24T12:32:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "best-practices",
         "javascript",
@@ -1949,7 +1946,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 838,
       "user": "cclank"
     },
     {
@@ -1964,7 +1961,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 773,
       "user": "ShadowAqueduct"
     },
     {
@@ -2009,7 +2006,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 456,
       "user": "Zyrexnn"
     },
     {
@@ -2029,7 +2026,7 @@
       "title": "Why is math.sqrt() returning value error?",
       "url": "https://stackoverflow.com/questions/79997883/why-is-math-sqrt-returning-value-error",
       "published_at": "2026-08-24T19:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2535,7 +2532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 773,
       "user": "ShadowAqueduct"
     },
     {
@@ -2739,6 +2736,16 @@
   ],
   "Cloud": [
     {
+      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
+      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
+      "published_at": "2026-08-24T17:33:07Z",
+      "description": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
+      "tags": [],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
       "url": "https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l",
       "published_at": "2026-08-23T20:12:24Z",
@@ -2752,16 +2759,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
-      "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
-      "published_at": "2026-08-24T17:33:07Z",
-      "description": "If your team is running or planning to deploy Claude Code on Google Cloud, managing spend and...",
-      "tags": [],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -2879,7 +2876,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "beescuit"
     },
     {
@@ -2964,7 +2961,8 @@
       "description": "Lobste.rs Discussion",
       "tags": [
         "databases",
-        "linux"
+        "linux",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3191,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 456,
       "user": "Zyrexnn"
     },
     {
@@ -3467,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 629,
+      "stars": 642,
       "user": "nateherkai"
     },
     {
@@ -3512,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 208,
+      "stars": 210,
       "user": "kunchenguid"
     },
     {
@@ -3527,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 195,
+      "stars": 199,
       "user": "thiagotigaz"
     },
     {
@@ -3542,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 836,
+      "stars": 838,
       "user": "cclank"
     },
     {
@@ -3557,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 773,
       "user": "ShadowAqueduct"
     },
     {
@@ -3602,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 456,
       "user": "Zyrexnn"
     },
     {
@@ -3617,7 +3615,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 163,
       "user": "zhaoxuya520"
     },
     {
@@ -3662,7 +3660,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 45,
+      "stars": 46,
       "user": "mattn"
     },
     {
@@ -3692,7 +3690,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1670,
+      "stars": 1806,
       "user": "b-nnett"
     },
     {
@@ -3737,7 +3735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 323,
       "user": "kgoedecke"
     },
     {
@@ -3752,7 +3750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 294,
       "user": "rome-os"
     },
     {
@@ -3767,7 +3765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1042,
+      "stars": 1074,
       "user": "tobi"
     },
     {
@@ -3797,7 +3795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 159,
       "user": "truespar"
     },
     {
@@ -3827,7 +3825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 87,
       "user": "beescuit"
     },
     {
