@@ -74,21 +74,6 @@
       "user": "Alexandra"
     },
     {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
-      "published_at": "2026-08-22T20:29:26Z",
-      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Greatness Is Forged by Limitation",
       "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
       "published_at": "2026-08-19T13:04:47Z",
@@ -117,6 +102,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh43gl7gigubj7unbkkaz.png",
       "source": "Dev.to",
       "user": "Gbemisola Esho"
+    },
+    {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "published_at": "2026-08-22T20:29:26Z",
+      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 629,
       "user": "nateherkai"
     },
     {
@@ -704,34 +704,19 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "url": "https://github.com/only-cli/oc",
-      "published_at": "2026-08-18T13:00:30Z",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
+      "url": "https://github.com/kunchenguid/backpass",
+      "published_at": "2026-08-21T21:12:31Z",
+      "description": "You don't write AGENTS.md. You train it with gradient descent.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 283,
-      "user": "only-cli"
-    },
-    {
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "published_at": "2026-08-18T04:08:11Z",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
-      "source": "GitHub",
-      "stars": 1756,
-      "user": "wang2122"
+      "stars": 208,
+      "user": "kunchenguid"
     },
     {
       "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
@@ -764,19 +749,19 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "amirh00sain/SpiderPanel - GitHub Repository",
-      "url": "https://github.com/amirh00sain/SpiderPanel",
-      "published_at": "2026-08-18T15:30:17Z",
-      "description": "Trending GitHub Repository",
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 679,
-      "user": "amirh00sain"
+      "stars": 446,
+      "user": "Zyrexnn"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -865,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "kgoedecke"
     },
     {
@@ -895,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "truespar"
     },
     {
@@ -1453,36 +1438,6 @@
       "user": "velmu"
     },
     {
-      "title": "vvxw/deploy-vercel - Install Command：npm install",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "published_at": "2026-08-18T13:25:45Z",
-      "description": "Install Command：npm install",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
-      "source": "GitHub",
-      "stars": 1299,
-      "user": "vvxw"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "published_at": "2026-08-18T03:13:51Z",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
-      "source": "GitHub",
-      "stars": 866,
-      "user": "MeteorNOX"
-    },
-    {
       "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "url": "https://github.com/nateherkai/scroll-craft",
       "published_at": "2026-08-22T15:25:08Z",
@@ -1494,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 629,
       "user": "nateherkai"
     },
     {
@@ -1513,19 +1468,49 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "url": "https://github.com/only-cli/oc",
-      "published_at": "2026-08-18T13:00:30Z",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "title": "GamePhanes/GamePhanes - An open-source game coding agent environment and benchmark for Godot.",
+      "url": "https://github.com/GamePhanes/GamePhanes",
+      "published_at": "2026-08-21T02:57:42Z",
+      "description": "An open-source game coding agent environment and benchmark for Godot.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 283,
-      "user": "only-cli"
+      "stars": 234,
+      "user": "GamePhanes"
+    },
+    {
+      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
+      "url": "https://github.com/kunchenguid/backpass",
+      "published_at": "2026-08-21T21:12:31Z",
+      "description": "You don't write AGENTS.md. You train it with gradient descent.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
+      "source": "GitHub",
+      "stars": 208,
+      "user": "kunchenguid"
+    },
+    {
+      "title": "thiagotigaz/ocr-it - Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "published_at": "2026-08-21T07:20:39Z",
+      "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "thiagotigaz"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -1554,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1670,
       "user": "b-nnett"
     },
     {
@@ -1599,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "kgoedecke"
     },
     {
@@ -1614,7 +1599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "rome-os"
     },
     {
@@ -1953,21 +1938,6 @@
       "user": "arathore"
     },
     {
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "published_at": "2026-08-18T04:08:11Z",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
-      "source": "GitHub",
-      "stars": 1756,
-      "user": "wang2122"
-    },
-    {
       "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
       "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
       "published_at": "2026-08-20T13:40:06Z",
@@ -1998,21 +1968,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "amirh00sain/SpiderPanel - GitHub Repository",
-      "url": "https://github.com/amirh00sain/SpiderPanel",
-      "published_at": "2026-08-18T15:30:17Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "amirh00sain"
-    },
-    {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
       "url": "https://github.com/lanicer/cve-2026-41940-PoC",
       "published_at": "2026-08-19T12:46:46Z",
@@ -2026,6 +1981,36 @@
       "source": "GitHub",
       "stars": 528,
       "user": "lanicer"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "xdreizein666"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 446,
+      "user": "Zyrexnn"
     },
     {
       "title": "IPython is All You Need",
@@ -2586,21 +2571,6 @@
   ],
   "Mobile": [
     {
-      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
-      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
-      "published_at": "2026-08-22T20:29:26Z",
-      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
       "url": "https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5",
       "published_at": "2026-08-21T01:00:50Z",
@@ -2612,6 +2582,21 @@
         "statemanagement"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
+      "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
+      "published_at": "2026-08-22T20:29:26Z",
+      "description": "How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2688,6 +2673,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "xdreizein666"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -2866,6 +2866,21 @@
       "source": "GitHub",
       "stars": 104,
       "user": "jsongmax"
+    },
+    {
+      "title": "beescuit/chatflare - Chat with your friends via Cloudflare cache hits",
+      "url": "https://github.com/beescuit/chatflare",
+      "published_at": "2026-08-21T20:24:35Z",
+      "description": "Chat with your friends via Cloudflare cache hits",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "beescuit"
     },
     {
       "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
@@ -3165,6 +3180,21 @@
       "user": "lanicer"
     },
     {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 446,
+      "user": "Zyrexnn"
+    },
+    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -3426,36 +3456,6 @@
       "user": "pabs3"
     },
     {
-      "title": "vvxw/deploy-vercel - Install Command：npm install",
-      "url": "https://github.com/vvxw/deploy-vercel",
-      "published_at": "2026-08-18T13:25:45Z",
-      "description": "Install Command：npm install",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142342666?v=4",
-      "source": "GitHub",
-      "stars": 1299,
-      "user": "vvxw"
-    },
-    {
-      "title": "MeteorNOX/DeepSeek-Balance-Whale-Widget - DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "published_at": "2026-08-18T03:13:51Z",
-      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/247166461?v=4",
-      "source": "GitHub",
-      "stars": 866,
-      "user": "MeteorNOX"
-    },
-    {
       "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "url": "https://github.com/nateherkai/scroll-craft",
       "published_at": "2026-08-22T15:25:08Z",
@@ -3467,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 627,
+      "stars": 629,
       "user": "nateherkai"
     },
     {
@@ -3486,34 +3486,49 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "only-cli/oc - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-      "url": "https://github.com/only-cli/oc",
-      "published_at": "2026-08-18T13:00:30Z",
-      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "title": "GamePhanes/GamePhanes - An open-source game coding agent environment and benchmark for Godot.",
+      "url": "https://github.com/GamePhanes/GamePhanes",
+      "published_at": "2026-08-21T02:57:42Z",
+      "description": "An open-source game coding agent environment and benchmark for Godot.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318230108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 283,
-      "user": "only-cli"
+      "stars": 234,
+      "user": "GamePhanes"
     },
     {
-      "title": "wang2122/sprix-sage-router - Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "published_at": "2026-08-18T04:08:11Z",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "title": "kunchenguid/backpass - You don't write AGENTS.md. You train it with gradient descent.",
+      "url": "https://github.com/kunchenguid/backpass",
+      "published_at": "2026-08-21T21:12:31Z",
+      "description": "You don't write AGENTS.md. You train it with gradient descent.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/78741078?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 1756,
-      "user": "wang2122"
+      "stars": 208,
+      "user": "kunchenguid"
+    },
+    {
+      "title": "thiagotigaz/ocr-it - Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "published_at": "2026-08-21T07:20:39Z",
+      "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
+      "source": "GitHub",
+      "stars": 195,
+      "user": "thiagotigaz"
     },
     {
       "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
@@ -3546,21 +3561,6 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "amirh00sain/SpiderPanel - GitHub Repository",
-      "url": "https://github.com/amirh00sain/SpiderPanel",
-      "published_at": "2026-08-18T15:30:17Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/318304801?v=4",
-      "source": "GitHub",
-      "stars": 679,
-      "user": "amirh00sain"
-    },
-    {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
       "url": "https://github.com/lanicer/cve-2026-41940-PoC",
       "published_at": "2026-08-19T12:46:46Z",
@@ -3574,6 +3574,36 @@
       "source": "GitHub",
       "stars": 528,
       "user": "lanicer"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 484,
+      "user": "xdreizein666"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 446,
+      "user": "Zyrexnn"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -3606,21 +3636,6 @@
       "user": "jsongmax"
     },
     {
-      "title": "lxcshine/zilan - 知澜 — 知识汇聚成澜：RAG、Agent 推理与自动Wiki一体化的智能知识中枢",
-      "url": "https://github.com/lxcshine/zilan",
-      "published_at": "2026-08-18T13:38:59Z",
-      "description": "知澜 — 知识汇聚成澜：RAG、Agent 推理与自动Wiki一体化的智能知识中枢",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97235189?v=4",
-      "source": "GitHub",
-      "stars": 65,
-      "user": "lxcshine"
-    },
-    {
       "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
       "url": "https://github.com/mindsdb/setfree",
       "published_at": "2026-08-20T14:09:52Z",
@@ -3651,6 +3666,21 @@
       "user": "mattn"
     },
     {
+      "title": "thomassolcia/DiscordGoLiveBypass - Abra seu Discord por um IP fora do Brasil, devolvendo o Go Live, a câmera e a transmissão de tela.",
+      "url": "https://github.com/thomassolcia/DiscordGoLiveBypass",
+      "published_at": "2026-08-19T02:18:02Z",
+      "description": "Abra seu Discord por um IP fora do Brasil, devolvendo o Go Live, a câmera e a transmissão de tela.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/61297439?v=4",
+      "source": "GitHub",
+      "stars": 44,
+      "user": "thomassolcia"
+    },
+    {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "published_at": "2026-08-23T20:53:01Z",
@@ -3662,7 +3692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1655,
+      "stars": 1670,
       "user": "b-nnett"
     },
     {
@@ -3707,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 318,
       "user": "kgoedecke"
     },
     {
@@ -3722,7 +3752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 287,
       "user": "rome-os"
     },
     {
@@ -3737,38 +3767,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1041,
+      "stars": 1042,
       "user": "tobi"
-    },
-    {
-      "title": "iAmCorey/Wake - Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "url": "https://github.com/iAmCorey/Wake",
-      "published_at": "2026-08-18T09:46:23Z",
-      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/33424334?v=4",
-      "source": "GitHub",
-      "stars": 585,
-      "user": "iAmCorey"
-    },
-    {
-      "title": "furkankly/zoetrope - Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-      "url": "https://github.com/furkankly/zoetrope",
-      "published_at": "2026-08-18T10:48:39Z",
-      "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30751755?v=4",
-      "source": "GitHub",
-      "stars": 405,
-      "user": "furkankly"
     },
     {
       "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
@@ -3797,8 +3797,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 153,
       "user": "truespar"
+    },
+    {
+      "title": "benja/ask - Ask, then do. Follow up when you need to.",
+      "url": "https://github.com/benja/ask",
+      "published_at": "2026-08-22T20:14:12Z",
+      "description": "Ask, then do. Follow up when you need to.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
+      "source": "GitHub",
+      "stars": 90,
+      "user": "benja"
+    },
+    {
+      "title": "beescuit/chatflare - Chat with your friends via Cloudflare cache hits",
+      "url": "https://github.com/beescuit/chatflare",
+      "published_at": "2026-08-21T20:24:35Z",
+      "description": "Chat with your friends via Cloudflare cache hits",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16190825?v=4",
+      "source": "GitHub",
+      "stars": 85,
+      "user": "beescuit"
     },
     {
       "title": "Routeup – stable local HTTPS URLs and opt-in public tunnels",
