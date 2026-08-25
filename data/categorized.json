@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 661,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "kunchenguid"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 847,
       "user": "cclank"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "ShadowAqueduct"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 467,
       "user": "Zyrexnn"
     },
     {
@@ -835,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 426,
       "user": "amagine-ai"
     },
     {
@@ -850,8 +850,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "kgoedecke"
+    },
+    {
+      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "url": "https://github.com/truespar/sentio",
+      "published_at": "2026-08-23T21:36:25Z",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "source": "GitHub",
+      "stars": 170,
+      "user": "truespar"
     },
     {
       "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
@@ -867,21 +882,6 @@
       "source": "GitHub",
       "stars": 166,
       "user": "josiah-nelson"
-    },
-    {
-      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "url": "https://github.com/truespar/sentio",
-      "published_at": "2026-08-23T21:36:25Z",
-      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "truespar"
     },
     {
       "title": "I cannot survive from burnout",
@@ -964,6 +964,22 @@
       "user": "F Cameron"
     },
     {
+      "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
+      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "published_at": "2026-08-25T03:30:00.000Z",
+      "description": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "Exclusive",
+        "DoorDash",
+        "Lachy Groom"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "published_at": "2026-08-25T00:23:12.000Z",
@@ -1039,21 +1055,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "published_at": "2026-08-24T18:03:55.000Z",
-      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "tags": [
-        "AI",
-        "Privacy",
-        "Security",
-        "AI assistants"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Referral-Aware Split Payment Flows in Django",
@@ -1447,7 +1448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 661,
       "user": "nateherkai"
     },
     {
@@ -1492,7 +1493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "kunchenguid"
     },
     {
@@ -1537,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1877,
+      "stars": 1944,
       "user": "b-nnett"
     },
     {
@@ -1567,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 426,
       "user": "amagine-ai"
     },
     {
@@ -1582,7 +1583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "kgoedecke"
     },
     {
@@ -1597,7 +1598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "rome-os"
     },
     {
@@ -1947,7 +1948,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 847,
       "user": "cclank"
     },
     {
@@ -1962,7 +1963,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "ShadowAqueduct"
     },
     {
@@ -1992,7 +1993,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "xdreizein666"
     },
     {
@@ -2007,7 +2008,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 467,
       "user": "Zyrexnn"
     },
     {
@@ -2027,7 +2028,7 @@
       "title": "Why is math.sqrt() returning value error?",
       "url": "https://stackoverflow.com/questions/79997883/why-is-math-sqrt-returning-value-error",
       "published_at": "2026-08-24T19:26:46.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
@@ -2533,7 +2534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "ShadowAqueduct"
     },
     {
@@ -2684,7 +2685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "xdreizein666"
     },
     {
@@ -3190,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 467,
       "user": "Zyrexnn"
     },
     {
@@ -3251,21 +3252,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lorenzo Franceschi-Bicchierai"
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "published_at": "2026-08-24T18:03:55.000Z",
-      "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "tags": [
-        "AI",
-        "Privacy",
-        "Security",
-        "AI assistants"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     }
   ],
   "Tools": [
@@ -3466,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 650,
+      "stars": 661,
       "user": "nateherkai"
     },
     {
@@ -3511,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 216,
       "user": "kunchenguid"
     },
     {
@@ -3541,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 844,
+      "stars": 847,
       "user": "cclank"
     },
     {
@@ -3556,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 775,
       "user": "ShadowAqueduct"
     },
     {
@@ -3586,7 +3572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 485,
       "user": "xdreizein666"
     },
     {
@@ -3601,7 +3587,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 467,
       "user": "Zyrexnn"
     },
     {
@@ -3691,7 +3677,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1877,
+      "stars": 1944,
       "user": "b-nnett"
     },
     {
@@ -3721,7 +3707,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 426,
       "user": "amagine-ai"
     },
     {
@@ -3736,7 +3722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 328,
       "user": "kgoedecke"
     },
     {
@@ -3751,7 +3737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 296,
+      "stars": 298,
       "user": "rome-os"
     },
     {
@@ -3766,8 +3752,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1090,
+      "stars": 1106,
       "user": "tobi"
+    },
+    {
+      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "url": "https://github.com/truespar/sentio",
+      "published_at": "2026-08-23T21:36:25Z",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "source": "GitHub",
+      "stars": 170,
+      "user": "truespar"
     },
     {
       "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
@@ -3785,21 +3786,6 @@
       "user": "josiah-nelson"
     },
     {
-      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "url": "https://github.com/truespar/sentio",
-      "published_at": "2026-08-23T21:36:25Z",
-      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
-      "source": "GitHub",
-      "stars": 163,
-      "user": "truespar"
-    },
-    {
       "title": "benja/ask - Ask, then do. Follow up when you need to.",
       "url": "https://github.com/benja/ask",
       "published_at": "2026-08-22T20:14:12Z",
@@ -3811,7 +3797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
       "source": "GitHub",
-      "stars": 90,
+      "stars": 91,
       "user": "benja"
     },
     {
