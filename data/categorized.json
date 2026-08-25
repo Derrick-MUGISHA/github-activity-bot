@@ -46,6 +46,21 @@
       "user": "Matthew Revell"
     },
     {
+      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
+      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
+      "published_at": "2026-08-25T17:04:18Z",
+      "description": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
+      "tags": [
+        "ai",
+        "mongodb",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png",
+      "source": "Dev.to",
+      "user": "Jordan Smith"
+    },
+    {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
       "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
       "published_at": "2026-08-25T03:18:30Z",
@@ -656,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 860,
       "user": "nateherkai"
     },
     {
@@ -686,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 317,
       "user": "kunchenguid"
     },
     {
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 907,
       "user": "cclank"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "Zyrexnn"
     },
     {
@@ -746,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 529,
       "user": "ApodexAI"
     },
     {
@@ -776,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "mattn"
     },
     {
@@ -836,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "kgoedecke"
     },
     {
@@ -885,7 +900,7 @@
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
       "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
       "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "mysql",
@@ -924,6 +939,20 @@
       "user": "F Cameron"
     },
     {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "published_at": "2026-08-25T19:03:47.000Z",
+      "description": "The company's new fundraising total now stands at $232 million.",
+      "tags": [
+        "AI",
+        "Stability AI",
+        "Stable Diffusion"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "published_at": "2026-08-25T17:50:33.000Z",
@@ -948,41 +977,11 @@
         "Accel",
         "AI design tools",
         "Gamma",
-        "presentaiton"
+        "Mergers and Acquisitions"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "published_at": "2026-08-25T14:46:32.000Z",
-      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "tags": [
-        "Security",
-        "TC",
-        "Apple",
-        "cybersecurity",
-        "iCloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "published_at": "2026-08-25T14:22:04.000Z",
-      "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "tags": [
-        "AI",
-        "Broadcom",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
     },
     {
       "title": "What Happens to a Medical Image Before and After a Model Sees It",
@@ -1215,21 +1214,6 @@
       "user": "Sarvar Nadaf"
     },
     {
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "url": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-      "published_at": "2026-07-28T10:50:54Z",
-      "description": "Every form I ever shipped before React 19 needed the same three pieces of state, and I wired them up...",
-      "tags": [
-        "react",
-        "webdev",
-        "javascript",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
-      "source": "Dev.to",
-      "user": "Shubhra Pokhariya"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1361,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 860,
       "user": "nateherkai"
     },
     {
@@ -1391,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 317,
       "user": "kunchenguid"
     },
     {
@@ -1436,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 529,
       "user": "ApodexAI"
     },
     {
@@ -1466,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2468,
+      "stars": 2477,
       "user": "b-nnett"
     },
     {
@@ -1511,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "kgoedecke"
     },
     {
@@ -1533,7 +1517,7 @@
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
       "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
       "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "mysql",
@@ -1557,21 +1541,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tanaki"
-    },
-    {
-      "title": "Cannot find native binding",
-      "url": "https://stackoverflow.com/questions/79998109/cannot-find-native-binding",
-      "published_at": "2026-08-25T13:20:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "electron",
-        "desktop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ayoub nfinif"
     },
     {
       "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
@@ -1601,6 +1570,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sahil Khurana"
+    },
+    {
+      "title": "Cannot find native binding",
+      "url": "https://stackoverflow.com/questions/79998109/cannot-find-native-binding",
+      "published_at": "2026-08-25T13:20:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "electron",
+        "desktop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ayoub nfinif"
     },
     {
       "title": "Behavioral issues when subscribing to the same WICG Observable multiple times",
@@ -1867,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 907,
       "user": "cclank"
     },
     {
@@ -1897,8 +1881,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "Zyrexnn"
+    },
+    {
+      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "published_at": "2026-08-22T05:07:35Z",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
+      "source": "GitHub",
+      "stars": 529,
+      "user": "ApodexAI"
     },
     {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
@@ -1916,19 +1915,16 @@
       "user": "lanicer"
     },
     {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "title": "The Move to Python 3 Begins",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "published_at": "2026-08-25T11:52:46.126-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "github",
-        "open-source"
+        "python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
-      "source": "GitHub",
-      "stars": 524,
-      "user": "ApodexAI"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "rmpr"
     },
     {
       "title": "Track and completely undo software installation changes on Debian",
@@ -2280,7 +2276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 529,
       "user": "ApodexAI"
     },
     {
@@ -2804,22 +2800,6 @@
       "user": "SAFAA LHAKKAOUI"
     },
     {
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "published_at": "2026-08-25T14:46:32.000Z",
-      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "tags": [
-        "Security",
-        "TC",
-        "Apple",
-        "cybersecurity",
-        "iCloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
       "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
       "published_at": "2026-08-22T03:00:00.000Z",
@@ -2837,6 +2817,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
+      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
+      "published_at": "2026-08-25T17:04:18Z",
+      "description": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
+      "tags": [
+        "ai",
+        "mongodb",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png",
+      "source": "Dev.to",
+      "user": "Jordan Smith"
+    },
     {
       "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
       "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
@@ -2895,7 +2890,7 @@
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
       "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
       "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "mysql",
@@ -3111,7 +3106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "Zyrexnn"
     },
     {
@@ -3187,22 +3182,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "published_at": "2026-08-25T14:46:32.000Z",
-      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "tags": [
-        "Security",
-        "TC",
-        "Apple",
-        "cybersecurity",
-        "iCloud"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3388,7 +3367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 846,
+      "stars": 860,
       "user": "nateherkai"
     },
     {
@@ -3418,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 317,
       "user": "kunchenguid"
     },
     {
@@ -3463,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 907,
       "user": "cclank"
     },
     {
@@ -3493,8 +3472,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 538,
       "user": "Zyrexnn"
+    },
+    {
+      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "published_at": "2026-08-22T05:07:35Z",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
+      "source": "GitHub",
+      "stars": 529,
+      "user": "ApodexAI"
     },
     {
       "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
@@ -3510,21 +3504,6 @@
       "source": "GitHub",
       "stars": 528,
       "user": "lanicer"
-    },
-    {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
-      "source": "GitHub",
-      "stars": 524,
-      "user": "ApodexAI"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -3568,7 +3547,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "mattn"
     },
     {
@@ -3613,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2468,
+      "stars": 2477,
       "user": "b-nnett"
     },
     {
@@ -3658,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 356,
       "user": "kgoedecke"
     },
     {
@@ -3688,7 +3667,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1468,
+      "stars": 1477,
       "user": "tobi"
     },
     {
@@ -3733,7 +3712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 109,
       "user": "dragthelake"
     },
     {
@@ -3776,7 +3755,7 @@
         "Accel",
         "AI design tools",
         "Gamma",
-        "presentaiton"
+        "Mergers and Acquisitions"
       ],
       "cover_image": null,
       "source": "TechCrunch",
