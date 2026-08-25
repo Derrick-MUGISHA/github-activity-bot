@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "What Do You Do While AI Codes?",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "published_at": "2026-08-25T13:36:11Z",
+      "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+      "tags": [
+        "discuss",
+        "ai",
+        "productivity",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
       "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
       "published_at": "2026-08-25T07:00:00Z",
@@ -134,21 +149,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
-    },
-    {
       "title": "I Write Less Code Than I Used To. That May Be the Point.",
       "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
       "published_at": "2026-08-19T11:08:16Z",
@@ -162,6 +162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
@@ -477,50 +492,6 @@
       "user": "xbill"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Designing AI Evals: Clarity Now and Visualization Next",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "published_at": "2026-08-18T07:00:00Z",
-      "description": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -700,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 802,
       "user": "nateherkai"
     },
     {
@@ -730,8 +701,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 292,
       "user": "kunchenguid"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 898,
+      "user": "cclank"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "ShadowAqueduct"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 523,
+      "user": "Zyrexnn"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -775,8 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "mattn"
+    },
+    {
+      "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "published_at": "2026-08-19T15:31:34Z",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
+      "source": "GitHub",
+      "stars": 534,
+      "user": "amagine-ai"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -794,21 +825,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
-      "url": "https://github.com/amagine-ai/Amagine3D",
-      "published_at": "2026-08-19T15:31:34Z",
-      "description": "Amagine3D: From hardware requirements to editable 3D designs",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
-      "source": "GitHub",
-      "stars": 510,
-      "user": "amagine-ai"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -820,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "kgoedecke"
     },
     {
@@ -895,7 +911,7 @@
       "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
+      "description": "Stack Overflow question · 1 answers · score -11",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -906,15 +922,77 @@
       "user": "F Cameron"
     },
     {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "published_at": "2026-08-25T15:00:00.000Z",
+      "description": "Lica co-founders are going to work on Gamma's new research team.",
+      "tags": [
+        "AI",
+        "Accel",
+        "presentaiton",
+        "Gamma",
+        "AI design tools"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "published_at": "2026-08-25T14:46:32.000Z",
+      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
+      "tags": [
+        "Security",
+        "TC",
+        "Apple",
+        "cybersecurity",
+        "iCloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "published_at": "2026-08-25T14:22:04.000Z",
+      "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "tags": [
+        "AI",
+        "Broadcom",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "published_at": "2026-08-25T14:00:00.000Z",
+      "description": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+      "tags": [
+        "Fundraising",
+        "Transportation",
+        "autonomous vehicles",
+        "gatik",
+        "Gatik AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "Accel-backed Keenable is indexing the web for AI agents",
       "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
       "published_at": "2026-08-25T13:00:00.000Z",
       "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
       "tags": [
-        "Startups",
         "AI",
         "Fundraising",
-        "Yandex",
+        "Startups",
+        "AI agents",
         "Exclusive"
       ],
       "cover_image": null,
@@ -935,60 +1013,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-      "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-      "published_at": "2026-08-25T12:37:37.000Z",
-      "description": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
-      "tags": [
-        "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "published_at": "2026-08-25T12:00:00.000Z",
-      "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "tags": [
-        "AI",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
-      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-      "published_at": "2026-08-25T03:30:00.000Z",
-      "description": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
-      "tags": [
-        "Startups",
-        "Transportation",
-        "Airbound",
-        "DoorDash",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "published_at": "2026-08-25T00:23:12.000Z",
-      "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "tags": [
-        "AI",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "What Happens to a Medical Image Before and After a Model Sees It",
@@ -1118,6 +1142,36 @@
       "user": "Gamya "
     },
     {
+      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
+      "published_at": "2026-08-11T14:40:56Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "react",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
+      "source": "Dev.to",
+      "user": "Pooja Bhavani"
+    },
+    {
+      "title": "State Management in Front-end Web Development: Mutators",
+      "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+      "published_at": "2026-08-19T21:29:49Z",
+      "description": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
+      "tags": [
+        "webdev",
+        "react",
+        "vue",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png",
+      "source": "Dev.to",
+      "user": "Abbey Perini"
+    },
+    {
       "title": "Functional languages are heavily imperative.",
       "url": "https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1",
       "published_at": "2026-08-17T07:39:18Z",
@@ -1220,21 +1274,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hfxap7zdbxbm9eafyz2.png",
       "source": "Dev.to",
       "user": "Shubhra Pokhariya"
-    },
-    {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1368,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 802,
       "user": "nateherkai"
     },
     {
@@ -1398,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 292,
       "user": "kunchenguid"
     },
     {
@@ -1458,8 +1497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2351,
+      "stars": 2371,
       "user": "b-nnett"
+    },
+    {
+      "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "published_at": "2026-08-19T15:31:34Z",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
+      "source": "GitHub",
+      "stars": 534,
+      "user": "amagine-ai"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -1477,21 +1531,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
-      "url": "https://github.com/amagine-ai/Amagine3D",
-      "published_at": "2026-08-19T15:31:34Z",
-      "description": "Amagine3D: From hardware requirements to editable 3D designs",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
-      "source": "GitHub",
-      "stars": 510,
-      "user": "amagine-ai"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -1503,7 +1542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "kgoedecke"
     },
     {
@@ -1518,8 +1557,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "rome-os"
+    },
+    {
+      "title": "What's wrong with Js copying strings",
+      "url": "https://stackoverflow.com/questions/79998126/whats-wrong-with-js-copying-strings",
+      "published_at": "2026-08-25T14:19:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "string",
+        "debugging",
+        "copy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tanaki"
     },
     {
       "title": "Cannot find native binding",
@@ -1652,21 +1706,6 @@
       "user": "user28224355"
     },
     {
-      "title": "React application performance degrades as the codebase scales how should we prevent unnecessary re-renders?",
-      "url": "https://stackoverflow.com/questions/79997780/react-application-performance-degrades-as-the-codebase-scales-how-should-we-prev",
-      "published_at": "2026-08-24T12:32:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sahil Khurana"
-    },
-    {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
       "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
       "published_at": "2026-08-24T14:03:04.000Z",
@@ -1728,35 +1767,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Designing AI Evals: Clarity Now and Visualization Next",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "published_at": "2026-08-18T07:00:00Z",
-      "description": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "url": "https://dev.to/gde/dev-logpython-create-short-videos-from-photos-and-clips-with-gemini-37-flash-reelcraft-1gc6",
-      "published_at": "2026-08-14T16:55:48Z",
-      "description": "Preface:   It all started with a misunderstanding.  I noticed a new page in the Gemini API...",
-      "tags": [
-        "ai",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7mbo2bfkglblo44jev8w.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1879,17 +1889,93 @@
       "user": "arathore"
     },
     {
-      "title": "Ring coupler issue in Python",
-      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
-      "published_at": "2026-08-25T12:06:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
       "tags": [
         "python",
-        "dictionary"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 898,
+      "user": "cclank"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "ShadowAqueduct"
+    },
+    {
+      "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "published_at": "2026-08-19T12:46:46Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18703401?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "lanicer"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 523,
+      "user": "Zyrexnn"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "xdreizein666"
+    },
+    {
+      "title": "Track and completely undo software installation changes on Debian",
+      "url": "https://stackoverflow.com/questions/79998129/track-and-completely-undo-software-installation-changes-on-debian",
+      "published_at": "2026-08-25T14:36:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "linux",
+        "debian"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "HAdes"
+      "user": "shahabgeek"
     },
     {
       "title": "django.db.utils.NotSupportedError: MariaDB 10.11 or later is required (found 10.6.22)",
@@ -1904,6 +1990,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pierre"
+    },
+    {
+      "title": "Ring coupler issue in Python",
+      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
+      "published_at": "2026-08-25T12:06:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HAdes"
     },
     {
       "title": "Access difference for HTTP request",
@@ -1965,7 +2064,7 @@
       "title": "Does Python's linecache read the entire file into memory or is an AI assistant correct when it claims the opposite?",
       "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-or-is-an-ai-assistant-c",
       "published_at": "2026-08-24T11:18:06.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
+      "description": "Stack Overflow question · 1 answers · score -11",
       "tags": [
         "python",
         "artificial-intelligence",
@@ -1990,22 +2089,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "How to extract valid Python code from .ipynb cells",
-      "url": "https://stackoverflow.com/questions/79997840/how-to-extract-valid-python-code-from-ipynb-cells",
-      "published_at": "2026-08-24T16:11:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "parsing",
-        "jupyter-notebook",
-        "abstract-syntax-tree",
-        "ipynb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ArianNa"
     },
     {
       "title": "Dataframe sorting and column count",
@@ -2237,6 +2320,21 @@
   ],
   "WebDev": [
     {
+      "title": "comiCSS #255: Yellow",
+      "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj",
+      "published_at": "2026-08-24T23:10:34Z",
+      "description": "comiCSS cartoon for August 24, 2026",
+      "tags": [
+        "css",
+        "webdev",
+        "watercooler",
+        "humor"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8kj845st0ugfjtptp9h.png",
+      "source": "Dev.to",
+      "user": "Alvaro Montoro"
+    },
+    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -2276,6 +2374,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "State Management in Front-end Web Development: Mutators",
+      "url": "https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp",
+      "published_at": "2026-08-19T21:29:49Z",
+      "description": "Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...",
+      "tags": [
+        "webdev",
+        "react",
+        "vue",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png",
+      "source": "Dev.to",
+      "user": "Abbey Perini"
     },
     {
       "title": "Learn how to build a disclosure component using the native HTML details tag",
@@ -2347,6 +2460,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "ShadowAqueduct"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -2471,19 +2599,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "url": "https://dev.to/gde/dart-313-primary-constructors-blocsignal-boilerplate-free-reactive-architecture-5fll",
-      "published_at": "2026-08-14T02:57:56Z",
-      "description": "Discover how Dart 3.13 primary constructors, 'this' constructor bodies, and constructor shorthands transform BlocSignal into the cleanest state management architecture in Flutter.",
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
       "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "programming"
+        "python",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5vl21659gefkqgabeqk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "xdreizein666"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -2634,21 +2762,6 @@
       "user": "xbill"
     },
     {
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "url": "https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci",
-      "published_at": "2026-08-13T18:42:09Z",
-      "description": "A field report on serving Gemma 4 E2B under vLLM on AWS G5g — the only aarch64 + SM 7.5 hardware there is. No published build covers that combination, AWS quietly solves half of it, and the thing that actually blocks you is 64 KiB of shared memory.",
-      "tags": [
-        "aws",
-        "vllm",
-        "cuda",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fesx30yds31pcu83y27qz.png",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "mrhlaingbwardev/Telegram-Secure-Storage-Bot - A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
       "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
       "published_at": "2026-08-19T16:25:27Z",
@@ -2694,6 +2807,22 @@
       "user": "SAFAA LHAKKAOUI"
     },
     {
+      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "published_at": "2026-08-25T14:46:32.000Z",
+      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
+      "tags": [
+        "Security",
+        "TC",
+        "Apple",
+        "cybersecurity",
+        "iCloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
       "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
       "published_at": "2026-08-22T03:00:00.000Z",
@@ -2711,6 +2840,21 @@
     }
   ],
   "Database": [
+    {
+      "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
+      "url": "https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li",
+      "published_at": "2026-08-11T14:40:56Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...",
+      "tags": [
+        "devchallenge",
+        "bugsmash",
+        "react",
+        "devbugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg",
+      "source": "Dev.to",
+      "user": "Pooja Bhavani"
+    },
     {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
@@ -2959,6 +3103,36 @@
       "user": "ewenjo"
     },
     {
+      "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "published_at": "2026-08-19T12:46:46Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18703401?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "lanicer"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 523,
+      "user": "Zyrexnn"
+    },
+    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -2989,6 +3163,22 @@
       "user": "Toniq"
     },
     {
+      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "published_at": "2026-08-25T14:46:32.000Z",
+      "description": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
+      "tags": [
+        "Security",
+        "TC",
+        "Apple",
+        "cybersecurity",
+        "iCloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "WhatsApp tightens account security with stronger two-step verification and more",
       "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
       "published_at": "2026-08-25T13:00:00.000Z",
@@ -3004,6 +3194,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "What Do You Do While AI Codes?",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "published_at": "2026-08-25T13:36:11Z",
+      "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+      "tags": [
+        "discuss",
+        "ai",
+        "productivity",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
@@ -3035,21 +3240,6 @@
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
-      "published_at": "2026-08-13T06:43:24Z",
-      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "gatekeeper"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
-      "source": "Dev.to",
-      "user": "Debashish Ghosal"
-    },
-    {
       "title": "I Write Less Code Than I Used To. That May Be the Point.",
       "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
       "published_at": "2026-08-19T11:08:16Z",
@@ -3063,6 +3253,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
+      "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
+      "published_at": "2026-08-13T06:43:24Z",
+      "description": "Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "gatekeeper"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
+      "source": "Dev.to",
+      "user": "Debashish Ghosal"
     },
     {
       "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
@@ -3124,21 +3329,6 @@
       "user": "Viorel PETCU"
     },
     {
-      "title": "Designing AI Evals: Clarity Now and Visualization Next",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "published_at": "2026-08-18T07:00:00Z",
-      "description": "AI evals and analysis   Let's say you're testing out new AI tools. Perhaps you implement and...",
-      "tags": [
-        "ai",
-        "llm",
-        "python",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlse5up3kqxu6ma8err7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3186,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 802,
       "user": "nateherkai"
     },
     {
@@ -3216,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 292,
       "user": "kunchenguid"
     },
     {
@@ -3248,6 +3438,81 @@
       "source": "GitHub",
       "stars": 219,
       "user": "thiagotigaz"
+    },
+    {
+      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "published_at": "2026-08-20T13:40:06Z",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
+      "source": "GitHub",
+      "stars": 898,
+      "user": "cclank"
+    },
+    {
+      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "published_at": "2026-08-23T21:14:28Z",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
+      "source": "GitHub",
+      "stars": 789,
+      "user": "ShadowAqueduct"
+    },
+    {
+      "title": "lanicer/cve-2026-41940-PoC - A cPanel and WHM authentication bypassing tool",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "published_at": "2026-08-19T12:46:46Z",
+      "description": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/18703401?v=4",
+      "source": "GitHub",
+      "stars": 528,
+      "user": "lanicer"
+    },
+    {
+      "title": "Zyrexnn/Cybermes - Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "published_at": "2026-08-19T13:25:08Z",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
+      "source": "GitHub",
+      "stars": 523,
+      "user": "Zyrexnn"
+    },
+    {
+      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "published_at": "2026-08-20T03:45:11Z",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "source": "GitHub",
+      "stars": 485,
+      "user": "xdreizein666"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -3306,7 +3571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 52,
+      "stars": 53,
       "user": "mattn"
     },
     {
@@ -3336,8 +3601,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2351,
+      "stars": 2371,
       "user": "b-nnett"
+    },
+    {
+      "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "published_at": "2026-08-19T15:31:34Z",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
+      "source": "GitHub",
+      "stars": 534,
+      "user": "amagine-ai"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -3355,21 +3635,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "amagine-ai/Amagine3D - Amagine3D: From hardware requirements to editable 3D designs",
-      "url": "https://github.com/amagine-ai/Amagine3D",
-      "published_at": "2026-08-19T15:31:34Z",
-      "description": "Amagine3D: From hardware requirements to editable 3D designs",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/285729589?v=4",
-      "source": "GitHub",
-      "stars": 510,
-      "user": "amagine-ai"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -3381,7 +3646,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "kgoedecke"
     },
     {
@@ -3396,7 +3661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 313,
       "user": "rome-os"
     },
     {
@@ -3411,7 +3676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1401,
+      "stars": 1426,
       "user": "tobi"
     },
     {
@@ -3456,7 +3721,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 97,
       "user": "dragthelake"
     },
     {
@@ -3471,8 +3736,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 95,
       "user": "benja"
+    },
+    {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "published_at": "2026-08-25T15:00:00.000Z",
+      "description": "Lica co-founders are going to work on Gamma's new research team.",
+      "tags": [
+        "AI",
+        "Accel",
+        "presentaiton",
+        "Gamma",
+        "AI design tools"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Andy Dunn&#8217;s startup Pie becomes less of an events app and more of a social network",
