@@ -18,7 +18,7 @@
     "Mobile": 11,
     "Cloud": 12,
     "Database": 5,
-    "Security": 20,
+    "Security": 19,
     "Tools": 41
   },
   "by_language": {
@@ -125,7 +125,7 @@
     "flutter": 6,
     "rust": 6,
     "typescript": 6,
-    "vibecoding": 6
+    "go": 6
   },
   "trending_topics": [],
   "language_percentages": {
