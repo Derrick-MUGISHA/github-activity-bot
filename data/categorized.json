@@ -685,7 +685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "nateherkai"
     },
     {
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 220,
       "user": "kunchenguid"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 850,
       "user": "cclank"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "ShadowAqueduct"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 474,
       "user": "Zyrexnn"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "mattn"
     },
     {
@@ -850,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "kgoedecke"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 174,
       "user": "truespar"
     },
     {
@@ -1449,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "nateherkai"
     },
     {
@@ -1494,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 220,
       "user": "kunchenguid"
     },
     {
@@ -1509,7 +1509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "thiagotigaz"
     },
     {
@@ -1539,7 +1539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1977,
+      "stars": 2016,
       "user": "b-nnett"
     },
     {
@@ -1584,7 +1584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "kgoedecke"
     },
     {
@@ -1599,14 +1599,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "rome-os"
     },
     {
       "title": "WICG `Observable`: Behavioral issues when subscribing to the same Observable multiple times",
       "url": "https://stackoverflow.com/questions/79997958/wicg-observable-behavioral-issues-when-subscribing-to-the-same-observable-mul",
       "published_at": "2026-08-25T03:30:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "observable"
@@ -1949,7 +1949,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 850,
       "user": "cclank"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "ShadowAqueduct"
     },
     {
@@ -2009,7 +2009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 474,
       "user": "Zyrexnn"
     },
     {
@@ -2082,6 +2082,20 @@
       "user": "F Cameron"
     },
     {
+      "title": "How to restrict clickable area to Button",
+      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
+      "published_at": "2026-08-24T12:47:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "html",
+        "plotly-dash"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cph_sto"
+    },
+    {
       "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
       "url": "https://stackoverflow.com/questions/79997799/how-to-give-a-font-to-a-option-in-a-python-tkinter-ttk-combobox",
       "published_at": "2026-08-24T13:38:19.000Z",
@@ -2096,20 +2110,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Zeubollisk Wu"
-    },
-    {
-      "title": "How to restrict clickable area to Button",
-      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
-      "published_at": "2026-08-24T12:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "html",
-        "plotly-dash"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cph_sto"
     },
     {
       "title": "Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda",
@@ -2520,7 +2520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "ShadowAqueduct"
     },
     {
@@ -3177,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 474,
       "user": "Zyrexnn"
     },
     {
@@ -3438,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 669,
+      "stars": 673,
       "user": "nateherkai"
     },
     {
@@ -3483,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 220,
       "user": "kunchenguid"
     },
     {
@@ -3498,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "thiagotigaz"
     },
     {
@@ -3513,7 +3513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 848,
+      "stars": 850,
       "user": "cclank"
     },
     {
@@ -3528,7 +3528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 777,
       "user": "ShadowAqueduct"
     },
     {
@@ -3573,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/177414770?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 474,
       "user": "Zyrexnn"
     },
     {
@@ -3633,7 +3633,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10111?v=4",
       "source": "GitHub",
-      "stars": 47,
+      "stars": 48,
       "user": "mattn"
     },
     {
@@ -3663,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 1977,
+      "stars": 2016,
       "user": "b-nnett"
     },
     {
@@ -3708,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 329,
+      "stars": 331,
       "user": "kgoedecke"
     },
     {
@@ -3723,7 +3723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 300,
       "user": "rome-os"
     },
     {
@@ -3738,7 +3738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1126,
+      "stars": 1155,
       "user": "tobi"
     },
     {
@@ -3753,7 +3753,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 174,
       "user": "truespar"
     },
     {
