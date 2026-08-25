@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 879,
       "user": "nateherkai"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 537,
       "user": "ApodexAI"
     },
     {
@@ -851,7 +851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "kgoedecke"
     },
     {
@@ -1358,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 879,
       "user": "nateherkai"
     },
     {
@@ -1403,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 254,
       "user": "GamePhanes"
     },
     {
@@ -1418,7 +1418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "thiagotigaz"
     },
     {
@@ -1433,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 537,
       "user": "ApodexAI"
     },
     {
@@ -1463,7 +1463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2502,
       "user": "b-nnett"
     },
     {
@@ -1508,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "kgoedecke"
     },
     {
@@ -1655,19 +1655,20 @@
       "user": "Samuel Bond"
     },
     {
-      "title": "XMLHttpRequest to php and fake parameters",
-      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
-      "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
+      "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
+      "published_at": "2026-08-23T15:00:49.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
-        "php",
-        "security",
-        "xmlhttprequest"
+        "node.js",
+        "performance",
+        "bitwise-operators",
+        "v8"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Toniq"
+      "user": "user28224355"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1909,7 +1910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 537,
       "user": "ApodexAI"
     },
     {
@@ -2289,7 +2290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 537,
       "user": "ApodexAI"
     },
     {
@@ -2307,22 +2308,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Purity Udeh"
-    },
-    {
-      "title": "How to Host Odoo: Self-Hosted vs Managed Hosting",
-      "url": "https://www.freecodecamp.org/news/how-to-host-odoo/",
-      "published_at": "2026-08-21T17:21:22.000Z",
-      "description": "Odoo is an open-source enterprise resource planning (ERP) platform that helps businesses manage operations such as sales, customer relationship management (CRM), inventory, accounting, human resources",
-      "tags": [
-        "Odoo",
-        "self-hosted",
-        "Devops",
-        "Linux",
-        "Open Source"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Abdul Talha"
     }
   ],
   "WebDev": [
@@ -2482,6 +2467,22 @@
       "source": "GitHub",
       "stars": 790,
       "user": "ShadowAqueduct"
+    },
+    {
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "published_at": "2026-08-25T20:44:12.000Z",
+      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+      "tags": [
+        "Apps",
+        "Social",
+        "api",
+        "developers",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -2888,18 +2889,6 @@
       "user": "mrhlaingbwardev"
     },
     {
-      "title": "Solving the 1+N query problem",
-      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-      "published_at": "2026-08-25T03:25:23.534-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "giacomo_cavalieri"
-    },
-    {
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
       "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
       "published_at": "2026-08-25T16:28:43.000Z",
@@ -3181,21 +3170,6 @@
       "user": "retr0id"
     },
     {
-      "title": "XMLHttpRequest to php and fake parameters",
-      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
-      "published_at": "2026-08-24T07:16:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "php",
-        "security",
-        "xmlhttprequest"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Toniq"
-    },
-    {
       "title": "That fake Grand Theft Auto VI demo is actually just malware",
       "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
       "published_at": "2026-08-25T15:48:38.000Z",
@@ -3210,6 +3184,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
+    },
+    {
+      "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
+      "url": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
+      "published_at": "2026-08-25T18:22:13.000Z",
+      "description": "Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m \"Fix API integration\" git push A few minutes later, you notice some",
+      "tags": [
+        "Git",
+        "software development",
+        "api",
+        "GitHub",
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     }
   ],
   "Tools": [
@@ -3395,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 872,
+      "stars": 879,
       "user": "nateherkai"
     },
     {
@@ -3440,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 254,
       "user": "GamePhanes"
     },
     {
@@ -3455,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "thiagotigaz"
     },
     {
@@ -3515,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 537,
       "user": "ApodexAI"
     },
     {
@@ -3620,7 +3610,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2491,
+      "stars": 2502,
       "user": "b-nnett"
     },
     {
@@ -3665,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 359,
       "user": "kgoedecke"
     },
     {
@@ -3695,7 +3685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1489,
+      "stars": 1501,
       "user": "tobi"
     },
     {
@@ -3740,7 +3730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 111,
+      "stars": 112,
       "user": "dragthelake"
     },
     {
@@ -3759,6 +3749,19 @@
       "user": "benja"
     },
     {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "published_at": "2026-08-25T11:44:37.661-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "openbsd",
+        "unix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "wally"
+    },
+    {
       "title": "Waymo robotaxis are headed to Munich",
       "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
       "published_at": "2026-08-25T17:32:03.000Z",
@@ -3772,6 +3775,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
+    },
+    {
+      "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
+      "url": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
+      "published_at": "2026-08-25T18:22:13.000Z",
+      "description": "Imagine this: you're working late, your code finally works, and you're ready to push it to GitHub. You run: git add . git commit -m \"Fix API integration\" git push A few minutes later, you notice some",
+      "tags": [
+        "Git",
+        "software development",
+        "api",
+        "GitHub",
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "How to Test Conversational AI: A Practical Guide for QA Engineers",
