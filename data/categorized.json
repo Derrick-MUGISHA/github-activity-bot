@@ -357,21 +357,6 @@
       "user": "Mica"
     },
     {
-      "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
-      "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
-      "published_at": "2026-08-18T16:08:34Z",
-      "description": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
-      "tags": [
-        "ai",
-        "typescript",
-        "architecture",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftomsun28%2Fpizza%2Fmain%2Fresources%2Fpizza-desktop-white.png",
-      "source": "Dev.to",
-      "user": "tom"
-    },
-    {
       "title": "Catbot: Custom Grammar Problem Fixed",
       "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
       "published_at": "2026-08-01T16:03:02Z",
@@ -385,6 +370,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
+    },
+    {
+      "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
+      "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
+      "published_at": "2026-08-18T16:08:34Z",
+      "description": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
+      "tags": [
+        "ai",
+        "typescript",
+        "architecture",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftomsun28%2Fpizza%2Fmain%2Fresources%2Fpizza-desktop-white.png",
+      "source": "Dev.to",
+      "user": "tom"
     },
     {
       "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "kunchenguid"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "luke321"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "cclank"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 715,
       "user": "ApodexAI"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "kgoedecke"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 302,
       "user": "amosblomqvist"
     },
     {
@@ -1362,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "nateherkai"
     },
     {
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "kunchenguid"
     },
     {
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "thiagotigaz"
     },
     {
@@ -1422,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "luke321"
     },
     {
@@ -1437,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 715,
       "user": "ApodexAI"
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2612,
+      "stars": 2620,
       "user": "b-nnett"
     },
     {
@@ -1497,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "kgoedecke"
     },
     {
@@ -1512,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "rome-os"
     },
     {
@@ -1527,14 +1527,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 302,
       "user": "amosblomqvist"
     },
     {
       "title": "Link is active?",
       "url": "https://stackoverflow.com/questions/79998231/link-is-active",
       "published_at": "2026-08-25T23:29:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "dom"
@@ -1617,19 +1617,6 @@
       "user": "ayoub nfinif"
     },
     {
-      "title": "Behavioral issues when subscribing to the same WICG Observable multiple times",
-      "url": "https://stackoverflow.com/questions/79997958/behavioral-issues-when-subscribing-to-the-same-wicg-observable-multiple-times",
-      "published_at": "2026-08-25T03:30:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "observable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DisLido"
-    },
-    {
       "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
       "url": "https://stackoverflow.com/questions/79997810/cant-call-action-method-using-javascript-the-request-is-not-even-reaching-the-a",
       "published_at": "2026-08-24T14:18:12.000Z",
@@ -1643,6 +1630,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "abd klaib"
+    },
+    {
+      "title": "Behavioral issues when subscribing to the same WICG Observable multiple times",
+      "url": "https://stackoverflow.com/questions/79997958/behavioral-issues-when-subscribing-to-the-same-wicg-observable-multiple-times",
+      "published_at": "2026-08-25T03:30:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "observable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DisLido"
     },
     {
       "title": "How to make unique RGB color generator with incremental R, G, and B",
@@ -1869,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "cclank"
     },
     {
@@ -1899,7 +1899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 715,
       "user": "ApodexAI"
     },
     {
@@ -1929,7 +1929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 432,
       "user": "LB623"
     },
     {
@@ -1948,7 +1948,7 @@
       "title": "Can I use `@overload` to fix this typing issue?",
       "url": "https://stackoverflow.com/questions/79998254/can-i-use-overload-to-fix-this-typing-issue",
       "published_at": "2026-08-26T03:45:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "overloading",
@@ -2044,20 +2044,6 @@
       "user": "shahabgeek"
     },
     {
-      "title": "Access difference for HTTP request",
-      "url": "https://stackoverflow.com/questions/79998004/access-difference-for-http-request",
-      "published_at": "2026-08-25T08:03:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "httprequest",
-        "codebeamer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33063078"
-    },
-    {
       "title": "How to extract valid Python code from .ipynb cells",
       "url": "https://stackoverflow.com/questions/79997840/how-to-extract-valid-python-code-from-ipynb-cells",
       "published_at": "2026-08-24T16:11:02.000Z",
@@ -2072,6 +2058,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ArianNa"
+    },
+    {
+      "title": "Access difference for HTTP request",
+      "url": "https://stackoverflow.com/questions/79998004/access-difference-for-http-request",
+      "published_at": "2026-08-25T08:03:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "httprequest",
+        "codebeamer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33063078"
     },
     {
       "title": "How to restrict clickable area to Button",
@@ -2296,7 +2296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 715,
       "user": "ApodexAI"
     },
     {
@@ -2471,7 +2471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "luke321"
     },
     {
@@ -3328,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 928,
       "user": "nateherkai"
     },
     {
@@ -3343,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "kunchenguid"
     },
     {
@@ -3373,7 +3373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "thiagotigaz"
     },
     {
@@ -3388,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 153,
+      "stars": 154,
       "user": "luke321"
     },
     {
@@ -3403,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 933,
+      "stars": 934,
       "user": "cclank"
     },
     {
@@ -3433,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 715,
       "user": "ApodexAI"
     },
     {
@@ -3463,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 432,
       "user": "LB623"
     },
     {
@@ -3508,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 66,
       "user": "context-labs"
     },
     {
@@ -3553,7 +3553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2612,
+      "stars": 2620,
       "user": "b-nnett"
     },
     {
@@ -3583,7 +3583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "kgoedecke"
     },
     {
@@ -3598,7 +3598,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "rome-os"
     },
     {
@@ -3613,7 +3613,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 298,
+      "stars": 302,
       "user": "amosblomqvist"
     },
     {
@@ -3628,7 +3628,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1632,
+      "stars": 1643,
       "user": "tobi"
     },
     {
