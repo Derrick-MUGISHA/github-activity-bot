@@ -61,21 +61,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
-      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
-      "published_at": "2026-08-25T07:00:00Z",
-      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
-      "tags": [
-        "ai",
-        "llm",
-        "datascience",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
-      "source": "Dev.to",
-      "user": "Katie McLaughlin"
-    },
-    {
       "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
       "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
       "published_at": "2026-08-25T17:04:18Z",
@@ -136,19 +121,19 @@
       "user": "xbill"
     },
     {
-      "title": "The data is in: AI is how developers learn now",
-      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4",
-      "published_at": "2026-08-24T16:41:56Z",
-      "description": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
+      "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
+      "url": "https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki",
+      "published_at": "2026-08-25T07:00:00Z",
+      "description": "Visualizing AI evals with Inspect Viz   Welcome back to our blog series on running,...",
       "tags": [
         "ai",
-        "career",
-        "learning",
-        "programming"
+        "llm",
+        "datascience",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbsc65afzww03ohkvldr.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
-      "user": "Matthew Revell"
+      "user": "Katie McLaughlin"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -179,6 +164,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "The data is in: AI is how developers learn now",
+      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4",
+      "published_at": "2026-08-24T16:41:56Z",
+      "description": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
+      "tags": [
+        "ai",
+        "career",
+        "learning",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbsc65afzww03ohkvldr.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
     },
     {
       "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 998,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 411,
       "user": "kunchenguid"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 203,
       "user": "luke321"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "ApodexAI"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 798,
       "user": "ShadowAqueduct"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "kgoedecke"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 404,
       "user": "amosblomqvist"
     },
     {
@@ -866,6 +866,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "waddlesplash"
+    },
+    {
+      "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "published_at": "2026-08-26T13:38:11.747-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "stephenr"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
@@ -913,16 +925,75 @@
       "user": "Purujit Piyal Sana"
     },
     {
+      "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "published_at": "2026-08-26T19:37:34.000Z",
+      "description": "Consumer AI apps need to stop making users learn their product architecture.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "consumer apps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "How do we explain OpenAI&#8217;s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "published_at": "2026-08-26T19:34:04.000Z",
+      "description": "Was Greg Brockman the right executive all along?",
+      "tags": [
+        "AI",
+        "greg brockman",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "published_at": "2026-08-26T19:05:22.000Z",
+      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "tags": [
+        "AI",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "published_at": "2026-08-26T18:35:40.000Z",
+      "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Startups",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
       "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
       "published_at": "2026-08-26T17:01:05.000Z",
-      "description": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+      "description": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
       "tags": [
         "Security",
         "botnets",
         "China",
-        "cyberattacks",
-        "cybersecurity"
+        "cybersecurity",
+        "cyberattacks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -932,7 +1003,7 @@
       "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
       "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
       "published_at": "2026-08-26T17:00:00.000Z",
-      "description": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-fou",
+      "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
       "tags": [
         "Venture"
       ],
@@ -948,6 +1019,7 @@
       "tags": [
         "Hardware",
         "Apple",
+        "In Brief",
         "iPhone"
       ],
       "cover_image": null,
@@ -987,49 +1059,20 @@
       "user": "Theresa Loconsolo"
     },
     {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "published_at": "2026-08-26T15:47:28.000Z",
-      "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "title": "How to Stop Letting AI Agents Fake Their Own Tests",
+      "url": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/",
+      "published_at": "2026-08-26T17:47:12.000Z",
+      "description": "I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug",
       "tags": [
-        "AI",
-        "Media & Entertainment",
-        "TC",
-        "podcasts"
+        "claude.ai",
+        "claude",
+        "TypeScript",
+        "TypeScript Tutorial",
+        "Productivity"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "published_at": "2026-08-26T15:00:00.000Z",
-      "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Meta",
-        "perceptron",
-        "Startups"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI",
-      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "published_at": "2026-08-26T14:37:01.000Z",
-      "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "tags": [
-        "AI",
-        "Bill Gates",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
+      "source": "freeCodeCamp",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "What Happens to a Medical Image Before and After a Model Sees It",
@@ -1092,38 +1135,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chinedu Otutu"
-    },
-    {
-      "title": "Neural Networks Explained: What They Are and How to Build One in Python",
-      "url": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
-      "published_at": "2026-08-21T21:52:56.000Z",
-      "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "DeepLearning",
-        "software development",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
-    },
-    {
-      "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
-      "url": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
-      "published_at": "2026-08-21T20:45:13.000Z",
-      "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
-      "tags": [
-        "design patterns",
-        "Behavioral Design Pattern",
-        "Dart",
-        "Flutter",
-        "chain of responsibility"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
     }
   ],
   "JavaScript": [
@@ -1363,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 998,
       "user": "nateherkai"
     },
     {
@@ -1378,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 411,
       "user": "kunchenguid"
     },
     {
@@ -1408,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 257,
       "user": "thiagotigaz"
     },
     {
@@ -1423,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 203,
       "user": "luke321"
     },
     {
@@ -1438,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "ApodexAI"
     },
     {
@@ -1468,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2876,
+      "stars": 2950,
       "user": "b-nnett"
     },
     {
@@ -1483,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 538,
       "user": "wide-trace"
     },
     {
@@ -1513,7 +1524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "kgoedecke"
     },
     {
@@ -1528,8 +1539,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 404,
       "user": "amosblomqvist"
+    },
+    {
+      "title": "Radio Button Action",
+      "url": "https://stackoverflow.com/questions/79998458/radio-button-action",
+      "published_at": "2026-08-26T18:49:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FoundationsFour"
     },
     {
       "title": "How can I securely verify that a smart contract event was emitted after a transaction succeeds?",
@@ -1665,17 +1689,34 @@
       "user": "abd klaib"
     },
     {
-      "title": "Behavioral issues when subscribing to the same WICG Observable multiple times",
-      "url": "https://stackoverflow.com/questions/79997958/behavioral-issues-when-subscribing-to-the-same-wicg-observable-multiple-times",
-      "published_at": "2026-08-25T03:30:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
+      "published_at": "2026-08-26T17:47:52.000Z",
+      "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
       "tags": [
-        "javascript",
-        "observable"
+        "Next.js",
+        "MongoDB",
+        "software development"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DisLido"
+      "source": "freeCodeCamp",
+      "user": "David Aniebo"
+    },
+    {
+      "title": "How to Stop Letting AI Agents Fake Their Own Tests",
+      "url": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/",
+      "published_at": "2026-08-26T17:47:12.000Z",
+      "description": "I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug",
+      "tags": [
+        "claude.ai",
+        "claude",
+        "TypeScript",
+        "TypeScript Tutorial",
+        "Productivity"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1887,7 +1928,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "ApodexAI"
     },
     {
@@ -1902,8 +1943,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 798,
       "user": "ShadowAqueduct"
+    },
+    {
+      "title": "LB623/no-negative-echo - 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "published_at": "2026-08-21T10:12:54Z",
+      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "LB623"
     },
     {
       "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
@@ -1921,21 +1977,6 @@
       "user": "xdreizein666"
     },
     {
-      "title": "LB623/no-negative-echo - 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
-      "url": "https://github.com/LB623/no-negative-echo",
-      "published_at": "2026-08-21T10:12:54Z",
-      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
-      "source": "GitHub",
-      "stars": 488,
-      "user": "LB623"
-    },
-    {
       "title": "The Move to Python 3 Begins",
       "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
       "published_at": "2026-08-25T11:52:46.126-05:00",
@@ -1948,10 +1989,24 @@
       "user": "rmpr"
     },
     {
+      "title": "\"zsh: segmentation fault\" error using PyQt6 and MacBook",
+      "url": "https://stackoverflow.com/questions/79998448/zsh-segmentation-fault-error-using-pyqt6-and-macbook",
+      "published_at": "2026-08-26T18:12:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "macos",
+        "pyqt"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lorenzo Gurrola"
+    },
+    {
       "title": "Maze generator in Python with the turtle library using the DFS algorithm",
       "url": "https://stackoverflow.com/questions/79998297/maze-generator-in-python-with-the-turtle-library-using-the-dfs-algorithm",
       "published_at": "2026-08-26T09:08:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "turtle-graphics",
@@ -1961,18 +2016,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "sourcat"
-    },
-    {
-      "title": "Why can I not convert this set to a dictionary?",
-      "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
-      "published_at": "2026-08-26T13:19:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Albaraa Sabrin_"
     },
     {
       "title": "Can I use `@overload` to fix this typing issue?",
@@ -1987,6 +2030,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "Why can I not convert this set to a dictionary?",
+      "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
+      "published_at": "2026-08-26T13:19:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Albaraa Sabrin_"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
@@ -2021,7 +2076,7 @@
       "title": "How to merge specific rows in a pandas DataFrame?",
       "url": "https://stackoverflow.com/questions/79998224/how-to-merge-specific-rows-in-a-pandas-dataframe",
       "published_at": "2026-08-25T22:51:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "pandas",
@@ -2030,6 +2085,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "fazan"
+    },
+    {
+      "title": "Ring coupler issue in Python",
+      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
+      "published_at": "2026-08-25T12:06:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HAdes"
     },
     {
       "title": "Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379",
@@ -2046,19 +2114,6 @@
       "user": "Amythist Arira"
     },
     {
-      "title": "Ring coupler issue in Python",
-      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
-      "published_at": "2026-08-25T12:06:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HAdes"
-    },
-    {
       "title": "How to improve deep learning model sensitivity for subtle ordinal class transitions (e.g., Diabetic Retinopathy)?",
       "url": "https://stackoverflow.com/questions/79998181/how-to-improve-deep-learning-model-sensitivity-for-subtle-ordinal-class-transiti",
       "published_at": "2026-08-25T19:11:07.000Z",
@@ -2073,20 +2128,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Purujit Piyal Sana"
-    },
-    {
-      "title": "django.db.utils.NotSupportedError: MariaDB 10.11 or later is required (found 10.6.22)",
-      "url": "https://stackoverflow.com/questions/79998083/django-db-utils-notsupportederror-mariadb-10-11-or-later-is-required-found-10",
-      "published_at": "2026-08-25T12:21:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "django",
-        "mariadb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pierre"
     },
     {
       "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
@@ -2117,22 +2158,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chidozie Managwu"
-    },
-    {
-      "title": "Neural Networks Explained: What They Are and How to Build One in Python",
-      "url": "https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/",
-      "published_at": "2026-08-21T21:52:56.000Z",
-      "description": "Have you ever wondered how a computer can recognize a handwritten number, predict whether an email is spam, recommend a video, or understand a sentence? A lot of modern AI systems rely on something ca",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "DeepLearning",
-        "software development",
-        "Software Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "DevOps": [
@@ -2312,7 +2337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "ApodexAI"
     },
     {
@@ -2472,7 +2497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 203,
       "user": "luke321"
     },
     {
@@ -2487,7 +2512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 798,
       "user": "ShadowAqueduct"
     },
     {
@@ -2628,20 +2653,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "C2PA Cameras Do Not Survive Contact With Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "published_at": "2026-08-25T10:51:24.594-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "android",
-        "cryptography",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "retr0id"
-    },
-    {
       "title": "React Router UI gets stuck after TanStack Query API request returns 404",
       "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
       "published_at": "2026-08-26T10:45:15.000Z",
@@ -2668,22 +2679,6 @@
         "mobile",
         "Mobile Development",
         "native"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Oluwaseyi Fatunmole"
-    },
-    {
-      "title": "Chain of Responsibility Design Pattern: Decoupling Complex Business Rules, One Handler at a Time",
-      "url": "https://www.freecodecamp.org/news/chain-of-responsibility-design-pattern-decoupling-complex-business-rules/",
-      "published_at": "2026-08-21T20:45:13.000Z",
-      "description": "Every system, at some point, ends up with a function that nobody wants to touch. It starts small: a simple validation check, an if statement here, another there. Then requirements grow and more condit",
-      "tags": [
-        "design patterns",
-        "Behavioral Design Pattern",
-        "Dart",
-        "Flutter",
-        "chain of responsibility"
       ],
       "cover_image": null,
       "source": "freeCodeCamp",
@@ -2821,20 +2816,16 @@
       "user": "jsongmax"
     },
     {
-      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
-      "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
-      "published_at": "2026-08-26T14:44:33.000Z",
-      "description": "Ring says  users can still opt for end-to-end encryption.",
+      "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "published_at": "2026-08-26T13:38:11.747-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "Apps",
-        "Hardware",
-        "Amazon",
-        "encryption",
-        "privacy"
+        "databases"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "source": "Lobste.rs",
+      "user": "stephenr"
     },
     {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
@@ -2897,6 +2888,18 @@
       "user": "iancarroll"
     },
     {
+      "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "published_at": "2026-08-26T13:38:11.747-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "stephenr"
+    },
+    {
       "title": "Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379",
       "url": "https://stackoverflow.com/questions/79998186/django-channels-redis-exceptions-timeouterror-timeout-reading-from-127-0-0-163",
       "published_at": "2026-08-25T19:30:37.000Z",
@@ -2909,6 +2912,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Amythist Arira"
+    },
+    {
+      "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
+      "published_at": "2026-08-26T17:47:52.000Z",
+      "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
+      "tags": [
+        "Next.js",
+        "MongoDB",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "David Aniebo"
     },
     {
       "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
@@ -3163,18 +3180,18 @@
       "user": "chrisl"
     },
     {
-      "title": "C2PA Cameras Do Not Survive Contact With Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "published_at": "2026-08-25T10:51:24.594-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "published_at": "2026-08-26T19:05:22.000Z",
+      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
       "tags": [
-        "android",
-        "cryptography",
-        "security"
+        "AI",
+        "Hugging Face",
+        "OpenAI"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "retr0id"
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
@@ -3184,8 +3201,8 @@
       "tags": [
         "Biotech & Health",
         "Security",
-        "cyberattacks",
         "cybersecurity",
+        "cyberattacks",
         "medical device"
       ],
       "cover_image": null,
@@ -3196,33 +3213,17 @@
       "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
       "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
       "published_at": "2026-08-26T17:01:05.000Z",
-      "description": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+      "description": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
       "tags": [
         "Security",
         "botnets",
         "China",
-        "cyberattacks",
-        "cybersecurity"
+        "cybersecurity",
+        "cyberattacks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
-      "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
-      "published_at": "2026-08-26T14:44:33.000Z",
-      "description": "Ring says  users can still opt for end-to-end encryption.",
-      "tags": [
-        "Apps",
-        "Hardware",
-        "Amazon",
-        "encryption",
-        "privacy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
@@ -3424,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 998,
       "user": "nateherkai"
     },
     {
@@ -3439,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 411,
       "user": "kunchenguid"
     },
     {
@@ -3469,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 257,
       "user": "thiagotigaz"
     },
     {
@@ -3484,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 203,
       "user": "luke321"
     },
     {
@@ -3514,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 906,
       "user": "ApodexAI"
     },
     {
@@ -3529,8 +3530,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 798,
       "user": "ShadowAqueduct"
+    },
+    {
+      "title": "LB623/no-negative-echo - 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "published_at": "2026-08-21T10:12:54Z",
+      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
+      "source": "GitHub",
+      "stars": 490,
+      "user": "LB623"
     },
     {
       "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
@@ -3548,21 +3564,6 @@
       "user": "xdreizein666"
     },
     {
-      "title": "LB623/no-negative-echo - 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
-      "url": "https://github.com/LB623/no-negative-echo",
-      "published_at": "2026-08-21T10:12:54Z",
-      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
-      "source": "GitHub",
-      "stars": 488,
-      "user": "LB623"
-    },
-    {
       "title": "N4darae/anti-mage - Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
       "url": "https://github.com/N4darae/anti-mage",
       "published_at": "2026-08-22T04:11:00Z",
@@ -3574,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 294,
+      "stars": 354,
       "user": "N4darae"
     },
     {
@@ -3593,6 +3594,21 @@
       "user": "zhaoxuya520"
     },
     {
+      "title": "context-labs/whip - A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+      "url": "https://github.com/context-labs/whip",
+      "published_at": "2026-08-20T22:57:11Z",
+      "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
+      "source": "GitHub",
+      "stars": 107,
+      "user": "context-labs"
+    },
+    {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
       "url": "https://github.com/jsongmax/oci-core",
       "published_at": "2026-08-20T02:03:30Z",
@@ -3606,21 +3622,6 @@
       "source": "GitHub",
       "stars": 104,
       "user": "jsongmax"
-    },
-    {
-      "title": "context-labs/whip - A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
-      "url": "https://github.com/context-labs/whip",
-      "published_at": "2026-08-20T22:57:11Z",
-      "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "context-labs"
     },
     {
       "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
@@ -3649,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2876,
+      "stars": 2950,
       "user": "b-nnett"
     },
     {
@@ -3664,7 +3665,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 538,
       "user": "wide-trace"
     },
     {
@@ -3694,7 +3695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 416,
       "user": "kgoedecke"
     },
     {
@@ -3709,7 +3710,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 391,
+      "stars": 404,
       "user": "amosblomqvist"
     },
     {
@@ -3724,7 +3725,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1906,
+      "stars": 1958,
       "user": "tobi"
     },
     {
@@ -3786,6 +3787,64 @@
       "source": "GitHub",
       "stars": 102,
       "user": "benja"
+    },
+    {
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "published_at": "2026-08-26T18:35:40.000Z",
+      "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Startups",
+        "Bluesky"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
+      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "published_at": "2026-08-26T17:00:00.000Z",
+      "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
+      "tags": [
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
+      "published_at": "2026-08-26T17:47:52.000Z",
+      "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
+      "tags": [
+        "Next.js",
+        "MongoDB",
+        "software development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "David Aniebo"
+    },
+    {
+      "title": "How to Stop Letting AI Agents Fake Their Own Tests",
+      "url": "https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/",
+      "published_at": "2026-08-26T17:47:12.000Z",
+      "description": "I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug",
+      "tags": [
+        "claude.ai",
+        "claude",
+        "TypeScript",
+        "TypeScript Tutorial",
+        "Productivity"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
