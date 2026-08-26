@@ -106,19 +106,6 @@
       "user": "Matthew Revell"
     },
     {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
       "published_at": "2026-08-23T20:09:04Z",
@@ -192,6 +179,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 948,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "kunchenguid"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "luke321"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 809,
       "user": "ApodexAI"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 391,
       "user": "kgoedecke"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 336,
       "user": "amosblomqvist"
     },
     {
@@ -912,6 +912,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Purujit Piyal Sana"
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "published_at": "2026-08-26T11:00:00.000Z",
+      "description": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Exclusive",
+        "Nexus Venture Partners",
+        "Susquehanna Asia Venture Capital"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
@@ -1362,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 948,
       "user": "nateherkai"
     },
     {
@@ -1377,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "kunchenguid"
     },
     {
@@ -1407,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "thiagotigaz"
     },
     {
@@ -1422,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "luke321"
     },
     {
@@ -1437,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 809,
       "user": "ApodexAI"
     },
     {
@@ -1467,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2669,
+      "stars": 2672,
       "user": "b-nnett"
     },
     {
@@ -1497,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 391,
       "user": "kgoedecke"
     },
     {
@@ -1527,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 336,
       "user": "amosblomqvist"
     },
     {
@@ -1541,6 +1557,36 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
+    },
+    {
+      "title": "Setting up offline route in Next.js for fallback with serwist",
+      "url": "https://stackoverflow.com/questions/79998342/setting-up-offline-route-in-next-js-for-fallback-with-serwist",
+      "published_at": "2026-08-26T11:17:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gabriel Bolarinwa"
+    },
+    {
+      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
+      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
+      "published_at": "2026-08-26T10:45:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "axios",
+        "react-router",
+        "tanstackreact-query"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roshani Shrestha"
     },
     {
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
@@ -1655,36 +1701,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DisLido"
-    },
-    {
-      "title": "How to make unique RGB color generator with incremental R, G, and B",
-      "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
-      "published_at": "2026-08-24T19:13:39.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "colors",
-        "rgb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bobby324"
-    },
-    {
-      "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
-      "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
-      "published_at": "2026-08-23T15:00:49.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "performance",
-        "bitwise-operators",
-        "v8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user28224355"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1896,7 +1912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 809,
       "user": "ApodexAI"
     },
     {
@@ -1941,7 +1957,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "LB623"
     },
     {
@@ -2308,7 +2324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 809,
       "user": "ApodexAI"
     },
     {
@@ -2345,19 +2361,6 @@
       "user": "Alvaro Montoro"
     },
     {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
-    },
-    {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
       "url": "https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8",
       "published_at": "2026-08-16T13:31:22Z",
@@ -2384,6 +2387,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
       "source": "Dev.to",
       "user": "Giorgi Kobaidze"
+    },
+    {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
     },
     {
       "title": "State Management in Front-end Web Development: Mutators",
@@ -2483,7 +2499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "luke321"
     },
     {
@@ -2666,6 +2682,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "retr0id"
+    },
+    {
+      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
+      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
+      "published_at": "2026-08-26T10:45:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "axios",
+        "react-router",
+        "tanstackreact-query"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roshani Shrestha"
     },
     {
       "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
@@ -3338,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 948,
       "user": "nateherkai"
     },
     {
@@ -3353,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 380,
       "user": "kunchenguid"
     },
     {
@@ -3383,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 245,
       "user": "thiagotigaz"
     },
     {
@@ -3398,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 167,
       "user": "luke321"
     },
     {
@@ -3428,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 809,
       "user": "ApodexAI"
     },
     {
@@ -3473,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 466,
       "user": "LB623"
     },
     {
@@ -3503,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 153,
       "user": "N4darae"
     },
     {
@@ -3533,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 82,
+      "stars": 84,
       "user": "context-labs"
     },
     {
@@ -3563,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2669,
+      "stars": 2672,
       "user": "b-nnett"
     },
     {
@@ -3593,7 +3625,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 388,
+      "stars": 391,
       "user": "kgoedecke"
     },
     {
@@ -3623,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 336,
       "user": "amosblomqvist"
     },
     {
@@ -3638,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1694,
+      "stars": 1697,
       "user": "tobi"
     },
     {
@@ -3698,8 +3730,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 101,
       "user": "benja"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "published_at": "2026-08-25T11:44:37.661-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "openbsd",
+        "unix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "wally"
     },
     {
       "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
