@@ -656,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 965,
       "user": "nateherkai"
     },
     {
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 390,
       "user": "kunchenguid"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 180,
       "user": "luke321"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 855,
       "user": "ApodexAI"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "ShadowAqueduct"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "mindsdb"
     },
     {
@@ -776,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "kgoedecke"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 361,
       "user": "amosblomqvist"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "truespar"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "josiah-nelson"
     },
     {
@@ -855,7 +855,7 @@
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
       "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
       "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "deep-learning",
@@ -897,6 +897,21 @@
       "user": "Purujit Piyal Sana"
     },
     {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "published_at": "2026-08-26T13:30:00.000Z",
+      "description": "Robot bodies are waiting for their AI brains to catch up.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Exclusive",
+        "physical ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
       "title": "QueryStory wants you to believe what AI is telling you",
       "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
       "published_at": "2026-08-26T13:00:00.000Z",
@@ -910,7 +925,7 @@
       "user": "Tim Fernholz"
     },
     {
-      "title": "Arga is building a better way to train enterprise AI agents",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
       "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
       "published_at": "2026-08-26T12:55:28.000Z",
       "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
@@ -1000,19 +1015,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "published_at": "2026-08-26T00:06:20.000Z",
-      "description": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "What Happens to a Medical Image Before and After a Model Sees It",
@@ -1376,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 965,
       "user": "nateherkai"
     },
     {
@@ -1391,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 390,
       "user": "kunchenguid"
     },
     {
@@ -1436,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 180,
       "user": "luke321"
     },
     {
@@ -1451,7 +1453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 855,
       "user": "ApodexAI"
     },
     {
@@ -1481,7 +1483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2711,
+      "stars": 2732,
       "user": "b-nnett"
     },
     {
@@ -1496,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -1511,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "kgoedecke"
     },
     {
@@ -1526,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 389,
       "user": "wide-trace"
     },
     {
@@ -1541,7 +1543,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 361,
       "user": "amosblomqvist"
     },
     {
@@ -1567,6 +1569,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "indigo"
+    },
+    {
+      "title": "How can I securely verify that a smart contract event was emitted after a transaction succeeds?",
+      "url": "https://stackoverflow.com/questions/79998380/how-can-i-securely-verify-that-a-smart-contract-event-was-emitted-after-a-transa",
+      "published_at": "2026-08-26T13:18:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "ethereum",
+        "smartcontracts",
+        "ethers.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Taksh IT Solutions Pvt. Ltd."
     },
     {
       "title": "Setting up offline route in Next.js for fallback with serwist",
@@ -1697,20 +1715,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DisLido"
-    },
-    {
-      "title": "How to make unique RGB color generator with incremental R, G, and B",
-      "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
-      "published_at": "2026-08-24T19:13:39.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "colors",
-        "rgb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bobby324"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1907,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 855,
       "user": "ApodexAI"
     },
     {
@@ -1922,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "ShadowAqueduct"
     },
     {
@@ -1952,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "LB623"
     },
     {
@@ -1968,23 +1972,22 @@
       "user": "rmpr"
     },
     {
-      "title": "uv package error while downloading tensors",
-      "url": "https://stackoverflow.com/questions/79998350/uv-package-error-while-downloading-tensors",
-      "published_at": "2026-08-26T11:55:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Why can I not convert this set to a dictionary?",
+      "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
+      "published_at": "2026-08-26T13:19:59.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
-        "python",
-        "uv"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Codinguy"
+      "user": "Albaraa Sabrin_"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
       "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
       "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "deep-learning",
@@ -2067,6 +2070,19 @@
       "user": "Amythist Arira"
     },
     {
+      "title": "Ring coupler issue in Python",
+      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
+      "published_at": "2026-08-25T12:06:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HAdes"
+    },
+    {
       "title": "How to improve deep learning model sensitivity for subtle ordinal class transitions (e.g., Diabetic Retinopathy)?",
       "url": "https://stackoverflow.com/questions/79998181/how-to-improve-deep-learning-model-sensitivity-for-subtle-ordinal-class-transiti",
       "published_at": "2026-08-25T19:11:07.000Z",
@@ -2081,19 +2097,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Purujit Piyal Sana"
-    },
-    {
-      "title": "Ring coupler issue in Python",
-      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
-      "published_at": "2026-08-25T12:06:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HAdes"
     },
     {
       "title": "django.db.utils.NotSupportedError: MariaDB 10.11 or later is required (found 10.6.22)",
@@ -2318,7 +2321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 855,
       "user": "ApodexAI"
     },
     {
@@ -2493,7 +2496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 180,
       "user": "luke321"
     },
     {
@@ -2508,7 +2511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "ShadowAqueduct"
     },
     {
@@ -2660,7 +2663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -2840,6 +2843,19 @@
       "source": "GitHub",
       "stars": 104,
       "user": "jsongmax"
+    },
+    {
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "published_at": "2026-08-26T13:43:01.000Z",
+      "description": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
+      "tags": [
+        "Social",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
@@ -3121,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -3363,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 957,
+      "stars": 965,
       "user": "nateherkai"
     },
     {
@@ -3378,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 390,
       "user": "kunchenguid"
     },
     {
@@ -3423,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 172,
+      "stars": 180,
       "user": "luke321"
     },
     {
@@ -3453,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 833,
+      "stars": 855,
       "user": "ApodexAI"
     },
     {
@@ -3468,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 796,
       "user": "ShadowAqueduct"
     },
     {
@@ -3498,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 475,
       "user": "LB623"
     },
     {
@@ -3513,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 254,
       "user": "N4darae"
     },
     {
@@ -3558,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 92,
       "user": "context-labs"
     },
     {
@@ -3573,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
       "source": "GitHub",
-      "stars": 58,
+      "stars": 59,
       "user": "mindsdb"
     },
     {
@@ -3588,7 +3604,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2711,
+      "stars": 2732,
       "user": "b-nnett"
     },
     {
@@ -3603,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 514,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -3618,7 +3634,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "kgoedecke"
     },
     {
@@ -3633,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 389,
       "user": "wide-trace"
     },
     {
@@ -3648,7 +3664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 350,
+      "stars": 361,
       "user": "amosblomqvist"
     },
     {
@@ -3663,7 +3679,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1755,
+      "stars": 1795,
       "user": "tobi"
     },
     {
@@ -3678,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 198,
       "user": "truespar"
     },
     {
@@ -3693,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "josiah-nelson"
     },
     {
