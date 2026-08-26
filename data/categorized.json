@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "published_at": "2026-08-26T18:05:39Z",
+      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "tags": [
+        "showdev",
+        "announcements",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
       "published_at": "2026-08-25T13:36:11Z",
@@ -14,6 +29,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
+      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o",
+      "published_at": "2026-08-26T17:29:30Z",
+      "description": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
+      "tags": [
+        "aiops",
+        "ai",
+        "webdev",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk6mcyw0haqp8rus5lh5p.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
@@ -447,36 +492,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
-      "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
-      "published_at": "2026-08-16T18:12:39Z",
-      "description": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -656,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 986,
       "user": "nateherkai"
     },
     {
@@ -671,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "kunchenguid"
     },
     {
@@ -686,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 196,
       "user": "luke321"
     },
     {
@@ -701,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 937,
       "user": "cclank"
     },
     {
@@ -716,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 903,
       "user": "ApodexAI"
     },
     {
@@ -731,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "ShadowAqueduct"
     },
     {
@@ -791,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "kgoedecke"
     },
     {
@@ -806,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 391,
       "user": "amosblomqvist"
     },
     {
@@ -821,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "truespar"
     },
     {
@@ -836,14 +851,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "josiah-nelson"
+    },
+    {
+      "title": "Haiku R1/beta6 released",
+      "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+      "published_at": "2026-08-26T11:22:23.251-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "osdev",
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "waddlesplash"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
       "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
       "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "deep-learning",
@@ -883,6 +911,48 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Purujit Piyal Sana"
+    },
+    {
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "published_at": "2026-08-26T17:01:05.000Z",
+      "description": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+      "tags": [
+        "Security",
+        "botnets",
+        "China",
+        "cyberattacks",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
+      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "published_at": "2026-08-26T17:00:00.000Z",
+      "description": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-fou",
+      "tags": [
+        "Venture"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "published_at": "2026-08-26T16:53:07.000Z",
+      "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
+      "tags": [
+        "Hardware",
+        "Apple",
+        "iPhone"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
@@ -954,41 +1024,12 @@
       "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
       "tags": [
         "AI",
-        "Bill Gates"
+        "Bill Gates",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "published_at": "2026-08-26T14:19:29.000Z",
-      "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "tags": [
-        "AI",
-        "GLM",
-        "open weight",
-        "Z.ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "published_at": "2026-08-26T13:30:00.000Z",
-      "description": "Robot bodies are waiting for their AI brains to catch up.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Exclusive",
-        "physical ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "What Happens to a Medical Image Before and After a Model Sees It",
@@ -1191,36 +1232,6 @@
       "user": "Sylwia Laskowska"
     },
     {
-      "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
-      "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
-      "published_at": "2026-08-16T18:12:39Z",
-      "description": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1352,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 986,
       "user": "nateherkai"
     },
     {
@@ -1367,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "kunchenguid"
     },
     {
@@ -1397,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "thiagotigaz"
     },
     {
@@ -1412,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 196,
       "user": "luke321"
     },
     {
@@ -1427,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 903,
       "user": "ApodexAI"
     },
     {
@@ -1457,8 +1468,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2808,
+      "stars": 2876,
       "user": "b-nnett"
+    },
+    {
+      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "published_at": "2026-08-26T06:09:58Z",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
+      "source": "GitHub",
+      "stars": 513,
+      "user": "wide-trace"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -1476,21 +1502,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "url": "https://github.com/wide-trace/open-higgsfield",
-      "published_at": "2026-08-26T06:09:58Z",
-      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
-      "source": "GitHub",
-      "stars": 473,
-      "user": "wide-trace"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -1502,7 +1513,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "kgoedecke"
     },
     {
@@ -1517,7 +1528,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 391,
       "user": "amosblomqvist"
     },
     {
@@ -1554,7 +1565,7 @@
       "title": "React Router UI gets stuck after TanStack Query API request returns 404",
       "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
       "published_at": "2026-08-26T10:45:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -1861,7 +1872,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 937,
       "user": "cclank"
     },
     {
@@ -1876,7 +1887,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 903,
       "user": "ApodexAI"
     },
     {
@@ -1891,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "ShadowAqueduct"
     },
     {
@@ -1921,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "LB623"
     },
     {
@@ -1937,6 +1948,21 @@
       "user": "rmpr"
     },
     {
+      "title": "Maze generator in Python with the turtle library using the DFS algorithm",
+      "url": "https://stackoverflow.com/questions/79998297/maze-generator-in-python-with-the-turtle-library-using-the-dfs-algorithm",
+      "published_at": "2026-08-26T09:08:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "turtle-graphics",
+        "python-turtle",
+        "maze"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "sourcat"
+    },
+    {
       "title": "Why can I not convert this set to a dictionary?",
       "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
       "published_at": "2026-08-26T13:19:59.000Z",
@@ -1947,37 +1973,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Albaraa Sabrin_"
-    },
-    {
-      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
-      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
-      "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "python",
-        "deep-learning",
-        "pytorch",
-        "cuda",
-        "huggingface-transformers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AheadMint"
-    },
-    {
-      "title": "Maze generator in Python with the turtle library using the DFS algorithm",
-      "url": "https://stackoverflow.com/questions/79998297/maze-generator-in-python-with-the-turtle-library-using-the-dfs-algorithm",
-      "published_at": "2026-08-26T09:08:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "turtle-graphics",
-        "python-turtle",
-        "maze"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sourcat"
     },
     {
       "title": "Can I use `@overload` to fix this typing issue?",
@@ -1992,6 +1987,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "iamthebull"
+    },
+    {
+      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
+      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
+      "published_at": "2026-08-26T10:04:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "deep-learning",
+        "pytorch",
+        "cuda",
+        "huggingface-transformers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AheadMint"
     },
     {
       "title": "Setting up openai agent tracing dies with 403 error",
@@ -2125,6 +2136,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
       "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
@@ -2286,7 +2312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 903,
       "user": "ApodexAI"
     },
     {
@@ -2423,21 +2449,6 @@
       "user": "Jess Lee"
     },
     {
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "url": "https://dev.to/sarvar_04/i-built-a-15-landing-page-about-mumbais-soul-food-1l78",
-      "published_at": "2026-08-10T14:50:38Z",
-      "description": "A scroll-driven cinematic page about vada pav. No framework, no build step. Just HTML, CSS, and a story worth telling. Dev.to Frontend Challenge submission.",
-      "tags": [
-        "devchallenge",
-        "frontendchallenge",
-        "webdev",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.youtube.com%2Fvi%2FqZHzBS3UQbA%2Fmaxresdefault.jpg",
-      "source": "Dev.to",
-      "user": "Sarvar Nadaf"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2461,7 +2472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 196,
       "user": "luke321"
     },
     {
@@ -2476,7 +2487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "ShadowAqueduct"
     },
     {
@@ -2587,21 +2598,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Why BlocSignal Doesn't Need Provider (And Why Classic BLoC Always Did)",
-      "url": "https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g",
-      "published_at": "2026-08-16T18:12:39Z",
-      "description": "How shedding package:provider eliminates dependency hell, fixes Flutter's lingering ghost rebuild bug, and delivers fine-grained synchronous reactivity in 2026.",
-      "tags": [
-        "flutter",
-        "dart",
-        "statemanagement",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8lsgtgt25e3fg34zu7b.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
       "url": "https://github.com/xdreizein666/getcontact-cli",
       "published_at": "2026-08-20T03:45:11Z",
@@ -2649,7 +2645,7 @@
       "title": "React Router UI gets stuck after TanStack Query API request returns 404",
       "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
       "published_at": "2026-08-26T10:45:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -2695,6 +2691,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
       "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
@@ -2826,19 +2837,6 @@
       "user": "Ivan Mehta"
     },
     {
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-      "published_at": "2026-08-26T13:43:01.000Z",
-      "description": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-      "tags": [
-        "Social",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
       "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
       "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
       "published_at": "2026-08-22T03:00:00.000Z",
@@ -2930,6 +2928,36 @@
     }
   ],
   "Security": [
+    {
+      "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
+      "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o",
+      "published_at": "2026-08-26T17:29:30Z",
+      "description": "so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...",
+      "tags": [
+        "aiops",
+        "ai",
+        "webdev",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk6mcyw0haqp8rus5lh5p.png",
+      "source": "Dev.to",
+      "user": "Jonathan Murray"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
@@ -3122,6 +3150,19 @@
       "user": "Forsy-AI"
     },
     {
+      "title": "Merchants of Insecurity",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "published_at": "2026-08-26T09:30:41.443-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "osdev",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "chrisl"
+    },
+    {
       "title": "C2PA Cameras Do Not Survive Contact With Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
       "published_at": "2026-08-25T10:51:24.594-05:00",
@@ -3136,17 +3177,36 @@
       "user": "retr0id"
     },
     {
-      "title": "Merchants of Insecurity",
-      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-      "published_at": "2026-08-26T09:30:41.443-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
+      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "published_at": "2026-08-26T18:23:09.000Z",
+      "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
       "tags": [
-        "osdev",
-        "security"
+        "Biotech & Health",
+        "Security",
+        "cyberattacks",
+        "cybersecurity",
+        "medical device"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "chrisl"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "published_at": "2026-08-26T17:01:05.000Z",
+      "description": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
+      "tags": [
+        "Security",
+        "botnets",
+        "China",
+        "cyberattacks",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
@@ -3163,22 +3223,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "CISA confirms hackers targeted over 100 US water systems during July",
-      "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
-      "published_at": "2026-08-26T14:31:05.000Z",
-      "description": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
-      "tags": [
-        "Security",
-        "CISA",
-        "critical infrastructure",
-        "cybersecurity",
-        "iran"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
@@ -3198,6 +3242,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "published_at": "2026-08-26T18:05:39Z",
+      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "tags": [
+        "showdev",
+        "announcements",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
@@ -3365,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 986,
       "user": "nateherkai"
     },
     {
@@ -3380,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 407,
       "user": "kunchenguid"
     },
     {
@@ -3410,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 254,
       "user": "thiagotigaz"
     },
     {
@@ -3425,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 196,
       "user": "luke321"
     },
     {
@@ -3440,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
       "source": "GitHub",
-      "stars": 935,
+      "stars": 937,
       "user": "cclank"
     },
     {
@@ -3455,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 903,
       "user": "ApodexAI"
     },
     {
@@ -3470,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 797,
       "user": "ShadowAqueduct"
     },
     {
@@ -3500,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 488,
       "user": "LB623"
     },
     {
@@ -3515,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 294,
       "user": "N4darae"
     },
     {
@@ -3560,7 +3619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 104,
       "user": "context-labs"
     },
     {
@@ -3590,8 +3649,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2808,
+      "stars": 2876,
       "user": "b-nnett"
+    },
+    {
+      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "published_at": "2026-08-26T06:09:58Z",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
+      "source": "GitHub",
+      "stars": 513,
+      "user": "wide-trace"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -3609,21 +3683,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "url": "https://github.com/wide-trace/open-higgsfield",
-      "published_at": "2026-08-26T06:09:58Z",
-      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
-      "source": "GitHub",
-      "stars": 473,
-      "user": "wide-trace"
-    },
-    {
       "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "url": "https://github.com/kgoedecke/doop",
       "published_at": "2026-08-22T15:40:51Z",
@@ -3635,7 +3694,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "kgoedecke"
     },
     {
@@ -3650,7 +3709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 383,
+      "stars": 391,
       "user": "amosblomqvist"
     },
     {
@@ -3665,7 +3724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1871,
+      "stars": 1906,
       "user": "tobi"
     },
     {
@@ -3680,7 +3739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 205,
       "user": "truespar"
     },
     {
@@ -3695,7 +3754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 130,
       "user": "dragthelake"
     },
     {
@@ -3710,7 +3769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 128,
+      "stars": 129,
       "user": "josiah-nelson"
     },
     {
@@ -3725,7 +3784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 102,
       "user": "benja"
     },
     {
