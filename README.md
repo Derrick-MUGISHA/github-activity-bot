@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-26 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-26 14:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
 | 20 | [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd) | Dev.to |
 
-<sub>Last fetched: Wed, 26 Aug 2026 13:38:44 CAT</sub>
+<sub>Last fetched: Wed, 26 Aug 2026 14:05:14 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
+**1. `React` — Implement a custom hook for fetching data**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> useState, useEffect, loading states, error handling
 
 </details>
 
-**2. `SystemDesign` — Design Twitter's timeline feature**
+**2. `SystemDesign` — Design a distributed cache system**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 distributed systems, caching
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Consistency, partitioning, replication, eviction policies
 
 </details>
 
-**3. `SystemDesign` — Design Twitter's timeline feature**
+**3. `React` — Explain the difference between state and props**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Fan-out, caching, ranking, real-time updates
+> Ownership, mutability, data flow direction
 
 </details>
 
@@ -164,14 +164,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 77 | 41.8% | `████████████████████` |
-| **JavaScript** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **Tools** | 40 | 21.7% | `██████████░░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **JavaScript** | 44 | 23.9% | `███████████░░░░░░░░░` |
+| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
 | **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
 | **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.6%
-Go              ████████████████████████ 22.4%
-Python          ██████████████████████ 20.5%
-Java            ██████████████████████ 20.5%
+JavaScript      ██████████████████████████████ 27.8%
+Go              █████████████████████████ 22.8%
+Python          ██████████████████████ 20.3%
+Java            ██████████████████████ 20.3%
 Rust            ██████ 5.1%
 Kotlin          ██ 1.9%
 Swift           ██ 1.9%
@@ -206,8 +206,8 @@ Swift           ██ 1.9%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 43
-    "Go" : 35
+    "JavaScript" : 44
+    "Go" : 36
     "Python" : 32
     "Java" : 32
     "Rust" : 8
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-35-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-8-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-36-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-30-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-14-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 26 Aug 2026 11:38:44 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 26 Aug 2026 12:05:14 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
