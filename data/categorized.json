@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 944,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "kunchenguid"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "luke321"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 794,
       "user": "ApodexAI"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "kgoedecke"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 326,
       "user": "amosblomqvist"
     },
     {
@@ -867,6 +867,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alberto Benedetto"
+    },
+    {
+      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face?",
+      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
+      "published_at": "2026-08-26T10:04:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "deep-learning",
+        "pytorch",
+        "cuda",
+        "huggingface-transformers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AheadMint"
     },
     {
       "title": "Setting up openai agent tracing dies with 403 error",
@@ -1346,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 944,
       "user": "nateherkai"
     },
     {
@@ -1361,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "kunchenguid"
     },
     {
@@ -1406,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "luke321"
     },
     {
@@ -1421,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 794,
       "user": "ApodexAI"
     },
     {
@@ -1451,7 +1467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2661,
+      "stars": 2665,
       "user": "b-nnett"
     },
     {
@@ -1481,7 +1497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "kgoedecke"
     },
     {
@@ -1496,7 +1512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "rome-os"
     },
     {
@@ -1511,7 +1527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 326,
       "user": "amosblomqvist"
     },
     {
@@ -1525,6 +1541,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
+    },
+    {
+      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
+      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
+      "published_at": "2026-08-25T16:28:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "mysql",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "Link is active?",
@@ -1553,20 +1583,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tanaki"
-    },
-    {
-      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
-      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
-      "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "mysql",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     },
     {
       "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
@@ -1895,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 794,
       "user": "ApodexAI"
     },
     {
@@ -1941,6 +1957,22 @@
       "user": "rmpr"
     },
     {
+      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face?",
+      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
+      "published_at": "2026-08-26T10:04:15.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "deep-learning",
+        "pytorch",
+        "cuda",
+        "huggingface-transformers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AheadMint"
+    },
+    {
       "title": "Maze generator in Python with the turtle library using the DFS algorithm",
       "url": "https://stackoverflow.com/questions/79998297/maze-generator-in-python-with-the-turtle-library-using-the-dfs-algorithm",
       "published_at": "2026-08-26T09:08:12.000Z",
@@ -1974,7 +2006,7 @@
       "title": "Can I use `@overload` to fix this typing issue?",
       "url": "https://stackoverflow.com/questions/79998254/can-i-use-overload-to-fix-this-typing-issue",
       "published_at": "2026-08-26T03:45:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "overloading",
@@ -2067,20 +2099,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pierre"
-    },
-    {
-      "title": "Track and completely undo software installation changes on Debian",
-      "url": "https://stackoverflow.com/questions/79998129/track-and-completely-undo-software-installation-changes-on-debian",
-      "published_at": "2026-08-25T14:36:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "linux",
-        "debian"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shahabgeek"
     },
     {
       "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
@@ -2291,7 +2309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 794,
       "user": "ApodexAI"
     },
     {
@@ -2466,7 +2484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "luke321"
     },
     {
@@ -3321,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 940,
+      "stars": 944,
       "user": "nateherkai"
     },
     {
@@ -3336,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 379,
       "user": "kunchenguid"
     },
     {
@@ -3381,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 162,
+      "stars": 166,
       "user": "luke321"
     },
     {
@@ -3426,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 785,
+      "stars": 794,
       "user": "ApodexAI"
     },
     {
@@ -3490,21 +3508,6 @@
       "user": "jsongmax"
     },
     {
-      "title": "context-labs/whip - A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
-      "url": "https://github.com/context-labs/whip",
-      "published_at": "2026-08-20T22:57:11Z",
-      "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "context-labs"
-    },
-    {
       "title": "N4darae/anti-mage - Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
       "url": "https://github.com/N4darae/anti-mage",
       "published_at": "2026-08-22T04:11:00Z",
@@ -3516,8 +3519,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 66,
+      "stars": 95,
       "user": "N4darae"
+    },
+    {
+      "title": "context-labs/whip - A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+      "url": "https://github.com/context-labs/whip",
+      "published_at": "2026-08-20T22:57:11Z",
+      "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
+      "source": "GitHub",
+      "stars": 82,
+      "user": "context-labs"
     },
     {
       "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
@@ -3546,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2661,
+      "stars": 2665,
       "user": "b-nnett"
     },
     {
@@ -3576,7 +3594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 388,
       "user": "kgoedecke"
     },
     {
@@ -3591,7 +3609,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 344,
       "user": "rome-os"
     },
     {
@@ -3606,7 +3624,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 321,
+      "stars": 326,
       "user": "amosblomqvist"
     },
     {
@@ -3621,7 +3639,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1686,
+      "stars": 1690,
       "user": "tobi"
     },
     {
