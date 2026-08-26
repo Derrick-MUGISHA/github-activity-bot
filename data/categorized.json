@@ -224,21 +224,6 @@
       "user": "xbill"
     },
     {
-      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
-      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
-      "published_at": "2026-08-20T01:56:59Z",
-      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
-      "tags": [
-        "dart",
-        "python",
-        "rust",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
       "url": "https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm",
       "published_at": "2026-08-19T13:43:23Z",
@@ -671,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 957,
       "user": "nateherkai"
     },
     {
@@ -686,23 +671,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 385,
       "user": "kunchenguid"
     },
     {
-      "title": "czm15053/linuxdo-idea-ui - 油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
+      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "url": "https://github.com/luke321/vault-graph",
+      "published_at": "2026-08-22T08:14:59Z",
+      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 168,
-      "user": "czm15053"
+      "stars": 172,
+      "user": "luke321"
     },
     {
       "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "ApodexAI"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 401,
       "user": "kgoedecke"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 350,
       "user": "amosblomqvist"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "truespar"
     },
     {
@@ -851,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "josiah-nelson"
     },
     {
@@ -865,20 +850,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "indigo"
-    },
-    {
-      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
-      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
-      "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "mysql",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
@@ -924,6 +895,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Purujit Piyal Sana"
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "published_at": "2026-08-26T13:00:00.000Z",
+      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "tags": [
+        "AI",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "published_at": "2026-08-26T12:55:28.000Z",
+      "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Fundraising",
+        "AI agents"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
@@ -1010,35 +1009,6 @@
       "tags": [
         "AI",
         "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
-      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-      "published_at": "2026-08-25T19:22:52.000Z",
-      "description": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Instagram",
-        "Instagram Reels"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "published_at": "2026-08-25T19:03:47.000Z",
-      "description": "The company's new fundraising total now stands at $232 million.",
-      "tags": [
-        "AI",
-        "Stability AI",
-        "Stable Diffusion"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1406,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 957,
       "user": "nateherkai"
     },
     {
@@ -1421,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 385,
       "user": "kunchenguid"
     },
     {
@@ -1451,23 +1421,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "thiagotigaz"
     },
     {
-      "title": "czm15053/linuxdo-idea-ui - 油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
+      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "url": "https://github.com/luke321/vault-graph",
+      "published_at": "2026-08-22T08:14:59Z",
+      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 168,
-      "user": "czm15053"
+      "stars": 172,
+      "user": "luke321"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -1481,7 +1451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "ApodexAI"
     },
     {
@@ -1511,7 +1481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2676,
+      "stars": 2711,
       "user": "b-nnett"
     },
     {
@@ -1541,23 +1511,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 401,
       "user": "kgoedecke"
     },
     {
-      "title": "rome-os/rome - Rome is the agentic OS.",
-      "url": "https://github.com/rome-os/rome",
-      "published_at": "2026-08-23T06:15:15Z",
-      "description": "Rome is the agentic OS.",
+      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "published_at": "2026-08-26T06:09:58Z",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 344,
-      "user": "rome-os"
+      "stars": 358,
+      "user": "wide-trace"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -1571,20 +1541,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 350,
       "user": "amosblomqvist"
-    },
-    {
-      "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
-      "url": "https://www.jack.bio/blog/licenseplate",
-      "published_at": "2026-08-26T01:00:12.856-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "indigo"
     },
     {
       "title": "What's in a tag name? JavaScript, apparently",
@@ -1597,6 +1555,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
+    },
+    {
+      "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
+      "url": "https://www.jack.bio/blog/licenseplate",
+      "published_at": "2026-08-26T01:00:12.856-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "indigo"
     },
     {
       "title": "Setting up offline route in Next.js for fallback with serwist",
@@ -1627,20 +1597,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Roshani Shrestha"
-    },
-    {
-      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
-      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
-      "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "mysql",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
     },
     {
       "title": "Link is active?",
@@ -1743,6 +1699,20 @@
       "user": "DisLido"
     },
     {
+      "title": "How to make unique RGB color generator with incremental R, G, and B",
+      "url": "https://stackoverflow.com/questions/79997878/how-to-make-unique-rgb-color-generator-with-incremental-r-g-and-b",
+      "published_at": "2026-08-24T19:13:39.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "javascript",
+        "colors",
+        "rgb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bobby324"
+    },
+    {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
       "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
       "published_at": "2026-08-24T14:03:04.000Z",
@@ -1789,21 +1759,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
-    },
-    {
-      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
-      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
-      "published_at": "2026-08-20T01:56:59Z",
-      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
-      "tags": [
-        "dart",
-        "python",
-        "rust",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1952,7 +1907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "ApodexAI"
     },
     {
@@ -1982,7 +1937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "xdreizein666"
     },
     {
@@ -1997,7 +1952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 473,
       "user": "LB623"
     },
     {
@@ -2011,6 +1966,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "rmpr"
+    },
+    {
+      "title": "uv package error while downloading tensors",
+      "url": "https://stackoverflow.com/questions/79998350/uv-package-error-while-downloading-tensors",
+      "published_at": "2026-08-26T11:55:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "uv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Codinguy"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
@@ -2140,20 +2108,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pierre"
-    },
-    {
-      "title": "Track and completely undo software installation changes on Debian",
-      "url": "https://stackoverflow.com/questions/79998129/track-and-completely-undo-software-installation-changes-on-debian",
-      "published_at": "2026-08-25T14:36:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "linux",
-        "debian"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shahabgeek"
     },
     {
       "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
@@ -2364,7 +2318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "ApodexAI"
     },
     {
@@ -2528,6 +2482,21 @@
       "user": "velmu"
     },
     {
+      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "url": "https://github.com/luke321/vault-graph",
+      "published_at": "2026-08-22T08:14:59Z",
+      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
+      "source": "GitHub",
+      "stars": 172,
+      "user": "luke321"
+    },
+    {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
       "published_at": "2026-08-23T21:14:28Z",
@@ -2676,7 +2645,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "xdreizein666"
     },
     {
@@ -2933,20 +2902,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "Cannot set up MySQL database using Express and aiven hosted DB",
-      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
-      "published_at": "2026-08-25T16:28:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "mysql",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
-    },
-    {
       "title": "Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379",
       "url": "https://stackoverflow.com/questions/79998186/django-channels-redis-exceptions-timeouterror-timeout-reading-from-127-0-0-163",
       "published_at": "2026-08-25T19:30:37.000Z",
@@ -3196,6 +3151,19 @@
       "user": "freddyb"
     },
     {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "published_at": "2026-08-26T13:00:00.000Z",
+      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "tags": [
+        "AI",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
       "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
       "url": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
       "published_at": "2026-08-25T18:22:13.000Z",
@@ -3395,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 957,
       "user": "nateherkai"
     },
     {
@@ -3410,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 385,
       "user": "kunchenguid"
     },
     {
@@ -3440,23 +3408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 247,
       "user": "thiagotigaz"
     },
     {
-      "title": "czm15053/linuxdo-idea-ui - 油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据",
+      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "url": "https://github.com/luke321/vault-graph",
+      "published_at": "2026-08-22T08:14:59Z",
+      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 168,
-      "user": "czm15053"
+      "stars": 172,
+      "user": "luke321"
     },
     {
       "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
@@ -3485,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 833,
       "user": "ApodexAI"
     },
     {
@@ -3515,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 489,
       "user": "xdreizein666"
     },
     {
@@ -3530,8 +3498,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 468,
+      "stars": 473,
       "user": "LB623"
+    },
+    {
+      "title": "N4darae/anti-mage - Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
+      "url": "https://github.com/N4darae/anti-mage",
+      "published_at": "2026-08-22T04:11:00Z",
+      "description": "Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
+      "source": "GitHub",
+      "stars": 223,
+      "user": "N4darae"
     },
     {
       "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
@@ -3547,21 +3530,6 @@
       "source": "GitHub",
       "stars": 178,
       "user": "zhaoxuya520"
-    },
-    {
-      "title": "N4darae/anti-mage - Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
-      "url": "https://github.com/N4darae/anti-mage",
-      "published_at": "2026-08-22T04:11:00Z",
-      "description": "Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
-      "source": "GitHub",
-      "stars": 175,
-      "user": "N4darae"
     },
     {
       "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
@@ -3590,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 85,
+      "stars": 89,
       "user": "context-labs"
     },
     {
@@ -3620,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2676,
+      "stars": 2711,
       "user": "b-nnett"
     },
     {
@@ -3650,23 +3618,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 401,
       "user": "kgoedecke"
     },
     {
-      "title": "rome-os/rome - Rome is the agentic OS.",
-      "url": "https://github.com/rome-os/rome",
-      "published_at": "2026-08-23T06:15:15Z",
-      "description": "Rome is the agentic OS.",
+      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "published_at": "2026-08-26T06:09:58Z",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 344,
-      "user": "rome-os"
+      "stars": 358,
+      "user": "wide-trace"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -3680,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 350,
       "user": "amosblomqvist"
     },
     {
@@ -3695,7 +3663,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1704,
+      "stars": 1755,
       "user": "tobi"
     },
     {
@@ -3710,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 196,
+      "stars": 197,
       "user": "truespar"
     },
     {
@@ -3725,7 +3693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 125,
       "user": "josiah-nelson"
     },
     {
@@ -3740,7 +3708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "dragthelake"
     },
     {
