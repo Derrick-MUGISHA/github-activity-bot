@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 940,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 376,
       "user": "kunchenguid"
     },
     {
@@ -701,7 +701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "luke321"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "ApodexAI"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "amosblomqvist"
     },
     {
@@ -880,6 +880,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "delirehberi"
+    },
+    {
+      "title": "AI Review Loops Don't Always Stabilise",
+      "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+      "published_at": "2026-08-25T12:42:15.720-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kpm"
     },
     {
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
@@ -928,9 +941,10 @@
       "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
       "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
       "published_at": "2026-08-26T07:00:00.000Z",
-      "description": "The Pan-African venture firm has raised $83 million and plans to invest in startups beyond its home market of Nigeria.",
+      "description": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
       "tags": [
-        "Venture"
+        "Venture",
+        "Ventures Platform"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1372,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 940,
       "user": "nateherkai"
     },
     {
@@ -1387,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 376,
       "user": "kunchenguid"
     },
     {
@@ -1402,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "GamePhanes"
     },
     {
@@ -1417,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "thiagotigaz"
     },
     {
@@ -1432,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "luke321"
     },
     {
@@ -1447,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "ApodexAI"
     },
     {
@@ -1477,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2639,
+      "stars": 2650,
       "user": "b-nnett"
     },
     {
@@ -1522,7 +1536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "rome-os"
     },
     {
@@ -1537,7 +1551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "amosblomqvist"
     },
     {
@@ -1909,7 +1923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "ApodexAI"
     },
     {
@@ -1939,7 +1953,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 459,
       "user": "LB623"
     },
     {
@@ -1958,7 +1972,7 @@
       "title": "How do you differentiate between a tutorial/toy repo and an actual project?",
       "url": "https://stackoverflow.com/questions/79998275/how-do-you-differentiate-between-a-tutorial-toy-repo-and-an-actual-project",
       "published_at": "2026-08-26T06:28:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "github",
@@ -2306,7 +2320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "ApodexAI"
     },
     {
@@ -2481,7 +2495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "luke321"
     },
     {
@@ -2664,19 +2678,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "retr0id"
-    },
-    {
-      "title": "the beauty in dsl-able languages",
-      "url": "https://w.on-t.work/dslable",
-      "published_at": "2026-08-25T21:12:38.501-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "kotlin",
-        "plt"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "FedericoSchonborn"
     },
     {
       "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
@@ -3337,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 940,
       "user": "nateherkai"
     },
     {
@@ -3352,7 +3353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 376,
       "user": "kunchenguid"
     },
     {
@@ -3367,7 +3368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 339,
       "user": "GamePhanes"
     },
     {
@@ -3382,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 243,
       "user": "thiagotigaz"
     },
     {
@@ -3397,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 157,
+      "stars": 159,
       "user": "luke321"
     },
     {
@@ -3442,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 772,
       "user": "ApodexAI"
     },
     {
@@ -3472,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 459,
       "user": "LB623"
     },
     {
@@ -3517,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 76,
+      "stars": 78,
       "user": "context-labs"
     },
     {
@@ -3562,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2639,
+      "stars": 2650,
       "user": "b-nnett"
     },
     {
@@ -3607,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 342,
       "user": "rome-os"
     },
     {
@@ -3622,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 316,
       "user": "amosblomqvist"
     },
     {
@@ -3637,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1672,
+      "stars": 1682,
       "user": "tobi"
     },
     {
@@ -3682,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "dragthelake"
     },
     {
@@ -3717,7 +3718,7 @@
       "title": "How do you differentiate between a tutorial/toy repo and an actual project?",
       "url": "https://stackoverflow.com/questions/79998275/how-do-you-differentiate-between-a-tutorial-toy-repo-and-an-actual-project",
       "published_at": "2026-08-26T06:28:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "github",
