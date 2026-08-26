@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 934,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "kunchenguid"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 795,
       "user": "ShadowAqueduct"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 758,
       "user": "ApodexAI"
     },
     {
@@ -761,7 +761,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "zhaoxuya520"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "kgoedecke"
     },
     {
@@ -836,7 +836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 315,
       "user": "amosblomqvist"
     },
     {
@@ -942,10 +942,10 @@
       "published_at": "2026-08-26T03:30:00.000Z",
       "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
       "tags": [
-        "TC",
         "AI",
         "Fundraising",
         "India",
+        "Peak XV Partners",
         "voice AI"
       ],
       "cover_image": null,
@@ -1372,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 934,
       "user": "nateherkai"
     },
     {
@@ -1387,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "kunchenguid"
     },
     {
@@ -1447,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 758,
       "user": "ApodexAI"
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2632,
+      "stars": 2639,
       "user": "b-nnett"
     },
     {
@@ -1507,7 +1507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "kgoedecke"
     },
     {
@@ -1537,23 +1537,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 315,
       "user": "amosblomqvist"
-    },
-    {
-      "title": "trouble in connecting MongoDb atlas",
-      "url": "https://stackoverflow.com/questions/79998273/trouble-in-connecting-mongodb-atlas",
-      "published_at": "2026-08-26T06:17:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "mongodb",
-        "mongoose"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "EL CHAPO"
     },
     {
       "title": "Link is active?",
@@ -1682,6 +1667,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bobby324"
+    },
+    {
+      "title": "Why is iterating over a TypedArray of bitmasks 4x slower than a boolean array in Node.js or V8?",
+      "url": "https://stackoverflow.com/questions/79997563/why-is-iterating-over-a-typedarray-of-bitmasks-4x-slower-than-a-boolean-array-in",
+      "published_at": "2026-08-23T15:00:49.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "performance",
+        "bitwise-operators",
+        "v8"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user28224355"
     },
     {
       "title": "How to Build Type-Safe APIs with Hono and Zod",
@@ -1893,7 +1894,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 795,
       "user": "ShadowAqueduct"
     },
     {
@@ -1908,7 +1909,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 758,
       "user": "ApodexAI"
     },
     {
@@ -1938,7 +1939,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 450,
       "user": "LB623"
     },
     {
@@ -1954,8 +1955,8 @@
       "user": "rmpr"
     },
     {
-      "title": "How do you differentiate between a Tutorial/Toy Repo and Actual Project?",
-      "url": "https://stackoverflow.com/questions/79998275/how-do-you-differentiate-between-a-tutorial-toy-repo-and-actual-project",
+      "title": "How do you differentiate between a tutorial/toy repo and an actual project?",
+      "url": "https://stackoverflow.com/questions/79998275/how-do-you-differentiate-between-a-tutorial-toy-repo-and-an-actual-project",
       "published_at": "2026-08-26T06:28:30.000Z",
       "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
@@ -2305,7 +2306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 758,
       "user": "ApodexAI"
     },
     {
@@ -2495,7 +2496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 795,
       "user": "ShadowAqueduct"
     },
     {
@@ -2884,21 +2885,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "trouble in connecting MongoDb atlas",
-      "url": "https://stackoverflow.com/questions/79998273/trouble-in-connecting-mongodb-atlas",
-      "published_at": "2026-08-26T06:17:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "mongodb",
-        "mongoose"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "EL CHAPO"
     },
     {
       "title": "Cannot set up MySQL database using Express and aiven hosted DB",
@@ -3351,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 932,
+      "stars": 934,
       "user": "nateherkai"
     },
     {
@@ -3366,7 +3352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 368,
       "user": "kunchenguid"
     },
     {
@@ -3441,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 794,
+      "stars": 795,
       "user": "ShadowAqueduct"
     },
     {
@@ -3456,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 739,
+      "stars": 758,
       "user": "ApodexAI"
     },
     {
@@ -3486,7 +3472,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 450,
       "user": "LB623"
     },
     {
@@ -3501,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 177,
       "user": "zhaoxuya520"
     },
     {
@@ -3531,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 76,
       "user": "context-labs"
     },
     {
@@ -3576,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2632,
+      "stars": 2639,
       "user": "b-nnett"
     },
     {
@@ -3606,7 +3592,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 383,
       "user": "kgoedecke"
     },
     {
@@ -3636,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 315,
       "user": "amosblomqvist"
     },
     {
@@ -3651,7 +3637,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1656,
+      "stars": 1672,
       "user": "tobi"
     },
     {
@@ -3728,8 +3714,8 @@
       "user": "wally"
     },
     {
-      "title": "How do you differentiate between a Tutorial/Toy Repo and Actual Project?",
-      "url": "https://stackoverflow.com/questions/79998275/how-do-you-differentiate-between-a-tutorial-toy-repo-and-actual-project",
+      "title": "How do you differentiate between a tutorial/toy repo and an actual project?",
+      "url": "https://stackoverflow.com/questions/79998275/how-do-you-differentiate-between-a-tutorial-toy-repo-and-an-actual-project",
       "published_at": "2026-08-26T06:28:30.000Z",
       "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [

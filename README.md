@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8) | Dev.to |
 | 20 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-23ob) | Dev.to |
 
-<sub>Last fetched: Wed, 26 Aug 2026 09:08:04 CAT</sub>
+<sub>Last fetched: Wed, 26 Aug 2026 09:59:36 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the longest substring without repeating characters**
+**1. `SystemDesign` — How would you design a rate limiter?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 strings, sliding window
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, algorithms
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Sliding window, hash map, two pointers
+> Token bucket, sliding window, distributed systems
 
 </details>
 
-**2. `React` — What is the Virtual DOM and how does React use it?**
+**2. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Mutability, performance, use cases
 
 </details>
 
-**3. `JavaScript` — Explain event delegation and why it's useful**
+**3. `SystemDesign` — Design Twitter's timeline feature**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> Fan-out, caching, ranking, real-time updates
 
 </details>
 
@@ -173,7 +173,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **WebDev** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 27.1%
-Go              █████████████████████████ 22.6%
-Python          ███████████████████████ 20.6%
-Java            ███████████████████████ 20.6%
+JavaScript      ██████████████████████████████ 27.3%
+Go              ████████████████████████ 22.1%
+Python          ███████████████████████ 20.8%
+Java            ███████████████████████ 20.8%
 Rust            ██████ 5.2%
 Kotlin          ███ 2.6%
 Swift           █ 1.3%
@@ -207,7 +207,7 @@ Swift           █ 1.3%
 ```mermaid
 pie title Programming Languages Distribution
     "JavaScript" : 42
-    "Go" : 35
+    "Go" : 34
     "Python" : 32
     "Java" : 32
     "Rust" : 8
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 26 Aug 2026 07:08:04 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 26 Aug 2026 07:59:36 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
