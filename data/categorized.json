@@ -224,6 +224,21 @@
       "user": "xbill"
     },
     {
+      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
+      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
+      "published_at": "2026-08-20T01:56:59Z",
+      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
+      "tags": [
+        "dart",
+        "python",
+        "rust",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Deploying a QAT Checkpoint Your Serving Stack Can't Load: Gemma 4 E2B in Pure JAX on One TPU",
       "url": "https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm",
       "published_at": "2026-08-19T13:43:23Z",
@@ -462,21 +477,6 @@
       "user": "Sarvar Nadaf"
     },
     {
-      "title": "So, I Vibe Coded A Way Out, Again.",
-      "url": "https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb",
-      "published_at": "2026-08-16T22:18:46Z",
-      "description": "A while ago I wrote an article asking When Is 100% Vibe Coding OK?.  My conclusion was that it works...",
-      "tags": [
-        "ai",
-        "productivity",
-        "vibecoding",
-        "cschallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdkdf670y1x8c4wmfprc3.png",
-      "source": "Dev.to",
-      "user": "Viorel PETCU"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -656,7 +656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 975,
       "user": "nateherkai"
     },
     {
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 397,
       "user": "kunchenguid"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 188,
       "user": "luke321"
     },
     {
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 877,
       "user": "ApodexAI"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 180,
       "user": "zhaoxuya520"
     },
     {
@@ -791,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 405,
+      "stars": 412,
       "user": "kgoedecke"
     },
     {
@@ -806,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 380,
       "user": "amosblomqvist"
     },
     {
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 202,
       "user": "truespar"
     },
     {
@@ -836,20 +836,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "josiah-nelson"
-    },
-    {
-      "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
-      "url": "https://www.jack.bio/blog/licenseplate",
-      "published_at": "2026-08-26T01:00:12.856-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "indigo"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
@@ -897,6 +885,65 @@
       "user": "Purujit Piyal Sana"
     },
     {
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "published_at": "2026-08-26T15:47:28.000Z",
+      "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "TC",
+        "podcasts"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "published_at": "2026-08-26T15:00:00.000Z",
+      "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Meta",
+        "perceptron",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "published_at": "2026-08-26T14:37:01.000Z",
+      "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "tags": [
+        "AI",
+        "Bill Gates"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "published_at": "2026-08-26T14:19:29.000Z",
+      "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "tags": [
+        "AI",
+        "GLM",
+        "open weight",
+        "Z.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Robot brain builders are pushing out of their GPT-2 era",
       "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
       "published_at": "2026-08-26T13:30:00.000Z",
@@ -923,98 +970,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "published_at": "2026-08-26T12:55:28.000Z",
-      "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "AI agents"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "published_at": "2026-08-26T12:00:00.000Z",
-      "description": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "tags": [
-        "Startups",
-        "Hardware",
-        "AI",
-        "Gadgets",
-        "accessibility"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "published_at": "2026-08-26T11:00:00.000Z",
-      "description": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-      "tags": [
-        "Startups",
-        "AI",
-        "Exclusive",
-        "Nexus Venture Partners",
-        "Susquehanna Asia Venture Capital"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-      "published_at": "2026-08-26T07:00:00.000Z",
-      "description": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
-      "tags": [
-        "Venture",
-        "Ventures Platform"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "published_at": "2026-08-26T03:30:00.000Z",
-      "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "India",
-        "Peak XV Partners",
-        "voice AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "published_at": "2026-08-26T00:40:59.000Z",
-      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "8VC",
-        "Exclusive",
-        "radical ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "What Happens to a Medical Image Before and After a Model Sees It",
@@ -1378,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 975,
       "user": "nateherkai"
     },
     {
@@ -1393,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 397,
       "user": "kunchenguid"
     },
     {
@@ -1423,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "thiagotigaz"
     },
     {
@@ -1438,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 188,
       "user": "luke321"
     },
     {
@@ -1453,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 877,
       "user": "ApodexAI"
     },
     {
@@ -1483,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2732,
+      "stars": 2781,
       "user": "b-nnett"
     },
     {
@@ -1502,21 +1457,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
-      "source": "GitHub",
-      "stars": 405,
-      "user": "kgoedecke"
-    },
-    {
       "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "url": "https://github.com/wide-trace/open-higgsfield",
       "published_at": "2026-08-26T06:09:58Z",
@@ -1528,8 +1468,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 450,
       "user": "wide-trace"
+    },
+    {
+      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "published_at": "2026-08-22T15:40:51Z",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "source": "GitHub",
+      "stars": 412,
+      "user": "kgoedecke"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -1543,7 +1498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 380,
       "user": "amosblomqvist"
     },
     {
@@ -1559,22 +1514,10 @@
       "user": "freddyb"
     },
     {
-      "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
-      "url": "https://www.jack.bio/blog/licenseplate",
-      "published_at": "2026-08-26T01:00:12.856-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "indigo"
-    },
-    {
       "title": "How can I securely verify that a smart contract event was emitted after a transaction succeeds?",
       "url": "https://stackoverflow.com/questions/79998380/how-can-i-securely-verify-that-a-smart-contract-event-was-emitted-after-a-transa",
       "published_at": "2026-08-26T13:18:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1620,7 +1563,7 @@
       "title": "Link is active?",
       "url": "https://stackoverflow.com/questions/79998231/link-is-active",
       "published_at": "2026-08-25T23:29:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "dom"
@@ -1763,6 +1706,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
+      "url": "https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg",
+      "published_at": "2026-08-20T01:56:59Z",
+      "description": "The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).",
+      "tags": [
+        "dart",
+        "python",
+        "rust",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1911,7 +1869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 877,
       "user": "ApodexAI"
     },
     {
@@ -1956,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "LB623"
     },
     {
@@ -1975,7 +1933,7 @@
       "title": "Why can I not convert this set to a dictionary?",
       "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
       "published_at": "2026-08-26T13:19:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python"
       ],
@@ -2321,7 +2279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 877,
       "user": "ApodexAI"
     },
     {
@@ -2496,7 +2454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 188,
       "user": "luke321"
     },
     {
@@ -2845,6 +2803,22 @@
       "user": "jsongmax"
     },
     {
+      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
+      "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+      "published_at": "2026-08-26T14:44:33.000Z",
+      "description": "Ring says  users can still opt for end-to-end encryption.",
+      "tags": [
+        "Apps",
+        "Hardware",
+        "Amazon",
+        "encryption",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
       "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
       "published_at": "2026-08-26T13:43:01.000Z",
@@ -3167,6 +3141,38 @@
       "user": "freddyb"
     },
     {
+      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
+      "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+      "published_at": "2026-08-26T14:44:33.000Z",
+      "description": "Ring says  users can still opt for end-to-end encryption.",
+      "tags": [
+        "Apps",
+        "Hardware",
+        "Amazon",
+        "encryption",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
+      "published_at": "2026-08-26T14:31:05.000Z",
+      "description": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
+      "tags": [
+        "Security",
+        "CISA",
+        "critical infrastructure",
+        "cybersecurity",
+        "iran"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "QueryStory wants you to believe what AI is telling you",
       "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
       "published_at": "2026-08-26T13:00:00.000Z",
@@ -3317,21 +3323,6 @@
       "user": "isha singh"
     },
     {
-      "title": "So, I Vibe Coded A Way Out, Again.",
-      "url": "https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb",
-      "published_at": "2026-08-16T22:18:46Z",
-      "description": "A while ago I wrote an article asking When Is 100% Vibe Coding OK?.  My conclusion was that it works...",
-      "tags": [
-        "ai",
-        "productivity",
-        "vibecoding",
-        "cschallenge"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdkdf670y1x8c4wmfprc3.png",
-      "source": "Dev.to",
-      "user": "Viorel PETCU"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3379,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 975,
       "user": "nateherkai"
     },
     {
@@ -3394,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 390,
+      "stars": 397,
       "user": "kunchenguid"
     },
     {
@@ -3424,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 247,
+      "stars": 250,
       "user": "thiagotigaz"
     },
     {
@@ -3439,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 188,
       "user": "luke321"
     },
     {
@@ -3469,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 855,
+      "stars": 877,
       "user": "ApodexAI"
     },
     {
@@ -3514,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 480,
       "user": "LB623"
     },
     {
@@ -3544,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 180,
       "user": "zhaoxuya520"
     },
     {
@@ -3574,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 92,
+      "stars": 96,
       "user": "context-labs"
     },
     {
@@ -3604,7 +3595,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2732,
+      "stars": 2781,
       "user": "b-nnett"
     },
     {
@@ -3623,21 +3614,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
-      "source": "GitHub",
-      "stars": 405,
-      "user": "kgoedecke"
-    },
-    {
       "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "url": "https://github.com/wide-trace/open-higgsfield",
       "published_at": "2026-08-26T06:09:58Z",
@@ -3649,8 +3625,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 450,
       "user": "wide-trace"
+    },
+    {
+      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "published_at": "2026-08-22T15:40:51Z",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "source": "GitHub",
+      "stars": 412,
+      "user": "kgoedecke"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -3664,7 +3655,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 380,
       "user": "amosblomqvist"
     },
     {
@@ -3679,7 +3670,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1795,
+      "stars": 1854,
       "user": "tobi"
     },
     {
@@ -3694,23 +3685,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 202,
       "user": "truespar"
-    },
-    {
-      "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
-      "url": "https://github.com/josiah-nelson/eidos",
-      "published_at": "2026-08-22T17:23:29Z",
-      "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
-      "source": "GitHub",
-      "stars": 126,
-      "user": "josiah-nelson"
     },
     {
       "title": "dragthelake/ambient-context - A menu bar app that keeps a written record of what you worked on.",
@@ -3724,8 +3700,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 129,
       "user": "dragthelake"
+    },
+    {
+      "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
+      "url": "https://github.com/josiah-nelson/eidos",
+      "published_at": "2026-08-22T17:23:29Z",
+      "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
+      "source": "GitHub",
+      "stars": 127,
+      "user": "josiah-nelson"
     },
     {
       "title": "benja/ask - Ask, then do. Follow up when you need to.",
