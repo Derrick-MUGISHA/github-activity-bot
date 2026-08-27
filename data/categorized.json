@@ -46,21 +46,6 @@
       "user": "Jonathan Murray"
     },
     {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
       "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
       "published_at": "2026-08-25T17:04:18Z",
@@ -119,6 +104,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1013,
       "user": "nateherkai"
     },
     {
@@ -686,7 +686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 418,
       "user": "kunchenguid"
     },
     {
@@ -701,23 +701,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "luke321"
-    },
-    {
-      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "published_at": "2026-08-20T13:40:06Z",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 937,
-      "user": "cclank"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -731,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "ApodexAI"
     },
     {
@@ -761,23 +746,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "zhaoxuya520"
     },
     {
-      "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
-      "url": "https://github.com/mindsdb/setfree",
-      "published_at": "2026-08-20T14:09:52Z",
-      "description": "Set claude, codex, any coding CLI free to any LLM provider",
+      "title": "lshan02508-ai/GOLLM - GitHub Repository",
+      "url": "https://github.com/lshan02508-ai/GOLLM",
+      "published_at": "2026-08-22T09:41:17Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/275397250?v=4",
       "source": "GitHub",
-      "stars": 59,
-      "user": "mindsdb"
+      "stars": 35,
+      "user": "lshan02508-ai"
     },
     {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
@@ -791,7 +776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 512,
       "user": "Forsy-AI"
     },
     {
@@ -806,7 +791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "kgoedecke"
     },
     {
@@ -821,7 +806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 418,
       "user": "amosblomqvist"
     },
     {
@@ -836,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "truespar"
     },
     {
@@ -878,6 +863,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "stephenr"
+    },
+    {
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "published_at": "2026-08-26T12:05:04.798-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "equeue"
     },
     {
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
@@ -925,6 +923,51 @@
       "user": "Purujit Piyal Sana"
     },
     {
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "published_at": "2026-08-27T00:24:57.000Z",
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "tags": [
+        "AI",
+        "Funding",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "published_at": "2026-08-26T23:47:18.000Z",
+      "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Amazon",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan, Kirsten Korosec"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "published_at": "2026-08-26T21:37:39.000Z",
+      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "nscale",
+        "nvidia",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
       "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
       "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
       "published_at": "2026-08-26T19:37:34.000Z",
@@ -933,7 +976,8 @@
         "AI",
         "Apps",
         "ai apps",
-        "consumer apps"
+        "Google",
+        "google gemini"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -947,7 +991,8 @@
       "tags": [
         "AI",
         "greg brockman",
-        "OpenAI"
+        "OpenAI",
+        "sam altman"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -998,65 +1043,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
-      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "published_at": "2026-08-26T17:00:00.000Z",
-      "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
-      "tags": [
-        "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Apple is holding its iPhone launch event on September 9",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-      "published_at": "2026-08-26T16:53:07.000Z",
-      "description": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
-      "tags": [
-        "Hardware",
-        "Apple",
-        "In Brief",
-        "iPhone"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
-      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
-      "published_at": "2026-08-26T16:03:14.000Z",
-      "description": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
-      "tags": [
-        "Apps",
-        "Social",
-        "Facebook",
-        "Instagram",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "published_at": "2026-08-26T16:00:00.000Z",
-      "description": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn’t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately — legal AI company&#160;Legora&#160;and health tech ",
-      "tags": [
-        "Venture",
-        "Neko Health",
-        "Lovable",
-        "european market",
-        "nordic market"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Stop Letting AI Agents Fake Their Own Tests",
@@ -1374,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1013,
       "user": "nateherkai"
     },
     {
@@ -1389,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 418,
       "user": "kunchenguid"
     },
     {
@@ -1419,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "thiagotigaz"
     },
     {
@@ -1434,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "luke321"
     },
     {
@@ -1449,23 +1435,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "ApodexAI"
-    },
-    {
-      "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
-      "url": "https://github.com/jsongmax/oci-core",
-      "published_at": "2026-08-20T02:03:30Z",
-      "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54309806?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "jsongmax"
     },
     {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
@@ -1479,7 +1450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2950,
+      "stars": 3027,
       "user": "b-nnett"
     },
     {
@@ -1494,7 +1465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 551,
       "user": "wide-trace"
     },
     {
@@ -1509,7 +1480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 512,
       "user": "Forsy-AI"
     },
     {
@@ -1524,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "kgoedecke"
     },
     {
@@ -1539,14 +1510,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 418,
       "user": "amosblomqvist"
+    },
+    {
+      "title": "How to link directly to an open accordion/variant state on another page?",
+      "url": "https://stackoverflow.com/questions/79998483/how-to-link-directly-to-an-open-accordion-variant-state-on-another-page",
+      "published_at": "2026-08-26T20:42:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "framerjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dominic Ender"
     },
     {
       "title": "Radio Button Action",
       "url": "https://stackoverflow.com/questions/79998458/radio-button-action",
       "published_at": "2026-08-26T18:49:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "jquery"
@@ -1554,6 +1538,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FoundationsFour"
+    },
+    {
+      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
+      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
+      "published_at": "2026-08-26T10:45:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-query"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roshani Shrestha"
     },
     {
       "title": "How can I securely verify that a smart contract event was emitted after a transaction succeeds?",
@@ -1575,7 +1573,7 @@
       "title": "Setting up offline route in Next.js for fallback with serwist",
       "url": "https://stackoverflow.com/questions/79998342/setting-up-offline-route-in-next-js-for-fallback-with-serwist",
       "published_at": "2026-08-26T11:17:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "reactjs",
@@ -1584,22 +1582,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gabriel Bolarinwa"
-    },
-    {
-      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
-      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
-      "published_at": "2026-08-26T10:45:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "axios",
-        "react-router",
-        "tanstackreact-query"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Roshani Shrestha"
     },
     {
       "title": "Link is active?",
@@ -1672,21 +1654,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ayoub nfinif"
-    },
-    {
-      "title": "Can't Call Action method using JavaScript,the request is not even reaching the Action method",
-      "url": "https://stackoverflow.com/questions/79997810/cant-call-action-method-using-javascript-the-request-is-not-even-reaching-the-a",
-      "published_at": "2026-08-24T14:18:12.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "model-view-controller",
-        "razor",
-        "fetch-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "abd klaib"
     },
     {
       "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
@@ -1902,21 +1869,6 @@
       "user": "arathore"
     },
     {
-      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "published_at": "2026-08-20T13:40:06Z",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 937,
-      "user": "cclank"
-    },
-    {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "url": "https://github.com/ApodexAI/FrontierAgent",
       "published_at": "2026-08-22T05:07:35Z",
@@ -1928,7 +1880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "ApodexAI"
     },
     {
@@ -1962,19 +1914,34 @@
       "user": "LB623"
     },
     {
-      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-      "url": "https://github.com/xdreizein666/getcontact-cli",
-      "published_at": "2026-08-20T03:45:11Z",
-      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "title": "GradientRL/Gradient - Gradient",
+      "url": "https://github.com/GradientRL/Gradient",
+      "published_at": "2026-08-23T23:37:08Z",
+      "description": "Gradient",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167649720?v=4",
       "source": "GitHub",
-      "stars": 489,
-      "user": "xdreizein666"
+      "stars": 434,
+      "user": "GradientRL"
+    },
+    {
+      "title": "fzakaria/selfdb - GitHub Repository",
+      "url": "https://github.com/fzakaria/selfdb",
+      "published_at": "2026-08-23T15:17:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "fzakaria"
     },
     {
       "title": "The Move to Python 3 Begins",
@@ -1992,7 +1959,7 @@
       "title": "\"zsh: segmentation fault\" error using PyQt6 and MacBook",
       "url": "https://stackoverflow.com/questions/79998448/zsh-segmentation-fault-error-using-pyqt6-and-macbook",
       "published_at": "2026-08-26T18:12:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "macos",
@@ -2035,7 +2002,7 @@
       "title": "Why can I not convert this set to a dictionary?",
       "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
       "published_at": "2026-08-26T13:19:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2337,7 +2304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "ApodexAI"
     },
     {
@@ -2497,7 +2464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "luke321"
     },
     {
@@ -2623,21 +2590,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-      "url": "https://github.com/xdreizein666/getcontact-cli",
-      "published_at": "2026-08-20T03:45:11Z",
-      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
-      "source": "GitHub",
-      "stars": 489,
-      "user": "xdreizein666"
-    },
-    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -2649,24 +2601,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 512,
       "user": "Forsy-AI"
     },
     {
-      "title": "React Router UI gets stuck after TanStack Query API request returns 404",
-      "url": "https://stackoverflow.com/questions/79998333/react-router-ui-gets-stuck-after-tanstack-query-api-request-returns-404",
-      "published_at": "2026-08-26T10:45:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+      "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+      "published_at": "2026-08-26T12:01:38.591-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "reactjs",
-        "axios",
-        "react-router",
-        "tanstackreact-query"
+        "android"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Roshani Shrestha"
+      "source": "Lobste.rs",
+      "user": "stilic"
     },
     {
       "title": "Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart",
@@ -2686,21 +2634,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
-      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
-      "published_at": "2026-08-25T20:44:29Z",
-      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.",
       "url": "https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b",
@@ -2740,6 +2673,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy",
+      "url": "https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c",
+      "published_at": "2026-08-25T20:44:29Z",
+      "description": "Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -2801,19 +2749,19 @@
       "user": "xbill"
     },
     {
-      "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
-      "url": "https://github.com/jsongmax/oci-core",
-      "published_at": "2026-08-20T02:03:30Z",
-      "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
+      "title": "DavidCarliez/cover - Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
+      "url": "https://github.com/DavidCarliez/cover",
+      "published_at": "2026-08-21T18:56:30Z",
+      "description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54309806?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "jsongmax"
+      "stars": 42,
+      "user": "DavidCarliez"
     },
     {
       "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
@@ -3163,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 512,
       "user": "Forsy-AI"
     },
     {
@@ -3178,6 +3126,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "chrisl"
+    },
+    {
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "published_at": "2026-08-26T12:05:04.798-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "equeue"
     },
     {
       "title": "OpenAI releases its official report on the Hugging Face breach",
@@ -3425,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1013,
       "user": "nateherkai"
     },
     {
@@ -3440,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 418,
       "user": "kunchenguid"
     },
     {
@@ -3470,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 258,
       "user": "thiagotigaz"
     },
     {
@@ -3485,23 +3446,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "luke321"
-    },
-    {
-      "title": "cclank/lanshu-create-ai-presenter-video - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "published_at": "2026-08-20T13:40:06Z",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29557585?v=4",
-      "source": "GitHub",
-      "stars": 937,
-      "user": "cclank"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -3515,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 906,
+      "stars": 917,
       "user": "ApodexAI"
     },
     {
@@ -3549,19 +3495,34 @@
       "user": "LB623"
     },
     {
-      "title": "xdreizein666/getcontact-cli - GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-      "url": "https://github.com/xdreizein666/getcontact-cli",
-      "published_at": "2026-08-20T03:45:11Z",
-      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "title": "GradientRL/Gradient - Gradient",
+      "url": "https://github.com/GradientRL/Gradient",
+      "published_at": "2026-08-23T23:37:08Z",
+      "description": "Gradient",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/74557195?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/167649720?v=4",
       "source": "GitHub",
-      "stars": 489,
-      "user": "xdreizein666"
+      "stars": 434,
+      "user": "GradientRL"
+    },
+    {
+      "title": "fzakaria/selfdb - GitHub Repository",
+      "url": "https://github.com/fzakaria/selfdb",
+      "published_at": "2026-08-23T15:17:24Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "fzakaria"
     },
     {
       "title": "N4darae/anti-mage - Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
@@ -3575,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 392,
       "user": "N4darae"
     },
     {
@@ -3590,53 +3551,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 182,
       "user": "zhaoxuya520"
     },
     {
-      "title": "context-labs/whip - A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
-      "url": "https://github.com/context-labs/whip",
-      "published_at": "2026-08-20T22:57:11Z",
-      "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+      "title": "DavidCarliez/cover - Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
+      "url": "https://github.com/DavidCarliez/cover",
+      "published_at": "2026-08-21T18:56:30Z",
+      "description": "Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 107,
-      "user": "context-labs"
+      "stars": 42,
+      "user": "DavidCarliez"
     },
     {
-      "title": "jsongmax/oci-core - 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
-      "url": "https://github.com/jsongmax/oci-core",
-      "published_at": "2026-08-20T02:03:30Z",
-      "description": "自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 | Self-hosted multi-account control panel for Oracle Cloud",
+      "title": "lshan02508-ai/GOLLM - GitHub Repository",
+      "url": "https://github.com/lshan02508-ai/GOLLM",
+      "published_at": "2026-08-22T09:41:17Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/54309806?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/275397250?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "jsongmax"
+      "stars": 35,
+      "user": "lshan02508-ai"
     },
     {
-      "title": "mindsdb/setfree - Set claude, codex, any coding CLI free to any LLM provider",
-      "url": "https://github.com/mindsdb/setfree",
-      "published_at": "2026-08-20T14:09:52Z",
-      "description": "Set claude, codex, any coding CLI free to any LLM provider",
+      "title": "parsaenami/taskii - TASKII - A terminal dashboard for tasks, notes, and focus, built with Go and Bubble Tea.",
+      "url": "https://github.com/parsaenami/taskii",
+      "published_at": "2026-08-22T09:42:44Z",
+      "description": "TASKII - A terminal dashboard for tasks, notes, and focus, built with Go and Bubble Tea.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/31035808?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25262338?v=4",
       "source": "GitHub",
-      "stars": 59,
-      "user": "mindsdb"
+      "stars": 29,
+      "user": "parsaenami"
     },
     {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
@@ -3650,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 2950,
+      "stars": 3027,
       "user": "b-nnett"
     },
     {
@@ -3665,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 551,
       "user": "wide-trace"
     },
     {
@@ -3680,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 512,
       "user": "Forsy-AI"
     },
     {
@@ -3695,7 +3656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 418,
       "user": "kgoedecke"
     },
     {
@@ -3710,7 +3671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 418,
       "user": "amosblomqvist"
     },
     {
@@ -3725,7 +3686,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 1958,
+      "stars": 2010,
       "user": "tobi"
     },
     {
@@ -3740,7 +3701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 207,
       "user": "truespar"
     },
     {
@@ -3755,7 +3716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 130,
+      "stars": 132,
       "user": "dragthelake"
     },
     {
@@ -3785,7 +3746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16625915?v=4",
       "source": "GitHub",
-      "stars": 102,
+      "stars": 104,
       "user": "benja"
     },
     {
@@ -3803,18 +3764,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
-      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "published_at": "2026-08-26T17:00:00.000Z",
-      "description": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
-      "tags": [
-        "Venture"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
