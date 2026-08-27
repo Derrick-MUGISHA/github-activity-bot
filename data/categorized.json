@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
-      "published_at": "2026-08-26T18:05:39Z",
-      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
-      "tags": [
-        "showdev",
-        "announcements",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
       "published_at": "2026-08-25T13:36:11Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "published_at": "2026-08-26T18:05:39Z",
+      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "tags": [
+        "showdev",
+        "announcements",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
@@ -671,7 +671,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1047,
       "user": "nateherkai"
     },
     {
@@ -686,23 +686,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 441,
       "user": "kunchenguid"
     },
     {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "url": "https://github.com/czm15053/linuxdo-idea-ui",
+      "published_at": "2026-08-24T08:23:09Z",
+      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 204,
-      "user": "luke321"
+      "stars": 223,
+      "user": "czm15053"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -716,7 +716,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 1067,
       "user": "ApodexAI"
     },
     {
@@ -731,7 +731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 811,
       "user": "ShadowAqueduct"
     },
     {
@@ -746,7 +746,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 187,
       "user": "zhaoxuya520"
     },
     {
@@ -780,21 +780,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "kgoedecke"
-    },
-    {
       "title": "amosblomqvist/learn - My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "published_at": "2026-08-24T16:45:07Z",
@@ -806,8 +791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 452,
       "user": "amosblomqvist"
+    },
+    {
+      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "published_at": "2026-08-22T15:40:51Z",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "kgoedecke"
     },
     {
       "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
@@ -821,7 +821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 212,
       "user": "truespar"
     },
     {
@@ -836,8 +836,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 111,
       "user": "josiah-nelson"
+    },
+    {
+      "title": "Changes to SourceHut's terms of service regarding LLMs",
+      "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "published_at": "2026-08-27T03:37:19.592-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "seb"
     },
     {
       "title": "Haiku R1/beta6 released",
@@ -881,7 +893,7 @@
       "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
       "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
       "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "deep-learning",
@@ -907,30 +919,29 @@
       "user": "Torenware Networks"
     },
     {
-      "title": "How to improve deep learning model sensitivity for subtle ordinal class transitions (e.g., Diabetic Retinopathy)?",
-      "url": "https://stackoverflow.com/questions/79998181/how-to-improve-deep-learning-model-sensitivity-for-subtle-ordinal-class-transiti",
-      "published_at": "2026-08-25T19:11:07.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "published_at": "2026-08-27T06:32:51.000Z",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "tags": [
-        "best-practices",
-        "python",
-        "machine-learning",
-        "deep-learning",
-        "computer-vision"
+        "AI",
+        "TC"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Purujit Piyal Sana"
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "published_at": "2026-08-27T00:24:57.000Z",
       "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
       "tags": [
         "AI",
+        "Startups",
         "Funding",
-        "Startups"
+        "In Brief",
+        "instinct"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1029,20 +1040,20 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "published_at": "2026-08-26T17:01:05.000Z",
-      "description": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
+      "title": "How to Tell If Your Search Console Impressions Came From a Human or a Machine",
+      "url": "https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/",
+      "published_at": "2026-08-27T00:28:31.000Z",
+      "description": "Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c",
       "tags": [
-        "Security",
-        "botnets",
-        "China",
-        "cybersecurity",
-        "cyberattacks"
+        "SEO",
+        "Google Search Console",
+        "analytics",
+        "AI",
+        "Data Science"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "freeCodeCamp",
+      "user": "Chudi Nnorukam"
     },
     {
       "title": "How to Stop Letting AI Agents Fake Their Own Tests",
@@ -1105,22 +1116,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "GAYATHRI BOLINENI"
-    },
-    {
-      "title": "How to Build Type-Safe APIs with Hono and Zod",
-      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
-      "published_at": "2026-08-24T14:03:04.000Z",
-      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
-      "tags": [
-        "TypeScript",
-        "hono",
-        "zod",
-        "api",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "JavaScript": [
@@ -1360,7 +1355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1047,
       "user": "nateherkai"
     },
     {
@@ -1375,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 441,
       "user": "kunchenguid"
     },
     {
@@ -1390,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "GamePhanes"
     },
     {
@@ -1405,23 +1400,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "thiagotigaz"
     },
     {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "url": "https://github.com/czm15053/linuxdo-idea-ui",
+      "published_at": "2026-08-24T08:23:09Z",
+      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 204,
-      "user": "luke321"
+      "stars": 223,
+      "user": "czm15053"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -1435,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 1067,
       "user": "ApodexAI"
     },
     {
@@ -1450,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3027,
+      "stars": 3278,
       "user": "b-nnett"
     },
     {
@@ -1465,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 660,
       "user": "wide-trace"
     },
     {
@@ -1484,21 +1479,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "kgoedecke"
-    },
-    {
       "title": "amosblomqvist/learn - My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "published_at": "2026-08-24T16:45:07Z",
@@ -1510,8 +1490,64 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 452,
       "user": "amosblomqvist"
+    },
+    {
+      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "published_at": "2026-08-22T15:40:51Z",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "kgoedecke"
+    },
+    {
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "apollo-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
+    },
+    {
+      "title": "Using Int Array Reference",
+      "url": "https://stackoverflow.com/questions/79998518/using-int-array-reference",
+      "published_at": "2026-08-27T01:30:20.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ThisStatementIsALie"
+    },
+    {
+      "title": "How can I improve Shopify product page performance without removing dynamic sections?",
+      "url": "https://stackoverflow.com/questions/79998512/how-can-i-improve-shopify-product-page-performance-without-removing-dynamic-sect",
+      "published_at": "2026-08-27T00:18:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "wordpress",
+        "shopify",
+        "e-commerce"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Funsho Shopifypartner"
     },
     {
       "title": "How to link directly to an open accordion/variant state on another page?",
@@ -1530,7 +1566,7 @@
       "title": "Radio Button Action",
       "url": "https://stackoverflow.com/questions/79998458/radio-button-action",
       "published_at": "2026-08-26T18:49:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "jquery"
@@ -1554,6 +1590,19 @@
       "user": "Roshani Shrestha"
     },
     {
+      "title": "Link is active?",
+      "url": "https://stackoverflow.com/questions/79998231/link-is-active",
+      "published_at": "2026-08-25T23:29:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Wayland"
+    },
+    {
       "title": "How can I securely verify that a smart contract event was emitted after a transaction succeeds?",
       "url": "https://stackoverflow.com/questions/79998380/how-can-i-securely-verify-that-a-smart-contract-event-was-emitted-after-a-transa",
       "published_at": "2026-08-26T13:18:34.000Z",
@@ -1570,6 +1619,21 @@
       "user": "Taksh IT Solutions Pvt. Ltd."
     },
     {
+      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
+      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
+      "published_at": "2026-08-25T12:00:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "java",
+        "spring-boot",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Leon"
+    },
+    {
       "title": "Setting up offline route in Next.js for fallback with serwist",
       "url": "https://stackoverflow.com/questions/79998342/setting-up-offline-route-in-next-js-for-fallback-with-serwist",
       "published_at": "2026-08-26T11:17:24.000Z",
@@ -1582,78 +1646,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gabriel Bolarinwa"
-    },
-    {
-      "title": "Link is active?",
-      "url": "https://stackoverflow.com/questions/79998231/link-is-active",
-      "published_at": "2026-08-25T23:29:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "javascript",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Wayland"
-    },
-    {
-      "title": "What's wrong with JS copying strings",
-      "url": "https://stackoverflow.com/questions/79998126/whats-wrong-with-js-copying-strings",
-      "published_at": "2026-08-25T14:19:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "string",
-        "debugging",
-        "copy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tanaki"
-    },
-    {
-      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
-      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
-      "published_at": "2026-08-25T12:00:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "java",
-        "spring-boot",
-        "selenium-webdriver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Leon"
-    },
-    {
-      "title": "Why does React re-render a component when its props haven't changed?",
-      "url": "https://stackoverflow.com/questions/79998009/why-does-react-re-render-a-component-when-its-props-havent-changed",
-      "published_at": "2026-08-25T08:31:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-memo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sahil Khurana"
-    },
-    {
-      "title": "Cannot find native binding",
-      "url": "https://stackoverflow.com/questions/79998109/cannot-find-native-binding",
-      "published_at": "2026-08-25T13:20:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "electron",
-        "desktop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ayoub nfinif"
     },
     {
       "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
@@ -1684,22 +1676,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Daniel Nwaneri"
-    },
-    {
-      "title": "How to Build Type-Safe APIs with Hono and Zod",
-      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
-      "published_at": "2026-08-24T14:03:04.000Z",
-      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
-      "tags": [
-        "TypeScript",
-        "hono",
-        "zod",
-        "api",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "Python": [
@@ -1880,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 1067,
       "user": "ApodexAI"
     },
     {
@@ -1895,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 811,
       "user": "ShadowAqueduct"
     },
     {
@@ -1910,23 +1886,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 528,
       "user": "LB623"
-    },
-    {
-      "title": "GradientRL/Gradient - Gradient",
-      "url": "https://github.com/GradientRL/Gradient",
-      "published_at": "2026-08-23T23:37:08Z",
-      "description": "Gradient",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167649720?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "GradientRL"
     },
     {
       "title": "fzakaria/selfdb - GitHub Repository",
@@ -1940,26 +1901,72 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 436,
       "user": "fzakaria"
     },
     {
-      "title": "The Move to Python 3 Begins",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "published_at": "2026-08-25T11:52:46.126-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "GradientRL/Gradient - Gradient",
+      "url": "https://github.com/GradientRL/Gradient",
+      "published_at": "2026-08-23T23:37:08Z",
+      "description": "Gradient",
       "tags": [
-        "python"
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167649720?v=4",
+      "source": "GitHub",
+      "stars": 398,
+      "user": "GradientRL"
+    },
+    {
+      "title": "How to get authorization code for Spotify API?",
+      "url": "https://stackoverflow.com/questions/79998618/how-to-get-authorization-code-for-spotify-api",
+      "published_at": "2026-08-27T09:30:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "spotify"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "rmpr"
+      "source": "StackOverflow",
+      "user": "ludovico"
+    },
+    {
+      "title": "FastAPI Form() with List[Type] sends array as comma-separated string (\"2,5\") causing 422 parsing error in Swagger UI",
+      "url": "https://stackoverflow.com/questions/79998604/fastapi-form-with-listtype-sends-array-as-comma-separated-string-2-5-cau",
+      "published_at": "2026-08-27T08:35:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "swagger",
+        "fastapi",
+        "swagger-ui",
+        "pydantic"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "buzzbuzz20xx"
+    },
+    {
+      "title": "Why does the typing break when I split one operation into two?",
+      "url": "https://stackoverflow.com/questions/79998534/why-does-the-typing-break-when-i-split-one-operation-into-two",
+      "published_at": "2026-08-27T03:17:00.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-typing",
+        "pylance"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "\"zsh: segmentation fault\" error using PyQt6 and MacBook",
       "url": "https://stackoverflow.com/questions/79998448/zsh-segmentation-fault-error-using-pyqt6-and-macbook",
       "published_at": "2026-08-26T18:12:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "macos",
@@ -1968,6 +1975,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lorenzo Gurrola"
+    },
+    {
+      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
+      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
+      "published_at": "2026-08-26T10:04:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "deep-learning",
+        "pytorch",
+        "cuda",
+        "huggingface-transformers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AheadMint"
+    },
+    {
+      "title": "Can I use `@overload` to fix this typing issue?",
+      "url": "https://stackoverflow.com/questions/79998254/can-i-use-overload-to-fix-this-typing-issue",
+      "published_at": "2026-08-26T03:45:16.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "overloading",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
     },
     {
       "title": "Maze generator in Python with the turtle library using the DFS algorithm",
@@ -1985,59 +2022,16 @@
       "user": "sourcat"
     },
     {
-      "title": "Can I use `@overload` to fix this typing issue?",
-      "url": "https://stackoverflow.com/questions/79998254/can-i-use-overload-to-fix-this-typing-issue",
-      "published_at": "2026-08-26T03:45:16.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "overloading",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
       "title": "Why can I not convert this set to a dictionary?",
       "url": "https://stackoverflow.com/questions/79998381/why-can-i-not-convert-this-set-to-a-dictionary",
       "published_at": "2026-08-26T13:19:59.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Albaraa Sabrin_"
-    },
-    {
-      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
-      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
-      "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "deep-learning",
-        "pytorch",
-        "cuda",
-        "huggingface-transformers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AheadMint"
-    },
-    {
-      "title": "Setting up openai agent tracing dies with 403 error",
-      "url": "https://stackoverflow.com/questions/79998261/setting-up-openai-agent-tracing-dies-with-403-error",
-      "published_at": "2026-08-26T04:54:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "mlflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Torenware Networks"
     },
     {
       "title": "How to merge specific rows in a pandas DataFrame?",
@@ -2054,47 +2048,32 @@
       "user": "fazan"
     },
     {
-      "title": "Ring coupler issue in Python",
-      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
-      "published_at": "2026-08-25T12:06:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HAdes"
-    },
-    {
-      "title": "Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379",
-      "url": "https://stackoverflow.com/questions/79998186/django-channels-redis-exceptions-timeouterror-timeout-reading-from-127-0-0-163",
-      "published_at": "2026-08-25T19:30:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "django",
-        "redis"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Amythist Arira"
-    },
-    {
-      "title": "How to improve deep learning model sensitivity for subtle ordinal class transitions (e.g., Diabetic Retinopathy)?",
-      "url": "https://stackoverflow.com/questions/79998181/how-to-improve-deep-learning-model-sensitivity-for-subtle-ordinal-class-transiti",
-      "published_at": "2026-08-25T19:11:07.000Z",
+      "title": "Setting up openai agent tracing dies with 403 error",
+      "url": "https://stackoverflow.com/questions/79998261/setting-up-openai-agent-tracing-dies-with-403-error",
+      "published_at": "2026-08-26T04:54:53.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "best-practices",
         "python",
-        "machine-learning",
-        "deep-learning",
-        "computer-vision"
+        "mlflow"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Purujit Piyal Sana"
+      "user": "Torenware Networks"
+    },
+    {
+      "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
+      "url": "https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/",
+      "published_at": "2026-08-26T21:11:26.000Z",
+      "description": "Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive",
+      "tags": [
+        "Python",
+        "#Stock market",
+        "trading,",
+        "FastAPI"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Nikhil Adithyan"
     },
     {
       "title": "From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]",
@@ -2304,24 +2283,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 1067,
       "user": "ApodexAI"
-    },
-    {
-      "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
-      "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
-      "published_at": "2026-08-22T03:00:00.000Z",
-      "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
-      "tags": [
-        "Devops",
-        "Open Source",
-        "Cloud Computing",
-        "cloud native",
-        "#prometheus"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Purity Udeh"
     }
   ],
   "WebDev": [
@@ -2453,21 +2416,6 @@
       "user": "velmu"
     },
     {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
-      "source": "GitHub",
-      "stars": 204,
-      "user": "luke321"
-    },
-    {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
       "published_at": "2026-08-23T21:14:28Z",
@@ -2479,24 +2427,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 811,
       "user": "ShadowAqueduct"
-    },
-    {
-      "title": "How to Build Type-Safe APIs with Hono and Zod",
-      "url": "https://www.freecodecamp.org/news/how-to-build-type-safe-apis-with-hono-and-zod/",
-      "published_at": "2026-08-24T14:03:04.000Z",
-      "description": "If you've shipped a Node.js API before, you already know this pain: your TypeScript types say one thing, your runtime validation says another, and your OpenAPI docs quietly disagree with both. Someone",
-      "tags": [
-        "TypeScript",
-        "hono",
-        "zod",
-        "api",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinedu Otutu"
     }
   ],
   "Mobile": [
@@ -2705,20 +2637,6 @@
       "user": "xbill"
     },
     {
-      "title": "Building a viral Imax ticketing app that never crashes",
-      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58",
-      "published_at": "2026-08-20T21:29:37Z",
-      "description": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
-      "tags": [
-        "googlecloud",
-        "temporal",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb4i5x64vwb0pto5vob9j.png",
-      "source": "Dev.to",
-      "user": "Tilde A. Thurium"
-    },
-    {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
       "url": "https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc",
       "published_at": "2026-08-20T13:37:59Z",
@@ -2749,6 +2667,20 @@
       "user": "xbill"
     },
     {
+      "title": "Building a viral Imax ticketing app that never crashes",
+      "url": "https://dev.to/googleai/building-a-viral-imax-ticketing-app-that-never-crashes-4d58",
+      "published_at": "2026-08-20T21:29:37Z",
+      "description": "When 150,000 tickets went on sale for The Odyssey in 70mm IMAX, they sold out almost instantly. But...",
+      "tags": [
+        "googlecloud",
+        "temporal",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb4i5x64vwb0pto5vob9j.png",
+      "source": "Dev.to",
+      "user": "Tilde A. Thurium"
+    },
+    {
       "title": "DavidCarliez/cover - Keep private data, internal infrastructure and secrets out of cloud coding agents without breaking your workflow.",
       "url": "https://github.com/DavidCarliez/cover",
       "published_at": "2026-08-21T18:56:30Z",
@@ -2776,20 +2708,17 @@
       "user": "stephenr"
     },
     {
-      "title": "How to Convert Prometheus Histograms to OTLP with the OpenTelemetry Collector",
-      "url": "https://www.freecodecamp.org/news/how-to-convert-prometheus-histogramsotlp-with-the-opentelemetry-collector/",
-      "published_at": "2026-08-22T03:00:00.000Z",
-      "description": "Modern applications often expose metrics at a /metrics endpoint using the Prometheus format. Among these metrics, histograms are particularly useful. They show how often values fall into different ran",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "published_at": "2026-08-27T06:32:51.000Z",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "tags": [
-        "Devops",
-        "Open Source",
-        "Cloud Computing",
-        "cloud native",
-        "#prometheus"
+        "AI",
+        "TC"
       ],
       "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Purity Udeh"
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     }
   ],
   "Database": [
@@ -2848,18 +2777,18 @@
       "user": "stephenr"
     },
     {
-      "title": "Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379",
-      "url": "https://stackoverflow.com/questions/79998186/django-channels-redis-exceptions-timeouterror-timeout-reading-from-127-0-0-163",
-      "published_at": "2026-08-25T19:30:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "python",
-        "django",
-        "redis"
+        "javascript",
+        "postgresql",
+        "apollo-server"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Amythist Arira"
+      "user": "erkanunluturk"
     },
     {
       "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
@@ -3171,22 +3100,6 @@
       "user": "Zack Whittaker"
     },
     {
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "published_at": "2026-08-26T17:01:05.000Z",
-      "description": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
-      "tags": [
-        "Security",
-        "botnets",
-        "China",
-        "cybersecurity",
-        "cyberattacks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
       "title": "How to Fix a Leaked API Key: A Developer’s Guide to Git Security",
       "url": "https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/",
       "published_at": "2026-08-25T18:22:13.000Z",
@@ -3205,21 +3118,6 @@
   ],
   "Tools": [
     {
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
-      "published_at": "2026-08-26T18:05:39Z",
-      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
-      "tags": [
-        "showdev",
-        "announcements",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
       "published_at": "2026-08-25T13:36:11Z",
@@ -3233,6 +3131,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
       "source": "Dev.to",
       "user": "Ashley Childress"
+    },
+    {
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "published_at": "2026-08-26T18:05:39Z",
+      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "tags": [
+        "showdev",
+        "announcements",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
@@ -3386,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 1013,
+      "stars": 1047,
       "user": "nateherkai"
     },
     {
@@ -3401,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3233006?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 441,
       "user": "kunchenguid"
     },
     {
@@ -3416,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319268748?v=4",
       "source": "GitHub",
-      "stars": 339,
+      "stars": 340,
       "user": "GamePhanes"
     },
     {
@@ -3431,23 +3344,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4993320?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 259,
       "user": "thiagotigaz"
     },
     {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "url": "https://github.com/czm15053/linuxdo-idea-ui",
+      "published_at": "2026-08-24T08:23:09Z",
+      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 204,
-      "user": "luke321"
+      "stars": 223,
+      "user": "czm15053"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -3461,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 917,
+      "stars": 1067,
       "user": "ApodexAI"
     },
     {
@@ -3476,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 811,
       "user": "ShadowAqueduct"
     },
     {
@@ -3491,23 +3404,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/248428362?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 528,
       "user": "LB623"
-    },
-    {
-      "title": "GradientRL/Gradient - Gradient",
-      "url": "https://github.com/GradientRL/Gradient",
-      "published_at": "2026-08-23T23:37:08Z",
-      "description": "Gradient",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167649720?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "GradientRL"
     },
     {
       "title": "fzakaria/selfdb - GitHub Repository",
@@ -3521,14 +3419,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 436,
       "user": "fzakaria"
     },
     {
-      "title": "N4darae/anti-mage - Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
+      "title": "GradientRL/Gradient - Gradient",
+      "url": "https://github.com/GradientRL/Gradient",
+      "published_at": "2026-08-23T23:37:08Z",
+      "description": "Gradient",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167649720?v=4",
+      "source": "GitHub",
+      "stars": 398,
+      "user": "GradientRL"
+    },
+    {
+      "title": "N4darae/anti-mage - Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
       "url": "https://github.com/N4darae/anti-mage",
       "published_at": "2026-08-22T04:11:00Z",
-      "description": "Test the browser using various methods and algorithms, performing calculations based on multiple parameters",
+      "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
       "tags": [
         "go",
         "github",
@@ -3536,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 461,
       "user": "N4darae"
     },
     {
@@ -3551,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 187,
       "user": "zhaoxuya520"
     },
     {
@@ -3585,19 +3498,19 @@
       "user": "lshan02508-ai"
     },
     {
-      "title": "parsaenami/taskii - TASKII - A terminal dashboard for tasks, notes, and focus, built with Go and Bubble Tea.",
-      "url": "https://github.com/parsaenami/taskii",
-      "published_at": "2026-08-22T09:42:44Z",
-      "description": "TASKII - A terminal dashboard for tasks, notes, and focus, built with Go and Bubble Tea.",
+      "title": "codex-tweaks/codex-tweaks - 面向 Codex 桌面客户端的本地界面定制工具",
+      "url": "https://github.com/codex-tweaks/codex-tweaks",
+      "published_at": "2026-08-22T09:58:15Z",
+      "description": "面向 Codex 桌面客户端的本地界面定制工具",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25262338?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/321237390?v=4",
       "source": "GitHub",
       "stars": 29,
-      "user": "parsaenami"
+      "user": "codex-tweaks"
     },
     {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
@@ -3611,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3027,
+      "stars": 3278,
       "user": "b-nnett"
     },
     {
@@ -3626,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 660,
       "user": "wide-trace"
     },
     {
@@ -3645,21 +3558,6 @@
       "user": "Forsy-AI"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "kgoedecke"
-    },
-    {
       "title": "amosblomqvist/learn - My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "published_at": "2026-08-24T16:45:07Z",
@@ -3671,8 +3569,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 452,
       "user": "amosblomqvist"
+    },
+    {
+      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "published_at": "2026-08-22T15:40:51Z",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "source": "GitHub",
+      "stars": 424,
+      "user": "kgoedecke"
     },
     {
       "title": "tobi/walgit - GitHub Repository",
@@ -3686,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 2010,
+      "stars": 2201,
       "user": "tobi"
     },
     {
@@ -3701,7 +3614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 207,
+      "stars": 212,
       "user": "truespar"
     },
     {
@@ -3716,7 +3629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 135,
       "user": "dragthelake"
     },
     {
@@ -3731,7 +3644,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 111,
       "user": "josiah-nelson"
     },
     {
@@ -3748,6 +3661,20 @@
       "source": "GitHub",
       "stars": 104,
       "user": "benja"
+    },
+    {
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "published_at": "2026-08-27T08:54:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "apollo-server"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erkanunluturk"
     },
     {
       "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
