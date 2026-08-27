@@ -21,12 +21,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-08-27 12:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-08-27 22:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png" width="200" alt="Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood" />
+      <br/>
+      <b>Two-step control plane upgrades in GKE: How minor ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png" width="200" alt="What Do You Do While AI Codes?" />
@@ -37,19 +46,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png" width="200" alt="Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds" />
+    <a href="https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png" width="200" alt="The agent posted successfully. To the wrong account." />
       <br/>
-      <b>Introducing AI Disclosure on DEV: Tools for Nuance...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/welcome-thread-v390-1bic">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fauent27edcfyb9ydkpln.jpeg" width="200" alt="Welcome Thread - v390" />
-      <br/>
-      <b>Welcome Thread - v390</b>
+      <b>The agent posted successfully. To the wrong accoun...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -57,28 +57,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk6mcyw0haqp8rus5lh5p.png" width="200" alt="I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep" />
+    <a href="https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png" width="200" alt="Vector Search Is Still the Memory Layer Agents Actually Need" />
       <br/>
-      <b>I Counted the Attack Vectors in Our AI Stack and N...</b>
+      <b>Vector Search Is Still the Memory Layer Agents Act...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fokuoy5y9pfhnoqg78s07.png" width="200" alt="Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT." />
+    <a href="https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg" width="200" alt="Cross Cloud A2A Agent Card Field Comparison" />
       <br/>
-      <b>Tech webinar: How to control costs & measure ROI f...</b>
+      <b>Cross Cloud A2A Agent Card Field Comparison</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/alvaromontoro/comicss-255-yellow-1bj">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8kj845st0ugfjtptp9h.png" width="200" alt="comiCSS #255: Yellow" />
+    <a href="https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjvm7orcmfpr5wcyxtv1f.png" width="200" alt="FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views" />
       <br/>
-      <b>comiCSS #255: Yellow</b>
+      <b>FutureBuilder and StreamBuilder as Anti-Patterns: ...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
-| 2 | [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk) | Dev.to |
-| 3 | [Welcome Thread - v390](https://dev.to/devteam/welcome-thread-v390-1bic) | Dev.to |
-| 4 | [I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep](https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o) | Dev.to |
-| 5 | [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b) | Dev.to |
-| 6 | [comiCSS #255: Yellow](https://dev.to/alvaromontoro/comicss-255-yellow-1bj) | Dev.to |
-| 7 | [Building E-commerce AI Agents on MongoDB with CrewAI](https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p) | Dev.to |
-| 8 | [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9) | Dev.to |
-| 9 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
-| 10 | [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) | Dev.to |
-| 11 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f) | Dev.to |
-| 12 | [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c) | Dev.to |
-| 13 | [AI Evals at a Glance: Heatmaps for Stakeholders](https://dev.to/googleai/ai-evals-at-a-glance-heatmaps-for-stakeholders-2mki) | Dev.to |
-| 14 | [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f) | Dev.to |
-| 15 | [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g) | Dev.to |
-| 16 | [Greatness Is Forged by Limitation](https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20) | Dev.to |
-| 17 | [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2) | Dev.to |
-| 18 | [My First Engineering Job Is Teaching Me Something I Didn't Expect](https://dev.to/itsugo/my-first-engineering-job-is-teaching-me-something-i-didnt-expect-l96) | Dev.to |
-| 19 | [I Joined dev.to because...](https://dev.to/francistrdev/i-joined-devto-because-fl0) | Dev.to |
-| 20 | [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8) | Dev.to |
+| 1 | [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l) | Dev.to |
+| 2 | [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k) | Dev.to |
+| 3 | [The agent posted successfully. To the wrong account.](https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3) | Dev.to |
+| 4 | [Vector Search Is Still the Memory Layer Agents Actually Need](https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn) | Dev.to |
+| 5 | [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod) | Dev.to |
+| 6 | [FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views](https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g) | Dev.to |
+| 7 | [[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go](https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o) | Dev.to |
+| 8 | [Tech webinar: How to control costs & measure ROI for Claude Code on GCP - 9/1 12pm PT.](https://dev.to/googleai/tech-webinar-how-to-control-costs-measure-roi-for-claude-code-on-gcp-91-12pm-pt-1m3b) | Dev.to |
+| 9 | [comiCSS #255: Yellow](https://dev.to/alvaromontoro/comicss-255-yellow-1bj) | Dev.to |
+| 10 | [Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]](https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g) | Dev.to |
+| 11 | [Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4](https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l) | Dev.to |
+| 12 | [Building E-commerce AI Agents on MongoDB with CrewAI](https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p) | Dev.to |
+| 13 | [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9) | Dev.to |
+| 14 | [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4) | Dev.to |
+| 15 | [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk) | Dev.to |
+| 16 | [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l) | Dev.to |
+| 17 | [Welcome Thread - v390](https://dev.to/devteam/welcome-thread-v390-1bic) | Dev.to |
+| 18 | [I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep](https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o) | Dev.to |
+| 19 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f) | Dev.to |
+| 20 | [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c) | Dev.to |
 
-<sub>Last fetched: Thu, 27 Aug 2026 12:41:13 CAT</sub>
+<sub>Last fetched: Thu, 27 Aug 2026 22:49:27 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
+**1. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**2. `Python` — What is the difference between list and tuple in Python?**
+**2. `NodeJS` — How do you handle errors in async/await?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> try/catch, .catch(), error middleware
 
 </details>
 
-**3. `JavaScript` — What is the difference between `let`, `const`, and `var`?**
+**3. `SystemDesign` — Design a URL shortening service like bit.ly**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 variables, scope
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Scope, hoisting, and reassignment capabilities
+> Hash function, database design, caching, analytics
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 78 | 42.4% | `████████████████████` |
-| **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **JavaScript** | 40 | 21.7% | `██████████░░░░░░░░░░` |
-| **Python** | 31 | 16.8% | `████████░░░░░░░░░░░░` |
-| **Security** | 22 | 12.0% | `██████░░░░░░░░░░░░░░` |
-| **DevOps** | 14 | 7.6% | `████░░░░░░░░░░░░░░░░` |
+| **AI** | 83 | 45.1% | `████████████████████` |
+| **JavaScript** | 43 | 23.4% | `██████████░░░░░░░░░░` |
+| **Tools** | 42 | 22.8% | `██████████░░░░░░░░░░` |
+| **Python** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
+| **Security** | 22 | 12.0% | `█████░░░░░░░░░░░░░░░` |
+| **DevOps** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
 | **Cloud** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,33 +194,33 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.5%
-Go              ████████████████████████████ 24.5%
-Python          ███████████████████████ 20.5%
-Java            ███████████████████████ 19.9%
-Rust            ██████ 5.3%
-Swift           █ 1.3%
-Kotlin          █ 1.3%
-Ruby            █ 0.7%
+Go              ██████████████████████████████ 26.8%
+JavaScript      █████████████████████████████ 26.2%
+Python          ███████████████████████ 20.1%
+Java            █████████████████████ 18.9%
+Rust            ██████ 5.5%
+Swift           █ 1.2%
+Ruby            █ 0.6%
+Kotlin          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 40
-    "Go" : 37
-    "Python" : 31
-    "Java" : 30
-    "Rust" : 8
+    "Go" : 44
+    "JavaScript" : 43
+    "Python" : 33
+    "Java" : 31
+    "Rust" : 9
     "Swift" : 2
-    "Kotlin" : 2
     "Ruby" : 1
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-31-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-17-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-13-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-13-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-9-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-39-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-32-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-29-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![webdev](https://img.shields.io/badge/webdev-14-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-7-0969da?style=flat-square) ![dart](https://img.shields.io/badge/dart-6-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +272,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 27 Aug 2026 10:41:13 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 27 Aug 2026 20:49:27 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
