@@ -1,6 +1,35 @@
 {
   "AI": [
     {
+      "title": "What Do You Do While AI Codes?",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "published_at": "2026-08-25T13:36:11Z",
+      "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+      "tags": [
+        "discuss",
+        "ai",
+        "productivity",
+        "devex"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
+      "source": "Dev.to",
+      "user": "Ashley Childress"
+    },
+    {
+      "title": "Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️",
+      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+      "published_at": "2026-08-28T13:34:29Z",
+      "description": "You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...",
+      "tags": [
+        "ai",
+        "stt",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk94u52rtj5g7cw3aghk4.webp",
+      "source": "Dev.to",
+      "user": "Guillaume Vernade"
+    },
+    {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
       "published_at": "2026-08-27T17:56:45Z",
@@ -16,19 +45,19 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "What Do You Do While AI Codes?",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "published_at": "2026-08-25T13:36:11Z",
-      "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+      "title": "Cross Cloud A2A Agent Card Field Comparison",
+      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
+      "published_at": "2026-08-27T15:00:08Z",
+      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
       "tags": [
-        "discuss",
+        "a2a",
+        "multicloud",
         "ai",
-        "productivity",
-        "devex"
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
       "source": "Dev.to",
-      "user": "Ashley Childress"
+      "user": "xbill"
     },
     {
       "title": "The agent posted successfully. To the wrong account.",
@@ -61,19 +90,19 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Cross Cloud A2A Agent Card Field Comparison",
-      "url": "https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod",
-      "published_at": "2026-08-27T15:00:08Z",
-      "description": "Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...",
+      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
+      "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
+      "published_at": "2026-08-27T01:00:03Z",
+      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
       "tags": [
-        "a2a",
-        "multicloud",
-        "ai",
-        "python"
+        "gemma",
+        "angular",
+        "tutorial",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Connie Leung"
     },
     {
       "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
@@ -89,21 +118,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
       "source": "Dev.to",
       "user": "Ben Greenberg"
-    },
-    {
-      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
-      "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
-      "published_at": "2026-08-27T01:00:03Z",
-      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
-      "tags": [
-        "gemma",
-        "angular",
-        "tutorial",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
@@ -286,6 +300,19 @@
       "user": "Matthew Revell"
     },
     {
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
+      "published_at": "2026-08-22T10:55:26Z",
+      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
+      "tags": [
+        "webdev",
+        "a11y"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
+      "source": "Dev.to",
+      "user": "Alexandra"
+    },
+    {
       "title": "Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14",
       "url": "https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752",
       "published_at": "2026-08-22T20:29:26Z",
@@ -329,19 +356,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
-    },
-    {
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-      "published_at": "2026-08-22T10:55:26Z",
-      "description": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-      "tags": [
-        "webdev",
-        "a11y"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
-      "source": "Dev.to",
-      "user": "Alexandra"
     },
     {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
@@ -520,36 +534,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fskd0m5rvbu69a8xg8n22.png",
       "source": "Dev.to",
       "user": "Anna Villarreal"
-    },
-    {
-      "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
-      "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
-      "published_at": "2026-08-18T16:08:34Z",
-      "description": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
-      "tags": [
-        "ai",
-        "typescript",
-        "architecture",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftomsun28%2Fpizza%2Fmain%2Fresources%2Fpizza-desktop-white.png",
-      "source": "Dev.to",
-      "user": "tom"
-    },
-    {
-      "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
-      "url": "https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp",
-      "published_at": "2026-08-18T20:50:05Z",
-      "description": "The insider story on Google's commitment to Flutter, the enterprise hiring paradox, and why Flutter is kicking tail on every measurable scale.",
-      "tags": [
-        "flutter",
-        "dart",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2h0i1334b6rh3lql2wp.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -731,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1144,
       "user": "nateherkai"
     },
     {
@@ -746,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 252,
       "user": "czm15053"
     },
     {
@@ -761,23 +745,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "luke321"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "yizhiyanhua-ai"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -791,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1211,
       "user": "ApodexAI"
     },
     {
@@ -806,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 826,
       "user": "ShadowAqueduct"
     },
     {
@@ -821,12 +790,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "zhaoxuya520"
     },
     {
-      "title": "brooxiacaigonv/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
-      "url": "https://github.com/brooxiacaigonv/AIrecall",
+      "title": "javieraltman/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
+      "url": "https://github.com/javieraltman/AIrecall",
       "published_at": "2026-08-27T07:49:51Z",
       "description": "Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
       "tags": [
@@ -837,7 +806,7 @@
       "cover_image": "https://avatars.githubusercontent.com/u/17326827?v=4",
       "source": "GitHub",
       "stars": 38,
-      "user": "brooxiacaigonv"
+      "user": "javieraltman"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -851,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 598,
       "user": "amosblomqvist"
     },
     {
@@ -866,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -881,7 +850,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 482,
       "user": "kgoedecke"
     },
     {
@@ -896,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "truespar"
     },
     {
@@ -915,6 +884,18 @@
       "user": "josiah-nelson"
     },
     {
+      "title": "Now Hiring: Senior Open Source Maintainer",
+      "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
+      "published_at": "2026-08-28T06:57:23.825-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "satire"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
+    },
+    {
       "title": "Changes to SourceHut's terms of service regarding LLMs",
       "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
       "published_at": "2026-08-27T03:37:19.592-05:00",
@@ -927,44 +908,8 @@
       "user": "seb"
     },
     {
-      "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
-      "published_at": "2026-08-27T06:36:05.633-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lr0"
-    },
-    {
-      "title": "Announcing our first Maintainers in Residence",
-      "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
-      "published_at": "2026-08-27T03:44:13.994-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "jamesw"
-    },
-    {
-      "title": "tailcat: like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "published_at": "2026-08-27T05:51:27.875-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "networking"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "gmem"
-    },
-    {
-      "title": "Append column from multiple panda dataframes while retaining filename",
-      "url": "https://stackoverflow.com/questions/79998829/append-column-from-multiple-panda-dataframes-while-retaining-filename",
+      "title": "Append column from multiple pandas dataframes while retaining filename",
+      "url": "https://stackoverflow.com/questions/79998829/append-column-from-multiple-pandas-dataframes-while-retaining-filename",
       "published_at": "2026-08-28T01:04:19.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
@@ -980,7 +925,7 @@
       "title": "SciPy spsolve / SuperLU SUPERLU_MALLOC failure despite available RAM",
       "url": "https://stackoverflow.com/questions/79998676/scipy-spsolve-superlu-superlu-malloc-failure-despite-available-ram",
       "published_at": "2026-08-27T13:26:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "scipy",
@@ -991,20 +936,116 @@
       "user": "Xxlonely"
     },
     {
-      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
-      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
-      "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "published_at": "2026-08-28T15:57:58.000Z",
+      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
       "tags": [
-        "python",
-        "deep-learning",
-        "pytorch",
-        "cuda",
-        "huggingface-transformers"
+        "Security",
+        "Transportation",
+        "cybersecurity",
+        "Flock",
+        "In Brief"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AheadMint"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Friend-focused photo-sharing app Retro snags $21M",
+      "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+      "published_at": "2026-08-28T15:35:03.000Z",
+      "description": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
+      "tags": [
+        "Apps",
+        "Fundraising",
+        "Social",
+        "retro",
+        "social media trends"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Apple TV is raising its subscription prices again",
+      "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "published_at": "2026-08-28T14:36:48.000Z",
+      "description": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+      "tags": [
+        "Media & Entertainment",
+        "Apple",
+        "apple tv",
+        "In Brief",
+        "subscriptions"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "a16z creates a $1.1B &#8216;Machine Age&#8217; fund to &#8216;accelerate the physical buildout of AI&#8217;",
+      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "published_at": "2026-08-28T13:24:43.000Z",
+      "description": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+      "tags": [
+        "Fundraising",
+        "Venture",
+        "a16z",
+        "Andreessen Horowitz",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "published_at": "2026-08-28T12:46:12.000Z",
+      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dod",
+        "pete hegseth"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "published_at": "2026-08-28T12:21:06.000Z",
+      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "tags": [
+        "AI",
+        "Social",
+        "Meta",
+        "OpenAI",
+        "people moves"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "published_at": "2026-08-28T09:33:00.000Z",
+      "description": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "belgium",
+        "electric two-wheelers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
     },
     {
       "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
@@ -1013,7 +1054,10 @@
       "description": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t",
       "tags": [
         "Media & Entertainment",
-        "TC"
+        "Startups",
+        "Venture",
+        "Keith Rabois",
+        "StrictlyVC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1032,99 +1076,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Rivian&#8217;s CFO is leaving the company",
-      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "published_at": "2026-08-27T20:23:10.000Z",
-      "description": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-      "tags": [
-        "Transportation",
-        "electric vehicles",
-        "EVs",
-        "Rivian"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane, Kirsten Korosec"
-    },
-    {
-      "title": "Buried in Meta&#8217;s $18B settlement is a legal pass on kids&#8217; data",
-      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "published_at": "2026-08-27T20:04:26.000Z",
-      "description": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-      "tags": [
-        "Social",
-        "age assurance",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "published_at": "2026-08-27T19:52:52.000Z",
-      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "tags": [
-        "AI",
-        "Barret Zoph",
-        "Google",
-        "In Brief",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "ATF declares &#8216;major incident&#8217; as ransomware gang claims hack",
-      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-      "published_at": "2026-08-27T17:54:23.000Z",
-      "description": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
-      "tags": [
-        "Security",
-        "ATF",
-        "cyberattack",
-        "cybersecurity",
-        "Federal government"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "published_at": "2026-08-27T17:43:24.000Z",
-      "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "cybersecurity",
-        "Google",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-      "url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
-      "published_at": "2026-08-27T17:05:45.000Z",
-      "description": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
-      "tags": [
-        "Apps",
-        "Gadgets",
-        "Hardware",
-        "fitbit",
-        "fitness wearable"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved",
@@ -1232,21 +1183,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
       "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
       "published_at": "2026-08-27T01:00:03Z",
@@ -1260,6 +1196,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
+      "published_at": "2026-08-27T07:37:45Z",
+      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents",
+        "vectordatabase"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
+      "source": "Dev.to",
+      "user": "Ben Greenberg"
     },
     {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
@@ -1349,36 +1300,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png",
       "source": "Dev.to",
       "user": "Jess Lee"
-    },
-    {
-      "title": "Why Does Every AI Agent Still Look Like `while (true) { ... }`?",
-      "url": "https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a",
-      "published_at": "2026-08-18T16:08:34Z",
-      "description": "Most agent runtimes share the same brittle skeleton. Here's what happens when you replace it with an event log.",
-      "tags": [
-        "ai",
-        "typescript",
-        "architecture",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftomsun28%2Fpizza%2Fmain%2Fresources%2Fpizza-desktop-white.png",
-      "source": "Dev.to",
-      "user": "tom"
-    },
-    {
-      "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
-      "url": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
-      "published_at": "2026-07-30T08:02:27Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  You know those...",
-      "tags": [
-        "devchallenge",
-        "bugsmash",
-        "angular",
-        "javascript"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5f6wzmamxx74hgha3qaq.png",
-      "source": "Dev.to",
-      "user": "Sylwia Laskowska"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1512,7 +1433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1144,
       "user": "nateherkai"
     },
     {
@@ -1527,8 +1448,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 252,
       "user": "czm15053"
+    },
+    {
+      "title": "OrRon/EpicInfographics - A simple skill that will make your Agent create beautiful Infographics",
+      "url": "https://github.com/OrRon/EpicInfographics",
+      "published_at": "2026-08-23T22:56:37Z",
+      "description": "A simple skill that will make your Agent create beautiful Infographics",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
+      "source": "GitHub",
+      "stars": 231,
+      "user": "OrRon"
     },
     {
       "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
@@ -1542,7 +1478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "luke321"
     },
     {
@@ -1561,21 +1497,6 @@
       "user": "Cleverfuxaqo1668"
     },
     {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 165,
-      "user": "yizhiyanhua-ai"
-    },
-    {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "url": "https://github.com/ApodexAI/FrontierAgent",
       "published_at": "2026-08-22T05:07:35Z",
@@ -1587,7 +1508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1211,
       "user": "ApodexAI"
     },
     {
@@ -1602,7 +1523,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3399,
       "user": "b-nnett"
     },
     {
@@ -1617,7 +1538,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 939,
       "user": "wide-trace"
     },
     {
@@ -1632,7 +1553,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 598,
       "user": "amosblomqvist"
     },
     {
@@ -1647,7 +1568,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -1662,8 +1583,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 482,
       "user": "kgoedecke"
+    },
+    {
+      "title": "Request body undefined in express",
+      "url": "https://stackoverflow.com/questions/79998969/request-body-undefined-in-express",
+      "published_at": "2026-08-28T14:14:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
+    },
+    {
+      "title": "Clarification on ES6 Modules",
+      "url": "https://stackoverflow.com/questions/79998866/clarification-on-es6-modules",
+      "published_at": "2026-08-28T06:39:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "es6-modules"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manngo"
+    },
+    {
+      "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
+      "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
+      "published_at": "2026-08-27T18:43:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "recaptcha",
+        "netlify",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
+    },
+    {
+      "title": "Safe alternative to new Function() for executing compiled JS string in browser",
+      "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
+      "published_at": "2026-08-27T16:37:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "security",
+        "eval",
+        "sandbox",
+        "web-worker"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kapikulu"
     },
     {
       "title": "How do I a save root variable toggle to local storage?",
@@ -1684,7 +1663,7 @@
       "title": "Making ESLint work with [key,value] Object/Map traversals where _key or _value could be optional, without disabling no-unused-vars",
       "url": "https://stackoverflow.com/questions/79998788/making-eslint-work-with-key-value-object-map-traversals-where-key-or-value-c",
       "published_at": "2026-08-27T20:36:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "typescript",
@@ -1695,35 +1674,18 @@
       "user": "gene b."
     },
     {
-      "title": "Safe alternative to new Function() for executing compiled JS string in browser",
-      "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
-      "published_at": "2026-08-27T16:37:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "How can I improve Shopify product page performance without removing dynamic sections?",
+      "url": "https://stackoverflow.com/questions/79998512/how-can-i-improve-shopify-product-page-performance-without-removing-dynamic-sect",
+      "published_at": "2026-08-27T00:18:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "security",
-        "eval",
-        "sandbox",
-        "web-worker"
+        "shopify",
+        "e-commerce"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "kapikulu"
-    },
-    {
-      "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
-      "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
-      "published_at": "2026-08-27T18:43:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "recaptcha",
-        "netlify",
-        "hugo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
+      "user": "Funsho Shopifypartner"
     },
     {
       "title": "How to pass arguments to readline prompt",
@@ -1767,45 +1729,19 @@
       "user": "erkanunluturk"
     },
     {
-      "title": "How can I improve Shopify product page performance without removing dynamic sections?",
-      "url": "https://stackoverflow.com/questions/79998512/how-can-i-improve-shopify-product-page-performance-without-removing-dynamic-sect",
-      "published_at": "2026-08-27T00:18:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Running into build wheel error installing specific version of Frida, unsure how to proceed",
+      "url": "https://stackoverflow.com/questions/79998895/running-into-build-wheel-error-installing-specific-version-of-frida-unsure-how",
+      "published_at": "2026-08-28T08:49:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "javascript",
-        "wordpress",
-        "shopify",
-        "e-commerce"
+        "python",
+        "json",
+        "windows-11",
+        "frida"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Funsho Shopifypartner"
-    },
-    {
-      "title": "Radio Button Action",
-      "url": "https://stackoverflow.com/questions/79998458/radio-button-action",
-      "published_at": "2026-08-26T18:49:23.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "jquery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FoundationsFour"
-    },
-    {
-      "title": "How to link directly to an open accordion/variant state on another page?",
-      "url": "https://stackoverflow.com/questions/79998483/how-to-link-directly-to-an-open-accordion-variant-state-on-another-page",
-      "published_at": "2026-08-26T20:42:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "framerjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dominic Ender"
+      "user": "Miasma Baboon"
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -2020,6 +1956,21 @@
       "user": "arathore"
     },
     {
+      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "published_at": "2026-08-27T14:20:58Z",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
+      "source": "GitHub",
+      "stars": 1433,
+      "user": "sapientinc"
+    },
+    {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "url": "https://github.com/ApodexAI/FrontierAgent",
       "published_at": "2026-08-22T05:07:35Z",
@@ -2031,7 +1982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1211,
       "user": "ApodexAI"
     },
     {
@@ -2046,7 +1997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 826,
       "user": "ShadowAqueduct"
     },
     {
@@ -2061,23 +2012,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 793,
       "user": "Tencent"
-    },
-    {
-      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "published_at": "2026-08-27T14:20:58Z",
-      "description": "Autonomous research system for measurable, computer-executable research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "sapientinc"
     },
     {
       "title": "fzakaria/selfdb - GitHub Repository",
@@ -2091,12 +2027,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 466,
       "user": "fzakaria"
     },
     {
-      "title": "brooxiacaigonv/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
-      "url": "https://github.com/brooxiacaigonv/AIrecall",
+      "title": "javieraltman/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
+      "url": "https://github.com/javieraltman/AIrecall",
       "published_at": "2026-08-27T07:49:51Z",
       "description": "Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
       "tags": [
@@ -2107,11 +2043,86 @@
       "cover_image": "https://avatars.githubusercontent.com/u/17326827?v=4",
       "source": "GitHub",
       "stars": 38,
-      "user": "brooxiacaigonv"
+      "user": "javieraltman"
     },
     {
-      "title": "Append column from multiple panda dataframes while retaining filename",
-      "url": "https://stackoverflow.com/questions/79998829/append-column-from-multiple-panda-dataframes-while-retaining-filename",
+      "title": "Why doesn't Tenacity's retry decorator retry when requests.get() receives a status code?",
+      "url": "https://stackoverflow.com/questions/79998971/why-doesnt-tenacitys-retry-decorator-retry-when-requests-get-receives-a-stat",
+      "published_at": "2026-08-28T14:19:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "request",
+        "python-decorators",
+        "http-status-code-429"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Litcoder"
+    },
+    {
+      "title": "SIH hackthon guidance",
+      "url": "https://stackoverflow.com/questions/79998964/sih-hackthon-guidance",
+      "published_at": "2026-08-28T13:51:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aryan zope"
+    },
+    {
+      "title": "FI/FR Python project server deployment issue",
+      "url": "https://stackoverflow.com/questions/79998931/fi-fr-python-project-server-deployment-issue",
+      "published_at": "2026-08-28T10:42:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "deployment",
+        "rhel",
+        "ninja",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Satwik kondapalli"
+    },
+    {
+      "title": "Why does typing break when I convert my classes to generic classes?",
+      "url": "https://stackoverflow.com/questions/79998840/why-does-typing-break-when-i-convert-my-classes-to-generic-classes",
+      "published_at": "2026-08-28T02:32:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "generics",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "iamthebull"
+    },
+    {
+      "title": "Running into build wheel error installing specific version of Frida, unsure how to proceed",
+      "url": "https://stackoverflow.com/questions/79998895/running-into-build-wheel-error-installing-specific-version-of-frida-unsure-how",
+      "published_at": "2026-08-28T08:49:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "json",
+        "windows-11",
+        "frida"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Miasma Baboon"
+    },
+    {
+      "title": "Append column from multiple pandas dataframes while retaining filename",
+      "url": "https://stackoverflow.com/questions/79998829/append-column-from-multiple-pandas-dataframes-while-retaining-filename",
       "published_at": "2026-08-28T01:04:19.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
@@ -2124,24 +2135,10 @@
       "user": "Anme"
     },
     {
-      "title": "Why are my tracker id is labeled as -1, {tracker_id} in python?",
-      "url": "https://stackoverflow.com/questions/79998647/why-are-my-tracker-id-is-labeled-as-1-tracker-id-in-python",
-      "published_at": "2026-08-27T11:47:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "yolo",
-        "roboflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gizmo Hey"
-    },
-    {
       "title": "SciPy spsolve / SuperLU SUPERLU_MALLOC failure despite available RAM",
       "url": "https://stackoverflow.com/questions/79998676/scipy-spsolve-superlu-superlu-malloc-failure-despite-available-ram",
       "published_at": "2026-08-27T13:26:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "scipy",
@@ -2150,6 +2147,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Xxlonely"
+    },
+    {
+      "title": "Why are my tracker id is labeled as -1, {tracker_id} in python?",
+      "url": "https://stackoverflow.com/questions/79998647/why-are-my-tracker-id-is-labeled-as-1-tracker-id-in-python",
+      "published_at": "2026-08-27T11:47:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "yolo",
+        "roboflow"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gizmo Hey"
     },
     {
       "title": "Why does the typing break when I split one operation into two?",
@@ -2179,81 +2190,6 @@
       "user": "ludovico"
     },
     {
-      "title": "FastAPI Form() with List[Type] sends array as comma-separated string (\"2,5\") causing 422 parsing error in Swagger UI",
-      "url": "https://stackoverflow.com/questions/79998604/fastapi-form-with-listtype-sends-array-as-comma-separated-string-2-5-cau",
-      "published_at": "2026-08-27T08:35:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "swagger",
-        "fastapi",
-        "swagger-ui",
-        "pydantic"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "buzzbuzz20xx"
-    },
-    {
-      "title": "\"zsh: segmentation fault\" error using PyQt6 and MacBook",
-      "url": "https://stackoverflow.com/questions/79998448/zsh-segmentation-fault-error-using-pyqt6-and-macbook",
-      "published_at": "2026-08-26T18:12:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "macos",
-        "pyqt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "PuttingThePuzzleTogether"
-    },
-    {
-      "title": "How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face",
-      "url": "https://stackoverflow.com/questions/79998320/how-to-resolve-cuda-out-of-memory-oom-when-loading-7b-parameter-llms-using-py",
-      "published_at": "2026-08-26T10:04:15.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "deep-learning",
-        "pytorch",
-        "cuda",
-        "huggingface-transformers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AheadMint"
-    },
-    {
-      "title": "Can I use `@overload` to fix this typing issue?",
-      "url": "https://stackoverflow.com/questions/79998254/can-i-use-overload-to-fix-this-typing-issue",
-      "published_at": "2026-08-26T03:45:16.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "overloading",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "Maze generator in Python with the turtle library using the DFS algorithm",
-      "url": "https://stackoverflow.com/questions/79998297/maze-generator-in-python-with-the-turtle-library-using-the-dfs-algorithm",
-      "published_at": "2026-08-26T09:08:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "turtle-graphics",
-        "python-turtle",
-        "maze"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sourcat"
-    },
-    {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
       "url": "https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/",
       "published_at": "2026-08-26T21:11:26.000Z",
@@ -2270,6 +2206,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator",
+      "url": "https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo",
+      "published_at": "2026-08-28T11:28:35Z",
+      "description": "Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.",
+      "tags": [
+        "gubernator",
+        "docker",
+        "antigravity",
+        "orquestador"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftit6xe2xjosdrrja6dkc.png",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
     {
       "title": "Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood",
       "url": "https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l",
@@ -2446,7 +2397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1211,
       "user": "ApodexAI"
     }
   ],
@@ -2482,19 +2433,6 @@
       "user": "Gamya "
     },
     {
-      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
-      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
-      "published_at": "2026-08-09T19:42:53Z",
-      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
-      "tags": [
-        "devchallenge",
-        "bugsmash"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
-      "source": "Dev.to",
-      "user": "Giorgi Kobaidze"
-    },
-    {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
       "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
       "published_at": "2026-08-22T10:55:26Z",
@@ -2506,6 +2444,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqpmsld9yirw9miywn1q.png",
       "source": "Dev.to",
       "user": "Alexandra"
+    },
+    {
+      "title": "Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor",
+      "url": "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
+      "published_at": "2026-08-09T19:42:53Z",
+      "description": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...",
+      "tags": [
+        "devchallenge",
+        "bugsmash"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg",
+      "source": "Dev.to",
+      "user": "Giorgi Kobaidze"
     },
     {
       "title": "State Management in Front-end Web Development: Mutators",
@@ -2590,7 +2541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "luke321"
     },
     {
@@ -2605,7 +2556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 826,
       "user": "ShadowAqueduct"
     },
     {
@@ -2622,6 +2573,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ve."
+    },
+    {
+      "title": "SIH hackthon guidance",
+      "url": "https://stackoverflow.com/questions/79998964/sih-hackthon-guidance",
+      "published_at": "2026-08-28T13:51:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aryan zope"
     }
   ],
   "Mobile": [
@@ -2700,21 +2665,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”",
-      "url": "https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp",
-      "published_at": "2026-08-18T20:50:05Z",
-      "description": "The insider story on Google's commitment to Flutter, the enterprise hiring paradox, and why Flutter is kicking tail on every measurable scale.",
-      "tags": [
-        "flutter",
-        "dart",
-        "programming",
-        "mobile"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe2h0i1334b6rh3lql2wp.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
       "url": "https://github.com/Forsy-AI/biosecurity-agent",
       "published_at": "2026-08-22T23:06:26Z",
@@ -2726,7 +2676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -2889,8 +2839,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 49,
       "user": "context-labs"
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "published_at": "2026-08-28T12:46:12.000Z",
+      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Anthropic",
+        "dod",
+        "pete hegseth"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.",
@@ -3228,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -3248,36 +3214,20 @@
       "user": "kapikulu"
     },
     {
-      "title": "ATF declares &#8216;major incident&#8217; as ransomware gang claims hack",
-      "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-      "published_at": "2026-08-27T17:54:23.000Z",
-      "description": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "published_at": "2026-08-28T15:57:58.000Z",
+      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
       "tags": [
         "Security",
-        "ATF",
-        "cyberattack",
+        "Transportation",
         "cybersecurity",
-        "Federal government"
+        "Flock",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "published_at": "2026-08-27T17:43:24.000Z",
-      "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "cybersecurity",
-        "Google",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     }
   ],
   "Tools": [
@@ -3463,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1144,
       "user": "nateherkai"
     },
     {
@@ -3478,8 +3428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 252,
       "user": "czm15053"
+    },
+    {
+      "title": "OrRon/EpicInfographics - A simple skill that will make your Agent create beautiful Infographics",
+      "url": "https://github.com/OrRon/EpicInfographics",
+      "published_at": "2026-08-23T22:56:37Z",
+      "description": "A simple skill that will make your Agent create beautiful Infographics",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
+      "source": "GitHub",
+      "stars": 231,
+      "user": "OrRon"
     },
     {
       "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
@@ -3493,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "luke321"
     },
     {
@@ -3512,19 +3477,19 @@
       "user": "Cleverfuxaqo1668"
     },
     {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "published_at": "2026-08-27T14:20:58Z",
+      "description": "Autonomous research system for measurable, computer-executable research.",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 165,
-      "user": "yizhiyanhua-ai"
+      "stars": 1433,
+      "user": "sapientinc"
     },
     {
       "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
@@ -3538,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
       "source": "GitHub",
-      "stars": 1155,
+      "stars": 1211,
       "user": "ApodexAI"
     },
     {
@@ -3553,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
       "source": "GitHub",
-      "stars": 821,
+      "stars": 826,
       "user": "ShadowAqueduct"
     },
     {
@@ -3568,23 +3533,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 793,
       "user": "Tencent"
-    },
-    {
-      "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
-      "url": "https://github.com/sapientinc/PRAXIST",
-      "published_at": "2026-08-27T14:20:58Z",
-      "description": "Autonomous research system for measurable, computer-executable research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
-      "source": "GitHub",
-      "stars": 528,
-      "user": "sapientinc"
     },
     {
       "title": "fzakaria/selfdb - GitHub Repository",
@@ -3598,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 466,
       "user": "fzakaria"
     },
     {
@@ -3613,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 823,
       "user": "N4darae"
     },
     {
@@ -3628,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
       "source": "GitHub",
-      "stars": 190,
+      "stars": 192,
       "user": "zhaoxuya520"
     },
     {
@@ -3643,12 +3593,12 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 41,
+      "stars": 49,
       "user": "context-labs"
     },
     {
-      "title": "brooxiacaigonv/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
-      "url": "https://github.com/brooxiacaigonv/AIrecall",
+      "title": "javieraltman/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
+      "url": "https://github.com/javieraltman/AIrecall",
       "published_at": "2026-08-27T07:49:51Z",
       "description": "Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
       "tags": [
@@ -3659,7 +3609,7 @@
       "cover_image": "https://avatars.githubusercontent.com/u/17326827?v=4",
       "source": "GitHub",
       "stars": 38,
-      "user": "brooxiacaigonv"
+      "user": "javieraltman"
     },
     {
       "title": "codex-tweaks/codex-tweaks - 面向 Codex 桌面客户端的本地界面定制工具",
@@ -3673,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321237390?v=4",
       "source": "GitHub",
-      "stars": 35,
+      "stars": 38,
       "user": "codex-tweaks"
     },
     {
@@ -3688,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3370,
+      "stars": 3399,
       "user": "b-nnett"
     },
     {
@@ -3703,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 849,
+      "stars": 939,
       "user": "wide-trace"
     },
     {
@@ -3718,7 +3668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 598,
       "user": "amosblomqvist"
     },
     {
@@ -3733,7 +3683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
       "source": "GitHub",
-      "stars": 512,
+      "stars": 513,
       "user": "Forsy-AI"
     },
     {
@@ -3748,7 +3698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 482,
       "user": "kgoedecke"
     },
     {
@@ -3763,23 +3713,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 2257,
+      "stars": 2286,
       "user": "tobi"
-    },
-    {
-      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "url": "https://github.com/truespar/sentio",
-      "published_at": "2026-08-23T21:36:25Z",
-      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
-      "source": "GitHub",
-      "stars": 221,
-      "user": "truespar"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3793,8 +3728,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 166,
+      "stars": 348,
       "user": "crmne"
+    },
+    {
+      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "url": "https://github.com/truespar/sentio",
+      "published_at": "2026-08-23T21:36:25Z",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "source": "GitHub",
+      "stars": 222,
+      "user": "truespar"
     },
     {
       "title": "dragthelake/ambient-context - A menu bar app that keeps a written record of what you worked on.",
@@ -3808,7 +3758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 138,
       "user": "dragthelake"
     },
     {
