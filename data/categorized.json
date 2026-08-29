@@ -25,7 +25,7 @@
         "stt",
         "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk94u52rtj5g7cw3aghk4.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk94u52rtj5g7cw3aghk4.webp",
       "source": "Dev.to",
       "user": "Guillaume Vernade"
     },
@@ -135,21 +135,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
-      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
-      "published_at": "2026-08-25T17:04:18Z",
-      "description": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
-      "tags": [
-        "ai",
-        "mongodb",
-        "agents",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png",
-      "source": "Dev.to",
-      "user": "Jordan Smith"
-    },
-    {
       "title": "Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents",
       "url": "https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9",
       "published_at": "2026-08-25T03:18:30Z",
@@ -178,21 +163,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetl0eu245kgob58zea16.png",
       "source": "Dev.to",
       "user": "Jonathan Murray"
-    },
-    {
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
-      "published_at": "2026-08-26T18:05:39Z",
-      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
-      "tags": [
-        "showdev",
-        "announcements",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Mix and Match: One Agent, Three Clouds, One Protocol",
@@ -265,9 +235,24 @@
         "webdev",
         "career"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm5wj5vy9dh1m539zyqdl.webp",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "published_at": "2026-08-26T18:05:39Z",
+      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "tags": [
+        "showdev",
+        "announcements",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "AI Evals at a Glance: Heatmaps for Stakeholders",
@@ -280,24 +265,9 @@
         "datascience",
         "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
-    },
-    {
-      "title": "The data is in: AI is how developers learn now",
-      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4",
-      "published_at": "2026-08-24T16:41:56Z",
-      "description": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
-      "tags": [
-        "ai",
-        "career",
-        "learning",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbsc65afzww03ohkvldr.png",
-      "source": "Dev.to",
-      "user": "Matthew Revell"
     },
     {
       "title": "HTML is getting cool again: Meet the Invoker Commands API",
@@ -386,6 +356,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Building E-commerce AI Agents on MongoDB with CrewAI",
+      "url": "https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p",
+      "published_at": "2026-08-25T17:04:18Z",
+      "description": "AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...",
+      "tags": [
+        "ai",
+        "mongodb",
+        "agents",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png",
+      "source": "Dev.to",
+      "user": "Jordan Smith"
     },
     {
       "title": "Why I Tell My AI Coding Agent: \"Prefer Dart Over Python\"",
@@ -506,6 +491,21 @@
       "user": "Mica"
     },
     {
+      "title": "The data is in: AI is how developers learn now",
+      "url": "https://blog.mlh.com/the-data-is-in-ai-is-how-developers-learn-now-28p4",
+      "published_at": "2026-08-24T16:41:56Z",
+      "description": "AI is now the most common way that new developers learn.  We all knew AI was having an impact on...",
+      "tags": [
+        "ai",
+        "career",
+        "learning",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbsc65afzww03ohkvldr.png",
+      "source": "Dev.to",
+      "user": "Matthew Revell"
+    },
+    {
       "title": "Passkeys Explained Simply",
       "url": "https://dev.to/thomasbnt/passkeys-explained-simply-52jk",
       "published_at": "2026-07-27T21:09:04Z",
@@ -516,7 +516,7 @@
         "webdev",
         "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
     },
@@ -704,21 +704,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "published_at": "2026-08-22T15:25:08Z",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "nateherkai"
-    },
-    {
       "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
       "url": "https://github.com/czm15053/linuxdo-idea-ui",
       "published_at": "2026-08-24T08:23:09Z",
@@ -734,34 +719,19 @@
       "user": "czm15053"
     },
     {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
+      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+      "published_at": "2026-08-24T13:07:30Z",
+      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 216,
-      "user": "luke321"
-    },
-    {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
-      "source": "GitHub",
-      "stars": 1211,
-      "user": "ApodexAI"
+      "stars": 166,
+      "user": "yizhiyanhua-ai"
     },
     {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
@@ -779,34 +749,34 @@
       "user": "ShadowAqueduct"
     },
     {
-      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
-      "url": "https://github.com/zhaoxuya520/MeshLAN",
-      "published_at": "2026-08-22T10:30:10Z",
-      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "title": "DavidCarliez/trustmebro - Bypass llm guardrails by confusing it with fabricated tool output.",
+      "url": "https://github.com/DavidCarliez/trustmebro",
+      "published_at": "2026-08-26T19:10:55Z",
+      "description": "Bypass llm guardrails by confusing it with fabricated tool output.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 192,
-      "user": "zhaoxuya520"
+      "stars": 42,
+      "user": "DavidCarliez"
     },
     {
-      "title": "javieraltman/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
-      "url": "https://github.com/javieraltman/AIrecall",
-      "published_at": "2026-08-27T07:49:51Z",
-      "description": "Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
+      "title": "ikermy/air_tguserbot - air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
+      "url": "https://github.com/ikermy/air_tguserbot",
+      "published_at": "2026-08-25T17:52:52Z",
+      "description": "air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17326827?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148149347?v=4",
       "source": "GitHub",
-      "stars": 38,
-      "user": "javieraltman"
+      "stars": 34,
+      "user": "ikermy"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -820,38 +790,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 647,
       "user": "amosblomqvist"
     },
     {
-      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "AI agent that builds a live biosecurity world around any target.",
+      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "published_at": "2026-08-25T15:12:20Z",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "Forsy-AI"
-    },
-    {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
-      "source": "GitHub",
-      "stars": 482,
-      "user": "kgoedecke"
+      "stars": 437,
+      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
@@ -865,23 +820,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "truespar"
-    },
-    {
-      "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
-      "url": "https://github.com/josiah-nelson/eidos",
-      "published_at": "2026-08-22T17:23:29Z",
-      "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
-      "source": "GitHub",
-      "stars": 112,
-      "user": "josiah-nelson"
     },
     {
       "title": "Now Hiring: Senior Open Source Maintainer",
@@ -896,16 +836,17 @@
       "user": "freddyb"
     },
     {
-      "title": "Changes to SourceHut's terms of service regarding LLMs",
-      "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-      "published_at": "2026-08-27T03:37:19.592-05:00",
+      "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "published_at": "2026-08-28T13:11:43.147-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "practices",
         "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "seb"
+      "user": "kaycebasques"
     },
     {
       "title": "Append column from multiple pandas dataframes while retaining filename",
@@ -922,18 +863,77 @@
       "user": "Anme"
     },
     {
-      "title": "SciPy spsolve / SuperLU SUPERLU_MALLOC failure despite available RAM",
-      "url": "https://stackoverflow.com/questions/79998676/scipy-spsolve-superlu-superlu-malloc-failure-despite-available-ram",
-      "published_at": "2026-08-27T13:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "published_at": "2026-08-28T22:42:48.000Z",
+      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
       "tags": [
-        "python",
-        "scipy",
-        "sparse-matrix"
+        "Hardware",
+        "SMART Glasses",
+        "XReal"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xxlonely"
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "published_at": "2026-08-28T20:24:11.000Z",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "AI chips",
+        "In Brief",
+        "Lambda"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "published_at": "2026-08-28T19:30:38.000Z",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "published_at": "2026-08-28T18:50:00.000Z",
+      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "tags": [
+        "Apps",
+        "Privacy",
+        "Brave",
+        "browsers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "published_at": "2026-08-28T18:19:40.000Z",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "tags": [
+        "AI",
+        "Hugging Face",
+        "nvidia",
+        "openrouter"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "More Americans oppose police license plate cameras than support them: survey",
@@ -984,98 +984,20 @@
       "user": "Amanda Silberling"
     },
     {
-      "title": "a16z creates a $1.1B &#8216;Machine Age&#8217; fund to &#8216;accelerate the physical buildout of AI&#8217;",
-      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "published_at": "2026-08-28T13:24:43.000Z",
-      "description": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+      "title": "How to Automate Your Tests in Express Using Vitest",
+      "url": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
+      "published_at": "2026-08-28T15:33:00.000Z",
+      "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
       "tags": [
-        "Fundraising",
-        "Venture",
-        "a16z",
-        "Andreessen Horowitz",
-        "In Brief"
+        "vitest",
+        "unit testing",
+        "Integration Testing",
+        "Testing",
+        "mocking ai"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "published_at": "2026-08-28T12:46:12.000Z",
-      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dod",
-        "pete hegseth"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "published_at": "2026-08-28T12:21:06.000Z",
-      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "tags": [
-        "AI",
-        "Social",
-        "Meta",
-        "OpenAI",
-        "people moves"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "published_at": "2026-08-28T09:33:00.000Z",
-      "description": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "belgium",
-        "electric two-wheelers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-      "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-      "published_at": "2026-08-28T02:02:44.000Z",
-      "description": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t",
-      "tags": [
-        "Media & Entertainment",
-        "Startups",
-        "Venture",
-        "Keith Rabois",
-        "StrictlyVC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-08-27T23:16:45.000Z",
-      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "tags": [
-        "AI",
-        "Databricks",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "source": "freeCodeCamp",
+      "user": "jabo Landry"
     },
     {
       "title": "From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved",
@@ -1422,21 +1344,6 @@
       "user": "velmu"
     },
     {
-      "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "published_at": "2026-08-22T15:25:08Z",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "nateherkai"
-    },
-    {
       "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
       "url": "https://github.com/czm15053/linuxdo-idea-ui",
       "published_at": "2026-08-24T08:23:09Z",
@@ -1463,23 +1370,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 250,
       "user": "OrRon"
-    },
-    {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "luke321"
     },
     {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
@@ -1497,19 +1389,34 @@
       "user": "Cleverfuxaqo1668"
     },
     {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+      "published_at": "2026-08-24T13:07:30Z",
+      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 1211,
-      "user": "ApodexAI"
+      "stars": 166,
+      "user": "yizhiyanhua-ai"
+    },
+    {
+      "title": "achrefelouafi/LinearAbilityExtThreeJS - GitHub Repository",
+      "url": "https://github.com/achrefelouafi/LinearAbilityExtThreeJS",
+      "published_at": "2026-08-24T06:24:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "achrefelouafi"
     },
     {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
@@ -1523,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3399,
+      "stars": 3406,
       "user": "b-nnett"
     },
     {
@@ -1538,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 969,
       "user": "wide-trace"
     },
     {
@@ -1553,44 +1460,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 647,
       "user": "amosblomqvist"
     },
     {
-      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "AI agent that builds a live biosecurity world around any target.",
+      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "published_at": "2026-08-25T15:12:20Z",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "Forsy-AI"
+      "stars": 437,
+      "user": "gtlhuyidan-sketch"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "title": "rome-os/rome - Rome is the agentic OS.",
+      "url": "https://github.com/rome-os/rome",
+      "published_at": "2026-08-23T06:15:15Z",
+      "description": "Rome is the agentic OS.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 482,
-      "user": "kgoedecke"
+      "stars": 384,
+      "user": "rome-os"
     },
     {
       "title": "Request body undefined in express",
       "url": "https://stackoverflow.com/questions/79998969/request-body-undefined-in-express",
       "published_at": "2026-08-28T14:14:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "node.js",
@@ -1617,7 +1524,7 @@
       "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
       "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
       "published_at": "2026-08-27T18:43:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "recaptcha",
@@ -1632,7 +1539,7 @@
       "title": "Safe alternative to new Function() for executing compiled JS string in browser",
       "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
       "published_at": "2026-08-27T16:37:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "security",
@@ -1658,20 +1565,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ve."
-    },
-    {
-      "title": "Making ESLint work with [key,value] Object/Map traversals where _key or _value could be optional, without disabling no-unused-vars",
-      "url": "https://stackoverflow.com/questions/79998788/making-eslint-work-with-key-value-object-map-traversals-where-key-or-value-c",
-      "published_at": "2026-08-27T20:36:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "typescript",
-        "eslint"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gene b."
     },
     {
       "title": "How can I improve Shopify product page performance without removing dynamic sections?",
@@ -1729,6 +1622,21 @@
       "user": "erkanunluturk"
     },
     {
+      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
+      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
+      "published_at": "2026-08-25T12:00:33.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "java",
+        "spring-boot",
+        "selenium-webdriver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Leon"
+    },
+    {
       "title": "Running into build wheel error installing specific version of Frida, unsure how to proceed",
       "url": "https://stackoverflow.com/questions/79998895/running-into-build-wheel-error-installing-specific-version-of-frida-unsure-how",
       "published_at": "2026-08-28T08:49:35.000Z",
@@ -1758,20 +1666,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vineeth Pawar"
-    },
-    {
-      "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
-      "published_at": "2026-08-26T17:47:52.000Z",
-      "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
-      "tags": [
-        "Next.js",
-        "MongoDB",
-        "software development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "David Aniebo"
     }
   ],
   "Python": [
@@ -1801,7 +1695,7 @@
         "datascience",
         "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmn5x4cymxc9h43smqmt7.webp",
       "source": "Dev.to",
       "user": "Katie McLaughlin"
     },
@@ -1967,23 +1861,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1457,
       "user": "sapientinc"
-    },
-    {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
-      "source": "GitHub",
-      "stars": 1211,
-      "user": "ApodexAI"
     },
     {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
@@ -2012,7 +1891,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 816,
       "user": "Tencent"
     },
     {
@@ -2027,23 +1906,78 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 473,
       "user": "fzakaria"
     },
     {
-      "title": "javieraltman/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
-      "url": "https://github.com/javieraltman/AIrecall",
-      "published_at": "2026-08-27T07:49:51Z",
-      "description": "Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
+      "title": "lxf746/outlook-auto-register - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+      "url": "https://github.com/lxf746/outlook-auto-register",
+      "published_at": "2026-08-24T04:39:07Z",
+      "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17326827?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 38,
-      "user": "javieraltman"
+      "stars": 405,
+      "user": "lxf746"
+    },
+    {
+      "title": "Python match-case vs dictionary performance internals",
+      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
+      "published_at": "2026-08-28T23:09:53.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "performance",
+        "pattern-matching",
+        "python-3.10"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "lowchess"
+    },
+    {
+      "title": "How to plot specific data types in matplotlib",
+      "url": "https://stackoverflow.com/questions/79999062/how-to-plot-specific-data-types-in-matplotlib",
+      "published_at": "2026-08-28T19:40:35.000Z",
+      "description": "Stack Overflow question · 3 answers · score -3",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hieu M"
+    },
+    {
+      "title": "Raspberry Pi - robot",
+      "url": "https://stackoverflow.com/questions/79999066/raspberry-pi-robot",
+      "published_at": "2026-08-28T20:31:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "sockets",
+        "raspberry-pi3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lazaruss"
+    },
+    {
+      "title": "how do i make a program with tkinter that lets me add a word and its meaning",
+      "url": "https://stackoverflow.com/questions/79999041/how-do-i-make-a-program-with-tkinter-that-lets-me-add-a-word-and-its-meaning",
+      "published_at": "2026-08-28T18:26:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gabriel Oyetade"
     },
     {
       "title": "Why doesn't Tenacity's retry decorator retry when requests.get() receives a status code?",
@@ -2133,61 +2067,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Anme"
-    },
-    {
-      "title": "SciPy spsolve / SuperLU SUPERLU_MALLOC failure despite available RAM",
-      "url": "https://stackoverflow.com/questions/79998676/scipy-spsolve-superlu-superlu-malloc-failure-despite-available-ram",
-      "published_at": "2026-08-27T13:26:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "scipy",
-        "sparse-matrix"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Xxlonely"
-    },
-    {
-      "title": "Why are my tracker id is labeled as -1, {tracker_id} in python?",
-      "url": "https://stackoverflow.com/questions/79998647/why-are-my-tracker-id-is-labeled-as-1-tracker-id-in-python",
-      "published_at": "2026-08-27T11:47:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "yolo",
-        "roboflow"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gizmo Hey"
-    },
-    {
-      "title": "Why does the typing break when I split one operation into two?",
-      "url": "https://stackoverflow.com/questions/79998534/why-does-the-typing-break-when-i-split-one-operation-into-two",
-      "published_at": "2026-08-27T03:17:00.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "How to get authorization code for Spotify API?",
-      "url": "https://stackoverflow.com/questions/79998618/how-to-get-authorization-code-for-spotify-api",
-      "published_at": "2026-08-27T09:30:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "spotify"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ludovico"
     },
     {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
@@ -2384,21 +2263,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
-      "source": "GitHub",
-      "stars": 1211,
-      "user": "ApodexAI"
     }
   ],
   "WebDev": [
@@ -2530,21 +2394,6 @@
       "user": "velmu"
     },
     {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "luke321"
-    },
-    {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
       "published_at": "2026-08-23T21:14:28Z",
@@ -2663,21 +2512,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "AI agent that builds a live biosecurity world around any target.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
-      "source": "GitHub",
-      "stars": 513,
-      "user": "Forsy-AI"
     },
     {
       "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
@@ -2839,20 +2673,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "context-labs"
     },
     {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "published_at": "2026-08-28T12:46:12.000Z",
-      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "published_at": "2026-08-28T20:24:11.000Z",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "Anthropic",
-        "dod",
-        "pete hegseth"
+        "Fundraising",
+        "AI chips",
+        "In Brief",
+        "Lambda"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2944,20 +2778,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
-    },
-    {
-      "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
-      "published_at": "2026-08-26T17:47:52.000Z",
-      "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
-      "tags": [
-        "Next.js",
-        "MongoDB",
-        "software development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "David Aniebo"
     }
   ],
   "Security": [
@@ -3046,7 +2866,7 @@
         "webdev",
         "discuss"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp",
       "source": "Dev.to",
       "user": "Thomas Bonnet"
     },
@@ -3183,25 +3003,10 @@
       "user": "ewenjo"
     },
     {
-      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "AI agent that builds a live biosecurity world around any target.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
-      "source": "GitHub",
-      "stars": 513,
-      "user": "Forsy-AI"
-    },
-    {
       "title": "Safe alternative to new Function() for executing compiled JS string in browser",
       "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
       "published_at": "2026-08-27T16:37:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "javascript",
         "security",
@@ -3262,21 +3067,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
-      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
-      "published_at": "2026-08-26T18:05:39Z",
-      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
-      "tags": [
-        "showdev",
-        "announcements",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
       "title": "Mix and Match: Serving an ADK Agent to AWS and Azure",
       "url": "https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f",
       "published_at": "2026-08-23T20:09:04Z",
@@ -3302,9 +3092,24 @@
         "git",
         "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif",
       "source": "Dev.to",
       "user": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
+    },
+    {
+      "title": "Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds",
+      "url": "https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk",
+      "published_at": "2026-08-26T18:05:39Z",
+      "description": "We're introducing structured AI disclosure tiers to foster transparency, preserve human connection, and give you control over your reading experience.",
+      "tags": [
+        "showdev",
+        "announcements",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa5ng5823j7o5rqdpp91x.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
     },
     {
       "title": "I Write Less Code Than I Used To. That May Be the Point.",
@@ -3402,21 +3207,6 @@
       "user": "pabs3"
     },
     {
-      "title": "nateherkai/scroll-craft - Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "url": "https://github.com/nateherkai/scroll-craft",
-      "published_at": "2026-08-22T15:25:08Z",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/253835467?v=4",
-      "source": "GitHub",
-      "stars": 1144,
-      "user": "nateherkai"
-    },
-    {
       "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
       "url": "https://github.com/czm15053/linuxdo-idea-ui",
       "published_at": "2026-08-24T08:23:09Z",
@@ -3443,23 +3233,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 250,
       "user": "OrRon"
-    },
-    {
-      "title": "luke321/vault-graph - Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "url": "https://github.com/luke321/vault-graph",
-      "published_at": "2026-08-22T08:14:59Z",
-      "description": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3630619?v=4",
-      "source": "GitHub",
-      "stars": 216,
-      "user": "luke321"
     },
     {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
@@ -3477,6 +3252,36 @@
       "user": "Cleverfuxaqo1668"
     },
     {
+      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+      "published_at": "2026-08-24T13:07:30Z",
+      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
+      "source": "GitHub",
+      "stars": 166,
+      "user": "yizhiyanhua-ai"
+    },
+    {
+      "title": "achrefelouafi/LinearAbilityExtThreeJS - GitHub Repository",
+      "url": "https://github.com/achrefelouafi/LinearAbilityExtThreeJS",
+      "published_at": "2026-08-24T06:24:36Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
+      "source": "GitHub",
+      "stars": 150,
+      "user": "achrefelouafi"
+    },
+    {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
       "url": "https://github.com/sapientinc/PRAXIST",
       "published_at": "2026-08-27T14:20:58Z",
@@ -3488,23 +3293,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 1433,
+      "stars": 1457,
       "user": "sapientinc"
-    },
-    {
-      "title": "ApodexAI/FrontierAgent - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "url": "https://github.com/ApodexAI/FrontierAgent",
-      "published_at": "2026-08-22T05:07:35Z",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/276468590?v=4",
-      "source": "GitHub",
-      "stars": 1211,
-      "user": "ApodexAI"
     },
     {
       "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
@@ -3533,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 816,
       "user": "Tencent"
     },
     {
@@ -3548,38 +3338,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/605070?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 473,
       "user": "fzakaria"
     },
     {
-      "title": "N4darae/anti-mage - Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
-      "url": "https://github.com/N4darae/anti-mage",
-      "published_at": "2026-08-22T04:11:00Z",
-      "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
+      "title": "lxf746/outlook-auto-register - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
+      "url": "https://github.com/lxf746/outlook-auto-register",
+      "published_at": "2026-08-24T04:39:07Z",
+      "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50111777?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 823,
-      "user": "N4darae"
+      "stars": 405,
+      "user": "lxf746"
     },
     {
-      "title": "zhaoxuya520/MeshLAN - Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
-      "url": "https://github.com/zhaoxuya520/MeshLAN",
-      "published_at": "2026-08-22T10:30:10Z",
-      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "title": "chrisgreg/boop - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "url": "https://github.com/chrisgreg/boop",
+      "published_at": "2026-08-28T15:38:33Z",
+      "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147215175?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 192,
-      "user": "zhaoxuya520"
+      "stars": 112,
+      "user": "chrisgreg"
     },
     {
       "title": "context-labs/cloudflared-operator - Cloudflare Tunnel's K8s Operator",
@@ -3593,38 +3383,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 49,
+      "stars": 50,
       "user": "context-labs"
     },
     {
-      "title": "javieraltman/AIrecall - Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
-      "url": "https://github.com/javieraltman/AIrecall",
-      "published_at": "2026-08-27T07:49:51Z",
-      "description": "Drop-in long-term memory layer for AI agents - episodic + semantic memory, hybrid retrieval, and auto-summarization. Python SDK + Go memory server.",
+      "title": "DavidCarliez/trustmebro - Bypass llm guardrails by confusing it with fabricated tool output.",
+      "url": "https://github.com/DavidCarliez/trustmebro",
+      "published_at": "2026-08-26T19:10:55Z",
+      "description": "Bypass llm guardrails by confusing it with fabricated tool output.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17326827?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 38,
-      "user": "javieraltman"
+      "stars": 42,
+      "user": "DavidCarliez"
     },
     {
-      "title": "codex-tweaks/codex-tweaks - 面向 Codex 桌面客户端的本地界面定制工具",
-      "url": "https://github.com/codex-tweaks/codex-tweaks",
-      "published_at": "2026-08-22T09:58:15Z",
-      "description": "面向 Codex 桌面客户端的本地界面定制工具",
+      "title": "ikermy/air_tguserbot - air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
+      "url": "https://github.com/ikermy/air_tguserbot",
+      "published_at": "2026-08-25T17:52:52Z",
+      "description": "air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/321237390?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148149347?v=4",
       "source": "GitHub",
-      "stars": 38,
-      "user": "codex-tweaks"
+      "stars": 34,
+      "user": "ikermy"
+    },
+    {
+      "title": "HexLasso/FF-16-TUI - Interactive static analysis tool to locate structures from frequent patterns",
+      "url": "https://github.com/HexLasso/FF-16-TUI",
+      "published_at": "2026-08-25T17:34:36Z",
+      "description": "Interactive static analysis tool to locate structures from frequent patterns",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/119726548?v=4",
+      "source": "GitHub",
+      "stars": 28,
+      "user": "HexLasso"
     },
     {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
@@ -3638,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3399,
+      "stars": 3406,
       "user": "b-nnett"
     },
     {
@@ -3653,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 939,
+      "stars": 969,
       "user": "wide-trace"
     },
     {
@@ -3668,38 +3473,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 647,
       "user": "amosblomqvist"
     },
     {
-      "title": "Forsy-AI/biosecurity-agent - AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "published_at": "2026-08-22T23:06:26Z",
-      "description": "AI agent that builds a live biosecurity world around any target.",
+      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "published_at": "2026-08-25T15:12:20Z",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/273874842?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 513,
-      "user": "Forsy-AI"
+      "stars": 437,
+      "user": "gtlhuyidan-sketch"
     },
     {
-      "title": "kgoedecke/doop - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "url": "https://github.com/kgoedecke/doop",
-      "published_at": "2026-08-22T15:40:51Z",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "title": "rome-os/rome - Rome is the agentic OS.",
+      "url": "https://github.com/rome-os/rome",
+      "published_at": "2026-08-23T06:15:15Z",
+      "description": "Rome is the agentic OS.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5519740?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/279501698?v=4",
       "source": "GitHub",
-      "stars": 482,
-      "user": "kgoedecke"
+      "stars": 384,
+      "user": "rome-os"
     },
     {
       "title": "tobi/walgit - GitHub Repository",
@@ -3713,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 2286,
+      "stars": 2296,
       "user": "tobi"
     },
     {
@@ -3728,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 396,
       "user": "crmne"
     },
     {
@@ -3743,7 +3548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 225,
       "user": "truespar"
     },
     {
@@ -3758,23 +3563,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "dragthelake"
     },
     {
-      "title": "josiah-nelson/eidos - Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
-      "url": "https://github.com/josiah-nelson/eidos",
-      "published_at": "2026-08-22T17:23:29Z",
-      "description": "Private, intelligent search across every machine you own. Systems remain searchable when offline, including files buried inside VMs and archives.",
+      "title": "mdspan/posix-sync - Idiomatic Rust interface for POSIX synchronisation primitives",
+      "url": "https://github.com/mdspan/posix-sync",
+      "published_at": "2026-08-24T07:31:41Z",
+      "description": "Idiomatic Rust interface for POSIX synchronisation primitives",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45463582?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/256296755?v=4",
       "source": "GitHub",
-      "stars": 112,
-      "user": "josiah-nelson"
+      "stars": 104,
+      "user": "mdspan"
     },
     {
       "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
@@ -3789,6 +3594,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erkanunluturk"
+    },
+    {
+      "title": "How to Automate Your Tests in Express Using Vitest",
+      "url": "https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/",
+      "published_at": "2026-08-28T15:33:00.000Z",
+      "description": "Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app",
+      "tags": [
+        "vitest",
+        "unit testing",
+        "Integration Testing",
+        "Testing",
+        "mocking ai"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "jabo Landry"
     },
     {
       "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
@@ -3831,20 +3652,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build a Flashcard Study App with Next.js and MongoDB",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/",
-      "published_at": "2026-08-26T17:47:52.000Z",
-      "description": "If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t",
-      "tags": [
-        "Next.js",
-        "MongoDB",
-        "software development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "David Aniebo"
     }
   ]
 }
