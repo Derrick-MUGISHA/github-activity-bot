@@ -298,21 +298,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -326,6 +311,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "czm15053"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 61,
       "user": "DavidCarliez"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 883,
       "user": "XiaoDuoYa"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 747,
       "user": "amosblomqvist"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 125,
       "user": "JordyZomer"
     },
     {
@@ -907,6 +907,50 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "laktak"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published_at": "2026-08-29T18:41:59.000Z",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "published_at": "2026-08-29T17:51:10.000Z",
+      "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "tags": [
+        "Venture",
+        "AI",
+        "conference",
+        "Denmark"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published_at": "2026-08-29T17:36:47.000Z",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+      "tags": [
+        "AI",
+        "Biotech & Health",
+        "TC",
+        "Andreessen Horowitz",
+        "Vijay Pande"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Hollywood celebs are getting into microdrama apps",
@@ -995,36 +1039,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Russell Brandom"
-    },
-    {
-      "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
-      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "published_at": "2026-08-28T18:50:00.000Z",
-      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-      "tags": [
-        "Apps",
-        "Privacy",
-        "Brave",
-        "browsers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "published_at": "2026-08-28T18:19:40.000Z",
-      "description": "There's a lot of capital pouring into the business of giving models away.",
-      "tags": [
-        "AI",
-        "Hugging Face",
-        "nvidia",
-        "openrouter"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
@@ -1398,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "OnlyTerp"
     },
     {
@@ -1428,7 +1442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "czm15053"
     },
     {
@@ -1473,7 +1487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3426,
+      "stars": 3427,
       "user": "b-nnett"
     },
     {
@@ -1488,7 +1502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1063,
       "user": "wide-trace"
     },
     {
@@ -1503,7 +1517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 883,
       "user": "XiaoDuoYa"
     },
     {
@@ -1518,7 +1532,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 747,
       "user": "amosblomqvist"
     },
     {
@@ -1551,6 +1565,19 @@
       "user": "Malte K"
     },
     {
+      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
+      "published_at": "2026-08-29T05:04:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shane watson"
+    },
+    {
       "title": "In Playwright, should browser launching and page interaction steps be separated?",
       "url": "https://stackoverflow.com/questions/79999130/in-playwright-should-browser-launching-and-page-interaction-steps-be-separated",
       "published_at": "2026-08-29T04:10:10.000Z",
@@ -1563,19 +1590,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Merelie Bincal"
-    },
-    {
-      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
-      "published_at": "2026-08-29T05:04:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shane watson"
     },
     {
       "title": "Hiding multiple selections of a drop down",
@@ -1591,20 +1605,6 @@
       "user": "Firestar001"
     },
     {
-      "title": "Request body undefined in express",
-      "url": "https://stackoverflow.com/questions/79998969/request-body-undefined-in-express",
-      "published_at": "2026-08-28T14:14:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "express"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alberto Benedetto"
-    },
-    {
       "title": "How does a Playwright locator behave when the matched DOM element is replaced?",
       "url": "https://stackoverflow.com/questions/79998735/how-does-a-playwright-locator-behave-when-the-matched-dom-element-is-replaced",
       "published_at": "2026-08-27T16:45:07.000Z",
@@ -1618,6 +1618,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
+    },
+    {
+      "title": "Request body undefined in express",
+      "url": "https://stackoverflow.com/questions/79998969/request-body-undefined-in-express",
+      "published_at": "2026-08-28T14:14:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
     },
     {
       "title": "Clarification on ES6 Modules",
@@ -1888,7 +1902,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2915,
+      "stars": 2918,
       "user": "sapientinc"
     },
     {
@@ -1933,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 571,
       "user": "tradecatlabs"
     },
     {
@@ -1948,8 +1962,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 534,
       "user": "lxf746"
+    },
+    {
+      "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
+      "url": "https://stackoverflow.com/questions/79999259/how-to-resolve-typeerror-issubclass-arg-1-must-be-a-class-when-issubclass-w",
+      "published_at": "2026-08-29T18:26:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "asynchronous",
+        "bots"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "Using ast.parse to evaluate arithmetic expression safely",
+      "url": "https://stackoverflow.com/questions/79999255/using-ast-parse-to-evaluate-arithmetic-expression-safely",
+      "published_at": "2026-08-29T17:48:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jason lo"
     },
     {
       "title": "Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?",
@@ -1964,6 +2005,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "Python and visual studio community",
+      "url": "https://stackoverflow.com/questions/79999212/python-and-visual-studio-community",
+      "published_at": "2026-08-29T14:27:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "visual-studio",
+        "intellisense"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "EcDhyne"
     },
     {
       "title": "Python match-case vs. dictionary performance internals",
@@ -2048,52 +2103,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aryan zope"
-    },
-    {
-      "title": "Why doesn't Tenacity's retry decorator retry when requests.get() receives a status code?",
-      "url": "https://stackoverflow.com/questions/79998971/why-doesnt-tenacitys-retry-decorator-retry-when-requests-get-receives-a-stat",
-      "published_at": "2026-08-28T14:19:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "request",
-        "python-decorators",
-        "http-status-code-429"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Litcoder"
-    },
-    {
-      "title": "Why does typing break when I convert my classes to generic classes?",
-      "url": "https://stackoverflow.com/questions/79998840/why-does-typing-break-when-i-convert-my-classes-to-generic-classes",
-      "published_at": "2026-08-28T02:32:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "generics",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "iamthebull"
-    },
-    {
-      "title": "FI/FR Python project server deployment issue",
-      "url": "https://stackoverflow.com/questions/79998931/fi-fr-python-project-server-deployment-issue",
-      "published_at": "2026-08-28T10:42:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "deployment",
-        "rhel",
-        "ninja",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Satwik kondapalli"
     },
     {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
@@ -2739,8 +2748,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "context-labs"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published_at": "2026-08-29T18:41:59.000Z",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "tags": [
+        "AI",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -3162,21 +3184,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-      "published_at": "2026-08-19T11:08:16Z",
-      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
-      "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
-      "source": "Dev.to",
-      "user": "marcosomma"
-    },
-    {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
       "url": "https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb",
       "published_at": "2026-08-13T06:43:24Z",
@@ -3190,6 +3197,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png",
       "source": "Dev.to",
       "user": "Debashish Ghosal"
+    },
+    {
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
+      "published_at": "2026-08-19T11:08:16Z",
+      "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
+      "tags": [
+        "ai",
+        "programming",
+        "productivity",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
+      "source": "Dev.to",
+      "user": "marcosomma"
     },
     {
       "title": "ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK",
@@ -3268,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 360,
       "user": "OnlyTerp"
     },
     {
@@ -3298,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 259,
+      "stars": 260,
       "user": "czm15053"
     },
     {
@@ -3343,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2915,
+      "stars": 2918,
       "user": "sapientinc"
     },
     {
@@ -3388,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 571,
       "user": "tradecatlabs"
     },
     {
@@ -3403,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 523,
+      "stars": 534,
       "user": "lxf746"
     },
     {
@@ -3418,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 429,
       "user": "chrisgreg"
     },
     {
@@ -3433,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 57,
+      "stars": 61,
       "user": "DavidCarliez"
     },
     {
@@ -3448,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 54,
+      "stars": 55,
       "user": "context-labs"
     },
     {
@@ -3493,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3426,
+      "stars": 3427,
       "user": "b-nnett"
     },
     {
@@ -3508,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1063,
       "user": "wide-trace"
     },
     {
@@ -3523,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 841,
+      "stars": 883,
       "user": "XiaoDuoYa"
     },
     {
@@ -3538,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 747,
       "user": "amosblomqvist"
     },
     {
@@ -3568,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 2317,
+      "stars": 2321,
       "user": "tobi"
     },
     {
@@ -3583,7 +3605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 469,
+      "stars": 483,
       "user": "crmne"
     },
     {
@@ -3613,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "dragthelake"
     },
     {
@@ -3628,7 +3650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 125,
       "user": "JordyZomer"
     },
     {
