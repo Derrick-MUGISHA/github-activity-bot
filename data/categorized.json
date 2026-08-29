@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 257,
       "user": "czm15053"
     },
     {
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 47,
       "user": "DavidCarliez"
     },
     {
@@ -779,21 +779,6 @@
       "user": "ikermy"
     },
     {
-      "title": "amosblomqvist/learn - My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "published_at": "2026-08-24T16:45:07Z",
-      "description": "My AI learning system.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "amosblomqvist"
-    },
-    {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
       "published_at": "2026-08-28T12:57:24Z",
@@ -805,8 +790,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 719,
       "user": "XiaoDuoYa"
+    },
+    {
+      "title": "amosblomqvist/learn - My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "published_at": "2026-08-24T16:45:07Z",
+      "description": "My AI learning system.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
+      "source": "GitHub",
+      "stars": 714,
+      "user": "amosblomqvist"
     },
     {
       "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 445,
       "user": "gtlhuyidan-sketch"
     },
     {
@@ -865,16 +865,33 @@
       "user": "kaycebasques"
     },
     {
-      "title": "Now Hiring: Senior Open Source Maintainer",
-      "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
-      "published_at": "2026-08-28T06:57:23.825-05:00",
+      "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "published_at": "2026-08-29T01:11:18.866-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "satire"
+        "philosophy",
+        "practices",
+        "vibecoding"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "freddyb"
+      "user": "luiz"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "published_at": "2026-08-29T13:00:00.000Z",
+      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "tags": [
+        "TC",
+        "AI",
+        "nvidia",
+        "GPU"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
     },
     {
       "title": "Is the best way to watch a movie on a pair of sunglasses?",
@@ -980,22 +997,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Apple TV is raising its subscription prices again",
-      "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "published_at": "2026-08-28T14:36:48.000Z",
-      "description": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
-      "tags": [
-        "Media & Entertainment",
-        "Apple",
-        "apple tv",
-        "In Brief",
-        "subscriptions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
@@ -1358,19 +1359,19 @@
       "user": "velmu"
     },
     {
-      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "published_at": "2026-08-27T18:30:44Z",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 256,
-      "user": "czm15053"
+      "stars": 334,
+      "user": "OnlyTerp"
     },
     {
       "title": "OrRon/EpicInfographics - A simple skill that will make your Agent create beautiful Infographics",
@@ -1384,8 +1385,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "OrRon"
+    },
+    {
+      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "url": "https://github.com/czm15053/linuxdo-idea-ui",
+      "published_at": "2026-08-24T08:23:09Z",
+      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "source": "GitHub",
+      "stars": 257,
+      "user": "czm15053"
     },
     {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
@@ -1418,21 +1434,6 @@
       "user": "yizhiyanhua-ai"
     },
     {
-      "title": "achrefelouafi/LinearAbilityExtThreeJS - GitHub Repository",
-      "url": "https://github.com/achrefelouafi/LinearAbilityExtThreeJS",
-      "published_at": "2026-08-24T06:24:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
-      "source": "GitHub",
-      "stars": 151,
-      "user": "achrefelouafi"
-    },
-    {
       "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "published_at": "2026-08-23T20:53:01Z",
@@ -1444,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3414,
+      "stars": 3419,
       "user": "b-nnett"
     },
     {
@@ -1459,23 +1460,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1028,
       "user": "wide-trace"
-    },
-    {
-      "title": "amosblomqvist/learn - My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "published_at": "2026-08-24T16:45:07Z",
-      "description": "My AI learning system.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "amosblomqvist"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1489,8 +1475,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 719,
       "user": "XiaoDuoYa"
+    },
+    {
+      "title": "amosblomqvist/learn - My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "published_at": "2026-08-24T16:45:07Z",
+      "description": "My AI learning system.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
+      "source": "GitHub",
+      "stars": 714,
+      "user": "amosblomqvist"
     },
     {
       "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
@@ -1504,14 +1505,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 445,
       "user": "gtlhuyidan-sketch"
+    },
+    {
+      "title": "How to load google recaptcha only on specific pages",
+      "url": "https://stackoverflow.com/questions/79999176/how-to-load-google-recaptcha-only-on-specific-pages",
+      "published_at": "2026-08-29T10:41:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "recaptcha",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
       "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
       "published_at": "2026-08-29T05:04:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "video"
@@ -1524,7 +1539,7 @@
       "title": "Hiding multiple selections of a drop down",
       "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
       "published_at": "2026-08-29T00:04:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -1561,19 +1576,19 @@
       "user": "Manngo"
     },
     {
-      "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
-      "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
-      "published_at": "2026-08-27T18:43:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "How does a Playwright locator behave when the matched DOM element is replaced?",
+      "url": "https://stackoverflow.com/questions/79998735/how-does-a-playwright-locator-behave-when-the-matched-dom-element-is-replaced",
+      "published_at": "2026-08-27T16:45:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "javascript",
-        "recaptcha",
-        "netlify",
-        "hugo"
+        "typescript",
+        "automated-tests",
+        "playwright"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Malte K"
+      "user": "Sri Ramya"
     },
     {
       "title": "Safe alternative to new Function() for executing compiled JS string in browser",
@@ -1590,6 +1605,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kapikulu"
+    },
+    {
+      "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
+      "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
+      "published_at": "2026-08-27T18:43:52.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "recaptcha",
+        "netlify",
+        "hugo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Malte K"
     },
     {
       "title": "How do I a save root variable toggle to local storage?",
@@ -1619,33 +1649,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Funsho Shopifypartner"
-    },
-    {
-      "title": "Using Int Array Reference",
-      "url": "https://stackoverflow.com/questions/79998518/using-int-array-reference",
-      "published_at": "2026-08-27T01:30:20.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ThisStatementIsALie"
-    },
-    {
-      "title": "How to pass arguments to readline prompt",
-      "url": "https://stackoverflow.com/questions/79998706/how-to-pass-arguments-to-readline-prompt",
-      "published_at": "2026-08-27T15:21:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "node.js",
-        "terminal",
-        "command-line-interface"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ayoub nfinif"
     },
     {
       "title": "Running into build wheel error installing specific version of Frida, unsure how to proceed",
@@ -1872,7 +1875,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2051,
+      "stars": 2086,
       "user": "sapientinc"
     },
     {
@@ -1887,7 +1890,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 883,
       "user": "Tencent"
     },
     {
@@ -1917,7 +1920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 502,
       "user": "lxf746"
     },
     {
@@ -1955,7 +1958,7 @@
       "title": "How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?",
       "url": "https://stackoverflow.com/questions/79999108/how-can-i-prevent-duplicate-celery-tasks-when-a-fastapi-endpoint-is-retried",
       "published_at": "2026-08-29T00:12:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "postgresql",
@@ -1982,7 +1985,7 @@
       "title": "Raspberry Pi - robot",
       "url": "https://stackoverflow.com/questions/79999066/raspberry-pi-robot",
       "published_at": "2026-08-28T20:31:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "sockets",
@@ -2006,6 +2009,20 @@
       "user": "Gabriel Oyetade"
     },
     {
+      "title": "SIH hackthon guidance",
+      "url": "https://stackoverflow.com/questions/79998964/sih-hackthon-guidance",
+      "published_at": "2026-08-28T13:51:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "architecture",
+        "backend"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aryan zope"
+    },
+    {
       "title": "Why doesn't Tenacity's retry decorator retry when requests.get() receives a status code?",
       "url": "https://stackoverflow.com/questions/79998971/why-doesnt-tenacitys-retry-decorator-retry-when-requests-get-receives-a-stat",
       "published_at": "2026-08-28T14:19:27.000Z",
@@ -2019,20 +2036,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Litcoder"
-    },
-    {
-      "title": "SIH hackthon guidance",
-      "url": "https://stackoverflow.com/questions/79998964/sih-hackthon-guidance",
-      "published_at": "2026-08-28T13:51:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aryan zope"
     },
     {
       "title": "Why does typing break when I convert my classes to generic classes?",
@@ -2437,7 +2440,7 @@
       "title": "Hiding multiple selections of a drop down",
       "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
       "published_at": "2026-08-29T00:04:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "html"
@@ -2711,7 +2714,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "context-labs"
     },
     {
@@ -2807,7 +2810,7 @@
       "title": "How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?",
       "url": "https://stackoverflow.com/questions/79999108/how-can-i-prevent-duplicate-celery-tasks-when-a-fastapi-endpoint-is-retried",
       "published_at": "2026-08-29T00:12:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "postgresql",
@@ -3041,6 +3044,20 @@
       "user": "ewenjo"
     },
     {
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "published_at": "2026-08-28T15:23:15.671-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ml",
+        "security",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
+    },
+    {
       "title": "Safe alternative to new Function() for executing compiled JS string in browser",
       "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
       "published_at": "2026-08-27T16:37:24.000Z",
@@ -3245,19 +3262,19 @@
       "user": "pabs3"
     },
     {
-      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
-      "url": "https://github.com/czm15053/linuxdo-idea-ui",
-      "published_at": "2026-08-24T08:23:09Z",
-      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "published_at": "2026-08-27T18:30:44Z",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 256,
-      "user": "czm15053"
+      "stars": 334,
+      "user": "OnlyTerp"
     },
     {
       "title": "OrRon/EpicInfographics - A simple skill that will make your Agent create beautiful Infographics",
@@ -3271,8 +3288,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "OrRon"
+    },
+    {
+      "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "url": "https://github.com/czm15053/linuxdo-idea-ui",
+      "published_at": "2026-08-24T08:23:09Z",
+      "description": "给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
+      "source": "GitHub",
+      "stars": 257,
+      "user": "czm15053"
     },
     {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
@@ -3305,21 +3337,6 @@
       "user": "yizhiyanhua-ai"
     },
     {
-      "title": "achrefelouafi/LinearAbilityExtThreeJS - GitHub Repository",
-      "url": "https://github.com/achrefelouafi/LinearAbilityExtThreeJS",
-      "published_at": "2026-08-24T06:24:36Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46032561?v=4",
-      "source": "GitHub",
-      "stars": 151,
-      "user": "achrefelouafi"
-    },
-    {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
       "url": "https://github.com/sapientinc/PRAXIST",
       "published_at": "2026-08-27T14:20:58Z",
@@ -3331,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2051,
+      "stars": 2086,
       "user": "sapientinc"
     },
     {
@@ -3346,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 860,
+      "stars": 883,
       "user": "Tencent"
     },
     {
@@ -3376,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 502,
       "user": "lxf746"
     },
     {
@@ -3406,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 344,
       "user": "chrisgreg"
     },
     {
@@ -3421,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 51,
+      "stars": 52,
       "user": "context-labs"
     },
     {
@@ -3436,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 44,
+      "stars": 47,
       "user": "DavidCarliez"
     },
     {
@@ -3481,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3414,
+      "stars": 3419,
       "user": "b-nnett"
     },
     {
@@ -3496,23 +3513,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 997,
+      "stars": 1028,
       "user": "wide-trace"
-    },
-    {
-      "title": "amosblomqvist/learn - My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "published_at": "2026-08-24T16:45:07Z",
-      "description": "My AI learning system.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "source": "GitHub",
-      "stars": 677,
-      "user": "amosblomqvist"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -3526,8 +3528,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 719,
       "user": "XiaoDuoYa"
+    },
+    {
+      "title": "amosblomqvist/learn - My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "published_at": "2026-08-24T16:45:07Z",
+      "description": "My AI learning system.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
+      "source": "GitHub",
+      "stars": 714,
+      "user": "amosblomqvist"
     },
     {
       "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
@@ -3541,7 +3558,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 445,
       "user": "gtlhuyidan-sketch"
     },
     {
@@ -3556,7 +3573,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 2310,
+      "stars": 2314,
       "user": "tobi"
     },
     {
@@ -3571,7 +3588,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 451,
       "user": "crmne"
     },
     {
@@ -3618,6 +3635,20 @@
       "source": "GitHub",
       "stars": 104,
       "user": "mdspan"
+    },
+    {
+      "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "published_at": "2026-08-29T01:11:18.866-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "philosophy",
+        "practices",
+        "vibecoding"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "luiz"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
