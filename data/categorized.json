@@ -45,21 +45,6 @@
       "user": "xbill"
     },
     {
-      "title": "The agent posted successfully. To the wrong account.",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
-      "published_at": "2026-08-27T08:31:54Z",
-      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
-      "tags": [
-        "ai",
-        "api",
-        "mcp",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
-      "source": "Dev.to",
-      "user": "Eugeniya Ivanova"
-    },
-    {
       "title": "What Do You Do While AI Codes?",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
       "published_at": "2026-08-25T13:36:11Z",
@@ -208,6 +193,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The agent posted successfully. To the wrong account.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
+      "published_at": "2026-08-27T08:31:54Z",
+      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "tags": [
+        "ai",
+        "api",
+        "mcp",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
+      "source": "Dev.to",
+      "user": "Eugeniya Ivanova"
     },
     {
       "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
@@ -760,7 +760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "DavidCarliez"
     },
     {
@@ -805,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 899,
       "user": "XiaoDuoYa"
     },
     {
@@ -820,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 761,
       "user": "amosblomqvist"
     },
     {
@@ -865,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 136,
       "user": "JordyZomer"
     },
     {
@@ -896,17 +896,18 @@
       "user": "luiz"
     },
     {
-      "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
-      "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-      "published_at": "2026-08-29T03:19:22.011-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Python's Shuffle Failing Chi-Squared Test for Fairness",
+      "url": "https://stackoverflow.com/questions/79999284/pythons-shuffle-failing-chi-squared-test-for-fairness",
+      "published_at": "2026-08-29T21:47:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "linux",
-        "vibecoding"
+        "python",
+        "random",
+        "statistics"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "laktak"
+      "source": "StackOverflow",
+      "user": "user3236291"
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
@@ -1412,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "OnlyTerp"
     },
     {
@@ -1427,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "OrRon"
     },
     {
@@ -1487,7 +1488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3427,
+      "stars": 3430,
       "user": "b-nnett"
     },
     {
@@ -1502,7 +1503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1066,
       "user": "wide-trace"
     },
     {
@@ -1517,7 +1518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 899,
       "user": "XiaoDuoYa"
     },
     {
@@ -1532,7 +1533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 761,
       "user": "amosblomqvist"
     },
     {
@@ -1549,6 +1550,35 @@
       "source": "GitHub",
       "stars": 448,
       "user": "gtlhuyidan-sketch"
+    },
+    {
+      "title": "Introducing ReactOS 0.4.16",
+      "url": "https://reactos.org/project-news/reactos-0416-released/",
+      "published_at": "2026-08-29T15:21:34.963-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "osdev",
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "bb010g"
+    },
+    {
+      "title": "How can I detect and visualize multiple touch points with JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999272/how-can-i-detect-and-visualize-multiple-touch-points-with-javascript",
+      "published_at": "2026-08-29T19:45:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "advice",
+        "javascript",
+        "web",
+        "touch",
+        "touch-event"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jonathan Frewin"
     },
     {
       "title": "How to load google recaptcha only on specific pages",
@@ -1676,21 +1706,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kapikulu"
-    },
-    {
-      "title": "How do I a save root variable toggle to local storage?",
-      "url": "https://stackoverflow.com/questions/79998787/how-do-i-a-save-root-variable-toggle-to-local-storage",
-      "published_at": "2026-08-27T20:30:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "local-storage",
-        "toggle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ve."
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -1902,7 +1917,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2918,
+      "stars": 2930,
       "user": "sapientinc"
     },
     {
@@ -1917,7 +1932,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 903,
       "user": "Tencent"
     },
     {
@@ -1947,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 578,
       "user": "tradecatlabs"
     },
     {
@@ -1962,8 +1977,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "lxf746"
+    },
+    {
+      "title": "Python's Shuffle Failing Chi-Squared Test for Fairness",
+      "url": "https://stackoverflow.com/questions/79999284/pythons-shuffle-failing-chi-squared-test-for-fairness",
+      "published_at": "2026-08-29T21:47:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "random",
+        "statistics"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user3236291"
+    },
+    {
+      "title": "My project with classes and encapsulation in Python programming language",
+      "url": "https://stackoverflow.com/questions/79999281/my-project-with-classes-and-encapsulation-in-python-programming-language",
+      "published_at": "2026-08-29T20:49:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bash"
     },
     {
       "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
@@ -1978,6 +2020,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "Why Does an Identity Comparison Using id() Evaluate to False?",
+      "url": "https://stackoverflow.com/questions/79999271/why-does-an-identity-comparison-using-id-evaluate-to-false",
+      "published_at": "2026-08-29T19:45:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nubspec"
     },
     {
       "title": "Using ast.parse to evaluate arithmetic expression safely",
@@ -2062,47 +2117,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hieu M"
-    },
-    {
-      "title": "Raspberry Pi - robot",
-      "url": "https://stackoverflow.com/questions/79999066/raspberry-pi-robot",
-      "published_at": "2026-08-28T20:31:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "sockets",
-        "raspberry-pi3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Lazaruss"
-    },
-    {
-      "title": "how do i make a program with tkinter that lets me add a word and its meaning",
-      "url": "https://stackoverflow.com/questions/79999041/how-do-i-make-a-program-with-tkinter-that-lets-me-add-a-word-and-its-meaning",
-      "published_at": "2026-08-28T18:26:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gabriel Oyetade"
-    },
-    {
-      "title": "SIH hackthon guidance",
-      "url": "https://stackoverflow.com/questions/79998964/sih-hackthon-guidance",
-      "published_at": "2026-08-28T13:51:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aryan zope"
     },
     {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
@@ -2482,35 +2496,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Firestar001"
-    },
-    {
-      "title": "How do I a save root variable toggle to local storage?",
-      "url": "https://stackoverflow.com/questions/79998787/how-do-i-a-save-root-variable-toggle-to-local-storage",
-      "published_at": "2026-08-27T20:30:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "css",
-        "local-storage",
-        "toggle"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ve."
-    },
-    {
-      "title": "SIH hackthon guidance",
-      "url": "https://stackoverflow.com/questions/79998964/sih-hackthon-guidance",
-      "published_at": "2026-08-28T13:51:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "architecture",
-        "backend"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aryan zope"
     }
   ],
   "Mobile": [
@@ -2870,21 +2855,6 @@
   ],
   "Security": [
     {
-      "title": "The agent posted successfully. To the wrong account.",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
-      "published_at": "2026-08-27T08:31:54Z",
-      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
-      "tags": [
-        "ai",
-        "api",
-        "mcp",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
-      "source": "Dev.to",
-      "user": "Eugeniya Ivanova"
-    },
-    {
       "title": "I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep",
       "url": "https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o",
       "published_at": "2026-08-26T17:29:30Z",
@@ -2913,6 +2883,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "The agent posted successfully. To the wrong account.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3",
+      "published_at": "2026-08-27T08:31:54Z",
+      "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...",
+      "tags": [
+        "ai",
+        "api",
+        "mcp",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
+      "source": "Dev.to",
+      "user": "Eugeniya Ivanova"
     },
     {
       "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
@@ -3290,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 360,
+      "stars": 361,
       "user": "OnlyTerp"
     },
     {
@@ -3305,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "OrRon"
     },
     {
@@ -3365,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2918,
+      "stars": 2930,
       "user": "sapientinc"
     },
     {
@@ -3380,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 901,
+      "stars": 903,
       "user": "Tencent"
     },
     {
@@ -3410,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 578,
       "user": "tradecatlabs"
     },
     {
@@ -3425,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 534,
+      "stars": 536,
       "user": "lxf746"
     },
     {
@@ -3440,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 450,
       "user": "chrisgreg"
     },
     {
@@ -3455,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 61,
+      "stars": 62,
       "user": "DavidCarliez"
     },
     {
@@ -3515,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
       "source": "GitHub",
-      "stars": 3427,
+      "stars": 3430,
       "user": "b-nnett"
     },
     {
@@ -3530,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1066,
       "user": "wide-trace"
     },
     {
@@ -3545,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 899,
       "user": "XiaoDuoYa"
     },
     {
@@ -3560,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 747,
+      "stars": 761,
       "user": "amosblomqvist"
     },
     {
@@ -3590,7 +3575,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
       "source": "GitHub",
-      "stars": 2321,
+      "stars": 2322,
       "user": "tobi"
     },
     {
@@ -3605,7 +3590,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 493,
       "user": "crmne"
     },
     {
@@ -3650,7 +3635,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 136,
       "user": "JordyZomer"
     },
     {

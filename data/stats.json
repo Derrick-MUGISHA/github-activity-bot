@@ -11,10 +11,10 @@
   },
   "by_category": {
     "AI": 81,
-    "JavaScript": 39,
+    "JavaScript": 40,
     "Python": 30,
     "DevOps": 15,
-    "WebDev": 14,
+    "WebDev": 12,
     "Mobile": 6,
     "Cloud": 13,
     "Database": 5,
@@ -24,14 +24,14 @@
   "by_language": {
     "Go": 33,
     "Python": 30,
-    "JavaScript": 39,
+    "JavaScript": 40,
     "Java": 31,
     "Ruby": 2,
     "Rust": 8
   },
   "by_date": {
-    "2026-08-28": 20,
-    "2026-08-27": 26,
+    "2026-08-28": 16,
+    "2026-08-27": 25,
     "2026-08-25": 10,
     "2026-08-26": 8,
     "2026-08-24": 8,
@@ -100,7 +100,7 @@
     "2013-11-06": 1,
     "2017-11-08": 1,
     "2024-10-09": 1,
-    "2026-08-29": 22
+    "2026-08-29": 27
   },
   "top_tags": {
     "ai": 27,
@@ -115,21 +115,21 @@
     "Python": 11,
     "Security": 10,
     "DevOps": 10,
-    "programming": 7,
+    "programming": 8,
     "go": 6,
     "rust": 6,
     "typescript": 6,
-    "vibecoding": 6,
     "a2a": 5,
     "dart": 5,
-    "llm": 5
+    "llm": 5,
+    "devchallenge": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "23.1",
-    "Python": "21.0",
-    "JavaScript": "27.3",
-    "Java": "21.7",
+    "Go": "22.9",
+    "Python": "20.8",
+    "JavaScript": "27.8",
+    "Java": "21.5",
     "Ruby": "1.4",
     "Rust": "5.6"
   }
