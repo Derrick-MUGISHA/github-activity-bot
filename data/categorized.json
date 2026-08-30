@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
-      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
-      "published_at": "2026-08-30T16:46:00Z",
-      "description": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure",
       "url": "https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m",
       "published_at": "2026-08-30T19:09:03Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
+      "url": "https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf",
+      "published_at": "2026-08-30T16:46:00Z",
+      "description": "Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling",
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 279,
       "user": "DavidCarliez"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209298247?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 41,
       "user": "incompletepi"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1366,
       "user": "XiaoDuoYa"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 905,
       "user": "amosblomqvist"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 202,
       "user": "JordyZomer"
     },
     {
@@ -916,8 +916,8 @@
       "published_at": "2026-08-30T15:00:00.000Z",
       "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
       "tags": [
-        "Enterprise",
         "AI",
+        "Enterprise",
         "caterpillar",
         "mining"
       ],
@@ -1461,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1366,
       "user": "XiaoDuoYa"
     },
     {
@@ -1476,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1078,
       "user": "wide-trace"
     },
     {
@@ -1491,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 905,
       "user": "amosblomqvist"
     },
     {
@@ -1506,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 716,
       "user": "kacperkapusciak"
     },
     {
@@ -1521,7 +1521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 706,
       "user": "jub0t"
     },
     {
@@ -1537,10 +1537,23 @@
       "user": "veqq"
     },
     {
+      "title": "Why is JavaScript stopping when it calls getElementById method?",
+      "url": "https://stackoverflow.com/questions/79999444/why-is-javascript-stopping-when-it-calls-getelementbyid-method",
+      "published_at": "2026-08-30T21:41:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Symfony-Wonderer"
+    },
+    {
       "title": "How do I make the menu button open the nav menu in media queries",
       "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
       "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1633,21 +1646,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sri Ramya"
-    },
-    {
-      "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
-      "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
-      "published_at": "2026-08-27T18:43:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "recaptcha",
-        "netlify",
-        "hugo"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Malte K"
     },
     {
       "title": "Phaser 3 Arcade Physics: sprite following a precomputed waypoint path stalls / doesn't move correctly",
@@ -1873,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 4520,
+      "stars": 4526,
       "user": "sapientinc"
     },
     {
@@ -1888,7 +1886,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 935,
       "user": "Tencent"
     },
     {
@@ -1903,7 +1901,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 781,
       "user": "tradecatlabs"
     },
     {
@@ -1918,7 +1916,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 623,
       "user": "jprx"
     },
     {
@@ -1933,7 +1931,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "lxf746"
     },
     {
@@ -2444,7 +2442,7 @@
       "title": "How do I make the menu button open the nav menu in media queries",
       "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
       "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 4 answers · score 4",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2585,7 +2583,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 623,
       "user": "jprx"
     },
     {
@@ -3165,8 +3163,7 @@
       "published_at": "2026-08-30T13:11:09.248-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security",
-        "vibecoding"
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
@@ -3446,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 4520,
+      "stars": 4526,
       "user": "sapientinc"
     },
     {
@@ -3461,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 930,
+      "stars": 935,
       "user": "Tencent"
     },
     {
@@ -3476,7 +3473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 781,
       "user": "tradecatlabs"
     },
     {
@@ -3491,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 623,
       "user": "jprx"
     },
     {
@@ -3506,7 +3503,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 579,
       "user": "lxf746"
     },
     {
@@ -3521,7 +3518,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 600,
       "user": "chrisgreg"
     },
     {
@@ -3536,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 279,
       "user": "DavidCarliez"
     },
     {
@@ -3566,7 +3563,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 46,
+      "stars": 49,
       "user": "tsouth89"
     },
     {
@@ -3581,7 +3578,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/209298247?v=4",
       "source": "GitHub",
-      "stars": 38,
+      "stars": 41,
       "user": "incompletepi"
     },
     {
@@ -3596,7 +3593,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1366,
       "user": "XiaoDuoYa"
     },
     {
@@ -3611,7 +3608,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1078,
       "user": "wide-trace"
     },
     {
@@ -3626,7 +3623,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 905,
       "user": "amosblomqvist"
     },
     {
@@ -3641,7 +3638,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
       "source": "GitHub",
-      "stars": 701,
+      "stars": 716,
       "user": "kacperkapusciak"
     },
     {
@@ -3656,7 +3653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 706,
       "user": "jub0t"
     },
     {
@@ -3671,23 +3668,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 556,
       "user": "crmne"
-    },
-    {
-      "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "url": "https://github.com/JordyZomer/lemmalog",
-      "published_at": "2026-08-27T07:06:55Z",
-      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
-      "source": "GitHub",
-      "stars": 197,
-      "user": "JordyZomer"
     },
     {
       "title": "soirihiroka/shrimply - you're telling me a shrimp made this video?",
@@ -3701,8 +3683,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 191,
+      "stars": 215,
       "user": "soirihiroka"
+    },
+    {
+      "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "published_at": "2026-08-27T07:06:55Z",
+      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
+      "source": "GitHub",
+      "stars": 202,
+      "user": "JordyZomer"
     },
     {
       "title": "dragthelake/ambient-context - A menu bar app that keeps a written record of what you worked on.",
@@ -3716,7 +3713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/665108?v=4",
       "source": "GitHub",
-      "stars": 149,
+      "stars": 151,
       "user": "dragthelake"
     },
     {
@@ -3731,7 +3728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 136,
       "user": "pgrundev"
     },
     {
