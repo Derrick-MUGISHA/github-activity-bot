@@ -60,21 +60,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
-      "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
-      "published_at": "2026-08-27T01:00:03Z",
-      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
-      "tags": [
-        "gemma",
-        "angular",
-        "tutorial",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
       "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
       "published_at": "2026-08-27T07:37:45Z",
@@ -326,6 +311,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png",
       "source": "Dev.to",
       "user": "marcosomma"
+    },
+    {
+      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
+      "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
+      "published_at": "2026-08-27T01:00:03Z",
+      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
+      "tags": [
+        "gemma",
+        "angular",
+        "tutorial",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework",
@@ -734,21 +734,6 @@
       "user": "yizhiyanhua-ai"
     },
     {
-      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "published_at": "2026-08-23T21:14:28Z",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "ShadowAqueduct"
-    },
-    {
       "title": "DavidCarliez/trustmebro - Bypass llm guardrails by confusing it with fabricated tool output.",
       "url": "https://github.com/DavidCarliez/trustmebro",
       "published_at": "2026-08-26T19:10:55Z",
@@ -805,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 916,
       "user": "XiaoDuoYa"
     },
     {
@@ -820,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 767,
       "user": "amosblomqvist"
     },
     {
@@ -839,21 +824,6 @@
       "user": "gtlhuyidan-sketch"
     },
     {
-      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "url": "https://github.com/truespar/sentio",
-      "published_at": "2026-08-23T21:36:25Z",
-      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
-      "source": "GitHub",
-      "stars": 227,
-      "user": "truespar"
-    },
-    {
       "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
       "url": "https://github.com/JordyZomer/lemmalog",
       "published_at": "2026-08-27T07:06:55Z",
@@ -865,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 136,
+      "stars": 144,
       "user": "JordyZomer"
     },
     {
@@ -894,20 +864,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "luiz"
-    },
-    {
-      "title": "Python's Shuffle Failing Chi-Squared Test for Fairness",
-      "url": "https://stackoverflow.com/questions/79999284/pythons-shuffle-failing-chi-squared-test-for-fairness",
-      "published_at": "2026-08-29T21:47:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "random",
-        "statistics"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user3236291"
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
@@ -1163,21 +1119,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
-      "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
-      "published_at": "2026-08-27T01:00:03Z",
-      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
-      "tags": [
-        "gemma",
-        "angular",
-        "tutorial",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
       "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
       "published_at": "2026-08-27T07:37:45Z",
@@ -1221,6 +1162,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F665mlqsa4qvwrbbh6xba.png",
       "source": "Dev.to",
       "user": "Gamya "
+    },
+    {
+      "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]",
+      "url": "https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g",
+      "published_at": "2026-08-27T01:00:03Z",
+      "description": "Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...",
+      "tags": [
+        "gemma",
+        "angular",
+        "tutorial",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database",
@@ -1413,23 +1369,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "OrRon/EpicInfographics - A simple skill that will make your Agent create beautiful Infographics",
-      "url": "https://github.com/OrRon/EpicInfographics",
-      "published_at": "2026-08-23T22:56:37Z",
-      "description": "A simple skill that will make your Agent create beautiful Infographics",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "OrRon"
     },
     {
       "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
@@ -1477,19 +1418,19 @@
       "user": "yizhiyanhua-ai"
     },
     {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "title": "zhuyifang/tonghuasun-agent - 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "url": "https://github.com/zhuyifang/tonghuasun-agent",
+      "published_at": "2026-08-24T12:02:01Z",
+      "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
       "source": "GitHub",
-      "stars": 3430,
-      "user": "b-nnett"
+      "stars": 152,
+      "user": "zhuyifang"
     },
     {
       "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
@@ -1503,7 +1444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1067,
       "user": "wide-trace"
     },
     {
@@ -1518,7 +1459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 916,
       "user": "XiaoDuoYa"
     },
     {
@@ -1533,7 +1474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 767,
       "user": "amosblomqvist"
     },
     {
@@ -1552,6 +1493,21 @@
       "user": "gtlhuyidan-sketch"
     },
     {
+      "title": "jub0t/WolfCut - Free & Open-Source CapCut replacement.",
+      "url": "https://github.com/jub0t/WolfCut",
+      "published_at": "2026-08-25T18:34:47Z",
+      "description": "Free & Open-Source CapCut replacement.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
+      "source": "GitHub",
+      "stars": 417,
+      "user": "jub0t"
+    },
+    {
       "title": "Introducing ReactOS 0.4.16",
       "url": "https://reactos.org/project-news/reactos-0416-released/",
       "published_at": "2026-08-29T15:21:34.963-05:00",
@@ -1568,7 +1524,7 @@
       "title": "How can I detect and visualize multiple touch points with JavaScript?",
       "url": "https://stackoverflow.com/questions/79999272/how-can-i-detect-and-visualize-multiple-touch-points-with-javascript",
       "published_at": "2026-08-29T19:45:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "advice",
         "javascript",
@@ -1593,6 +1549,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Hiding multiple selections of a drop down",
+      "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
+      "published_at": "2026-08-29T00:04:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Firestar001"
     },
     {
       "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
@@ -1620,19 +1589,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Merelie Bincal"
-    },
-    {
-      "title": "Hiding multiple selections of a drop down",
-      "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
-      "published_at": "2026-08-29T00:04:05.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Firestar001"
     },
     {
       "title": "How does a Playwright locator behave when the matched DOM element is replaced?",
@@ -1917,7 +1873,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2930,
+      "stars": 2933,
       "user": "sapientinc"
     },
     {
@@ -1936,21 +1892,6 @@
       "user": "Tencent"
     },
     {
-      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "published_at": "2026-08-23T21:14:28Z",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "ShadowAqueduct"
-    },
-    {
       "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
       "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
       "published_at": "2026-08-27T18:02:35Z",
@@ -1962,8 +1903,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 617,
       "user": "tradecatlabs"
+    },
+    {
+      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "url": "https://github.com/jprx/darwin-vm",
+      "published_at": "2026-08-27T22:24:31Z",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "jprx"
     },
     {
       "title": "lxf746/outlook-auto-register - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
@@ -1977,22 +1933,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 540,
       "user": "lxf746"
-    },
-    {
-      "title": "Python's Shuffle Failing Chi-Squared Test for Fairness",
-      "url": "https://stackoverflow.com/questions/79999284/pythons-shuffle-failing-chi-squared-test-for-fairness",
-      "published_at": "2026-08-29T21:47:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "random",
-        "statistics"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user3236291"
     },
     {
       "title": "My project with classes and encapsulation in Python programming language",
@@ -2117,6 +2059,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Hieu M"
+    },
+    {
+      "title": "Raspberry Pi - robot",
+      "url": "https://stackoverflow.com/questions/79999066/raspberry-pi-robot",
+      "published_at": "2026-08-28T20:31:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "sockets",
+        "raspberry-pi3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lazaruss"
     },
     {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
@@ -2457,21 +2413,6 @@
       "user": "velmu"
     },
     {
-      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "published_at": "2026-08-23T21:14:28Z",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "ShadowAqueduct"
-    },
-    {
       "title": "LLM usage in Debian neither endorsed nor prohibited",
       "url": "https://www.debian.org/vote/2026/vote_002#texte",
       "published_at": "2026-08-28T20:40:59.732-05:00",
@@ -2572,6 +2513,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "url": "https://github.com/jprx/darwin-vm",
+      "published_at": "2026-08-27T22:24:31Z",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "jprx"
     },
     {
       "title": "How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained",
@@ -3275,23 +3231,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 366,
       "user": "OnlyTerp"
-    },
-    {
-      "title": "OrRon/EpicInfographics - A simple skill that will make your Agent create beautiful Infographics",
-      "url": "https://github.com/OrRon/EpicInfographics",
-      "published_at": "2026-08-23T22:56:37Z",
-      "description": "A simple skill that will make your Agent create beautiful Infographics",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1096486?v=4",
-      "source": "GitHub",
-      "stars": 263,
-      "user": "OrRon"
     },
     {
       "title": "czm15053/linuxdo-idea-ui - 给 linux.do 换装的油猴脚本合集：JetBrains/Darcula IDE 风格、飞书 IM、钉钉 IM 三种外观，仅换皮不碰数据",
@@ -3339,6 +3280,21 @@
       "user": "yizhiyanhua-ai"
     },
     {
+      "title": "zhuyifang/tonghuasun-agent - 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "url": "https://github.com/zhuyifang/tonghuasun-agent",
+      "published_at": "2026-08-24T12:02:01Z",
+      "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
+      "source": "GitHub",
+      "stars": 152,
+      "user": "zhuyifang"
+    },
+    {
       "title": "sapientinc/PRAXIST - Autonomous research system for measurable, computer-executable research.",
       "url": "https://github.com/sapientinc/PRAXIST",
       "published_at": "2026-08-27T14:20:58Z",
@@ -3350,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2930,
+      "stars": 2933,
       "user": "sapientinc"
     },
     {
@@ -3369,21 +3325,6 @@
       "user": "Tencent"
     },
     {
-      "title": "ShadowAqueduct/watermark-remover - Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "published_at": "2026-08-23T21:14:28Z",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/311792326?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "ShadowAqueduct"
-    },
-    {
       "title": "tradecatlabs/shulihuazixuecongshu - GitHub Repository",
       "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
       "published_at": "2026-08-27T18:02:35Z",
@@ -3395,8 +3336,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 617,
       "user": "tradecatlabs"
+    },
+    {
+      "title": "jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "url": "https://github.com/jprx/darwin-vm",
+      "published_at": "2026-08-27T22:24:31Z",
+      "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
+      "source": "GitHub",
+      "stars": 544,
+      "user": "jprx"
     },
     {
       "title": "lxf746/outlook-auto-register - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
@@ -3410,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 536,
+      "stars": 540,
       "user": "lxf746"
     },
     {
@@ -3425,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 470,
       "user": "chrisgreg"
     },
     {
@@ -3489,21 +3445,6 @@
       "user": "ikermy"
     },
     {
-      "title": "b-nnett/grok-bot-0.18-reconstructed - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "published_at": "2026-08-23T20:53:01Z",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/62760393?v=4",
-      "source": "GitHub",
-      "stars": 3430,
-      "user": "b-nnett"
-    },
-    {
       "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "url": "https://github.com/wide-trace/open-higgsfield",
       "published_at": "2026-08-26T06:09:58Z",
@@ -3515,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1066,
+      "stars": 1067,
       "user": "wide-trace"
     },
     {
@@ -3530,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 916,
       "user": "XiaoDuoYa"
     },
     {
@@ -3545,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 767,
       "user": "amosblomqvist"
     },
     {
@@ -3564,19 +3505,19 @@
       "user": "gtlhuyidan-sketch"
     },
     {
-      "title": "tobi/walgit - GitHub Repository",
-      "url": "https://github.com/tobi/walgit",
-      "published_at": "2026-08-23T22:28:01Z",
-      "description": "Trending GitHub Repository",
+      "title": "jub0t/WolfCut - Free & Open-Source CapCut replacement.",
+      "url": "https://github.com/jub0t/WolfCut",
+      "published_at": "2026-08-25T18:34:47Z",
+      "description": "Free & Open-Source CapCut replacement.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/347?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 2322,
-      "user": "tobi"
+      "stars": 417,
+      "user": "jub0t"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3590,23 +3531,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 498,
       "user": "crmne"
     },
     {
-      "title": "truespar/sentio - Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
-      "url": "https://github.com/truespar/sentio",
-      "published_at": "2026-08-23T21:36:25Z",
-      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "published_at": "2026-08-27T07:06:55Z",
+      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/264198848?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 227,
-      "user": "truespar"
+      "stars": 144,
+      "user": "JordyZomer"
     },
     {
       "title": "dragthelake/ambient-context - A menu bar app that keeps a written record of what you worked on.",
@@ -3624,19 +3565,34 @@
       "user": "dragthelake"
     },
     {
-      "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "url": "https://github.com/JordyZomer/lemmalog",
-      "published_at": "2026-08-27T07:06:55Z",
-      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "title": "pgrundev/pgterm - Postgres Terminal",
+      "url": "https://github.com/pgrundev/pgterm",
+      "published_at": "2026-08-27T15:48:53Z",
+      "description": "Postgres Terminal",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 136,
-      "user": "JordyZomer"
+      "stars": 112,
+      "user": "pgrundev"
+    },
+    {
+      "title": "mdspan/posix-sync - Idiomatic Rust interface for POSIX synchronisation primitives",
+      "url": "https://github.com/mdspan/posix-sync",
+      "published_at": "2026-08-24T07:31:41Z",
+      "description": "Idiomatic Rust interface for POSIX synchronisation primitives",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/256296755?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "mdspan"
     },
     {
       "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
