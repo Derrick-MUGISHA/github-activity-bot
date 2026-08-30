@@ -22720,3 +22720,1449 @@ I apologize ahead of time, what follows has no tooling applied to it. No grammar
 
 ---
 
+
+
+## 📰 DevTech News — 2026-08-30 23:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (79 articles)
+
+#### 1. [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+📅 Sun, 30 Aug 2026 16:46:00 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png)
+
+Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 2. [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
+📅 Sun, 30 Aug 2026 19:09:03 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png)
+
+Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
+📅 Sat, 29 Aug 2026 18:57:42 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png)
+
+Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 4. [Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️](https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i)
+📅 Fri, 28 Aug 2026 13:34:29 GMT
+👤 By: Guillaume Vernade | 📌 Source: Dev.to
+
+![Stop Wrestling with ASR: The Complete Guide to Gemini 3.5 Transcribe 🎙️](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk94u52rtj5g7cw3aghk4.webp)
+
+You’ve probably used Gemini to analyze hours of video, summarize podcasts, or answer questions from...
+
+🏷️ Tags: `ai`, `stt`, `tutorial`
+
+---
+
+#### 5. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 6. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 7. [Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't](https://dev.to/gde/gemma-4-in-pure-jax-what-ports-from-tpu-to-gpu-and-what-doesnt-3m09)
+📅 Sat, 29 Aug 2026 00:39:38 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 in Pure JAX: What Ports from TPU to GPU, and What Doesn't](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ozdxe9qfrcngto433nc.png)
+
+This article is about running a hand-written Gemma 4 port in pure JAX on three different...
+
+🏷️ Tags: `gemma`, `jax`, `googleai`, `machinelearning`
+
+---
+
+#### 8. [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
+📅 Tue, 25 Aug 2026 13:36:11 GMT
+👤 By: Ashley Childress | 📌 Source: Dev.to
+
+![What Do You Do While AI Codes?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png)
+
+AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one "quick" habit that makes you the bottleneck.
+
+🏷️ Tags: `discuss`, `ai`, `productivity`, `devex`
+
+---
+
+#### 9. [Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg)
+📅 Sat, 29 Aug 2026 12:58:53 GMT
+👤 By: Caleb Duff | 📌 Source: Dev.to
+
+![Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png)
+
+If you've tried an "agentic" AI coding tool recently, there's a good chance it asked you to switch...
+
+🏷️ Tags: `antigravity`, `vscode`, `ai`, `webdev`
+
+---
+
+#### 10. [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2)
+📅 Sat, 29 Aug 2026 05:03:06 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png)
+
+Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+### 🏷️ JavaScript (40 articles)
+
+#### 1. [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+📅 Sun, 30 Aug 2026 16:46:00 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png)
+
+Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 2. [Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf)
+📅 Fri, 28 Aug 2026 21:32:56 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk7eqboky9quitbvythao.png)
+
+Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures, and Streams—making the migration away from FutureBuilder and StreamBuilder completely mechanical, type-safe, and 0ms reactive.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 3. [Vector Search Is Still the Memory Layer Agents Actually Need](https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn)
+📅 Thu, 27 Aug 2026 07:37:45 GMT
+👤 By: Ben Greenberg | 📌 Source: Dev.to
+
+![Vector Search Is Still the Memory Layer Agents Actually Need](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png)
+
+When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...
+
+🏷️ Tags: `ai`, `llm`, `agents`, `vectordatabase`
+
+---
+
+#### 4. [Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]](https://dev.to/gde/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-542g)
+📅 Thu, 27 Aug 2026 01:00:03 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4 [GDE]](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqopx7vjvz54zfkphr8nv.jpeg)
+
+Imagine having a personal financial planner that analyzes your sensitive transaction history, flags...
+
+🏷️ Tags: `gemma`, `angular`, `tutorial`, `ai`
+
+---
+
+#### 5. [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+📅 Tue, 11 Aug 2026 14:40:56 GMT
+👤 By: Pooja Bhavani | 📌 Source: Dev.to
+
+![The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `react`, `devbugsmash`
+
+---
+
+#### 6. [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+📅 Wed, 19 Aug 2026 21:29:49 GMT
+👤 By: Abbey Perini | 📌 Source: Dev.to
+
+![State Management in Front-end Web Development: Mutators](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png)
+
+Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...
+
+🏷️ Tags: `webdev`, `react`, `vue`, `javascript`
+
+---
+
+#### 7. [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+📅 Mon, 17 Aug 2026 07:39:18 GMT
+👤 By: Mike Pearson | 📌 Source: Dev.to
+
+![Functional languages are heavily imperative.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcrcgtujuv9n9kd0hoj7b.png)
+
+Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.
+
+🏷️ Tags: `imperative`, `declarative`, `haskell`
+
+---
+
+#### 8. [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+📅 Wed, 29 Jul 2026 18:18:58 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png)
+
+We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `css`, `javascript`
+
+---
+
+#### 9. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (30 articles)
+
+#### 1. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 2. [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
+📅 Wed, 19 Aug 2026 11:08:16 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![I Write Less Code Than I Used To. That May Be the Point.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png)
+
+Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `python`
+
+---
+
+#### 3. [Why I Tell My AI Coding Agent: "Prefer Dart Over Python"](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
+📅 Thu, 20 Aug 2026 01:56:59 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Why I Tell My AI Coding Agent: "Prefer Dart Over Python"](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlf225uyz60xhhms3lwy.png)
+
+The default reflex for AI scripting is Python. Here is why switching your agent's temporary scripting prompt to Dart eliminates environment hell and runtime bugs (and why Rust isn't the alternative).
+
+🏷️ Tags: `dart`, `python`, `rust`, `ai`
+
+---
+
+#### 4. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (18 articles)
+
+#### 1. [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
+📅 Sun, 30 Aug 2026 19:09:03 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png)
+
+Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
+📅 Sat, 29 Aug 2026 18:57:42 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png)
+
+Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://dev.to/gde/kubeflow-without-kubernetes-deploy-a-complete-mlops-suite-in-60-seconds-with-gubernator-3moo)
+📅 Fri, 28 Aug 2026 11:28:35 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Kubeflow Without Kubernetes? Deploy a Complete MLOps Suite in 60 Seconds with Gubernator](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftit6xe2xjosdrrja6dkc.png)
+
+Run JupyterLab, MLflow, MinIO S3, and Ollama Inference on a lightweight cluster using pure Docker Compose and <2GB RAM.
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`, `orquestador`
+
+---
+
+#### 4. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2)
+📅 Sat, 29 Aug 2026 05:03:06 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png)
+
+Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 6. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 7. [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+📅 Thu, 20 Aug 2026 18:13:27 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png)
+
+Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`
+
+---
+
+#### 8. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (9 articles)
+
+#### 1. [Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd)
+📅 Sun, 09 Aug 2026 19:42:53 GMT
+👤 By: Giorgi Kobaidze | 📌 Source: Dev.to
+
+![Backend Engineer (Me) Ships a Browser Game With One Unintentional System Requirement: My Monitor](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo4ngi6w3hcz3pgxb5wrm.jpg)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.           Prefer...
+
+🏷️ Tags: `devchallenge`, `bugsmash`
+
+---
+
+#### 2. [State Management in Front-end Web Development: Mutators](https://dev.to/abbeyperini/state-management-in-front-end-web-development-mutators-24gp)
+📅 Wed, 19 Aug 2026 21:29:49 GMT
+👤 By: Abbey Perini | 📌 Source: Dev.to
+
+![State Management in Front-end Web Development: Mutators](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8tow8sshtz7dygaghwzb.png)
+
+Libraries like Valtio and Pinia for Vue use a mutator pattern instead of the actions, dispatch, and...
+
+🏷️ Tags: `webdev`, `react`, `vue`, `javascript`
+
+---
+
+#### 3. [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+📅 Mon, 17 Aug 2026 07:39:18 GMT
+👤 By: Mike Pearson | 📌 Source: Dev.to
+
+![Functional languages are heavily imperative.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcrcgtujuv9n9kd0hoj7b.png)
+
+Functional and declarative are not the same thing. Haskell creators knew it, and we can clearly see the difference between purity and program structure with certain Haskell, FRP, RxJS, HTML, and JavaScript examples.
+
+🏷️ Tags: `imperative`, `declarative`, `haskell`
+
+---
+
+#### 4. [Learn how to build a disclosure component using the native HTML details tag](https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j)
+📅 Mon, 17 Aug 2026 13:08:06 GMT
+👤 By: Mica | 📌 Source: Dev.to
+
+![Learn how to build a disclosure component using the native HTML details tag](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45l68i6gbmqi5b6h6bkv.png)
+
+Welcome to a new entry in my section dedicated to creating reusable and, above all, accessible...
+
+🏷️ Tags: `a11y`, `webdev`, `html`, `designsystem`
+
+---
+
+#### 5. [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
+📅 Wed, 29 Jul 2026 18:18:58 GMT
+👤 By: Jess Lee | 📌 Source: Dev.to
+
+![Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp7ydxfn62js3xzkjw0c9.png)
+
+We're back with another Frontend Challenge, and this time we're hungry! 🍜🥧  Running through August...
+
+🏷️ Tags: `devchallenge`, `frontendchallenge`, `css`, `javascript`
+
+---
+
+#### 6. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry](https://alexalejandre.com/interviews/interview-with-oofoe/)
+📅 Sun, 30 Aug 2026 15:13:55 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+Oofoe ([sourcehut](https://hg.sr.ht/~oofoe/)) is a REBOL-refugee comes from animation and now works on precision instrument software. He makes [puzzles in Decker](https://oofoe.itch.io/puz15) and [games in Janet](https://oofoe.itch.io/c4-jester) (using his [Janet->JavaScript](https://hg.sr.ht/~oofoe/jester) transpiler) and [Racket](https://oofoe.itch.io/castle-monsterous) and [Racket](https://oofoe.itch.io/kiplkat) and, again, [Racket](https://oofoe.itch.io/witchy) and [Racket](https://oofoe.itch.io/harmony) and even [visual novels](https://oofoe.itch.io/the-unseen).
+
+In this interview, we discuss:
+- DSL design
+- exotic languages (REBOL, Forth, Janet)
+- Decker
+- industrial domains (VFx)
+
+----
+
+Do you know of any resources to set up additional targets in `%project.janet`?
+
+**[This](https://janetdocs.org/tutorials/packaging) can be good, but what's the `%`?**
+
+Oh, sorry... The `%` business is a holdover from REBOL that I took up with. They indicate file paths to the parser with a leading percent sign. So you can say things like `write %survey.csv data` and you don't need quotes around the path like most other languages. REBOL had something like 20+ types that the parser understood. REBOL was my first introduction to PEG (which led me to Janet...)
+
+**Oh! Please shill REBOL! This is now an interview.**
+
+REBOL had four things really going for it (in my opinion):
+
+* A very simple, concise syntax, 
+* Built-in, first-class PEG (parsing expression grammars), 
+* An _AMAZING_ declarative GUI library, 
+* And, between the docstring features and decompiler, it was self-documenting.
+
+Here is a digital clock application with GUI in REBOL:
+
+```rebol
+view layout[origin 0 t: h1 red black (to string! now/time)
+ rate 1 feel[engage: [t/text: now/time show t]]]
+```
+
+Now, that's a purposely code-golfed example, but it gives you an idea of how small you can go. But you can go big too -- I taught myself the fine points of the GUI that weren't covered in the manual by decompiling the VID dialect and pulling on the levers thus revealed. I then used it to build (among other things) a visual video editor, tools to ingest and process stuff into a professional editing package, and lots and lots of utilities that could have nice interfaces because they were so easy to do in REBOL. 
+
+This is a simple visual flow-based compositor that I did for a contest at work a while back: https://hg.sr.ht/~oofoe/tc
+
+Unfortunately, despite its incredible capabilities and genius antecedents (designed by [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath), who did the Amiga operating system), REBOL was eventually discontinued. So I found myself looking at other languages.
+
+Janet has surpassed REBOL in the PEG category because of how it handles the grammar. And it's not too far behind in the self-documenting sweepstakes. Syntax... Well, Janet's a Lisp and REBOL took inspiration from SmallTalk and Forth.
+
+Unfortunately Janet has no "decent" GUI bindings yet. Probably a difficulty of making threading work? I once put together a REBOL style declarative GUI package for Python, so have considered doing that for Janet with RayLib. But haven't gotten around to it.
+
+**Why did Sassenrath quit?**
+
+It was tragic that [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath) (the guy who invented it) decided to quit (and run a vineyard) before taking it to 64bit, but on the other hand, maybe it was the right decision, because his idea of "programming in the small" had a hard time finding a receptive audience, even though it was spot on. It also didn't help that his company hoped to charge for a higher-spec professional version of REBOL during the era when free Python, Ruby and JavaScript were stomping around the world in seven-league boots. I really loved REBOL, though, for me it just worked.
+
+**Programming in the small?**
+
+Wikipedia has [a bit](https://en.wikipedia.org/wiki/Programming_in_the_large_and_programming_in_the_small) about it, but here's his [manifesto](https://sassenrath.com/computing.html). "Programming in the small" is the idea that programs don't have to be big and complex to be useful and robust. Part of that philosophy was achieved by having lots of useful data types in REBOL (e.g. `16:34` is a time, `2021-05-19` is a date, `34x994` is a coordinate and so on. You didn't have to do anything special (like import libraries), you could just use them. The other part is stuff like "global variables are good enough" and not worrying too much about side effects. You're making a small program that does a limited set of things, it doesn't have to be a big interoperating thing (like anything in Java), or have lots of ceremony, like C++.
+
+I favour human-sized code bases. Giant edifices of code are rarely justified (or justifiable) and often obviated by reframing the questions you're trying to answer. (Yes, there are exceptions -- a state of the art optimized graphics renderer probably won't be less than 500 lines (ha!) and if you want a feature-complete reimplementation of Micro$oft Word, well...) However, even when doing somewhat complex things (render farm control software, multi-user studio management system, etc.) I try to make the data control the flow -- the code itself is fairly simple and "obvious" once you've seen how the data is organized.
+
+I am greatly informed by Forth. "Proper" Forth development consists of creating the vocabulary required to solve your problem, but you don't have to throw away the rest of Forth. In Forth, a DSL is basically an emergent property of the language -- you have all the same tools as the language implementer at your disposal. Things do generally have a "forthy" feel to them when you're done (although some people have implemented FORTRAN, BASIC and even C in Forth...), but that's generally no defect when you're working in an environment that supports it. 
+
+For whatever reason, DSLs in other languages seem (to me) to require an extra mental step because they're divorced from the language proper. Like, say, Racket. You can do other languages and syntax in it, but it's such a bother.
+
+That said, most of my Forth programs have been fairly small by the standards of ray tracers or word processors. My render-farm controller was Forth-based, but it had a fairly simple job once I re-framed the assumptions. I suspect I would approach word-processing the same way -- i.e. it wouldn't look like MSWord. `; - )` I used to joke that all the programs I've written in my career would fit on a single 1.44MB floppy. I don't think that's true any longer, but I try.
+
+**Forth also likes global variables. Chuck Moore said local vars are dangerous.**
+
+Forth uses the stack for what people would typically use scoped function local variables for. E.g. `def add(a, b): return a + b` in Forth would be `: add + ;`(where `:` starts a function definition and `;` terminates it). Where's the variables? That's the thing in Forth -- they're put on the stack by whatever calls `add` and it immediately operates on them, so in many cases they're simply not needed.
+
+So, he's not _wrong_... They're definitely an extra thing that has to be managed. However, he's also the only person I know of that could implement an MPEG decoder without them! For lesser mortals, sometimes they're useful.
+
+I knew Forth before I took up with REBOL, but REBOL really made it clear how a concise notation and rich data types were worth an extra 30 IQ points (paraphrasing Alan Kay). That's one of the things that really frustrates me with "modern" software development. REBOL shows the way to a world where you can program interesting things quickly, almost like building stuff on the fly with your (say) C64 back in the day with the built-in BASIC. To me, that's "vibe-coding", not the AI thing. Just starting with a blank screen (or editor buffer) and seeing where it takes you.
+
+The [Jester](https://hg.sr.ht/~oofoe/jester) transpiler I did for Janet was kind of that -- I had the germ of an idea, "could I translate this Janet to JavaScript with a PEG?" And then I started adding stuff to it until I could write whole programs! Janet's not REBOL, so there are a few parenthesis mixed in, but it worked very well -- almost stream-of-consciousness. (The code reflects that, of course, I keep meaning to clean it up a bit, at least for error checking.)
+
+**How did you discover Forth?**
+
+I had my first computer, that I bought with all the proceeds from my summer job -- a sleek black plastic [Sinclair ZX81](https://en.wikipedia.org/wiki/ZX81). The ZX81 was an interesting machine, very compact (and cheap) and more capable than it had any right to be. from what I understand its BASIC even influenced Python to some extent. However, while it was a clever design, it was slow. Like really slow.
+
+There was a thing called "PluriForth", which was a replacement ROM chip that turned it into a complete multitasking machine. But it was a hundred bucks -- way out of my price range. But I could get ZX-Forth, which came on cassette. It had a number of sharp edges and was the exact opposite of user-friendly. But I found Leo Brodie's "Starting Forth" in the library and things got better from there. The thing that absolutely sucked me in with Forth was that, unlike BASIC, it wasn't a black box. You could pull the pieces apart and see what was going on.
+
+**What was that render-farm controller you mentioned?**
+
+In Visual Effects (VFx), you describe a scene to a computer and then move a virtual movie camera through it. Twenty four times a second, for the number of seconds the camera is in play, you have the computer generate a single image, or "frame" (named for the black bordered areas of motion-picture film). Put together, they make an animated sequence. This process is called rendering. It can be terribly time-consuming, but fortunately it's almost trivial to parallelize if you have a network of machines dedicated to rendering and the software to control them.
+
+This is a render-farm controller, and once upon a time, it was very, very expensive. Back in the day, being able to dynamically distribute computer jobs to disparate processors was a big deal. You only needed that sort of capability if you were doing A-bombs, serious weather sims or... VFx. But, one night, while sleepily hand-feeding a handful of computers render jobs for an IMAX project, I started thinking about how I could do it better.
+
+A friend of mine was working in California at one of the big studios. He told me horror stories about how different projects would have "render wars" to try to get more compute to get their images out before deadline. They would hack other user's accounts and de-prioritize (or delete!) their jobs, change the size of their render pools so they could "steal" more machines, that sort of thing.
+
+I decided I wasn't going to have any of _that,_ thank you... Instead of the traditional job prioritization and pooling, on my render farm you could ask for any number of machines and give your jobs the highest possible priority, no hacking required. HOWEVER! If you asked for more machines than another project, their jobs got priority over yours.
+
+Say we have 100 machines. Project "A" might ask for all 100 and run the jobs through at mid priority. However, project "B" could ask for only 20 machines and even at lowest priority, they would get red-carpet service. Now, once "B" was done, "A" _would_ get everything to itself. There were some other wrinkles, but the idea was to reward people for asking for a reasonable amount of resources instead of trying to glom them all.
+
+It had some other notable features. Most render-farms I had seen at that point were "command-and-control". The render server would contact free machines and start jobs directly, and keep track of each one itself. This usually used a mechanism like rsh or something. It did not scale well. I came up with a client-server architecture where the controller machine (server) just kept a list of available jobs and clients would contact it and request something to do that matched their capabilities. I know this is so trivial today -- it's like I'm describing how to flip a light switch! -- but then, I was standing the established order on its head. I called the software RiCk (render client) and RiSa (render server). 
+
+I wrote them in Python, with a twist. The server ran a simple Forth implementation that the clients would connect to and issue commands to a REPL. I could also telnet to it and debug or even rewrite the queuing algorithm with hot code updates. The server also handled http -- the work queue was controlled by a web interface that you could connect to with a browser over the same port! 
+
+At its height, I think it managed around 600 machines. It served us for several years and certainly saved a chunk of licensing fees. Eventually, it got replaced by a commercial solution that had a better sales team than myself...
+
+**You've used Racket, NewLisp and Janet, how'd you get into Lisp?**
+
+A long time ago, I worked in civil engineering. Technical drawings and some light design work. I started out doing drawings with precision ink pens on poster-sized semi-transparent mylar sheets, but eventually the company got with the program and set us up with AutoCAD.
+
+AutoCAD was primarily architected by a super smart guy named John Walker and he came from a very traditional computer science/mainframe background (as in UNIVAC mainframes). He was very interested in embedded scripting languages (his seminal [ATLAST](https://www.fourmilab.ch/atlast/) was absolutely formative in my development as a programmer) and pushed to integrate a Lisp interpreter (XLISP) into AutoCAD so users could add their own functionality.
+
+Unfortunately, there was almost no documentation in the main AutoCAD manual. Just a half page blurb with a short demo program (written in the Don Lancaster style). I bounced hard off that and figured I'd never have anything to do with Lisp ever again.
+
+However, much later, I found Paul Graham's essay about Viaweb, the e-commerce startup he helped found. They programmed using Lisp. I wasn't that impressed with his claims for flexibility or expressiveness (after all, I was already using Perl, right? `; - )`, but some of the capabilities he described (closures!) sounded like black magic. Much like when I was paddling around the shallows of AutoCAD and my kicking foot had smacked into the rugose body of XLISP, I wanted to know more.
+
+I found CLISP and CMUCL and others in short order. I was ready to unlock all this cool Lisp stuff. I did actually do some stuff with it, like my studio's website and a few utilities. Unfortunately, I just couldn't make Common Lisp "click" for me. The underlying concepts were elegant, but it seemed to be all strangled by no end of janky cruft that seemed to do the same thing ten different ways, but with no road map to picking which to use. And, let me tell you, the Common Lisp HyperSpec was no help at all.
+
+But, I got Emacs working and I started figuring out elisp. And I also ran across the Toronto Lisp Users Group. And then... I found NewLisp.
+
+NewLisp had some warts and for some reason a lot of people got upset that it called itself a "lisp" when it didn't meet some particular criteria for lisp-dom. However, for me, it was a total breath of fresh air. Things were named rationally and purposefully -- I could often guess the name of a built-in function instead of needing to look it up. There were some great usability features, like implicit structure accesses. And it had a cross-platform GUI library. But most of all, it had excellent documentation!
+
+NewLisp was a launchpad. It wasn't perfect, but the language itself made sense and I finally had good, coherent documentation. Among other things, every function in NewLisp had an example program you could just type in and run. This, more than anything, gave me a jet assist when learning. I wish more language authors would understand this.
+
+I took NewLisp pretty far. My first "useful" GUI program with it was an aviation weight and balance calculator, which helped with the tedious calculations before a flight: [https://hg.sr.ht/~oofoe/wb](https://hg.sr.ht/~oofoe/wb). I also experimented with a Twine-like 2D writing tool ([https://hg.sr.ht/~oofoe/storytrace](https://hg.sr.ht/~oofoe/storytrace)) and an implementation of Jef Raskin's computer programming teaching platform ([https://hg.sr.ht/~oofoe/flow](https://hg.sr.ht/~oofoe/flow)).
+
+But there were a few flies in the ointment. One, there wasn't a good way to package (compile) a program. And two, if you wanted a GUI, you needed to have Java. As Oracle began "altering the deal" on Java, this was becoming less and less attractive. So, I started looking for a new place to land.
+
+I had played with DrRacket before, but always kind of dismissed it because I didn't really get along with the IDE. It could certainly do some powerful things though. However, in 2018, I finally bit the bullet. I had found out about the Lisp Game Jam on [itch.io](http://itch.io "http://itch.io/") and I wanted to participate. Since I still didn't have a way to "compile" anything with NewLisp and I wanted to make an executable, Racket looked like the best choice.
+
+The experience wasn't perfect, but I actually made it to the end of the jam with a complete game: Castle Monsterous. Small steps, but it worked and I could ship it. I moved all my lisping to Racket.
+
+I used it almost exclusively for my recreational (and some work) programming for the next several years, learning about various arcane facets of the language. The "universe" simulation/game framework was instrumental in shifting my thinking to where I could envision my "[Canned Heat](https://hg.sr.ht/~oofoe/candheat)" not-a-game-engine, and the language creation facilities of Racket led me to my next step -- Urlang. Using it, I made the most polished game I've done yet -- "[Class 6 Goes to Hell](https://oofoe.itch.io/class6)" which kind of rips off "Helltaker" (just based on a let's-play I saw of it).
+
+Now, Racket could compile, but I was starting to get dissatisfied with what it compiled. I was running Windows, but a lot of people in the game jam weren't. So unless they compiled from source, they couldn't play my games. What was available to almost everybody? A web browser. JavaScript was supposed to descend from Lisp, there should certainly be a way to do Lisp on the browser, right?
+
+The answer at the time, was not so much. There were some things that looked promising, but most of them had a really high tool cost -- other runtimes, other compilers, Node (shudder!) and so on. Then, finally, I found what I was looking for, almost right on my doorstep. Urlang is a Racket package that compiles Lisp to JavaScript. It uses all the standard Racket compiler machinery (including macros) and you can edit with the Racket IDE. My next several games, including my best ever placing, were all done this way. I'm most proud of [zode-tripper](https://oofoe.itch.io/zode-tripper), the first game I did with sound and music (working with some very talented Brazilian musicians). It was also where I first started coming some understandings about how to architect games.
+
+This was good for jams and I was really excited by the expanded reach, but not so great for all-round programming. After a brief investigation of Julia, I ran across the Janet. It ticked a bunch of boxes for me -- it had some features, like implicit structure access, that I sorely missed from NewLisp. It had built in PEG parsing, like REBOL. And it was lightweight and you could compile an executable.
+
+I've now used Janet for a number of interesting projects. Among these are bog-standard file and text transformations, a GUI-based art training tool, network utilities, device simulators and even a scientific/industrial monitoring and control tool. That last has now been released as a commercial product. One of my more recent projects was using the Janet PEG parser to build another Lisp->JavaScript transpiler.
+
+From a forum post I made about Janet:
+
+> With multiple network connections, GUIs and long running processes, multitasking of some sort is a must. Janet provides several flavours. The simplest is a "fiber", which is a kind of in-process green thread. Then, threads (of course), and finally actual multiple process synchronization. So far, I've only needed fibers, but it's been more than enough to handle multiple data streams for simulating and controlling scientific instruments.
+>
+> And compiling. If you're on Linux (or Mac, I think), it works like falling off a log. If you're on Windows it's annoying (thanks Micro$oft), but still doable. It uses a two stage compilation that allows you to control what gets compiled in your source (like C macros, but much nicer). Compared to Racket (or even other scripting language compilers, e.g. Nuitka?), it produces a tiny result (1.7MB for a commercial product where I compiled in all the resources and even the user manual to a single executable). - https://newlispfanclub.com/index.php?topic=5295.msg25390#msg25390
+
+So, that's where I am with Lisp.
+
+**You've used Decker quite a bit, how have your experiences with it and  been?**
+
+Although I have poked at various array languages, none of them have really stuck with me. However, Lil in Decker was fairly convenient to work with -- I appreciated that it offered english words and a fairly conventional event-driven architecture. I really like the ideas of array languages, but I often seem to trip over their idiosyncrasies, Lil kept things manageable.
+
+I always regretted missing out on Mac HyperCard (I was totally PC). I tried a couple of the successors that I could run, but they were disappointing. For instance, one of the big features of HyperCard for me was built-in drawing tools and the clones just expected you to use PhotoShop instead. Decker is the first one I've tried that captures the magic for me -- it's small and fast, has the drawing tools and is extensible -- you can write scripts in Lil to add new features. Once I figured out how to persist data (in a control) things started to fall into place.
+
+Decker may not be what you want for "serious" development, but for quick sketches or simple applications it works great! I've used it for pixel art, GUI mockups and, of course the odd little game. The great thing about is that you don't have to use all of it. It's fine as a sketchpad or little language environment to try things out. Also, web-based, so easy to distribute whatever you come up with.
+
+**How did you get into VFx?**
+
+Thanks to a TV special I saw about the making of "Tron", I was pretty interested in the cinematic possibilities of computers. So, almost as soon as I started working with AutoCAD, I wanted to do a movie with it. I experimented with AutoCAD and early PC paint and slideshow programs, but I didn't really get anywhere until I got myself hired by a fledgling computer graphics firm started by a Hollywood expatriate. 
+
+He'd brought over a chunk of surplus iron (DEC VAX 11/750 and a Silicon Graphics 3130 workstation) and set up to serve the Mexican market. He put a help-wanted ad on a BBS (early version of Reddit... ; - ) advertising for someone with art, CAD and programming experience. I took a tour through his basement facility (all the giant computers were installed in his actual house so he was working from home before "wfh" was even a thing) and I was hooked. Within a week I was working on an exploding toothbrush for a tv ad for Colgate Palmolive.
+
+The coolest thing about VFx is that cheating is allowed. You animate "to the camera", meaning that the only thing that counts is what the viewer sees, not how you made it happen. You can commit what would be unpardonable sins in any other discipline that valued probity and correctness. But with VFx, you're frequently doing the impossible (a man can fly!?) under impossible time and budgetary constraints. Cheating is the law!
+
+**Could you talk more about the IMAX project?**
+
+So, I needed some class credits to graduate college. A friend mentioned in passing that a nearby planetarium he worked with was interested in new show ideas. Once I learned more about the planetarium, I was pretty interested too -- 40 foot dome, Zeiss stellar projector, eight panorama projectors, a flying spot mirror... If I wanted to make some big images, this was the place! I talked my department heads into approving three independent studies, which coincidentally carried the remaining credits I needed to graduate.
+
+And I earned every single credit. I had the idea that instead of being just a dry recitation of "star facts", this would actually be a dramatic presentation. I came up with a story about a kid touring a space station. I wrote the script, directed voice actors and did over five hundred glass slides worth of 256-colour digital art (mostly drawn with a mouse). The friend who'd gotten me interested, for his sins, supplied a dynamite soundtrack, audio processing work and one of the voice actors (his son, for the main character).
+
+The planetarium staff were very helpful and supportive -- even when they had to tell me to include more star facts in the script -- and we put together a nice show. There were other tribulations -- a lightning strike the night before I was due to show it to my professors took out half the projectors! We had to scramble to source RS232 driver chips to get most of them working before the show. The show itself went off without a hitch. I was thrilled I managed to complete it. And it was big... Way bigger than the biggest television, more immersive than a flat movie theatre screen. I figured that would be the closest I ever got to IMAX.
+
+Just a few years later, I found myself working on a 3D IMAX biographical film about two Las Vegas magicians. I suffered a lot of sleepless nights, but I learned a lot on that project. I got temporarily located to Santa Monica in California to be close to the production and got to build out the network almost from scratch. I also did a bunch of rotoscoping and compositing, so I was dealing with the visual side too. We used Houdini for the 3D. Nothing Real's SHAKE and Silicon Grail's Chalice image compositing programs -- both later swallowed by Apple in one gulp. RIP.
+
+We needed to preview the 3D imagery, but this was well before 3D TV, or even useful LCD panels. We made movie files of the left and right eye images arranged horizontally, with the right eye mirrored, then would hold heavy front surface optical mirrors up to our 27 inch glass tube displays. If we wanted to check colours, we had to send in "wedge" tests of the same frame with different colour densities, then wait until it was developed to see how it would actually look.
+
+We badly needed render resources, so I negotiated with a startup that was pushing an early sort of accelerator graphics box (sort of a non-real time GPU) to loan us six of their high end machines so we could make our deadlines. Unfortunately, the accelerator didn't understand how to do alpha channels, so we had to render each layer twice if we wanted to composite it (once for RGB, once more for alpha, or opacity, information). The license for the render software ran out before we could make final delivery, so the vendor actually authorized me to hack it to extend the time so they wouldn't have to compile a new one for us.
+
+After it was in the can, I had the chance to meet one of the magicians from the film. He asked what I had worked on and I told him about the VFx. He smiled and said "Ah! You do the REAL magic!"
+
+I went on to work on more 3D IMAX films, movies (flat and 3D), television shows and short subjects, but that one "magic" moment has always stayed with me.
+
+🏷️ Tags: `person`
+
+---
+
+#### 8. [How do I make the menu button open the nav menu in media queries](https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries)
+📅 Sun, 30 Aug 2026 03:26:33 GMT
+👤 By: August | 📌 Source: StackOverflow
+
+Stack Overflow question · 4 answers · score 4
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 9. [Hiding multiple selections of a drop down](https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down)
+📅 Sat, 29 Aug 2026 00:04:05 GMT
+👤 By: Firestar001 | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 1
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+### 🏷️ Mobile (10 articles)
+
+#### 1. [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+📅 Sun, 30 Aug 2026 16:46:00 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjebxs3nyvxnupg3w0kbx.png)
+
+Discover how CubitSignalMixin and BlocSignalMixin allow any existing Flutter controller, domain repository, or enterprise class to gain full reactive state container capabilities without occupying its single inheritance slot.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 2. [Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://dev.to/gde/grand-central-station-why-bloc-riverpod-and-blocsignal-are-now-true-peers-3fd8)
+📅 Sun, 30 Aug 2026 01:27:54 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Grand Central Station: Why BLoC, Riverpod, and BlocSignal Are Now True Peers](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffu728ez4tgy4t4kgg937.png)
+
+Discover why Flutter state management is no longer an all-or-nothing choice. Explore how BlocSignal, Classic BLoC, and Riverpod now operate as first-class bidirectional peers at the Grand Central State Terminal.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `architecture`
+
+---
+
+#### 3. [Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://dev.to/gde/mechanically-eliminating-futurebuilder-streambuilder-universal-signal-future-and-stream-3imf)
+📅 Fri, 28 Aug 2026 21:32:56 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Mechanically Eliminating FutureBuilder & StreamBuilder: Universal Signal, Future, and Stream Adapters in BlocSignal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk7eqboky9quitbvythao.png)
+
+Learn how BlocSignal 1.1.0 introduces symmetrical .toBlocSignal() and .toAsyncBlocSignal() adapters for Signals, Futures, and Streams—making the migration away from FutureBuilder and StreamBuilder completely mechanical, type-safe, and 0ms reactive.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `statemanagement`
+
+---
+
+#### 4. [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752)
+📅 Sat, 22 Aug 2026 20:29:26 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr22vsyaurmnwrznywlfz.png)
+
+How to eliminate LLM training cutoff gaps in Dart and Flutter, modernize legacy codebases, and install open agent skills with a single command.
+
+🏷️ Tags: `dart`, `flutter`, `ai`, `programming`
+
+---
+
+#### 5. [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911)
+📅 Sat, 22 Aug 2026 02:59:36 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8k6g7hk6o9p26vjedyz.png)
+
+Stop guessing how to structure your Flutter state. Here is a definitive, 4-tier decision rubric comparing raw Signals, CubitSignal, BlocSignal, and persistence mixins.
+
+🏷️ Tags: `flutter`, `dart`, `architecture`, `webdev`
+
+---
+
+#### 6. [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+📅 Thu, 20 Aug 2026 18:13:27 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png)
+
+Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`
+
+---
+
+#### 7. [What I Get to Forget About Riverpod Now That I Have BlocSignal](https://dev.to/gde/what-i-get-to-forget-about-riverpod-now-that-i-have-blocsignal-1be5)
+📅 Fri, 21 Aug 2026 01:00:50 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![What I Get to Forget About Riverpod Now That I Have BlocSignal](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcctiippfafi92rgns6e4.png)
+
+The greatest upgrade in developer experience isn't what you have to learn—it's the mental gymnastics you get to unlearn. A respectful, deep-dive comparison into why shedding Riverpod's cognitive overhead brings joy back to Flutter architecture.
+
+🏷️ Tags: `flutter`, `dart`, `riverpod`, `statemanagement`
+
+---
+
+#### 8. [jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.](https://github.com/jprx/darwin-vm)
+📅 Thu, 27 Aug 2026 22:24:31 GMT
+👤 By: jprx | 📌 Source: GitHub
+
+![jprx/darwin-vm - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.](https://avatars.githubusercontent.com/u/36464332?v=4)
+
+Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 615
+
+---
+
+#### 9. [Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry](https://alexalejandre.com/interviews/interview-with-oofoe/)
+📅 Sun, 30 Aug 2026 15:13:55 GMT
+👤 By: veqq | 📌 Source: Lobste.rs
+
+Oofoe ([sourcehut](https://hg.sr.ht/~oofoe/)) is a REBOL-refugee comes from animation and now works on precision instrument software. He makes [puzzles in Decker](https://oofoe.itch.io/puz15) and [games in Janet](https://oofoe.itch.io/c4-jester) (using his [Janet->JavaScript](https://hg.sr.ht/~oofoe/jester) transpiler) and [Racket](https://oofoe.itch.io/castle-monsterous) and [Racket](https://oofoe.itch.io/kiplkat) and, again, [Racket](https://oofoe.itch.io/witchy) and [Racket](https://oofoe.itch.io/harmony) and even [visual novels](https://oofoe.itch.io/the-unseen).
+
+In this interview, we discuss:
+- DSL design
+- exotic languages (REBOL, Forth, Janet)
+- Decker
+- industrial domains (VFx)
+
+----
+
+Do you know of any resources to set up additional targets in `%project.janet`?
+
+**[This](https://janetdocs.org/tutorials/packaging) can be good, but what's the `%`?**
+
+Oh, sorry... The `%` business is a holdover from REBOL that I took up with. They indicate file paths to the parser with a leading percent sign. So you can say things like `write %survey.csv data` and you don't need quotes around the path like most other languages. REBOL had something like 20+ types that the parser understood. REBOL was my first introduction to PEG (which led me to Janet...)
+
+**Oh! Please shill REBOL! This is now an interview.**
+
+REBOL had four things really going for it (in my opinion):
+
+* A very simple, concise syntax, 
+* Built-in, first-class PEG (parsing expression grammars), 
+* An _AMAZING_ declarative GUI library, 
+* And, between the docstring features and decompiler, it was self-documenting.
+
+Here is a digital clock application with GUI in REBOL:
+
+```rebol
+view layout[origin 0 t: h1 red black (to string! now/time)
+ rate 1 feel[engage: [t/text: now/time show t]]]
+```
+
+Now, that's a purposely code-golfed example, but it gives you an idea of how small you can go. But you can go big too -- I taught myself the fine points of the GUI that weren't covered in the manual by decompiling the VID dialect and pulling on the levers thus revealed. I then used it to build (among other things) a visual video editor, tools to ingest and process stuff into a professional editing package, and lots and lots of utilities that could have nice interfaces because they were so easy to do in REBOL. 
+
+This is a simple visual flow-based compositor that I did for a contest at work a while back: https://hg.sr.ht/~oofoe/tc
+
+Unfortunately, despite its incredible capabilities and genius antecedents (designed by [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath), who did the Amiga operating system), REBOL was eventually discontinued. So I found myself looking at other languages.
+
+Janet has surpassed REBOL in the PEG category because of how it handles the grammar. And it's not too far behind in the self-documenting sweepstakes. Syntax... Well, Janet's a Lisp and REBOL took inspiration from SmallTalk and Forth.
+
+Unfortunately Janet has no "decent" GUI bindings yet. Probably a difficulty of making threading work? I once put together a REBOL style declarative GUI package for Python, so have considered doing that for Janet with RayLib. But haven't gotten around to it.
+
+**Why did Sassenrath quit?**
+
+It was tragic that [Carl Sassenrath](https://en.wikipedia.org/wiki/Carl_Sassenrath) (the guy who invented it) decided to quit (and run a vineyard) before taking it to 64bit, but on the other hand, maybe it was the right decision, because his idea of "programming in the small" had a hard time finding a receptive audience, even though it was spot on. It also didn't help that his company hoped to charge for a higher-spec professional version of REBOL during the era when free Python, Ruby and JavaScript were stomping around the world in seven-league boots. I really loved REBOL, though, for me it just worked.
+
+**Programming in the small?**
+
+Wikipedia has [a bit](https://en.wikipedia.org/wiki/Programming_in_the_large_and_programming_in_the_small) about it, but here's his [manifesto](https://sassenrath.com/computing.html). "Programming in the small" is the idea that programs don't have to be big and complex to be useful and robust. Part of that philosophy was achieved by having lots of useful data types in REBOL (e.g. `16:34` is a time, `2021-05-19` is a date, `34x994` is a coordinate and so on. You didn't have to do anything special (like import libraries), you could just use them. The other part is stuff like "global variables are good enough" and not worrying too much about side effects. You're making a small program that does a limited set of things, it doesn't have to be a big interoperating thing (like anything in Java), or have lots of ceremony, like C++.
+
+I favour human-sized code bases. Giant edifices of code are rarely justified (or justifiable) and often obviated by reframing the questions you're trying to answer. (Yes, there are exceptions -- a state of the art optimized graphics renderer probably won't be less than 500 lines (ha!) and if you want a feature-complete reimplementation of Micro$oft Word, well...) However, even when doing somewhat complex things (render farm control software, multi-user studio management system, etc.) I try to make the data control the flow -- the code itself is fairly simple and "obvious" once you've seen how the data is organized.
+
+I am greatly informed by Forth. "Proper" Forth development consists of creating the vocabulary required to solve your problem, but you don't have to throw away the rest of Forth. In Forth, a DSL is basically an emergent property of the language -- you have all the same tools as the language implementer at your disposal. Things do generally have a "forthy" feel to them when you're done (although some people have implemented FORTRAN, BASIC and even C in Forth...), but that's generally no defect when you're working in an environment that supports it. 
+
+For whatever reason, DSLs in other languages seem (to me) to require an extra mental step because they're divorced from the language proper. Like, say, Racket. You can do other languages and syntax in it, but it's such a bother.
+
+That said, most of my Forth programs have been fairly small by the standards of ray tracers or word processors. My render-farm controller was Forth-based, but it had a fairly simple job once I re-framed the assumptions. I suspect I would approach word-processing the same way -- i.e. it wouldn't look like MSWord. `; - )` I used to joke that all the programs I've written in my career would fit on a single 1.44MB floppy. I don't think that's true any longer, but I try.
+
+**Forth also likes global variables. Chuck Moore said local vars are dangerous.**
+
+Forth uses the stack for what people would typically use scoped function local variables for. E.g. `def add(a, b): return a + b` in Forth would be `: add + ;`(where `:` starts a function definition and `;` terminates it). Where's the variables? That's the thing in Forth -- they're put on the stack by whatever calls `add` and it immediately operates on them, so in many cases they're simply not needed.
+
+So, he's not _wrong_... They're definitely an extra thing that has to be managed. However, he's also the only person I know of that could implement an MPEG decoder without them! For lesser mortals, sometimes they're useful.
+
+I knew Forth before I took up with REBOL, but REBOL really made it clear how a concise notation and rich data types were worth an extra 30 IQ points (paraphrasing Alan Kay). That's one of the things that really frustrates me with "modern" software development. REBOL shows the way to a world where you can program interesting things quickly, almost like building stuff on the fly with your (say) C64 back in the day with the built-in BASIC. To me, that's "vibe-coding", not the AI thing. Just starting with a blank screen (or editor buffer) and seeing where it takes you.
+
+The [Jester](https://hg.sr.ht/~oofoe/jester) transpiler I did for Janet was kind of that -- I had the germ of an idea, "could I translate this Janet to JavaScript with a PEG?" And then I started adding stuff to it until I could write whole programs! Janet's not REBOL, so there are a few parenthesis mixed in, but it worked very well -- almost stream-of-consciousness. (The code reflects that, of course, I keep meaning to clean it up a bit, at least for error checking.)
+
+**How did you discover Forth?**
+
+I had my first computer, that I bought with all the proceeds from my summer job -- a sleek black plastic [Sinclair ZX81](https://en.wikipedia.org/wiki/ZX81). The ZX81 was an interesting machine, very compact (and cheap) and more capable than it had any right to be. from what I understand its BASIC even influenced Python to some extent. However, while it was a clever design, it was slow. Like really slow.
+
+There was a thing called "PluriForth", which was a replacement ROM chip that turned it into a complete multitasking machine. But it was a hundred bucks -- way out of my price range. But I could get ZX-Forth, which came on cassette. It had a number of sharp edges and was the exact opposite of user-friendly. But I found Leo Brodie's "Starting Forth" in the library and things got better from there. The thing that absolutely sucked me in with Forth was that, unlike BASIC, it wasn't a black box. You could pull the pieces apart and see what was going on.
+
+**What was that render-farm controller you mentioned?**
+
+In Visual Effects (VFx), you describe a scene to a computer and then move a virtual movie camera through it. Twenty four times a second, for the number of seconds the camera is in play, you have the computer generate a single image, or "frame" (named for the black bordered areas of motion-picture film). Put together, they make an animated sequence. This process is called rendering. It can be terribly time-consuming, but fortunately it's almost trivial to parallelize if you have a network of machines dedicated to rendering and the software to control them.
+
+This is a render-farm controller, and once upon a time, it was very, very expensive. Back in the day, being able to dynamically distribute computer jobs to disparate processors was a big deal. You only needed that sort of capability if you were doing A-bombs, serious weather sims or... VFx. But, one night, while sleepily hand-feeding a handful of computers render jobs for an IMAX project, I started thinking about how I could do it better.
+
+A friend of mine was working in California at one of the big studios. He told me horror stories about how different projects would have "render wars" to try to get more compute to get their images out before deadline. They would hack other user's accounts and de-prioritize (or delete!) their jobs, change the size of their render pools so they could "steal" more machines, that sort of thing.
+
+I decided I wasn't going to have any of _that,_ thank you... Instead of the traditional job prioritization and pooling, on my render farm you could ask for any number of machines and give your jobs the highest possible priority, no hacking required. HOWEVER! If you asked for more machines than another project, their jobs got priority over yours.
+
+Say we have 100 machines. Project "A" might ask for all 100 and run the jobs through at mid priority. However, project "B" could ask for only 20 machines and even at lowest priority, they would get red-carpet service. Now, once "B" was done, "A" _would_ get everything to itself. There were some other wrinkles, but the idea was to reward people for asking for a reasonable amount of resources instead of trying to glom them all.
+
+It had some other notable features. Most render-farms I had seen at that point were "command-and-control". The render server would contact free machines and start jobs directly, and keep track of each one itself. This usually used a mechanism like rsh or something. It did not scale well. I came up with a client-server architecture where the controller machine (server) just kept a list of available jobs and clients would contact it and request something to do that matched their capabilities. I know this is so trivial today -- it's like I'm describing how to flip a light switch! -- but then, I was standing the established order on its head. I called the software RiCk (render client) and RiSa (render server). 
+
+I wrote them in Python, with a twist. The server ran a simple Forth implementation that the clients would connect to and issue commands to a REPL. I could also telnet to it and debug or even rewrite the queuing algorithm with hot code updates. The server also handled http -- the work queue was controlled by a web interface that you could connect to with a browser over the same port! 
+
+At its height, I think it managed around 600 machines. It served us for several years and certainly saved a chunk of licensing fees. Eventually, it got replaced by a commercial solution that had a better sales team than myself...
+
+**You've used Racket, NewLisp and Janet, how'd you get into Lisp?**
+
+A long time ago, I worked in civil engineering. Technical drawings and some light design work. I started out doing drawings with precision ink pens on poster-sized semi-transparent mylar sheets, but eventually the company got with the program and set us up with AutoCAD.
+
+AutoCAD was primarily architected by a super smart guy named John Walker and he came from a very traditional computer science/mainframe background (as in UNIVAC mainframes). He was very interested in embedded scripting languages (his seminal [ATLAST](https://www.fourmilab.ch/atlast/) was absolutely formative in my development as a programmer) and pushed to integrate a Lisp interpreter (XLISP) into AutoCAD so users could add their own functionality.
+
+Unfortunately, there was almost no documentation in the main AutoCAD manual. Just a half page blurb with a short demo program (written in the Don Lancaster style). I bounced hard off that and figured I'd never have anything to do with Lisp ever again.
+
+However, much later, I found Paul Graham's essay about Viaweb, the e-commerce startup he helped found. They programmed using Lisp. I wasn't that impressed with his claims for flexibility or expressiveness (after all, I was already using Perl, right? `; - )`, but some of the capabilities he described (closures!) sounded like black magic. Much like when I was paddling around the shallows of AutoCAD and my kicking foot had smacked into the rugose body of XLISP, I wanted to know more.
+
+I found CLISP and CMUCL and others in short order. I was ready to unlock all this cool Lisp stuff. I did actually do some stuff with it, like my studio's website and a few utilities. Unfortunately, I just couldn't make Common Lisp "click" for me. The underlying concepts were elegant, but it seemed to be all strangled by no end of janky cruft that seemed to do the same thing ten different ways, but with no road map to picking which to use. And, let me tell you, the Common Lisp HyperSpec was no help at all.
+
+But, I got Emacs working and I started figuring out elisp. And I also ran across the Toronto Lisp Users Group. And then... I found NewLisp.
+
+NewLisp had some warts and for some reason a lot of people got upset that it called itself a "lisp" when it didn't meet some particular criteria for lisp-dom. However, for me, it was a total breath of fresh air. Things were named rationally and purposefully -- I could often guess the name of a built-in function instead of needing to look it up. There were some great usability features, like implicit structure accesses. And it had a cross-platform GUI library. But most of all, it had excellent documentation!
+
+NewLisp was a launchpad. It wasn't perfect, but the language itself made sense and I finally had good, coherent documentation. Among other things, every function in NewLisp had an example program you could just type in and run. This, more than anything, gave me a jet assist when learning. I wish more language authors would understand this.
+
+I took NewLisp pretty far. My first "useful" GUI program with it was an aviation weight and balance calculator, which helped with the tedious calculations before a flight: [https://hg.sr.ht/~oofoe/wb](https://hg.sr.ht/~oofoe/wb). I also experimented with a Twine-like 2D writing tool ([https://hg.sr.ht/~oofoe/storytrace](https://hg.sr.ht/~oofoe/storytrace)) and an implementation of Jef Raskin's computer programming teaching platform ([https://hg.sr.ht/~oofoe/flow](https://hg.sr.ht/~oofoe/flow)).
+
+But there were a few flies in the ointment. One, there wasn't a good way to package (compile) a program. And two, if you wanted a GUI, you needed to have Java. As Oracle began "altering the deal" on Java, this was becoming less and less attractive. So, I started looking for a new place to land.
+
+I had played with DrRacket before, but always kind of dismissed it because I didn't really get along with the IDE. It could certainly do some powerful things though. However, in 2018, I finally bit the bullet. I had found out about the Lisp Game Jam on [itch.io](http://itch.io "http://itch.io/") and I wanted to participate. Since I still didn't have a way to "compile" anything with NewLisp and I wanted to make an executable, Racket looked like the best choice.
+
+The experience wasn't perfect, but I actually made it to the end of the jam with a complete game: Castle Monsterous. Small steps, but it worked and I could ship it. I moved all my lisping to Racket.
+
+I used it almost exclusively for my recreational (and some work) programming for the next several years, learning about various arcane facets of the language. The "universe" simulation/game framework was instrumental in shifting my thinking to where I could envision my "[Canned Heat](https://hg.sr.ht/~oofoe/candheat)" not-a-game-engine, and the language creation facilities of Racket led me to my next step -- Urlang. Using it, I made the most polished game I've done yet -- "[Class 6 Goes to Hell](https://oofoe.itch.io/class6)" which kind of rips off "Helltaker" (just based on a let's-play I saw of it).
+
+Now, Racket could compile, but I was starting to get dissatisfied with what it compiled. I was running Windows, but a lot of people in the game jam weren't. So unless they compiled from source, they couldn't play my games. What was available to almost everybody? A web browser. JavaScript was supposed to descend from Lisp, there should certainly be a way to do Lisp on the browser, right?
+
+The answer at the time, was not so much. There were some things that looked promising, but most of them had a really high tool cost -- other runtimes, other compilers, Node (shudder!) and so on. Then, finally, I found what I was looking for, almost right on my doorstep. Urlang is a Racket package that compiles Lisp to JavaScript. It uses all the standard Racket compiler machinery (including macros) and you can edit with the Racket IDE. My next several games, including my best ever placing, were all done this way. I'm most proud of [zode-tripper](https://oofoe.itch.io/zode-tripper), the first game I did with sound and music (working with some very talented Brazilian musicians). It was also where I first started coming some understandings about how to architect games.
+
+This was good for jams and I was really excited by the expanded reach, but not so great for all-round programming. After a brief investigation of Julia, I ran across the Janet. It ticked a bunch of boxes for me -- it had some features, like implicit structure access, that I sorely missed from NewLisp. It had built in PEG parsing, like REBOL. And it was lightweight and you could compile an executable.
+
+I've now used Janet for a number of interesting projects. Among these are bog-standard file and text transformations, a GUI-based art training tool, network utilities, device simulators and even a scientific/industrial monitoring and control tool. That last has now been released as a commercial product. One of my more recent projects was using the Janet PEG parser to build another Lisp->JavaScript transpiler.
+
+From a forum post I made about Janet:
+
+> With multiple network connections, GUIs and long running processes, multitasking of some sort is a must. Janet provides several flavours. The simplest is a "fiber", which is a kind of in-process green thread. Then, threads (of course), and finally actual multiple process synchronization. So far, I've only needed fibers, but it's been more than enough to handle multiple data streams for simulating and controlling scientific instruments.
+>
+> And compiling. If you're on Linux (or Mac, I think), it works like falling off a log. If you're on Windows it's annoying (thanks Micro$oft), but still doable. It uses a two stage compilation that allows you to control what gets compiled in your source (like C macros, but much nicer). Compared to Racket (or even other scripting language compilers, e.g. Nuitka?), it produces a tiny result (1.7MB for a commercial product where I compiled in all the resources and even the user manual to a single executable). - https://newlispfanclub.com/index.php?topic=5295.msg25390#msg25390
+
+So, that's where I am with Lisp.
+
+**You've used Decker quite a bit, how have your experiences with it and  been?**
+
+Although I have poked at various array languages, none of them have really stuck with me. However, Lil in Decker was fairly convenient to work with -- I appreciated that it offered english words and a fairly conventional event-driven architecture. I really like the ideas of array languages, but I often seem to trip over their idiosyncrasies, Lil kept things manageable.
+
+I always regretted missing out on Mac HyperCard (I was totally PC). I tried a couple of the successors that I could run, but they were disappointing. For instance, one of the big features of HyperCard for me was built-in drawing tools and the clones just expected you to use PhotoShop instead. Decker is the first one I've tried that captures the magic for me -- it's small and fast, has the drawing tools and is extensible -- you can write scripts in Lil to add new features. Once I figured out how to persist data (in a control) things started to fall into place.
+
+Decker may not be what you want for "serious" development, but for quick sketches or simple applications it works great! I've used it for pixel art, GUI mockups and, of course the odd little game. The great thing about is that you don't have to use all of it. It's fine as a sketchpad or little language environment to try things out. Also, web-based, so easy to distribute whatever you come up with.
+
+**How did you get into VFx?**
+
+Thanks to a TV special I saw about the making of "Tron", I was pretty interested in the cinematic possibilities of computers. So, almost as soon as I started working with AutoCAD, I wanted to do a movie with it. I experimented with AutoCAD and early PC paint and slideshow programs, but I didn't really get anywhere until I got myself hired by a fledgling computer graphics firm started by a Hollywood expatriate. 
+
+He'd brought over a chunk of surplus iron (DEC VAX 11/750 and a Silicon Graphics 3130 workstation) and set up to serve the Mexican market. He put a help-wanted ad on a BBS (early version of Reddit... ; - ) advertising for someone with art, CAD and programming experience. I took a tour through his basement facility (all the giant computers were installed in his actual house so he was working from home before "wfh" was even a thing) and I was hooked. Within a week I was working on an exploding toothbrush for a tv ad for Colgate Palmolive.
+
+The coolest thing about VFx is that cheating is allowed. You animate "to the camera", meaning that the only thing that counts is what the viewer sees, not how you made it happen. You can commit what would be unpardonable sins in any other discipline that valued probity and correctness. But with VFx, you're frequently doing the impossible (a man can fly!?) under impossible time and budgetary constraints. Cheating is the law!
+
+**Could you talk more about the IMAX project?**
+
+So, I needed some class credits to graduate college. A friend mentioned in passing that a nearby planetarium he worked with was interested in new show ideas. Once I learned more about the planetarium, I was pretty interested too -- 40 foot dome, Zeiss stellar projector, eight panorama projectors, a flying spot mirror... If I wanted to make some big images, this was the place! I talked my department heads into approving three independent studies, which coincidentally carried the remaining credits I needed to graduate.
+
+And I earned every single credit. I had the idea that instead of being just a dry recitation of "star facts", this would actually be a dramatic presentation. I came up with a story about a kid touring a space station. I wrote the script, directed voice actors and did over five hundred glass slides worth of 256-colour digital art (mostly drawn with a mouse). The friend who'd gotten me interested, for his sins, supplied a dynamite soundtrack, audio processing work and one of the voice actors (his son, for the main character).
+
+The planetarium staff were very helpful and supportive -- even when they had to tell me to include more star facts in the script -- and we put together a nice show. There were other tribulations -- a lightning strike the night before I was due to show it to my professors took out half the projectors! We had to scramble to source RS232 driver chips to get most of them working before the show. The show itself went off without a hitch. I was thrilled I managed to complete it. And it was big... Way bigger than the biggest television, more immersive than a flat movie theatre screen. I figured that would be the closest I ever got to IMAX.
+
+Just a few years later, I found myself working on a 3D IMAX biographical film about two Las Vegas magicians. I suffered a lot of sleepless nights, but I learned a lot on that project. I got temporarily located to Santa Monica in California to be close to the production and got to build out the network almost from scratch. I also did a bunch of rotoscoping and compositing, so I was dealing with the visual side too. We used Houdini for the 3D. Nothing Real's SHAKE and Silicon Grail's Chalice image compositing programs -- both later swallowed by Apple in one gulp. RIP.
+
+We needed to preview the 3D imagery, but this was well before 3D TV, or even useful LCD panels. We made movie files of the left and right eye images arranged horizontally, with the right eye mirrored, then would hold heavy front surface optical mirrors up to our 27 inch glass tube displays. If we wanted to check colours, we had to send in "wedge" tests of the same frame with different colour densities, then wait until it was developed to see how it would actually look.
+
+We badly needed render resources, so I negotiated with a startup that was pushing an early sort of accelerator graphics box (sort of a non-real time GPU) to loan us six of their high end machines so we could make our deadlines. Unfortunately, the accelerator didn't understand how to do alpha channels, so we had to render each layer twice if we wanted to composite it (once for RGB, once more for alpha, or opacity, information). The license for the render software ran out before we could make final delivery, so the vendor actually authorized me to hack it to extend the time so they wouldn't have to compile a new one for us.
+
+After it was in the can, I had the chance to meet one of the magicians from the film. He asked what I had worked on and I told him about the VFx. He smiled and said "Ah! You do the REAL magic!"
+
+I went on to work on more 3D IMAX films, movies (flat and 3D), television shows and short subjects, but that one "magic" moment has always stayed with me.
+
+🏷️ Tags: `person`
+
+---
+
+#### 10. [How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained](https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/)
+📅 Thu, 27 Aug 2026 15:34:20 GMT
+👤 By: Gidudu Nicholas | 📌 Source: freeCodeCamp
+
+The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the
+
+🏷️ Tags: `Flutter`, `Dart`, `Testing`, `widget-testing`, `unit testing`
+
+---
+
+### 🏷️ Cloud (17 articles)
+
+#### 1. [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
+📅 Sun, 30 Aug 2026 19:09:03 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyub1nq2p1e2apdkn4fgg.png)
+
+Offload cross-origin preflight handling and header injection to Google Cloud Load Balancing with native CORS support on GKE Gateway.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
+📅 Sat, 29 Aug 2026 18:57:42 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5vcq4zofx74e73l43ji.png)
+
+Learn how to troubleshoot and audit GKE Vertical Pod Autoscaler actions with structured decision logs in Cloud Logging.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [Taking Advantage of Gemini Managed Agents with Google Apps Script](https://dev.to/gde/taking-advantage-of-gemini-managed-agents-with-google-apps-script-5cdp)
+📅 Sun, 30 Aug 2026 07:45:24 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Taking Advantage of Gemini Managed Agents with Google Apps Script](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ydhpymfaq4bw5lly2zv.png)
+
+Breaking the Limits of GAS with Direct Cloud-to-Cloud Streaming in Persistent Linux...
+
+🏷️ Tags: `googleappsscript`, `gemini`, `antigravity`, `linux`
+
+---
+
+#### 4. [Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://dev.to/googlecloud/two-step-control-plane-upgrades-in-gke-how-minor-version-rollbacks-work-under-the-hood-i1l)
+📅 Thu, 27 Aug 2026 17:56:45 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Two-step control plane upgrades in GKE: How minor version rollbacks work under the hood](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jcp2qyptueri8fhzcp7.png)
+
+Learn how GKE decouples binary rollouts from API finalization to safely test and roll back Kubernetes minor version upgrades.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [Cross Cloud A2A Agent Card Field Comparison](https://dev.to/gde/cross-cloud-a2a-agent-card-field-comparison-2hod)
+📅 Thu, 27 Aug 2026 15:00:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Cross Cloud A2A Agent Card Field Comparison](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmulticloud-agentcard%2Fmaster%2Fdocs%2Farticle-header.jpg)
+
+Comparing Agent Cards with A2A - This tutorial aims to fetch the agent card from A2A agents running...
+
+🏷️ Tags: `a2a`, `multicloud`, `ai`, `python`
+
+---
+
+#### 6. [Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://dev.to/googlecloud/accelerating-jvm-startup-on-gke-how-vpa-cpu-startup-boost-eliminates-ongoing-resource-waste-33i2)
+📅 Sat, 29 Aug 2026 05:03:06 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Accelerating JVM startup on GKE: How VPA CPU startup boost eliminates ongoing resource waste](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6k5609jts5b2pf25u5iw.png)
+
+Learn how GKE VerticalPodAutoscaler (VPA) CPU Startup Boost cuts JVM cold starts and eliminates ongoing CPU waste using in-place Pod resizing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 7. [Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://dev.to/gde/wiring-the-reasoning-loop-gemini-neo4j-mcp-for-multi-hop-ai-agents-51p9)
+📅 Tue, 25 Aug 2026 03:18:30 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Wiring the Reasoning Loop: Gemini + Neo4j + MCP for Multi-Hop AI Agents](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gajwucxkidvoba2xphx.png)
+
+Standard Retrieval-Augmented Generation (RAG) solved the initial LLM hallucination problem by...
+
+🏷️ Tags: `ai`, `gcp`, `neo4j`, `mcp`
+
+---
+
+#### 8. [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
+📅 Sun, 23 Aug 2026 20:12:24 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: One Agent, Three Clouds, One Protocol](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw5v75uxs48rykywfhzhd.png)
+
+The same research agent built three times — Google ADK on Cloud Run, Strands on Bedrock AgentCore, Agent Framework on Container Apps — all speaking A2A v1.0. Where the platforms differ, where the models differ, and what has to be held constant before either is readable.
+
+🏷️ Tags: `a2a`, `aiagents`, `aws`, `azure`
+
+---
+
+#### 9. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 10. [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+📅 Sun, 23 Aug 2026 20:09:04 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: Serving an ADK Agent to AWS and Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png)
+
+A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+### 🏷️ Database (5 articles)
+
+#### 1. [Vector Search Is Still the Memory Layer Agents Actually Need](https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn)
+📅 Thu, 27 Aug 2026 07:37:45 GMT
+👤 By: Ben Greenberg | 📌 Source: Dev.to
+
+![Vector Search Is Still the Memory Layer Agents Actually Need](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png)
+
+When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...
+
+🏷️ Tags: `ai`, `llm`, `agents`, `vectordatabase`
+
+---
+
+#### 2. [Building E-commerce AI Agents on MongoDB with CrewAI](https://dev.to/mongodb/building-e-commerce-ai-agents-on-mongodb-with-crewai-4n8p)
+📅 Tue, 25 Aug 2026 17:04:18 GMT
+👤 By: Jordan Smith | 📌 Source: Dev.to
+
+![Building E-commerce AI Agents on MongoDB with CrewAI](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmi8rf5ve9fr028joiw51.png)
+
+AI-powered shopping agents are becoming a real differentiator for e-commerce teams. A 2026 Stord...
+
+🏷️ Tags: `ai`, `mongodb`, `agents`, `tutorial`
+
+---
+
+#### 3. [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+📅 Tue, 11 Aug 2026 14:40:56 GMT
+👤 By: Pooja Bhavani | 📌 Source: Dev.to
+
+![The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyt71rwhxzdtz09g02bf.jpg)
+
+This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.  Introduction: The...
+
+🏷️ Tags: `devchallenge`, `bugsmash`, `react`, `devbugsmash`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?](https://stackoverflow.com/questions/79999108/how-can-i-prevent-duplicate-celery-tasks-when-a-fastapi-endpoint-is-retried)
+📅 Sat, 29 Aug 2026 00:12:50 GMT
+👤 By: Diventra Labs | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 3
+
+🏷️ Tags: `python`, `postgresql`, `fastapi`
+
+---
+
+### 🏷️ Security (18 articles)
+
+#### 1. [I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep](https://dev.to/jon_at_backboardio/i-counted-the-attack-vectors-in-our-ai-stack-and-now-i-cant-sleep-155o)
+📅 Wed, 26 Aug 2026 17:29:30 GMT
+👤 By: Jonathan Murray | 📌 Source: Dev.to
+
+![I Counted the Attack Vectors in Our AI Stack and Now I Can't Sleep](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk6mcyw0haqp8rus5lh5p.png)
+
+so a while back i did something i do not recommend before bed.  i counted the vendors in a normal...
+
+🏷️ Tags: `aiops`, `ai`, `webdev`, `security`
+
+---
+
+#### 2. [Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://dev.to/googlecloud/taking-control-of-cluster-security-a-deep-dive-into-gke-clusternetworkpolicy-536c)
+📅 Tue, 25 Aug 2026 20:44:29 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Taking control of cluster security: A deep dive into GKE ClusterNetworkPolicy](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwmwmqutdhlfw67wjzr5n.png)
+
+Discover how GKE ClusterNetworkPolicy enables platform teams to establish global security guardrails without hindering developer agility
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [The agent posted successfully. To the wrong account.](https://dev.to/eugeniya_ivanova_4a58eadc/the-agent-posted-successfully-to-the-wrong-account-3kf3)
+📅 Thu, 27 Aug 2026 08:31:54 GMT
+👤 By: Eugeniya Ivanova | 📌 Source: Dev.to
+
+![The agent posted successfully. To the wrong account.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png)
+
+Back in July I wrote about what it takes to wire an AI agent into social platforms: six OAuth flows,...
+
+🏷️ Tags: `ai`, `api`, `mcp`, `webdev`
+
+---
+
+#### 4. [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
+📅 Thu, 13 Aug 2026 06:43:24 GMT
+👤 By: Debashish Ghosal | 📌 Source: Dev.to
+
+![I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png)
+
+Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
+
+🏷️ Tags: `ai`, `agents`, `security`, `gatekeeper`
+
+---
+
+#### 5. [Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3)
+📅 Thu, 20 Aug 2026 18:13:27 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Fgubernator%2Fmain%2Fdocs%2Fimages%2Fbanner.png)
+
+Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...
+
+🏷️ Tags: `gubernator`, `docker`, `antigravity`
+
+---
+
+#### 6. [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+📅 Mon, 27 Jul 2026 21:09:04 GMT
+👤 By: Thomas Bonnet | 📌 Source: Dev.to
+
+![Passkeys Explained Simply](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbelk4tf8yj77u4d7772o.webp)
+
+You’ve probably seen that little prompt that says “Sign in with Face ID” or “Use a passkey” instead...
+
+🏷️ Tags: `security`, `api`, `webdev`, `discuss`
+
+---
+
+#### 7. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (44 articles)
+
+#### 1. [What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)
+📅 Tue, 25 Aug 2026 13:36:11 GMT
+👤 By: Ashley Childress | 📌 Source: Dev.to
+
+![What Do You Do While AI Codes?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffe7bw0pscsaiq8wh4i3t.png)
+
+AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one "quick" habit that makes you the bottleneck.
+
+🏷️ Tags: `discuss`, `ai`, `productivity`, `devex`
+
+---
+
+#### 2. [Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://dev.to/gdg/google-antigravity-comes-to-vs-code-agentic-coding-without-leaving-your-editor-2nkg)
+📅 Sat, 29 Aug 2026 12:58:53 GMT
+👤 By: Caleb Duff | 📌 Source: Dev.to
+
+![Google Antigravity Comes to VS Code: Agentic Coding Without Leaving Your Editor](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F81v4rmcahxgd4si3aemg.png)
+
+If you've tried an "agentic" AI coding tool recently, there's a good chance it asked you to switch...
+
+🏷️ Tags: `antigravity`, `vscode`, `ai`, `webdev`
+
+---
+
+#### 3. [Why AI Websites All Look the Same and How to Build Something Different](https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan)
+📅 Sat, 29 Aug 2026 01:38:54 GMT
+👤 By: Mfonobong Umondia | 📌 Source: Dev.to
+
+![Why AI Websites All Look the Same and How to Build Something Different](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png)
+
+If you've built a website with AI recently, there is a good chance it looks familiar. Maybe you have...
+
+🏷️ Tags: `ai`, `webdev`, `design`, `productivity`
+
+---
+
+#### 4. [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+📅 Sun, 23 Aug 2026 20:09:04 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mix and Match: Serving an ADK Agent to AWS and Azure](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fldkp3by81iv7vc4gdcky.png)
+
+A Google ADK agent on Cloud Run, serving A2A to clients that are not ADK — a Strands agent on Bedrock AgentCore and an Agent Framework agent on Container Apps. The card that advertises your bind address, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 5. [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g)
+📅 Mon, 17 Aug 2026 14:40:58 GMT
+👤 By: FrancisTRᴅᴇᴠ (っ◔◡◔)っ | 📌 Source: Dev.to
+
+![Git Gud!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxgx172uk117loqmhycay.gif)
+
+You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...
+
+🏷️ Tags: `discuss`, `community`, `git`, `productivity`
+
+---
+
+#### 6. [[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go](https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o)
+📅 Thu, 27 Aug 2026 04:13:56 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnaugad5rry7u00pyg8wh.png)
+
+Background   In the AI era, even I delegate most of my code optimization or writing tasks...
+
+🏷️ Tags: `ai`, `go`, `programming`, `refactoring`
+
+---
+
+#### 7. [I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://dev.to/debashish_ghosal/i-stopped-trusting-ai-agents-with-tools-so-i-built-a-gatekeeper-26fb)
+📅 Thu, 13 Aug 2026 06:43:24 GMT
+👤 By: Debashish Ghosal | 📌 Source: Dev.to
+
+![I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr97gsrqar0qk7ejjibih.png)
+
+Update 08/15 0.2.0 Released   github.com/deghosal-2026/agent-tooltrust · pip install agent-tooltrust...
+
+🏷️ Tags: `ai`, `agents`, `security`, `gatekeeper`
+
+---
+
+#### 8. [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
+📅 Wed, 19 Aug 2026 11:08:16 GMT
+👤 By: marcosomma | 📌 Source: Dev.to
+
+![I Write Less Code Than I Used To. That May Be the Point.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4z131nuq0nja0o5gj35.png)
+
+Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...
+
+🏷️ Tags: `ai`, `programming`, `productivity`, `python`
+
+---
+
+#### 9. [ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://dev.to/gde/adk-beyond-its-own-tests-what-happens-when-your-agent-answers-a-client-that-is-not-adk-6f9)
+📅 Thu, 20 Aug 2026 13:25:09 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![ADK Beyond Its Own Tests: What Happens When Your Agent Answers a Client That Is Not ADK](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fluczz9ypxa27gplmiik3.png)
+
+One ADK agent on Cloud Run, serving A2A to clients built on Strands and Microsoft Agent Framework, next to two agents that are not Google's. The ADK-specific findings — to_a2a() and the agent card, the reply that arrives twice, the event stream once a tool exists, and what Cloud Run brings to the mesh.
+
+🏷️ Tags: `googlecloud`, `gemini`, `a2a`, `aiagents`
+
+---
+
+#### 10. [My AI Content Journey](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p)
+📅 Wed, 19 Aug 2026 16:47:10 GMT
+👤 By: Ryan Carniato | 📌 Source: Dev.to
+
+![My AI Content Journey](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft7fgab29vtqhencvqukv.png)
+
+I apologize ahead of time, what follows has no tooling applied to it. No grammar checks, no AI, and...
+
+🏷️ Tags: `ai`, `webdev`, `devjournal`
+
+---
+
