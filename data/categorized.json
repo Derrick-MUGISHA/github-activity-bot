@@ -60,21 +60,6 @@
       "user": "Ashley Childress"
     },
     {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
       "url": "https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l",
       "published_at": "2026-08-27T01:07:01Z",
@@ -193,6 +178,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fetzdt7hhuakpmcdhhlzi.png",
       "source": "Dev.to",
       "user": "Eugeniya Ivanova"
+    },
+    {
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
+      "published_at": "2026-08-27T07:37:45Z",
+      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents",
+        "vectordatabase"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
+      "source": "Dev.to",
+      "user": "Ben Greenberg"
     },
     {
       "title": "[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go",
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 167,
+      "stars": 169,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -745,38 +745,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 75,
       "user": "DavidCarliez"
     },
     {
-      "title": "growingsqueeg/AI-Photo-Restorer-Upscaler-Windows - AI Photo Restorer & Upscaler for Windows focused on old, low-resolution and damaged images with local enhancement, sharpening, upscale presets, facial recovery, batch export and reusable profile settings.",
-      "url": "https://github.com/growingsqueeg/AI-Photo-Restorer-Upscaler-Windows",
-      "published_at": "2026-08-27T19:17:36Z",
-      "description": "AI Photo Restorer & Upscaler for Windows focused on old, low-resolution and damaged images with local enhancement, sharpening, upscale presets, facial recovery, batch export and reusable profile settings.",
+      "title": "incompletepi/Project-Zomboid-Lag-Crash-Fix-2026 - Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
+      "url": "https://github.com/incompletepi/Project-Zomboid-Lag-Crash-Fix-2026",
+      "published_at": "2026-08-24T19:51:46Z",
+      "description": "Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212518724?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209298247?v=4",
       "source": "GitHub",
-      "stars": 40,
-      "user": "growingsqueeg"
-    },
-    {
-      "title": "ikermy/air_tguserbot - air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
-      "url": "https://github.com/ikermy/air_tguserbot",
-      "published_at": "2026-08-25T17:52:52Z",
-      "description": "air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148149347?v=4",
-      "source": "GitHub",
-      "stars": 34,
-      "user": "ikermy"
+      "stars": 38,
+      "user": "incompletepi"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -790,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 1003,
       "user": "XiaoDuoYa"
     },
     {
@@ -805,23 +790,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 801,
       "user": "amosblomqvist"
-    },
-    {
-      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "published_at": "2026-08-25T15:12:20Z",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "JordyZomer/lemmalog - A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
@@ -835,7 +805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 155,
       "user": "JordyZomer"
     },
     {
@@ -850,20 +820,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "danlamanna"
-    },
-    {
-      "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "published_at": "2026-08-29T01:11:18.866-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "philosophy",
-        "practices",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "luiz"
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
@@ -1119,21 +1075,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
-      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
-      "published_at": "2026-08-27T07:37:45Z",
-      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents",
-        "vectordatabase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
-      "source": "Dev.to",
-      "user": "Ben Greenberg"
-    },
-    {
       "title": "Go Completely Offline: Build a Privacy-First Personal Finance Assistant with LiteRT and Gemma 4",
       "url": "https://dev.to/railsstudent/go-completely-offline-build-a-privacy-first-personal-finance-assistant-with-litert-and-gemma-4-227l",
       "published_at": "2026-08-27T01:07:01Z",
@@ -1147,6 +1088,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgifh0q5eh6936btgahrf.jpeg",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "url": "https://dev.to/bengreenberg/vector-search-is-still-the-memory-layer-agents-actually-need-50dn",
+      "published_at": "2026-08-27T07:37:45Z",
+      "description": "When I was working on Vector Search with JavaScript, vector search was a hot topic. By the time the ...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents",
+        "vectordatabase"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu6tdvdadgk26u0rpias8.png",
+      "source": "Dev.to",
+      "user": "Ben Greenberg"
     },
     {
       "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
@@ -1286,18 +1242,6 @@
       "user": "SigmundurM"
     },
     {
-      "title": "Show HN: Meteor, a realtime JavaScript framework",
-      "url": "http://www.meteor.com",
-      "published_at": "2012-04-10T22:55:40Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "geoffschmidt"
-    },
-    {
       "title": "Eloquent JavaScript 4th edition (2024)",
       "url": "https://eloquentjavascript.net/",
       "published_at": "2024-03-07T13:52:16Z",
@@ -1308,18 +1252,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "vajdagabor"
-    },
-    {
-      "title": "Modern Javascript: Everything you missed over the last 10 years (2020)",
-      "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
-      "published_at": "2021-05-15T15:15:57Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "EntICOnc"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -1358,6 +1290,30 @@
       "user": "velmu"
     },
     {
+      "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/15012",
+      "published_at": "2025-11-12T10:12:53Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "bertman"
+    },
+    {
+      "title": "Show HN: RoughJS – Create hand-drawn graphics using JavaScript",
+      "url": "http://roughjs.com/",
+      "published_at": "2018-03-12T21:28:17Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "shihn"
+    },
+    {
       "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "url": "https://github.com/OnlyTerp/opengrok",
       "published_at": "2026-08-27T18:30:44Z",
@@ -1369,7 +1325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 373,
       "user": "OnlyTerp"
     },
     {
@@ -1388,6 +1344,21 @@
       "user": "czm15053"
     },
     {
+      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+      "published_at": "2026-08-24T13:07:30Z",
+      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "yizhiyanhua-ai"
+    },
+    {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
       "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
       "published_at": "2026-08-27T09:54:07Z",
@@ -1401,21 +1372,6 @@
       "source": "GitHub",
       "stars": 167,
       "user": "Cleverfuxaqo1668"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "yizhiyanhua-ai"
     },
     {
       "title": "zhuyifang/tonghuasun-agent - 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
@@ -1444,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1077,
       "user": "wide-trace"
     },
     {
@@ -1459,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 1003,
       "user": "XiaoDuoYa"
     },
     {
@@ -1474,23 +1430,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 801,
       "user": "amosblomqvist"
-    },
-    {
-      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "published_at": "2026-08-25T15:12:20Z",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "jub0t/WolfCut - Free & Open-Source CapCut replacement.",
@@ -1504,8 +1445,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 488,
       "user": "jub0t"
+    },
+    {
+      "title": "kacperkapusciak/goldie - ✨ agentic app store previews and screenshots",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "published_at": "2026-08-24T12:36:59Z",
+      "description": "✨ agentic app store previews and screenshots",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
+      "source": "GitHub",
+      "stars": 454,
+      "user": "kacperkapusciak"
     },
     {
       "title": "Introducing ReactOS 0.4.16",
@@ -1521,12 +1477,25 @@
       "user": "bb010g"
     },
     {
+      "title": "How do I make the menu button open the nav menu in media queries",
+      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
+      "published_at": "2026-08-30T03:26:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "August"
+    },
+    {
       "title": "How can I detect and visualize multiple touch points with JavaScript?",
       "url": "https://stackoverflow.com/questions/79999272/how-can-i-detect-and-visualize-multiple-touch-points-with-javascript",
       "published_at": "2026-08-29T19:45:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
-        "advice",
         "javascript",
         "web",
         "touch",
@@ -1564,19 +1533,6 @@
       "user": "Firestar001"
     },
     {
-      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
-      "published_at": "2026-08-29T05:04:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shane watson"
-    },
-    {
       "title": "In Playwright, should browser launching and page interaction steps be separated?",
       "url": "https://stackoverflow.com/questions/79999130/in-playwright-should-browser-launching-and-page-interaction-steps-be-separated",
       "published_at": "2026-08-29T04:10:10.000Z",
@@ -1589,6 +1545,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Merelie Bincal"
+    },
+    {
+      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
+      "published_at": "2026-08-29T05:04:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shane watson"
     },
     {
       "title": "How does a Playwright locator behave when the matched DOM element is replaced?",
@@ -1646,22 +1615,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
-    },
-    {
-      "title": "Safe alternative to new Function() for executing compiled JS string in browser",
-      "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
-      "published_at": "2026-08-27T16:37:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "security",
-        "eval",
-        "sandbox",
-        "web-worker"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kapikulu"
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -1873,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2933,
+      "stars": 3217,
       "user": "sapientinc"
     },
     {
@@ -1888,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 914,
       "user": "Tencent"
     },
     {
@@ -1903,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 682,
       "user": "tradecatlabs"
     },
     {
@@ -1918,7 +1871,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 560,
       "user": "jprx"
     },
     {
@@ -1933,14 +1886,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 553,
       "user": "lxf746"
     },
     {
       "title": "My project with classes and encapsulation in Python programming language",
       "url": "https://stackoverflow.com/questions/79999281/my-project-with-classes-and-encapsulation-in-python-programming-language",
       "published_at": "2026-08-29T20:49:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "class"
@@ -1948,60 +1901,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "bash"
-    },
-    {
-      "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
-      "url": "https://stackoverflow.com/questions/79999259/how-to-resolve-typeerror-issubclass-arg-1-must-be-a-class-when-issubclass-w",
-      "published_at": "2026-08-29T18:26:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "asynchronous",
-        "bots"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Benjamin Tsoumagas"
-    },
-    {
-      "title": "Why Does an Identity Comparison Using id() Evaluate to False?",
-      "url": "https://stackoverflow.com/questions/79999271/why-does-an-identity-comparison-using-id-evaluate-to-false",
-      "published_at": "2026-08-29T19:45:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "advice",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nubspec"
-    },
-    {
-      "title": "Using ast.parse to evaluate arithmetic expression safely",
-      "url": "https://stackoverflow.com/questions/79999255/using-ast-parse-to-evaluate-arithmetic-expression-safely",
-      "published_at": "2026-08-29T17:48:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "best-practices",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "jason lo"
-    },
-    {
-      "title": "Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?",
-      "url": "https://stackoverflow.com/questions/79999250/why-does-my-stoat-py-code-run-without-issues-but-the-bot-doesnt-go-online-respo",
-      "published_at": "2026-08-29T16:47:50.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "asynchronous",
-        "bots"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Benjamin Tsoumagas"
     },
     {
       "title": "Python and visual studio community",
@@ -2016,6 +1915,60 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "EcDhyne"
+    },
+    {
+      "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
+      "url": "https://stackoverflow.com/questions/79999259/how-to-resolve-typeerror-issubclass-arg-1-must-be-a-class-when-issubclass-w",
+      "published_at": "2026-08-29T18:26:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "asynchronous",
+        "bots"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
+    },
+    {
+      "title": "Using ast.parse to evaluate arithmetic expression safely",
+      "url": "https://stackoverflow.com/questions/79999255/using-ast-parse-to-evaluate-arithmetic-expression-safely",
+      "published_at": "2026-08-29T17:48:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "jason lo"
+    },
+    {
+      "title": "Why Does an Identity Comparison Using id() Evaluate to False?",
+      "url": "https://stackoverflow.com/questions/79999271/why-does-an-identity-comparison-using-id-evaluate-to-false",
+      "published_at": "2026-08-29T19:45:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nubspec"
+    },
+    {
+      "title": "Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?",
+      "url": "https://stackoverflow.com/questions/79999250/why-does-my-stoat-py-code-run-without-issues-but-the-bot-doesnt-go-online-respo",
+      "published_at": "2026-08-29T16:47:50.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "asynchronous",
+        "bots"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Benjamin Tsoumagas"
     },
     {
       "title": "Python match-case vs. dictionary performance internals",
@@ -2426,6 +2379,20 @@
       "user": "danlamanna"
     },
     {
+      "title": "How do I make the menu button open the nav menu in media queries",
+      "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
+      "published_at": "2026-08-30T03:26:33.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "August"
+    },
+    {
       "title": "Hiding multiple selections of a drop down",
       "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
       "published_at": "2026-08-29T00:04:05.000Z",
@@ -2526,7 +2493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 560,
       "user": "jprx"
     },
     {
@@ -2689,7 +2656,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "context-labs"
     },
     {
@@ -3030,22 +2997,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
-    },
-    {
-      "title": "Safe alternative to new Function() for executing compiled JS string in browser",
-      "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
-      "published_at": "2026-08-27T16:37:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "security",
-        "eval",
-        "sandbox",
-        "web-worker"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kapikulu"
     }
   ],
   "Tools": [
@@ -3231,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 373,
       "user": "OnlyTerp"
     },
     {
@@ -3250,6 +3201,21 @@
       "user": "czm15053"
     },
     {
+      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
+      "published_at": "2026-08-24T13:07:30Z",
+      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
+      "source": "GitHub",
+      "stars": 169,
+      "user": "yizhiyanhua-ai"
+    },
+    {
       "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot - GitHub Repository",
       "url": "https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
       "published_at": "2026-08-27T09:54:07Z",
@@ -3263,21 +3229,6 @@
       "source": "GitHub",
       "stars": 167,
       "user": "Cleverfuxaqo1668"
-    },
-    {
-      "title": "yizhiyanhua-ai/fireworks-open-eli5 - Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-open-eli5",
-      "published_at": "2026-08-24T13:07:30Z",
-      "description": "Evidence-aware interactive visual explainers for Codex and Claude Code.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
-      "source": "GitHub",
-      "stars": 167,
-      "user": "yizhiyanhua-ai"
     },
     {
       "title": "zhuyifang/tonghuasun-agent - 在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
@@ -3306,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 2933,
+      "stars": 3217,
       "user": "sapientinc"
     },
     {
@@ -3321,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 903,
+      "stars": 914,
       "user": "Tencent"
     },
     {
@@ -3336,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 682,
       "user": "tradecatlabs"
     },
     {
@@ -3351,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 560,
       "user": "jprx"
     },
     {
@@ -3366,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 553,
       "user": "lxf746"
     },
     {
@@ -3381,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 485,
       "user": "chrisgreg"
     },
     {
@@ -3396,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 62,
+      "stars": 75,
       "user": "DavidCarliez"
     },
     {
@@ -3411,38 +3362,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/125929854?v=4",
       "source": "GitHub",
-      "stars": 55,
+      "stars": 56,
       "user": "context-labs"
     },
     {
-      "title": "growingsqueeg/AI-Photo-Restorer-Upscaler-Windows - AI Photo Restorer & Upscaler for Windows focused on old, low-resolution and damaged images with local enhancement, sharpening, upscale presets, facial recovery, batch export and reusable profile settings.",
-      "url": "https://github.com/growingsqueeg/AI-Photo-Restorer-Upscaler-Windows",
-      "published_at": "2026-08-27T19:17:36Z",
-      "description": "AI Photo Restorer & Upscaler for Windows focused on old, low-resolution and damaged images with local enhancement, sharpening, upscale presets, facial recovery, batch export and reusable profile settings.",
+      "title": "incompletepi/Project-Zomboid-Lag-Crash-Fix-2026 - Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
+      "url": "https://github.com/incompletepi/Project-Zomboid-Lag-Crash-Fix-2026",
+      "published_at": "2026-08-24T19:51:46Z",
+      "description": "Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/212518724?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/209298247?v=4",
       "source": "GitHub",
-      "stars": 40,
-      "user": "growingsqueeg"
+      "stars": 38,
+      "user": "incompletepi"
     },
     {
-      "title": "ikermy/air_tguserbot - air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
-      "url": "https://github.com/ikermy/air_tguserbot",
-      "published_at": "2026-08-25T17:52:52Z",
-      "description": "air_tguserbot is a text-voiceTelegram UserBot service within the marusia_ai ecosystem. It provides a complete Telegram session authorization cycle with HTTP/WebSocket API for bot management and message exchange. gRPC API for handling outgoing voice calls and call flows with AI agents. Support for voice assistants capable of answering incoming calls",
+      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows 11 without any hassle.",
+      "url": "https://github.com/tsouth89/try-omarchy-windows",
+      "published_at": "2026-08-28T00:13:28Z",
+      "description": "Use Omarchy Linux on Windows 11 without any hassle.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148149347?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
       "source": "GitHub",
-      "stars": 34,
-      "user": "ikermy"
+      "stars": 35,
+      "user": "tsouth89"
     },
     {
       "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
@@ -3456,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1067,
+      "stars": 1077,
       "user": "wide-trace"
     },
     {
@@ -3471,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 916,
+      "stars": 1003,
       "user": "XiaoDuoYa"
     },
     {
@@ -3486,23 +3437,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 767,
+      "stars": 801,
       "user": "amosblomqvist"
-    },
-    {
-      "title": "gtlhuyidan-sketch/life-ipo - 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "published_at": "2026-08-25T15:12:20Z",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/281520062?v=4",
-      "source": "GitHub",
-      "stars": 448,
-      "user": "gtlhuyidan-sketch"
     },
     {
       "title": "jub0t/WolfCut - Free & Open-Source CapCut replacement.",
@@ -3516,8 +3452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 488,
       "user": "jub0t"
+    },
+    {
+      "title": "kacperkapusciak/goldie - ✨ agentic app store previews and screenshots",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "published_at": "2026-08-24T12:36:59Z",
+      "description": "✨ agentic app store previews and screenshots",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
+      "source": "GitHub",
+      "stars": 454,
+      "user": "kacperkapusciak"
     },
     {
       "title": "crmne/fastpotify - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
@@ -3531,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 498,
+      "stars": 513,
       "user": "crmne"
     },
     {
@@ -3546,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 155,
       "user": "JordyZomer"
     },
     {
@@ -3576,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 112,
+      "stars": 114,
       "user": "pgrundev"
     },
     {
@@ -3595,18 +3546,16 @@
       "user": "mdspan"
     },
     {
-      "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-      "published_at": "2026-08-29T01:11:18.866-05:00",
+      "title": "There's no such thing as Just a Tool",
+      "url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+      "published_at": "2026-08-29T22:59:05.712-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "philosophy",
-        "practices",
-        "vibecoding"
+        "philosophy"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "luiz"
+      "user": "kirch"
     },
     {
       "title": "How to Automate Your Tests in Express Using Vitest",
