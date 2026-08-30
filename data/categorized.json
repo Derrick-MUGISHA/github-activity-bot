@@ -715,7 +715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "czm15053"
     },
     {
@@ -730,7 +730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -745,7 +745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 164,
       "user": "DavidCarliez"
     },
     {
@@ -775,7 +775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1164,
       "user": "XiaoDuoYa"
     },
     {
@@ -790,7 +790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 822,
       "user": "amosblomqvist"
     },
     {
@@ -805,21 +805,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 168,
       "user": "JordyZomer"
-    },
-    {
-      "title": "LLM usage in Debian neither endorsed nor prohibited",
-      "url": "https://www.debian.org/vote/2026/vote_002#texte",
-      "published_at": "2026-08-28T20:40:59.732-05:00",
-      "description": "The official announcement with the breakdown of votes is [here](https://lists.debian.org/debian-vote/2026/08/msg00360.html), but option 5 has won.",
-      "tags": [
-        "linux",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "danlamanna"
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
@@ -1242,6 +1229,18 @@
       "user": "SigmundurM"
     },
     {
+      "title": "Show HN: Meteor, a realtime JavaScript framework",
+      "url": "http://www.meteor.com",
+      "published_at": "2012-04-10T22:55:40Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "geoffschmidt"
+    },
+    {
       "title": "Eloquent JavaScript 4th edition (2024)",
       "url": "https://eloquentjavascript.net/",
       "published_at": "2024-03-07T13:52:16Z",
@@ -1252,6 +1251,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "vajdagabor"
+    },
+    {
+      "title": "Modern Javascript: Everything you missed over the last 10 years (2020)",
+      "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+      "published_at": "2021-05-15T15:15:57Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "EntICOnc"
     },
     {
       "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
@@ -1290,30 +1301,6 @@
       "user": "velmu"
     },
     {
-      "title": "Yt-dlp: External JavaScript runtime now required for full YouTube support",
-      "url": "https://github.com/yt-dlp/yt-dlp/issues/15012",
-      "published_at": "2025-11-12T10:12:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "bertman"
-    },
-    {
-      "title": "Show HN: RoughJS – Create hand-drawn graphics using JavaScript",
-      "url": "http://roughjs.com/",
-      "published_at": "2018-03-12T21:28:17Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "shihn"
-    },
-    {
       "title": "OnlyTerp/opengrok - Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
       "url": "https://github.com/OnlyTerp/opengrok",
       "published_at": "2026-08-27T18:30:44Z",
@@ -1325,7 +1312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "OnlyTerp"
     },
     {
@@ -1340,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "czm15053"
     },
     {
@@ -1355,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -1385,23 +1372,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "zhuyifang"
-    },
-    {
-      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "url": "https://github.com/wide-trace/open-higgsfield",
-      "published_at": "2026-08-26T06:09:58Z",
-      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
-      "source": "GitHub",
-      "stars": 1077,
-      "user": "wide-trace"
     },
     {
       "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
@@ -1415,8 +1387,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1164,
       "user": "XiaoDuoYa"
+    },
+    {
+      "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "url": "https://github.com/wide-trace/open-higgsfield",
+      "published_at": "2026-08-26T06:09:58Z",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
+      "source": "GitHub",
+      "stars": 1037,
+      "user": "wide-trace"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -1430,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 822,
       "user": "amosblomqvist"
     },
     {
@@ -1445,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 538,
       "user": "jub0t"
     },
     {
@@ -1460,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 529,
       "user": "kacperkapusciak"
     },
     {
@@ -1480,7 +1467,7 @@
       "title": "How do I make the menu button open the nav menu in media queries",
       "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
       "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1533,6 +1520,19 @@
       "user": "Firestar001"
     },
     {
+      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
+      "published_at": "2026-08-29T05:04:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "javascript",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shane watson"
+    },
+    {
       "title": "In Playwright, should browser launching and page interaction steps be separated?",
       "url": "https://stackoverflow.com/questions/79999130/in-playwright-should-browser-launching-and-page-interaction-steps-be-separated",
       "published_at": "2026-08-29T04:10:10.000Z",
@@ -1545,19 +1545,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Merelie Bincal"
-    },
-    {
-      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
-      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
-      "published_at": "2026-08-29T05:04:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "shane watson"
     },
     {
       "title": "How does a Playwright locator behave when the matched DOM element is replaced?",
@@ -1589,19 +1576,6 @@
       "user": "Alberto Benedetto"
     },
     {
-      "title": "Clarification on ES6 Modules",
-      "url": "https://stackoverflow.com/questions/79998866/clarification-on-es6-modules",
-      "published_at": "2026-08-28T06:39:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "es6-modules"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manngo"
-    },
-    {
       "title": "How to prevent googles recaptcha v2 box to load multiple times (onclick script)",
       "url": "https://stackoverflow.com/questions/79998764/how-to-prevent-googles-recaptcha-v2-box-to-load-multiple-times-onclick-script",
       "published_at": "2026-08-27T18:43:52.000Z",
@@ -1615,6 +1589,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Malte K"
+    },
+    {
+      "title": "Safe alternative to new Function() for executing compiled JS string in browser",
+      "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
+      "published_at": "2026-08-27T16:37:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "security",
+        "eval",
+        "sandbox",
+        "web-worker"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kapikulu"
     },
     {
       "title": "How to Get Reliable Structured Data Out of an LLM",
@@ -1826,7 +1816,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 3217,
+      "stars": 3233,
       "user": "sapientinc"
     },
     {
@@ -1841,7 +1831,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 918,
       "user": "Tencent"
     },
     {
@@ -1856,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 724,
       "user": "tradecatlabs"
     },
     {
@@ -1871,7 +1861,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 581,
       "user": "jprx"
     },
     {
@@ -1886,35 +1876,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 562,
       "user": "lxf746"
     },
     {
-      "title": "My project with classes and encapsulation in Python programming language",
-      "url": "https://stackoverflow.com/questions/79999281/my-project-with-classes-and-encapsulation-in-python-programming-language",
-      "published_at": "2026-08-29T20:49:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "class"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "bash"
-    },
-    {
-      "title": "Python and visual studio community",
-      "url": "https://stackoverflow.com/questions/79999212/python-and-visual-studio-community",
-      "published_at": "2026-08-29T14:27:41.000Z",
+      "title": "Why does NumPy slicing with a positive step return an empty array when start index is greater than end index?",
+      "url": "https://stackoverflow.com/questions/79999345/why-does-numpy-slicing-with-a-positive-step-return-an-empty-array-when-start-ind",
+      "published_at": "2026-08-30T09:12:18.000Z",
       "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "visual-studio",
-        "intellisense"
+        "arrays",
+        "numpy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "EcDhyne"
+      "user": "Arsh Kumar"
     },
     {
       "title": "How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?",
@@ -1947,7 +1924,7 @@
       "title": "Why Does an Identity Comparison Using id() Evaluate to False?",
       "url": "https://stackoverflow.com/questions/79999271/why-does-an-identity-comparison-using-id-evaluate-to-false",
       "published_at": "2026-08-29T19:45:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "advice",
         "python"
@@ -2026,6 +2003,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Lazaruss"
+    },
+    {
+      "title": "how do i make a program with tkinter that lets me add a word and its meaning",
+      "url": "https://stackoverflow.com/questions/79999041/how-do-i-make-a-program-with-tkinter-that-lets-me-add-a-word-and-its-meaning",
+      "published_at": "2026-08-28T18:26:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gabriel Oyetade"
     },
     {
       "title": "Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets",
@@ -2366,23 +2356,10 @@
       "user": "velmu"
     },
     {
-      "title": "LLM usage in Debian neither endorsed nor prohibited",
-      "url": "https://www.debian.org/vote/2026/vote_002#texte",
-      "published_at": "2026-08-28T20:40:59.732-05:00",
-      "description": "The official announcement with the breakdown of votes is [here](https://lists.debian.org/debian-vote/2026/08/msg00360.html), but option 5 has won.",
-      "tags": [
-        "linux",
-        "vibecoding"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "danlamanna"
-    },
-    {
       "title": "How do I make the menu button open the nav menu in media queries",
       "url": "https://stackoverflow.com/questions/79999312/how-do-i-make-the-menu-button-open-the-nav-menu-in-media-queries",
       "published_at": "2026-08-30T03:26:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2493,7 +2470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 581,
       "user": "jprx"
     },
     {
@@ -2997,6 +2974,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "ewenjo"
+    },
+    {
+      "title": "Safe alternative to new Function() for executing compiled JS string in browser",
+      "url": "https://stackoverflow.com/questions/79998729/safe-alternative-to-new-function-for-executing-compiled-js-string-in-browser",
+      "published_at": "2026-08-27T16:37:24.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "security",
+        "eval",
+        "sandbox",
+        "web-worker"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kapikulu"
     }
   ],
   "Tools": [
@@ -3182,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/121772140?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 376,
       "user": "OnlyTerp"
     },
     {
@@ -3197,7 +3190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266233731?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 262,
       "user": "czm15053"
     },
     {
@@ -3212,7 +3205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/251871046?v=4",
       "source": "GitHub",
-      "stars": 169,
+      "stars": 172,
       "user": "yizhiyanhua-ai"
     },
     {
@@ -3242,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16346219?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 153,
       "user": "zhuyifang"
     },
     {
@@ -3257,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/188930505?v=4",
       "source": "GitHub",
-      "stars": 3217,
+      "stars": 3233,
       "user": "sapientinc"
     },
     {
@@ -3272,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 918,
       "user": "Tencent"
     },
     {
@@ -3287,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/288998340?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 724,
       "user": "tradecatlabs"
     },
     {
@@ -3302,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/36464332?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 581,
       "user": "jprx"
     },
     {
@@ -3317,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/216264444?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 562,
       "user": "lxf746"
     },
     {
@@ -3332,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5280429?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 514,
       "user": "chrisgreg"
     },
     {
@@ -3347,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/271374756?v=4",
       "source": "GitHub",
-      "stars": 75,
+      "stars": 164,
       "user": "DavidCarliez"
     },
     {
@@ -3366,6 +3359,21 @@
       "user": "context-labs"
     },
     {
+      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows 11 without any hassle.",
+      "url": "https://github.com/tsouth89/try-omarchy-windows",
+      "published_at": "2026-08-28T00:13:28Z",
+      "description": "Use Omarchy Linux on Windows 11 without any hassle.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
+      "source": "GitHub",
+      "stars": 40,
+      "user": "tsouth89"
+    },
+    {
       "title": "incompletepi/Project-Zomboid-Lag-Crash-Fix-2026 - Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.",
       "url": "https://github.com/incompletepi/Project-Zomboid-Lag-Crash-Fix-2026",
       "published_at": "2026-08-24T19:51:46Z",
@@ -3381,19 +3389,19 @@
       "user": "incompletepi"
     },
     {
-      "title": "tsouth89/try-omarchy-windows - Use Omarchy Linux on Windows 11 without any hassle.",
-      "url": "https://github.com/tsouth89/try-omarchy-windows",
-      "published_at": "2026-08-28T00:13:28Z",
-      "description": "Use Omarchy Linux on Windows 11 without any hassle.",
+      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "published_at": "2026-08-28T12:57:24Z",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
       "tags": [
-        "go",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/258147599?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
       "source": "GitHub",
-      "stars": 35,
-      "user": "tsouth89"
+      "stars": 1164,
+      "user": "XiaoDuoYa"
     },
     {
       "title": "wide-trace/open-higgsfield - A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
@@ -3407,23 +3415,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321257738?v=4",
       "source": "GitHub",
-      "stars": 1077,
+      "stars": 1037,
       "user": "wide-trace"
-    },
-    {
-      "title": "XiaoDuoYa/codex-with-chatgpt - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "published_at": "2026-08-28T12:57:24Z",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113528266?v=4",
-      "source": "GitHub",
-      "stars": 1003,
-      "user": "XiaoDuoYa"
     },
     {
       "title": "amosblomqvist/learn - My AI learning system.",
@@ -3437,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/255718537?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 822,
       "user": "amosblomqvist"
     },
     {
@@ -3452,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/57962439?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 538,
       "user": "jub0t"
     },
     {
@@ -3467,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39658211?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 529,
       "user": "kacperkapusciak"
     },
     {
@@ -3482,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/106617?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 521,
       "user": "crmne"
     },
     {
@@ -3497,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17198473?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 168,
       "user": "JordyZomer"
     },
     {
@@ -3527,23 +3520,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/300654937?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 117,
       "user": "pgrundev"
     },
     {
-      "title": "mdspan/posix-sync - Idiomatic Rust interface for POSIX synchronisation primitives",
-      "url": "https://github.com/mdspan/posix-sync",
-      "published_at": "2026-08-24T07:31:41Z",
-      "description": "Idiomatic Rust interface for POSIX synchronisation primitives",
+      "title": "soirihiroka/shrimply - A simple video editor",
+      "url": "https://github.com/soirihiroka/shrimply",
+      "published_at": "2026-08-26T01:55:08Z",
+      "description": "A simple video editor",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/256296755?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/133444309?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "mdspan"
+      "stars": 90,
+      "user": "soirihiroka"
     },
     {
       "title": "There's no such thing as Just a Tool",
